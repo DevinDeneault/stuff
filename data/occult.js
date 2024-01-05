@@ -1,5 +1,6 @@
 
 const o_hA = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -20,6 +21,7 @@ const o_hA = new Map([
 ]);
 
 const o_h2 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -40,6 +42,7 @@ const o_h2 = new Map([
 ]);
 
 const o_h3 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -60,6 +63,7 @@ const o_h3 = new Map([
 ]);
 
 const o_h4 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -80,6 +84,7 @@ const o_h4 = new Map([
 ]);
 
 const o_h5 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -100,6 +105,7 @@ const o_h5 = new Map([
 ]);
 
 const o_h6 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -120,6 +126,7 @@ const o_h6 = new Map([
 ]);
 
 const o_h7 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -140,6 +147,7 @@ const o_h7 = new Map([
 ]);
 
 const o_h8 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -160,6 +168,7 @@ const o_h8 = new Map([
 ]);
 
 const o_h9 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -180,6 +189,7 @@ const o_h9 = new Map([
 ]);
 
 const o_h10 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -200,6 +210,7 @@ const o_h10 = new Map([
 ]);
 
 const o_hJ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -220,6 +231,7 @@ const o_hJ = new Map([
 ]);
 
 const o_hQ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -240,6 +252,7 @@ const o_hQ = new Map([
 ]);
 
 const o_hK = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -260,6 +273,7 @@ const o_hK = new Map([
 ]);
 
 const o_dA = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -280,6 +294,7 @@ const o_dA = new Map([
 ]);
 
 const o_d2 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -300,6 +315,7 @@ const o_d2 = new Map([
 ]);
 
 const o_d3 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -320,6 +336,7 @@ const o_d3 = new Map([
 ]);
 
 const o_d4 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -340,6 +357,7 @@ const o_d4 = new Map([
 ]);
 
 const o_d5 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -360,6 +378,7 @@ const o_d5 = new Map([
 ]);
 
 const o_d6 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -380,6 +399,7 @@ const o_d6 = new Map([
 ]);
 
 const o_d7 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -400,6 +420,7 @@ const o_d7 = new Map([
 ]);
 
 const o_d8 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -420,6 +441,7 @@ const o_d8 = new Map([
 ]);
 
 const o_d9 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -440,6 +462,7 @@ const o_d9 = new Map([
 ]);
 
 const o_d10 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -460,6 +483,7 @@ const o_d10 = new Map([
 ]);
 
 const o_dJ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -480,6 +504,7 @@ const o_dJ = new Map([
 ]);
 
 const o_dQ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -500,6 +525,7 @@ const o_dQ = new Map([
 ]);
 
 const o_dK = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -520,6 +546,7 @@ const o_dK = new Map([
 ]);
 
 const o_cA = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -540,6 +567,7 @@ const o_cA = new Map([
 ]);
 
 const o_c2 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -560,6 +588,7 @@ const o_c2 = new Map([
 ]);
 
 const o_c3 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -580,6 +609,7 @@ const o_c3 = new Map([
 ]);
 
 const o_c4 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -600,6 +630,7 @@ const o_c4 = new Map([
 ]);
 
 const o_c5 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -620,6 +651,7 @@ const o_c5 = new Map([
 ]);
 
 const o_c6 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -640,6 +672,7 @@ const o_c6 = new Map([
 ]);
 
 const o_c7 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -660,6 +693,7 @@ const o_c7 = new Map([
 ]);
 
 const o_c8 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -680,6 +714,7 @@ const o_c8 = new Map([
 ]);
 
 const o_c9 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -700,6 +735,7 @@ const o_c9 = new Map([
 ]);
 
 const o_c10 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -720,6 +756,7 @@ const o_c10 = new Map([
 ]);
 
 const o_cJ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -740,6 +777,7 @@ const o_cJ = new Map([
 ]);
 
 const o_cQ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -760,6 +798,7 @@ const o_cQ = new Map([
 ]);
 
 const o_cK = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -780,6 +819,7 @@ const o_cK = new Map([
 ]);
 
 const o_sA = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -800,6 +840,7 @@ const o_sA = new Map([
 ]);
 
 const o_s2 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -820,6 +861,7 @@ const o_s2 = new Map([
 ]);
 
 const o_s3 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -840,6 +882,7 @@ const o_s3 = new Map([
 ]);
 
 const o_s4 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -860,6 +903,7 @@ const o_s4 = new Map([
 ]);
 
 const o_s5 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -880,6 +924,7 @@ const o_s5 = new Map([
 ]);
 
 const o_s6 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -900,6 +945,7 @@ const o_s6 = new Map([
 ]);
 
 const o_s7 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -920,6 +966,7 @@ const o_s7 = new Map([
 ]);
 
 const o_s8 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -940,6 +987,7 @@ const o_s8 = new Map([
 ]);
 
 const o_s9 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -960,6 +1008,7 @@ const o_s9 = new Map([
 ]);
 
 const o_s10 = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -980,6 +1029,7 @@ const o_s10 = new Map([
 ]);
 
 const o_sJ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -1000,6 +1050,7 @@ const o_sJ = new Map([
 ]);
 
 const o_sQ = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -1020,6 +1071,7 @@ const o_sQ = new Map([
 ]);
 
 const o_sK = new Map([
+  ['drawn', false],
   ['card', ''],
   ['name', ''],
   ['traits', [
