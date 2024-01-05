@@ -980,8 +980,8 @@ const a_sK = new Map([
 ]);
 
 export const arcaneDeck = [
-  a_hA, a_h1, a_h2, a_h3, a_h4, a_h5, a_h6, a_h7, a_h8, a_h9, a_hJ, a_hQ, a_hK,
-  a_dA, a_d1, a_d2, a_d3, a_d4, a_d5, a_d6, a_d7, a_d8, a_d9, a_dJ, a_dQ, a_dK,
-  a_cA, a_c1, a_c2, a_c3, a_c4, a_c5, a_c6, a_c7, a_c8, a_c9, a_cJ, a_cQ, a_cK,
-  a_sA, a_s1, a_s2, a_s3, a_s4, a_s5, a_s6, a_s7, a_s8, a_s9, a_sJ, a_sQ, a_sK,
+  a_hA, a_h2, a_h3, a_h4, a_h5, a_h6, a_h7, a_h8, a_h9, a_hJ, a_hQ, a_hK,
+  a_dA, a_d2, a_d3, a_d4, a_d5, a_d6, a_d7, a_d8, a_d9, a_dJ, a_dQ, a_dK,
+  a_cA, a_c2, a_c3, a_c4, a_c5, a_c6, a_c7, a_c8, a_c9, a_cJ, a_cQ, a_cK,
+  a_sA, a_s2, a_s3, a_s4, a_s5, a_s6, a_s7, a_s8, a_s9, a_sJ, a_sQ, a_sK,
 ];
