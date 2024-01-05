@@ -179,6 +179,26 @@ const o_h9 = new Map([
   ]],
 ]);
 
+const o_h10 = new Map([
+  ['card', ''],
+  ['name', ''],
+  ['traits', [
+    '',
+  ]],
+  ['actions', [
+    '',
+  ]],
+  ['description', [
+    '',
+  ]],
+  ['saves', [
+    '',
+  ]],
+  ['upcasts', [
+    '',
+  ]],
+]);
+
 const o_hJ = new Map([
   ['card', ''],
   ['name', ''],
@@ -400,6 +420,26 @@ const o_d8 = new Map([
 ]);
 
 const o_d9 = new Map([
+  ['card', ''],
+  ['name', ''],
+  ['traits', [
+    '',
+  ]],
+  ['actions', [
+    '',
+  ]],
+  ['description', [
+    '',
+  ]],
+  ['saves', [
+    '',
+  ]],
+  ['upcasts', [
+    '',
+  ]],
+]);
+
+const o_d10 = new Map([
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -659,6 +699,26 @@ const o_c9 = new Map([
   ]],
 ]);
 
+const o_c10 = new Map([
+  ['card', ''],
+  ['name', ''],
+  ['traits', [
+    '',
+  ]],
+  ['actions', [
+    '',
+  ]],
+  ['description', [
+    '',
+  ]],
+  ['saves', [
+    '',
+  ]],
+  ['upcasts', [
+    '',
+  ]],
+]);
+
 const o_cJ = new Map([
   ['card', ''],
   ['name', ''],
@@ -720,26 +780,6 @@ const o_cK = new Map([
 ]);
 
 const o_sA = new Map([
-  ['card', ''],
-  ['name', ''],
-  ['traits', [
-    '',
-  ]],
-  ['actions', [
-    '',
-  ]],
-  ['description', [
-    '',
-  ]],
-  ['saves', [
-    '',
-  ]],
-  ['upcasts', [
-    '',
-  ]],
-]);
-
-const o_s1 = new Map([
   ['card', ''],
   ['name', ''],
   ['traits', [
@@ -919,6 +959,26 @@ const o_s9 = new Map([
   ]],
 ]);
 
+const o_s10 = new Map([
+  ['card', ''],
+  ['name', ''],
+  ['traits', [
+    '',
+  ]],
+  ['actions', [
+    '',
+  ]],
+  ['description', [
+    '',
+  ]],
+  ['saves', [
+    '',
+  ]],
+  ['upcasts', [
+    '',
+  ]],
+]);
+
 const o_sJ = new Map([
   ['card', ''],
   ['name', ''],
@@ -980,8 +1040,8 @@ const o_sK = new Map([
 ]);
 
 export const occultDeck = [
-  o_hA, o_h2, o_h3, o_h4, o_h5, o_h6, o_h7, o_h8, o_h9, o_hJ, o_hQ, o_hK,
-  o_dA, o_d2, o_d3, o_d4, o_d5, o_d6, o_d7, o_d8, o_d9, o_dJ, o_dQ, o_dK,
-  o_cA, o_c2, o_c3, o_c4, o_c5, o_c6, o_c7, o_c8, o_c9, o_cJ, o_cQ, o_cK,
-  o_sA, o_s2, o_s3, o_s4, o_s5, o_s6, o_s7, o_s8, o_s9, o_sJ, o_sQ, o_sK,
+  o_hA, o_h2, o_h3, o_h4, o_h5, o_h6, o_h7, o_h8, o_h9, o_h10, o_hJ, o_hQ, o_hK,
+  o_dA, o_d2, o_d3, o_d4, o_d5, o_d6, o_d7, o_d8, o_d9, o_d10, o_dJ, o_dQ, o_dK,
+  o_cA, o_c2, o_c3, o_c4, o_c5, o_c6, o_c7, o_c8, o_c9, o_c10, o_cJ, o_cQ, o_cK,
+  o_sA, o_s2, o_s3, o_s4, o_s5, o_s6, o_s7, o_s8, o_s9, o_s10, o_sJ, o_sQ, o_sK,
 ];
