@@ -1,26 +1,31 @@
 
 const p_hA = new Map([
-  ['card', ''],
-  ['name', ''],
+  ['card', 'A\u2665'],
+  ['name', 'Sudden Resistance'],
   ['traits', [
-    '',
+    'ABJURATION','ACID','COLD','ELECTRICITY','FIRE','SONIC',
   ]],
   ['actions', [
-    '',
+    '<b>Cast</b> \u21bb material',
+    '<b>Range</b> 30 feet; <b>Targets</b> 1 creature',
+    '<b>Trigger</b> a creature within range takes acid, cold, electricity, fire, or sonic damage',
   ]],
   ['description', [
-    '',
+    'You momentarily ward a creature against one type of energy. Choose acid, cold, electricity, fire, or sonic damage. The spell loses the traits of the damage type not chosen. The target and its gear gain resistance 5 against the damage type you chose against the triggering effect.',
   ]],
   ['saves', [
     '',
   ]],
   ['upcasts', [
-    '',
+    '<b>Empower</b> (+1 card) you can target +1 additional creature',
+    '<b>Empower</b> (+3 cards) casting this spell is instead a free action',
+    '<b>Heightened</b> (4th) the resistance increases to 10',
+    '<b>Heightened</b> (7th) the resistance increases to 15',
   ]],
 ]);
 
 const p_h2 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -40,7 +45,7 @@ const p_h2 = new Map([
 ]);
 
 const p_h3 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -60,7 +65,7 @@ const p_h3 = new Map([
 ]);
 
 const p_h4 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -80,7 +85,7 @@ const p_h4 = new Map([
 ]);
 
 const p_h5 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -100,7 +105,7 @@ const p_h5 = new Map([
 ]);
 
 const p_h6 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -120,7 +125,7 @@ const p_h6 = new Map([
 ]);
 
 const p_h7 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -140,7 +145,7 @@ const p_h7 = new Map([
 ]);
 
 const p_h8 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -160,7 +165,7 @@ const p_h8 = new Map([
 ]);
 
 const p_h9 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -180,7 +185,7 @@ const p_h9 = new Map([
 ]);
 
 const p_h10 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -200,7 +205,7 @@ const p_h10 = new Map([
 ]);
 
 const p_hJ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -220,7 +225,7 @@ const p_hJ = new Map([
 ]);
 
 const p_hQ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -240,7 +245,7 @@ const p_hQ = new Map([
 ]);
 
 const p_hK = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -260,7 +265,7 @@ const p_hK = new Map([
 ]);
 
 const p_dA = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -280,7 +285,7 @@ const p_dA = new Map([
 ]);
 
 const p_d2 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -300,7 +305,7 @@ const p_d2 = new Map([
 ]);
 
 const p_d3 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -320,7 +325,7 @@ const p_d3 = new Map([
 ]);
 
 const p_d4 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -340,7 +345,7 @@ const p_d4 = new Map([
 ]);
 
 const p_d5 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -360,7 +365,7 @@ const p_d5 = new Map([
 ]);
 
 const p_d6 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -380,7 +385,7 @@ const p_d6 = new Map([
 ]);
 
 const p_d7 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -400,7 +405,7 @@ const p_d7 = new Map([
 ]);
 
 const p_d8 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -420,7 +425,7 @@ const p_d8 = new Map([
 ]);
 
 const p_d9 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -440,7 +445,7 @@ const p_d9 = new Map([
 ]);
 
 const p_d10 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -460,7 +465,7 @@ const p_d10 = new Map([
 ]);
 
 const p_dJ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -480,7 +485,7 @@ const p_dJ = new Map([
 ]);
 
 const p_dQ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -500,7 +505,7 @@ const p_dQ = new Map([
 ]);
 
 const p_dK = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -520,7 +525,7 @@ const p_dK = new Map([
 ]);
 
 const p_cA = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -540,7 +545,7 @@ const p_cA = new Map([
 ]);
 
 const p_c2 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -560,7 +565,7 @@ const p_c2 = new Map([
 ]);
 
 const p_c3 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -580,7 +585,7 @@ const p_c3 = new Map([
 ]);
 
 const p_c4 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -600,7 +605,7 @@ const p_c4 = new Map([
 ]);
 
 const p_c5 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -620,7 +625,7 @@ const p_c5 = new Map([
 ]);
 
 const p_c6 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -640,7 +645,7 @@ const p_c6 = new Map([
 ]);
 
 const p_c7 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -660,7 +665,7 @@ const p_c7 = new Map([
 ]);
 
 const p_c8 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -680,7 +685,7 @@ const p_c8 = new Map([
 ]);
 
 const p_c9 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -700,7 +705,7 @@ const p_c9 = new Map([
 ]);
 
 const p_c10 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -720,7 +725,7 @@ const p_c10 = new Map([
 ]);
 
 const p_cJ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -740,7 +745,7 @@ const p_cJ = new Map([
 ]);
 
 const p_cQ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -760,7 +765,7 @@ const p_cQ = new Map([
 ]);
 
 const p_cK = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -780,7 +785,7 @@ const p_cK = new Map([
 ]);
 
 const p_sA = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -800,7 +805,7 @@ const p_sA = new Map([
 ]);
 
 const p_s2 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -820,7 +825,7 @@ const p_s2 = new Map([
 ]);
 
 const p_s3 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -840,7 +845,7 @@ const p_s3 = new Map([
 ]);
 
 const p_s4 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -860,7 +865,7 @@ const p_s4 = new Map([
 ]);
 
 const p_s5 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -880,7 +885,7 @@ const p_s5 = new Map([
 ]);
 
 const p_s6 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -900,7 +905,7 @@ const p_s6 = new Map([
 ]);
 
 const p_s7 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -920,7 +925,7 @@ const p_s7 = new Map([
 ]);
 
 const p_s8 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -940,7 +945,7 @@ const p_s8 = new Map([
 ]);
 
 const p_s9 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -960,7 +965,7 @@ const p_s9 = new Map([
 ]);
 
 const p_s10 = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -980,7 +985,7 @@ const p_s10 = new Map([
 ]);
 
 const p_sJ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -1000,7 +1005,7 @@ const p_sJ = new Map([
 ]);
 
 const p_sQ = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
@@ -1020,7 +1025,7 @@ const p_sQ = new Map([
 ]);
 
 const p_sK = new Map([
-  ['card', ''],
+  ['card', '\u2665'],
   ['name', ''],
   ['traits', [
     '',
