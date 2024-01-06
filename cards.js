@@ -80,12 +80,15 @@ function showDeck(deckName) {
     decks.get(deckName).get('cards').forEach(card => {
       const clone = template.content.cloneNode(true);
       const spans = clone.querySelectorAll('span');
-      spans[0].textContent = card.get('card');
-      spans[1].textContent = card.get('suite');
+      spans[0].textContent = padCardName(card.get('card'));
+      if(['diamonds', 'hearts'].includes(card.get('suite'))) {
+        spans[1].classList = 'text-red-700'
+      }
+      spans[1].textContent = suiteSymbol(card.get('suite'));
       const viewBtn = clone.querySelector('[name="view"]');
       viewBtn.onclick = function() { console.log('test1'); }
       const addBtn = clone.querySelector('[name="add"]');
-      addBtn.onclick = function() { addCardToHand(); }
+      addBtn.onclick = function() { addCardToHand(deckName, card.get('card'), card.get('suite')); }
 
       btnContainer.appendChild(clone);
     });
@@ -94,7 +97,46 @@ function showDeck(deckName) {
   }
 }
 
-function addCardToHand() {
+function padCardName(cardName) {
+  if(cardName.length === 1) {
+    return `\u2002${cardName}`;
+  }
+  else {
+    return cardName;
+  }
+}
+
+function deckSymbol(deckName) {
+  switch(deckName) {
+    case 'arcane':
+      return '\uD83C\uDF86';
+    case 'divine':
+      return '\uD83C\uDF1F';
+    case 'occult':
+      return '\uD83D\uDC80';
+    case 'primal':
+      return '\uD83D\uDC3E';
+    default:
+      return '\u2757';
+  } 
+}
+
+function suiteSymbol(suitName) {
+  switch(suitName) {
+    case 'hearts':
+      return '\u2665';
+    case 'diamonds':
+      return '\u2666';
+    case 'clubs':
+      return '\u2663';
+    case 'spades':
+      return '\u2660';
+    default:
+      return '\u2757';
+  } 
+}
+
+function addCardToHand(deckName, cardName, cardSuite) {
   if('content' in document.createElement('template')) {
     const body = gebi('hand');
     const template = gebi('hand-card');
@@ -105,9 +147,12 @@ function addCardToHand() {
     const base = clone.querySelector('div');
     base.id = id;
     const spans = clone.querySelectorAll('span');
-    spans[0].textContent = '\u2728';
-    spans[1].textContent = '4';
-    spans[2].textContent = '\u2665';
+    spans[0].textContent = deckSymbol(deckName);
+    spans[1].textContent = padCardName(cardName);
+    if(['diamonds', 'hearts'].includes(cardSuite)) {
+      spans[2].classList = 'text-red-700'
+    }
+    spans[2].textContent = suiteSymbol(cardSuite);
     const viewBtn = clone.querySelector('[name="view"]');
     viewBtn.onclick = function() { console.log('test1'); }
     const deleteBtn = clone.querySelector('[name="delete"]');
