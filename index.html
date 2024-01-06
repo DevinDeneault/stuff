@@ -11,20 +11,18 @@
 </head>
 <html>
 <body class="bg-nord6 font-mono">
-  <div class="absolute top-0 right-0 left-0 h-16 flex justify-center gap-x-1 p-1 bg-nord0">
-    <div id="arcane" class="btn btn-deck" onclick="selectDeck('arcane');">&#x1F386;</div>
-    <div id="divine" class="btn btn-deck" onclick="selectDeck('divine');">&#x1F31F;</div>
-    <div id="occult" class="btn btn-deck" onclick="selectDeck('occult');">&#x1F480;</div>
-    <div id="primal" class="btn btn-deck" onclick="selectDeck('primal');">&#x1F43E;</div>
+  <div class="absolute top-0 right-0 left-0 h-24 flex justify-center gap-x-1 p-1 bg-nord0">
+    <div id="arcane" class="btn btn-deck" onclick="selectDeck('arcane');"><img src="./images/arcane.png" class="h-8"></div>
+    <div id="divine" class="btn btn-deck" onclick="selectDeck('divine');"><img src="./images/divine.png" class="h-8"></div>
+    <div id="occult" class="btn btn-deck" onclick="selectDeck('occult');"><img src="./images/occult.png" class="h-8"></div>
+    <div id="primal" class="btn btn-deck" onclick="selectDeck('primal');"><img src="./images/primal.png" class="h-8"></div>
   </div>
 
-  <div id="hand" class="absolute top-16 left-0 bottom-0 w-28 p-1 flex flex-col gap-1 bg-nord3 overflow-hidden">
+  <div id="hand" class="absolute top-24 left-0 bottom-0 w-40 p-1 flex flex-col gap-1 bg-nord3 overflow-hidden">
     <div class="font-xl text-center mb-1 select-none border-b border-nord4 font-bold text-nord4">Hand</div>
   </div>
 
-  <div id="content" class="bg-[#F0EEDC] absolute top-16 right-0 left-28 bottom-0 overflow-y-scroll overflow-x-hidden pl-3 pt-2 pb-4 pr-4"></div>
-
-  <div class="disabled hidden flex-wrap w-full gap-2 text-red-700"></div>
+  <div id="content" class="bg-[#F0EEDC] absolute top-24 right-0 left-40 bottom-0 overflow-y-scroll overflow-x-hidden pl-3 pt-2 pb-4 pr-4"></div>
 </body>
 </html>
 
@@ -38,7 +36,9 @@
         <span></span>
       </div>
     </div>
-    <div name="delete" class="btn-delete">&#x78;</div>
+    <div name="delete" class="btn-delete">
+      <img src="./images/delete.png" class="h-4">
+    </div>
   </div>
 </template>
 
@@ -51,7 +51,9 @@
         <span></span>
       </div>
     </div>
-    <div name="add" class="btn-add">&#x2B;</div>
+    <div name="add" class="btn-add">
+      <img src="./images/add.png" class="w-4">
+    </div>
   </div>
 </template>
 
@@ -64,7 +66,7 @@
     </div>
   </div>
   <div class="separator"></div>
-  <div id="traits" class="flex flex-wrap font-bold text-white"></div>
+  <div id="traits" class="flex flex-wrap gap-1 font-bold text-white"></div>
   <div id="actions" class="flex flex-col"></div>
   <div class="separator"></div>
   <div id="description" class="flex flex-col"></div>

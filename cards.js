@@ -17,19 +17,15 @@ document.addEventListener('DOMContentLoaded', () => {
   deckBtns = [arcaneBtn, divineBtn, occultBtn, primalBtn];
   decks = new Map([
     ['arcane', new Map([
-      ['icon', '\uD83C\uDF86'],
       ['cards', arcaneDeck],
     ])],
     ['divine', new Map([
-      ['icon', '\uD83C\uDF1F'],
       ['cards', divineDeck],
     ])],
     ['occult', new Map([
-      ['icon', '\uD83D\uDC80'],
       ['cards', occultDeck],
     ])],
     ['primal', new Map([
-      ['icon', '\uD83D\uDC3E'],
       ['cards', primalDeck],
     ])],
   ]);
