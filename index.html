@@ -6,15 +6,20 @@
   <script type="module" src="cards.js"></script>
 </head>
 <html>
-<body>
-  <div class="absolute top-0 left-0 right-0 h-24 flex justify-center gap-x-1 p-1 bg-sky-500">
+<body class="flex flex-col bg-sky-100">
+  <div class="basis-16 grow-0 shrink-0 flex justify-center gap-x-1 p-1 bg-sky-500">
+    <button id="btn-suite" class="basis-14 grow-0 shrink-0 text-3xl bg-sky-300" onclick="toggleSuite()">&#x1F332;</button>
     <button class="grow text-5xl text-red-700 bg-sky-300">&#x2665;</button>
     <button class="grow text-5xl bg-sky-300">&#x2660;</button>
     <button class="grow text-5xl bg-sky-300">&#x2663;</button>
     <button class="grow text-5xl text-red-700 bg-sky-300">&#x2666;</button>
-    <button class="grow text-5xl bg-sky-300">&#x270b;</button>
   </div>
-  <div class="absolute left-0 right-0 bottom-0 top-24 bg-sky-200">2</div>
-  <div class="absolute left-0 right-0 bottom-0 top-24 hidden bg-sky-200">3</div>
+  <div class="basis-1 p-1 flex flex-wrap gap-1 bg-sky-200">
+    <div class="flex bg-slate-100/50">
+      <div class="py-1 px-2 border-r border-red-900" onclick="console.log('test');">4&#x2665;</div>
+      <div class="py-1 px-3 border-l border-red-700" onclick="tmp()">x</div>
+    </div>
+  </div>
+  <div class=""></div>
 </body>
 </html>

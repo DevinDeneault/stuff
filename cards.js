@@ -3,32 +3,56 @@ import { occultDeck } from './data/occult.js';
 import { arcaneDeck } from './data/arcane.js';
 import { divineDeck } from './data/divine.js';
 
-// console.log(primalDeck.length);
-// console.log(occultDeck.length);
-// console.log(arcaneDeck.length);
-// console.log(divineDeck.length);
+function gebi(name) { return document.getElementById(name); }
 
-// console.log(primalDeck[0]);
+var selectedSuite = 'primal';
+var hand = [];
 
-console.log(primalDeck);
-shuffle(primalDeck);
-console.log(primalDeck);
+console.log(primalDeck.length);
+console.log(occultDeck.length);
+console.log(arcaneDeck.length);
+console.log(divineDeck.length);
 
-// https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
-// Algorithm P (Shuffling)
-function shuffle(deck) {
-  let tmp = undefined;
+console.log(primalDeck[0]);
 
-  for(let i = deck.length - 1; i > 0; i--) {
-    i2 = rand(0, i);
-    tmp = deck[i];
-    deck[i] = deck[i2];
-    deck[i2] = tmp;
+tmp();
+
+function tmp() {
+  console.log(hand);
+}
+
+function toggleSuite() {
+  let newSuite = '';
+  let newBtnText = '';
+
+  switch(selectedSuite) {
+    case 'primal':
+      newSuite = 'occult';
+      newBtnText = '\u1F480';
+      break;
+    case 'occult':
+      newSuite = 'arcane';
+      newBtnText = '\u2728';
+      break;
+    case 'arcane':
+      newSuite = 'divine';
+      newBtnText = '\u1F387';
+      break;
+    case 'divine':
+      newSuite = 'primal';
+      newBtnText = '\u1F332';
+      break;
+    default:
+      newSuite = 'primal';
+      newBtnText = '\u1F332';
   }
+
+  btn = gebi('btn-suite');
+  btn.innerText = newBtnText;
+
+  selectedSuite = newSuite;
 }
 
-function rand(min, max) {
-  return Math.floor(Math.random() * (max - min + 1)) + min;
+function show_card() {
+
 }
-
-
