@@ -1044,7 +1044,7 @@ const p_sK = new Map([
   ]],
 ]);
 
-export const primalDeck = [
+const primalDeck = [
   p_hA, p_h2, p_h3, p_h4, p_h5, p_h6, p_h7, p_h8, p_h9, p_h10, p_hJ, p_hQ, p_hK,
   p_dA, p_d2, p_d3, p_d4, p_d5, p_d6, p_d7, p_d8, p_d9, p_d10, p_dJ, p_dQ, p_dK,
   p_cA, p_c2, p_c3, p_c4, p_c5, p_c6, p_c7, p_c8, p_c9, p_c10, p_cJ, p_cQ, p_cK,

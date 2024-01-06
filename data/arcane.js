@@ -1039,7 +1039,7 @@ const a_sK = new Map([
   ]],
 ]);
 
-export const arcaneDeck = [
+const arcaneDeck = [
   a_hA, a_h2, a_h3, a_h4, a_h5, a_h6, a_h7, a_h8, a_h9, a_h10, a_hJ, a_hQ, a_hK,
   a_dA, a_d2, a_d3, a_d4, a_d5, a_d6, a_d7, a_d8, a_d9, a_d10, a_dJ, a_dQ, a_dK,
   a_cA, a_c2, a_c3, a_c4, a_c5, a_c6, a_c7, a_c8, a_c9, a_c10, a_cJ, a_cQ, a_cK,

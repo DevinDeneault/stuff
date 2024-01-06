@@ -1039,7 +1039,7 @@ const o_sK = new Map([
   ]],
 ]);
 
-export const occultDeck = [
+const occultDeck = [
   o_hA, o_h2, o_h3, o_h4, o_h5, o_h6, o_h7, o_h8, o_h9, o_h10, o_hJ, o_hQ, o_hK,
   o_dA, o_d2, o_d3, o_d4, o_d5, o_d6, o_d7, o_d8, o_d9, o_d10, o_dJ, o_dQ, o_dK,
   o_cA, o_c2, o_c3, o_c4, o_c5, o_c6, o_c7, o_c8, o_c9, o_c10, o_cJ, o_cQ, o_cK,
