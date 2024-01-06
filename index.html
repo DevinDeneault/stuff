@@ -22,8 +22,7 @@
     <div class="font-xl text-center mb-1 select-none border-b border-nord4 font-bold text-nord4">Hand</div>
   </div>
 
-  <div id="content" class="absolute top-16 right-0 left-28 bottom-0 overflow-y-scroll overflow-x-hidden pl-3 pt-2 pb-4 pr-4">
-  </div>
+  <div id="content" class="bg-[#F0EEDC] absolute top-16 right-0 left-28 bottom-0 overflow-y-scroll overflow-x-hidden pl-3 pt-2 pb-4 pr-4"></div>
 
   <div class="disabled hidden flex-wrap w-full gap-2 text-red-700"></div>
 </body>
@@ -54,4 +53,22 @@
     </div>
     <div name="add" class="btn-add">&#x2B;</div>
   </div>
+</template>
+
+<template id="card-info">
+  <div class="w-full flex justify-between font-bold text-2xl whitespace-nowrap">
+    <div id="name"></div>
+    <div>
+      <span id="card"></span>
+      <span id="suite"></span>
+    </div>
+  </div>
+  <div class="separator"></div>
+  <div id="traits" class="flex flex-wrap font-bold text-white"></div>
+  <div id="actions" class="flex flex-col"></div>
+  <div class="separator"></div>
+  <div id="description" class="flex flex-col"></div>
+  <div id="saves" class="flex flex-col mt-2"></div>
+  <div class="separator"></div>
+  <div id="upcasts" class="flex flex-col"></div>
 </template>

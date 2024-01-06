@@ -35,17 +35,9 @@ document.addEventListener('DOMContentLoaded', () => {
   ]);
 });
 
-
-
-// var SELECTED_SUITE = 'primal';
-
 // ============================================================================
 // ============================================================================
 // ============================================================================
-
-
-function show_card() {
-}
 
 function selectDeck(deckName) {
   deckBtns.forEach(btn => {
@@ -70,9 +62,7 @@ function showDeck(deckName) {
     const content = gebi('content');
     const template = gebi('suite-card');
 
-    while(content.lastElementChild) {
-      content.removeChild(content.lastElementChild);
-    }
+    removeAllChildren(content);
 
     const btnContainer = document.createElement("div");
     btnContainer.classList = "flex flex-wrap gap-2 w-full";
@@ -81,20 +71,112 @@ function showDeck(deckName) {
       const clone = template.content.cloneNode(true);
       const spans = clone.querySelectorAll('span');
       spans[0].textContent = padCardName(card.get('card'));
-      if(['diamonds', 'hearts'].includes(card.get('suite'))) {
-        spans[1].classList = 'text-red-700'
-      }
+      if(isRedSuite(card.get('suite'))) { spans[1].classList = 'text-red-700'; }
       spans[1].textContent = suiteSymbol(card.get('suite'));
       const viewBtn = clone.querySelector('[name="view"]');
-      viewBtn.onclick = function() { console.log('test1'); }
+      viewBtn.onclick = function() { showCard(card); }
       const addBtn = clone.querySelector('[name="add"]');
-      addBtn.onclick = function() { addCardToHand(deckName, card.get('card'), card.get('suite')); }
+      addBtn.onclick = function() { addCardToHand(deckName, card); }
 
       btnContainer.appendChild(clone);
     });
 
     content.appendChild(btnContainer);
   }
+}
+
+function addCardToHand(deckName, card) {
+  if('content' in document.createElement('template')) {
+    const body = gebi('hand');
+    const template = gebi('hand-card');
+
+    const id = randInt(); // technically has a chance of duplicate ids, but highly unlikely
+
+    const clone = template.content.cloneNode(true);
+    const base = clone.querySelector('div');
+    base.id = id;
+    const spans = clone.querySelectorAll('span');
+    spans[0].textContent = deckSymbol(deckName);
+    spans[1].textContent = padCardName(card.get('card'));
+    if(isRedSuite(card.get('suite'))) { spans[2].classList = 'text-red-700'; }
+    spans[2].textContent = suiteSymbol(card.get('suite'));
+    const viewBtn = clone.querySelector('[name="view"]');
+    viewBtn.onclick = function() { showCard(card); }
+    const deleteBtn = clone.querySelector('[name="delete"]');
+    deleteBtn.onclick = function() { gebi(id).remove(); }
+
+    body.appendChild(clone);
+  }
+}
+
+function showCard(card) {
+  if('content' in document.createElement('template')) {
+    const content = gebi('content');
+    const template = gebi('card-info');
+
+    removeAllChildren(content);
+    clearDeckSelection();
+
+    const clone = template.content.cloneNode(true);
+    const name = clone.querySelector('#name');
+    name.textContent = card.get('name');
+    const cardName = clone.querySelector('#card');
+    cardName.textContent = card.get('card');
+    const suite = clone.querySelector('#suite');
+    suite.textContent = suiteSymbol(card.get('suite'));
+    if(isRedSuite(card.get('suite'))) { suite.classList = 'text-red-700'; }
+    const traits = clone.querySelector('#traits');
+    card.get('traits').forEach(t => {
+      let trait = document.createElement("div");
+      trait.classList = traitStyle(t);
+      trait.textContent = t;
+      traits.appendChild(trait);
+    });
+    const actions = clone.querySelector('#actions');
+    card.get('actions').forEach(a => {
+      let action = document.createElement("div");
+      action.classList = 'pl-4 -indent-4';
+      action.innerHTML = a;
+      actions.appendChild(action);
+    });
+    const description = clone.querySelector('#description');
+    card.get('description').forEach(p => {
+      let paragraph = document.createElement("div");
+      paragraph.classList = 'indent-4';
+      paragraph.innerHTML = p;
+      description.appendChild(paragraph);
+    });
+    const saves = clone.querySelector('#saves');
+    card.get('saves').forEach(s => {
+      let save = document.createElement("div");
+      save.classList = 'pl-8 -indent-4';
+      save.innerHTML = s;
+      saves.appendChild(save);
+    });
+    const upcasts = clone.querySelector('#upcasts');
+    card.get('upcasts').forEach(u => {
+      let upcast = document.createElement("div");
+      upcast.classList = 'pl-4 -indent-4';
+      upcast.innerHTML = u;
+      upcasts.appendChild(upcast);
+    });
+
+    content.appendChild(clone);
+  }
+}
+
+// ============================================================================
+// ============================================================================
+// ============================================================================
+
+function removeAllChildren(el) {
+  while(el.lastElementChild) {
+    el.removeChild(el.lastElementChild);
+  }
+}
+
+function randInt() {
+  return Math.floor(Math.random() * 999999999);
 }
 
 function padCardName(cardName) {
@@ -104,6 +186,21 @@ function padCardName(cardName) {
   else {
     return cardName;
   }
+}
+
+function isRedSuite(suite) {
+  return ['diamonds', 'hearts'].includes(suite);
+}
+
+function traitStyle(trait) {
+  switch(trait) {
+    case 'UNCOMMON':
+      return 'trait-uncommon';
+    case 'RARE':
+      return 'trait-rare';
+    default:
+      return 'trait-common';
+  } 
 }
 
 function deckSymbol(deckName) {
@@ -134,38 +231,4 @@ function suiteSymbol(suitName) {
     default:
       return '\u2757';
   } 
-}
-
-function addCardToHand(deckName, cardName, cardSuite) {
-  if('content' in document.createElement('template')) {
-    const body = gebi('hand');
-    const template = gebi('hand-card');
-
-    const id = randInt(); // technically has a chance of duplicate ids, but highly unlikely
-
-    const clone = template.content.cloneNode(true);
-    const base = clone.querySelector('div');
-    base.id = id;
-    const spans = clone.querySelectorAll('span');
-    spans[0].textContent = deckSymbol(deckName);
-    spans[1].textContent = padCardName(cardName);
-    if(['diamonds', 'hearts'].includes(cardSuite)) {
-      spans[2].classList = 'text-red-700'
-    }
-    spans[2].textContent = suiteSymbol(cardSuite);
-    const viewBtn = clone.querySelector('[name="view"]');
-    viewBtn.onclick = function() { console.log('test1'); }
-    const deleteBtn = clone.querySelector('[name="delete"]');
-    deleteBtn.onclick = function() { gebi(id).remove(); }
-
-    body.appendChild(clone);
-  }
-}
-
-// ============================================================================
-// ============================================================================
-// ============================================================================
-
-function randInt() {
-  return Math.floor(Math.random() * 999999999);
 }
