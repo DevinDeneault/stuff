@@ -779,6 +779,10 @@ video {
   height: 2.25rem;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .w-4 {
   width: 1rem;
 }
@@ -972,6 +976,11 @@ video {
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .font-bold {
