@@ -68,7 +68,7 @@ function showDeck(deckName) {
       const spans = clone.querySelectorAll('span');
       spans[0].textContent = padCardName(card.get('card'));
       if(isRedSuite(card.get('suite'))) { spans[1].classList = 'text-red-700'; }
-      spans[1].textContent = suiteSymbol(card.get('suite'));
+      spans[1].innerHTML = suiteSymbol(card.get('suite'));
       const viewBtn = clone.querySelector('[name="view"]');
       viewBtn.onclick = function() { showCard(card); }
       const addBtn = clone.querySelector('[name="add"]');
@@ -92,10 +92,10 @@ function addCardToHand(deckName, card) {
     const base = clone.querySelector('div');
     base.id = id;
     const spans = clone.querySelectorAll('span');
-    spans[0].textContent = deckSymbol(deckName);
+    spans[0].innerHTML = deckSymbol(deckName);
     spans[1].textContent = padCardName(card.get('card'));
     if(isRedSuite(card.get('suite'))) { spans[2].classList = 'text-red-700'; }
-    spans[2].textContent = suiteSymbol(card.get('suite'));
+    spans[2].innerHTML = suiteSymbol(card.get('suite'));
     const viewBtn = clone.querySelector('[name="view"]');
     viewBtn.onclick = function() { showCard(card); }
     const deleteBtn = clone.querySelector('[name="delete"]');
@@ -119,7 +119,7 @@ function showCard(card) {
     const cardName = clone.querySelector('#card');
     cardName.textContent = card.get('card');
     const suite = clone.querySelector('#suite');
-    suite.textContent = suiteSymbol(card.get('suite'));
+    suite.innerHTML = suiteSymbolBig(card.get('suite'));
     if(isRedSuite(card.get('suite'))) { suite.classList = 'text-red-700'; }
     const traits = clone.querySelector('#traits');
     card.get('traits').forEach(t => {
@@ -202,29 +202,44 @@ function traitStyle(trait) {
 function deckSymbol(deckName) {
   switch(deckName) {
     case 'arcane':
-      return '\uD83C\uDF86';
+      return '<img src="./images/arcane.png" class="h-6">';
     case 'divine':
-      return '\uD83C\uDF1F';
+      return '<img src="./images/divine.png" class="h-6">';
     case 'occult':
-      return '\uD83D\uDC80';
+      return '<img src="./images/occult.png" class="h-6">';
     case 'primal':
-      return '\uD83D\uDC3E';
+      return '<img src="./images/primal.png" class="h-6">';
     default:
-      return '\u2757';
+      return '';
   } 
 }
 
 function suiteSymbol(suitName) {
   switch(suitName) {
     case 'hearts':
-      return '\u2665';
+      return '<img src="./images/hearts.png" class="h-6">';
     case 'diamonds':
-      return '\u2666';
+      return '<img src="./images/diamonds.png" class="h-6">';
     case 'clubs':
-      return '\u2663';
+      return '<img src="./images/clubs.png" class="h-6">';
     case 'spades':
-      return '\u2660';
+      return '<img src="./images/spades.png" class="h-6">';
     default:
-      return '\u2757';
+      return '';
+  } 
+}
+
+function suiteSymbolBig(suitName) {
+  switch(suitName) {
+    case 'hearts':
+      return '<img src="./images/hearts.png" class="h-8">';
+    case 'diamonds':
+      return '<img src="./images/diamonds.png" class="h-8">';
+    case 'clubs':
+      return '<img src="./images/clubs.png" class="h-8">';
+    case 'spades':
+      return '<img src="./images/spades.png" class="h-8">';
+    default:
+      return '';
   } 
 }
