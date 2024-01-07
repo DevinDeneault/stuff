@@ -232,13 +232,13 @@ function suiteSymbol(suitName) {
 function suiteSymbolBig(suitName) {
   switch(suitName) {
     case 'hearts':
-      return '<img src="./images/hearts.png" class="h-8">';
+      return '<img src="./images/hearts.png" class="h-9">';
     case 'diamonds':
-      return '<img src="./images/diamonds.png" class="h-8">';
+      return '<img src="./images/diamonds.png" class="h-9">';
     case 'clubs':
-      return '<img src="./images/clubs.png" class="h-8">';
+      return '<img src="./images/clubs.png" class="h-9">';
     case 'spades':
-      return '<img src="./images/spades.png" class="h-8">';
+      return '<img src="./images/spades.png" class="h-9">';
     default:
       return '';
   } 
