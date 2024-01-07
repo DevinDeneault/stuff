@@ -46,7 +46,7 @@
   <div class="flex gap-px">
     <div name="view" class="btn grow rounded-l">
       <div class="pl-1 pr-3 flex text-lg gap-x-1 flex items-center">
-        <span class="font-bold"></span>
+        <span class="font-bold text-2xl"></span>
         <div></div>
         <span></span>
       </div>
@@ -58,14 +58,14 @@
 </template>
 
 <template id="card-info">
-  <div class="w-full flex justify-between items-center font-bold text-6xl whitespace-nowrap">
-    <div id="name"></div>
-    <div class="grow"></div>
-    <span id="card"></span>
-    <span id="suite"></span>
+  <div class="w-full flex flex-wrap items-center font-bold text-4xl whitespace-nowrap gap-2">
+    <div id="deck"></div>
+    <div id="card"></div>
+    <div id="suite"></div>
+    <div id="name" class="ml-6"></div>
   </div>
   <div class="separator"></div>
-  <div id="traits" class="flex flex-wrap gap-1 font-bold text-white text-2xl"></div>
+  <div id="traits" class="flex flex-wrap gap-1 font-bold text-white text-xl"></div>
   <div id="actions" class="flex flex-col text-2xl"></div>
   <div class="separator"></div>
   <div id="description" class="flex flex-col text-2xl"></div>

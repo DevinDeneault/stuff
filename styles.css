@@ -751,6 +751,14 @@ video {
   margin-top: 0.5rem;
 }
 
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -781,6 +789,10 @@ video {
 
 .h-12 {
   height: 3rem;
+}
+
+.h-10 {
+  height: 2.5rem;
 }
 
 .w-4 {

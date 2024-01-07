@@ -70,7 +70,7 @@ function showDeck(deckName) {
       if(isRedSuite(card.get('suite'))) { spans[1].classList = 'text-red-700'; }
       spans[1].innerHTML = suiteSymbol(card.get('suite'));
       const viewBtn = clone.querySelector('[name="view"]');
-      viewBtn.onclick = function() { showCard(card); }
+      viewBtn.onclick = function() { showCard(deckName, card); }
       const addBtn = clone.querySelector('[name="add"]');
       addBtn.onclick = function() { addCardToHand(deckName, card); }
 
@@ -97,7 +97,7 @@ function addCardToHand(deckName, card) {
     if(isRedSuite(card.get('suite'))) { spans[2].classList = 'text-red-700'; }
     spans[2].innerHTML = suiteSymbol(card.get('suite'));
     const viewBtn = clone.querySelector('[name="view"]');
-    viewBtn.onclick = function() { showCard(card); }
+    viewBtn.onclick = function() { showCard(deckName, card); }
     const deleteBtn = clone.querySelector('[name="delete"]');
     deleteBtn.onclick = function() { gebi(id).remove(); }
 
@@ -105,7 +105,7 @@ function addCardToHand(deckName, card) {
   }
 }
 
-function showCard(card) {
+function showCard(deckName, card) {
   if('content' in document.createElement('template')) {
     const content = gebi('content');
     const template = gebi('card-info');
@@ -116,10 +116,12 @@ function showCard(card) {
     const clone = template.content.cloneNode(true);
     const name = clone.querySelector('#name');
     name.textContent = card.get('name');
+    const deck = clone.querySelector('#deck');
+    deck.innerHTML = deckSymbol(deckName);
     const cardName = clone.querySelector('#card');
     cardName.textContent = card.get('card');
     const suite = clone.querySelector('#suite');
-    suite.innerHTML = suiteSymbolBig(card.get('suite'));
+    suite.innerHTML = suiteSymbol(card.get('suite'));
     if(isRedSuite(card.get('suite'))) { suite.classList = 'text-red-700'; }
     const traits = clone.querySelector('#traits');
     card.get('traits').forEach(t => {
@@ -224,21 +226,6 @@ function suiteSymbol(suitName) {
       return '<img src="./images/clubs.png" class="h-6">';
     case 'spades':
       return '<img src="./images/spades.png" class="h-6">';
-    default:
-      return '';
-  } 
-}
-
-function suiteSymbolBig(suitName) {
-  switch(suitName) {
-    case 'hearts':
-      return '<img src="./images/hearts.png" class="h-12">';
-    case 'diamonds':
-      return '<img src="./images/diamonds.png" class="h-12">';
-    case 'clubs':
-      return '<img src="./images/clubs.png" class="h-12">';
-    case 'spades':
-      return '<img src="./images/spades.png" class="h-12">';
     default:
       return '';
   } 
