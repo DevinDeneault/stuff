@@ -1,75 +1,72 @@
 <!DOCTYPE html>
 <head>
-  <title>Cartomancer</title>
+  <title>EDrpg</title>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <link rel="stylesheet" type="text/css" href="styles.css">
-  <script type="text/javascript" src="data/arcane.js"></script>
-  <script type="text/javascript" src="data/divine.js"></script>
-  <script type="text/javascript" src="data/occult.js"></script>
-  <script type="text/javascript" src="data/primal.js"></script>
-  <script type="text/javascript" src="cards.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play">
+  <script type="text/javascript" src="edtrpg.js"></script>
 </head>
 <html>
-<body class="bg-nord6 font-mono">
-  <div class="absolute top-0 right-0 left-0 h-24 flex justify-center gap-x-1 p-1 bg-nord0">
-    <div id="arcane" class="btn btn-deck" onclick="selectDeck('arcane');"><img src="./images/arcane.png" class="h-16"></div>
-    <div id="divine" class="btn btn-deck" onclick="selectDeck('divine');"><img src="./images/divine.png" class="h-16"></div>
-    <div id="occult" class="btn btn-deck" onclick="selectDeck('occult');"><img src="./images/occult.png" class="h-16"></div>
-    <div id="primal" class="btn btn-deck" onclick="selectDeck('primal');"><img src="./images/primal.png" class="h-16"></div>
+<body class="bg-gray-900 font-['Play']">
+  <div class="absolute top-0 left-0 right-0 h-8 bg-black/50">
+    <button class="menu-test" onclick="makeDragBox()">make</button>
+    <input type="select" class="text-center focus:outline-none grayscale invert" />
+    <select oninput="makeShip(this)" class="bg-white/0 border border-yellow-500 text-yellow-500 m-0 [&>*]:font-['Play']">
+      <option value=""></option>
+      <option value="krait_lightspeeder">Krait Lightspeeder</option>
+      <option value="sidewinder">Sidewinder</option>
+      <option value="eagle">Eagle</option>
+      <option value="hauler">Hauler</option>
+      <option value="adder">Adder</option>
+      <option value="merlin">Merlin</option>
+      <option value="imperial_eagle">Imperial Eagle</option>
+      <option value="mamba_mk_ii">Mamba Mk II</option>
+      <option value="viper_mk_iii">Viper Mk III</option>
+      <option value="cobra_mk_iii">Cobra Mk III</option>
+      <option value="cobra_mk_iv">Cobra Mk IV</option>
+      <option value="viper_mk_iv">Viper Mk IV</option>
+      <option value="diamondback_scout">Diamondback Scout</option>
+      <option value="type-6_transporter">Type-6 Transporter</option>
+      <option value="diamondback_explorer">Diamondback Explorer</option>
+      <option value="imperial_courier">Imperial Courier</option>
+      <option value="kneelback">Kneelback</option>
+      <option value="asp_scout">Asp Scout</option>
+      <option value="vulture">Vulture</option>
+      <option value="asp_explorer">ASP Explorer</option>
+      <option value="mongoose">Mongoose</option>
+      <option value="federal_dropship">Federal Dropship</option>
+      <option value="type-7_transporter">Type-7 Transporter</option>
+      <option value="federal_assult_ship">Federal Assult Ship</option>
+      <option value="imperial_clipper">Imperial Clipper</option>
+      <option value="federal_guship">Federal Guship</option>
+      <option value="fer-de-lance">Fer-De-Lance</option>
+      <option value="python">Python</option>
+      <option value="type-9_heavy">Type-9 Heavy</option>
+      <option value="anaconda">Anaconda</option>
+      <option value="federal_corvette">Federal Corvette</option>
+      <option value="imperial_cutter">Imperial Cutter</option>
+      <option value="boa_mk_iii">Boa MK III</option>
+      <option value="imperial_explorer">Imperial Explorer</option>
+    </select>
   </div>
-
-  <div id="hand" class="absolute top-24 left-0 bottom-0 w-40 p-1 flex flex-col gap-4 bg-nord3 overflow-hidden">
-    <div class="text-3xl text-center mb-1 select-none border-b border-nord4 font-bold text-nord4">Hand</div>
-  </div>
-
-  <div id="content" class="bg-[#F0EEDC] absolute top-24 right-0 left-40 bottom-0 overflow-y-scroll overflow-x-hidden pl-3 pt-2 pb-4 pr-4"></div>
 </body>
 </html>
 
-<template id="hand-card">
-  <div class="flex gap-px">
-    <div name="view" class="btn grow rounded-l">
-      <div class="flex items-center gap-x-1">
-        <span></span>
-        <div></div>
-        <span class="font-bold text-2xl"></span>
-        <span></span>
-      </div>
+<template id="ship">
+  <div class="absolute left-8 top-12 w-48 flex flex-col items-center gap-y-px group select-none">
+    <div class="w-full rounded-lg group-hover:bg-green-500/10 hover:cursor-pointer flex items-center justify-center">
+      <img src="images/test3.png" />
     </div>
-    <div name="delete" class="btn-delete">
-      <img src="./images/delete.png" class="h-4">
+    <div class="h-px w-4/5 bg-green-500"></div>
+    <div class="w-full h-6 flex items-center justify-center overflow-hidden" onclick="editName(this)">
+      <div class="text-white"></div>
+      <input class="hidden text-center text-white focus:outline-none focus:bg-white/0 bg-white/0" oninput="setName(this)" onblur="hideInput(this)" />
     </div>
-  </div>
-</template>
-
-<template id="suite-card">
-  <div class="flex gap-px">
-    <div name="view" class="btn grow rounded-l">
-      <div class="pl-1 pr-3 flex text-lg gap-x-1 flex items-center">
-        <span class="font-bold text-2xl"></span>
-        <div></div>
-        <span></span>
-      </div>
-    </div>
-    <div name="add" class="btn-add">
-      <img src="./images/add.png" class="w-4">
+    <div class="h-px w-full bg-green-500"></div>
+    <div class="flex flex-col items-center gap-y-px overflow-hidden h-0 group-hover:h-auto">
+      <button class="btn" onclick="switchSides(this)">switch sides</button>
+      <button class="btn" onclick="remove(this)">remove</button>
+      <input type="range" min="0" max="360" value="0" oninput="rotateImage(this)" class="mt-0.5 mb-2 w-5/6 grayscale opacity-30" />
     </div>
   </div>
-</template>
-
-<template id="card-info">
-  <div class="w-full flex flex-wrap items-center font-bold text-4xl gap-2">
-    <div id="deck"></div>
-    <div id="card"></div>
-    <div id="suite"></div>
-    <div id="name" class="ml-6"></div>
-  </div>
-  <div class="separator"></div>
-  <div id="traits" class="flex flex-wrap gap-1 font-bold text-white text-xl"></div>
-  <div id="actions" class="flex flex-col text-2xl"></div>
-  <div class="separator"></div>
-  <div id="description" class="flex flex-col text-2xl"></div>
-  <div id="saves" class="flex flex-col mt-2 text-2xl"></div>
-  <div class="separator"></div>
-  <div id="upcasts" class="flex flex-col text-2xl"></div>
 </template>
