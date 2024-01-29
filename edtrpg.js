@@ -71,13 +71,13 @@ function toggleCircleColor() {
   circle.classList.toggle("bg-yellow-999/40");
   const text1 = gebi('action-text-1');
   text1.classList.toggle("text-cyan-200/60");
-  text1.classList.toggle("text-yellow-400/80");
+  text1.classList.toggle("text-yellow-500/80");
   const text2 = gebi('action-text-2');
   text2.classList.toggle("text-cyan-200/60");
-  text2.classList.toggle("text-yellow-400/80");
+  text2.classList.toggle("text-yellow-500/80");
   const text3 = gebi('action-text-3');
   text3.classList.toggle("text-cyan-200/60");
-  text3.classList.toggle("text-yellow-400/80");
+  text3.classList.toggle("text-yellow-500/80");
 }
 
 function toggleText(element) {
