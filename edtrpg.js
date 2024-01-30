@@ -196,7 +196,7 @@ function hideInput(element) {
   element.classList.add("hidden");
 }
 
-function switchSides(element) {
+function changeSides(element) {
   const base = element.parentNode.parentNode;
   const imageBox = base.querySelector('div');
   imageBox.classList.toggle("group-hover:bg-green-500/20");
