@@ -49,13 +49,6 @@ shipData = {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  const resizeObserver = new ResizeObserver((entries) => {
-    const element = entries[0].target;
-    element.style.width = `${element.getBoundingClientRect().height}px`;
-  });
-
-  resizeObserver.observe(gebi("circle"));
-
   toggleText(null)
 });
 
