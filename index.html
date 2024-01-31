@@ -79,20 +79,22 @@
 </html>
 
 <template id="ship">
-  <div class="z-30 absolute left-48 top-12 flex flex-col items-center gap-y-px group select-none">
+  <div class="z-30 absolute left-48 top-12 flex flex-col items-center group select-none">
     <div class="p-2 rounded-lg transition-colors duration-150 group-hover:bg-green-500/20 hover:cursor-pointer flex items-center justify-center">
       <img src="" class="pointer-events-none" />
     </div>
     <div class="h-px w-3/5 bg-green-500"></div>
     <div class="w-full h-5 flex items-center justify-center overflow-visible text-sm" onclick="editName(this)">
-      <div class="text-white px-px"></div>
-      <input class="hidden w-full text-center text-white focus:outline-none focus:bg-white/0 bg-white/0" size="1" oninput="setName(this)" onblur="hideInput(this)" onfocus="this.select()" />
+      <div class="text-white px-1 pointer-events-none"></div>
+      <input class="hidden text-center w-28 text-white focus:outline-none focus:bg-white/0 bg-white/0" oninput="setName(this)" onblur="hideInput(this)" onfocus="this.select()" />
     </div>
-    <div class="h-px w-full -px-2 bg-green-500"></div>
-    <div class="absolute left-0 right-0 -bottom-20 h-20 pt-px flex flex-col items-center gap-y-px overflow-visible hidden-group-content">
-      <div class="btn-ship" onclick="changeSides(this)">change sides</div>
+    <div class="h-px w-full bg-green-500"></div>
+    <div class="absolute left-0 right-0 top-[100%] flex flex-col items-center gap-y-px overflow-visible hidden-group-content">
+      <div class="btn-ship mt-px" onclick="changeSides(this)">change sides</div>
       <div class="btn-ship" onclick="remove(this)">remove</div>
-      <input type="range" min="0" max="360" value="0" oninput="rotateImage(this)" class="mt-1 mb-2 w-5/6 min-w-28 grayscale opacity-60" />
+      <div class="h-6 w-full min-w-32 flex items-center justify-center py-1.5">
+        <input type="range" min="0" max="360" value="0" oninput="rotateImage(this)" class="w-5/6 grayscale opacity-70" />
+      </div>
     </div>
   </div>
 </template>

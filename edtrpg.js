@@ -203,7 +203,7 @@ function changeSides(element) {
 }
 
 function rotateImage(element) {
-  const img = element.parentNode.parentNode.querySelector('div > img');
+  const img = element.parentNode.parentNode.parentNode.querySelector('div > img');
   img.style.transform = `rotate(${element.value}deg)`; 
 }
 
