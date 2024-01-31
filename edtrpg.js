@@ -189,6 +189,15 @@ function hideInput(element) {
   element.classList.add("hidden");
 }
 
+function blurOnEnter(event) {
+  if (event.key == "Enter") {
+    const element = event.srcElement
+    const text = element.parentNode.querySelector('div');
+    text.classList.remove("hidden");
+    element.classList.add("hidden");
+  }
+}
+
 function changeSides(element) {
   const base = element.parentNode.parentNode;
   const imageBox = base.querySelector('div');
