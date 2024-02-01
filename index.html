@@ -8,7 +8,7 @@
   <script type="text/javascript" src="edtrpg.js"></script>
 </head>
 <html>
-<body class="bg-gray-900 font-['Merriweather Sans'] bg-[url('./images/spaceship_combat_map.jpg')] bg-cover bg-[center center] bg-fixed">
+<body class="bg-gray-900 font-['Merriweather Sans'] bg-black bg-cover bg-[center center] bg-fixed">
   <div class="z-40 absolute top-0 left-0 right-0 h-8 bg-black/50 flex items-center gap-x-4 px-4">
     <div class="group relative">
       <div class="btn-hover"><span class="mr-2">add ship</span>&#x1F783;</div>
@@ -63,6 +63,16 @@
       </ul>
     </div>
     <div class="grow"></div>
+    <div class="group relative">
+      <div class="btn-hover"><span class="mr-2">change background</span>&#x1F783;</div>
+      <ul id="backgrounds" class="dropdown-list dropdown-list-images">
+        <li onclick="changeBackground('01')"><img src="./images/spaceship_combat_map_preview_01.png" /></li>
+        <li onclick="changeBackground('02')"><img src="./images/spaceship_combat_map_preview_02.png" /></li>
+        <li onclick="changeBackground('03')"><img src="./images/spaceship_combat_map_preview_03.png" /></li>
+        <li onclick="changeBackground('04')"><img src="./images/spaceship_combat_map_preview_04.png" /></li>
+        <li onclick="changeBackground('05')"><img src="./images/spaceship_combat_map_preview_05.png" /></li>
+      </ul>
+    </div>
     <div class="btn" onclick="toggleText(this)">action text style (1)</div>
     <div class="btn" onclick="toggleCircleColor()">toggle circle/text color</div>
   </div>
@@ -71,9 +81,9 @@
     <div id="circle" class="h-[90%] aspect-square rounded-full border-8 border-cyan-300/80 bg-cyan-950/30"></div>
   </div>
   <div class="z-20 absolute inset-0 flex items-center justify-center">
-    <div id="action-text-1" class="flex flex-col text-center text-2xl text-cyan-200/60 select-none"></div>
-    <div id="action-text-2" class="absolute left-16 bottom-16 flex flex-col text-2xl text-cyan-200/60 select-none"></div>
-    <div id="action-text-3" class="absolute right-16 top-24 flex flex-col text-2xl text-cyan-200/60 select-none"></div>
+    <div id="action-text-1" class="flex flex-col text-center text-2xl text-cyan-200/60 select-none [text-shadow:_0_0_3px_black]"></div>
+    <div id="action-text-2" class="absolute left-16 bottom-16 flex flex-col text-2xl text-cyan-200/60 select-none [text-shadow:_0_0_3px_black]"></div>
+    <div id="action-text-3" class="absolute right-16 top-24 flex flex-col text-2xl text-cyan-200/60 select-none [text-shadow:_0_0_3px_black]"></div>
   </div>
 </body>
 </html>

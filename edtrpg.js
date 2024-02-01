@@ -49,12 +49,18 @@ shipData = {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  toggleText(null)
+  toggleText(null);
+  changeBackground(null);
 });
 
 // ============================================================================
 // ============================================================================
 // ============================================================================
+
+function changeBackground(num) {
+  background_string = `url('./images/spaceship_combat_map_${num || "01"}.webp')`;
+  document.body.style.backgroundImage = background_string;
+}
 
 function toggleCircleColor() {
   const circle = gebi('circle');
