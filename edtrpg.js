@@ -49,15 +49,15 @@ shipData = {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  toggleText(null);
-  changeBackground(null);
+  toggleText();
+  changeBackground();
 });
 
 // ============================================================================
 // ============================================================================
 // ============================================================================
 
-function changeBackground(num) {
+function changeBackground(num = undefined) {
   background_string = `url('./images/spaceship_combat_map_${num || "01"}.webp')`;
   document.body.style.backgroundImage = background_string;
 }
@@ -79,10 +79,10 @@ function toggleCircleColor() {
   text3.classList.toggle("text-yellow-500/80");
 }
 
-function toggleText(element) {
+function toggleText(element = undefined) {
   actionTextStyle++;
   if (actionTextStyle > 3) actionTextStyle = 1;
-  if (element) { element.textContent = `action text style (${actionTextStyle})`; }
+  if (element) { element.textContent = `action text - ${actionTextStyle}`; }
 
   const actionsIn = gebi('action-text-1');
   const actionsOutLeft = gebi('action-text-2');
