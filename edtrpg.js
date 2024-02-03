@@ -228,14 +228,14 @@ function blurOnEnter(event) {
 function changeSides(element) {
   const base = element.parentNode.parentNode;
   const imageBox = base.querySelector('div');
-  imageBox.classList.toggle("group-hover:bg-green-500/20");
-  imageBox.classList.toggle("group-hover:bg-red-500/20");
+  imageBox.classList.toggle("group-hover:bg-green-500/30");
+  imageBox.classList.toggle("group-hover:bg-red-500/30");
   const topLine = base.querySelector('div:nth-child(2)');
-  topLine.classList.toggle("bg-green-500");
-  topLine.classList.toggle("bg-red-500");
+  topLine.classList.toggle("bg-green-500/70");
+  topLine.classList.toggle("bg-red-500/70");
   const bottomLine = base.querySelector('div:nth-child(4)');
-  bottomLine.classList.toggle("bg-green-500");
-  bottomLine.classList.toggle("bg-red-500");
+  bottomLine.classList.toggle("bg-green-500/70");
+  bottomLine.classList.toggle("bg-red-500/70");
 }
 
 function rotateImage(element) {
