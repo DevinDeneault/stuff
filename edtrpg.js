@@ -258,11 +258,11 @@ function explosion(element) {
   explosion.style.transform = "scale(1)";
 
   const box = element.getBoundingClientRect();
-  const xCenter = (box.left + box.right) / 2;
-  const yCenter = (box.top + box.bottom) / 2;
+  const xCenter = Math.floor((box.left + box.right) / 2);
+  const yCenter = Math.floor((box.top + box.bottom) / 2);
 
-  explosion.style.top = `${yCenter - (explosion.getBoundingClientRect().height / 2)}px`;
-  explosion.style.left = `${xCenter - (explosion.getBoundingClientRect().width / 2)}px`;
+  explosion.style.top = `${yCenter - (Math.floor(explosion.getBoundingClientRect().height / 2))}px`;
+  explosion.style.left = `${xCenter - (Math.floor(explosion.getBoundingClientRect().width / 2))}px`;
   explosion.style.transform = `scale(${explosionScale[shipData[shipName].size]})`;
 
   explosionInterval = setInterval(() => {
