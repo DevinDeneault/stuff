@@ -12,7 +12,7 @@
   <div class="z-50 absolute top-0 left-0 right-0 h-8 bg-black/50 flex items-center gap-x-4 px-4">
     <div class="group relative">
       <div class="btn-hover"><span class="mr-2">add ship</span>&#x1F783;</div>
-      <ul id="ships" class="dropdown-list">
+      <ul id="ships" class="dropdown-list scrollable">
         <li onclick="makeShip('adder')">Adder</li>
         <!--  -->
         <li onclick="makeShip('anaconda')">Anaconda</li>
@@ -65,7 +65,7 @@
     <div class="grow"></div>
     <div class="group relative">
       <div class="btn-hover"><span class="mr-2">background</span>&#x1F783;</div>
-      <ul id="backgrounds" class="dropdown-list dropdown-list-images">
+      <ul id="backgrounds" class="dropdown-list dropdown-list-images not-scrollable">
         <li onclick="changeBackground('01')"><img src="./images/spaceship_combat_map_preview_01.png" /></li>
         <li onclick="changeBackground('02')"><img src="./images/spaceship_combat_map_preview_02.png" /></li>
         <li onclick="changeBackground('03')"><img src="./images/spaceship_combat_map_preview_03.png" /></li>
