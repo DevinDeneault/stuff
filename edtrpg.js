@@ -1,52 +1,73 @@
 
 function gebi(name) { return document.getElementById(name); }
 
-actionTextStyle = 0;
+let actionTextStyle = 0;
 
-shipData = {
-  "adder": {displayName: "Adder", width: "50px"},
-  "anaconda": {displayName: "Anaconda", width: "92px"},
-  "asp_explorer": {displayName: "Asp Explorer", width: "82px"},
-  "asp_scout": {displayName: "Asp Scout", width: "106px"},
-  "cobra_mk_3": {displayName: "Cobra Mk III", width: "76px"},
-  "cobra_mk_4": {displayName: "Cobra Mk IV", width: "78px"},
-  "diamondback_explorer": {displayName: "Diamondback Explorer", width: "40px"},
-  "diamondback_scout": {displayName: "Diamondback Scout", width: "36px"},
-  "eagle_mk_2": {displayName: "Eagle Mk II", width: "56px"},
-  "federal_assault_ship": {displayName: "Federal Assault Ship", width: "82px"},
-  "federal_corvette": {displayName: "Federal Corvette", width: "130px"},
-  "federal_dropship": {displayName: "Federal Dropship", width: "108px"},
-  "federal_gunship": {displayName: "Federal Gunship", width: "86px"},
-  "fer_de_lance": {displayName: "Fer-de-Lance", width: "88px"},
-  "hauler": {displayName: "Hauler", width: "40px"},
-  "imperial_clipper": {displayName: "Imperial Clipper", width: "134px"},
-  "imperial_courier": {displayName: "Imperial Courier", width: "38px"},
-  "imperial_cutter": {displayName: "Imperial Cutter", width: "146px"},
-  "imperial_eagle": {displayName: "Imperial Eagle", width: "60px"},
-  "keelback": {displayName: "Keelback", width: "62px"},
-  "krait": {displayName: "Krait", width: "64px"},
-  "mamba_mk_2": {displayName: "Mamba Mk II", width: "70px"},
-  "merlin": {displayName: "Merlin", width: "50px"},
-  "python": {displayName: "Python", width: "92px"},
-  "sidewinder": {displayName: "Sidewinder", width: "34px"},
-  "type_6_transporter": {displayName: "Type-6 Transporter", width: "44px"},
-  "type_7_transporter": {displayName: "Type-7 Transporter", width: "88px"},
-  "type_9_heavy": {displayName: "Type-9 Heavy", width: "194px"},
-  "viper_mk_3": {displayName: "Viper Mk III", width: "44px"},
-  "viper_mk_4": {displayName: "Viper Mk IV", width: "44px"},
-  "vulture": {displayName: "Vulture", width: "58px"},
-  "fighter_condor": {displayName: "Condor", width: "16px"},
-  "fighter_imperial": {displayName: "Imperial", width: "24px"},
-  "fighter_taipan": {displayName: "Taipan", width: "26px"},
-  "mongoose": {displayName: "Mongoose", width: "112px"},
-  "boa_mk_3": {displayName: "Boa MK III", width: "0"},
-  "imperial_explorer": {displayName: "Imperial Explorer", width: "0"},
-  "alliance_chieftain": {displayName: "Alliance Chieftain", width: "112px"},
-  "beluga_liner": {displayName: "Beluga Liner", width: "162px"},
-  "dolphin": {displayName: "Dolphin", width: "52px"},
-  "orca": {displayName: "Orca", width: "68px"},
-  "type_10_defender": {displayName: "Type-10 Defender", width: "226px"},
-}
+const shipData = {
+  "adder": {displayName: "Adder", width: "50px", size: 2},
+  "anaconda": {displayName: "Anaconda", width: "92px", size: 4},
+  "asp_explorer": {displayName: "Asp Explorer", width: "82px", size: 3},
+  "asp_scout": {displayName: "Asp Scout", width: "106px", size: 3},
+  "cobra_mk_3": {displayName: "Cobra Mk III", width: "76px", size: 2},
+  "cobra_mk_4": {displayName: "Cobra Mk IV", width: "78px", size: 2},
+  "diamondback_explorer": {displayName: "Diamondback Explorer", width: "40px", size: 2},
+  "diamondback_scout": {displayName: "Diamondback Scout", width: "36px", size: 2},
+  "eagle_mk_2": {displayName: "Eagle Mk II", width: "56px", size: 2},
+  "federal_assault_ship": {displayName: "Federal Assault Ship", width: "82px", size: 3},
+  "federal_corvette": {displayName: "Federal Corvette", width: "130px", size: 4},
+  "federal_dropship": {displayName: "Federal Dropship", width: "108px", size: 3},
+  "federal_gunship": {displayName: "Federal Gunship", width: "86px", size: 3},
+  "fer_de_lance": {displayName: "Fer-de-Lance", width: "88px", size: 3},
+  "hauler": {displayName: "Hauler", width: "40px", size: 2},
+  "imperial_clipper": {displayName: "Imperial Clipper", width: "134px", size: 3},
+  "imperial_courier": {displayName: "Imperial Courier", width: "38px", size: 2},
+  "imperial_cutter": {displayName: "Imperial Cutter", width: "146px", size: 4},
+  "imperial_eagle": {displayName: "Imperial Eagle", width: "60px", size: 2},
+  "keelback": {displayName: "Keelback", width: "62px", size: 2},
+  "krait": {displayName: "Krait", width: "64px", size: 2},
+  "mamba_mk_2": {displayName: "Mamba Mk II", width: "70px", size: 2},
+  "merlin": {displayName: "Merlin", width: "50px", size: 2},
+  "python": {displayName: "Python", width: "92px", size: 3},
+  "sidewinder": {displayName: "Sidewinder", width: "34px", size: 1},
+  "type_6_transporter": {displayName: "Type-6 Transporter", width: "44px", size: 2},
+  "type_7_transporter": {displayName: "Type-7 Transporter", width: "88px", size: 3},
+  "type_9_heavy": {displayName: "Type-9 Heavy", width: "194px", size: 4},
+  "viper_mk_3": {displayName: "Viper Mk III", width: "44px", size: 2},
+  "viper_mk_4": {displayName: "Viper Mk IV", width: "44px", size: 2},
+  "vulture": {displayName: "Vulture", width: "58px", size: 2},
+  "fighter_condor": {displayName: "Condor", width: "16px", size: 1},
+  "fighter_imperial": {displayName: "Imperial", width: "24px", size: 1},
+  "fighter_taipan": {displayName: "Taipan", width: "26px", size: 1},
+  "mongoose": {displayName: "Mongoose", width: "112px", size: 0},
+  "boa_mk_3": {displayName: "Boa MK III", width: "0", size: 0},
+  "imperial_explorer": {displayName: "Imperial Explorer", width: "0", size: 0},
+  "alliance_chieftain": {displayName: "Alliance Chieftain", width: "112px", size: 3},
+  "beluga_liner": {displayName: "Beluga Liner", width: "162px", size: 4},
+  "dolphin": {displayName: "Dolphin", width: "52px", size: 3},
+  "orca": {displayName: "Orca", width: "68px", size: 3},
+  "type_10_defender": {displayName: "Type-10 Defender", width: "226px", size: 4},
+};
+
+let explosionInterval;
+const explosionOffsets = [
+  "-2px -2px",
+  "-194px -2px",
+  "-386px -2px",
+  "-578px -2px",
+  "-770px -2px",
+  "-2px -194px",
+  "-194px -194px",
+  "-386px -194px",
+  "-578px -194px",
+  "-770px -194px",
+  "-2px -386px",
+  "-194px -386px",
+  "-386px -386px", // empty frame
+  null, // end marker
+];
+
+// index 0 is unknown size
+const explosionScale = [1, 0.7, 1.4, 3.2, 5];
 
 document.addEventListener('DOMContentLoaded', () => {
   toggleText();
@@ -222,6 +243,35 @@ function rotateImage(element) {
   img.style.transform = `rotate(${element.value}deg)`; 
 }
 
-function remove(element) {
+function remove(element, explode = false) {
+  if (explode) { explosion(element.parentNode.parentNode); }
   element.parentNode.parentNode.remove();
+}
+
+function explosion(element) {
+  const explosion = gebi('explosion');
+  let idx = 0;
+
+  shipName = element.querySelector('div > img').src.split("/").slice(-1)[0].slice(0, -4);
+
+  if (explosionInterval) { explosionInterval = clearInterval(explosionInterval); }
+  explosion.style.transform = "scale(1)";
+
+  const box = element.getBoundingClientRect();
+  const xCenter = (box.left + box.right) / 2;
+  const yCenter = (box.top + box.bottom) / 2;
+
+  explosion.style.top = `${yCenter - (explosion.getBoundingClientRect().height / 2)}px`;
+  explosion.style.left = `${xCenter - (explosion.getBoundingClientRect().width / 2)}px`;
+  explosion.style.transform = `scale(${explosionScale[shipData[shipName].size]})`;
+
+  explosionInterval = setInterval(() => {
+    const offset = explosionOffsets[idx++];
+    if (offset != null) {
+      explosion.style.backgroundPosition = offset;
+    }
+    else {
+      explosionInterval = clearInterval(explosionInterval);
+    }
+  }, 75);
 }
