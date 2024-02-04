@@ -243,6 +243,11 @@ function rotateImage(element) {
   img.style.transform = `rotate(${element.value}deg)`; 
 }
 
+function rotateImageHue(element) {
+  const img = element.parentNode.parentNode.parentNode.querySelector('div > img');
+  img.style.filter = `hue-rotate(${element.value}deg)`; 
+}
+
 function remove(element, explode = false) {
   if (explode) { explosion(element.parentNode.parentNode); }
   element.parentNode.parentNode.remove();
