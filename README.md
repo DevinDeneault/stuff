@@ -1,6 +1,11 @@
 
 ========================
 
+https://www.charactercodes.net/
+https://favicon.io/favicon-generator/
+
+========================
+
 ./tailwindcss-windows-x64.exe -i ./input.css -o content/styles.css
 
 ### Start a watcher
