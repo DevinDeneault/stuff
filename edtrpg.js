@@ -69,7 +69,7 @@ const explosionOffsets = [
 // index 0 is unknown size
 const explosionScale = [1, 0.7, 1.4, 3.2, 5];
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   toggleText();
   changeBackground();
 });
@@ -79,23 +79,23 @@ document.addEventListener('DOMContentLoaded', () => {
 // ============================================================================
 
 function changeBackground(num = undefined) {
-  background_string = `url('./images/spaceship_combat_map_${num || "01"}.webp')`;
+  background_string = `url("./images/spaceship_combat_map_${num || "01"}.webp")`;
   document.body.style.backgroundImage = background_string;
 }
 
 function toggleCircleColor() {
-  const circle = gebi('circle');
+  const circle = gebi("circle");
   circle.classList.toggle("border-cyan-300/80");
   circle.classList.toggle("border-yellow-500/80");
   circle.classList.toggle("bg-cyan-950/30");
   circle.classList.toggle("bg-yellow-999/40");
-  const text1 = gebi('action-text-1');
+  const text1 = gebi("action-text-1");
   text1.classList.toggle("text-cyan-200/60");
   text1.classList.toggle("text-yellow-500/80");
-  const text2 = gebi('action-text-2');
+  const text2 = gebi("action-text-2");
   text2.classList.toggle("text-cyan-200/60");
   text2.classList.toggle("text-yellow-500/80");
-  const text3 = gebi('action-text-3');
+  const text3 = gebi("action-text-3");
   text3.classList.toggle("text-cyan-200/60");
   text3.classList.toggle("text-yellow-500/80");
 }
@@ -105,9 +105,9 @@ function toggleText(element = undefined) {
   if (actionTextStyle > 3) actionTextStyle = 1;
   if (element) { element.textContent = `action text - ${actionTextStyle}`; }
 
-  const actionsIn = gebi('action-text-1');
-  const actionsOutLeft = gebi('action-text-2');
-  const actionsOutRight = gebi('action-text-3');
+  const actionsIn = gebi("action-text-1");
+  const actionsOutLeft = gebi("action-text-2");
+  const actionsOutRight = gebi("action-text-3");
   while (actionsIn.firstChild) { actionsIn.removeChild(actionsIn.lastChild); }
   while (actionsOutLeft.firstChild) { actionsOutLeft.removeChild(actionsOutLeft.lastChild); }
   while (actionsOutRight.firstChild) { actionsOutRight.removeChild(actionsOutRight.lastChild); }
@@ -117,17 +117,17 @@ function toggleText(element = undefined) {
   
   switch (actionTextStyle) {
     case 1:
-      clone1 = gebi('actions-in-1').content.cloneNode(true);
-      clone2 = gebi('actions-out-1').content.cloneNode(true);
-      clone3 = gebi('actions-out-1').content.cloneNode(true);
+      clone1 = gebi("actions-in-1").content.cloneNode(true);
+      clone2 = gebi("actions-out-1").content.cloneNode(true);
+      clone3 = gebi("actions-out-1").content.cloneNode(true);
       actionsIn.appendChild(clone1);
       actionsOutLeft.appendChild(clone2);
       actionsOutRight.appendChild(clone3);
       break;
     case 2:
-      clone1 = gebi('actions-in-2').content.cloneNode(true);
-      clone2 = gebi('actions-out-2').content.cloneNode(true);
-      clone3 = gebi('actions-out-2').content.cloneNode(true);
+      clone1 = gebi("actions-in-2").content.cloneNode(true);
+      clone2 = gebi("actions-out-2").content.cloneNode(true);
+      clone3 = gebi("actions-out-2").content.cloneNode(true);
       actionsIn.appendChild(clone1);
       actionsOutLeft.appendChild(clone2);
       actionsOutRight.appendChild(clone3);
@@ -144,15 +144,15 @@ function toggleText(element = undefined) {
 // ============================================================================
 
 function makeShip(ship) {
-  const template = gebi('ship');
+  const template = gebi("ship");
 
   const clone = template.content.cloneNode(true);
-  const base = clone.querySelector('div');
-  const name = base.querySelector('div:nth-child(3) > div');
+  const base = clone.querySelector("div");
+  const name = base.querySelector("div:nth-child(3) > div");
   name.textContent = shipData[ship].displayName;
-  const nameInput = base.querySelector('div:nth-child(3) > input');
+  const nameInput = base.querySelector("div:nth-child(3) > input");
   nameInput.value = shipData[ship].displayName;
-  const image = base.querySelector('div > img');
+  const image = base.querySelector("div > img");
   image.src = `./images/${ship}.png`;
   image.style.width = shipData[ship].width;
   // image.onload = (e) => {
@@ -170,7 +170,7 @@ function draggable(element) {
   let pos3 = 0;
   let pos4 = 0;
 
-  const draggableArea = element.querySelector('div');
+  const draggableArea = element.querySelector("div");
   draggableArea.onmousedown = dragMouseDown;
 
   function dragMouseDown(e) {
@@ -198,20 +198,20 @@ function draggable(element) {
 }
 
 function editName(element) {
-  const text = element.querySelector('div');
-  const input = element.querySelector('input');
+  const text = element.querySelector("div");
+  const input = element.querySelector("input");
   text.classList.add("hidden");
   input.classList.remove("hidden");
   input.focus();
 }
 
 function setName(element) {
-  const text = element.parentNode.querySelector('div');
+  const text = element.parentNode.querySelector("div");
   text.textContent = element.value;
 }
 
 function hideInput(element) {
-  const text = element.parentNode.querySelector('div');
+  const text = element.parentNode.querySelector("div");
   text.classList.remove("hidden");
   element.classList.add("hidden");
 }
@@ -219,7 +219,7 @@ function hideInput(element) {
 function blurOnEnter(event) {
   if (event.key == "Enter") {
     const element = event.srcElement
-    const text = element.parentNode.querySelector('div');
+    const text = element.parentNode.querySelector("div");
     text.classList.remove("hidden");
     element.classList.add("hidden");
   }
@@ -227,25 +227,20 @@ function blurOnEnter(event) {
 
 function changeSides(element) {
   const base = element.parentNode.parentNode;
-  const imageBox = base.querySelector('div');
+  const imageBox = base.querySelector("div");
   imageBox.classList.toggle("group-hover:bg-green-500/30");
   imageBox.classList.toggle("group-hover:bg-red-500/30");
-  const topLine = base.querySelector('div:nth-child(2)');
+  const topLine = base.querySelector("div:nth-child(2)");
   topLine.classList.toggle("bg-green-500/70");
   topLine.classList.toggle("bg-red-500/70");
-  const bottomLine = base.querySelector('div:nth-child(4)');
+  const bottomLine = base.querySelector("div:nth-child(4)");
   bottomLine.classList.toggle("bg-green-500/70");
   bottomLine.classList.toggle("bg-red-500/70");
 }
 
 function rotateImage(element) {
-  const img = element.parentNode.parentNode.parentNode.querySelector('div > img');
-  img.style.transform = `rotate(${element.value}deg)`; 
-}
-
-function rotateImageHue(element) {
-  const img = element.parentNode.parentNode.parentNode.querySelector('div > img');
-  img.style.filter = `hue-rotate(${element.value}deg)`; 
+  const img = element.parentNode.parentNode.parentNode.querySelector("div > img");
+  img.style.transform = `rotate(${element.value}deg)`;
 }
 
 function remove(element, explode = false) {
@@ -254,10 +249,10 @@ function remove(element, explode = false) {
 }
 
 function explosion(element) {
-  const explosion = gebi('explosion');
+  const explosion = gebi("explosion");
   let idx = 0;
 
-  shipName = element.querySelector('div > img').src.split("/").slice(-1)[0].slice(0, -4);
+  shipName = element.querySelector("div > img").src.split("/").slice(-1)[0].slice(0, -4);
 
   if (explosionInterval) { explosionInterval = clearInterval(explosionInterval); }
   explosion.style.transform = "scale(1)";
