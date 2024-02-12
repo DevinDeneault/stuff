@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<head>
+  <title>EDrpg</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="../styles.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play">
+  <script type="text/javascript" src="edrpg.js"></script>
+</head>
+<html>
+<body class="bg-gray-900 font-['Play'] bg-black bg-cover bg-[center center] bg-fixed overflow-hidden">
+  <div class="z-50 absolute top-0 left-0 right-0 h-8 bg-black/50 flex items-center gap-x-4 px-4">
+    <div class="group relative">
+      <div class="btn-hover"><span class="mr-2">add ship</span>&#x1F783;</div>
+      <ul id="ships" class="dropdown-list scrollable">
+        <li onclick="makeShip('adder')">Adder</li>
+        <!--  -->
+        <li onclick="makeShip('anaconda')">Anaconda</li>
+        <li onclick="makeShip('asp_explorer')">Asp Explorer</li>
+        <li onclick="makeShip('asp_scout')">Asp Scout</li>
+        <!--  -->
+        <li onclick="makeShip('cobra_mk_3')">Cobra Mk III</li>
+        <li onclick="makeShip('cobra_mk_4')">Cobra Mk IV</li>
+        <li onclick="makeShip('diamondback_explorer')">Diamondback Explorer</li>
+        <li onclick="makeShip('diamondback_scout')">Diamondback Scout</li>
+        <!--  -->
+        <li onclick="makeShip('eagle_mk_2')">Eagle Mk II</li>
+        <li onclick="makeShip('federal_assault_ship')">Federal Assault Ship</li>
+        <li onclick="makeShip('federal_corvette')">Federal Corvette</li>
+        <li onclick="makeShip('federal_dropship')">Federal Dropship</li>
+        <li onclick="makeShip('federal_gunship')">Federal Gunship</li>
+        <li onclick="makeShip('fer_de_lance')">Fer-de-Lance</li>
+        <li onclick="makeShip('hauler')">Hauler</li>
+        <li onclick="makeShip('imperial_clipper')">Imperial Clipper</li>
+        <li onclick="makeShip('imperial_courier')">Imperial Courier</li>
+        <li onclick="makeShip('imperial_cutter')">Imperial Cutter</li>
+        <li onclick="makeShip('imperial_eagle')">Imperial Eagle</li>
+        <li onclick="makeShip('keelback')">Keelback</li>
+        <li onclick="makeShip('krait')">Krait</li>
+        <li onclick="makeShip('mamba_mk_2')">Mamba Mk II</li>
+        <li onclick="makeShip('merlin')">Merlin</li>
+        <!--  -->
+        <li onclick="makeShip('python')">Python</li>
+        <li onclick="makeShip('sidewinder')">Sidewinder</li>
+        <li onclick="makeShip('type_6_transporter')">Type-6 Transporter</li>
+        <li onclick="makeShip('type_7_transporter')">Type-7 Transporter</li>
+        <li onclick="makeShip('type_9_heavy')">Type-9 Heavy</li>
+        <!--  -->
+        <li onclick="makeShip('viper_mk_3')">Viper Mk III</li>
+        <li onclick="makeShip('viper_mk_4')">Viper Mk IV</li>
+        <li onclick="makeShip('vulture')">Vulture</li>
+        <li onclick="makeShip('fighter_condor')"><span>fighter</span>Condor</li>
+        <li onclick="makeShip('fighter_imperial')"><span>fighter</span>Imperial</li>
+        <li onclick="makeShip('fighter_taipan')"><span>fighter</span>Taipan</li>
+        <!-- <li onclick="makeShip('mongoose')">Mongoose</li> -->
+        <!-- <li onclick="makeShip('boa_mk_3')">Boa MK III</li> -->
+        <!-- <li onclick="makeShip('imperial_explorer')">Imperial Explorer</li> -->
+        <li onclick="makeShip('alliance_chieftain')"><span>Alliance Chieftain</span></li>
+        <li onclick="makeShip('beluga_liner')"><span>Beluga Liner</span></li>
+        <li onclick="makeShip('dolphin')"><span>Dolphin</span></li>
+        <li onclick="makeShip('orca')"><span>Orca</span></li>
+        <li onclick="makeShip('type_10_defender')"><span>Type-10 Defender</span></li>
+      </ul>
+    </div>
+    <div class="grow"></div>
+    <div class="group relative">
+      <div class="btn-hover"><span class="mr-2">background</span>&#x1F783;</div>
+      <ul id="backgrounds" class="dropdown-list dropdown-list-images not-scrollable">
+        <li onclick="changeBackground('01')"><img src="./images/spaceship_combat_map_preview_01.png" /></li>
+        <li onclick="changeBackground('02')"><img src="./images/spaceship_combat_map_preview_02.png" /></li>
+        <li onclick="changeBackground('03')"><img src="./images/spaceship_combat_map_preview_03.png" /></li>
+        <li onclick="changeBackground('04')"><img src="./images/spaceship_combat_map_preview_04.png" /></li>
+        <li onclick="changeBackground('05')"><img src="./images/spaceship_combat_map_preview_05.png" /></li>
+      </ul>
+    </div>
+    <div class="btn" onclick="toggleText(this)">action text - 1</div>
+    <div class="btn" onclick="toggleCircleColor()">circle / text color</div>
+  </div>
+
+  <div class="z-10 absolute inset-0 flex items-center justify-center">
+    <div id="circle" class="h-[90%] aspect-square rounded-full border-8 border-cyan-300/80 bg-cyan-950/30"></div>
+  </div>
+  <div class="z-20 absolute inset-0 flex items-center justify-center">
+    <div id="action-text-1" class="flex flex-col text-center text-2xl text-cyan-200/60 select-none text-shadow"></div>
+    <div id="action-text-2" class="absolute left-16 bottom-16 flex flex-col text-2xl text-cyan-200/60 select-none text-shadow"></div>
+    <div id="action-text-3" class="absolute right-16 top-24 flex flex-col text-2xl text-cyan-200/60 select-none text-shadow"></div>
+  </div>
+
+  <div id="explosion" class="absolute z-40 bg-[url('./images/explosion.png')] bg-no-repeat pointer-events-none w-[190px] h-[190px]" style="background-position: -386px -386px;"></div>
+</body>
+</html>
+
+<template id="ship">
+  <div class="z-30 hover:z-[31] absolute left-48 top-12 flex flex-col items-center group select-none">
+    <div class="p-2 rounded-lg transition-colors duration-150 group-hover:bg-green-500/30 hover:cursor-pointer flex items-center justify-center">
+      <img src="" class="pointer-events-none" />
+    </div>
+    <div class="h-[2px] w-3/5 bg-green-500/70"></div>
+    <div class="w-full h-5 flex items-center justify-center overflow-visible text-sm" onclick="editName(this)">
+      <div class="text-white px-1 pointer-events-none text-shadow"></div>
+      <input class="hidden text-center w-28 text-white focus:outline-none focus:bg-white/0 bg-white/0" oninput="setName(this)" onblur="hideInput(this)" onkeypress="blurOnEnter(event)" onfocus="this.select()" spellcheck="false" />
+    </div>
+    <div class="h-[2px] w-full bg-green-500/70"></div>
+    <div class="absolute left-0 right-0 top-[100%] flex flex-col items-center gap-y-px overflow-visible hidden-group-content">
+      <div class="btn-ship mt-px" onclick="changeSides(this)">change sides</div>
+      <div class="btn-ship" onclick="remove(this)">remove</div>
+      <div class="btn-ship" onclick="remove(this, true)">destroy</div>
+      <div class="h-6 w-full min-w-32 flex items-center justify-center py-1.5">
+        <input type="range" min="0" max="360" value="0" oninput="rotateImage(this)" class="w-5/6 grayscale opacity-70" />
+      </div>
+    </div>
+  </div>
+</template>
+
+<template id="actions-in-1">
+  <div>Broadsides</div>
+  <div>Disengage</div>
+  <div>Dogfight</div>
+  <div>Flight assist off</div>
+  <div>Pass</div>
+  <div>Ram</div>
+</template>
+
+<template id="actions-in-2">
+  <div>Dogfight</div>
+  <div>Disengage</div>
+</template>
+
+<template id="actions-out-1">
+  <div>Chicken</div>
+  <div>Flee</div>
+  <div>Joust</div>
+  <div>Pass</div>
+  <div>Snipe</div>
+  <div>Strafe</div>
+</template>
+
+<template id="actions-out-2">
+  <div>Flee</div>
+  <div>Joust</div>
+  <div>Snipe</div>
+</template>
