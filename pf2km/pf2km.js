@@ -75,13 +75,15 @@ function generateSave() {
 function loadSave() {
   const input = gebi("data-in").value.trim();
 
-  const playerTokenLocation = input.split("-")[0];
-  const selectedNodes = input.split("-")[1].split(",");
+  try {
+    const playerTokenLocation = input.split("-")[0];
+    const selectedNodes = input.split("-")[1].split(",");
 
-  placePlayerToken(gebi(`hex-${playerTokenLocation}`));
+    placePlayerToken(gebi(`hex-${playerTokenLocation}`));
 
-  for (let i = 0; i < hexList.length; i++) {
-    hexList[i].classList.remove("opacity-0");
-    if (selectedNodes.includes(hexList[i].id.split("-")[1])) { hexList[i].classList.add("opacity-0"); }
-  }
+    for (let i = 0; i < hexList.length; i++) {
+      hexList[i].classList.remove("opacity-0");
+      if (selectedNodes.includes(hexList[i].id.split("-")[1])) { hexList[i].classList.add("opacity-0"); }
+    }
+  } catch (error) {}
 }
