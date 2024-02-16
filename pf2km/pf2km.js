@@ -1,20 +1,30 @@
 
 function gebi(name) { return document.getElementById(name); }
 
+const hexCount = 354;
+
 let partyToken;
-let nodeList;
+let hexList;
 
 document.addEventListener("DOMContentLoaded", () => {
   partyToken = gebi("party-token");
-  nodeList = document.querySelectorAll("#hex-container > div");
 
   gebi("data-in").value = "";
   gebi("data-out").value = "";
 
-  for (let i = 0; i < nodeList.length; i++) {
-    nodeList[i].id = `node-${i}`;
-    nodeList[i].onclick = nodeClickHandler;
+  clone = gebi("hex-grid-template").content.cloneNode(true);
+  const hexContainer = clone.querySelector("div");
+  for (let i = 0; i < hexCount; i++) {
+    const newDiv = document.createElement("div");
+
+    newDiv.id = `hex-${i}`;
+    newDiv.onclick = nodeClickHandler;
+
+    hexContainer.appendChild(newDiv);
   }
+
+  hexList = hexContainer.querySelectorAll("div");
+  gebi("hex-grid").appendChild(clone);
 });
 
 // ============================================================================
@@ -53,9 +63,9 @@ function generateSave() {
   let selectedNodes = [];
   const playerTokenLocation = partyToken.dataset.node;
 
-  for (let i = 0; i < nodeList.length; i++) {
-    if (nodeList[i].classList.contains("opacity-0")) { 
-      selectedNodes.push(nodeList[i].id.split("-")[1]);
+  for (let i = 0; i < hexList.length; i++) {
+    if (hexList[i].classList.contains("opacity-0")) { 
+      selectedNodes.push(hexList[i].id.split("-")[1]);
     }
   }
 
@@ -68,10 +78,10 @@ function loadSave() {
   const playerTokenLocation = input.split("-")[0];
   const selectedNodes = input.split("-")[1].split(",");
 
-  placePlayerToken(gebi(`node-${playerTokenLocation}`));
+  placePlayerToken(gebi(`hex-${playerTokenLocation}`));
 
-  for (let i = 0; i < nodeList.length; i++) {
-    nodeList[i].classList.remove("opacity-0");
-    if (selectedNodes.includes(nodeList[i].id.split("-")[1])) { nodeList[i].classList.add("opacity-0"); }
+  for (let i = 0; i < hexList.length; i++) {
+    hexList[i].classList.remove("opacity-0");
+    if (selectedNodes.includes(hexList[i].id.split("-")[1])) { hexList[i].classList.add("opacity-0"); }
   }
 }

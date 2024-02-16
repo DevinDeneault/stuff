@@ -19,48 +19,13 @@
 
     <div id="bg-img" class="z-0 absolute top-0 left-0 bg-[url('./pf2km/images/Kingmaker-Stolen-Lands-Accurate-grid-no-labels.webp')] bg-no-repeat map-width map-height"></div>
 
-    <div class="hex-grid z-10 absolute top-0 left-0 map-width map-height opacity-65">
-      <div id="hex-container" class="-ml-[28px] pt-[5px] map-width-modified map-height">
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div>
-      </div>
-    </div>
+    <div id="hex-grid" class="z-10 absolute top-0 left-0 map-width map-height opacity-65"></div>
 
     <div id="party-token" class="absolute z-30 bg-[url('./pf2km/images/party.png')] bg-no-repeat pointer-events-none w-[64px] h-[64px] bg-contain opacity-0" data-node="0"></div>
   </div>
 </body>
 </html>
+
+<template id="hex-grid-template">
+  <div class="hex-container -ml-[28px] pt-[5px] map-width-modified map-height"></div>
+</template>
