@@ -75,7 +75,7 @@ function generateSave() {
 function loadSave() {
   const input = atob(gebi("data-in").value.trim());
 
-  try {
+  if (isValidString(input)) {
     const playerTokenLocation = input.split("-")[0];
     const selectedNodes = input.split("-")[1].split(",");
 
@@ -85,5 +85,14 @@ function loadSave() {
       hexList[i].classList.remove("opacity-0");
       if (selectedNodes.includes(hexList[i].id.split("-")[1])) { hexList[i].classList.add("opacity-0"); }
     }
-  } catch (error) {}
+  }
+}
+
+function isValidString(string) {
+  const whiteList = "-,0123456789";
+
+  for (let i = 0; i < string.length; i++) {
+      if (whiteList.indexOf(string[i]) === -1) { return false; }
+  }
+  return true;
 }
