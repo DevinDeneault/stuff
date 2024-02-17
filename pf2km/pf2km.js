@@ -69,11 +69,11 @@ function generateSave() {
     }
   }
 
-  gebi("data-out").value = `${playerTokenLocation}-${selectedNodes.join(",")}`;
+  gebi("data-out").value = btoa(`${playerTokenLocation}-${selectedNodes.join(",")}`);
 }
 
 function loadSave() {
-  const input = gebi("data-in").value.trim();
+  const input = atob(gebi("data-in").value.trim());
 
   try {
     const playerTokenLocation = input.split("-")[0];
