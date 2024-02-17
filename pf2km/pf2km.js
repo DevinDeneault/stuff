@@ -103,7 +103,7 @@ function isValidString(string) {
 
 function changeBackground(id) {
   const background = gebi("bg-img");
-  console.log(id);
+
   switch (id) {
     case '1':
       background.style.backgroundImage = "url('./images/kingmaker-stolen-lands-grid-no-labels.webp')";
