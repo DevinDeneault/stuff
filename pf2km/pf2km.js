@@ -96,3 +96,27 @@ function isValidString(string) {
   }
   return true;
 }
+
+// ============================================================================
+// ============================================================================
+// ============================================================================
+
+function changeBackground(id) {
+  const background = gebi("bg-img");
+  console.log(id);
+  switch (id) {
+    case '1':
+      background.style.backgroundImage = "url('./images/kingmaker-stolen-lands-grid-no-labels.webp')";
+      break;
+    case '2':
+      background.style.backgroundImage = "url('./images/kingmaker-stolen-lands-no-grids-no-labels.webp')";
+      break;
+    case '3':
+      background.style.backgroundImage = "url('./images/kingmaker-stolen-lands-no-grid-with-labels.webp')";
+      break;
+    case '4':
+      background.style.backgroundImage = "url('./images/kingmaker-stolen-lands.webp')";
+      break;
+    default:
+  }
+}

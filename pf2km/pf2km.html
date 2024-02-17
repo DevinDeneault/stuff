@@ -10,14 +10,23 @@
 <body class="font-['Merriweather_Sans'] bg-stone-800 [scrollbar-color:#44403C_#1C1917]">
   <div class="fixed h-screen w-screen overflow-auto bg-stone-800 [scrollbar-color:#44403C_#1C1917]">
     <div class="z-40 fixed top-0 left-0 right-0 h-9 bg-stone-900/90 flex items-center gap-x-4 px-4">
-      <div class="km-btn" onclick="loadSave()">load save data</div>
-      <input id="data-in" class="km-input" spellcheck="false" />
+      <div class="group relative">
+        <div class="km-btn-hover"><span class="mr-2">map style</span>&#x1F783;</div>
+        <ul class="km-dropdown-list not-scrollable">
+          <li onclick="changeBackground('1')">grid & <span>no labels</span></li>
+          <li onclick="changeBackground('2')"><span>no grid</span> & <span>no labels</span></li>
+          <li onclick="changeBackground('3')"><span>no grid</span> & labels</li>
+          <li onclick="changeBackground('4')">grid & labels</li>
+        </ul>
+      </div>
       <div class="grow"></div>
+      <div class="km-btn" onclick="loadSave()">load save data</div>
+      <input id="data-in" class="km-input mr-32" spellcheck="false" />
       <div class="km-btn" onclick="generateSave()">generate save data</div>
       <input id="data-out" class="km-input" spellcheck="false" onfocus="this.select();" />
     </div>
 
-    <div id="bg-img" class="z-0 absolute top-0 left-0 bg-[url('./pf2km/images/Kingmaker-Stolen-Lands-Accurate-grid-no-labels.webp')] bg-no-repeat map-width map-height"></div>
+    <div id="bg-img" class="z-0 absolute top-0 left-0 bg-no-repeat map-width map-height" style="background-image: url('./images/Kingmaker-stolen-lands-grid-no-labels.webp');"></div>
 
     <div id="hex-grid" class="z-10 absolute top-0 left-0 map-width map-height opacity-65"></div>
 
