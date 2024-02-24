@@ -1,0 +1,5059 @@
+<!DOCTYPE html>
+
+<head>
+  <title>Clover Pokedex</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <style>
+    @font-face {
+      font-family: 'retro';
+      src: url('./smallest_pixel-7.ttf');
+    }
+  </style>
+  <link rel="stylesheet" type="text/css" href="../styles.css">
+  <script type="text/javascript" src="pkmcloverdex.js"></script>
+</head>
+
+<html>
+
+<body>
+  <div class="bg-nord3 font-mono pt-2 px-2 pb-32">
+    <div id="dex-btn" onclick="toggleShiny(this)">
+      See shiny sprites
+    </div>
+    <div class="dex-region">
+      <div>Fochun region</div>
+      <div>
+        <div class="dex-entry">
+          <div>
+            <div>001</div>
+            <div>Grasshole</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Grasshole.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>002</div>
+            <div>Analgae</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Analgae.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>003</div>
+            <div>Rectreem</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Rectreem.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>004</div>
+            <div>Arabomb</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Arabomb.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>005</div>
+            <div>Iguallah</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Iguallah.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>006</div>
+            <div>Lizakbar</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lizakbar.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>007</div>
+            <div>Ejacasm</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ejacasm.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>008</div>
+            <div>Hosajack</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hosajack.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>009</div>
+            <div>Condoom</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Condoom.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>010</div>
+            <div>Squirrap</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Squirrap.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>011</div>
+            <div>Gampster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gampster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>012</div>
+            <div>Kengeon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Kengeon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>013</div>
+            <div>Frieden</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Frieden.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>014</div>
+            <div>Corooster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Corooster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>015</div>
+            <div>Curicrawl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Curicrawl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>016</div>
+            <div>Gutsicoon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gutsicoon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>017</div>
+            <div>Gutsifly</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gutsifly.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>018</div>
+            <div>Larvades</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Larvades.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>019</div>
+            <div>Proboskito</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Proboskito.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>020</div>
+            <div>Clovour</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Clovour.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>021</div>
+            <div>Chanolour</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chanolour.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>022</div>
+            <div>Nauseon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nauseon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>023</div>
+            <div>Hazmate</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hazmate.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>024</div>
+            <div>Ebolable</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ebolable.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>025</div>
+            <div>Pikotton</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pikotton.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>026</div>
+            <div>Birdhouse</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Birdhouse.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>027</div>
+            <div>Lanshil</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lanshil.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>028</div>
+            <div>Middril</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Middril.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>029</div>
+            <div>Shurismash</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Shurismash.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>030</div>
+            <div>Maymay</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Maymay.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>031</div>
+            <div>Memenace</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Memenace.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>032</div>
+            <div>Vandash</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Vandash.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>033</div>
+            <div>Piguson</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Piguson.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>034</div>
+            <div>Armando</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Armando.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>035</div>
+            <div>Muscledude</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Muscledude.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>036</div>
+            <div>Tripecs</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tripecs.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>037</div>
+            <div>Semdrop</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Semdrop.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>038</div>
+            <div>Semrust</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Semrust.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>039</div>
+            <div>Furnazi</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Furnazi.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>040</div>
+            <div>Finasoven</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Finasoven.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>041</div>
+            <div>Troubait</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Troubait.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>042</div>
+            <div>Tulure</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tulure.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>043</div>
+            <div>Monstrap</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Monstrap.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>044</div>
+            <div>Pixila</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pixila.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>045</div>
+            <div>Fairileon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fairileon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>046</div>
+            <div>Wedgard</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wedgard.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>047</div>
+            <div>Knokedge</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Knokedge.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>048</div>
+            <div>Ribbizap</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ribbizap.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>049</div>
+            <div>Elephas</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Elephas.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>050</div>
+            <div>Seamapan</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Seamapan.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>051</div>
+            <div>Caroline</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Caroline.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>052</div>
+            <div>Chompest</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chompest.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>053</div>
+            <div>Masdawg</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Masdawg.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>054</div>
+            <div>Pasdawg</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pasdawg.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>055</div>
+            <div>Spanke</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spanke.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>056</div>
+            <div>Anaconduke</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Anaconduke.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>057</div>
+            <div>Fishnism</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fishnism.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>058</div>
+            <div>Sjwhale</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sjwhale.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>059</div>
+            <div>Chezetta</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chezetta.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>060</div>
+            <div>Mozzamazel</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mozzamazel.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>061</div>
+            <div>Krokling</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Krokling.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>062</div>
+            <div>Krokizon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Krokizon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>063</div>
+            <div>Conchilla</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Conchilla.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>064</div>
+            <div>Haremit</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Haremit.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>065</div>
+            <div>Coolcube</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Coolcube.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>066</div>
+            <div>Tankube</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tankube.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>067</div>
+            <div>Fabkube</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fabkube.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>068</div>
+            <div>Smogaroben</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Smogaroben.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>069</div>
+            <div>Smoxilon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Smoxilon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>070</div>
+            <div>Machmona</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Machmona.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>071</div>
+            <div>Bacub</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bacub.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>072</div>
+            <div>Urswine</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Urswine.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>073</div>
+            <div>Moostatic</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Moostatic.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>074</div>
+            <div>Mooshock</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mooshock.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>075</div>
+            <div>Pretzely</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pretzely.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>076</div>
+            <div>Deemdow</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Deemdow.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>077</div>
+            <div>Dowster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dowster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>078</div>
+            <div>Cheerly</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cheerly.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>079</div>
+            <div>Cheerific</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cheerific.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>080</div>
+            <div>Mennopaws</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mennopaws.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>081</div>
+            <div>Caracold</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Caracold.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>082</div>
+            <div>Glacialynx</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Glacialynx.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>083</div>
+            <div>Pengas</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pengas.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>084</div>
+            <div>Praeteur</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Praeteur.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>085</div>
+            <div>Praestish</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Praestish.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>086</div>
+            <div>Flowre</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Flowre.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>087</div>
+            <div>Florious</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Florious.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>088</div>
+            <div>Juarecito</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Juarecito.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>089</div>
+            <div>Ponchito</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ponchito.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>090</div>
+            <div>Somboludo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Somboludo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>091</div>
+            <div>Puppacti</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Puppacti.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>092</div>
+            <div>Marionettl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Marionettl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-water">Water</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>093</div>
+            <div>Tittai</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tittai.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>094</div>
+            <div>Octai</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Octai.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>095</div>
+            <div>Charagon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Charagon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>096</div>
+            <div>Hyletrack</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hyletrack.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>097</div>
+            <div>Euphoreal</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Euphoreal.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>098</div>
+            <div>Armowite</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Armowite.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>099</div>
+            <div>Praunch</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Praunch.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>100</div>
+            <div>Karawn</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Karawn.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>101</div>
+            <div>Mabster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mabster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>102</div>
+            <div>Tricient</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tricient.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>103</div>
+            <div>Tricillion</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tricillion.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>104</div>
+            <div>Poizookie</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Poizookie.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>105</div>
+            <div>Toxiraptor</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Toxiraptor.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>106</div>
+            <div>Sabreck</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sabreck.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>107</div>
+            <div>Huntabre</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Huntabre.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>108</div>
+            <div>Pyralink</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pyralink.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>109</div>
+            <div>Singlets</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Singlets.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>110</div>
+            <div>Dubus</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dubus.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>111</div>
+            <div>Tripsius</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tripsius.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>112</div>
+            <div>Miasmer</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Miasmer.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>113</div>
+            <div>Miasmortor</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Miasmortor.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>114</div>
+            <div>Cacademon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cacademon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>115</div>
+            <div>Hanginy</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hanginy.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>116</div>
+            <div>Chancer</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chancer.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>117</div>
+            <div>Unjoy</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Unjoy.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>118</div>
+            <div>Frosowl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Frosowl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>119</div>
+            <div>Whizzard</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Whizzard.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>120</div>
+            <div>Drapillar</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Drapillar.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>121</div>
+            <div>Caparagon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Caparagon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>122</div>
+            <div>Mantrake</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mantrake.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>123</div>
+            <div>Ogrelord</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ogrelord.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>124</div>
+            <div>Chantruth</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chantruth.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>125</div>
+            <div>Inbitween</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Inbitween.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>126</div>
+            <div>Geigh</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Geigh.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>127</div>
+            <div>Jarape</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Jarape.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>128</div>
+            <div>Spilefree</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spilefree.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>129</div>
+            <div>Bongecko</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bongecko.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>130</div>
+            <div>Mariguana</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mariguana.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>131</div>
+            <div>Marleyzard</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Marleyzard.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>132</div>
+            <div>Blobbos</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Blobbos.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>133</div>
+            <div>Ayylamo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ayylamo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>134</div>
+            <div>Smellox</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Smellox.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>135</div>
+            <div>Chasumo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chasumo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>136</div>
+            <div>Oilslam</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Oilslam.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>137</div>
+            <div>Isissin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Isissin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>138</div>
+            <div>Stuffowl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Stuffowl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>139</div>
+            <div>Durkey</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Durkey.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>140</div>
+            <div>Upchucken</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Upchucken.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>141</div>
+            <div>Dragun</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dragun.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>142</div>
+            <div>Triggedon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Triggedon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>143</div>
+            <div>Cannonance</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cannonance.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>144</div>
+            <div>Evacycle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Evacycle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>145</div>
+            <div>Foryu</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Foryu.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>146</div>
+            <div>Scytill</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Scytill.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>147</div>
+            <div>Baddon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Baddon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>148</div>
+            <div>Endranther</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Endranther.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>149</div>
+            <div>Notridley</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Notridley.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>150</div>
+            <div>Demiwaifu</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Demiwaifu.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>151</div>
+            <div>Clovenix</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Clovenix.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dex-region">
+      <div>Ebin region</div>
+      <div>
+        <div class="dex-entry">
+          <div>
+            <div>152</div>
+            <div>Reptyke</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Reptyke.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>153</div>
+            <div>Rasclobber</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Rasclobber.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>154</div>
+            <div>Batterex</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Batterex.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>155</div>
+            <div>Faeriock</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Faeriock.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>156</div>
+            <div>Sylvuin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sylvuin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>157</div>
+            <div>Oburonyxo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Oburonyxo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>158</div>
+            <div>Cloucat</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cloucat.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-flying">Flying</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>159</div>
+            <div>Felimbus</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Felimbus.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-flying">Flying</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>160</div>
+            <div>Deathorus</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Deathorus.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-flying">Flying</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>161</div>
+            <div>Knogoat</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Knogoat.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>162</div>
+            <div>Knogrinyu</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Knogrinyu.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>163</div>
+            <div>Glasshot</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Glasshot.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>164</div>
+            <div>Glassannon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Glassannon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>165</div>
+            <div>Fluffyeti</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fluffyeti.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>166</div>
+            <div>Yedoom</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Yedoom.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>167</div>
+            <div>Mirrostine</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mirrostine.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>168</div>
+            <div>Mudpants</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mudpants.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>169</div>
+            <div>Mudslacks</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mudslacks.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>170</div>
+            <div>Bukitlee</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bukitlee.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>171</div>
+            <div>Lossolith</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lossolith.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>172</div>
+            <div>Mimimie</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mimimie.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>173</div>
+            <div>Sprucifix</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sprucifix.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>174</div>
+            <div>Hulkan</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hulkan.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>175</div>
+            <div>Nonite</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nonite.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>176</div>
+            <div>Nonegative</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nonegative.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>177</div>
+            <div>Nomaestro</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nomaestro.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>178</div>
+            <div>Dunkypea</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dunkypea.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>179</div>
+            <div>Burdmen</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Burdmen.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>180</div>
+            <div>Nutzboltz</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nutzboltz.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>181</div>
+            <div>Kuklux</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Kuklux.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>182</div>
+            <div>Kuklan</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Kuklan.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>183</div>
+            <div>Flameboyan</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Flameboyan.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>184</div>
+            <div>Piicee</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Piicee.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>185</div>
+            <div>Sonnanos</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sonnanos.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>186</div>
+            <div>Plebbles</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Plebbles.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>187</div>
+            <div>Sapleaf</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sapleaf.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>188</div>
+            <div>Ignut</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ignut.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>189</div>
+            <div>Phantash</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Phantash.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>190</div>
+            <div>Polossus</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Polossus.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>191</div>
+            <div>Hitmonana</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hitmonana.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>192</div>
+            <div>Ballacle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ballacle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>193</div>
+            <div>Barbarkley</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Barbarkley.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>194</div>
+            <div>Kekroach</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Kekroach.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-bug">Bug</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>195</div>
+            <div>Rekroach</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Rekroach.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-bug">Bug</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>196</div>
+            <div>Ricosheep</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ricosheep.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>197</div>
+            <div>Ricosuave</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ricosuave.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>198</div>
+            <div>Spaghefant</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spaghefant.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>199</div>
+            <div>Crystaquil</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Crystaquil.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>200</div>
+            <div>Crystaking</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Crystaking.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>201</div>
+            <div>Fontaba</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fontaba.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>202</div>
+            <div>Floconut</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Floconut.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>203</div>
+            <div>Sappalm</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sappalm.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>204</div>
+            <div>Roynapalm</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Roynapalm.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>205</div>
+            <div>Manateet</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Manateet.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-ice">Ice</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>206</div>
+            <div>Manatorque</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Manatorque.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-ice">Ice</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>207</div>
+            <div>Manatank</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Manatank.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-ice">Ice</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>208</div>
+            <div>Anonymouse</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Anonymouse.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>209</div>
+            <div>Motherfuck</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Motherfuck.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>210</div>
+            <div>Ninoop</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ninoop.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>211</div>
+            <div>Draconius</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Draconius.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>212</div>
+            <div>Ticktac</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ticktac.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>213</div>
+            <div>Eareticle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Eareticle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>214</div>
+            <div>Scythear</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Scythear.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>215</div>
+            <div>Cozload</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cozload.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-bug">Bug</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>216</div>
+            <div>Snugware</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Snugware.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-bug">Bug</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>217</div>
+            <div>Fleespecs</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fleespecs.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-bug">Bug</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>218</div>
+            <div>Honrade</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Honrade.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>219</div>
+            <div>Embortion</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Embortion.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>220</div>
+            <div>Premantom</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Premantom.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>221</div>
+            <div>Galavik</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Galavik.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>222</div>
+            <div>Galavire</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Galavire.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>223</div>
+            <div>Galaviste</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Galaviste.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>224</div>
+            <div>Pollefin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pollefin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>225</div>
+            <div>Florigrace</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Florigrace.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>226</div>
+            <div>Lasslee</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lasslee.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>227</div>
+            <div>Wifemin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wifemin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>228</div>
+            <div>Uwotto</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Uwotto.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>229</div>
+            <div>Venowatt</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Venowatt.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>230</div>
+            <div>Vaultevour</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Vaultevour.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>231</div>
+            <div>Semdemen</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Semdemen.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>232</div>
+            <div>Dragking</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dragking.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>233</div>
+            <div>Kuuroba</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Kuuroba.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>234</div>
+            <div>Baitmaster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Baitmaster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>235</div>
+            <div>Spookster</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spookster.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>236</div>
+            <div>Spookeer</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spookeer.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>237</div>
+            <div>Spookzilla</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spookzilla.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>238</div>
+            <div>Derpato</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Derpato.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>239</div>
+            <div>Retater</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Retater.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>240</div>
+            <div>Potarded</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Potarded.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>241</div>
+            <div>Sadfish</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sadfish.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>242</div>
+            <div>Deloris</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Deloris.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>243</div>
+            <div>Oreon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Oreon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>244</div>
+            <div>Farfigtron</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Farfigtron.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>245</div>
+            <div>Regirode</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Regirode.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>246</div>
+            <div>Regimelt</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Regimelt.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>247</div>
+            <div>Regirust</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Regirust.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>248</div>
+            <div>Jewipede</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Jewipede.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>249</div>
+            <div>Vivaiger</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Vivaiger.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>250</div>
+            <div>Heliofug</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Heliofug.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>251</div>
+            <div>Adesign</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Adesign.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-typeless">???</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dex-region">
+      <div>Kekkoh region</div>
+      <div>
+        <div class="dex-entry">
+          <div>
+            <div>252</div>
+            <div>Sadrog</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sadrog.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>253</div>
+            <div>Smugrok</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Smugrok.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>254</div>
+            <div>Peperee</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Peperee.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>255</div>
+            <div>Hodtog</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hodtog.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>256</div>
+            <div>Wienebark</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wienebark.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>257</div>
+            <div>Saudoge</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Saudoge.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>258</div>
+            <div>Gnarrk</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gnarrk.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>259</div>
+            <div>Corsharrk</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Corsharrk.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>260</div>
+            <div>Davyjaws</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Davyjaws.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>261</div>
+            <div>Humpunny</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Humpunny.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>262</div>
+            <div>Bunnorgy</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bunnorgy.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>263</div>
+            <div>Emelgy</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Emelgy.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>264</div>
+            <div>Fedorawk</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fedorawk.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>265</div>
+            <div>FaZeagle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/FaZeagle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>266</div>
+            <div>Catikillar</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Catikillar.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>267</div>
+            <div>Tikoon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tikoon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>268</div>
+            <div>Oogabuga</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Oogabuga.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-grass">Grass</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>269</div>
+            <div>Ebining</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ebining.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>270</div>
+            <div>Emplyin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Emplyin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>271</div>
+            <div>Upbote</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Upbote.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>272</div>
+            <div>Upbeddit</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Upbeddit.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>273</div>
+            <div>Flipbird</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Flipbird.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>274</div>
+            <div>Wheygle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wheygle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>275</div>
+            <div>Gangnome</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gangnome.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>276</div>
+            <div>Pyongnome</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pyongnome.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>277</div>
+            <div>Bruhkid</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bruhkid.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>278</div>
+            <div>Ubruh</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ubruh.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>279</div>
+            <div>Walruse</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Walruse.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>280</div>
+            <div>Walruskie</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Walruskie.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>281</div>
+            <div>Diobat</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Diobat.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>282</div>
+            <div>Warudio</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Warudio.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>283</div>
+            <div>Docee</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Docee.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>284</div>
+            <div>Donutsteel</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Donutsteel.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>285</div>
+            <div>Cakupple</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cakupple.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>286</div>
+            <div>Fondupple</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fondupple.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>287</div>
+            <div>Baloofang</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Baloofang.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>288</div>
+            <div>Socckat</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Socckat.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>289</div>
+            <div>Egylamp</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Egylamp.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>290</div>
+            <div>Ruselamp</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ruselamp.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>291</div>
+            <div>Mehndior</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Mehndior.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>292</div>
+            <div>Tunakking</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tunakking.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>293</div>
+            <div>Missletoe</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Missletoe.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>294</div>
+            <div>Hohohoming</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hohohoming.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>295</div>
+            <div>Flaa</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Flaa.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>296</div>
+            <div>Hopault</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hopault.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>297</div>
+            <div>Araketsu</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Araketsu.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>298</div>
+            <div>Senketula</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Senketula.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>299</div>
+            <div>Falcaptain</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Falcaptain.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fighting">Fight</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>300</div>
+            <div>Cirpent</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cirpent.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>301</div>
+            <div>Traumobra</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Traumobra.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>302</div>
+            <div>Lizascoop</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lizascoop.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>303</div>
+            <div>Reptrill</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Reptrill.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>304</div>
+            <div>Fefeion</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fefeion.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>305</div>
+            <div>Feferun</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Feferun.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>306</div>
+            <div>Jerkle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Jerkle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>307</div>
+            <div>Faptime</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Faptime.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>308</div>
+            <div>Shiriman</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Shiriman.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>309</div>
+            <div>Fresrye</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fresrye.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>310</div>
+            <div>Dedwheat</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dedwheat.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>311</div>
+            <div>Nutjobber</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Nutjobber.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>312</div>
+            <div>Deisnutz</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Deisnutz.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ghost">Ghost</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>313</div>
+            <div>Spargle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spargle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>314</div>
+            <div>Spedo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spedo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>315</div>
+            <div>Housant</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Housant.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>316</div>
+            <div>Apartmant</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Apartmant.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-rock">Rock</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>317</div>
+            <div>Fuermiga</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fuermiga.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>318</div>
+            <div>Maripyro</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Maripyro.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>319</div>
+            <div>Confirmabi</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Confirmabi.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>320</div>
+            <div>Bulbapedo</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Bulbapedo.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>321</div>
+            <div>Wastenaut</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wastenaut.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>322</div>
+            <div>Wantnaut</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Wantnaut.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>323</div>
+            <div>Cansumor</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cansumor.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-poison">Poison</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>324</div>
+            <div>Snuffant</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Snuffant.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>325</div>
+            <div>Cokemmoth</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cokemmoth.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>326</div>
+            <div>Grimdak</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Grimdak.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>327</div>
+            <div>Shroofle</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Shroofle.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>328</div>
+            <div>Betacluck</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Betacluck.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>329</div>
+            <div>Thundacock</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Thundacock.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>330</div>
+            <div>Twinfowl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Twinfowl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>331</div>
+            <div>Avianjoin</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Avianjoin.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-steel">Steel</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>332</div>
+            <div>Illuminowl</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Illuminowl.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>333</div>
+            <div>Illumatrix</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Illumatrix.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>334</div>
+            <div>Typobop</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Typobop.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>335</div>
+            <div>Yeerex</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Yeerex.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>336</div>
+            <div>Randomix</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Randomix.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-water">Water</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>337</div>
+            <div>Cthullord</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Cthullord.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-water">Water</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>338</div>
+            <div>Quiboom</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Quiboom.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>339</div>
+            <div>Gynuke</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Gynuke.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>340</div>
+            <div>Rainglock</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Rainglock.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>341</div>
+            <div>Beatmarine</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Beatmarine.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>342</div>
+            <div>Substarr</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Substarr.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>343</div>
+            <div>Hofucno</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hofucno.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>344</div>
+            <div>Hornigiri</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hornigiri.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>345</div>
+            <div>Hornicier</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hornicier.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>346</div>
+            <div>Hornititan</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Hornititan.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>347</div>
+            <div>Preasu</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Preasu.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>348</div>
+            <div>Undastand</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Undastand.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>349</div>
+            <div>Warney</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Warney.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>350</div>
+            <div>Banageddon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Banageddon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>351</div>
+            <div>Acufront</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Acufront.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>352</div>
+            <div>Militant</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Militant.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>353</div>
+            <div>Shiggydig</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Shiggydig.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>354</div>
+            <div>Signot</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Signot.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>355</div>
+            <div>Reagain</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Reagain.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-dark">Dark</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>356</div>
+            <div>Ormite</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ormite.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>357</div>
+            <div>Viristal</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Viristal.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-rock">Rock</div>
+            <div class="type-electric">Elec</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>358</div>
+            <div>Rolango</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Rolango.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>359</div>
+            <div>Dreameme</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dreameme.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dragon">Dragon</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>360</div>
+            <div>Pearchie</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pearchie.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-normal">Normal</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>361</div>
+            <div>Tarditank</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tarditank.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-water">Water</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>362</div>
+            <div>Iplora</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Iplora.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>363</div>
+            <div>Chromox</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Chromox.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-steel">Steel</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>364</div>
+            <div>Pitayen</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Pitayen.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>365</div>
+            <div>Dragaya</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Dragaya.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>366</div>
+            <div>Frutagon</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Frutagon.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-grass">Grass</div>
+            <div class="type-dragon">Dragon</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>367</div>
+            <div>Biteki</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Biteki.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ice">Ice</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>368</div>
+            <div>Sesquatch</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Sesquatch.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>369</div>
+            <div>Fireshi</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fireshi.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>370</div>
+            <div>Fireshitwi</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fireshitwi.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>371</div>
+            <div>Fireshitre</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Fireshitre.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fire">Fire</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>372</div>
+            <div>Slugbud</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Slugbud.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>373</div>
+            <div>Slughug</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Slughug.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>374</div>
+            <div>Slugfugg</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Slugfugg.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-poison">Poison</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>375</div>
+            <div>Skeletroll</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Skeletroll.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>376</div>
+            <div>Spookscare</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Spookscare.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>377</div>
+            <div>Goryannus</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Goryannus.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-ground">Ground</div>
+            <div class="type-ghost">Ghost</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>378</div>
+            <div>Lankong</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Lankong.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>379</div>
+            <div>Ballankey</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Ballankey.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>380</div>
+            <div>Funnedong</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Funnedong.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-normal">Normal</div>
+            <div class="type-fighting">Fight</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>381</div>
+            <div>Narwhiz</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Narwhiz.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-water">Water</div>
+            <div class="type-fairy">Fairy</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>382</div>
+            <div>Niterpent</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Niterpent.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-electric">Elec</div>
+            <div class="type-fire">Fire</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>383</div>
+            <div>Griffawork</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Griffawork.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-psychic">Psy</div>
+            <div class="type-flying">Flying</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>384</div>
+            <div>Boarnograf</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Boarnograf.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-dark">Dark</div>
+            <div class="type-ground">Ground</div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>385</div>
+            <div>Admoot</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Admoot.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-fairy">Fairy</div>
+            <div class="type-blank"></div>
+          </div>
+        </div>
+        <div class="dex-entry">
+          <div>
+            <div>386</div>
+            <div>Tentaquil</div>
+          </div>
+          <div>
+            <img loading="lazy" src="images/sprites-normal/Tentaquil.png" width="64" height="64">
+          </div>
+          <div>
+            <div class="type-bug">Bug</div>
+            <div class="type-psychic">Psy</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

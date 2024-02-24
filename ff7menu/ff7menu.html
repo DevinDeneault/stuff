@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<head>
+  <title>FF7 menu effect</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="../styles.css">
+  <script type="text/javascript" src="ff7menu.js"></script>
+</head>
+
+<html>
+
+<body class="bg-nord6 font-mono">
+  <div>
+    <div class="flex flex-col items-start gap-y-4 pl-4 mt-4">
+      <a
+        href="https://stackoverflow.com/questions/18452885/building-a-4-corners-colors-css3-gradient">https://stackoverflow.com/questions/18452885/building-a-4-corners-colors-css3-gradient</a>
+
+      <div class="flex flex-col">
+        <div class="flex">
+          <span></span>
+          <span class="mr-1">px</span>
+          <input type="range" id="width" min="16" max="1024" value="512" onchange="setWidth(this)">
+        </div>
+        <div class="flex">
+          <span></span>
+          <span class="mr-1">px</span>
+          <input type="range" id="height" min="16" max="1024" value="512" onchange="setHeight(this)">
+        </div>
+      </div>
+
+      <div class="border border-nord0 flex gap-x-4 p-0.5">
+        <div class="flex flex-col gap-y-4">
+          <input type="color" id="colorTopLeft" value="#8B0000" onchange="generateCSS()">
+          <input type="color" id="colorBottomLeft" value="#0000FF" onchange="generateCSS()">
+        </div>
+        <div class="flex flex-col gap-y-4">
+          <input type="color" id="colorTopRight" value="#ADD8E6" onchange="generateCSS()">
+          <input type="color" id="colorBottomRight" value="#006400" onchange="generateCSS()">
+        </div>
+      </div>
+
+    </div>
+    <div id="output" class="absolute" style="width: 512px; height: 512px; top: 512px; left: 512px;">
+      <div id="outputLeft" class="absolute inset-0"></div>
+      <div id="outputRight" class="absolute inset-0 [mask-image:linear-gradient(to_left,white,transparent)]"></div>
+    </div>
+  </div>
+</body>
+
+</html>

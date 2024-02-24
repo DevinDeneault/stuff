@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <head>
   <title>PF2: Kingmaker Map</title>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -6,7 +7,9 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans">
   <script type="text/javascript" src="pf2km.js"></script>
 </head>
+
 <html>
+
 <body class="font-['Merriweather_Sans'] bg-stone-800 [scrollbar-color:#44403C_#1C1917]">
   <div class="fixed h-screen w-screen overflow-auto bg-stone-800 [scrollbar-color:#44403C_#1C1917]">
     <div class="z-40 fixed top-0 left-0 right-0 h-9 bg-stone-900/90 flex items-center gap-x-4 px-4">
@@ -26,13 +29,17 @@
       <input id="data-out" class="km-input" spellcheck="false" onfocus="this.select();" />
     </div>
 
-    <div id="bg-img" class="z-0 absolute top-0 left-0 bg-no-repeat map-width map-height" style="background-image: url('./images/kingmaker-stolen-lands-grid-no-labels.webp');"></div>
+    <div id="bg-img" class="z-0 absolute top-0 left-0 bg-no-repeat map-width map-height"
+      style="background-image: url('./images/kingmaker-stolen-lands-grid-no-labels.webp');"></div>
 
     <div id="hex-grid" class="z-10 absolute top-0 left-0 map-width map-height opacity-65"></div>
 
-    <div id="party-token" class="absolute z-30 bg-[url('./pf2km/images/party.png')] bg-no-repeat pointer-events-none w-[64px] h-[64px] bg-contain opacity-0" data-node="0"></div>
+    <div id="party-token"
+      class="absolute z-30 bg-[url('./pf2km/images/party.png')] bg-no-repeat pointer-events-none w-[64px] h-[64px] bg-contain opacity-0"
+      data-node="0"></div>
   </div>
 </body>
+
 </html>
 
 <template id="hex-grid-template">
