@@ -424,13 +424,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   pokemon.forEach((pkm, idx) => {
     const entryClone = gebi("dex-entry-template").content.cloneNode(true);
-    const number = entryClone.querySelector("div > div:nth-child(1) > div:nth-child(1)");
+    const number = entryClone.querySelector("div > div > div");
     number.textContent = `${idx + 1}`.padStart(3, '0');
-    const name = entryClone.querySelector("div > div:nth-child(1) > div:nth-child(2)");
+    const name = entryClone.querySelector("div > div > div:nth-child(2)");
     name.textContent = pkm[0];
-    const image = entryClone.querySelector("div > div:nth-child(2) > div:nth-child(1)");
+    const image = entryClone.querySelector("div > div:nth-child(2) > div");
     image.style.backgroundPosition = spriteImageOffset(idx);
-    const type1 = entryClone.querySelector("div > div:nth-child(3) > div:nth-child(1)");
+    const type1 = entryClone.querySelector("div > div:nth-child(3) > div");
     type1.classList.add(typeStyle(pkm[1]));
     type1.textContent = typeDisplayString(pkm[1]);
     const type2 = entryClone.querySelector("div > div:nth-child(3) > div:nth-child(2)");
@@ -440,6 +440,7 @@ document.addEventListener("DOMContentLoaded", () => {
     contentClone.querySelector(`#region-list-${pkm[3]}`).appendChild(entryClone);
   });
 
+  images = contentClone.querySelectorAll(".dex-entry > div:nth-child(2) > div");
   document.body.appendChild(contentClone);
 });
 
