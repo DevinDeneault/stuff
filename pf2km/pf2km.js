@@ -1,7 +1,5 @@
 
-function gebi(name) { return document.getElementById(name); }
-
-const hexCount = 354;
+const HEX_COUNT = 354;
 
 let partyToken;
 let hexList;
@@ -14,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   clone = gebi("hex-grid-template").content.cloneNode(true);
   const hexContainer = clone.querySelector("div");
-  for (let i = 0; i < hexCount; i++) {
+  for (let i = 0; i < HEX_COUNT; i++) {
     const newDiv = document.createElement("div");
 
     newDiv.id = `hex-${i}`;

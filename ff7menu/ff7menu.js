@@ -1,6 +1,4 @@
 
-function gebi(name) { return document.getElementById(name); }
-
 document.addEventListener("DOMContentLoaded", () => {
   draggable();
   generateCSS();

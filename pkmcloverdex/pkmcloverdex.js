@@ -1,7 +1,5 @@
 
-function gebi(name) { return document.getElementById(name); };
-
-const types = [
+const TYPE_DATA = [
   "typeless",
   "normal",
   "fire",
@@ -27,7 +25,7 @@ const types = [
 // type 1 and type 2 are index values to the array above
 // -1 means no value and should be handled (obviously not an index)
 // region is a reference to css IDs in the html
-const pokemon = [
+const POKEMON_DATA = [
   ["grasshole", 5, -1, 0], ["analgae", 5, 9, 0], ["rectreem", 5, 9, 0], ["arabomb", 2, -1, 0], ["iguallah", 2, 16, 0],
   ["lizakbar", 2, 16, 0], ["ejacasm", 3, -1, 0], ["hosajack", 3, 8, 0], ["condoom", 3, 8, 0], ["squirrap", 1, -1, 0],
   ["gampster", 1, -1, 0], ["kengeon", 1, 10, 0], ["frieden", 1, 10, 0], ["corooster", 1, 10, 0], ["curicrawl", 12, -1, 0],
@@ -114,7 +112,7 @@ let images = [];
 document.addEventListener("DOMContentLoaded", () => {
   const contentClone = gebi("content-template").content.cloneNode(true);
 
-  pokemon.forEach((pkm, idx) => {
+  POKEMON_DATA.forEach((pkm, idx) => {
     const entryClone = gebi("dex-entry-template").content.cloneNode(true);
     const number = entryClone.querySelector("div > div > div");
     number.textContent = `${idx + 1}`.padStart(3, '0');
@@ -147,7 +145,7 @@ function typeStyle(idx) {
     return "type-blank";
   }
   else {
-    return `type-${types[idx]}`;
+    return `type-${TYPE_DATA[idx]}`;
   }
 }
 
@@ -156,7 +154,7 @@ function typeDisplayString(idx) {
     return "";
   }
   else {
-    return types[idx];
+    return TYPE_DATA[idx];
   }
 }
 

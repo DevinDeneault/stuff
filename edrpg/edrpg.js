@@ -1,9 +1,7 @@
 
-function gebi(name) { return document.getElementById(name); }
-
 let actionTextStyle = 0;
 
-const shipData = {
+const SHIP_DATA = {
   "adder": {displayName: "Adder", width: "50px", size: 2},
   "anaconda": {displayName: "Anaconda", width: "92px", size: 4},
   "asp_explorer": {displayName: "Asp Explorer", width: "82px", size: 3},
@@ -149,15 +147,15 @@ function makeShip(ship) {
   const clone = template.content.cloneNode(true);
   const base = clone.querySelector("div");
   const name = base.querySelector("div:nth-child(3) > div");
-  name.textContent = shipData[ship].displayName;
+  name.textContent = SHIP_DATA[ship].displayName;
   const nameInput = base.querySelector("div:nth-child(3) > input");
-  nameInput.value = shipData[ship].displayName;
+  nameInput.value = SHIP_DATA[ship].displayName;
   const image = base.querySelector("div > img");
   image.src = `./images/${ship}.png`;
-  image.style.width = shipData[ship].width;
+  image.style.width = SHIP_DATA[ship].width;
   // image.onload = (e) => {
   //   // console.log(`${e.target.naturalWidth} x ${e.target.naturalHeight}`);
-  //   image.style.width = shipData[ship].width;
+  //   image.style.width = SHIP_DATA[ship].width;
   // }
 
   document.body.appendChild(clone);
@@ -263,7 +261,7 @@ function explosion(element) {
 
   explosion.style.top = `${yCenter - (Math.floor(explosion.getBoundingClientRect().height / 2))}px`;
   explosion.style.left = `${xCenter - (Math.floor(explosion.getBoundingClientRect().width / 2))}px`;
-  explosion.style.transform = `scale(${explosionScale[shipData[shipName].size]})`;
+  explosion.style.transform = `scale(${explosionScale[SHIP_DATA[shipName].size]})`;
 
   explosionInterval = setInterval(() => {
     const offset = explosionOffsets[idx++];
