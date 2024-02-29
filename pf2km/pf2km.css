@@ -1,0 +1,43 @@
+/*
+  https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/
+*/
+
+#hex-grid {
+  --s: 90.4px;  /* size  */
+  --m: 0px;    /* margin */
+  --f: calc(1.732 * var(--s) + 4 * var(--m)  - 1px);
+}
+
+.hex-container {
+  font-size: 0; /*disable white space between inline block element */
+}
+
+.hex-container div {
+  cursor: pointer;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+
+  width: var(--s);
+  margin: var(--m);
+  height: calc(var(--s)*1.1547);
+  display: inline-block;
+  font-size: initial;
+  clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
+  background-color: #1C1917;
+  margin-bottom: calc(var(--m) - var(--s)*0.2885);
+}
+
+/* .hex-container div:hover {
+  background: #A09080;
+} */
+
+.hex-container::before {
+  content: "";
+  width: calc(var(--s)/2 + var(--m));
+  float: left;
+  height: 120%;
+  shape-outside: repeating-linear-gradient(
+                   #0000 0 calc(var(--f) - 3px),
+                   #000  0 var(--f));
+}

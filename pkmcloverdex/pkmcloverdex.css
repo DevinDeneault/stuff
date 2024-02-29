@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: 'retro';
+  src: url('./smallest_pixel-7.ttf');
+}
+
+.type-bug { background-color: #9FA424; }
+.type-dark { background-color: #4F4747; }
+.type-dragon { background-color: #5462D6; }
+.type-electric { background-color: #FFDB00; }
+.type-fairy { background-color: #FFB1FF; }
+.type-fighting { background-color: #FFA202; }
+.type-fire { background-color: #FF612C; }
+.type-flying { background-color: #95C9FF; }
+.type-ghost { background-color: #6E4570; }
+.type-grass { background-color: #42BF24; }
+.type-ground { background-color: #AB7939; }
+.type-ice { background-color: #42BFFF; }
+.type-normal { background-color: #999999; }
+.type-poison { background-color: #994DCF; }
+.type-psychic { background-color: #FF637F; }
+.type-rock { background-color: #BCB889; }
+.type-steel { background-color: #6AAED3; }
+.type-water { background-color: #2992FF; }
+.type-typeless { background-color: #68A090; }
+.type-blank { width: 0; }
