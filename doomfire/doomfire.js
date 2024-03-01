@@ -1,13 +1,8 @@
 
 // https://fabiensanglard.net/doom_fire_psx/
 
-const CJS_TICKER_FPS = 27;
 const FIRE_WIDTH = 320;
 const FIRE_HEIGHT = 168;
-
-// Palette based framebuffer. Coordinate system origin upper-left.
-let firePixels = [];
-
 const PALETTE = [
   { r: 7,   g: 7,   b: 7 },
   { r: 31,  g: 7,   b: 7 },
@@ -48,26 +43,47 @@ const PALETTE = [
   { r: 255, g: 255, b: 255 }
 ];
 
-let y_scrolling = 440;
-let stage;
+let firePixels = [];
+let renderInterval;
+let extinguish = false;
+
+let hiddenCanvas;
+let hiddenCanvasContext;
+let outputCanvas;
+let outputCanvasContext;
 
 document.addEventListener("DOMContentLoaded", () => {
-  const paletteDivs = document.querySelectorAll("#doom-color-column > div");
-  for (let x = 0; x < paletteDivs.length; x++) {
-    paletteDivs[x].style.backgroundColor = `rgb(${PALETTE[x].r}, ${PALETTE[x].g}, ${PALETTE[x].b})`;
-  }
+  const colorColumn = gebi("doom-color-column");
+  PALETTE.forEach(color => {
+    const div = document.createElement("div");
+    div.style.backgroundColor = `rgb(${color.r}, ${color.g}, ${color.b})`;
+    colorColumn.appendChild(div);
+  });
 
-  stage = new createjs.Stage("back-buffer");
-  createjs.Ticker.addEventListener("tick", hostFrame);
-  createjs.Ticker.setFPS(CJS_TICKER_FPS);
-  const container = new createjs.Container();
-  stage.addChild(container);
+  hiddenCanvas = gebi("back-buffer");
+  hiddenCanvasContext = hiddenCanvas.getContext("2d");
+  outputCanvas = gebi("front-buffer");
+  outputCanvasContext = outputCanvas.getContext("2d");
+
+  const input = document.querySelector("input");
+  input.value = 27;
 
   // Set whole screen to color 0
   for (let i = 0; i < FIRE_WIDTH * FIRE_HEIGHT; i++) { firePixels[i] = 0; }
   // Set bottom line to color 36
   for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = 36; }
+
+  setRenderInterval(27);
 });
+
+function setRenderInterval(fps) {
+  const intervalVal = Math.round(1000 / fps);
+  clearInterval(renderInterval);
+
+  renderInterval = setInterval(() => {
+    generateFrame();
+  }, intervalVal);
+}
 
 // ============================================================================
 // ============================================================================
@@ -96,53 +112,64 @@ function doFire() {
 // ============================================================================
 // ============================================================================
 
-function hostFrame() {
+// the hidden canvas is the true 1:1 pixel image
+// that is then rendered to the output canvas at a different resolution & aspect ratio
+//       causing 'stretched' pixels
+
+function generateFrame() {
   // Update palette buffer
   doFire();
 
-  const backBuffer = gebi("back-buffer");
-  const color = backBuffer.getContext("2d").getImageData(0, 0, backBuffer.width, backBuffer.height);
+  const hiddenCanvasImage = hiddenCanvasContext.getImageData(0, 0, hiddenCanvas.width, hiddenCanvas.height);
 
   // Convert palette buffer to RGB and write it to ouput.
-  for (let y = 0; y < backBuffer.height; y++) {
-    for (let x = 0; x < backBuffer.width; x++) {
-      const index = firePixels[y * backBuffer.width + x];
-      const pixel = PALETTE[index];
+  for (let y = 0; y < hiddenCanvas.height; y++) {
+    for (let x = 0; x < hiddenCanvas.width; x++) {
+      const colorIndex = firePixels[y * hiddenCanvas.width + x];
+      const color = PALETTE[colorIndex];
+      const canvasPixelIndex = ((hiddenCanvas.width * y) + x) * 4;
 
-      color.data[((backBuffer.width * y) + x) * 4 + 0] = pixel.r;
-      color.data[((backBuffer.width * y) + x) * 4 + 1] = pixel.g;
-      color.data[((backBuffer.width * y) + x) * 4 + 2] = pixel.b;
-      if (pixel.r == 0x07 && pixel.g == 0x07 && pixel.b == 0x07) {
-        color.data[((backBuffer.width * y) + x) * 4 + 3] = 0;
-      } else 
-        // Black pixels need to be transparent to show DOOM logo
-        color.data[((backBuffer.width * y) + x) * 4 + 3] = 255;
+      hiddenCanvasImage.data[canvasPixelIndex + 0] = color.r;
+      hiddenCanvasImage.data[canvasPixelIndex + 1] = color.g;
+      hiddenCanvasImage.data[canvasPixelIndex + 2] = color.b;
+      hiddenCanvasImage.data[canvasPixelIndex + 3] = 255;
     }
   }
 
-  backBuffer.getContext("2d").putImageData(color, 0, 0);
+  hiddenCanvasContext.putImageData(hiddenCanvasImage, 0, 0);
 
-  const frontBuffer = gebi("front-buffer");
-  frontBuffer.getContext("2d").fillStyle = 'black';
-  frontBuffer.getContext("2d").fillRect(0, 0, frontBuffer.width, frontBuffer.height);
-  frontBuffer.getContext("2d").imageSmoothingEnabled = false;
-  frontBuffer.getContext("2d").drawImage(gebi("doom"), 50, y_scrolling, (frontBuffer.width - 100) , frontBuffer.height / 2);
-  frontBuffer.getContext("2d").drawImage(backBuffer, 0, 0, frontBuffer.width, frontBuffer.height);
-  if (y_scrolling != 70)
-    y_scrolling -= 2;
-  else {
-    // Stop fire
-    for (let y = 167; y > 160; y--) {
-      for (let x = 0; x < backBuffer.width; x++) {
-        if (firePixels[y * backBuffer.width + x] > 0)
-          firePixels[y * backBuffer.width + x] -= Math.round(Math.random()) & 3;
-        else {
-          // Stop animation altogether
-          //createjs.Ticker.setFPS(0);
-        }
+  outputCanvasContext.fillStyle = 'black';
+  outputCanvasContext.fillRect(0, 0, outputCanvas.width, outputCanvas.height);
+  outputCanvasContext.imageSmoothingEnabled = false;
+  outputCanvasContext.drawImage(hiddenCanvas, 0, 0, outputCanvas.width, outputCanvas.height);
+
+  if (extinguish) weakenFire();
+}
+
+function weakenFire() {
+  for (let y = 167; y > 160; y--) {
+    for (let x = 0; x < hiddenCanvas.width; x++) {
+      if (firePixels[y * hiddenCanvas.width + x] > 0) {
+        firePixels[y * hiddenCanvas.width + x] -= Math.round(Math.random()) & 3;
       }
     }
   }
-  // Swap buffer
-  stage.update();
+}
+
+// ============================================================================
+// ============================================================================
+// ============================================================================
+
+function setFps(e) {
+  setRenderInterval(e.value);
+  gebi("fps-display").textContent = e.value;
+}
+
+function reignite(e) {
+  extinguish = false;
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = 36; }
+}
+
+function activateExtinguish(e) {
+  extinguish = true;
 }

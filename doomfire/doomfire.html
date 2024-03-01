@@ -5,62 +5,29 @@
   <link rel="shortcut icon" type="image/x-icon" href="doomfire.ico">
   <link rel="stylesheet" type="text/css" href="../styles.css">
   <script type="text/javascript" src="../globals.js"></script>
-  <script type="text/javascript" src="easeljs-0.6.0.min.js"></script>
   <script type="text/javascript" src="doomfire.js"></script>
 </head>
 
 <html>
 
-<body class="bg-nord2">
-  <canvas id="back-buffer" width="320" height="168"></canvas>
-  <img id='doom' src="./images/doom.png" width="379" height="260" class="hidden" />
+<body class="bg-nord0 w-screen h-screen flex flex-col items-center justify-center gap-y-8">
+  <canvas id="back-buffer" width="320" height="168" class="hidden"></canvas>
 
-  <div class="flex mt-8 ml-8 gap-x-1">
+  <div class="flex gap-x-1">
     <div class="border border-black">
       <canvas id="front-buffer" width="640" height="509"></canvas>
     </div>
-    <div id="doom-color-column">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
+    <div id="doom-color-column"></div>
   </div>
 
-  <input type="range" min="0" max="36" class="w-2/3" />
+  <div class="p-4 flex flex-col border-2 border-dashed border-nord3 text-nord4 font-bold">
+    <div class="flex justify-between">
+      <div class="px-2 pb-1 bg-nord3 cursor-pointer" onclick="reignite()">start</div>
+      <div class="px-2 pb-1 bg-nord3 cursor-pointer" onclick="activateExtinguish()">stop</div>
+    </div>
+    <div class="mt-3">target fps: <span id="fps-display" class="text-nord7">27</span></div>
+    <input type="range" min="1" max="60" class="grayscale" onchange="setFps(this)" />
+  </div>
 </body>
 
 </html>

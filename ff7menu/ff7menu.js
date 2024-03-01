@@ -12,12 +12,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function setWidth(e) {
   gebi("output").style.width = `${e.value}px`;
-  e.parentElement.firstChild.textContent = `${e.value}`;
+  gebi("width-display").textContent = `${e.value}`;
 }
 
 function setHeight(e) {
   gebi("output").style.height = `${e.value}px`;
-  e.parentElement.firstChild.textContent = `${e.value}`;
+  gebi("height-display").textContent = `${e.value}`;
 }
 
 function draggable() {
