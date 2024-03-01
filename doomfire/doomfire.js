@@ -43,6 +43,9 @@ const PALETTE = [
   { r: 255, g: 255, b: 255 }
 ];
 
+const INITIAL_TARGET_FPS = 27;
+const INITIAL_INTENSITY = 36;
+
 let firePixels = [];
 let renderInterval;
 let extinguish = false;
@@ -65,15 +68,15 @@ document.addEventListener("DOMContentLoaded", () => {
   outputCanvas = gebi("front-buffer");
   outputCanvasContext = outputCanvas.getContext("2d");
 
-  const input = document.querySelector("input");
-  input.value = 27;
+  gebi("intensity").value = INITIAL_INTENSITY;
+  gebi("fps").value = INITIAL_TARGET_FPS;
 
   // Set whole screen to color 0
   for (let i = 0; i < FIRE_WIDTH * FIRE_HEIGHT; i++) { firePixels[i] = 0; }
   // Set bottom line to color 36
-  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = 36; }
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = INITIAL_INTENSITY; }
 
-  setRenderInterval(27);
+  setRenderInterval(INITIAL_TARGET_FPS);
 });
 
 function setRenderInterval(fps) {
@@ -96,7 +99,7 @@ function spreadFire(src) {
   } else {
     const randIdx = Math.round(Math.random() * 3.0); // & 3;
     const dst = src - randIdx + 1;
-    firePixels[dst - FIRE_WIDTH ] = pixel - (randIdx & 1);
+    firePixels[dst - FIRE_WIDTH] = pixel - (randIdx & 1);
   }
 }
 
@@ -160,6 +163,11 @@ function weakenFire() {
 // ============================================================================
 // ============================================================================
 
+function setIntensity(e) {
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = e.value; }
+  gebi("intensity-display").textContent = e.value;
+}
+
 function setFps(e) {
   setRenderInterval(e.value);
   gebi("fps-display").textContent = e.value;
@@ -167,7 +175,8 @@ function setFps(e) {
 
 function reignite(e) {
   extinguish = false;
-  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = 36; }
+  const intensity = gebi("intensity").value;
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = intensity; }
 }
 
 function activateExtinguish(e) {
