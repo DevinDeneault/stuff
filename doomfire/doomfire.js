@@ -9,23 +9,23 @@ const FIRE_HEIGHT = 168;
 let firePixels = [];
 
 const PALETTE = [
-  { r: 7, g: 7, b: 7 },
-  { r: 31, g: 7, b: 7 },
-  { r: 47, g: 15, b: 7 },
-  { r: 71, g: 15, b: 7 },
-  { r: 87, g: 23, b: 7 },
-  { r: 103, g: 31, b: 7 },
-  { r: 119, g: 31, b: 7 },
-  { r: 143, g: 39, b: 7 },
-  { r: 159, g: 47, b: 7 },
-  { r: 175, g: 63, b: 7 },
-  { r: 191, g: 71, b: 7 },
-  { r: 199, g: 71, b: 7 },
-  { r: 223, g: 79, b: 7 },
-  { r: 223, g: 87, b: 7 },
-  { r: 223, g: 87, b: 7 },
-  { r: 215, g: 95, b: 7 },
-  { r: 215, g: 95, b: 7 },
+  { r: 7,   g: 7,   b: 7 },
+  { r: 31,  g: 7,   b: 7 },
+  { r: 47,  g: 15,  b: 7 },
+  { r: 71,  g: 15,  b: 7 },
+  { r: 87,  g: 23,  b: 7 },
+  { r: 103, g: 31,  b: 7 },
+  { r: 119, g: 31,  b: 7 },
+  { r: 143, g: 39,  b: 7 },
+  { r: 159, g: 47,  b: 7 },
+  { r: 175, g: 63,  b: 7 },
+  { r: 191, g: 71,  b: 7 },
+  { r: 199, g: 71,  b: 7 },
+  { r: 223, g: 79,  b: 7 },
+  { r: 223, g: 87,  b: 7 },
+  { r: 223, g: 87,  b: 7 },
+  { r: 215, g: 95,  b: 7 },
+  { r: 215, g: 95,  b: 7 },
   { r: 215, g: 103, b: 15 },
   { r: 207, g: 111, b: 15 },
   { r: 207, g: 119, b: 15 },
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
     paletteDivs[x].style.backgroundColor = `rgb(${PALETTE[x].r}, ${PALETTE[x].g}, ${PALETTE[x].b})`;
   }
 
-  stage = new createjs.Stage("backbuffer");
+  stage = new createjs.Stage("back-buffer");
   createjs.Ticker.addEventListener("tick", hostFrame);
   createjs.Ticker.setFPS(CJS_TICKER_FPS);
   const container = new createjs.Container();
@@ -100,42 +100,42 @@ function hostFrame() {
   // Update palette buffer
   doFire();
 
-  const canvas = gebi("backbuffer");
-  const color = canvas.getContext("2d").getImageData(0, 0, canvas.width, canvas.height);
+  const backBuffer = gebi("back-buffer");
+  const color = backBuffer.getContext("2d").getImageData(0, 0, backBuffer.width, backBuffer.height);
 
   // Convert palette buffer to RGB and write it to ouput.
-  for (let y = 0; y < canvas.height; y++) {
-    for (let x = 0; x < canvas.width; x++) {
-      const index = firePixels[y * canvas.width + x];
+  for (let y = 0; y < backBuffer.height; y++) {
+    for (let x = 0; x < backBuffer.width; x++) {
+      const index = firePixels[y * backBuffer.width + x];
       const pixel = PALETTE[index];
 
-      color.data[((canvas.width * y) + x) * 4 + 0] = pixel.r;
-      color.data[((canvas.width * y) + x) * 4 + 1] = pixel.g;
-      color.data[((canvas.width * y) + x) * 4 + 2] = pixel.b;
+      color.data[((backBuffer.width * y) + x) * 4 + 0] = pixel.r;
+      color.data[((backBuffer.width * y) + x) * 4 + 1] = pixel.g;
+      color.data[((backBuffer.width * y) + x) * 4 + 2] = pixel.b;
       if (pixel.r == 0x07 && pixel.g == 0x07 && pixel.b == 0x07) {
-        color.data[((canvas.width * y) + x) * 4 + 3] = 0;
+        color.data[((backBuffer.width * y) + x) * 4 + 3] = 0;
       } else 
         // Black pixels need to be transparent to show DOOM logo
-        color.data[((canvas.width * y) + x) * 4 + 3] = 255;
+        color.data[((backBuffer.width * y) + x) * 4 + 3] = 255;
     }
   }
 
-  canvas.getContext("2d").putImageData(color, 0, 0);
+  backBuffer.getContext("2d").putImageData(color, 0, 0);
 
-  const frontbuffer = gebi("frontbuffer");
-  frontbuffer.getContext("2d").fillStyle = 'black';
-  frontbuffer.getContext("2d").fillRect(0, 0, frontbuffer.width, frontbuffer.height);
-  frontbuffer.getContext("2d").imageSmoothingEnabled = false;
-  frontbuffer.getContext("2d").drawImage(gebi("doom"), 50, y_scrolling, (frontbuffer.width - 100) , frontbuffer.height / 2);
-  frontbuffer.getContext("2d").drawImage(canvas, 0, 0, frontbuffer.width, frontbuffer.height);
+  const frontBuffer = gebi("front-buffer");
+  frontBuffer.getContext("2d").fillStyle = 'black';
+  frontBuffer.getContext("2d").fillRect(0, 0, frontBuffer.width, frontBuffer.height);
+  frontBuffer.getContext("2d").imageSmoothingEnabled = false;
+  frontBuffer.getContext("2d").drawImage(gebi("doom"), 50, y_scrolling, (frontBuffer.width - 100) , frontBuffer.height / 2);
+  frontBuffer.getContext("2d").drawImage(backBuffer, 0, 0, frontBuffer.width, frontBuffer.height);
   if (y_scrolling != 70)
     y_scrolling -= 2;
   else {
     // Stop fire
     for (let y = 167; y > 160; y--) {
-      for (let x = 0; x < canvas.width; x++) {
-        if (firePixels[y * canvas.width + x] > 0)
-          firePixels[y * canvas.width + x] -= Math.round(Math.random()) & 3;
+      for (let x = 0; x < backBuffer.width; x++) {
+        if (firePixels[y * backBuffer.width + x] > 0)
+          firePixels[y * backBuffer.width + x] -= Math.round(Math.random()) & 3;
         else {
           // Stop animation altogether
           //createjs.Ticker.setFPS(0);
