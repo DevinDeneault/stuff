@@ -123,14 +123,14 @@ function generateFrame() {
   // Update palette buffer
   doFire();
 
-  const hiddenCanvasImage = hiddenCanvasContext.getImageData(0, 0, hiddenCanvas.width, hiddenCanvas.height);
+  const hiddenCanvasImage = hiddenCanvasContext.getImageData(0, 0, FIRE_WIDTH, FIRE_HEIGHT);
 
   // Convert palette buffer to RGB and write it to ouput.
-  for (let y = 0; y < hiddenCanvas.height; y++) {
-    for (let x = 0; x < hiddenCanvas.width; x++) {
-      const colorIndex = firePixels[y * hiddenCanvas.width + x];
+  for (let y = 0; y < FIRE_HEIGHT; y++) {
+    for (let x = 0; x < FIRE_WIDTH; x++) {
+      const colorIndex = firePixels[y * FIRE_WIDTH + x];
       const color = PALETTE[colorIndex];
-      const canvasPixelIndex = ((hiddenCanvas.width * y) + x) * 4;
+      const canvasPixelIndex = ((FIRE_WIDTH * y) + x) * 4;
 
       hiddenCanvasImage.data[canvasPixelIndex + 0] = color.r;
       hiddenCanvasImage.data[canvasPixelIndex + 1] = color.g;
@@ -151,9 +151,9 @@ function generateFrame() {
 
 function weakenFire() {
   for (let y = 167; y > 160; y--) {
-    for (let x = 0; x < hiddenCanvas.width; x++) {
-      if (firePixels[y * hiddenCanvas.width + x] > 0) {
-        firePixels[y * hiddenCanvas.width + x] -= Math.round(Math.random()) & 3;
+    for (let x = 0; x < FIRE_WIDTH; x++) {
+      if (firePixels[y * FIRE_WIDTH + x] > 0) {
+        firePixels[y * FIRE_WIDTH + x] -= Math.round(Math.random()) & 3;
       }
     }
   }
