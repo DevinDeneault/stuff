@@ -10,23 +10,23 @@
 
 <html>
 
-<body class="bg-nord0 font-mono">
+<body>
   <div>
     <div class="flex flex-col items-start gap-y-4 pl-4 mt-4">
-      <div class="flex flex-col text-nord6">
+      <div class="flex flex-col">
         <div class="flex">
           <div id="width-display"></div>
           <div class="mr-2">px</div>
-          <input type="range" id="width" min="16" max="1024" value="512" class="grayscale" onchange="setWidth(this)">
+          <input type="range" id="width" min="16" max="1024" value="512" onchange="setWidth(this)">
         </div>
         <div class="flex">
           <div id="height-display"></div>
           <div class="mr-2">px</div>
-          <input type="range" id="height" min="16" max="1024" value="512" class="grayscale" onchange="setHeight(this)">
+          <input type="range" id="height" min="16" max="1024" value="512" onchange="setHeight(this)">
         </div>
       </div>
 
-      <div class="border-2 border-dashed border-nord3 flex gap-x-4 p-2">
+      <div class="area flex gap-x-4">
         <div class="flex flex-col gap-y-4">
           <input type="color" id="colorTopLeft" value="#8B0000" onchange="generateCSS()">
           <input type="color" id="colorBottomLeft" value="#0000FF" onchange="generateCSS()">
@@ -38,7 +38,7 @@
       </div>
 
     </div>
-    <div id="output" class="absolute border-[12px] border-nord4 rounded-lg" style="width: 512px; height: 512px; top: 256px; left: 64px;">
+    <div id="output" class="absolute border-[12px] border-slate-200 rounded-lg" style="width: 512px; height: 512px; top: 256px; left: 64px;">
       <div id="outputLeft" class="absolute inset-0"></div>
       <div id="outputRight" class="absolute inset-0 [mask-image:linear-gradient(to_left,white,transparent)]"></div>
     </div>

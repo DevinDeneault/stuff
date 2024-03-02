@@ -10,25 +10,25 @@
 
 <html>
 
-<body class="bg-nord0 w-screen h-screen flex flex-col items-center justify-center gap-y-8">
+<body class="w-screen h-screen flex flex-col items-center justify-center gap-y-8">
   <canvas id="back-buffer" width="320" height="168" class="hidden"></canvas>
 
   <div class="flex gap-x-1">
-    <div class="border border-black">
+    <div class="border border-stone-950">
       <canvas id="front-buffer" width="640" height="509"></canvas>
     </div>
     <div id="doom-color-column"></div>
   </div>
 
-  <div class="w-96 p-4 flex flex-col border-2 border-dashed border-nord3 text-nord4 font-bold select-none">
+  <div class="area w-96 flex flex-col">
     <div class="flex justify-between">
-      <div class="px-2 pb-1 bg-nord3 cursor-pointer" onclick="activateExtinguish()">extinguish</div>
-      <div class="px-2 pb-1 bg-nord3 cursor-pointer" onclick="reignite()">ignite</div>
+      <div class="button" onclick="enableExtinguish()">extinguish</div>
+      <div class="button" onclick="ignite()">ignite</div>
     </div>
-    <div class="mt-4">intensity: <span id="intensity-display" class="text-nord7">36</span></div>
-    <input id="intensity" type="range" min="1" max="36" class="grayscale" onchange="setIntensity(this)" />
-    <div>target fps: <span id="fps-display" class="text-nord7">27</span></div>
-    <input id="fps" type="range" min="1" max="60" class="grayscale" onchange="setFps(this)" />
+    <div class="doom-label mt-4">intensity: <span id="intensity-display">36</span></div>
+    <input id="intensity" type="range" min="1" max="36" onchange="setIntensity(this)" />
+    <div class="doom-label">target fps: <span id="fps-display">27</span></div>
+    <input id="fps" type="range" min="1" max="60" onchange="setFps(this)" />
   </div>
 </body>
 

@@ -1,3 +1,11 @@
+
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./MerriweatherSans-VariableFont_wght.ttf') format('truetype');
+}
+
 /*
   https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/
 */

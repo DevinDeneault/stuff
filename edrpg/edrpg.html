@@ -4,18 +4,18 @@
   <title>Elite Dangerous TTRPG</title>
   <link rel="shortcut icon" type="image/x-icon" href="edrpg.ico">
   <link rel="stylesheet" type="text/css" href="../styles.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Play">
+  <link rel="stylesheet" type="text/css" href="edrpg.css">
   <script type="text/javascript" src="../globals.js"></script>
   <script type="text/javascript" src="edrpg.js"></script>
 </head>
 
 <html>
 
-<body class="bg-gray-900 font-['Play'] bg-cover bg-[center center] bg-fixed overflow-hidden">
+<body class="font-['Play'] bg-cover bg-[center center] bg-fixed overflow-hidden">
   <div class="z-50 absolute top-0 left-0 right-0 h-8 bg-black/50 flex items-center gap-x-4 px-4">
     <div class="group relative">
-      <div class="btn-hover"><span class="mr-2">add ship</span>&#x1F783;</div>
-      <ul id="ships" class="dropdown-list scrollable">
+      <div class="ed-btn-hover"><span class="mr-2">add ship</span>&#x1F783;</div>
+      <ul id="ships" class="ed-dropdown-list ed-scrollable">
         <li onclick="makeShip('adder')">Adder</li>
         <!--  -->
         <li onclick="makeShip('anaconda')">Anaconda</li>
@@ -67,8 +67,8 @@
     </div>
     <div class="grow"></div>
     <div class="group relative">
-      <div class="btn-hover"><span class="mr-2">background</span>&#x1F783;</div>
-      <ul id="backgrounds" class="dropdown-list dropdown-list-images not-scrollable">
+      <div class="ed-btn-hover"><span class="mr-2">background</span>&#x1F783;</div>
+      <ul id="backgrounds" class="ed-dropdown-list ed-dropdown-list-images ed-not-scrollable">
         <li onclick="changeBackground('01')"><img src="./images/spaceship_combat_map_preview_01.png" /></li>
         <li onclick="changeBackground('02')"><img src="./images/spaceship_combat_map_preview_02.png" /></li>
         <li onclick="changeBackground('03')"><img src="./images/spaceship_combat_map_preview_03.png" /></li>
@@ -76,19 +76,19 @@
         <li onclick="changeBackground('05')"><img src="./images/spaceship_combat_map_preview_05.png" /></li>
       </ul>
     </div>
-    <div class="btn" onclick="toggleText(this)">action text - 1</div>
-    <div class="btn" onclick="toggleCircleColor()">circle / text color</div>
+    <div class="ed-btn" onclick="toggleText(this)">action text - 1</div>
+    <div class="ed-btn" onclick="toggleCircleColor()">circle / text color</div>
   </div>
 
   <div class="z-10 absolute inset-0 flex items-center justify-center">
     <div id="circle" class="h-[90%] aspect-square rounded-full border-8 border-cyan-300/80 bg-cyan-950/30"></div>
   </div>
   <div class="z-20 absolute inset-0 flex items-center justify-center">
-    <div id="action-text-1" class="flex flex-col text-center text-2xl text-cyan-200/60 select-none text-shadow"></div>
+    <div id="action-text-1" class="flex flex-col text-center text-2xl text-cyan-200/60 select-none ed-text-shadow"></div>
     <div id="action-text-2"
-      class="absolute left-16 bottom-16 flex flex-col text-2xl text-cyan-200/60 select-none text-shadow"></div>
+      class="absolute left-16 bottom-16 flex flex-col text-2xl text-cyan-200/60 select-none ed-text-shadow"></div>
     <div id="action-text-3"
-      class="absolute right-16 top-24 flex flex-col text-2xl text-cyan-200/60 select-none text-shadow"></div>
+      class="absolute right-16 top-24 flex flex-col text-2xl text-cyan-200/60 select-none ed-text-shadow"></div>
   </div>
 
   <div id="explosion"
@@ -106,17 +106,17 @@
     </div>
     <div class="h-[2px] w-3/5 bg-green-500/70"></div>
     <div class="w-full h-5 flex items-center justify-center overflow-visible text-sm" onclick="editName(this)">
-      <div class="text-white px-1 pointer-events-none text-shadow"></div>
+      <div class="text-white px-1 pointer-events-none ed-text-shadow"></div>
       <input class="hidden text-center w-28 text-white focus:outline-none focus:bg-white/0 bg-white/0"
         oninput="setName(this)" onblur="hideInput(this)" onkeypress="blurOnEnter(event)" onfocus="this.select()"
         spellcheck="false" />
     </div>
     <div class="h-[2px] w-full bg-green-500/70"></div>
     <div
-      class="absolute left-0 right-0 top-[100%] flex flex-col items-center gap-y-px overflow-visible hidden-group-content">
-      <div class="btn-ship mt-px" onclick="changeSides(this)">change sides</div>
-      <div class="btn-ship" onclick="remove(this)">remove</div>
-      <div class="btn-ship" onclick="remove(this, true)">destroy</div>
+      class="absolute left-0 right-0 top-[100%] flex flex-col items-center gap-y-px overflow-visible ed-hidden-group-content">
+      <div class="ed-btn-ship mt-px" onclick="changeSides(this)">change sides</div>
+      <div class="ed-btn-ship" onclick="remove(this)">remove</div>
+      <div class="ed-btn-ship" onclick="remove(this, true)">destroy</div>
       <div class="h-6 w-full min-w-32 flex items-center justify-center py-1.5">
         <input type="range" min="0" max="360" value="0" oninput="rotateImage(this)"
           class="w-5/6 grayscale opacity-70" />

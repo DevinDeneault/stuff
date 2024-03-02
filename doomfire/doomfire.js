@@ -173,12 +173,12 @@ function setFps(e) {
   gebi("fps-display").textContent = e.value;
 }
 
-function reignite(e) {
+function ignite(e) {
   extinguish = false;
   const intensity = gebi("intensity").value;
   for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = intensity; }
 }
 
-function activateExtinguish(e) {
+function enableExtinguish(e) {
   extinguish = true;
 }
