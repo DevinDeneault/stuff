@@ -130,6 +130,9 @@ document.addEventListener("DOMContentLoaded", () => {
     contentClone.querySelector(`#region-list-${pkm[3]}`).appendChild(entryClone);
   });
 
+  const button = contentClone.querySelector("#dex-content > .button");
+  button.textContent = "show shiny sprites";
+
   images = contentClone.querySelectorAll(".dex-entry > div:nth-child(2) > div");
   document.body.appendChild(contentClone);
 });
@@ -164,13 +167,13 @@ function typeDisplayString(idx) {
 
 function toggleShiny(e) {
   if (showingShinySprites) {
-    e.textContent = "See shiny sprites";
+    e.textContent = "show shiny sprites";
     for (let i = 0; i < images.length - 1; i++) {
       images[i].style.backgroundImage = "url('images/clover-sprites.png')";
     }
   }
   else {
-    e.textContent = "See non-shiny sprites";
+    e.textContent = "show non-shiny sprites";
     for (let i = 0; i < images.length - 1; i++) {
       images[i].style.backgroundImage = "url('images/clover-sprites-shiny.png')";
     }
