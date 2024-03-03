@@ -1,6 +1,4 @@
 
-// https://fabiensanglard.net/doom_fire_psx/
-
 const FIRE_WIDTH = 320;
 const FIRE_HEIGHT = 168;
 const PALETTE = [
@@ -117,7 +115,7 @@ function doFire() {
 
 // the hidden canvas is the true 1:1 pixel image
 // that is then rendered to the output canvas at a different resolution & aspect ratio
-//       causing 'stretched' pixels
+// causing 'stretched' pixels
 
 function generateFrame() {
   // Update palette buffer
