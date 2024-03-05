@@ -52,6 +52,11 @@ let hiddenCanvas;
 let hiddenCanvasContext;
 let outputCanvas;
 let outputCanvasContext;
+let displayArea;
+
+let currentIntensity = INITIAL_INTENSITY;
+let targetIntensity = INITIAL_INTENSITY;
+let currentIntensityDisplay;
 
 document.addEventListener("DOMContentLoaded", () => {
   const colorColumn = gebi("doom-color-column");
@@ -63,11 +68,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
   hiddenCanvas = gebi("back-buffer");
   hiddenCanvasContext = hiddenCanvas.getContext("2d");
-  outputCanvas = gebi("front-buffer");
+  outputCanvas = gebi("output-canvas");
   outputCanvasContext = outputCanvas.getContext("2d");
+  displayArea = gebi("display-area");
+  currentIntensityDisplay = gebi("intensity-display-current");
 
   gebi("intensity").value = INITIAL_INTENSITY;
   gebi("fps").value = INITIAL_TARGET_FPS;
+  gebi("hue").value = 0;
 
   // Set whole screen to color 0
   for (let i = 0; i < FIRE_WIDTH * FIRE_HEIGHT; i++) { firePixels[i] = 0; }
@@ -90,14 +98,14 @@ function setRenderInterval(fps) {
 // ============================================================================
 // ============================================================================
 
-function spreadFire(src) {
-  const pixel = firePixels[src];
-  if (pixel == 0) {
-    firePixels[src - FIRE_WIDTH] = 0;
+function spreadFire(idx) {
+  const pixel = firePixels[idx];
+  if (pixel === 0) {
+    firePixels[idx - FIRE_WIDTH] = 0;
   } else {
-    const randIdx = Math.round(Math.random() * 3.0); // & 3;
-    const dst = src - randIdx + 1;
-    firePixels[dst - FIRE_WIDTH] = pixel - (randIdx & 1);
+    const randNum = Math.round(Math.random() * 3.0);
+    const destinationPixel = (idx - randNum + 1) - FIRE_WIDTH;
+    firePixels[destinationPixel] = pixel - (randNum & 1);
   }
 }
 
@@ -145,6 +153,7 @@ function generateFrame() {
   outputCanvasContext.drawImage(hiddenCanvas, 0, 0, outputCanvas.width, outputCanvas.height);
 
   if (extinguish) weakenFire();
+  if (!extinguish && currentIntensity !== targetIntensity) shiftIntensityToTarget();
 }
 
 function weakenFire() {
@@ -157,26 +166,48 @@ function weakenFire() {
   }
 }
 
+// move currentIntensity closer to targetIntensity by 1, regardless if it is currently hight or lower
+function shiftIntensityToTarget() {
+  currentIntensity = currentIntensity + Math.sign(targetIntensity - currentIntensity);
+  currentIntensityDisplay.textContent = currentIntensity;
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = currentIntensity; }
+}
+
+// ============================================================================
+// ============================================================================
+// ============================================================================
+
+function ignite(e) {
+  extinguish = false;
+  const intensity = currentIntensity;
+  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = intensity; }
+}
+
+function enableExtinguish(e) {
+  if (currentIntensity !== targetIntensity) targetIntensity = currentIntensity;
+  gebi("intensity-display").textContent = currentIntensity;
+  gebi("intensity").value = currentIntensity;
+  extinguish = true;
+}
+
 // ============================================================================
 // ============================================================================
 // ============================================================================
 
 function setIntensity(e) {
-  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = e.value; }
+  targetIntensity = e.value;
   gebi("intensity-display").textContent = e.value;
+}
+
+function setFpsDisplay(e) {
+  gebi("fps-display").textContent = e.value;
 }
 
 function setFps(e) {
   setRenderInterval(e.value);
-  gebi("fps-display").textContent = e.value;
 }
 
-function ignite(e) {
-  extinguish = false;
-  const intensity = gebi("intensity").value;
-  for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = intensity; }
-}
-
-function enableExtinguish(e) {
-  extinguish = true;
+function setHue(e) {
+  displayArea.style.filter = `hue-rotate(${e.value}deg)`;
+  gebi("hue-display").textContent = e.value;
 }

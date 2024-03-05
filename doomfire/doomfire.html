@@ -13,9 +13,9 @@
 <body class="w-screen h-screen flex flex-col items-center justify-center gap-y-8">
   <canvas id="back-buffer" width="320" height="168" class="hidden"></canvas>
 
-  <div class="flex gap-x-1">
+  <div id="display-area" class="flex gap-x-1">
     <div class="border border-stone-950">
-      <canvas id="front-buffer" width="640" height="509"></canvas>
+      <canvas id="output-canvas" width="640" height="509"></canvas>
     </div>
     <div id="doom-color-column"></div>
   </div>
@@ -25,10 +25,12 @@
       <div class="button" onclick="enableExtinguish()">extinguish</div>
       <div class="button" onclick="ignite()">ignite</div>
     </div>
-    <div class="doom-label mt-4">intensity: <span id="intensity-display">36</span></div>
-    <input id="intensity" type="range" min="1" max="36" onchange="setIntensity(this)" />
+    <div class="doom-label mt-4">intensity: <span id="intensity-display">36</span> (<span id="intensity-display-current">36</span>)</div>
+    <input id="intensity" type="range" min="1" max="36" oninput="setIntensity(this)" />
     <div class="doom-label">target fps: <span id="fps-display">27</span></div>
-    <input id="fps" type="range" min="1" max="60" onchange="setFps(this)" />
+    <input id="fps" type="range" min="1" max="60" oninput="setFpsDisplay(this)" onchange="setFps(this)" />
+    <div class="doom-label">hue: <span id="hue-display">0</span></div>
+    <input id="hue" type="range" min="0" max="360" oninput="setHue(this)" />
   </div>
 </body>
 
