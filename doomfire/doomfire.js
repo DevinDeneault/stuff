@@ -166,9 +166,10 @@ function weakenFire() {
   }
 }
 
-// move currentIntensity closer to targetIntensity by 1, regardless if it is currently hight or lower
 function shiftIntensityToTarget() {
+  // move currentIntensity closer to targetIntensity by 1, regardless if it is currently higher or lower
   currentIntensity = currentIntensity + Math.sign(targetIntensity - currentIntensity);
+
   currentIntensityDisplay.textContent = currentIntensity;
   for (let i = 0; i < FIRE_WIDTH; i++) { firePixels[(FIRE_HEIGHT - 1) * FIRE_WIDTH + i] = currentIntensity; }
 }
