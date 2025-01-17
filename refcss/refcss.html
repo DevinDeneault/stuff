@@ -10,6 +10,266 @@
 <html>
 
 <body>
+
+  <table id="css-table">
+    <thead>
+      <tr>
+        <th>Selector</th>
+        <th>Example</th>
+        <th>Example Description</th>
+        <th>Common Use</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>.class</td>
+        <td>.intro</td>
+        <td>Selects all elements with class=”intro”</td>
+        <td>Style elements with a specific class, like headings or sections.</td>
+      </tr>
+      <tr>
+        <td>.class1.class2</td>
+        <td>.name1.name2</td>
+        <td>Selects all elements with both name1 and name2 set within its class attribute</td>
+        <td>Apply combined styling to elements with multiple classes.</td>
+      </tr>
+      <tr>
+        <td>.class1 .class2</td>
+        <td>.name1 .name2</td>
+        <td>Selects all elements with name2 that is a descendant of an element with name1</td>
+        <td>Style child elements within a specific parent container.</td>
+      </tr>
+      <tr>
+        <td>#id</td>
+        <td>#firstname</td>
+        <td>Selects the element with id=”firstname”</td>
+        <td>Target a unique element for styling or scripting.</td>
+      </tr>
+      <tr>
+        <td>*</td>
+        <td>*</td>
+        <td>Selects all elements</td>
+        <td>Apply global styles like resetting margins or padding.</td>
+      </tr>
+      <tr>
+        <td>element</td>
+        <td>p</td>
+        <td>Selects all &lt;p&gt; elements</td>
+        <td>Style all instances of a specific HTML tag.</td>
+      </tr>
+      <tr>
+        <td>element.class</td>
+        <td>p.intro</td>
+        <td>Selects all &lt;p&gt; elements with class=”intro”</td>
+        <td>Style specific elements within a class.</td>
+      </tr>
+      <tr>
+        <td>element,element</td>
+        <td>div, p</td>
+        <td>Selects all &lt;div&gt; elements and all &lt;p&gt; elements</td>
+        <td>Apply the same styles to multiple elements.</td>
+      </tr>
+      <tr>
+        <td>element element</td>
+        <td>div p</td>
+        <td>Selects all &lt;p&gt; elements inside &lt;div&gt; elements</td>
+        <td>Style nested elements.</td>
+      </tr>
+      <tr>
+        <td>element&gt;element</td>
+        <td>div &gt; p</td>
+        <td>Selects all &lt;p&gt; elements where the parent is a &lt;div&gt; element</td>
+        <td>Style direct children of a parent element.</td>
+      </tr>
+      <tr>
+        <td>element+element</td>
+        <td>div + p</td>
+        <td>Selects the first &lt;p&gt; element that is placed immediately after &lt;div&gt; elements</td>
+        <td>Style adjacent sibling elements.</td>
+      </tr>
+      <tr>
+        <td>:hover</td>
+        <td>a:hover</td>
+        <td>Selects links on mouse over</td>
+        <td>Apply styles when a user hovers over an element.</td>
+      </tr>
+      <tr>
+        <td>:focus</td>
+        <td>input:focus</td>
+        <td>Selects the input element which has focus</td>
+        <td>Highlight form fields when they are active.</td>
+      </tr>
+      <tr>
+        <td>[attribute]</td>
+        <td>[target]</td>
+        <td>Selects all elements with a target attribute</td>
+        <td>Target elements with specific attributes for styling.</td>
+      </tr>
+      <tr>
+        <td>:checked</td>
+        <td>input:checked</td>
+        <td>Selects every checked &lt;input&gt; element</td>
+        <td>Style selected checkboxes or radio buttons.</td>
+      </tr>
+      <tr>
+        <td>:default</td>
+        <td>input:default</td>
+        <td>Selects the default &lt;input&gt; element</td>
+        <td>Style or highlight the default button or form element.</td>
+      </tr>
+      <tr>
+        <td>:disabled</td>
+        <td>input:disabled</td>
+        <td>Selects every disabled &lt;input&gt; element</td>
+        <td>Apply styles to indicate fields that are non-interactive.</td>
+      </tr>
+      <tr>
+        <td>:empty</td>
+        <td>p:empty</td>
+        <td>Selects every &lt;p&gt; element that has no children (including text nodes)</td>
+        <td>Hide or style placeholders for empty elements.</td>
+      </tr>
+      <tr>
+        <td>:enabled</td>
+        <td>input:enabled</td>
+        <td>Selects every enabled &lt;input&gt; element</td>
+        <td>Apply styles to interactive form fields.</td>
+      </tr>
+      <tr>
+        <td>:first-child</td>
+        <td>p:first-child</td>
+        <td>Selects every &lt;p&gt; element that is the first child of its parent</td>
+        <td>Highlight the first child of a container.</td>
+      </tr>
+      <tr>
+        <td>:first-of-type</td>
+        <td>p:first-of-type</td>
+        <td>Selects every &lt;p&gt; element that is the first &lt;p&gt; element of its parent</td>
+        <td>Apply styles to the first instance of a specific type.</td>
+      </tr>
+      <tr>
+        <td>:fullscreen</td>
+        <td>:fullscreen</td>
+        <td>Selects the element that is in full-screen mode</td>
+        <td>Adjust styles for elements in full-screen view.</td>
+      </tr>
+      <tr>
+        <td>:has()</td>
+        <td>h2:has(+p)</td>
+        <td>Selects &lt;h2&gt; elements that are immediately followed by a &lt;p&gt; element, and applies the style to &lt;h2&gt;</td>
+        <td>Apply styles based on the presence of specific child elements.</td>
+      </tr>
+      <tr>
+        <td>:in-range</td>
+        <td>input:in-range</td>
+        <td>Selects input elements with a value within a specified range</td>
+        <td>Style valid numeric inputs within acceptable ranges.</td>
+      </tr>
+      <tr>
+        <td>:indeterminate</td>
+        <td>input:indeterminate</td>
+        <td>Selects input elements that are in an indeterminate state</td>
+        <td>Style checkboxes or progress bars with mixed states.</td>
+      </tr>
+      <tr>
+        <td>:invalid</td>
+        <td>input:invalid</td>
+        <td>Selects all input elements with an invalid value</td>
+        <td>Highlight form fields with validation errors.</td>
+      </tr>
+      <tr>
+        <td>:is()</td>
+        <td>:is(ul, ol)</td>
+        <td>Selects all &lt;ul&gt; and &lt;ol&gt; elements</td>
+        <td>Combine selectors to simplify complex queries.</td>
+      </tr>
+      <tr>
+        <td>:lang()</td>
+        <td>p:lang(it)</td>
+        <td>Selects every &lt;p&gt; element with a lang attribute equal to “it” (Italian)</td>
+        <td>Style elements based on language settings.</td>
+      </tr>
+      <tr>
+        <td>:last-child</td>
+        <td>p:last-child</td>
+        <td>Selects every &lt;p&gt; element that is the last child of its parent</td>
+        <td>Highlight the last child of a container.</td>
+      </tr>
+      <tr>
+        <td>:last-of-type</td>
+        <td>p:last-of-type</td>
+        <td>Selects every &lt;p&gt; element that is the last &lt;p&gt; element of its parent</td>
+        <td>Style the last instance of a specific type.</td>
+      </tr>
+      <tr>
+        <td>:link</td>
+        <td>a:link</td>
+        <td>Selects all unvisited links</td>
+        <td>Style hyperlinks that haven’t been visited yet.</td>
+      </tr>
+      <tr>
+        <td>:not()</td>
+        <td>:not(p)</td>
+        <td>Selects every element that is not a &lt;p&gt; element</td>
+        <td>Exclude specific elements from styling.</td>
+      </tr>
+      <tr>
+        <td>:nth-child()</td>
+        <td>p:nth-child(2)</td>
+        <td>Selects every &lt;p&gt; element that is the second child of its parent</td>
+        <td>Apply styles to elements in specific positions within their parent.</td>
+      </tr>
+      <tr>
+          <td>:only-of-type</td>
+          <td>p:only-of-type</td>
+          <td>Selects every &lt;p&gt; element that is the only &lt;p&gt; element of its parent</td>
+          <td>Style unique elements within their container.</td>
+      </tr>
+      <tr>
+        <td>:optional</td>
+        <td>input:optional</td>
+        <td>Selects input elements with no “required” attribute</td>
+        <td>Style optional form fields differently from required ones.</td>
+      </tr>
+      <tr>
+        <td>:read-only</td>
+        <td>input:read-only</td>
+        <td>Selects input elements with the “readonly” attribute specified</td>
+        <td>Apply styles to fields that users cannot modify.</td>
+      </tr>
+      <tr>
+        <td>:read-write</td>
+        <td>input:read-write</td>
+        <td>Selects input elements with the “readonly” attribute NOT specified</td>
+        <td>Style editable fields.</td>
+      </tr>
+      <tr>
+        <td>:required</td>
+        <td>input:required</td>
+        <td>Selects input elements with the “required” attribute specified</td>
+        <td>Highlight mandatory form fields.</td>
+      </tr>
+      <tr>
+        <td>:root</td>
+        <td>:root</td>
+        <td>Selects the document’s root element</td>
+        <td>Define global variables or styles for the document.</td>
+      </tr>
+      <tr>
+        <td>:valid</td>
+        <td>input:valid</td>
+        <td>Selects all input elements with a valid value</td>
+        <td>Style form fields that pass validation.</td>
+      </tr>
+      <tr>
+        <td>:visited</td>
+        <td>a:visited</td>
+        <td>Selects all visited links</td>
+        <td>Apply different styles to hyperlinks that the user has already clicked.</td>
+      </tr>
+    </tbody>
+  </table>
+
 </body>
 
 </html>
