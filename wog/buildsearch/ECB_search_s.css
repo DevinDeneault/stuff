@@ -1,0 +1,128 @@
+/* Formatting for specific elements */
+
+header, main, footer
+{
+	max-width: 128em;
+}
+
+main {
+	overflow: auto; /* stop-gap measure */
+}
+
+/* The search results frame */
+#resultsframe { /* iframe */
+	position:	static;
+	z-index:	0;
+
+	height:       75ex;
+	margin-top:    2ex;
+	margin-bottom: 2ex;
+
+	width:         90%;
+	margin-left:    5%;
+	margin-right:   5%;
+
+	border: medium groove #444;
+	display: none;
+}
+.results #resultsframe {
+	display: block;
+}
+
+/* The search criteria form */
+
+#criteria { /* form */
+	width: 46em;
+	display: grid;
+	grid: repeat(3, auto) / 1fr max-content 2em max-content 1fr;
+	grid-row-gap: 1em;
+}
+label {
+	white-space: nowrap;
+}
+
+#levelset { /* fieldset */
+	border:	none;
+	padding:0;
+	margin: 0;
+	grid-column: 2/-2;
+}
+#levelset > div {
+	display: grid;
+	grid: auto-flow / repeat(6, max-content);
+	align-items: baseline;
+}
+#levelset > div > p {
+	grid-column: 1/-1;
+	margin:	1ex 0 2ex;
+	padding: 0 1em;
+}
+
+#classset { /* fieldset */
+	display: none;
+	grid-column: 1/-1;
+}
+#classset > .base {
+	margin-bottom: 1em;
+	display: grid;
+	grid: auto-flow / repeat(6, max-content);
+	justify-items: end;
+	justify-content: space-around;
+}
+#classset > .prestige {
+	font-size:  0.95em;
+	margin-top: 1em;
+	display: grid;
+	grid: auto-flow / repeat(4, max-content);
+	justify-items: end;
+	justify-content: space-around;
+}
+
+#raceset { /* fieldset */
+	grid-column: 1 / 3;
+}
+#raceset > div {
+	display: grid;
+	grid: auto-flow / repeat(3, max-content);
+	grid-row-gap: 1ex;
+	justify-items: end;
+	justify-content: space-around;
+}
+#raceset > div > .meta:first-of-type {
+	grid-column: 1/-1;
+	justify-self: center;
+}
+#raceset > div > .meta:last-of-type {
+	grid-column: 2/-1;
+}
+
+#sortset { /* fieldset */
+	grid-column: 4;
+}
+#sortset > div {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: end;
+	justify-content: space-around;
+}
+
+#searchbutton { /* button */
+	grid-column: 5;
+	align-self:  end;
+}
+
+@media (min-width:1150px) {
+	main.results {
+		padding-right:	calc(90% - 50em); /* 90% is main's width; */
+	}	                                  /* 50em is a bit more than #criteria's width */
+	#resultsframe {
+		position:	absolute;
+		top:	0;
+		right:	0;
+		bottom:	0;
+		width:	calc(100% - 50em); /* Same subtraction as in main's padding-right */
+		height:	100%;
+		margin:	0;
+	}
+}
+

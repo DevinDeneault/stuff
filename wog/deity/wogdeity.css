@@ -1,0 +1,164 @@
+/* Elements */
+
+button {
+	border: thin solid #111;
+	background: inherit;
+	color: #fc1;
+	margin: 0.5em 0;
+	padding: 3px 12px;
+	min-width: 5em;
+}
+button:hover {
+	background: #111;
+	color: white;
+}
+button:active {
+	background: #05f;
+	color: #fff;
+}
+
+fieldset {
+	background: #222;
+	border:  none;
+	border-radius:  10px;
+	padding: 2ex 1em 0.2ex;
+	margin:  0px 1em 1ex;
+
+	white-space: nowrap;
+}
+
+legend {
+	font-size:	1.1em;
+	text-align:	center;
+	margin:  0ex auto;
+	padding: 0px;
+	position:relative;
+	top:	1.5ex;
+
+	color:	#fc1;
+}
+
+label {
+	display:	inline-flex;
+	align-items:center;
+	padding-right: 1em;
+}
+label > input {
+	margin-right: 0.5em;
+	z-index:	2;
+}
+
+
+/* Layout */
+
+header, main, footer
+{
+	max-width: 80em;
+}
+
+.main-content {
+	display:	flex;
+	flex-flow:	column nowrap;
+}
+
+form {
+	display:	flex;
+	flex-flow:	row nowrap;
+	justify-content:space-around;
+	height:	48ex;
+	width:	100%;
+}
+fieldset {
+	flex-grow:	1;
+	/* Chrome does not handle flex growth in fieldsets well: */
+	padding-bottom: 2.5ex;
+}
+fieldset > div {
+	display:	flex;
+	flex-flow:	column nowrap;
+	height:	100%;
+}
+.checks {
+	display:	flex;
+	flex-flow:	column wrap;
+	flex-grow:	1;
+	justify-content:space-between;
+}
+.checks.domains {
+	display:	grid;
+	grid:	auto-flow / 1fr 1fr;
+	align-content:	space-between;
+}
+.buttons {
+	align-self:	center;
+}
+
+#divResults {
+	flex: 1 1 auto;
+	overflow: auto;
+	margin-top:	1ex;
+	padding: 0.2em 1em;
+}
+
+@media (min-width:1150px) {
+	.main-content {
+		flex-direction:	row;
+		padding-top:4ex;
+	}
+	.main-content > h2 {
+		position:	absolute;
+		left:	0;
+		right:	0;
+		top:	0;
+	}
+	form {
+		flex-direction:	column;
+		height:	100%;
+		width:	32em;
+	}
+	fieldset {
+		width: 30em;
+		flex-grow:	0;
+		padding-bottom: 0;
+		margin-bottom:	1ex;
+	}
+	fieldset > div {
+		width: 100%;
+		height:auto;
+	}
+	.checks, .checks.domains {
+		display:grid;
+		grid:	auto-flow / 1fr 1fr 1fr;
+	}
+}
+
+
+/* Search results */
+
+.align, .domain, .race {
+	display: none;
+}
+.race.any {
+	display: inherit;
+}
+
+.deity.name {
+	color: #48f;
+	font-size: 1.2em;
+	cursor:	pointer;
+}
+
+.deity.title {
+	color: #48f;
+	font-size: 0.9em;
+}
+
+dt {
+	color: #bbb;
+	font-size: 0.9em;
+}
+dd {
+	font-weight: inherit;
+}
+
+

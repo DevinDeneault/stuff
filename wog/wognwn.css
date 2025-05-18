@@ -1,0 +1,274 @@
+/*zero code*/
+
+*, *:before, *:after	{ box-sizing: inherit; }
+
+html, body, iframe
+{
+	box-sizing:  border-box;
+	border:  none;
+	font-size:	14px;
+	margin:  0;
+	padding: 0;
+}
+html, body:not(.subpage)
+{
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6	{ margin: 8px 16px 0; }
+p, dl, ol, ul	{ margin: 8px 16px; }
+
+button, input, select
+{
+	font:	inherit;
+	margin:	0;
+	overflow:	visible;
+}
+[type=checkbox], [type=radio]
+{
+	padding:	0;
+}
+
+
+/*site base*/
+
+body:not(.subpage)
+{
+	background-color:  #222;
+	background-image:  url("images/darkerbattle.jpg");
+	color:  white;
+
+	display:  flex;
+	flex-flow:  column nowrap;
+	justify-content:  stretch;
+	align-items: center;
+}
+
+body.subpage, iframe, nav, footer, .main-content
+{
+	border-radius:  15px;
+	background-color: black;
+	color:  white;
+	line-height:  1.5;
+}
+
+header, main, footer
+{
+	display: block;
+	width: 90%;
+	max-width: 64em;
+	min-width: 28em;
+}
+
+header
+{
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+footer
+{
+	text-align: center;
+	margin-top:  1em;
+}
+
+main
+{
+	flex-grow:  1;
+	min-height: 16em;
+	position: relative;
+}
+
+
+/* Links */
+
+a:link    { color: #ddd; }
+a:active  { color: #039; }
+a:hover   { color: #05f; }
+a:visited { color: white; }
+
+a.applink::after, a[target='_blank']::after
+{
+	content: " ";
+	display: inline-block;
+	height:  12px;
+	width:   12px;
+	background-position: center;
+	position: relative;
+	left: 0.4em;
+}
+a.applink::after
+{
+	background-image: url("images/icon-app.svg");
+}
+a[target='_blank']::after
+{
+	background-image: url("images/icon-ext.svg");
+}
+
+
+/* main area */
+
+iframe, .main-content
+{
+	width:  calc(100% - 14em);
+	height: 100%;
+	min-height: 10em;
+	position: absolute;
+}
+iframe {
+	z-index: -1;
+}
+iframe:target
+{
+	z-index: 1;
+}
+
+nav
+{
+	width: 12em;
+	height: 100%;
+	color:  #c93;
+	padding: 1em 0em;
+	overflow:  auto;
+	position:  absolute;
+	right: 0;
+}
+
+nav > a
+{
+	display:block;
+	width:  100%;
+	padding:6px 12px;
+	margin: 0;
+	outline:0;
+	text-align:  left;
+	white-space: nowrap;
+	vertical-align:  middle;
+	text-decoration: none;
+
+	border: thin groove #000;
+	border-radius: 5px;
+	font-size: 1.1em;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select:  none;
+	user-select: none
+}
+nav > a.target:link, nav > a.target:visited
+{
+	background-color: #039;
+	border-color: #039;
+	color: inherit;
+	cursor: default;
+	font-weight: bolder;
+	pointer-events: none;
+}
+nav > a:link, nav > a:visited
+{
+	background-color: inherit;
+	border-color: #000;
+	color:  inherit;
+}
+nav > a:active
+{
+	background-color: #05f;
+	border-color: #fc1;
+	color:  #fff;
+}
+nav > a:hover
+{
+	background-color: #039;
+	border-color: #fc1;
+	color:  #fff;
+}
+nav > a[disabled]
+{
+	opacity: 0.3;
+	pointer-events: none;
+}
+
+.spacer
+{
+	margin: 6px 0;
+	border: thin ridge #fc1;
+}
+
+/* text formatting */
+
+/* h1 = page heading */
+h1 {
+    font-size:      2.0em;
+	color:  #fc1;
+    text-align:    center;
+}
+h1 + .subheader
+{
+	font-size: 1.2em;
+	color:  white;
+	text-align: center;
+	margin-top: 0;
+}
+
+/* h2 = section heading */
+h2
+{
+	font-size: 1.5em;
+	color:  #fc1;
+	text-align: center;
+}
+h2 + .subheader
+{
+	font-size: 1.2em;
+	color:  #fc1;
+	text-align: center;
+}
+
+/* h3 = heading within a section */
+h3
+{
+	font-size:  1.2em;
+	color:  #c93;
+}
+
+/* h4 = heading within a subsection */
+h4
+{
+	font-size:  1.1em;
+	color:  white;
+}
+
+/* Remove space between a heading and its paragraph. */
+h2 + p, h3 + p, h3 + h4, h4 + p
+{
+	margin-top: 0;
+}
+
+dl
+{
+	display: grid;
+	grid:  auto-flow / auto auto;
+	grid-column-gap: 1.5em;
+	justify-content: start;
+}
+dt
+{
+	grid-column: 1
+	margin: 0;
+}
+dd
+{
+	font-weight: bolder;
+	margin: 0;
+}
+
+ol
+{
+	padding-left: 1em;
+}
+li
+{
+	margin-bottom: 1.0em;
+}
+

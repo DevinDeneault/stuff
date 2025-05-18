@@ -1,0 +1,129 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>World of Greyhawk: The Greyhawk Pantheon Search</title>
+
+	<link rel="stylesheet" href="../wognwn.css">
+	<link rel="stylesheet" href="wogdeity.css">
+
+	<style id="style-results"></style>
+	<style id="style-domain-results"></style>
+
+	<script src="wogdeity.js" defer></script>
+</head>
+
+<body>
+	<header>
+		<img src="../images/wog_title.jpg">
+	</header>
+
+	<main>
+		<div class="main-content">
+		<h2>Deity Search</h2>
+			<div><form id="fromCriteria" name="Criteria"><!-- "Extra" div's are needed for formatting on some browsers -->
+				<fieldset><legend>Race</legend><div>
+					<div class="checks races">
+						<label><input type="checkbox" name="race" value="Dw">Dwarf</label>
+						<label><input type="checkbox" name="race" value="El">Elf</label>
+						<label><input type="checkbox" name="race" value="Drow">Elf (Drow)</label>
+						<label><input type="checkbox" name="race" value="Gn">Gnome</label>
+						<label><input type="checkbox" name="race" value="He">Half-elf</label>
+						<label><input type="checkbox" name="race" value="Ho">Half-orc</label>
+						<label><input type="checkbox" name="race" value="Ha">Halfling</label>
+						<label><input type="checkbox" name="race" value="Hu">Human</label>
+					</div>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
+
+				<fieldset><legend>Alignment</legend><div>
+					<div class="checks alignments">
+						<label><input type="checkbox" name="alignment" value="LG">Lawful Good</label>
+						<label><input type="checkbox" name="alignment" value="NG">Neutral Good</label>
+						<label><input type="checkbox" name="alignment" value="CG">Chaotic Good</label>
+						<label><input type="checkbox" name="alignment" value="LN">Lawful Neutral</label>
+						<label><input type="checkbox" name="alignment" value="TN">True Neutral</label>
+						<label><input type="checkbox" name="alignment" value="CN">Chaotic Neutral</label>
+						<label><input type="checkbox" name="alignment" value="LE">Lawful Evil</label>
+						<label><input type="checkbox" name="alignment" value="NE">Neutral Evil</label>
+						<label><input type="checkbox" name="alignment" value="CE">Chaotic Evil</label>
+					</div>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
+
+				<fieldset><legend>Domain</legend><div>
+					<div class="checks domains">
+						<label><input type="checkbox" name="domain" value="Air">Air</label>
+						<label><input type="checkbox" name="domain" value="Animal">Animal</label>
+						<label><input type="checkbox" name="domain" value="Chaos">Chaos</label>
+						<label><input type="checkbox" name="domain" value="Death">Death</label>
+						<label><input type="checkbox" name="domain" value="Destruction">Destruction</label>
+						<label><input type="checkbox" name="domain" value="Earth">Earth</label>
+						<label><input type="checkbox" name="domain" value="Evil">Evil</label>
+						<label><input type="checkbox" name="domain" value="Fire">Fire</label>
+						<label><input type="checkbox" name="domain" value="Good">Good</label>
+						<label><input type="checkbox" name="domain" value="Healing">Healing</label>
+						<label><input type="checkbox" name="domain" value="Knowledge">Knowledge</label>
+						<label><input type="checkbox" name="domain" value="Law">Law</label>
+						<label><input type="checkbox" name="domain" value="Luck">Luck</label>
+						<label><input type="checkbox" name="domain" value="Magic">Magic</label>
+						<label><input type="checkbox" name="domain" value="Plant">Plant</label>
+						<label><input type="checkbox" name="domain" value="Protection">Protection</label>
+						<label><input type="checkbox" name="domain" value="Strength">Strength</label>
+						<label><input type="checkbox" name="domain" value="Sun">Sun</label>
+						<label><input type="checkbox" name="domain" value="Travel">Travel</label>
+						<label><input type="checkbox" name="domain" value="Trickery">Trickery</label>
+						<label><input type="checkbox" name="domain" value="War">War</label>
+						<label><input type="checkbox" name="domain" value="Water">Water</label>
+					</div>
+					<div class="buttons">
+						<button type="button" onclick="selectAll(event, true)">Any</button>
+						<button type="button" onclick="selectAll(event, false)">Clear</button>
+					</div>
+				</div></fieldset>
+			</form></div>
+
+			<div id="divResults">
+			</div>
+		</div>
+
+		<nav>
+			<!-- Server -->
+			<a href="../index.html#about">About</a>
+			<a href="../index.html#files">Downloads</a>
+			<a href="../index.html#rules">Rules</a>
+			<div class="spacer"></div>
+			<!-- Mechanics -->
+			<a href="../index.html#feats">Feat changes</a>
+			<a href="../index.html#spells">Spell changes</a>
+			<a href="../index.html#misc"">Misc. changes</a>
+			<a href="../index.html#pantheon">Pantheon</a>
+			<div class="spacer"></div>
+			<!-- Apps -->
+			<a href="../buildsearch/index.html" class="applink">Builds</a>
+			<a href="" disabled=disabled class="applink">Crafting</a>
+			<a href="#" class="applink target">Deities</a>
+			<div class="spacer"></div>
+			<!-- Players -->
+			<a href="../index.html#primer">Beginner's Guide</a>
+			<a href="../index.html#bestiary">Bestiary</a>
+			<a href="" disabled=disabled>Screenshots</a>
+			<div class="spacer"></div>
+			<!-- Links -->
+			<a href="https://www.tapatalk.com/groups/worldofgreyhawkfr/" target="_blank">Forums</a>
+			<a href="http://nwnwiki.com" target="_blank">NWNWiki</a>
+		</nav>
+	</main>
+
+	<footer>
+		the greyhawk restoration society (look for bumper stickers, soon)
+		<br />last updated:  06.02.2018
+	</footer>
+</body>
+</html>
