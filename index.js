@@ -7,7 +7,7 @@ summary.addEventListener('click', e => {
   }
 });
 
-const links = details.querySelectorAll('.link');
+const links = document.querySelectorAll('.link');
 [...links].forEach(l => {
   l.addEventListener('click', e => {
     linkTo = e.target.dataset.link;

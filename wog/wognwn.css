@@ -35,7 +35,7 @@ button, input, select
 body:not(.subpage)
 {
 	background-color:  #222;
-	background-image:  url("images/darkerbattle.jpg");
+	background-image:  url("images/darkerbattlebetter.png");
 	color:  white;
 
 	display:  flex;
@@ -144,7 +144,7 @@ nav > a
 	outline:0;
 	text-align:  left;
 	white-space: nowrap;
-	vertical-align:  middle;
+	/* vertical-align:  middle; */
 	text-decoration: none;
 
 	border: thin groove #000;
@@ -254,7 +254,7 @@ dl
 }
 dt
 {
-	grid-column: 1
+	grid-column: 1;
 	margin: 0;
 }
 dd
