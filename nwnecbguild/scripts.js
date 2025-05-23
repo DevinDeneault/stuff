@@ -56,7 +56,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
 function loadHomePage() {
   requestAnimationFrame(() => {
 
-    setPageTitle('nwnecbguild.44 archive');
+    setPageTitle(null);
     content.innerHTML = '';
     setBreadcrumb(null, null, null);
 
@@ -162,8 +162,13 @@ function openLinkInNewTab(page) {
   window.open(url, '_blank');
 }
 
-function setPageTitle(string) {
-  document.title = `${string} - nwnecbguild.44 archive`;
+function setPageTitle(title) {
+  if (title) {
+    document.title = `${string} - nwnecbguild.44 archive`;
+  }
+  else {
+    document.title = 'nwnecbguild.44 archive';
+  }
 }
 
 function setUrlParam(page) {
