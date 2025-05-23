@@ -185,7 +185,8 @@ window.addEventListener('popstate', (event) => {
 
 function removeUrlParam() {
   const url = window.location.protocol + "//" + window.location.host + window.location.pathname;
-  window.history.replaceState({}, document.title, url);
+  // window.history.replaceState({}, document.title, url);
+  window.history.pushState({}, '', url);
 }
 
 function getUrlParam() {
