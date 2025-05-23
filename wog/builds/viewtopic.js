@@ -202,9 +202,9 @@ function PrintAnchor(FileName, Guild, Forum, Topic, Start, RemainingURL, Remaini
 
 const head = document.querySelector('head');
 const favicon = document.createElement('link');
-setFavicon.setAttribute('rel', 'shortcut icon');
-setFavicon.setAttribute('type', 'image/x-icon');
-setFavicon.setAttribute('href', '../../favicon.ico');
+favicon.setAttribute('rel', 'shortcut icon');
+favicon.setAttribute('type', 'image/x-icon');
+favicon.setAttribute('href', '../favicon.ico');
 head.appendChild(favicon);
 
 window.addEventListener('load', function() {
