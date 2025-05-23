@@ -127,7 +127,7 @@ function loadThread(data) {
 }
 
 async function load(data_name, event) {
-  if (event.ctrlKey) {
+  if (event && event.ctrlKey) {
     openLinkInNewTab(data_name)
     return;
   }
@@ -251,4 +251,4 @@ const homePageData = [
   }
 ]
 
-load(getUrlParam());
+load(getUrlParam(), null);
