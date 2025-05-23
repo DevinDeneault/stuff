@@ -149,7 +149,7 @@ async function load(data_name, event) {
     if (data_name.length === 7) loadForum(json);
     if (data_name.length === 11) loadThread(json);
   } catch (err) {
-    console.error(`Failed to load or parse ${file}:`, err);
+    console.error(`Failed to load or parse ${data_name}:`, err);
     // error page?
   }
 }
@@ -180,11 +180,7 @@ function setUrlParam(page) {
 
 window.addEventListener('popstate', (event) => {
   const page = new URL(window.location.href).searchParams.get('page');
-  if (page) {
-    loadPage(page);
-  } else {
-    loadHomePage();
-  }
+  load(page, null);
 });
 
 function removeUrlParam() {
