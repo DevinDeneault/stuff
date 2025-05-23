@@ -163,7 +163,7 @@ function openLinkInNewTab(page) {
 }
 
 function setPageTitle(string) {
-  document.title = `${string.substring(0, 25)} - nwnecbguild.44 archive`;
+  document.title = `${string} - nwnecbguild.44 archive`;
 }
 
 function setUrlParam(page) {
