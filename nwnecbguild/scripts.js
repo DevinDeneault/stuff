@@ -91,7 +91,7 @@ function loadForum(data) {
 
     data['threads'].forEach(thread => {
       const clone = templateForumThread.content.cloneNode(true);
-      clone.querySelector('.avatar').style = `background-image:url(/avatar/${thread['avatar']});`;
+      clone.querySelector('.avatar').style = `background-image:url('avatar/${thread['avatar']}');`;
       clone.querySelector('.title').textContent = thread['name'];
       clone.querySelector('.user').textContent = thread['author'];
       clone.querySelector('.replies').textContent = thread['replies'];
@@ -115,7 +115,7 @@ function loadThread(data) {
 
     data['posts'].forEach(post => {
       const clone = templatePost.content.cloneNode(true);
-      clone.querySelector('.avatar').style = `background-image:url(/avatar/${post['avatar']});`;
+      clone.querySelector('.avatar').style = `background-image:url('avatar/${post['avatar']}');`;
       clone.querySelector('.user').textContent = post['author'];
       clone.querySelector('.timestamp').textContent = post['timestamp'];
       clone.querySelector('.post-content').innerHTML = post['content'];
