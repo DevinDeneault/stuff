@@ -56,7 +56,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
 function loadHomePage() {
   requestAnimationFrame(() => {
 
-    removeUrlParam();
+    setPageTitle('nwnecbguild.44 archive');
     content.innerHTML = '';
     setBreadcrumb(null, null, null);
 
@@ -81,6 +81,7 @@ function loadHomePage() {
 function loadForum(data) {
   requestAnimationFrame(() => {
 
+    setPageTitle(data['name']);
     content.innerHTML = '';
     setBreadcrumb(null, data['name'], null);
 
@@ -106,6 +107,7 @@ function loadForum(data) {
 function loadThread(data) {
   requestAnimationFrame(() => {
 
+    setPageTitle(data['name']);
     content.innerHTML = '';
     setBreadcrumb(`${data['category_id']}-${data['forum_id']}`, data['forum_name'], data['name']);
 
@@ -133,6 +135,7 @@ async function load(data_name, event) {
   }
 
   if (!data_name) {
+    removeUrlParam();
     loadHomePage();
     return;
   }
@@ -157,6 +160,10 @@ function openLinkInNewTab(page) {
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
   window.open(url, '_blank');
+}
+
+function setPageTitle(string) {
+  document.title = `${string.substring(0, 25)} - nwnecbguild.44 archive`;
 }
 
 function setUrlParam(page) {
