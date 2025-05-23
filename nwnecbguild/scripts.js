@@ -164,7 +164,7 @@ function openLinkInNewTab(page) {
 
 function setPageTitle(title) {
   if (title) {
-    document.title = `${string} - nwnecbguild.44 archive`;
+    document.title = `${title} - nwnecbguild.44 archive`;
   }
   else {
     document.title = 'nwnecbguild.44 archive';
