@@ -1,0 +1,716 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "027",
+  "name": "The Shadow Priest - Cleric 26/Monk 9/SD5",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-shadow-priest-cleric-26-monk-9-sd5-t515430.html",
+  "author": "Kane",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 116,
+  "posts": [
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:58 AM - Aug 29, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello again, mighty ECBers!<br/>\n<br/>\nI come to you with one of the last builds I posted back in the old guild, one I think was posted after they salvaged the builds when news of the forums closing reached us. I am not sure but I think you can't find it in that database. This build uses again the Cleric / Monk combo in a very playable way, combined with SD for HiPS and Epic Dodge. Trickery domain gives skill bonuses through divine trickery and 50% concealment. High AC from Cleric buffs and Monk Wisdom AC, very good buffed AB (63 at lvl 40), and really good playability. It's a very good tank, even though it doesn't have much HP. Monk speed gives a nice boost to your walking speed. The only thing that I wish I could change is getting KD and IKD sooner, but alas you can't have it all. The Shadow Priest:<br/>\n<br/>\nCleric(26), Monk(9), Shadowdancer(5), Human<br/>\n<br/>\nAlignment: Any Lawful (preferably LN to be immune to smites)<br/>\n<br/>\nPlayable 2-40 PvM, Untested PvP.<br/>\n<br/>\nSTR: 8<br/>\nDEX: 16 (28)<br/>\nCON: 12<br/>\nWIS: 16 (20)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Monk(1): Dodge, Blind Fight, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n02: Cleric(1): Domain Plant, Domain Trickery<br/>\n03: Cleric(2): Weapon Finesse<br/>\n04: Cleric(3): WIS+1, (WIS=17)<br/>\n05: Cleric(4)<br/>\n06: Cleric(5): Extend Spell<br/>\n07: Monk(2): {Deflect Arrows}<br/>\n08: Cleric(6): WIS+1, (WIS=18)<br/>\n09: Cleric(7): Called Shot<br/>\n10: Cleric(8)<br/>\n11: Cleric(9)<br/>\n12: Monk(3): DEX+1, Weapon Focus: Kama, (DEX=17)<br/>\n13: Cleric(10)<br/>\n14: Cleric(11)<br/>\n15: Cleric(12): Improved Critical: Kama<br/>\n16: Cleric(13): DEX+1, (DEX=18)<br/>\n17: Monk(4)<br/>\n18: Cleric(14): Mobility<br/>\n19: Cleric(15)<br/>\n20: Cleric(16): DEX+1, (DEX=19)<br/>\n21: Monk(5): Epic Weapon Focus: Kama<br/>\n22: Monk(6): {Knockdown, Improved Knockdown}<br/>\n23: Shadowdancer(1): {Hide in Plain Sight}<br/>\n24: Cleric(17): DEX+1, Great Wisdom I, (DEX=20), (WIS=19)<br/>\n25: Cleric(18)<br/>\n26: Cleric(19)<br/>\n27: Monk(7): Great Dexterity I, (DEX=21)<br/>\n28: Cleric(20): DEX+1, (DEX=22)<br/>\n29: Cleric(21)<br/>\n30: Cleric(22): Great Dexterity II, (DEX=23)<br/>\n31: Cleric(23): Armor Skin<br/>\n32: Monk(8): DEX+1, (DEX=24)<br/>\n33: Cleric(24): Great Dexterity III, (DEX=25)<br/>\n34: Monk(9): {Improved Evasion}<br/>\n35: Shadowdancer(2): {Darkvision, Uncanny Dodge I}<br/>\n36: Shadowdancer(3): DEX+1, Great Dexterity IV, (DEX=27)<br/>\n37: Shadowdancer(4)<br/>\n38: Cleric(25)<br/>\n39: Shadowdancer(5): Epic Dodge, {Defensive Roll}<br/>\n40: Cleric(26): DEX+1, Great Wisdom II, (DEX=28), (WIS=20)<br/>\n<br/>\nHitpoints: 360<br/>\nSkillpoints: 259<br/>\nSaving Throws (Fortitude/Will/Reflex): 25/29/28<br/>\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +1<br/>\nBAB: 25<br/>\nAB (max, naked): 37 (melee), 34 (ranged)<br/>\nAC (naked/mundane armor/shield only): 35/35<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 43(44), Hide 42(51), Listen 42(47), Move Silently 42(51), Persuade 7(6), Spellcraft 43(45), Tumble 40(49)<br/>\n<br/>\n<br/>\n01: Concentration(4), Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(8), <br/>\n02: Concentration(1), Spellcraft(5), Save(7), <br/>\n03: Concentration(1), Spellcraft(1), Save(10), <br/>\n04: Concentration(1), Spellcraft(1), Save(13), <br/>\n05: Concentration(1), Spellcraft(1), Save(16), <br/>\n06: Concentration(1), Spellcraft(1), Save(19), <br/>\n07: Concentration(1), Hide(6), Listen(6), Move Silently(6), Tumble(6), Save(1), <br/>\n08: Concentration(1), Save(5), <br/>\n09: Concentration(1), Save(9), <br/>\n10: Concentration(1), Save(13), <br/>\n11: Concentration(1), Save(17), <br/>\n12: Concentration(1), Hide(5), Listen(5), Move Silently(5), Tumble(5), Save(3), <br/>\n13: Concentration(1), Save(7), <br/>\n14: Concentration(1), Save(11), <br/>\n15: Concentration(1), Save(15), <br/>\n16: Concentration(1), Save(19), <br/>\n17: Concentration(1), Hide(5), Listen(5), Move Silently(5), Tumble(5), Save(5), <br/>\n18: Concentration(1), Save(9), <br/>\n19: Concentration(1), Save(13), <br/>\n20: Concentration(1), Save(17), <br/>\n21: Concentration(1), Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(7), <br/>\n22: Concentration(1), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(9), <br/>\n23: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(14), <br/>\n24: Concentration(2), Spellcraft(4), Save(13), <br/>\n25: Concentration(1), Spellcraft(1), Save(16), <br/>\n26: Concentration(1), Spellcraft(1), Save(19), <br/>\n27: Concentration(1), Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(9), <br/>\n28: Concentration(1), Spellcraft(2), Save(11), <br/>\n29: Concentration(1), Spellcraft(1), Save(14), <br/>\n30: Concentration(1), Spellcraft(1), Save(17), <br/>\n31: Concentration(1), Spellcraft(1), Save(20), <br/>\n32: Concentration(1), Hide(5), Listen(5), Move Silently(5), Tumble(5), Save(6), <br/>\n33: Concentration(1), Spellcraft(2), Save(8), <br/>\n34: Concentration(1), Hide(2), Listen(2), Move Silently(2), Tumble(2), Save(6), <br/>\n35: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(11), <br/>\n36: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(16), <br/>\n37: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(21), <br/>\n38: Concentration(4), Spellcraft(17), Save(5), <br/>\n39: Hide(2), Listen(2), Move Silently(2), Save(8), <br/>\n40: Concentration(2), Persuade(7), Spellcraft(4), <br/>\n<br/>\nCalled Shot is the only feat that can be replaced without changing the build. Go for Empower Spell to help cap the stats if you feel that your server doesn't have items to do this for you. Plant is taken because then you have access to Barskin and can use a periapt of wisdom to cap it. You mostly need to cap Wisdom and Dex for maximum effectiveness.<br/>\n<br/>\nIt is very hard to level if you start from 1, so I decided to say it's playable from 2-40, but that 1st level is perfectly doable in party play. Just stay the hell away from any physical confrontation and you'll be fine. I was inspired by Yar Stardawg's build which also has a similar name. However, he goes with more metamagic feats, while this guy is all about kicking butt in melee. It made sense to me that it was so, since investing feats on metamagic with a 20 wisdom score didn't seem reasonable.<br/>\n<br/>\nHope you like it.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:56 PM - Aug 30, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>Hope you like it.</div></blockquote>\nOne of my favourite meat grinder builds!<br/>\nIt has tremendous melee presence with stealth/HIPS and spells for great versatility, a beautiful character for both party and solo play.<br/>\nWhen I played this one I made a couple of tweaks that helped increase playability (where I played):<br/>\nI choose to cross class a couple of ranks in rogue skills to get even more from the trickery domain ability.<br/>\nI took SD earlier: Monk2/cleric 16/SD2 @ lvl 20. That gave earlier HIPS and uncanny dodge at the cost of 1BAB and slightly delayed monk progression.<br/>\nI chose war domain over plant to get cat's grace and aura of vitality for further stats boosts. There were other items than amulets that granted wisdom bonus, so I could use an amulet for natural armor.<br/>\nThe character did well even without the concentration skill, since most of the casting is buffing before battle. And if rushed, most of the time you can HIPS away, take your time buffing/repositioning and come back with an advantage.<br/>\n<br/>\nWhen Yar Stardawg posted his build back in 2005 he actually posted it as a survivalist combat healer, a last man standing to heal and revive his fallen comrades, hence a cleric with HIPS, epic dodge, improved invisibility for concealment and a good AC!<br/>\nBut I agree with you, this character is a tremendous attack weapon, and even more so the way you have built it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "shia luck",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:44 PM - Aug 31, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The title just screams...<br/>\n<br/>\n\"Cleric with epic dodge and HiPS!... RUN AWAY!\"<br/>\n<br/>\nVery adaptable, and dangerous concept. not even Mord, the cleric's nightmare, would disarm this one. <br/>\n<br/>\nHave fun<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:14 PM - Sep 01, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Maxi!!  Nicely done!<br/>\n<br/>\nOne of the drawbacks of a Dexer is the low damage output.  To get around that, Cleric is an amazing way to go with damage buff spells!  Throw in HIP and II!  OUCH!  <br/>\nWay to go!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:10 AM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Love your build.  Have an equipment question: I am assuming you are dual wielding Kama's for this build. Can I also assume that you don't care about the AB penalties for dual wield with DP?  At what level do you start dual wielding (if you are indeed dual wielding)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:25 AM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>RookY2K wrote:</strong>Love your build.  Have an equipment question: I am assuming you are dual wielding Kama's for this build. Can I also assume that you don't care about the AB penalties for dual wield with DP?  At what level do you start dual wielding (if you are indeed dual wielding)?</div></blockquote>\n\nI'm not dual-wielding here. DWing i'd have 10 attacks per round, as is I will have 8, and this build is tight on feats, so I can't get the DW feats without hurting the stats. If you want DW AS WELL AS Epic Dodge, you can do one of two things in this build:<br/>\n<br/>\n1- Drop Called Shot and 2 Great Dexterities, you will lose 1 AB and 1 AC (plus the -2 penalty for dual-wielding). I just think it's overkill for 2 extra attacks per round, but you can do it if you want. I only recommend it if you can afford the feats. This build as is can't without dropping epic feats.<br/>\n<br/>\n2- Go Cleric 26 Monk 1 Rogue 13 and drop the extra movespeed and HiPS, for Sneak Attack and UMD. It will have XP penalty, but won't need to get Dodge or Mobility, which are both SD requirements, then you can drop 1 BAB (you will have to take Monk 1 before 20 to get WF on Kamas, so no rule of 4 for you) and Called Shot to get the TWF feats. <br/>\n<br/>\nIn case what you meant here is if I would dual-wield WITHOUT the feats, no. I'd get a penalty to all my attack rolls for simply 1 extra attack. I consider that this penalty would make me miss on at least one attack I would otherwise hit without it. Not worth it.<br/>\n<br/>\nOh, and glad you like it <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:04 AM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the reply.  I was basing my question off your Cleric play guide where you talk about dual wielding weapons.  I assume you don't use a shield?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:29 PM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>RookY2K wrote:</strong>Thanks for the reply.  I was basing my question off your Cleric play guide where you talk about dual wielding weapons.  I assume you don't use a shield?</div></blockquote>\n\nI dual-wield on other Cleric/Monk builds, just not this one. It was a choice based on the fact that this guy doesn't really need to have 10 attacks per round because with Epic Dodge and 50% concealment, he can afford to stand in front of enemies more if needed, so I went for the higher AB and AC, but as I showed you, DWing feats are tweakable into the build if you want them.<br/>\n<br/>\nAs for the shield, this build is different than my Magical Master. It starts out with Monk at level 1. A Shield would negate Monk AC bonus, so I play this one as a Monk right from the start, no shield. However, that first level can be ETERNAL without help. A Monk with 8 STR and no Weapon Finesse is SUFFERABLE. If you're gonna play this guy alone, I suggest you forfeit a few skill points and start out as Cleric to have summoning spells. That's as far as I know, the only way to make it playable from level 1.<br/>\n<br/>\nIf you have any other questions, I'd be happy to help.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "1:56 PM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><blockquote><div><strong>RookY2K wrote:</strong>Thanks for the reply.  I was basing my question off your Cleric play guide where you talk about dual wielding weapons.  I assume you don't use a shield?</div></blockquote>\n- - clip - -<br/>\n<br/>\nAs for the shield, this build is different than my Magical Master. It starts out with Monk at level 1. A Shield would negate Monk AC bonus, so I play this one as a Monk right from the start, no shield. </div></blockquote>\nEquipping a shield does more than that.  <br/>\n<br/>\nYou lose the monk attack progression, speed, monk unarmed damage (if applicable) as well as both the monk and WIS AC.  Except for a low WIS toon with a few monk dump levels, a shield is never beneficial unless it contains enhancements that cannot be gained otherwise, like on a high-magic server that abounds in uber shield properties.  Best to just hold that kama in one hand and exact as much damage as possible.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:17 PM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Hip. I was so obsessed thinking of lvl 1 (where you pretty much don't have any of your described monk goodies) when I said that, that I overlooked that he might have meant all along the build. Thanks for coming to my rescue <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:54 PM - Sep 23, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>However, that first level can be ETERNAL without help. A Monk with 8 STR and no Weapon Finesse is SUFFERABLE. If you're gonna play this guy alone, I suggest you forfeit a few skill points and start out as Cleric to have summoning spells. That's as far as I know, the only way to make it playable from level 1.</div></blockquote>\nI disagree!<br/>\nSurviving level 1 is not that hard with a dexer monk. You should not have to change the build.<br/>\nYou only need Kxp to get to lvl 2, and you normally get a fair amount of xp per kill at lvl 1, so it should not take like forever.<br/>\nYou have 9 hp and AC is 16 (17 with dodge). You must be a little careful, but there is no need to give up, after all what you are up against is made for level 1 combat.<br/>\nIf you can afford potions, they are your friend. Cat's and owl's both give +1 or +2 to AC. And there are also potions of barkskin, bless, aid, bull's, endurance and healing in standard merchants to help you get by.<br/>\nTry to pick one enemy at the time if you can. Stealth (even with only 4 ranks and a +3 modifier) can help you position yourself strategically.<br/>\nYour single stunning fist attempt can save you in a pinch.<br/>\nYou have 3 attacks per round when you count in flurry and cleave!<br/>\n<br/>\nRanged combat with a heavy x-bow is a viable option. AB is determined by dex and damage is high enough to give many one hit kills at lvl 1. But be prepared to run and fire on the run to avoid attacks of opportunity against you.<br/>\n<br/>\nYou can also use the grenade weapons like alchemist fire, acid flask, choking powder, tanglefoot bags and caltrops to damage and slow your enemies.<br/>\n<br/>\nAs a last resort: In many mods you can run errands and earn xp and gold from simple non combat oriented quests.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:17 AM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I agree with some of that, like hit and run with a ranged weapon, but 3 APR and SF, forget about it! Your AB is -1 and not everywhere will you find worlds that allow you to start out with anything. In WoG, you can, but in all previous environments, Brazillian PWs, SP mods and Aielund, you start pretty much NAKED with only the default starting gold of NWN. In those environments you may not even afford a crossbow! Anyway, running errands is nice, getting henchmen in SP mods is also valid, but everything else is environment-dependant. So far, everywhere that I played (except WoG), I had to be levelled to lvl 2 by a friend. In the Brazillian PW I played the most, Goblins would give 20 XP each, and there were archers among them, so no hit and run there!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:31 AM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm still a NWN newb as I've only ever played the OC, SoU, and HotU.  You could make it through those with a half naked Half-orc Wizard (ok, maybe a slight exaggeration). So forgive me if I ask something that seems pretty obvious.  From the research I've done, it would seem that Wisdom for this build serves two basic purposes: Monk AC boosts and Bonus Spell slots. Having the requisite amount of WIS to actually cast a spell too, of course.  So my question:  Is there any offensive advantage to pumping up wisdom in this specific build? <br/>\n<br/>\nAlso from your \"An Insight into the Cleric Class\" post:<br/>\n<blockquote><div>Here is how a lvl 15 Cleric's Spellbook with Capped Wisdom should look like</div></blockquote>\n\nWhat do you mean by capped wisdom? Do you mean the obvious that Wisdom is the absolute highest it could be at level 15 Cleric?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:19 AM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The following comments do not specifically refer to Max's build (I'll leave that to him to clarify), but in general terms:\n<blockquote><div><strong>RookY2K wrote:</strong>So my question:  Is there any offensive advantage to pumping up wisdom in this specific build? \n</div></blockquote>\nIncrease in Spell DC on each subsequent even ability number.\n<blockquote><div>\nAlso from your \"An Insight into the Cleric Class\" post:\n<blockquote><div>Here is how a lvl 15 Cleric's Spellbook with Capped Wisdom should look like</div></blockquote>\nWhat do you mean by capped wisdom? Do you mean the obvious that Wisdom is the absolute highest it could be at level 15 Cleric?</div></blockquote>\n\"Capped\" generally means reaching the ability cap (via equipment enhancements plus buffs)... which is your base ability + 12 (or, in this build, capped, WIS 32 @Level 40).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:21 PM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, once again, I wonder if I actually need to clarify anything with you having already been so ON THE SPOT! But I'll try to be more specific because the guy seems to not know even the basics, so it may help him.<br/>\n<br/>\nOK, Rooky2k, let me try to enlighten you in reference to what we commonly refer to as CAP.<br/>\n<br/>\nReaching a CAP, when we talk about NWN, means reaching the maximum possible MAGICAL ENHANCEMENT of that particular base score. That applies to EVERYTHING in this game, but each different type of character feature has a different cap. Here is a rough list:<br/>\n<br/>\n- Ability scores: The cap for an ability score is +12 (+6 modifier, because you gain +1 modifier for every two additional points in any particular stat: 8 and 9 give -1 modifier, 10 and 11 give a 0 modifier, 12 and 13 give a +1 modifier, so on and so forth). When we talk about capped Wisdom in this build, for example, we mean the BASE score of 20 (+5 Modifier) enhanced magically through buffs and items to 32 (+11 modifier). It won't go beyond that. Multiple sources of this type of enhancement stack with one another, except for two identical spells (you shouldn't cast 2 owl's wisdom on yourself, as only the highest roll will work). But all different items that give you Wisdom will stack with one another, so a Periapt of Wisdom +3 and a Ring of Wisdom +5 will add +8 to your Wisdom score. If you cast an Owl's Wisdom spell on top of it all, you can reach the cap by rolling a 3 (the computer does the rolls automatically, so all you can do is keep your fingers crossed).<br/>\n<br/>\n- AB and AC: The cap for AB and AC is +20. AB is simple, as there is only one type of AB enhancement, although there are other enhancements that influence AB indirectly (like capping the combat stat, in this case DEX, which won't count towards the +20 cap). AB enhancements stack with one another, so GMW and Divine Favor will give +5 each to AB enhancement for a total of +10. If you add Divine Power, in this build it will give +5 to AB as well, so GMW + Divine Favor + Divine Power = +15 AB enhancement, so on and so forth.<br/>\n<br/>\nHowever, AC has 5 different types of modifiers, each of them with a +20 cap:<br/>\n<br/>\nNatural AC<br/>\nDeflection AC<br/>\nArmor AC<br/>\nShield AC<br/>\nDodge AC<br/>\n<br/>\nNone of the above, except for dodge, stack with themselves. So if you have a Ring of Protection +3 (+3 Deflection AC) and a Cloak of Protection +4 (+4 Deflection AC), it's the same as if you had only the cloak, only the highest value counts. Boots of Dodging and, say Divine Shield and Haste (both of which give Dodge AC), will stack to a maximum of +20. So the only way to cap your Deflection AC is to find a Cloak of Protection +20, and the same goes for all the other modifiers except Dodge AC. To cap Dodge AC, all you need to do is find several items / buffs that give you Dodge AC bonuses up to +20. <br/>\n<br/>\n- Skills: The cap for skill enhancements is +50. This only includes MAGICAL enhancements, so feats like Alertness, Skill Focus and such DON'T COUNT TOWARDS THE CAP.<br/>\n<br/>\nI hope things are a bit clearer now. I know how painful it can be to be a member of the ECB whilst still being a noob, but don't worry, with that kind of attitude and curiosity, you're going to grow into a better player. I wish I could say soon, but this game is so complex that it'll probably take some time. Keep it up, though, don't give up!<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:40 PM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you Maximillian and Hip.  I appreciate the depth in which you took your answer.  I knew most of that already, but it wasn't a bad review.. plus I'm sure there are others that will come in here that will benefit from that information greatly.  I didn't word my question very well, but it was answered perfectly just the same. I'm a pretty fast study, so hopefully it won't be long before I'm contributing.  Thanks again!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Malazan",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:06 PM - Aug 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">New to game. Playing SoU.<br/>\n Thought I would play this build. Do you use Kamas from the start? In both hands?<br/>\n<br/>\n What spells do you use? Rotation?<br/>\n<br/>\n Is this build on for newbie?<br/>\n<br/>\n Any advice?<br/>\n<br/>\n Thanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:12 PM - Aug 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Malazan wrote:</strong><hr/>New to game.<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n ...and to our guild, so <span style=\"font-size:150%;line-height:normal\">welcome!\u00a0</span> <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /></div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "8:14 PM - Aug 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Malazan wrote:</strong><hr/>New to game. Playing SoU.<br/>\n Thought I would play this build. Do you use Kamas from the start? In both hands?<br/>\n<br/>\n What spells do you use? Rotation?<br/>\n<br/>\n Is this build on for newbie?<br/>\n<br/>\n Any advice?<br/>\n<br/>\n Thanks.</div></blockquote>\n<div align=\"left\">Hey, Malazan! For newbies, I generally recommend that you start with a melee guy, but if you, like me, want to challenge yourself, this build is not among the most difficult to play. I'd rank it as a mid-tier one in difficulty. This guy doesn't dual-wield kamas nor does he need to. You can start with a kama at level 1, but I normally use a henchman and sling the crap out of mobs to take advantage of the high dex modifier. As for tips in playing a Cleric, I would refer you to the game guides section, where you'll find my thorough guide that explains everything you need to know to master the art of playing Clerics. It's called an insight into the Cleric class.<br/>\n<br/>\n Take it EZ!<br/>\n<br/>\n<br/>\n \u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Malazan",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:17 PM - Aug 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the fast reply! <br/>\n You use one kama?<br/>\n  I will check out your cleric guide thanks for the heads up. <br/>\n<br/>\n I was thinking this was a melee/magic build. ..kind of a gish with stealth. <br/>\n Am I mistaken?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Malazan",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:21 PM - Aug 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Read this after my last reply so this answered a lot of questions. Thank you so much. <br/>\n<br/>\n Will check the lever 30 builds.<br/>\n<br/>\n Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:21 AM - Aug 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For single-player, how about Cleric / Monk / Fighter, with Cleric as the main class and keeping Monk and Fighter even to avoid experience penalty? You would lose the Shadowdancer goodies and Epic Dodge, but you would gain the dual-wielding feats and Weapon Spec and Epic Weapon Spec.<br/>\n Or how about Rogue / Monk / Fighter? I played such a build in SoU, HotU, and then Sands of Fate to reach level 40. It gets Epic Dodge at level 30, which is after HotU, but still relatively early in Sands of Fate.<br/>\n<br/>\n I could post either build, but not in this thread. It is frowned upon to post another build in somebody else's build's thread.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "theflyingrodent",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:51 PM - Nov 04, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another very good class combination I recognise!<br/>\n<br/>\n If I'm just starting out on a server for the very first time, this is the build I use to scout things out. It can use both ranged and melee attacks for its whole progression, can get HIPS as early as level 8,, and requires very little gear to operate effectively thanks to all the cleric buffs. Travel/Trickery is a good domain combo if perma-haste items are rare or non-existent.<br/>\n<br/>\n I usually go Cleric 6 to start, staying at range and hiding behind summons or party members. Scale mail + heavy crossbow or mace + \u00a0dire badger through to Skeleton warrior works well. Web also works well if you have travel\u00a0domain.<br/>\n<br/>\n After that, monk for 7 (stealth, tumble, switch to Kama and monk stuff) and SD for 8. Makes the progression a little more combat heavy in the early stages than this particular version as it gets less cleric before 20 [monk 4 cleric 12 sd 4 pre epic], and staggers the feats back a bit trying to fit in Dodge and Mobility early. That said, HIPS at level 8 is a great get-out-of-jail free card if you wander into a sticky situation.<br/>\n<br/>\n I also usually opt for duel wielding kamas (ambi + twf + itwf instead of 2 Dex and cs) so that if backed into a corner, I can pull out the old switch-the-offhand-weapon-on-the-quickbar-back-and-forth attacks per round exploit. Not often, but occasionally.\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "7:52 AM - Nov 05, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd sub in Empower for Called Shot and not have to think much about it.\u00a0 Unless it's a high-magic environment, a Dexer is going to need to buff up the STR in any way possible and the additional 40 HP wouldn't hurt either, nor the boost to saves, which are not bad but nothing to write home about.<br/>\n<br/>\n I assume Max was concerned about sources of AC ala Plant.\u00a0 CD is too buggy and party-unfriendly to focus towards so that's my best guess.\u00a0 I'd be more inclined towards Travel to empower my summons (and party, if applicable) with that 4 AC and free full BAB attack.\u00a0 Even War makes more sense to me for buffing the primary ability and benefits of AoV.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:32 PM - Jan 17, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>theflyingrodent wrote:</strong><hr/>Another very good class combination I recognise!<br/>\n<br/>\n If I'm just starting out on a server for the very first time, this is the build I use to scout things out. It can use both ranged and melee attacks for its whole progression, can get HIPS as early as level 8,, and requires very little gear to operate effectively thanks to all the cleric buffs. Travel/Trickery is a good domain combo if perma-haste items are rare or non-existent.<br/>\n<br/>\n I usually go Cleric 6 to start, staying at range and hiding behind summons or party members. Scale mail + heavy crossbow or mace + \u00a0dire badger through to Skeleton warrior works well. Web also works well if you have travel\u00a0domain.<br/>\n<br/>\n After that, monk for 7 (stealth, tumble, switch to Kama and monk stuff) and SD for 8. Makes the progression a little more combat heavy in the early stages than this particular version as it gets less cleric before 20 [monk 4 cleric 12 sd 4 pre epic], and staggers the feats back a bit trying to fit in Dodge and Mobility early. That said, HIPS at level 8 is a great get-out-of-jail free card if you wander into a sticky situation.<br/>\n<br/>\n I also usually opt for duel wielding kamas (ambi + twf + itwf instead of 2 Dex and cs) so that if backed into a corner, I can pull out the old switch-the-offhand-weapon-on-the-quickbar-back-and-forth attacks per round exploit. Not often, but occasionally.\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">\n Hey man!<br/>\n<br/>\n Each server is different in terms of what you need to do to survive. Also, playstyle varies, so you may feel like you need to HiPS to stay alive. I played this build 1-40 on WoG and it was pretty much a cakewalk even without HiPS pre-epic. And WoG is known for having really tough bosses, but this guy is just so powerful that he literally wrecks everything in his path. Starting with Cleric and delaying the first Monk level will cause 2 things:<br/>\n<br/>\n 1- Fewer total skill points to the build due to the x4 multiplier at level 1. And I found him a bit skill-starved with 26 Cleric levels already. What did you remove from the skill set to start with Cleric?<br/>\n 2- Being more dispellable. On WoG, EVERY CASTER, arcane or divine, will cast some form of dispel on you, so being dispellable is a HUGE issue, especially since you're facing overlevel stuff most of the time (E.G. 2 bosses that you face at level 30 are level 40 bosses), which means higher caster levels and a higher chance of dispelling. They also cast Breaches and Mord's if they are arcane.<br/>\n<br/>\n As for the\u00a0TWF feats, you lose 3 AB and some indirect AC against STR attackers, and you gain 3 more (unnecessary?) attacks per round. If you ALWAYS HIT no matter what, then sure, go for it, but if the monster AC is competitive, the loss of AB may actually cause you to miss more and therefore be a waste in the end. What I thought when I chose not to try to go for\u00a0TWF was the following: you'll only need the two Kamas for really tough enemies, as everything else will die anyway, and against those, the loss of 3 AB was more of a hinderance than the gain I'd have from dial-wielding. You do kill things faster, but in my experience,\u00a0the things you kill faster would die anyway, so TWF feats don't actually affect the outcome of any battle. And I've been surrounded by 50-AB drow warriors and Drow Scouts with this guy without taking a single hit! So, have you tried to play this build without dual-wielding?<br/>\n<br/>\n<blockquote><div>I'd sub in Empower for Called Shot and not have to think much about it. Unless it's a high-magic environment, a Dexer is going to need to buff up the STR in any way possible and the additional 40 HP wouldn't hurt either, nor the boost to saves, which are not bad but nothing to write home about. I assume Max was concerned about sources of AC ala Plant. CD is too buggy and party-unfriendly to focus towards so that's my best guess. I'd be more inclined towards Travel to empower my summons (and party, if applicable) with that 4 AC and free full BAB attack. Even War makes more sense to me for buffing the primary ability and benefits of AoV.</div></blockquote>\n\n Hey Hip! So, funny thing about Called Shot is that it's the ONLY optional feat in this build and I did have Empower Spell EXACTLY in that slot for this build to begin with. It's a very viable tweak, but let me tell you why I swapped it out: gear! Where I played it, combining gear and regular buffs, I was able to cap my STR score without Empower after a while, and you're severely underestimating what 7 attacks per round will do to the enemy's STR score with CS if you just spam it! I found CS to be more useful except for the beginning levels. Also, CS Leg can be very handy if you're sniping an enemy that you don't want to be able to chase you. With your Monk Speed and their slow, even if they're hasted (or on a horse) they won't be able to catch you :D.<br/>\n<br/>\n As for the choice of domain, the reason is the same: gear! When I played this guy on Aielund, I found myself desperately needing the Ammy slot to cap WIS, as there aren't that many items that have WIS-enhancing properties in other item slots,\u00a0so Barkskin actually provides me with extra Monk\u00a0AC, because I can get it from an Ioun Stone, from Owl's Wisdom and the Periapt of WIS +5 while still having a Natural +5 modifier from Cleric 13 onwards. Again, it all depends on the gear that is available where you play. And here's another funny thing LOL. I ended up HAVING TO SWITCH PLANT domain out when I made this guy on WoG\u00a0because of God Domain restrictions, so it ended up being War / Trickery in the end. The good thing about it is that you get 3 god modes a day in my spellbook configuration. AoV, Regeneration, Prayer and Battletide I only memorize 3 a day of each one (all extended, of course). Not that your ungodly mode is any less fearful, but it's nice to be regenerating, having more HP and doing slightly more damage for 52 turns 3x a day.<br/>\n<br/>\n But yeah, all of your suggested tweaks are very viable alternatives that IMO will depend on items that are available\u00a0where you play. Travel would certainly be a priority if I couldn't get perma-haste, so Trickery / Travel, Trickery / Plant or War / Trickery are all possible setups that will work very well with this build.<br/>\n<br/>\n Take it EZ!</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:11 PM - Mar 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello!<br/>\n<br/>\n This build looks really good. I plan on using a modified version of it on an RP PW. However, to stay true to the theme of my character, I want to go with unarmed strike. I was wondering if it could be worth it to invest more levels in monk for increased unarmed damage. In fact, I'm thinking about going monk 20, to get the perfect self feat (for RP reasons), and leaving cleric at 15, and I wonder just how much power I would be giving up by going that way.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:47 AM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>samurainostalgique wrote:</strong><hr/>Hello!<br/>\n<br/>\n This build looks really good. I plan on using a modified version of it on an RP PW. However, to stay true to the theme of my character, I want to go with unarmed strike. I was wondering if it could be worth it to invest more levels in monk for increased unarmed damage. In fact, I'm thinking about going monk 20, to get the perfect self feat (for RP reasons), and leaving cleric at 15, and I wonder just how much power I would be giving up by going that way.</div></blockquote>\n<div align=\"left\">\n Hey, brother! If you do that, then it wouldn't be this build. This build sort of has to wield a Kama to take advantage of Darkfire and Greater Magic Weapon. Too bad you can't buff Monk gloves with either, otherwise it'd be just a matter of weapon choice. However, this other build of yours could be really powerful too.\u00a0As a matter of fact I have made exactly that build (Monk 20 / Cleric 15 / Shadowdancer 5). It's called <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/521694/\" rel=\"noreferrer\" target=\"_blank\">Bigbys-Small-Hand-Complex</a>. The first post contains a halfling version, a few posts down is a Human one.\u00a0<br/>\n<br/>\n As for how much power you'd be giving up, it depends. You'd be foregoing undispellability, level 9 spells, some level 8 ones and a few spells per day on some circles, two epic feats and spell durations. For what? Unarmed damage, monk immunities, better saves and movespeed. As I said, it's just a completely different character that should be played completely differently. Moreso because you don't want to lose BAB, so you'll need to go Cleric 12 Monk 8 or Cleric 12 / Monk 4 / SD 4 pre-epic, which means you won't cap your main buffs until epic levels.<br/>\n<br/>\n Hope this helps! Cheers!</div>\n<br/>\n<em>edit: per Hip 20170307 - fixed link</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:51 AM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, I forgot how to add urls. Can you edit my post, please? And maybe give yours truly a refresher on how to do this? Thx!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:21 AM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for the quick answer. The human build looks exactly like what I had in mind.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "6:26 AM - Mar 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><hr/>Hip, I forgot how to add urls. Can you edit my post, please? And maybe give yours truly a refresher on how to do this? Thx!</div></blockquote><ul><li>Open up two tabs, one with the text editor and one with the build you want to link.\u00a0</li> <li>Type the title or whatever word or phrase you intend to link in the editor (if you haven't already).</li><li>Switch to the prospective link's tab and hilight the URL in the address bar (all you need is the part with the <strong>guild's address/topic/some serial number/ </strong>like I used in the filter).</li><li>Key Ctrl-C to copy the URL into the buffer.</li><li>Switch back to the text editor and hilight the text (title or whatever) then click the link icon in the editor which brings up a pop-up window.</li><li>In the url text box, hilight the \"http://\" string and key Ctrl-V to paste over the string with the URL stored in the buffer. (In the title text box should already be the text you hilighted in the editor.)</li>\n<li>Click OK.</li></ul>Use Preview to see if it worked right.\u00a0 If not, try again.\u00a0 Computers are s-o-o-o-o-o-o finicky. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:23 PM - Mar 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipRedux wrote:</strong><hr/>\n<blockquote><div>Maximillian Kane wrote:Hip, I forgot how to add urls. Can you edit my post, please? And maybe give yours truly a refresher on how to do this? Thx!</div></blockquote> <ul><li>Open up two tabs, one with the text editor and one with the build you want to link.\u00a0</li> <li>Type the title or whatever word or phrase you intend to link in the editor (if you haven't already).</li> <li>Switch to the prospective link's tab and hilight the URL in the address bar (all you need is the part with the guild's address/topic/some serial number/ like I used in the filter).</li> <li>Key Ctrl-C to copy the URL into the buffer.</li> <li>Switch back to the text editor and hilight the text (title or whatever) then click the link icon in the editor which brings up a pop-up window.</li> <li>In the url text box, hilight the \"http://\" string and key Ctrl-V to paste over the string with the URL stored in the buffer. (In the title text box should already be the text you hilighted in the editor.)</li> <li>Click OK.</li> </ul> Use Preview to see if it worked right.\u00a0 If not, try again.\u00a0 Computers are s-o-o-o-o-o-o finicky. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /></div></blockquote>\n<div align=\"left\">I didn't understand it all, I'll re-read it later, but let me tell you what I did, which was:<br/>\n<br/>\n [ u r l ] link here [ / u r l ] name here (without the spaces otherwise it wouldn't show)<br/>\n<br/>\n I know for a fact it used to work. Does it no longr work?\u00a0<br/>\n<br/>\n Thanks!</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "2:40 PM - Mar 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515430\" rel=\"noreferrer\" target=\"_blank\">The Shadow Priest - Cleric 26/Monk 9/SD5</a><br/>\n<br/>\n [ u r l =\u00a0<a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515430\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.forumer.com/topic/515430</a> ] The Shadow Priest - Cleric 26/Monk 9/SD5 [ / u r l ]<br/>\n<br/>\n Max, this is how it works now :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:13 PM - Mar 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><hr/>I didn't understand it all, I'll re-read it later, but let me tell you what I did, which was:\n<div align=\"left\">\n [ u r l ] link here [ / u r l ] name here (without the spaces otherwise it wouldn't show)<br/>\n<br/>\n I know for a fact it used to work. Does it no longr work?\u00a0<br/>\n<br/>\n Thanks!</div>\n</div></blockquote>Apparently, you don't use the link icon (the icon that looks like two links of a chain) on the editor's quick bar, Max.\u00a0 That's the fastest way IMO.\u00a0 When one must provide over two hundred links in a reasonable time, they'll use the most expeditious method.\u00a0 If you'd rather type the BB code yourself, then follow hunearo's example.\u00a0 It work's just as well.\u00a0 <br/>\n<br/>\nI don't use the Copy/Paste mouse Rclick on Forumer anymore because it can be fluky at times.\u00a0 Ctrl-C/Ctrl-V has never failed me... ...so far!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "7:55 PM - Mar 08, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>hunearo wrote:</strong><hr/><a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515430\" rel=\"noreferrer\" target=\"_blank\">The Shadow Priest - Cleric 26/Monk 9/SD5</a><br/>\n<br/>\n [ u r l =\u00a0<a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515430\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.forumer.com/topic/515430</a> ] The Shadow Priest - Cleric 26/Monk 9/SD5 [ / u r l ]<br/>\n<br/>\n Max, this is how it works now :)</div></blockquote>\n<div align=\"left\">OHHHHHHH My mistake!<br/>\n<br/>\n That's how it always was, man! I just remembered! Thank you so much! Apparently my 2-year nap has had a few consequences :D</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Andare",
+      "avatar": "10744502_1510287074.jpg",
+      "timestamp": "4:00 AM - May 09, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One of my favorite builds ... I recall when I first saw Yar Stardawg's L20 version of this ... was a very powerful toon.<br/>\n<br/>\n I start with STR 10 and CON 10 ... so fewer Hp in the end, but better packing power early on as I also start with Cleric for the armor and shield. \u00a0I generally take Trickery (of course), and War (for Cat's Grace if perma haste is available on something other than boots) or Travel (for Haste if no perma Haste available on something other than boots ... as I like the Monk Boots AND Haste). \u00a0I pretty much stick with armor and shield until my Dex and monk skills allow my \"naked\" AC to catch up, at which point I go w/o armor and shield (for the better attack schedule). \u00a0I also took Still Spell instead of Called Shot ... allows more options with spells like Heal freeing up spots for extended battle buffs. \u00a0I pushed the second SD level to 23 just to get the Uncanny Dodge earlier, and rearranged some other classes to get C24 at L31 for the immunity to dispell (that was about as early as I could get it). \u00a0As for the skills ... I dropped Listen (as I have True Seeing) so added a bit of Detect Traps, Open locks, Search and even some Lore in the mix.<br/>\n<br/>\n I pack a pair of Gloves of the Ballanced Hands that I can don for an extra attack (-2 AB) with dual kamas ... nice if the kama's have enhancement (I really like the kama with Doom on it ....); else I just go with STR glove or DEX if you haven't maxed it with other gear.<br/>\n<br/>\n Any rate ... a very powerful toon, easy enough to optimize to fit the particular server being played on. \u00a0Thanks for posting.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:45 AM - Jul 28, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\u00a0\n<blockquote><div><strong>Maximillian Kane wrote:</strong><hr/><div align=\"left\">\n As for the choice of domain, the reason is the same: gear! When I played this guy on Aielund, I found myself desperately needing the Ammy slot to cap WIS, as there aren't that many items that have WIS-enhancing properties in other item slots,\u00a0so Barkskin actually provides me with extra Monk\u00a0AC, because I can get it from an Ioun Stone, from Owl's Wisdom and the Periapt of WIS +5 while still having a Natural +5 modifier from Cleric 13 onwards. Again, it all depends on the gear that is available where you play. And here's another funny thing LOL. I ended up HAVING TO SWITCH PLANT domain out when I made this guy on WoG\u00a0because of God Domain restrictions, so it ended up being War / Trickery in the end. The good thing about it is that you get 3 god modes a day in my spellbook configuration. AoV, Regeneration, Prayer and Battletide I only memorize 3 a day of each one (all extended, of course). Not that your ungodly mode is any less fearful, but it's nice to be regenerating, having more HP and doing slightly more damage for 52 turns 3x a day.<br/>\n<br/>\n But yeah, all of your suggested tweaks are very viable alternatives that IMO will depend on items that are available\u00a0where you play. Travel would certainly be a priority if I couldn't get perma-haste, so Trickery / Travel, Trickery / Plant or War / Trickery are all possible setups that will work very well with this build.<br/>\n<br/>\n Take it EZ!</div>\n</div></blockquote>\n<div align=\"left\">\n Just curious which deity you went with on WoG because I cant seem to find one with War/Trickery that allows a lawful alignment.<br/>\n \u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "11:38 PM - Feb 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does this built do better with unarmed strike?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:55 AM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Er, no.<br/>\n<br/>\nIf you follow the discussion the reasons become clearer - leaving alone that an 8 STR wouldn't do so well with a a main weapon that can't be finessed (unarmed). It would be interesting to see if anyone could come up with it, but I have serious doubts.<br/>\n<br/>\nSorry!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "5:59 AM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nEr, no.<br/>\n<br/>\nIf you follow the discussion the reasons become clearer - leaving alone that an 8 STR wouldn't do so well with a a main weapon that can't be finessed (unarmed). It would be interesting to see if anyone could come up with it, but I have serious doubts.<br/>\n<br/>\nSorry!\n</div></blockquote>\n\nAccording to the wiki,\u00a0<br/>\n<strong>Weapon</strong> finesse allows the character to use his dexterity modifier instead of the strength modifier when making melee attack rolls with light weapons, rapiers, and unarmed strikes. The highest of the strength and dexterity modifiers will be used for attack rolls with qualifying weapons. Does that mean unarmed strike can be finessed?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:43 AM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\nEr, no.<br/>\n<br/>\nIf you follow the discussion the reasons become clearer - leaving alone that an 8 STR wouldn't do so well with a a main weapon that can't be finessed (unarmed). It would be interesting to see if anyone could come up with it, but I have serious doubts.<br/>\n<br/>\nSorry!\n</div></blockquote>\n\nAccording to the wiki,\u00a0<br/>\n<strong>Weapon</strong> finesse allows the character to use his dexterity modifier instead of the strength modifier when making melee attack rolls with light weapons, rapiers, and unarmed strikes. The highest of the strength and dexterity modifiers will be used for attack rolls with qualifying weapons. Does that mean unarmed strike can be finessed?\n</div></blockquote>\n\nOf course Unarmed Strike can be finessed. You can't find a weapon smaller than no weapon at all. On the other and, of you want to use Unarmed Strike, you need to have at least 16 levels of Monk because that is when you get the d20 damage on your fists, the highest base damage of any weapon in the game. Generally, fists are better than dual kamas in low-magic worlds, and kamas are better than fists in high-magic worlds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:45 AM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well said empyre, and as a general principle the higher the magic level the better dexterity-types fair.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:26 PM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\n<blockquote><div><cite>phmah2408 wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\nEr, no.<br/>\n<br/>\nIf you follow the discussion the reasons become clearer - leaving alone that an 8 STR wouldn't do so well with a a main weapon that can't be finessed (unarmed). It would be interesting to see if anyone could come up with it, but I have serious doubts.<br/>\n<br/>\nSorry!\n</div></blockquote>\n\nAccording to the wiki,\u00a0<br/>\n<strong>Weapon</strong> finesse allows the character to use his dexterity modifier instead of the strength modifier when making melee attack rolls with light weapons, rapiers, and unarmed strikes. The highest of the strength and dexterity modifiers will be used for attack rolls with qualifying weapons. Does that mean unarmed strike can be finessed?\n</div></blockquote>\n\nOf course Unarmed Strike can be finessed. You can't find a weapon smaller than no weapon at all. On the other and, of you want to use Unarmed Strike, you need to have at least 16 levels of Monk because that is when you get the d20 damage on your fists, the highest base damage of any weapon in the game. Generally, fists are better than dual kamas in low-magic worlds, and kamas are better than fists in high-magic worlds.\n</div></blockquote>\n\nMy apologies - for reasons best known to my subconscious, I'd got myself confused with qualifications for CoT/WM. Empyre is of course right. That'll teach me to post after mucho whiskey. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "1:59 PM - Feb 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No rule says you need d20 fists to use unarmed. What you need tho, is to find out if gloves are good enough to use it or not. Where I used the Shadowpriest I also went unarmed, simply because gauntlets were better than kamas. You can finesse both, but you cannot cast spells on gloves by default, although in PnP you can.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "5:39 PM - Feb 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\nNo rule says you need d20 fists to use unarmed. What you need tho, is to find out if gloves are good enough to use it or not. Where I used the Shadowpriest I also went unarmed, simply because gauntlets were better than kamas. You can finesse both, but you cannot cast spells on gloves by default, although in PnP you can.\n</div></blockquote>\nGrimnir in my server that I played. Gloves can now be gmw and flame up. So basically it\u2019s a +5 enhancement and 1d6 Fire. So will you change on that built if you are using it unarmed? Thanks. Also how is the damage output like?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "5:51 PM - Feb 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div><cite>phmah2408 wrote:</cite>\nGrimnir in my server that I played. Gloves can now be gmw and flame up. So basically it\u2019s a +5 enhancement and 1d6 Fire. So will you change on that built if you are using it unarmed? Thanks. Also how is the damage output like?</div></blockquote>\n\nDamage isn't as high as a strength build, of course. Since you can enhance your gloves, just find gloves which has some extra damage. You will be hitting fast and you won't die anytime soon, so no worries. Weird as it may sound, this character is a good tank. Even your touch AC will be quite good.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "9:19 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite><blockquote><div><cite>Grimnir wrote:</cite>\nNo rule says you need d20 fists to use unarmed. What you need tho, is to find out if gloves are good enough to use it or not. Where I used the Shadowpriest I also went unarmed, simply because gauntlets were better than kamas. You can finesse both, but you cannot cast spells on gloves by default, although in PnP you can.\n</div></blockquote>\nGrimnir in my server that I played. Gloves can now be gmw and flame up. So basically it\u2019s a +5 enhancement and 1d6 Fire. So will you change on that built if you are using it unarmed? Thanks. Also how is the damage output like?</div></blockquote>\n\nHey man! As the creator of the build, and having played him as both Unarmed and Kama, I'd say there isn't really much difference between both, except for the fact that I haven't seen any gloves with the Keen property on them, so you'd miss out on a few opportunities to score more criticals, but other than that, there's not really much of a difference. You need to remember that, as a DEX toon, most of your damage comes from buffs, so it's certainly nice to have the chance to multiply the extra damage from GMW, Battletide, Prayer and Divine Favor. But that would be the only (minor) difference between them.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "10:48 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian_Kane wrote:</cite>\n<blockquote><div><cite>phmah2408 wrote:</cite><blockquote><div><cite>Grimnir wrote:</cite>\nNo rule says you need d20 fists to use unarmed. What you need tho, is to find out if gloves are good enough to use it or not. Where I used the Shadowpriest I also went unarmed, simply because gauntlets were better than kamas. You can finesse both, but you cannot cast spells on gloves by default, although in PnP you can.\n</div></blockquote>\nGrimnir in my server that I played. Gloves can now be gmw and flame up. So basically it\u2019s a +5 enhancement and 1d6 Fire. So will you change on that built if you are using it unarmed? Thanks. Also how is the damage output like?</div></blockquote>\n\nHey man! As the creator of the build, and having played him as both Unarmed and Kama, I'd say there isn't really much difference between both, except for the fact that I haven't seen any gloves with the Keen property on them, so you'd miss out on a few opportunities to score more criticals, but other than that, there's not really much of a difference. You need to remember that, as a DEX toon, most of your damage comes from buffs, so it's certainly nice to have the chance to multiply the extra damage from GMW, Battletide, Prayer and Divine Favor. But that would be the only (minor) difference between them.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk\n</div></blockquote>\n\nHey Max, thanks for your reply. My server has gloves that can be GMW, Flame, Keen as well. It's a recent update! in which inspired me to make my favorite monk built. I will certainly use your built and make an unarmed strike! <br/>\nSo currently, my server only has +2 items. Not sure what kind of ac am I getting from +2?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:35 AM - Mar 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, if they have keen gloves (HOW? LOL, do they sharpen the fingertips?), then it is literally the same. With +2 items you'll have the same AC as with +5 with your Cleric buffs, unless those have been altered as well. But you should maybe consider a little tweak for such low magic, to take Empower Spell instead of Called Shot to be able to cap DEX and WIS.<br/>\n<br/>\nCheers!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "traballacoilupi",
+      "avatar": "10758911_1528455768.png",
+      "timestamp": "5:06 PM - Jun 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, so I've been thinking a bit.<br/>\nThis guy uses a single kama, and the reasons for it are sound.<br/>\n<br/>\nThen I've asked myself: WHY NOT HALFLING?<br/>\n- Drop Called Shot or Improved Critical for Blind Fight<br/>\n- You lose bonus skillpoints (40, but actually halflings gain 16 bonus to skills you select - I've done (CBC did) the math: if you are satisfied with Concentration 27 and Spellcraft 40 you reach the same skills as the original build except Persuade, which I don't understand because I'm ignorant)<br/>\n<br/>\nYou could gain 1 epic feat (starting DEX 15+2=17 frees up a Great Dexterity), or INT 14.<br/>\n<br/>\nHalfling, man, +1 AC, +1 AB, +1 saving throws, sling, etc.<br/>\n<br/>\nWhat do you think?<br/>\n<br/>\nThe Output would look like this (<em>and that's <strong>without</strong> picking the bonus Epic feat</em>):\n<table class=\"post_content_table\"><tbody><tr><td>Hitpoints: 360</td>\n</tr>\n<tr><td>Skillpoints: 216</td>\n</tr>\n<tr><td>Saving Throws (Fortitude/Will/Reflex): 26/30/29</td>\n</tr>\n<tr><td>Saving Throw bonuses: Spells: +8, Mind Effects: +2, Traps: +1, Fear: +2</td>\n</tr>\n<tr><td>BAB: 25</td>\n</tr>\n<tr><td>AB (max, naked): 38 (melee), 36 (ranged)</td>\n</tr>\n<tr><td>AC (naked/mundane armor/shield only): 36/36</td>\n</tr>\n<tr><td>Spell Casting: Cleric(9)</td>\n</tr>\n<tr><td>Alignment Changes: 0</td>\n</tr>\n</tbody></table>\n<table class=\"post_content_table\"><tbody><tr><td>Concentration 26(27), Hide 38(51), Listen 36(47), Move Silently 36(51), Spellcraft 38(40), Tumble 40(49), remaining skillpoints 2</td>\n</tr>\n</tbody></table>\n<strong>Option B</strong>: you take Great DEX at 24, delay 9th lvl spells from lvl 24 to lvl 31 for bonus cleric feat (horrible, that's why it's option B) and keep your WIS to 19 or drop Armor Skin but I don't like it, start with DEX 15 and end up with DEX 30: another point of AB, AC, Reflex save.<br/>\nI like it less, it's more shallow but it is more \"min/maxed\". And IMO spell slots=quality of life, heed the warning.\n<table class=\"post_content_table\"><tbody><tr><td>Hitpoints: 360</td>\n</tr>\n<tr><td>Skillpoints: 216</td>\n</tr>\n<tr><td>Saving Throws (Fortitude/Will/Reflex): 26/30/30</td>\n</tr>\n<tr><td>Saving Throw bonuses: Spells: +8, Mind Effects: +2, Traps: +1, Fear: +2</td>\n</tr>\n<tr><td>BAB: 25</td>\n</tr>\n<tr><td>AB (max, naked): 39 (melee), 37 (ranged)</td>\n</tr>\n<tr><td>AC (naked/mundane armor/shield only): 37/37</td>\n</tr>\n<tr><td>Spell Casting: Cleric(9)</td>\n</tr>\n<tr><td>Alignment Changes: 0</td>\n</tr>\n</tbody></table>\n\nIn both cases, you'd be small and fast as a bullet! Long live halflings!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:16 PM - Jun 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have nothing at all against halflings, but given that you'd be losing a feat at level 1, a potential extra 1 in epic levels ain't going to help early playability much. You'd also lose 43 skill points, which is one entire maxed skill. And then there's the xp penalty from level 4 right through to 40.<br/>\n<br/>\nBut I've been known to be wrong - in this thread alone!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "traballacoilupi",
+      "avatar": "10758911_1528455768.png",
+      "timestamp": "8:44 PM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Eh, Stag, I'm wrong all the time, especially on this topic, and more so when commenting one of Max's builds, but I'm not letting the halfling go!<br/>\nYou can start with 8 16 12 16 15 8 (already counting halfling stat bonuses), raise INT to 16 at the fourth level and actually gain skillpoints while losing nothing.<br/>\n<table class=\"post_content_table\"><tbody><tr><td>Hitpoints: 360</td>\n</tr>\n<tr><td>Skillpoints: 245</td>\n</tr>\n<tr><td>Saving Throws (Fortitude/Will/Reflex): 26/30/29</td>\n</tr>\n<tr><td>Saving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +1, Fear: +2</td>\n</tr>\n<tr><td>BAB: 25</td>\n</tr>\n<tr><td>AB (max, naked): 38 (melee), 36 (ranged)</td>\n</tr>\n<tr><td>AC (naked/mundane armor/shield only): 36/36</td>\n</tr>\n<tr><td>Spell Casting: Cleric(9)</td>\n</tr>\n<tr><td>Alignment Changes: 0</td>\n</tr>\n<tr><td></td>\n</tr>\n<tr><td>Concentration 43(44), Hide 38(51), Listen 36(47), Move Silently 36(51), Persuade 7(6), Spellcraft 42(45), Tumble 40(49), remaining skillpoints 11</td>\n</tr>\n</tbody></table>\n\nSame modified skills, plus 11 remaining.<br/>\nSpellcasting is affected, 19 WIS.<br/>\nYou sacrifice Improved Critical and 1 bonus Wis to get +1 AC/AB/Fort/Refl/Will.<br/>\n<br/>\nCrap, now I see why Max chose a Human!<br/>\n<br/>\nHah, nevermind then.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:17 PM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">By sacrificing 1 full skill, which really isn't necessarily that big a deal. Concentration f.ex. is expendable.<br/>\n<br/>\nYou would gain 2 AB, 2 AC, saves and stealth. Nothing wrong with halfling.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:43 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>By sacrificing 1 full skill, which really isn't necessarily that big a deal. Concentration f.ex. is expendable.<br/>\n<br/>\nYou would gain 2 AB, 2 AC, saves and stealth. Nothing wrong with halfling.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk</div></blockquote>\n\nHey Grim! Nice to see you still around.<br/>\n<br/>\nI have to say I disagree with you. I don't think Concentration is the one to drop in this build. I'd drop Listen and Called Shot for Halfling. <br/>\n<br/>\nBut, I think I still prefer Human. It's basically 2 AB and AC, plus a few skill boni to stealth skills vs Listen and Called Shot.<br/>\n<br/>\nIMO, he won't benefit that much from a higher AB, as he can already hit most things in his Human form, and the same is true for the AC, he normally won't get hit, except on 20s rolled by our opponents. <br/>\n<br/>\nBut, he does cast a lot in melee, and I'd rather not lose a spell on one of those 20 rolls by our opponents, especially surrounded, which he does get very often.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:20 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Speaking purely selfishly...does this mean I'm learning? And agreeing with Max? Nurse - more of those blue tablets!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:59 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Regardless of personal preferences, I found traballa's suggestion quite sharp. Having (+2AC &amp; +2AB &amp; +1 all saves) isn't easily dismissible, so I would say if you can afford the Exp. penalty it's definitely worth it. I would not get rid of concentration skill either though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:32 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I played the Shadowpriest on a pw that saw a lot of faction play. I played Elf for factional reasons and were acyually caught between these two. <br/>\n<br/>\nI took early access to Shadowdancer while levelling, but used a relevel at 40 to optimise. Elf is between these two. I didn't have called shot, but not sure about skills. HiPS let's you recast quite easily, just learn to shuffle your fingers. Often you have cast the spell before anyone gets a chance to detect you. But it's a pain while levelling. But very rarely can they detect you fast and hit you. Especially if you run away first, fighting non-monks. There are ways around concentration. Unmodified True Seeing makes listen almost moot tho, so then it's a no-brainer.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "10:37 PM - Jan 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello guys again! I haven't give up my monk built yet. I have been looking at different combination classes but 26 Cleric\u00a0 9 monk plus X class. Max has 8str on his built. Is that enough?? ED cannot be push earlier right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "10:59 PM - Jan 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">8 Str because Divine Power statically sets Str to 18, regardless of how low it is. Also the main reason for going Monk 9 is improved evasion, and the main reason for that is to get epic dodge. This means you MUST have 5 levels of Shadowdancer or 10 levels of rogue to meet the defensive roll requirement for epic dodge. You can get ED earlier maybe by delaying higher levels of cleric but you still need 25 Dex and 30 tumble ranks, and you're usually investing in Wis early for spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "12:00 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I play in Blackstone Keep recently and loving it. Wanting to make this built there. Anyone has any experiences in that server with monk built?? <br/>\nBtw, thanks EasternPromises for your input!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:23 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I leveled this very build on Blackstone. It's disgustingly powerful if you play it right. I really do encourage you to take the build as is, only replace called shot if you have to. <br/>\n<br/>\nThat said if you want a similar build that is more traditionally fighter like try my Champion of the Order: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/champion-of-the-order-cleric-24-monk-6-cot-10-t2354995.html\" rel=\"noreferrer\" target=\"_blank\">champion-of-the-order-cleric-24-monk-6- ... 54995.html</a><br/>\n<br/>\nStrictly speaking, Shadow Priest ends more powerful in a few ways (Hide in plain sight and epic dodge), so give it a try.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:33 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've levelled this to 30 on BSK, before getting distracted and playing elsewhere.<br/>\n<br/>\nThe only things I had trouble with to that point were the Formians with KD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "2:48 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does BSK has racial exp penalty? Like using Halfling built?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "3:58 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No xp penalty as far as I can tell. For like, anything.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "4:49 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>\nNo xp penalty as far as I can tell.\n</div></blockquote>\n\nSo do you recommend Halfling or human is a better choice?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "4:53 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Halfling would be great. You would need to pick one skill to drop and your knock down would be at - 3, but you would get some nice bonuses. Do not attempt to dual wield though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:54 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Hello guys again! I haven't give up my monk built yet. I have been looking at different combination classes but 26 Cleric\u00a0 9 monk plus X class. Max has 8str on his built. Is that enough?? ED cannot be push earlier right?</div></blockquote>\n<br/>\nHeya! It is possible to anticipate Epic Dodge, but there's a catch. For every 5 levels, you'll lose 1 AC, because you need to take your last level in classes with Tumble (A.K.A. Monk and SD) at 37 to max out Tumble to 40. And each of these classes end up on a level which yields a requirement for Epic Dodge (Monk 9 gives Improved Evasion and SD 5 gives Defensive Roll). The last feat level before 39 is 36, so you'd need to take both 9 Monk and 5 SD by then, leaving no levels for your Tumble dump at 37. <br/>\n<br/>\nThis is a matter of personal style, I would say. I always build for Maximum Power at level 40, even if it means that I have to wait more for certain desired feats. I have never not been able to level a build because of these choices, even ones that look almost impossible to level on paper. And that's playing solo on WoG, which is a very challenging server. However, if you don't mind weakening the end result for earlier access to ED. It is doable.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:58 AM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>Halfling would be great. You would need to pick one skill to drop and your knock down would be at - 3, but you would get some nice bonuses. Do not attempt to dual wield though.</div></blockquote>\n\nI disagree with this one. What halfling would give, this build doesn't really need (more AB, more AC). What it would cost, IMO, is more than necessary. The feat is doable. You can, as mentioned, get rid of Called Shot. However, losing skill points for this guy would be devastating. He needs concentration to cast spells, Tumble for AC and hide and move silently for HiPS. What could he drop?<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:22 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Max, you're here!!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:36 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Haha Max, sometimes you have to let people fly. I guess I was too optimistic about the halfling concept, but I think it would be a great run regardless. I don't mean to suggest that it would be better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:42 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mirnaia wrote:</cite>Max, you're here!!!</div></blockquote>\n\nHey man! Good to see you! I never left, although I don't post nearly as often. I haven't been able to play due to my computer being an old piece of junk, but when I finally get an upgrade, I'll holler and maybe we can adventure together once more!<br/>\n<br/>\nPeace!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:44 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you need an ewaste upgrade hit me up!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:45 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>Haha Max, sometimes you have to let people fly. I guess I was too optimistic about the halfling concept, but I think it would be a great run regardless. I don't mean to suggest that it would be better.</div></blockquote>\n\nHonestly, no race with this build would be bad, you could make him Half-Orc, Dwarf, Halfling. I went Human exclusively for the skill point bonuses. But this build is playable with any race. Didn't mean to rain on your parade there, just to avoid someone making a halfling and then be furstrated because they wouldn't have enough skill points for all the essential skills.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "12:45 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, how does Kama work with a Halfling, with regard to Weapon Size? Will the Halfling 2H it, for example?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:46 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>If you need an ewaste upgrade hit me up!</div></blockquote>\n\nDo you ship to Brazil? Lol<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:49 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>So, how does Kama work with a Halfling, with regard to Weapon Size? Will the Halfling 2H it, for example?</div></blockquote>\n\nNo, Kamas are tiny weapons. Going halfling wouldn't change that, although you don't need the other hand for anything (except on WoG, maybe, where you can carry Holy Symbols, and they don't count as shields). If anything, having Kama as a 2-handed weapon would be better, as you'd add 1.5x your STR damage every one of your 8 attacks per round. <br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:52 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can definitely do shipping Max, but I hope you know what ewaste means. Perfectly fine for nwn though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:06 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, since we're reviving this topic, let me say something about domains. The way I see it, there are 5 domains that work well with this build:<br/>\n<br/>\n1- Trickery - This gives you access to Improved Invisibility, which means 50% concealment bonus to stack with your Epic Dodge and make you virtually unhittable by anything that's not an AA.<br/>\n<br/>\n2- War - War domain gives you Cat's Grace as a level 2 spell, which Clerics otherwise don't have, and Aura of Vitality, which if cast after Divine Power, will cap your Strength at 20 (if you go Halfling or Gnome this doesn't apply).<br/>\n<br/>\n3- Travel - In worlds where you don't have access to permanent Haste items, this domain is IMO a must. You get +4 Dodge AC and + 1 attack per round with Haste. It makes spellbook management a bit complicated, but the rewards are well worth it.<br/>\n<br/>\n4- Plant - With the Plant domain, you get access to Bakskin, which allows you to save the amulet slot for Wisdom-enhancing items in servers where that's the only slot you can use to enhance Wisdom. The build is supposed to be generic, and in Vanilla NWN, there are only Wisdom-enhancing Amulets, no rings, cloaks, etc, hence my choice to post this build with this domain. However, this becomes very droppable if your server has a variety of items that allow you to boost Wisdom in various slots.<br/>\n<br/>\n5- Animal: Animal also has Cat's Grace as a spell, although in an ideal world with no restrictions, I see no reason to pick this over War. However, on WoG there's a Pantheon system that severely restricts the domains one can pick for their characters, and one of the good God choices for this build is Ehlonna, which forces you to take Plant and Animal domains. So, I thought I'd list this just in case to help you circumvent any restrictions your server might have and pick domains that make sense for this build.<br/>\n<br/>\nNow, this is where meta-knowledge of the server helps you select the best domains for your toon. I would suggest that, even though this guy is a POWERHOUSE, he shouldn't be your first build in the server, as you won't know how to optimize the domain picks, not knowing what's available to him. Start with something like my Champion of the Wilderness (a totally self-sufficient build that can go from 1-40 almost naked), learn the server, then make this guy and select the domains based on what items you know to be available.<br/>\n<br/>\nI think this is it for domains. If I remember anything else, I'll edit this post later.<br/>\n<br/>\nCheers!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:09 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>I can definitely do shipping Max, but I hope you know what ewaste means. Perfectly fine for nwn though.</div></blockquote>\n\nI do, I was just joking. But seriously, there may be something we can do. Let me message you in private later. Right now I'm leaving the house to go to my weekly board game event.<br/>\n<br/>\nLata!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:29 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian_Kane wrote:</cite>\n<blockquote><div><cite>Thorsson wrote:</cite>So, how does Kama work with a Halfling, with regard to Weapon Size? Will the Halfling 2H it, for example?</div></blockquote>\n\nNo, Kamas are tiny weapons. Going halfling wouldn't change that, although you don't need the other hand for anything (except on WoG, maybe, where you can carry Holy Symbols, and they don't count as shields). If anything, having Kama as a 2-handed weapon would be better, as you'd add 1.5x your STR damage every one of your 8 attacks per round. <br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk\n</div></blockquote>\n\nHi Max, hope you're well! Hate to say it, but kamas are small weapons. Kukris are the tiny ones. It must be 'cos you haven't played for a while!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "1:30 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div><cite>Maximillian_Kane wrote:</cite>\n<br/>\n1- Trickery - This gives you access to Improved Invisibility, which means 50% concealment bonus to stack with your Epic Dodge and make you virtually unhittable by anything that's not an AA.<br/>\n</div></blockquote>\n\nEven worse for archers, even the high AB AA. 50% concealment takes out half the arrows right there. Blind Fight doesn't work with archery. After that the first real Hit is Epic Dodged. The 2nd real hit is deflected (deflect arrows). True seeing alters this a bit of course. Dispel that crap and let him spend rounds between hits. Archers is not your worst enemy.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:58 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Pardon me, but...blind fight doesn't work for archers? What aspect of blind fight? I\"d think if we are talking about blind fight dropping the concealment from say 50% to 25%, if that part doesn't work for a blind fight archer, I think the wiki should be updated.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "4:28 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>Pardon me, but...blind fight doesn't work for archers? What aspect of blind fight? I\"d think if we are talking about blind fight dropping the concealment from say 50% to 25%, if that part doesn't work for a blind fight archer, I think the wiki should be updated.</div></blockquote>Been too long since I knew all this stuff, but at least it shouldn't. Makes sense if they haven't programmed it to not work that. Anywhooo, ED Monks are wondrous against AA's.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "4:32 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Maximillian_Kane wrote:</cite>\n<blockquote><div><cite>Thorsson wrote:</cite>So, how does Kama work with a Halfling, with regard to Weapon Size? Will the Halfling 2H it, for example?</div></blockquote>\n\nNo, Kamas are tiny weapons. Going halfling wouldn't change that, although you don't need the other hand for anything (except on WoG, maybe, where you can carry Holy Symbols, and they don't count as shields). If anything, having Kama as a 2-handed weapon would be better, as you'd add 1.5x your STR damage every one of your 8 attacks per round. <br/>\n</div></blockquote>\nHi Max, hope you're well! Hate to say it, but kamas are small weapons. Kukris are the tiny ones. It must be 'cos you haven't played for a while!<br/>\n<br/>\nCheers\n</div></blockquote>\nSo they would 2H them then, which means AB, AC AND Damage. I'm a bit of a Hin fanboi, so any build gets examined for small guy compatibility.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:06 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\nHi Max, hope you're well! Hate to say it, but kamas are small weapons. Kukris are the tiny ones. It must be 'cos you haven't played for a while!<br/>\n<br/>\nCheers\n</div></blockquote>\nSo they would 2H them then, which means AB, AC AND Damage. I'm a bit of a Hin fanboi, so any build gets examined for small guy compatibility.\n</div></blockquote>\n\nWell, it makes them one-handed still - and my Arvoreen's Silent Sting (a Hin Monk 21/ CoT 6/ Rogue 13) even dual-wields them (I figured APR and Monk progression trumped the AB pens). The problem being that it draws the same AB penalties as a human dual-wielding bastard swords. A medium weapon would make it 2H.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "6:02 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Logically, as small weapons to a small race, the same as medium weapons to a medium race. But it seems not in NWN.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:39 PM - Jan 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10235237&amp;sid=c21c8308a81b3d3a303e02d38aa74fb6\">Grimnir</a> wrote: <a data-post-id=\"13942\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=13942&amp;sid=c21c8308a81b3d3a303e02d38aa74fb6#p13942\">\u2191</a><div class=\"responsive-hide\">Jan 26, 2019</div></cite>\nAnywhooo, ED Monks are wondrous against AA's.\n</div></blockquote>\n\nThis is true, apart from the good AC of an ED Cleric/Monk the deflect-arrows feat treat this check as a simple reflex save Vs 20 DC, which is laughable for this character and needs only have one hand empty to use it.<br/>\nThe size of the weapon is the only thing that matters in this situation, not the relevant size but the actual one, meaning if your weapon isn't a Bow or Two-Hander you are good even if you're a Halfling.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "trebusze",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:23 PM - Feb 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Could anyone re build this for the 30 lvl environment? Specifically Arelith server is what i am talking about. Thing to be aware, HiPS is given at lvl 5 there, so SD 5 is a must.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "5:52 PM - Feb 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You need SD5 for HiPS anyway. I think, just go straight Cleric to begin with, at least to 12. I think I would do 16 straight up. It should be easy enough to level up. Then go SD5 to get HiPS at 21 then 9 Monk with Epic Dodge on 30.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:59 PM - Sep 11, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is still the best build that I've ever played.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "7:39 PM - Sep 11, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>trebusze wrote: <a data-post-id=\"14304\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=14304&amp;sid=c21c8308a81b3d3a303e02d38aa74fb6#p14304\">\u2191</a><div class=\"responsive-hide\">Feb 26, 2019</div></cite>Could anyone re build this for the 30 lvl environment? Specifically Arelith server is what i am talking about. Thing to be aware, HiPS is given at lvl 5 there, so SD 5 is a must.\u00a0</div></blockquote>\nI'd go Cleric 12, then Monk 3 then SD 3 then 1 more of each monk and SD ending in 12/4/4 pre-epic. Then SD 5 for HiPS, monk 6 for IKD, and Cleric 15 to cap buffs, then you can round up the build and get ED at level 30. However, this build will be very vulnerable to dispels that way. But what isn't in a level 30 environment?<br/>\n<br/>\nHave fun!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NWNBigx",
+      "avatar": "10759352_1602267238.jpg",
+      "timestamp": "2:17 AM - Sep 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Having fun with this one, thanks Max, Have her to level 26.\u00a0 Starting to rally tear things up\u00a0with that cleric power really coming in and now Monk KD.\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "sataricon",
+      "avatar": "10759088_1568407219.jpg",
+      "timestamp": "3:48 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The build is amazing but i wonder when i buff with endurance for example i get different value each time.<br/>\nThis can be solved how?<br/>\nI play on WOG BTW.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "4:00 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote:</cite>The build is amazing but i wonder when i buff with endurance for example i get different value each time.<br/>\nThis can be solved how?<br/>\nI play on WOG BTW.</div></blockquote>\n\nThis can't be solved. It's how the spell works<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:22 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, not exactly true.<br/>\n<br/>\nMaximized, it will give you the max amount. It's really the only way to get a specific number with numeric spells.<br/>\n<br/>\nYou shouldn't be buffing with Endurance, anyway.\u00a0 That is a really good way to get killed fast (especially when it \"suddenly\" wears off OR gets blasted off by dispel/breach and you die due to sudden hp loss).<br/>\n<br/>\nBuff other abilities, that is basically more effective (Str, Dex, Cha, Wis).<br/>\n<br/>\nOn WoG, just max out the +12 to Con with items.\u00a0 Much better!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "5:08 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote:</cite>Well, not exactly true.<br/>\n<br/>\nMaximized, it will give you the max amount. It's really the only way to get a specific number with numeric spells.<br/>\n<br/>\nYou shouldn't be buffing with Endurance, anyway.\u00a0 That is a really good way to get killed fast (especially when it \"suddenly\" wears off OR gets blasted off by dispel/breach and you die due to sudden hp loss).<br/>\n<br/>\nBuff other abilities, that is basically more effective (Str, Dex, Cha, Wis).<br/>\n<br/>\nOn WoG, just max out the +12 to Con with items.\u00a0 Much better!</div></blockquote>\n This build doesn't get Maximize spell nor should it.<br/>\n<br/>\nYes, that would be an option, but like you said, not a good one :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "sataricon",
+      "avatar": "10759088_1568407219.jpg",
+      "timestamp": "5:46 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So you are used to getting different Str and Wis score every time you buff?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:52 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I don't play that build, I cannot say.<br/>\n<br/>\nThe Builds I play (Smooth Archer, etc) don't have this particular conundrum. <br/>\n<br/>\nI guess Max will  have to answer that.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "8:02 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote: <a data-post-id=\"22150\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22150&amp;sid=afcadd53a385944c3bab01235c4ff828#p22150\">\u2191</a><div class=\"responsive-hide\">Sep 28, 2020</div></cite>So you are used to getting different Str and Wis score every time you buff?</div></blockquote>\nYes, and I know what items I need to equip to avoid having to use all those buffs. And I also know where to find these items, because I'm an old dog. You don't need to cap your stats this early. Eventually you will. You can cap DEX, WIS, STR and CON with a combination of items and buffs. But don't waste spell slots on Endurance. It's not necessary for a DEX-based Monk / Cleric. Just buy potions and only use them for tough battles if at all.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:14 PM - Sep 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yup.<br/>\n<br/>\nLaying it down like a boss, Max!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "sataricon",
+      "avatar": "10759088_1568407219.jpg",
+      "timestamp": "8:35 AM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So a question here is how do you deal with knockdown?<br/>\ni'm in the frost giants cave now and just got killed because of a knock down chain while my summon was down.<br/>\ni've boots that make me immune to KD but they take the place of other boots that give Wis+AC.<br/>\n<br/>\nI didn't have concealment at the time so maybe that didn't help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:00 AM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It\u00a0 can be hard to defend against a swarm of IKD spammers. <br/>\nImmunity items (often on boots) is a great option against knockdowns in general, but you also want items with other properties, eg haste, AC or dexterity.<br/>\n<br/>\nA high discipline does the job as long as it beats the AB of the attacker. It also helps against other combat moves.<br/>\n<br/>\nNot being hit is another option. A very high AC helps against most things, but not against enemies with high enough AB and not against natural 20 attack rolls.<br/>\nThis dexer gets a high AC from monk bonus, dex bonus, wis bonus, and cleric spells. Uncanny dodge helps retain the dex AC bonus. <br/>\nIt combines this with 50% concealment from Improved invisibility. <br/>\nEpic dodge <em>causes a character to automatically avoid the first successful attack or the first (possibly unsuccessful) attack of opportunity or riposte in a round, not simply the first attack in a round. (From NwNWiki)</em><br/>\nThe combination of a high AC, 50% concealment and ED helps avoid a lot of hits, also from natural 20 attack rolls. It also makes it very hard to land critical hits against you. <br/>\nAgainst a swarm of enemies, you risk more natural 20 hits per round, so some of them may actually land their attack.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:36 PM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote: <a data-post-id=\"22162\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22162&amp;sid=247f7c17260e47bb2756e5a6680e03cd#p22162\">\u2191</a><div class=\"responsive-hide\">Sep 30, 2020</div></cite>So a question here is how do you deal with knockdown?<br/>\ni'm in the frost giants cave now and just got killed because of a knock down chain while my summon was down.<br/>\ni've boots that make me immune to KD but they take the place of other boots that give Wis+AC.<br/>\n<br/>\nI didn't have concealment at the time so maybe that didn't help.</div></blockquote>\nThere are items that give you knockdown immunity. Because you're a DEX character, it doesn't make sense to invest in discipline. You should've kept, from the Dragon Cult quest, some boots of Sure Footing. It'd be a good idea to equip them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:47 PM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>It\u00a0 can be hard to defend against a swarm of IKD spammers. <br/>\nImmunity items (often on boots) is a great option against knockdowns in general, but you also want items with other properties, eg haste, AC or dexterity.<br/>\n<br/>\nA high discipline does the job as long as it beats the AB of the attacker. It also helps against other combat moves.<br/>\n<br/>\nNot being hit is another option. A very high AC helps against most things, but not against enemies with high enough AB and not against natural 20 attack rolls.<br/>\nThis dexer gets a high AC from monk bonus, dex bonus, wis bonus, and cleric spells. Uncanny dodge helps retain the dex AC bonus. <br/>\nIt combines this with 50% concealment from Improved invisibility. <br/>\nEpic dodge <em>causes a character to automatically avoid the first successful attack or the first (possibly unsuccessful) attack of opportunity or riposte in a round, not simply the first attack in a round. (From NwNWiki)</em><br/>\nThe combination of a high AC, 50% concealment and ED helps avoid a lot of hits, also from natural 20 attack rolls. It also makes it very hard to land critical hits against you. <br/>\nAgainst a swarm of enemies, you risk more natural 20 hits per round, so some of them may actually land their attack.</div></blockquote>\n\nThat is true, however, he doesn't have ED yet. It only comes at level 39, as the icing on the cake. So immunity items is the way to go.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:43 PM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He mentioned that he has those boots, but they would require him removing boots that give +2 AC and +2 WIS.\u00a0 I would say that it is a price worth paying, but only when fighting enemies that spam KD.\u00a0 Switch back afterwards.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "5:19 PM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"22166\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22166&amp;sid=247f7c17260e47bb2756e5a6680e03cd#p22166\">\u2191</a><div class=\"responsive-hide\">Sep 30, 2020</div></cite>He mentioned that he has those boots, but they would require him removing boots that give +2 AC and +2 WIS.\u00a0 I would say that it is a price worth paying, but only when fighting enemies that spam KD.\u00a0 Switch back afterwards.</div></blockquote>\nThis is also a good opportunity to discuss something very important: RESTING ITEMS x ADVENTURING ITEMS. For this build it isn't as relevant, but for others, it will make a HUGE DIFFERENCE. When you play a caster, especially a spellsword, there's often a lot of switching going on between items. For example, if you cast Owl's Wisdom on yourself, then unequip those boots, you won't lose any bonus you have, because the wisdom lost will remain there as a buff.<br/>\n<br/>\nYou should also memorize all your long-term buffs and some long-term summoning spells (i.e. Extended Create Greater Undead at level 9), on the last slots (the farthest ones to the right), and cast them before switching gear, especially if you plan to switch gear that will make you lose Wisdom as a result, which will cause you to lose spell slots as well. Once they're cast, you won't lose anything from swapping items. And these undeads can help you bait a few dispels off your enemies.<br/>\n<br/>\nAs I said, for this build it's not so relevant, because WIS also adds to AC, and so you shouldn't be eager to lose any of your WIS, but for Myth's Blood &amp; Faith, for example, once that capped WIS has given you the extra spell slots, it doesn't do anything extra for you, so you can easily swap your items around for more combat-orientend ones.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:25 PM - Sep 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">*<em>Mutters</em>* <em>\"And people wonder why I don't play casters...\"</em><br/>\n<br/>\nIt's just faff, faff, faff. And after all that faffing about, faff some more. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nProbably not my most constructive contribution, but from the heart!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:21 AM - Oct 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22168\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22168&amp;sid=247f7c17260e47bb2756e5a6680e03cd#p22168\">\u2191</a><div class=\"responsive-hide\">Sep 30, 2020</div></cite>*<em>Mutters</em>* <em>\"And people wonder why I don't play casters...\"</em><br/>\n<br/>\nIt's just faff, faff, faff. And after all that faffing about, faff some more. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nProbably not my most constructive contribution, but from the heart!<br/>\n<br/>\nCheers</div></blockquote>\nWell, I play this kind of character as a melee fighter, for the most part using spells as buffs. The only difference from a regular combat priest is the dex focus with ED and the monk &amp; SD cheese. An important difference from a regular dexer on the other hand is the available cleric buffs for AB, AC, weapon damage etc. that compensate well for the loss of SA damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "5:35 PM - Oct 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22168\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22168&amp;sid=247f7c17260e47bb2756e5a6680e03cd#p22168\">\u2191</a><div class=\"responsive-hide\">Sep 30, 2020</div></cite>*<em>Mutters</em>* <em>\"And people wonder why I don't play casters...\"</em><br/>\n<br/>\nIt's just faff, faff, faff. And after all that faffing about, faff some more. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nProbably not my most constructive contribution, but from the heart!<br/>\n<br/>\nCheers</div></blockquote>\nComments like this NEED to get reported to the Mods..<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:15 PM - Oct 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I DEMAND that he report himself to himself!<br/>\n<br/>\nIt's like something straight out of Catch 22!\u00a0 My sides ache!\u00a0 <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:52 PM - Oct 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Don't worry boys and girls, Mick and Empyre will be getting the brazier glowing even as we speak. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "7:39 PM - Oct 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>MentalDekay wrote: <a data-post-id=\"22173\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22173&amp;sid=8d7bfb8101a91e2d889c139cef34582c#p22173\">\u2191</a><div class=\"responsive-hide\">Oct 01, 2020</div></cite><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22168\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22168&amp;sid=8d7bfb8101a91e2d889c139cef34582c#p22168\">\u2191</a><div class=\"responsive-hide\">Sep 30, 2020</div></cite>*<em>Mutters</em>* <em>\"And people wonder why I don't play casters...\"</em><br/>\n<br/>\nIt's just faff, faff, faff. And after all that faffing about, faff some more. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nProbably not my most constructive contribution, but from the heart!<br/>\n<br/>\nCheers</div></blockquote>\nComments like this NEED to get reported to the Mods..</div></blockquote>\nI was about to say: \"somebody call internal affairs! We've got an officer gone rogue!\"<br/>\n<br/>\nLOL<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DzmitryB",
+      "avatar": "10759489_1631608138.jpg",
+      "timestamp": "12:44 PM - Aug 10, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><details><summary>Spoiler</summary>\nCleric(26), Monk(9), Shadowdancer(5), Human\nSTR: 8\nCON: 12\nINT: 14\n\u00a0\n01: Monk(1): Dodge, Mobility, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Cleric(2): Weapon Finesse\n05: Cleric(4)\n07: Monk(2): {Deflect Arrows}\n09: Cleric(7): Weapon Focus\n11: Cleric(9)\n13: Shadowdancer(1): {Hide in Plain Sight}\n15: Shadowdancer(3): Toughness\n17: Monk(4)\n19: Cleric(11)\n21: Cleric(13): Epic Weapon Focus\n23: Monk(6): {Knockdown, Improved Knockdown}\n25: Cleric(15)\n27: Monk(7): Great Dexterity I, (DEX=21)\n29: Cleric(18)\n31: Cleric(20)\n33: Cleric(21): Great Dexterity III, (DEX=25)\n35: Cleric(23): Armor Skin\n37: Monk(9): {Improved Evasion}\n39: Shadowdancer(5): Epic Dodge, {Defensive Roll}\n\u00a0\nSkillpoints: 259\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +1\nAB (max, naked): 37 (melee), 34 (ranged)\nSpell Casting: Cleric(9)\n\u00a0\n\u00a0\n01: Concentration(4), Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(8), \n03: Concentration(1), Spellcraft(1), Save(10), \n05: Concentration(1), Spellcraft(1), Save(16), \n07: Concentration(1), Hide(6), Listen(6), Move Silently(6), Tumble(6), Save(1), \n09: Concentration(1), Spellcraft(1), Save(6), \n11: Concentration(1), Save(14), \n13: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(5), \n15: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(15), \n17: Concentration(5), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(18), \n19: Concentration(1), Spellcraft(1), Save(16), \n21: Concentration(1), Spellcraft(1), Save(22), \n23: Concentration(1), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(10), \n25: Concentration(1), Spellcraft(1), Save(14), \n27: Concentration(1), Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(7), \n29: Concentration(1), Spellcraft(1), Save(12), \n31: Concentration(1), Spellcraft(1), Save(18), \n33: Concentration(1), Spellcraft(2), Save(6), \n35: Concentration(1), Spellcraft(1), Save(12), \n37: Concentration(1), Heal(1), Hide(5), Listen(5), Move Silently(5), Tumble(5), \n39: Heal(3), Hide(2), Listen(2), Move Silently(2), </details>\n\nTried\u00a0 to adopt this to my PW.<br/>\nMoved SD to pre-epic to get HiPS earlier (moved to 3rd SD lvl).<br/>\nDropped Called Shot for Toughness to get some additional HP.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "2:40 PM - Jan 26, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian Kane wrote: <a data-post-id=\"1960\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=1960&amp;sid=8d7bfb8101a91e2d889c139cef34582c#p1960\">\u2191</a><div class=\"responsive-hide\">Sep 23, 2011</div></cite><blockquote><div><strong>RookY2K wrote:</strong>Love your build. \u00a0Have an equipment question: I am assuming you are dual wielding Kama's for this build. Can I also assume that you don't care about the AB penalties for dual wield with DP? \u00a0At what level do you start dual wielding (if you are indeed dual wielding)?</div></blockquote>\n\nI'm not dual-wielding here. DWing i'd have 10 attacks per round, as is I will have 8, and this build is tight on feats, so I can't get the DW feats without hurting the stats. If you want DW AS WELL AS Epic Dodge, you can do one of two things in this build:<br/>\n<br/>\n1- Drop Called Shot and 2 Great Dexterities, you will lose 1 AB and 1 AC (plus the -2 penalty for dual-wielding). I just think it's overkill for 2 extra attacks per round, but you can do it if you want. I only recommend it if you can afford the feats. This build as is can't without dropping epic feats.<br/>\n<br/>\n2- Go Cleric 26 Monk 1 Rogue 13 and drop the extra movespeed and HiPS, for Sneak Attack and UMD. It will have XP penalty, but won't need to get Dodge or Mobility, which are both SD requirements, then you can drop 1 BAB (you will have to take Monk 1 before 20 to get WF on Kamas, so no rule of 4 for you) and Called Shot to get the TWF feats. <br/>\n<br/>\nIn case what you meant here is if I would dual-wield WITHOUT the feats, no. I'd get a penalty to all my attack rolls for simply 1 extra attack. I consider that this penalty would make me miss on at least one attack I would otherwise hit without it. Not worth it.<br/>\n<br/>\nOh, and glad you like it <br/>\n<br/>\nTake it EZ!</div></blockquote>\nWhat about dropping blind fight, called shot and improved critical ? We have true seeing and critical hits are not the nerve of a Kama build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "6:35 PM - Jan 26, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">True Seeing does nothing vs concealed enemies. If an enemy has Improved Invisibility/SCV/Empty Body, Blind Fight alone gives you +50% damage (more than the full 2WF feats, in most cases). Whether Improved Critical is good or not, and whether it is better than having 2 more attacks, depends entirely on what you are going to fight. I haven't done any math, but in most cases I think I'd go with what Max did here.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sarthrovar",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:39 AM - Jan 28, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If going the dual wield path would it be better to drop Imp Crit for Epic Prowess (i.e. is the damage from Imp Crit better than keeping the AB from Epic Prowess)?\u00a0<br/>\nTotal delta would be dropping CS, Imp Crit, 2x Great Dex and then picking up the 3 dual wield feats + Epic Prowess.<br/>\n<br/>\nSay for example on a world that supports weapon enchantments (similar to HoTU) - so the ability to DW also gains an additional item to be enchanted possibly tipping the scales in favor of DW...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:34 PM - Jan 29, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Sarthrovar wrote: <a data-post-id=\"27796\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27796&amp;sid=8d7bfb8101a91e2d889c139cef34582c#p27796\">\u2191</a><div class=\"responsive-hide\">Jan 28, 2023</div></cite>If going the dual wield path would it be better to drop Imp Crit for Epic Prowess (i.e. is the damage from Imp Crit better than keeping the AB from Epic Prowess)?\u00a0<br/>\nTotal delta would be dropping CS, Imp Crit, 2x Great Dex and then picking up the 3 dual wield feats + Epic Prowess.<br/>\n<br/>\nSay for example on a world that supports weapon enchantments (similar to HoTU) - so the ability to DW also gains an additional item to be enchanted possibly tipping the scales in favor of DW...</div></blockquote>\nAlthough this could work, one of the most amazing things about this build is the survivability, with Epic Dodge and a very high AC. This proposed tweak might work in high magic worlds, where another weapon would add more DPS, but it causes you to lose 2 AB points and 1 AC for what seems to be more damage at first glance. However, having more attacks per round that don't hit won't add ANY damage at all to your character, and may in fact REDUCE your damage output if it causes you to miss more. So, mostly, you'd do more damage against enemies that you can already hit anyway, while doing LESS damage to enemies with higher ACs. which in my experience are generally tougher. That's why I chose to forgo the TWF feats.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "demoix",
+      "avatar": "10759054_1550229973.jpg",
+      "timestamp": "11:03 PM - Jul 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just completed OC with this build. Never seen anything like this, it's like a knife through butter! A lot of buff spells for defending yourself and companions. Taking the animal domain gives you a big advantage on early levels with your summon. Also, huge AC due to the monk wisdom + dex. Good AB due to many buffs + a lot of attacks due to flurry of blows. Cleric's Harm spell wipes out bosses. Truly a great build!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

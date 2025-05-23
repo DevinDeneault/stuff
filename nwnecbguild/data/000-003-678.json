@@ -1,0 +1,92 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "678",
+  "name": "possible \"Voice of the Wild\"",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/possible-voice-of-the-wild-t2355370.html",
+  "author": "CassiopiaOtherkin",
+  "avatar": "10759177_1572406520.jpg",
+  "replies": 12,
+  "posts": [
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "1:14 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am completely in love with the Arelith Server cause of the roleplaying and crafting and I have the idea of roleplaying possibly human, half elf, or elf that Sings to \"nature\" meaning I know at least I will Have to take the classes bard and either druid or ranger. I am also aware that taking those classes together is not going to be at all strong for battle but I dont want it to... I want the build for the roleplay... I am going to completely be a support character... So only idea I have for this build is the races and possible classes and that I want to be able to effectively bard sing and speak to animals. I am not sure if I am posting this in the right area or not. if not please can someone direct me to the right place?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:17 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No problem Cassiopia - I'll shift this into the Build Request Forum.<br/>\n<br/>\nWelcome!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "1:24 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also something else just came to me... what about the different blessings and stuff at creation, can anyone give advice on that as well?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:55 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ranger /\u00a0 Bard can be a decent combination.\u00a0 Here is the outline of such a build:\n<details><summary>Spoiler</summary>\nArelith Voice of the Wild (Ranger 15 / Bard 15)\nElf, Any Non-Lawful\nAbilities:\nDEX: 16 (22)\nWIS: 14\nCHA: 14 (16)\nLeveling Guide:\n01: Ranger(1): Weapon Finesse, Favored Enemy I, {Dual Wield}\n03: Ranger(3): Weapon Focus: Shortsword\n05: Bard(2)\n07: Bard(4)\n09: Ranger(5): Knockdown, Favored Enemy II\n11: Ranger(6)\n13: Ranger(7)\n15: Ranger(9): Improved Critical: Shortsword, {Improved Two-Weapon Fighting}\n17: Bard(7)\n19: Ranger(11)\n21: Ranger(13): Great Dexterity I, (DEX=22)\n23: Ranger(14)\n25: Bard(10)\n27: Bard(12): Epic Prowess\n29: Bard(14)\n\nHitpoints: 270\nSaving Throws (Fortitude/Will/Reflex): 16/17/21\nBAB: 23\nAC (naked/mundane armor/shield only): 24/29\nAlignment Changes: 0\nSkills:\n\n02: Listen(1), Save(11)\n04: Perform(3), Spellcraft(5), Tumble(5), UMD(5)\n06: Perform(3), Tumble(1)\n08: Listen(2), Save(2)\n10: Spellcraft(5), UMD(5)\n12: Perform(3), Tumble(5)\n14: Listen(1), Save(3)\n16: Save(11)\n18: Listen(1), Perform(3)\n20: Save(7)\n22: Spellcraft(5), Tumble(5), UMD(5)\n24: Save(8)\n26: Perform(3), Tumble(1)\n28: Listen(2), Spellcraft(2)\n30: Perform(2), Spellcraft(2)</details>\nYou would benefit from a gift or blessing or whatever it is called nowadays that boosts your DEX.\u00a0 You might opt to also boost STR for more damage and carrying capacity, or CON for 30 more health and +1 on Fortitude saves.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "6:03 PM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@Empyre65 Thank you So Much! This looks incredible!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:10 PM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm just wondering, Empyre, whether it might be worthwhile making it a Bard 16/ Ranger 14? You do lose a Favoured Enemy, but you also hit that Bard Song sweet-spot. Dunno, just asking.<br/>\n<br/>\n<strong><em>EDIT</em></strong>: I've just been having a look at the skills, and while I do like a detection skill, I'm also wondering about Animal Empathy and/or Taunt? I'm also a bit unclear whether a Bard would need that level of UMD. Again, just posing the question...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:42 AM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I thought about Bard 16, but Bard 15 is really close to that sweet spot, and a 4th Favored Enemy also increases the bonus against those enemies.<br/>\n<br/>\nSince the build has both divine and arcane casting, maybe he is automatically able to use all scrolls, but maybe not.\u00a0 I am not sure.<br/>\n<br/>\nYou have a good point.\u00a0 Animal Empathy would be fitting for a build that sings to nature.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:02 AM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Empyre. Fair point about that FEIV, it makes sense to me.<br/>\n<br/>\nAye, that murky world of UMD leaves me a little unsure as well- oh well.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:17 AM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ranger is heavily modified on Arelith but can fit well with a bard dip.  Druid is less bard friendly.<br/>\n<br/>\nYou likely want to hit level 21 on your Ranger for Bane of Enemies and +4 blade thirst with +4 vampiric Regen.<br/>\n<br/>\nThere are decent 27 Ranger / 3 bard builds and 21 Ranger / 6 Monk / 3 Bard (dual wielding quarterstaff under monk UBAB) netting 9 attacks per round each with Vampiric Regen :)<br/>\n<br/>\nLet me know if you want to go that way and I\u2019ll link in whatever you want to look at.<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:20 AM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Or I can paste a couple in here anyway:<br/>\n<br/>\n<br/>\n<iframe allowfullscreen=\"\" data-s9e-mediaembed=\"googlesheets\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1JN4GGm_y7GFvuEGnzApETFBQI4Dzquj29JKhSaAfEjY/preview#gid=2022056627\" style=\"border:0;height:500px;resize:vertical;width:100%\"></iframe><br/>\n<br/>\n<a class=\"postlink\" href=\"https://docs.google.com/document/u/0/d/11BnFoGWiafMEBOa7A9k0-Nl90grKeBqFiKiRGLlNs9A/mobilebasic\" rel=\"noreferrer\" target=\"_blank\">https://docs.google.com/document/u/0/d/ ... obilebasic</a><br/>\n<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "5:22 PM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have started playing Her and I have changed my skills and yeah im taking animal empathy. I had the idea for me that my uh character would be like giselle from enchanted or snow white... and so far at lvl 5 I am doing quite well. I am on the island of skal and made some epic lvl friends and despite my staying back and using bow more than shortswords I actually helped against a elder harpy and the epic minotaur chieftain.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "5:32 PM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">also I took wood elf and when I got to skal and started rp I said I was a bit like mowgli or tarzan that i was found deep in the woods by the wood elf theres but that I guess the alpha female of a wolf pack had seen me as one of her cubs... and that the howls of My pack were like music to me and then when the wood elves took me in and taught me bow and actually speaking to others but I was more animal like than uh \"human\" and when I finally started \"singing\" the first character I was travelling with said maybe the pack I was with was actually druids that refused to come out of their beast shape and that I possibly had fae in my ancestry to get my inate magic... its really working for me *grin*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CassiopiaOtherkin",
+      "avatar": "10759177_1572406520.jpg",
+      "timestamp": "5:33 PM - Feb 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh also I call those dual wield shortswords my wolf's teeth *smirk*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

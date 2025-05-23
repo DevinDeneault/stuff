@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "012",
+  "name": "Social skills?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/social-skills-t2356278.html",
+  "author": "Jidokwon",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "Jidokwon",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:24 AM - Nov 16, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good day!\u00a0 My searching through the builds here is still quite limited, but it's been extremely rare that I've found any builds that make use of any of the social skills.\u00a0 I can certainly understand why most of the builds seem to focus almost entirely on min/max for combat purposes.\u00a0 My questions here relate more to building well rounded characters that might do reasonably well, too, in dialogue intensive PWs and/or campaigns.\u00a0 For such occasions, are these kinds of skills just about mandatory to keep as high as possible?\u00a0 Or, in general, are there certain points that I might take them to then \"slack\" off to focus more on the combative skills?\u00a0 Again, my searching and reading here has been very limited, so far, but I recall seeing that many of the thief and bard type skills are rarely required to keep up beyond certain points.\u00a0 For *most* dialogue intensive occasions, can social skills, too, be kept reasonably low?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:25 PM - Nov 16, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is an interesting question you pose here, Jidokwon.<br/>\nIt is for the most part true that the priority of most builds here is to handle combat well. <br/>\nSome builds also have a focus on thieving skills and support actions.<br/>\n<br/>\nWhat makes a \"good enough\" build, depends to a large degree on what you will be up against in the module or PW where you play, and also on what items will be available. When we post builds here, and when we give advice, we aim at being able to handle rather tough environments.<br/>\n<br/>\nSocial skills are a bit different from other skills in the respect that they have no standard target values. Module designers decide what DC they give the skill checks, and some even have different ways of checking the skills other than the regular d20 roll. So what is good enough, really depends on where you play.<br/>\nYou can play and test, or you can open the module in the toolset and study closer the different options that appear in dialogues if you want to be sure.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:59 AM - Nov 19, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Any build with 14 INT &amp; lots of Rogue levels will have an abundance of skill points. You could experiment with that but there are very few modules where the social skills will have a significant impact on the gameplay because of their single-player nature. Usually, modules have a static DC for their targets such as the diplomacy check at the end of HotU. Some modules might require a significant investment in certain skills &amp; their targets can be fairly high such as Spot &amp; Search in Sands of Fate series. Additionally, there is one module that I know of that uses social skills &amp; their targets grow with your level, that is Swordflight. I don't remember what happens in Aielund Saga, perhaps Mick or Stag are better to answer this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:44 PM - Nov 19, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know you certainly can make use of social skills in Aielund in assorted amounts and in various occasions throughout the campaign. They can alter the way certain (sometimes significant) conflicts may be resolved without bloodshed - though not the final results. You won't lose xp either, though some of the treasure rewards and loot will obviously be different (but still scaled with level).<br/>\n<br/>\n<em class=\"mention\">@Empyre65</em>\u00a0 certainly ran his Persuasive Archer (a half-elf Rogue/ Bard/ AA - though I might be wrong about Bard) through the campaign successfully. He's not published it in the Level 40 forum, but it can certainly be found in the Aielund and another one or two other threads as well, adapted for different environments.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:48 AM - Nov 20, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Since I played through Aielund with the build, does that mean it is tested?\u00a0 Here's another copy: \n<details><summary>Spoiler</summary>\nPersuasive Archer 3 (Rogue 17 / Wizard 1 / Arcane Archer 22)\nPlayable 1 - 40 , PvM\n\nSTR: 14\nCON: 12\nINT: 14\n\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Rogue(2): {Evasion}\n04: Rogue(4): DEX+1, (DEX=19)\n06: Rogue(6): Weapon Finesse\n08: Rogue(8): DEX+1, (DEX=20)\n10: Arcane Archer(1)\n12: Rogue(9): DEX+1, Rapid Shot, (DEX=21)\n14: Arcane Archer(4)\n16: Arcane Archer(6): DEX+1, (DEX=22)\n18: Arcane Archer(7): Iron Will\n20: Arcane Archer(9): DEX+1, (DEX=23)\n22: Rogue(12)\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)\n26: Arcane Archer(12)\n28: Arcane Archer(13): DEX+1, (DEX=26)\n30: Arcane Archer(15): Armor Skin\n32: Rogue(15): DEX+1, (DEX=28)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(19): DEX+1, Great Dexterity III, (DEX=30)\n38: Arcane Archer(20)\n40: Arcane Archer(22): DEX+1, Great Dexterity IV, (DEX=32)\nStats:\nSkillpoints: 336\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +4\nAB (max, naked): 38 (melee), 52 (ranged)\nSpell Casting: Wizard(1)\n\nBluff 30(30), Craft Weapon 15(17), Disable Trap 11(13), Heal 34(33), Intimidate 30(30), Lore 4(6), Open Lock 11(22), Persuade 30(30), Search 40(44), Spellcraft 8(10), Spot 43(44), Tumble 40(51), UMD 40(40)\n01: Bluff(4), Disable Trap(4), Intimidate(4), Lore(4), Open Lock(4), Persuade(4), Search(4), Spot(4), Tumble(4), UMD(4)\n03: Bluff(1), Craft Weapon(1), Disable Trap(1), Intimidate(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1)\n05: Bluff(1), Disable Trap(1), Intimidate(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(2)\n07: Bluff(1), Disable Trap(1), Intimidate(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(4)\n09: Spellcraft(8), Save(2)\n11: Save(14)\n13: Craft Weapon(4), Save(2)\n15: Save(14)\n17: Bluff(5), Intimidate(5), Persuade(5), Search(5), Tumble(5), UMD(5)\n19: Save(8)\n21: Bluff(4), Intimidate(4), Persuade(4), Spot(4), Tumble(4), UMD(4)\n23: Spot(6)\n25: Bluff(3), Intimidate(3), Persuade(3), Search(3), Tumble(3)\n27: Bluff(2), Intimidate(2), Persuade(2), Search(2), Tumble(2)\n29: Heal(1), Spot(1), Save(6)\n31: Spot(1), Save(16)\n33: Heal(5), Spot(1)\n35: Search(3), Spot(1), Tumble(3), UMD(3)\n37: Heal(3), Search(2), Spot(1), Tumble(2), UMD(2)\n39: Heal(5), Spot(1)\n</details>\nThere are indeed several social skills checks in Aielund.\u00a0 I haven't looked under the hood (bonnet, for you Brits), but I suspect that they are similar to the ones in Swordflight.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:56 AM - Nov 20, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"29776\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29776&amp;sid=0c551259c495577fdd82c5fa1e061832#p29776\">\u2191</a><div class=\"responsive-hide\">Nov 20, 2024</div></cite>Since I played through Aielund with the build, does that mean it is tested?\n</div></blockquote>\nOh, I would say so. Taking a build from level 1 up to level 36/7 in a 'real' environment beats a trainer mod, I reckon and it's also been a build asked about in other threads, so it's not too niche. If you're not sure, you can always put Aielund in the build title to make it clear.<br/>\n<br/>\nAnd thanks for copying it here - which apart from anything else corrects my erroneous remembrance. He's actually an elf Rogue 17/ Wizard 1/ AA 22.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:22 AM - Nov 20, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was about to publish it, but then I thought \"This looks similar to my Elven Guardian build\".\u00a0 I compared them, and they are practically identical.\u00a0 If you take the PvM version of Elven Guardian and customize it for Aielund, you basically have the Persuasive Archer.\u00a0 That's not how I made it.\u00a0 I started from scratch and wound up reinventing the same wheel.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:19 AM - Nov 20, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fair enough.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

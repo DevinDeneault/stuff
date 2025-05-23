@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "614",
+  "name": "Ehlonna's Glorious Arch-Magus (Sorcerer 38 / Cleric 1 / Paladin 1)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ehlonna-s-glorious-arch-magus-sorcerer-38-cleric-1-t2355437.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:49 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">Ehlonna's Glorious\u00a0Arch-Magus (Sorcerer 38 / Cleric 1 / Paladin 1)</span></strong><br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202004/10759084_fe1cb9550d08ceb779a27821626f5181.jpg\" />\n</dl>\n</span><br/>\n<br/>\n<span style=\"font-size:50%;line-height:normal\">Image source:\u00a0<a class=\"postlink\" href=\"https://66.media.tumblr.com/42b0a20d70c65af685dcc3ef2be30fad/tumblr_oo25t5yuyY1qas1mto1_500.jpg\" rel=\"noreferrer\" target=\"_blank\">https://66.media.tumblr.com/42b0a20d70c ... o1_500.jpg</a></span><br/>\n<br/>\nThis is a really simple build draft that I designed for PvM solo/party low-mid magic and am in the process of playtesting:<br/>\n<br/>\nSorcerer 38 for awesome spell power, silent/empower/maximize/craft wand/scribe scroll, EMA/EW<br/>\nCleric 1 for empowered summons (animal domain), divine shield, armor/shield proficiencies<br/>\nPaladin 1 for awesome saves (F36W34R27), disease immunity, martial weapon proficiency\u00a0<br/>\n<br/>\nWith the Fort save able to be 'doubly buffed' (by boosting Con + Cha) this lass could potential tank devastating criticals and implosions for the party.<br/>\nSo I put the HP up a little. One will want to put the AC up if you wish to tank dev crits for the party, as this reduces the chance of a crit by to reducing the enemies chance of a successful threat roll.<br/>\nWith \"undispellable\" high caster level buffs this will be a huge party favorite and has enough punch to solo very well.\u00a0<br/>\n<br/>\nIn the environment I play-test my builds in Auto-Still III is not necessary as there are practical ways around it if one puts a little effort in.<br/>\nFor other environments auto-still III is attractive, swap silent for still and change three great Cha's for auto-still x3 if this is desired.\u00a0<br/>\nOne spare epic general feat which could be used for armor skin, or an epic skill focus: concentration, or other feats.<br/>\nOr increase starting Cha to 16 and drop Int to 12 to ending base Cha 32 (which when capped, will grant an additional level 9 spell compared with base Cha 30) at the cost of 43 skill points.<br/>\n<br/>\nThe second cleric domain is ideally healing for empowered cure potions, scrolls (and wands if available) which makes you an awesome party tank by being able to heal yourself, summons and teammates very effectively, however this is not allowed in the environment which I play test. If it is available to you and you play this build draft, I would choose animal and healing domains.<br/>\n<br/>\nRole-playing wise, Ehlonna is the goddess of nature, which fits with the animal domain theme. This sorceress is the arch-magus and untiring lawful good protector of her deity.<br/>\n<details><summary>Spoiler</summary>Sorcerer(38), Cleric(1), Paladin(1), Human\nLawful Good only\nSTR: 14\nCON: 16 (18)\nINT: 14\n\n01: Sorcerer(1): Silent Spell, Power Attack\n03: Cleric(1): Divine Shield, Domain Animal, Domain Sun\n05: Sorcerer(4)\n07: Sorcerer(6)\n09: Sorcerer(8): Scribe Scroll\n11: Sorcerer(9)\n13: Sorcerer(11)\n15: Sorcerer(13): Empower Spell\n17: Sorcerer(15)\n19: Sorcerer(17)\n21: Sorcerer(19): Great Constitution I, (CON=18)\n23: Sorcerer(21)\n25: Sorcerer(23): Epic Spell: Epic Mage Armor\n27: Sorcerer(25): Great Charisma II, (CHA=22)\n29: Sorcerer(27)\n31: Sorcerer(29): Epic Spell: Epic Warding\n33: Sorcerer(31): Great Charisma V, (CHA=27)\n35: Sorcerer(33)\n37: Sorcerer(35): Great Charisma VIII, (CHA=31)\n39: Sorcerer(37): Great Charisma IX, (CHA=32)\n\nSkillpoints: 215\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 22 (melee), 19 (ranged)\nSpell Casting: Sorcerer(9)\n\n\n01: Concentration(4), Lore(3), Open Lock(1), Search(2), Spellcraft(3), Spot(2),\u00a0\n03: Concentration(1), Search(1), Spot(1), Save(2),\u00a0\n05: Concentration(1), Search(1), Spot(1), Save(6),\u00a0\n07: Concentration(1), Search(1), Spot(1), Tumble(5),\u00a0\n09: Concentration(1), Search(1), Spot(1),\u00a0\n11: Concentration(1), Search(1), Spellcraft(4), Spot(1),\u00a0\n13: Concentration(1), Search(1), Spot(1), Save(2),\u00a0\n15: Concentration(1), Search(1), Spot(1), Save(6),\u00a0\n17: Concentration(1), Search(1), Spot(1), Tumble(5),\u00a0\n19: Concentration(1), Search(1), Spot(1),\u00a0\n21: Concentration(1), Search(1), Spot(1),\u00a0\n23: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(1),\u00a0\n25: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(3),\u00a0\n27: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(5),\u00a0\n29: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(7),\u00a0\n31: Concentration(1), Spellcraft(1), Spot(1), Save(1),\u00a0\n33: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(1),\u00a0\n35: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(3),\u00a0\n37: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(5),\u00a0\n39: Concentration(1), Search(1), Spellcraft(1), Spot(1), Save(7),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "3:22 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't see the point in taking Divine Might for this build and consequently I would suggest dropping either Cleric or Paladin. Although I don't know the details\u00a0I'm aware that Tenser's Transformation is changed on WoG. However even at the AB cap your build maxes at +48 AB, which is very low in a +5 EB environment.<br/>\n<br/>\nPersonally I would suggest making something along the lines of a Sorc38/Cler1/Monk1 or Sorc36/Pal3/Monk1 if you want to make a mage with Divine Shield, that way you gain both Evasion and an extra +4 AC from Tumble.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:07 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"20332\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20332&amp;sid=6681305b72e0e6a4631adaed910f7453#p20332\">\u2191</a><div class=\"responsive-hide\">Apr 13, 2020</div></cite>I don't see the point in taking Divine Might for this build and consequently I would suggest dropping either Cleric or Paladin.\u00a0</div></blockquote>\nFor fun\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\nAnd I'm serious<br/>\nSometimes you put things in build for fun, for flavor, they are not necessarily as 'technically optimal' as other choices<br/>\nBut boy is it fun shooting a crossbow or tanking mobs with your longsword and seeing that yellow writing +12-18 divine damage even if your AB is terrible, who cares.\u00a0<br/>\nThis build has so much power in it we don't need to take saves feats, with clever game play we don't have to take skill focus: concentration, there are enough caster levels we don't need to take extend spell... etc etc we have space for fun stuff<br/>\n<br/>\n<strong>Edit:</strong>\u00a0removed a large portion of this post, was upset at the time about something unrelated to the build or this comment, I have dropped Divine Might for Scribe Scroll in the most recent build update.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:03 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>I have been a consistent contributor here for about 12 months now, with over 1000 posts, and I have noted the change.</div></blockquote>\n\nFor some reason, I knew this was coming.<br/>\n<br/>\nI abhor reasoning like this. It is unnecessary and uncalled for.<br/>\n<br/>\nOrion, I have enjoyed your posts, and some of your builds.\u00a0 You like to contribute, and I think that is a good thing.\u00a0 But using this as a reason...you could have just left all that out and just said \"I have noticed...\" and yeah, perhaps your right, I dunno. But the rest...yes, you have contributed, been involved, etc, but that in and of itself is not a valid argument imo. It does not add any weight to your argument in my opinion.<br/>\n<br/>\nBut this really is the internet, and having a thick skin is very helpful. I don't think Yunim meant anything posted maliciously.\u00a0 Rather, he is just posting from his experience and opinion.\u00a0 In fact, I put a lot of faith in Yunim's posts, because from a building aspect for perfecting a build, he is usually right.\u00a0 I've learned a hell of a lot from his posts, and I for one am grateful that he posts what he does.<br/>\n<br/>\nI often think he voices what others think but remain silent about.\u00a0 It is one of the reasons I stopped posting, for the most part, about any part of a build - it just seems to lead to trouble. More trouble than it is worth, because I end up spending more time in trying to format it to avoid anyone reacting negatively to it than the actual information itself!<br/>\n<br/>\nI like to help out where I can, and do, but to be quite frank, I think that perhaps we should have two different sections for builds, one PG orientated, and one \"other\" - so as to put a weight on what is important to the build itself at the beginning.\u00a0 I will freely admit that I am a PGer and love running builds that are really well put together (as I have done in the past) because this is how I learn.\u00a0 I want to see how the build performs in an actual environment, what the parts do, how it works.<br/>\n<br/>\nI don't see the suggestion as being negative in this case.\u00a0 He states his opinion, and offers his advise in support of that.\u00a0 It is not derogatory, it is not negatively framed, it is just what it says.<br/>\n<br/>\nWhy is it \"wrong\" to say \"I don't see the point\"?\u00a0 and then offer support for that?\u00a0 And then he makes a suggestion as to how one could build it to accomplish his view.<br/>\n<br/>\nAnyway, this is probably going to blow up and what do I know?\u00a0 I probably shouldn't have even posted this much.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:39 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry Web the fun stuff just hit a nerve.<br/>\nI'll start a new thread regarding it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:53 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My comment was meant as constructive criticism, not as an attack on you or your build. One of the main positives of posting builds on the ECB, particularly in the Build Request/Unfinalized Builds section, is recieving feedback from multiple players who have experience in a wide range of environments. If you want to play this build then you should play this build, regardless of what anybody else says. However, mechanically it is weaker than other similar builds such as the ones I listed. In my opinion pointing out how a build can be improved should be acceptable on a forum dedicated to good NWN builds.<br/>\n<br/>\nIn the future I will refrain from commenting on your builds Orion, that's probably the easiest way to avoid causing any further disagreements.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:28 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">But I want you to continue commenting on my builds, Yunim!<br/>\n<br/>\nTear them apart, and put them back together, please.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:34 AM - Apr 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yunim, I have liked several of your posts and feedback<br/>\nYou should have received email responses to that fact, unless tapatalk has some problem.<br/>\nI want you to continue<br/>\n<br/>\nThe fun response just hit a nerve and triggered something with in me.<br/>\nYou must understand I have received a lot of responses to posts over a long period of time<br/>\nEventually the very bad responses wears you down. It does not help when the moderators open a discussion about treating others excellently, to grow up and for other guild members to post \"they do not see a problem\"<br/>\nI hope you see that as human<br/>\n<br/>\nThe trouble with dropping cleric / paladin is that it makes it a different build<br/>\nSorc / cleric / monk has already been done I want to look elsewhere<br/>\nApologies for pent up frustration coming to the surface.<br/>\n<br/>\nI have started another thread for this topic of giving feedback in the forum.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:41 AM - Apr 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think, and I could be wrong, that a reason for having divine might would be to help in clearing mid level enemies in a rest restricted server. At least that's what I'd be using it for, clearing out the enemies, helping out my Improved summons, so I can spend my IGMS on the ones that need it...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:54 AM - Apr 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is a good thought Gkorjax, I do want to playtest how that goes, the build gets Divine Might at level 6 so it could possibly useful solo<br/>\nAt least when I party with my sorcs I buff my teammates to the hilt then sit back shooting with a ranged weapon or sometimes equip some armor and tank for my rogues/archers.\u00a0<br/>\nI save damaging spells like IGMS for bosses or difficult mobs my teammates cannot manage, but occasionally a divine might usage for +12 damage/hit for 12 rounds, for example, quite a few times a day is nice<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:44 AM - Apr 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm going to follow Yunim's suggestion to drop divine might<br/>\n<br/>\nDM is nice, but I think a better choice to divine might is scribe scroll<br/>\nC<span style=\"color:#131513\">onloach</span>\u00a0taught me about this some months ago and I really like it too. Glad I remembered.<br/>\nOften there are a lot of unused spells before I rest especially in PvM parties if I am efficient with spell usage<br/>\nScribing a pile of Mord's, Premonition, Shadow Shield, Bigby's 6, Greater Sanctuary scrolls is fun with 6 base spells / level / day,\u00a0<br/>\nThat will be a lot of scrolls I will be making each rest and potentially sharing with the UMD users in my party.<br/>\nI think this is extremely fun and will be much more powerful for the build<br/>\n<br/>\nCleric 1 and Paladin 1 I think is great and if I change one of them for monk I end up with a different build\u00a0<br/>\nI appreciate Yunim's exploring his suggestions with the build choices in a separate thread and they are awesome builds, it was a lot of work for him to do that<br/>\nIt has helped me out a lot with this build draft.\u00a0<br/>\nWith playtesting to level 7 I felt silent earlier for a bit more spellbook flexibility early on would improve the build.\u00a0<br/>\nIts unlikely I will change much else but we will see when hit late epics with this sorc !<br/>\nHave edited the changes into the main post<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "2:31 PM - Apr 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just as an aside, and it's mainly because I hate having to try and watch for when the mind immunity is going to wear off, I tend to always take 2 Paladin levels for the fear immunity.<br/>\n<br/>\nNothing worse then having your immunity wear off while\u00a0 kiting a big swamp dragon and you get caught.<br/>\n<br/>\nIt does lower your DC's a smidge though...\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:44 PM - Apr 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I love paladin 2, its lovely to invest such as small amount for a huge bonus, and those fear circles are very nasty.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "8:46 PM - Apr 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">ok Orion... you gonna make that a portrait for us as well?\u00a0 \u00a0if not i'm gonna steal it and do so\u00a0 :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:33 AM - Apr 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Conlaoch<br/>\nIts an amazing piece of art.<br/>\nSelenada is the artist<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "1:15 PM - Apr 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion wrote: <a data-post-id=\"20583\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20583&amp;sid=cbe8aa794ce500b84f78e9b2c69f20c9#p20583\">\u2191</a><div class=\"responsive-hide\">Apr 30, 2020</div></cite>Hi Conlaoch<br/>\nIts an amazing piece of art.<br/>\nSelenada is the artist</div></blockquote>\nThe style reminded me of another artist as well.\u00a0 \u00a0Lots of potential portraits here...<br/>\n<a class=\"postlink\" href=\"https://www.jonathonart.com/intro.html\" rel=\"noreferrer\" target=\"_blank\">https://www.jonathonart.com/intro.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

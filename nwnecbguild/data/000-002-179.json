@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "179",
+  "name": "How to build a really powerful spell caster? (NWN1)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-to-build-a-really-powerful-spell-caster-nwn1-t2354947.html",
+  "author": "Ryly",
+  "avatar": "10758989_1540030153.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Ryly",
+      "avatar": "10758989_1540030153.jpg",
+      "timestamp": "12:12 PM - Oct 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">How would I go about making a spell caster that maximizes damage? I would prefer if it was sorcerer, but if wizard is the best for it then that works too. Also I'm talking about the Neverwinter 1 and the DLC up to level 40<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:32 PM - Oct 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ryly wrote:</cite>\nHow would I go about making a spell caster that <strong>maximazes damage</strong>? I would prefer if it was sorcerer, but if wizard is the best for it then that works too. Also I'm talking about the Neverwinter 1 and the DLC up to level 40\n</div></blockquote>\n\nThe short version is this:\n<ol>\n<li>Get your casting stat high (cha for sorc and int for wiz). Start with 18 or close, and aim for somewhere between 30 and 38. It increases the DC of your spells and gives you more spell slots.</li>\n<li>Pick one or two spell schools and take epic spell focus to improve the DC further. (I prefer evocation and necromancy, but others may disagree)</li>\n<li>Take as many caster levels as possible, and as early as possible. You get access to higher spell levels earlier, and that facilitates leveling of your character. Spell damage, for most damage spells, scale with caster level up to a certain cap. Your ability to penetrate spell resistance is directly linked to the number of caster levels. Take spell penetration feats if you have problems against spell resistance.</li>\n<li>Use meta magic. Meta magic can improve the damage (empower- and maximize spell). Meta magic also let you memorize your most effective spell for a given situation in spell slots from several spell levels.</li>\n<li>Know your spells. Some spells are just more powerful than others. Different spells will shine in different situations. It really helps to know what saves the spell allows, and so on: Read the spell descriptions!</li>\n<li>Know your enemy. Target their weak spot: Use spells with reflex or will saves against creatures with a high fortitude save bonus, such as fighter types. Use spells with fortitude or will saves against creatures with a high reflex save, like rogues. And use spells with fortitude or reflex saves against creatures with a high will save bonus such as wizards and sorcerers. Sometimes your best choice is to use a spell that does not allow a saving throw. If creatures have immunities or vulnerabilities, choose spells according to that. (If you right click on your enemy and pick the view/examine option, you will get useful information about this)</li>\n</ol>\n\nMick<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ryly",
+      "avatar": "10758989_1540030153.jpg",
+      "timestamp": "10:55 PM - Oct 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Ryly wrote:</cite>\nHow would I go about making a spell caster that <strong>maximazes damage</strong>? I would prefer if it was sorcerer, but if wizard is the best for it then that works too. Also I'm talking about the Neverwinter 1 and the DLC up to level 40\n</div></blockquote>\n\nThe short version is this:\n<ol>\n<li>Get your casting stat high (cha for sorc and int for wiz). Start with 18 or close, and aim for somewhere between 30 and 38. It increases the DC of your spells and gives you more spell slots.</li>\n<li>Pick one or two spell schools and take epic spell focus to improve the DC further. (I prefer evocation and necromancy, but others may disagree)</li>\n<li>Take as many caster levels as possible, and as early as possible. You get access to higher spell levels earlier, and that facilitates leveling of your character. Spell damage, for most damage spells, scale with caster level up to a certain cap. Your ability to penetrate spell resistance is directly linked to the number of caster levels. Take spell penetration feats if you have problems against spell resistance.</li>\n<li>Use meta magic. Meta magic can improve the damage (empower- and maximize spell). Meta magic also let you memorize your most effective spell for a given situation in spell slots from several spell levels.</li>\n<li>Know your spells. Some spells are just more powerful than others. Different spells will shine in different situations. It really helps to know what saves the spell allows, and so on: Read the spell descriptions!</li>\n<li>Know your enemy. Target their weak spot: Use spells with reflex or will saves against creatures with a high fortitude save bonus, such as fighter types. Use spells with fortitude or will saves against creatures with a high reflex save, like rogues. And use spells with fortitude or reflex saves against creatures with a high will save bonus such as wizards and sorcerers. Sometimes your best choice is to use a spell that does not allow a saving throw. If creatures have immunities or vulnerabilities, choose spells according to that. (If you right click on your enemy and pick the view/examine option, you will get useful information about this)</li>\n</ol>\n\nMick\n</div></blockquote>\n\nThanks Mick! Is there a certain multi-class I should go for, or is pure sorcerer/wizard just the best for this kind of thing. Also which spells would you recommend?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:10 PM - Oct 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ryly wrote:</cite>\nThanks Mick! Is there a certain multi-class I should go for, or is pure sorcerer/wizard just the best for this kind of thing. Also which spells would you recommend? </div></blockquote>\nIf you play in a party with one or more henchmen to tank\u00a0 for you, it is tempting to go pure caster.<br/>\nIf you want a very powerful build that also focuses on defense (at least in epic levels), You can try the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/exalted-sorceress-sorcerer-38-paladin-1-monk-1-t515460.html\" rel=\"noreferrer\" target=\"_blank\"><strong>exalted sorceress</strong></a><br/>\n<br/>\nAs for spells: If you have no experience at all with arcane casters, I will recommend playing a wizard from level 1 and up and experiment a bit just to learn what the different spells do. You can even do it in a trainer mod. That way you get easier access to spells and new levels, and can focus on the technical part.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "8:16 PM - Oct 25, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One thing to consider from Mick's excellent advice is that if you wish to go the Sorcerer route, then his points 4 &amp;5 become even more of a priority. As you have limited spells, you need to make good spell choices in the first place (aka , Know your spells), and you need the metamagic feats to have more access to your damage spells and extend or simply move some spells to a level where you may have been forced to pick mostly defensive spells. You also get fewer feats than a wizard so I'd emphasise metamagic over spell penetration or spell focus (and then focus on either those (or something defensive? Got to be alive to be powerful *grin*). Which spells depend on environment ofc. <br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "VXer",
+      "avatar": "10758931_1531210879.png",
+      "timestamp": "1:00 PM - Feb 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just to add fuel to the creative fire,\u00a0Exalted is probably the penultimate example of a good Sorcerer build but\u00a0I've always enjoyed a different approach with a 29 Sorcerer / 1 Bard / 10 Palemaster. (Or a Wizard for PvM)<br/>\n<br/>\nThis provides a lot of different choices - Auto-Still Spell III with a Tower Shield and Scale Mail; higher CON or Higher CHA; Epic Damage Reduction, etc. It's certainly not as effective at breaching Spell Resistance though.<br/>\n<br/>\nIn regards to spells though, assuming no server-specific changes: Ice Storm and IGMS are your friends on a Sorcerer, more than they will ever be on a Wizard build. Spells like Flame Arrow and Firebrand are also \"good\" picks, but suffer saving throw dilemmas and Resistance/Immunity to Fire. They're best used on \"big dumb sticks\" who you know aren't going to make the saves, or aren't immune to the damage.<br/>\n<br/>\nThe Bigbys chain is alright too. Mestil's Acid Sheath and Elemental Shield are worth grabbing, as is the Spell Breach line with Mordenkainen's Disjunction to top it off.<br/>\n<br/>\nI usually include Greater Planar Binding, Finger of Death, Wail of the Banshee and Meteor Swarm in my own repertoire with the remaining spells selected as buffs (Protection from Alignment, Mage Armor, Improved Invisibility, Lesser Mind Blank/Mind Blank, Premonition, Stoneskin, Protection from Spells, etc) but your mileage may vary and it's highly dependent on if a server has changed these spell effects.\u00a0 \u00a0<br/>\n<br/>\n\u00a0<br/>\n\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:00 PM - Feb 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have played a Sorceress(35)/Blackguard(3)/Monk(2) a couple of times &amp; it was pure destruction!<br/>\nEspecially where \"Tenser's Transformation\" is modified more closely to PnP version the power is unlimited.<br/>\nBut ultimately, like Mick says, you live or die by the selection of your spells &amp; the knowledge of how to use them!<br/>\n<br/>\nAlso, pure dmg in your spells doesn't matter, save or suck spells are much better.<br/>\nTo give you an example, I was playing in a level twenty server a couple of years ago and relaxing close to hometown, when a Sorceress arrived with her pet, a fire giant!<br/>\nSee what I mean?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

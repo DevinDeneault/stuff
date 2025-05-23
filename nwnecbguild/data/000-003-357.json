@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "357",
+  "name": "Fighter WM SD Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/fighter-wm-sd-build-t2349195.html",
+  "author": "KidMiracleman",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:05 AM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am looking for a strength build of Fighter WM and shadowdancer.  I would like 13 levels of SD.  The weapon will be a <br/>\nKatana.  I did a search but all I could find were dex based builds.  He needs to be human<br/>\n<br/>\nThank you<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:57 AM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The three main reasons to take SD are:<br/>\n(1) HiPS (only needs 1 level)<br/>\n(2) to get the feats required for Epic Dodge (needs 5 levels for Defensive Roll, or 10 to also get Improved Evasion)<br/>\n(3) Uncanny Dodge (second level)<br/>\nAll of these are either useless or much less useful in a STR-based build, so the question is why do you want to take SD in a STR-based build, and why 13 levels?<br/>\n<br/>\nDividing the remaining 27 levels between Fighter and WM will result in a reasonably capable build, but the 13 levels in SD are basically just thrown away, and you lose the opportunity to take a more useful third class.<br/>\n<br/>\nThat said, and meeting your restrictions, I'd say either Fighter 8 / WM 19 / SD 13 or Fighter 20 / WM 7 / SD 13.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "8:52 AM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A while back, when I was making the Hanchmen builds I also ended up making builds for all the characters in Baldur's Gate II. One of those builds was for Yoshimo, which isn't EXACTLY what you're asking for, but it's a STR build that uses Fighter and Shadowdancer. It's a VERY STRONG character, at least it can serve as a basis for your build:<br/>\n<br/>\nRogue(19), Fighter(20), Shadowdancer(1), Human<br/>\n<br/>\nSTR: 17 (32)<br/>\nDEX: 13<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Rogue(1): Blind Fight, Expertise<br/>\n02: Fighter(1): Weapon Proficiency Exotic<br/>\n03: Fighter(2): Knockdown, Weapon Focus: Katana<br/>\n04: Fighter(3): STR+1, (STR=18)<br/>\n05: Fighter(4): Weapon Specialization: Katana<br/>\n06: Fighter(5): Power Attack<br/>\n07: Rogue(2): {Evasion}<br/>\n08: Fighter(6): STR+1, Improved Knockdown, (STR=19)<br/>\n09: Fighter(7): Improved Critical: Katana<br/>\n10: Fighter(8): Cleave<br/>\n11: Fighter(9)<br/>\n12: Rogue(3): STR+1, Improved Expertise, {Uncanny Dodge I}, (STR=20)<br/>\n13: Fighter(10): Great Cleave<br/>\n14: Fighter(11)<br/>\n15: Fighter(12): Disarm, Improved Disarm<br/>\n16: Fighter(13): STR+1, (STR=21)<br/>\n17: Rogue(4)<br/>\n18: Fighter(14): Toughness, Dodge<br/>\n19: Fighter(15)<br/>\n20: Fighter(16): STR+1, Mobility, (STR=22)<br/>\n21: Shadowdancer(1): Armor Skin, {Hide in Plain Sight}<br/>\n22: Fighter(17)<br/>\n23: Rogue(5)<br/>\n24: Rogue(6): STR+1, Epic Weapon Focus: Katana, (STR=23)<br/>\n25: Rogue(7)<br/>\n26: Rogue(8)<br/>\n27: Fighter(18): Great Strength I, Epic Weapon Specialization: Katana, (STR=24)<br/>\n28: Rogue(9): STR+1, (STR=25)<br/>\n29: Rogue(10): Crippling Strike<br/>\n30: Rogue(11): Great Strength II, (STR=26)<br/>\n31: Fighter(19)<br/>\n32: Rogue(12): STR+1, (STR=27)<br/>\n33: Rogue(13): Great Strength III, Epic Skill Focus: Discipline, (STR=28)<br/>\n34: Rogue(14)<br/>\n35: Rogue(15)<br/>\n36: Rogue(16): STR+1, Great Strength IV, Epic Skill Focus: Hide, (STR=30)<br/>\n37: Rogue(17)<br/>\n38: Rogue(18)<br/>\n39: Fighter(20): Great Strength V, Epic Prowess, (STR=31)<br/>\n40: Rogue(19): STR+1, Epic Skill Focus: Move Silently, (STR=32)<br/>\n<br/>\nHitpoints: 442<br/>\nSkillpoints: 351<br/>\nSaving Throws (Fortitude/Will/Reflex): 23/15/20<br/>\nSaving Throw bonuses: Traps: +4<br/>\nBAB: 29<br/>\nAB (max, naked): 44 (melee), 31 (ranged)<br/>\nAC (naked/mundane armor/shield only): 21/32<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nDisable Trap 43(47), Discipline 42(63), Hide 43(54), Listen 43(42), Move Silently 43(54), Open Lock 2(3), Search 21(23), Set Trap 43(46), Tumble 40(41), UMD 31(30)<br/>\n<br/>\n<br/>\n01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(1), Tumble(4), UMD(4), Save(19), <br/>\n02: Discipline(5), Save(19), <br/>\n03: Discipline(1), Save(23), <br/>\n04: Discipline(1), Save(27), <br/>\n05: Discipline(1), Save(31), <br/>\n06: Discipline(1), Save(35), <br/>\n07: Disable Trap(6), Hide(6), Listen(6), Move Silently(6), Tumble(6), UMD(6), Save(10), <br/>\n08: Discipline(2), Save(13), <br/>\n09: Discipline(1), Save(17), <br/>\n10: Discipline(1), Save(21), <br/>\n11: Discipline(1), Save(25), <br/>\n12: Disable Trap(5), Hide(5), Listen(5), Move Silently(5), Tumble(5), UMD(5), Save(6), <br/>\n13: Discipline(2), Save(9), <br/>\n14: Discipline(1), Save(13), <br/>\n15: Discipline(1), Save(17), <br/>\n16: Discipline(1), Save(21), <br/>\n17: Disable Trap(5), Hide(5), Listen(5), Move Silently(5), Tumble(5), UMD(5), Save(2), <br/>\n18: Discipline(2), Save(5), <br/>\n19: Discipline(1), Save(9), <br/>\n20: Discipline(1), Save(13), <br/>\n21: Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(6), <br/>\n22: Discipline(2), Save(9), <br/>\n23: Disable Trap(6), Hide(2), Listen(2), Move Silently(2), Tumble(2), UMD(6), <br/>\n24: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1), <br/>\n25: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1), <br/>\n26: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(4), Tumble(1), UMD(1), Save(1), <br/>\n27: Discipline(5), Save(1), <br/>\n28: Disable Trap(2), Hide(2), Listen(2), Move Silently(2), Tumble(2), UMD(2), <br/>\n29: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(6), Tumble(1), <br/>\n30: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(6), Tumble(1), <br/>\n31: Discipline(4), Save(1), <br/>\n32: Disable Trap(2), Hide(2), Listen(2), Move Silently(2), Set Trap(2), Tumble(2), <br/>\n33: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Set Trap(6), Tumble(1), <br/>\n34: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(3), Set Trap(3), Tumble(1), <br/>\n35: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(1), Tumble(1), <br/>\n36: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(1), Tumble(1), <br/>\n37: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(1), Tumble(1), <br/>\n38: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(3), Set Trap(1), Save(3), <br/>\n39: Discipline(8), <br/>\n40: Disable Trap(2), Hide(2), Listen(2), Move Silently(2), Open Lock(1), Set Trap(2), <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:56 AM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>why 13 levels?</div></blockquote>\nAt SD level 10 you get improved evasion, a good thing to have, especially in a low reflex-save strength build, but not worth it if standard IE items are available. At SD level 13 the SD gets a bonus feat and can upgrade the Shadow lord to Epic shadow lord.<br/>\nAdding 9 epic levels of WM gives 3 bonus feats and an AB increase of +3. Adding 12 WM levels gives 4 feats and +4 AB. I prefer the WM goodies rather than the summon, even if upgraded.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:34 PM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Because with 13 levels of SD you get an exact clone of yourself.  Double your pleasure double your fun<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "6:15 PM - Jan 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, I figured it was some server-specific thing. Getting used to it by now <br/>\n<br/>\nI'd go with Empyre's suggested spread, and maybe you could take on the challenge of using my build as a rough guide with his suggested spread to come up with a build yourself, what say you?<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:05 AM - Jan 29, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I say that sounds great.  I will post what I come up with here if you do not mind<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "10:12 AM - Jan 29, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong>I say that sounds great.  I will post what I come up with here if you do not mind</div></blockquote>\n\nThat's the idea <br/>\n<br/>\nAnd then we'll critique it and help you improve it so you can have a powerhouse in your hands!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:48 PM - Jan 29, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This took me a whole lot longer than 5 minutes  <br/>\n<br/>\nFighter(8) Weapon Master,(19), Shadowdancer(13), Human<br/>\n<br/>\nSTR: 16 (32)<br/>\nDEX: 14<br/>\nCON: 15<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Fighter(1): Weapon Proficiency Exotic, Expertise, Dodge<br/>\n02: Fighter(2):Weapon Focus: Katana<br/>\n03: Fighter(3):Mobility <br/>\n04: Fighter(4): CON+1, (CON=16) Weapon Specialization: Katana <br/>\n05: Fighter(5):<br/>\n06: Fighter(6): Whirlwind attack Spring attack<br/>\n07: Fighter(7):<br/>\n08::Weapon Master(1) STR+1, Weapon of Choice, (STR=19)<br/>\n09:Weapon Master(2): Improved Critical: Katana<br/>\n10:Weapon Master(3):<br/>\n11:Weapon Master(4)<br/>\n12:Weapon Master(5): STR+1, Improved Expertise, {Uncanny Dodge I}, (STR=20)<br/>\n13:Weapon Master(6)<br/>\n14:Weapon Master(7)<br/>\n15:Weapon Master(8): Disarm<br/>\n16:Weapon Master(9): STR+1, (STR=21)<br/>\n17:Weapon Master(10) hide 10 MS 8 tumble 5<br/>\n18:Shadowdancer(1) Great Cleave<br/>\n19:Shadowdancer(2)<br/>\n20:Shadowdancer(3) str+1 (STR=22)<br/>\n21:Weapon Master(11):  Great Strength I, (STR=23)<br/>\n22:Weapon Master(12)<br/>\n23:Weapon Master(13): Epic Weapon Focus: Katana<br/>\n24:Weapon Master(14): STR+1,, (STR=24) Great Strength II, (STR=25)<br/>\n25: Weapon Master(15)<br/>\n26: Weapon Master(16) Epic Prowess<br/>\n27: Weapon Master(17):Great Strength III (STR=26)<br/>\n28: Weapon Master(18) str+1 (STR=27)<br/>\n29: Weapon Master(19) Armor skin<br/>\n30:Shadowdancer(4):: Great Strength IV, (STR=28)<br/>\n31:Shadowdancer(5):str+1 (STR=29)<br/>\n32:Shadowdancer(6) <br/>\n33:Shadowdancer(7):Great Strength IV, (STR=30)<br/>\n34:Shadowdancer(8)<br/>\n35:Shadowdancer(9):<br/>\n36:Shadowdancer(10): Great Strength VI, (STR=31)<br/>\n37:Shadowdancer(11): <br/>\n38:Shadowdancer(12): <br/>\n39: Shadowdancer(13):Epic Shadow lord Great Strength VII, (STR=33)<br/>\n40: Fighter(8): STR+1Epic Weapon Specialization: Katana , (STR=34)<br/>\n<br/>\nLet me know what you think<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:11 AM - Jan 30, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You didn't take Blind Fight, which is essential for a melee build. I would take SD at levels 22, 27, 32, and 37 for Tumble skill dumps for +1 AC each time. Epic Weapon Spec would be nice to have earlier than level 40. You might consider replacing 2 Great Strength feats with Overwhelming Crit and Devastating Crit, unless your playing environment has reasons not to take Dev Crit, or you don't want to lose the AB and damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:39 AM - Jan 30, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dev crit has been disabled on my server<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:47 PM - Jan 30, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think Empyre's suggestions are spot on. Blind Fight needs to be in there, the question is, at the expense of what? At first glance, I would drop Disarm, for 2 reasons:<br/>\n<br/>\n1- Disarm works best with 2-handed weapons, and Katanas are one-handed.<br/>\n2- Disarm without Improved Disarm generates an attack of opportunity for your enemy when you try to use it. <br/>\n<br/>\nHowever, Great Cleave without Devastating Critical is a bit useless. You're not going to kill many monsters in 1-round at that level, so the general rule is: you either take it for Devcrit, or, if it's disabled in your server, you don't take it. <br/>\n<br/>\nYou can drop Great Cleave for Improved Disarm if you're really keen on having it, then you have to choose another feat to drop for Blind Fight, or you can drop Disarm for Blind Fight and then Great Cleave for something else, like Knockdown, which your build doesn't have, strangely. Is immunity to KD very common in your server? If so, then take Toughness for more HP. If not, drop Disarm for KD, delay Improved Critical a bit and take it earlier, then drop Great Cleave for Blind Fight.<br/>\n<br/>\nI also second Empyre's advice on skill dumps. This is one of the most essential things in character buildings. Not just what class you'll take, but WHEN will you take it. SD levels should be taken in levels that will allow your skill ranks in Tumble to reach multiples of 5. If you'd read my guide, you'd know this. See, being lazy has its setbacks lol <br/>\n<br/>\nAnyway, the feat choice is cool in epics, but I'd take Fighter 7 and Fighter 8 RIGHT AFTER WM 13 for earlier EWS. I'd also consider taking that last SD level at 37 for the last Tumble dump so that you can have your clone for more levels. You'll lose a couple of Stealth points, but you'll have 2 of yourself, which is COOL.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:03 AM - Jan 31, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I realized I can take WM after just 6 levels of fighter.  I have decided to do that so that I can take epic specialization at level 21 with <br/>\nthe 7th level of fighter.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:56 AM - Jan 31, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can't do that, and here's why: You can take WM after 6 levels of Fighter, but you need 17 levels of Fighter / WM to cross-train 10 ranks of Hide to qualify for SD. Since you can have no more than 10 levels of WM pre-epic (because it is a prestige class), you must also take 7 levels of Fighter before taking SD, but you can at least wait until after the 10 levels of WM to take the 7th level of Fighter.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:39 AM - Jan 31, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">damn!  That is right.  I forgot about that.  Back to the drawing board<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:47 AM - Jan 31, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong>I realized I can take WM after just 6 levels of fighter.  I have decided to do that so that I can take epic specialization at level 21 with <br/>\nthe 7th level of fighter.</div></blockquote>\n\nNot just that, but EWS requires EWF, so you'd need to have 2 feats at level 21 in order to do that, and it'd be silly anyway, since you have 3 WM bonus feats, they should almost always be Armor Skin, EWF and EP not necessarily in that order in a non-devcrit environment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

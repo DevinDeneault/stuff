@@ -1,0 +1,20 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Add ons",
+  "forum_id": "003",
+  "id": "004",
+  "name": "NWN Alignment Manager",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-alignment-manager-t515505.html",
+  "author": "KailPendragon",
+  "avatar": "10235214_1540245864.jpg",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "5:01 PM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Hakpaks.Detail&amp;id=7206\" rel=\"noreferrer\" target=\"_blank\">NWN Alignment Manager by Gangster No.1</a><br/>\n<br/>\nThe NWN Alignment Manager (or simply NAM) allows you to easily change your character's alignment in whatever module you're playing. Primarily intended to counter unjustified alignment shifts while playing single-player modules (and we've all suffered from those), the NAM also enables you to bypass alignment restrictions and create multiclass combinations like Bard/Paladin/Blackguard with ease.<br/>\n<br/>\nAlthough designed for single-player games, the NAM also works in multiplayer session, but it can't be used while playing on persistant world servers; so there's no need to panic, my dear PW admins and DMs. <br/>\n<br/>\nInstallation of the NAM is very easy, and the extensive ReadMe explains everything you need or want to know. It *should* work with all version of NWN and not require any expansions, but it definitely works with v1.68 regardless of what expansions you have installed. Since the NAM doesn't modify any existing files but simply adds a few, it works perfectly fine with all the other stuff you might have in your override folder, and also all modules using HAK packs.<br/>\n<br/>\nYou only need to download either the .RAR or the .ZIP archive. Both are only 384 KB small (uncompressed archives; rather pointless to pack something that small) and include the ReadMe.pdf file.<br/>\n<br/>\nUpdated to Bioware patch 1.69!!!<br/>\nBoth downloads (.ZIP and .RAR) now contain both the new version requiring 1.69 (see below for changes), and also the old version still running with 1.68 for those players who didn't get a patch for their respective language. The files for both version are in two seperate folders, NAM_168 and NAM_169. Simply copy the files of your prevered version into the override folder. If you already have the old version installed and now want to use the v1.69 version, simply overwrite all files when prompted.<br/>\n<br/>\nThe updated 1.69 version now displays the according Alignment Titles (e.g. Crusader, Destroyer, Free Spirit) if you character qualifies for such a title. But more important and convenient is that in multiplayer games, the character who alignment is to be changed doesn't have to leave the party anymore. He can change his alignment all the way he wants without affecting the alignments of other player characters.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

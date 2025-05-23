@@ -1,0 +1,20 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "204",
+  "name": "Trap Blind",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/trap-blind-t2354713.html",
+  "author": "conlaoch",
+  "avatar": "10235240_1510287070.jpg",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:14 PM - Jun 16, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><span style=\"font-size:100%;line-height:normal\">I have recently re-installed NWN from GOG and have noticed an issue.</span>\u00a0<br/>\n<span style=\"font-size:100%;line-height:normal\">I can't see traps when they are placed on the ground, or when they are detected by myself or others.<br/>\n I do see the trap indication on chests and doors.</span>\u00a0<span style=\"font-size:100%;line-height:normal\">If I right click on the trap, the radial menu shows that I can remove or recover, but I can't see the red or green square.</span>\u00a0<br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">So far I have removed the override directory, reverted to an old nwn.ini and an old nwnplayer.ini.</span>\u00a0<span style=\"font-size:100%;line-height:normal\">Does anyone know where and if there is a setting that turns on and off the trap graphic?<br/>\n<br/>\n Additionally this happens on two different persistent worldws, so I am pretty sure it isnt something world related.</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

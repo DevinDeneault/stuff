@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "008",
+  "name": "Appreciating the Half-Orcs: Rexxar, the Beastmaster",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/appreciating-the-half-orcs-rexxar-the-beastmaster-t2354790.html",
+  "author": "zzzergling",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "zzzergling",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:15 AM - Dec 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey. I generally like Orcish aesthetics in most games and that pushes my interest towards the Half-Orc race. It seems like H-Orcs are generally a weak race in NWN/3rd edition, their niche being primarily a chassis for very brute-force oriented melee builds (and particularly low level scenarios, where more BAB and Strength matters more in the long run than a Dwarf's CON or whatever).<br/>\n<br/>\nTo play around with it, I came up with an idea that mirrors the hero of Warcraft lore, more specifically his WC3 iteration (and not the one from Hearthstone / WoW, where he is primarily imagined as an archer) - a somewhat sneaky (he's a hunter by trade) STR-based dual-axe (probably handaxe) wielding warrior aligned with nature and using animal companions for support.<br/>\n\u00a0<br/>\nThe ideal chassis for it seemed like Ranger / Barbarian at first glance, but then you have the conflict of being restricted to using light armor and having the bulk of your damage come from Strength, and so I'd have to skimp out on Dexterity that is needed, which would necessitate abysmal armor class, especially since Barb Rage lowers AC further. Adding some Rogue levels for much-needed Tumble and some utility comes at another tradeoff - I'd have to level Ranger and Rogue simultaneously to avoid XP penalties.<br/>\n<br/>\nSo, I have the general idea, more or less - Ranger/Rogue/Barbarian - but, as you can see, I have a few problems with making sure that the bugger doesn't get hit much.<br/>\n<br/>\nI could make him DEX-based rather than STR-based, and use the Barbarian rage (it apparently has a hard cap of sorts, making Barb a niche, weak class?) and some random utility (wands and potions of Bull's Strength) to bring up my Strength up for some fights that can't be solved with Sneak Attacks, but then I wonder if there's a point in picking Half-Orc over the cookie-cutter Human (I'm aware that in 99% cases there isn't). Plus, Rangers' niche seems to be that they can eschew DEX and still receive all the dual-wielding feats, so I thought they'd have a natural synergy with STR-dual wielders.<br/>\n<br/>\nThoughts? I'd be mostly planning to take the dude on some hack'n'slash modules and PvM ventures, and not really planning on shelving him on some particular level cap.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:24 AM - Dec 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi there zzzergling, and welcome!<br/>\n<br/>\nJust a first thought for you to mull over. Something like a Barbarian 26/ Ranger 9/ Harper Scout 5 might work. HS would prevent an xp penalty as well as bringing Tumble and Cat's. You'd get the Improved 2-Weapon Fighting, animal companion and 2 FEs from Ranger. And 6/ barbarian damage reduction, Terrifying Rage and other stuff from Barbarian. Expertise and Taunt will also help with AC, and Called Shot (arm) wouldn't hurt (if it can be squeezed in).<br/>\n<br/>\nOn the other hand, if all you really want Ranger for is ITWF, it might be worth forgetting about it and taking the 3 feats, so you could wear heavy armour and D-W with no problem.<br/>\n<br/>\nOh, and are you thinking about a Dev Crit type of build or not?<br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Sorry, meant to mention HS requires you to be non-evil<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:00 PM - Dec 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello zzzergling<br/>\nYou can go with Barbarian and Ranger. High Level Barbarian\u00a0opens up\u00a0TR and adds some DR. High Level Ranger builds up the bonus vs FEs and add FEs.<br/>\nThe easy thing to do then is to use a prestige class for full tumble to avoid XP penalty. HS is like Stag told you\u00a0a good option.<br/>\nThe other two options are Assassin and Shadowdancer. HS must be non evil and costs 2 feats and some skillpoints. SD costs 2 feats and some investment in stealth. Assassin must be evil and costs some stealth skills.<br/>\n<br/>\nOther options are Barbarian/CoT/Rogue, Ranger/Rogue/Prestige class,\u00a0 Barbarian/Fighter/Prestige class.<br/>\nBarbarian/Bard/RDD is another option if you want some SERIOUS strength.<br/>\n<br/>\nYou may also have a\u00a0look in the 40s section at how TyrTemplar builds with Barabarian and Ranger.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:19 PM - Dec 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, I like the idea of Shadowdancer - coming out of HiPs in a terrifying rage is a great picture! And you wouldn't need many levels either, so something like a Barb 15/ Ranger 23/ SD 2 might be an option - and you could end up with Terrifying Rage, Hide in Plain Sight and Bane of Enemies. Dodge and Mobility (needed for SD) wouldn't be wasted feats as far as defences are concerned, though you would need 13 DEX for Dodge.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:32 PM - Dec 07, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Afraid I've not had much time, so not been able to work anything throgh properly, but I reckon, with starting stats of STR 18, DEX 13, CON 14, WIS 9, INT 13 and CHA 6 you could - in the Barb 15/ Ranger 23/ SD 2 mentioned above, and finishing with STR at 28 and either DEX or INT at 14 - get Weapon Focus, Blind Fighting, Knockdown, Improved Critical, Dodge and Mobility and either Improved Knockdown or Expertise pre-epic. Then in epic - and taking Bane of Enemies as the Ranger bonus feat - you've got Epic Weapon Focus, Epic Prowess, Armor Skin, Terrifying Rage and 3 Great Strengths.<br/>\n<br/>\nThe thinking behind the boost to either DEX or INT would depend on whether you'd prefer +1 to AC or some more skill points (as it stands, you'd be getting 5 per level of Barb and Ranger and 7 per SD level, thus 219. Any more would depend on when you took +1 to INT).<br/>\n<br/>\nUntil your ITWF kicks in and your AB is up to it, you could go medium armour and tower shield (and it'd still be worth carrying a shield with you for when you're getting hit a lot)<br/>\n<br/>\nIs this anything you might be interested in? Assuming I'm not talking gibberish, of course.<br/>\n<br/>\n<strong><em>EDIT:</em></strong> This does, of course, mean that either Terrifying Rage or BoE comes very late in the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "7:58 PM - Feb 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello zzzergling<br/>\n<br/>\nI agree, the half orc was sold short, really only good for brute force or role playing purposes. And I like the idea of a ranger/rogue/barbarian, as I like my characters to be able to do some magic. I have no problem keeping the ranger/rogue levels in step.<br/>\n<br/>\nSo why don't you ignore 2 weapon fighting and go for a strength based character? Then you can wear medium armour, and have the option to switch to sword and board when required. I prefer great axe as great sword becomes less effective later, plus I feel it suits the character better.<br/>\n<br/>\nI started a character like this, but then went back to playing my barbarian/bard characters (yes, I have more than one character), so can only give you a few ideas I had.<br/>\n<br/>\nI started with rogue for the points. Level 2 barbarian means you get a nifty belt giving blunt protection. This is great at the start of the undead area and the prison area (as long as you remember to attack the orc characters first). Plus I leave the boss characters until level 6 and go back and kill them for better dropped goods. Level 3 is ranger. The idea was then to go heavy on ranger/rogue to aim for ranger 9 / rogue 8 / barbarian 3 for the rule of 4 BAB progression, or ranger 9 / rogue 10 / barbarian 1 because you don't really need those extra barbarian levels.<br/>\n<br/>\nYou will never be a great ranger or rogue, so I intended to play him more as a commando / marine type character. Strength 16, dex 14 (for some bow shooting skills), con 14, int 12 (may increase to 14 later), wisdom 14, charisma as low as possible (6 I think). You are an half orc after all.<br/>\n<br/>\nPower attack and cleave first off, as cleave helps out in battles with multiple foes. Buy the rogues hood for knockdown and poison immunity, and you have a capable character for the first part of the game.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:23 PM - Feb 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about Barbarian / Bard / RDD 10 for even more strength? Or Fighter / Bard / RDD 10 if you don't mind keep Fighter and Bard balanced. The RDD levels would not only boost Strength but also give +4 AC. I remember seeing such builds here. I think TyrTemplar made a couple.<br/>\n<br/>\nI did a quick search and found these, probably not a complete list:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/dragon-blade-barbarian-28-rdd-10-bard-2-t2292942.html\" rel=\"noreferrer\" target=\"_blank\">dragon-blade-barbarian-28-rdd-10-bard-2-t2292942.html</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/dragon-rider-the-mighty-blade-barbarian-28-rdd-10--t2292943.html\" rel=\"noreferrer\" target=\"_blank\">dragon-rider-the-mighty-blade-barbarian ... 92943.html</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-hood-half-orc-of-doom-barbarian-28-bard-2-rdd--t515449.html\" rel=\"noreferrer\" target=\"_blank\">the-hood-half-orc-of-doom-barbarian-28- ... 15449.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

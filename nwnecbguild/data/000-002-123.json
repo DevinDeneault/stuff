@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "123",
+  "name": "NWN EE, RDD 7 and Retroactive HP gain no longer occurs?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-ee-rdd-7-and-retroactive-hp-gain-no-longer-occ-t2355523.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:00 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi everyone!<br/>\n\u00a0<br/>\nIt looks like when one takes an RDD 7 level (and gains +2 CON), there is no longer retroactive HP gain that I think happened in the past.\u00a0<br/>\nI spoke to Aquarius and he seemed to recall it happened in the past.<br/>\nAnd certainly when I input the build in Kamiryn's CBC2842 (the latest version updated this year), it is suggested the retroactive HP gain would occur.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202008/10759084_48243b659af025f06d297d79a04c11ba.jpg\" />\n</dl>\n</span>At RDD 7, the expected max HP gain is +29hp (+13 from +d10 plus +2modifier +1toughness, and +16 from retroactive HP gain from 16 hit die and +2 con).<br/>\nHP would increase from 131 to 160hp.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202008/10759084_e3601351c5b2bda32d4abf1c1dcae74a_t.jpg\" />\n</dl>\n</span>I take my level in the Pretty Good Character Creator Module v43 from Sorc 8 / Paladin 1 / RDD 6 to Sorc 8 / Paladin 1 / RDD 7. I have max HP rolls before leveling.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202008/10759084_778db94fdd123f192a43f6fb63cc736f_t.jpg\" />\n</dl>\n</span>The expected HP was 160 if you look at Kamiryn's spreadsheet, but the actual HP ends up 144, 16HP less than expected.<br/>\n<br/>\nThere were some changes Beamdog made to RDD and stat gain from RDD's Draconic Abilities feat in the last 6-12 months.\u00a0<br/>\nI am curious if these changes affected this.<br/>\n<br/>\nCan anyone else confirm that this is not expected or confirm they are seeing this as well?<br/>\nI have also noticed it in WoG,\u00a0 WoG uses a custom Dragon Disciple so players can have different breath types, so I made sure I also checked it in Vanilla NWN (above)<br/>\nI am using NWN EE v80.8193.13 [3ba0f825]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "5:01 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This has been the case since Beamdog softcoded the PM/RDD changes. For single player you will need to save and reload for PM/RDD changes to take effect after levelling, for multiplayer you need to relog.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:14 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ninja'd by Yunim!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "5:17 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry to bump into this thread, but finally it is the time I can learn which is the difference between softcoded and hardcoded.<br/>\nIt seems to me from your answer, Yunim, that the \"free toughness\" feat from RDD 7 is only not visible at the level up screen, but it will be available after relod or relog: hence softcoded should mean \"not listed within the changes\", but occurred nonetheless.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:06 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In 1.69, the ability and AC increases from PM/RDD levels were hardcoded into the game and couldn't be changed directly (although there were ways around this such as using third party programs). In EE those increases are now softcoded and can easily be customised by editing 2da files. One of the main advantages of this other than further customisation is that it's now safe to delevel RDDs, but it does cause some issues such as needing to reload/relog when levelling.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:12 PM - Aug 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the advice Yunim<br/>\nWorking as expected on reloading a save file (160hp in screenshot)<br/>\nCurrently not in the NWN Wiki so hopefully that should be updated<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202008/10759084_ae68e554caf778ea1d1b353a0edc356c_t.jpg\" />\n</dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "2:20 PM - Aug 04, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"21407\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21407&amp;sid=c0e04b015c6a4aca23d701988e3a0b85#p21407\">\u2191</a><div class=\"responsive-hide\">Aug 02, 2020</div></cite>In 1.69, the ability and AC increases from PM/RDD levels were hardcoded into the game and couldn't be changed directly (although there were ways around this such as using third party programs). In EE those increases are now softcoded and can easily be customised by editing 2da files. One of the main advantages of this other than further customisation is that it's now safe to delevel RDDs, but it does cause some issues such as needing to reload/relog when levelling.</div></blockquote>\nThanks for the detailed explanation Yunim!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "4:10 PM - Aug 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If a RDD from Bioware\u2019s NWN is imported to EE, would its HP be adjusted? Would it be safe to delevel it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "4:25 PM - Aug 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No idea, you'd have to ask somebody who runs a PW if they had issues transitioning between the relevant version updates.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:08 PM - Aug 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Let me see.<br/>\n<br/>\nI think you have to import it, save it in the EE system, log out, then log back in.<br/>\n<br/>\nThat should convert the RDD .bic to the new system, and then it should function as a \"normal EE\" RDD iir the patch notes correctly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

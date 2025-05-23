@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "428",
+  "name": "Running Sneaker<Monk 20 Fighter 4 SD 6>",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/running-sneaker-monk-20-fighter-4-sd-6-t2298787.html",
+  "author": "Nokteronoth",
+  "avatar": "no_avatar.png",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Nokteronoth",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:25 AM - Nov 22, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I figured it would be fun to make a super fast sneaker, so here's your exceptionally basic Monk build for Arelith. I gave it to someone already, so it's in the process of being tested. <br/>\n<br/>\nPvM and PvP, although mostly PvM<br/>\n<br/>\nHas to be LN or LE.<br/>\n<br/>\nMonk(20), Fighter(4), Shadowdancer(6), Human<br/>\nSTR: 12<br/>\nDEX: 18 (25)<br/>\nCON: 14<br/>\nWIS: 14<br/>\nINT: 12<br/>\nCHA: 8<br/>\n<br/>\nHitpoints: 308<br/>\nSkillpoints: 202<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/18/23<br/>\nSaving Throw bonuses: Mind Effects: +2, Traps: +1<br/>\nBAB: 21<br/>\nAB (max, naked): 32 (melee), 29 (ranged)<br/>\nAC (naked/mundane armor/shield only): 31/31<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nDiscipline 27(28), Heal 30(32), Hide 33(40), Listen 33(35), Move Silently 33(40), Tumble 30(37), remaining skillpoints 16<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Monk(1): Dodge, Mobility, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n02: Monk(2): {Deflect Arrows}<br/>\n03: Monk(3): Weapon finesse<br/>\n04: Monk(4): DEX+1, (DEX=19)<br/>\n05: Monk(5)<br/>\n06: Monk(6): Weapon Focus: Kama, {Knockdown, Improved Knockdown}<br/>\n07: Monk(7)<br/>\n08: Monk(8): DEX+1, (DEX=20)<br/>\n09: Monk(9): Blind fight, {Improved Evasion}<br/>\n10: Monk(10)<br/>\n11: Monk(11)<br/>\n12: Monk(12): DEX+1, Improved Critical: Kama, (DEX=21)<br/>\n13: Monk(13)<br/>\n14: Monk(14)<br/>\n15: Monk(15): Weapon Proficiency Exotic<br/>\n16: Monk(16): DEX+1, (DEX=22)<br/>\n17: Fighter(1): Two-Weapon Fighting<br/>\n18: Fighter(2): Ambidexterity, Improved Two-Weapon Fighting<br/>\n19: Fighter(3)<br/>\n20: Fighter(4): DEX+1, Weapon Specialization: Kama, (DEX=23)<br/>\n21: Monk(17): Armor Skin<br/>\n22: Monk(18)<br/>\n23: Monk(19)<br/>\n24: Monk(20): DEX+1, Epic Prowess, (DEX=24)<br/>\n25: Shadowdancer(1): {Hide in Plain Sight}<br/>\n26: Shadowdancer(2): {Darkvision, Uncanny Dodge I}<br/>\n27: Shadowdancer(3): Epic Weapon Focus: Kama<br/>\n28: Shadowdancer(4): DEX+1, (DEX=25)<br/>\n29: Shadowdancer(5): {Defensive Roll}<br/>\n30: Shadowdancer(6): Epic Dodge<br/>\n<br/>\n~Nok<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:47 PM - Nov 28, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is one problem I can spot right away: This sneaker doesn't have Sneaks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:18 PM - Nov 28, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there a reason why you take 6 levels of SD? You only need SD5 for ED. <br/>\nA fifth level of fighter taken in epic levels can give you EWS for 4 more damage if taken on a \"feat\" level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Nokteronoth",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:06 AM - Nov 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On Arelith, SD gives +hide on even levels, so it's got a bit of a bonus to keep that even. Although if there is enough Hide gear, one could swap it for the Fighter level, yes.<br/>\n<br/>\n~Nok<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DragonatorXII",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:11 PM - Nov 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Nokteronoth wrote:</strong>On Arelith, SD gives +hide on even levels, so it's got a bit of a bonus to keep that even. Although if there is enough Hide gear, one could swap it for the Fighter level, yes.<br/>\n<br/>\n~Nok</div></blockquote>\n\n+2 hide/ move silently/+1 DEX/ +1 CON gear is easy enough to get. Or +1 WIS instead of CON, if you prefer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

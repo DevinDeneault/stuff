@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "178",
+  "name": "Expertise/Whirlwind question",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/expertise-whirlwind-question-t2355035.html",
+  "author": "blksabbath74",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:24 AM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">If you are in Expertise mode and do a Whirlwind attack, is it at full BAB or at -5/-10?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:38 AM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">While you are in Expertise or Power Attack mode, -5/-10 <span style=\"text-decoration:underline\"><em><strong>becomes</strong></em></span> your new temporary full BAB until you exit that mode.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

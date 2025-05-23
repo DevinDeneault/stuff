@@ -1,0 +1,104 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "047",
+  "name": "Regeneration",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/regeneration-t2356027.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 14,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "7:20 AM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">From the nwnwiki: \u201cmultiple sources of regeneration are simultaneously active, each healing its set amount of hit points when its timer is up (not the sum of all regeneration sources being added at once)\u201d<br/>\n<br/>\nNow assume that a PC has amassed maximum regeneration from items (+1760 hp). Will there be a window that he can die if attacked asynchronously by a horde of enemies? If so, can a healing spell like cure minor wounds improve his chances of survival?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:11 AM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm afraid I don't quite understand your question darktooth.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:19 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>darktooth wrote: <a data-post-id=\"27515\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27515&amp;sid=bd285a14c96cd881152a2014491fd50e#p27515\">\u2191</a><div class=\"responsive-hide\">Dec 16, 2022</div></cite>From the nwnwiki: \u201cmultiple sources of regeneration are simultaneously active, each healing its set amount of hit points when its timer is up (not the sum of all regeneration sources being added at once)\u201d</div></blockquote>\n<blockquote><div>Now assume that a PC has amassed maximum regeneration from items (+1760 hp). Will there be a window that he can die if attacked asynchronously by a horde of enemies?</div></blockquote>\n\nYes, if the enemies can do more damage than one can regen.<br/>\n<blockquote><div>If so, can a healing spell like cure minor wounds improve his chances of survival?</div></blockquote>\nThat depends on how much damage one is taking vs how much one is healed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:39 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"27516\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27516&amp;sid=bd285a14c96cd881152a2014491fd50e#p27516\">\u2191</a><div class=\"responsive-hide\">Dec 16, 2022</div></cite>I'm afraid I don't quite understand your question darktooth.</div></blockquote>\nYeah my question was quite confusing. But basically, I am assuming that the PC in my example has base hit points that is well below the amount of damage that he receives from attacking enemies, but he relies on items that give him +1760 HP regeneration. To restate my question, how often does the game check for a character's hit points within a combat round? If the PC heals itself, would it somehow help, or does the amount of regeneration he receives in a round override any benefit?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:43 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I said, it depends.<br/>\n<br/>\nFirst of all, you would really need to have those cures on haste, to allow for them to supersede the regen (which procs once a round, down at the bottom of the\u00a0round).\u00a0 Otherwise, it will probably not really matter much.<br/>\n<br/>\nIt COULD make a difference, however.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "1:02 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So if each regeneration has its own timer, how asynchronously can each regeneration fire in a combat round, assuming that there are 88 of them (eight in every equipped item)?<br/>\n<br/>\n<em>Edit: I understand it now, <em class=\"mention\">@webshaman1</em>\u00a0. Only once within my combat round. The nwnwiki confused me.</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "1:11 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I *think* that the game checks the value of  hp every time it varies (so if a hit reduces your hp to 0 for a split second, you will die). So I *think* the answer to your question is yes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "1:18 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>TheSquid wrote: <a data-post-id=\"27521\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27521&amp;sid=bd285a14c96cd881152a2014491fd50e#p27521\">\u2191</a><div class=\"responsive-hide\">Dec 16, 2022</div></cite>I *think* that the game checks the value of \u00a0hp every time it varies (so if a hit reduces your hp to 0 for a split second, you will die). So I *think* the answer to your question is yes.</div></blockquote>\nAnd there is only one moment in a combat round that I can regenerate hit points, have I understood it correctly?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:13 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:13 PM - Dec 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We often use regen to show the end of a round when doing testing, for what it is worth.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:44 AM - Dec 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It has been my exerience that when I have multiple items equipped that regenerate health, they do not all regenerate at the same time.\u00a0 It seems to depend on when within a round I equipped the item.\u00a0 I still play 1.69, so maybe that has changed in EE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:25 PM - Dec 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I play EE. The regen healing can be somewhat spread out\u00a0 during the round. When one is outside of combat, one can see this in the tracker messages. Something like, \"heals 1 hp,heals 1 hp,\" PAUSE, \"Heals 1hp\".<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:19 PM - Dec 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">...So, in summary, it seems the best way to avoid your issue is to not get hit so often or be tough enough to deal with it. Regeneration is very nice, of course, but should not be regarded as a salvation for a lacklustre build that might shine in areas other than staying alive (or am I simply showing my own prejudices here?).<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:26 PM - Dec 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>I play EE. The regen healing can be somewhat spread out\u00a0 during the round. When one is outside of combat, one can see this in the tracker messages. Something like, \"heals 1 hp,heals 1 hp,\" PAUSE, \"Heals 1hp\".</div></blockquote>That is odd.<br/>\n<br/>\nI have a character with 7 different  regen items equipped (WoG only allows +1 regen per item) and they all proc at the bottom of the round...dead last.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "4:14 AM - Dec 20, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I confirm <em class=\"mention\">@webshaman1</em>\u00a0is right. Tested on a character who has two items, each with +1 regen x8. Paused the game every split second. Only a moment in a round, though combat log would show +1hp x16, instead of +16hp.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

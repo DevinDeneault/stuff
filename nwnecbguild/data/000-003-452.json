@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "452",
+  "name": "Cleric/Rogue (Arelith)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cleric-rogue-arelith-t2282929.html",
+  "author": "SolidusMath",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "SolidusMath",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:06 PM - Aug 28, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">How would an ECB built CLR24/ROG6 built for Arelith look like?<br/>\nThanks for the help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:15 PM - Aug 28, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>SolidusMath wrote:</strong>How would an ECB built CLR24/ROG6 built for Arelith look like?<br/>\nThanks for the help.</div></blockquote>\n\n for starters, it wouldn't be a Cleric 24 / Rogue 6 because of this:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/a-complete-guide-to-the-basics-of-character-building-t515440.html\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.44.forumer.com/a-com ... 15440.html</a><br/>\n<br/>\nYou should definitely take the time to read it, as there is a lot of very important information there. You nearly always should add a 3rd class. That is sort of a basic building rule. <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:03 AM - Aug 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A third class is usually useful, but I wouldn't add a third class just to add a third class. One of the best builds ever is a single class, the Melee Mage.<br/>\nI can throw a Cleric 24 Rogue 6 together within an hour and edit into this post.<br/>\n<br/>\n<strong>EDIT:</strong> ... And here it is. With your high WIS, you won't need Spell Focus, and the Spell Penetration feats make you penetrate as if you were a pure level 30 Cleric. Zen Archery was my solution for how to get a good AB.<br/>\nI just noticed that if you replace those last 2 Great WIS feats with Epic Prowess and Armor Skin, you would get the same AB and +2 AC, at the cost of -1 DC for your spells and a couple fewer spells per day, and -1 on Will saves. It might be worth while.<br/>\n<br/>\nArelith Clever Cleric (Cleric 24 / Rogue 6)<br/>\nHuman, Any Alignment<br/>\nPlayable 1 - 30<br/>\nOnly legal on Arelith with gifts for WIS +2 and INT +2.<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 14<br/>\nCON: 10<br/>\nWIS: 18 (28)<br/>\nINT: 16<br/>\nCHA: 10<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Blind Fight, Extend Spell, Domain Magic, Domain Trickery<br/>\n02: Cleric(2)<br/>\n03: Cleric(3): Weapon Proficiency Martial<br/>\n04: Cleric(4): WIS+1, (WIS=19)<br/>\n05: Cleric(5)<br/>\n06: Rogue(1): Zen Archery<br/>\n07: Rogue(2): {Evasion}<br/>\n08: Rogue(3): WIS+1, {Uncanny Dodge I}, (WIS=20)<br/>\n09: Cleric(6): Weapon Focus: Longbow<br/>\n10: Cleric(7)<br/>\n11: Cleric(8)<br/>\n12: Cleric(9): WIS+1, Point Blank Shot, (WIS=21)<br/>\n13: Cleric(10)<br/>\n14: Cleric(11)<br/>\n15: Cleric(12): Spell Penetration<br/>\n16: Cleric(13): WIS+1, (WIS=22)<br/>\n17: Rogue(4)<br/>\n18: Cleric(14): Greater Spell Penetration<br/>\n19: Cleric(15)<br/>\n20: Cleric(16): WIS+1, (WIS=23)<br/>\n21: Cleric(17): Epic Weapon Focus: Longbow<br/>\n22: Rogue(5)<br/>\n23: Cleric(18)<br/>\n24: Cleric(19): WIS+1, Great Wisdom I, (WIS=25)<br/>\n25: Cleric(20)<br/>\n26: Cleric(21)<br/>\n27: Rogue(6): Great Wisdom II, (WIS=26)<br/>\n28: Cleric(22): WIS+1, (WIS=27)<br/>\n29: Cleric(23): Epic Spell Penetration<br/>\n30: Cleric(24): Great Wisdom III, (WIS=28)<br/>\n<br/>\nStats:<br/>\nHitpoints: 228<br/>\nSkillpoints: 234<br/>\nSaving Throws (Fortitude/Will/Reflex): 16/25/16<br/>\nSaving Throw bonuses: Spells: +7, Traps: +1<br/>\nBAB: 20<br/>\nAB (max, naked): 21 (melee), 32 (ranged)<br/>\nAC (naked/mundane armor/shield only): 18/28<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nConcentration 33(33), Disable Trap 30(33), Lore 13(16), Open Lock 30(32), Search 30(33), Spellcraft 32(35), Spot 21(30), Tumble 30(32), UMD 15(15)<br/>\n<br/>\n01: Concentration(4), Lore(4), Spellcraft(4), Save(12)<br/>\n02: Concentration(1), Spellcraft(1), Save(16)<br/>\n03: Concentration(1), Spellcraft(1), Save(20)<br/>\n04: Concentration(1), Spellcraft(1), Save(24)<br/>\n05: Concentration(1), Save(29)<br/>\n06: Disable Trap(9), Open Lock(9), Search(9), Spot(3), Tumble(9), UMD(2)<br/>\n07: Disable Trap(1), Open Lock(1), Search(1), Tumble(1), UMD(8)<br/>\n08: Disable Trap(1), Open Lock(1), Search(1), Spot(6), Save(3)<br/>\n09: Concentration(4), Spellcraft(5)<br/>\n10: Concentration(1), Spellcraft(1), Save(4)<br/>\n11: Concentration(1), Spellcraft(1), Save(8)<br/>\n12: Concentration(1), Spellcraft(1), Save(12)<br/>\n13: Concentration(1), Spellcraft(1), Save(16)<br/>\n14: Concentration(1), Spellcraft(1), Save(20)<br/>\n15: Concentration(1), Save(25)<br/>\n16: Concentration(1), Save(30)<br/>\n17: Disable Trap(9), Open Lock(9), Search(9), Tumble(10), UMD(5)<br/>\n18: Concentration(2), Spellcraft(4)<br/>\n19: Concentration(1), Spellcraft(1), Save(4)<br/>\n20: Concentration(1), Save(9)<br/>\n21: Concentration(1), Save(14)<br/>\n22: Disable Trap(5), Open Lock(5), Search(5), Spot(6), Tumble(5)<br/>\n23: Concentration(2), Spellcraft(4)<br/>\n24: Concentration(1), Spellcraft(1), Save(4)<br/>\n25: Concentration(1), Save(9)<br/>\n26: Concentration(1), Save(14)<br/>\n27: Disable Trap(5), Open Lock(5), Search(5), Spot(6), Tumble(5)<br/>\n28: Concentration(2), Lore(4)<br/>\n29: Concentration(1), Spellcraft(5)<br/>\n30: Concentration(1), Lore(5)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:42 PM - Aug 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">LOL Empyre, compare that same build to a Cleric 24 Monk 3 Rogue 3.<br/>\n<br/>\nThis one has +1d6 Sneak Attack damage and a few more skill points.<br/>\n<br/>\nThe Monk one would have +8 more AC (more if you count Wisdom buffs and gear), more movespeed, more HP and Monk Attack progression with a Kama. It's not even funny how much stronger the build becomes just by adding Monk.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:28 PM - Aug 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That would essentially be <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/post20214858.html#p20214858\" rel=\"noreferrer\" target=\"_blank\"><strong>this build</strong></a> that I already built for him.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "6:33 PM - Aug 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>That would essentially be <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/post20214858.html#p20214858\" rel=\"noreferrer\" target=\"_blank\"><strong>this build</strong></a> that I already built for him.</div></blockquote>\n\nyeah, which was why I told him that he would need at 3rd class. How about Fighter 4 then? WS, EWS, and 2 more bonus feats? CoT for 2 feats and the saves boost? IMO, as I said, almost always there is benefit of adding a 3rd class. The OP PMed me about it that he would read the game guides section and learn the craft, so he's already pointed in the right direction.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:24 AM - Aug 30, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe we built one with Fighter 4 in that other thread, too. He might have wanted only those 2 classes for roleplay reasons.<br/>\nI agree that a third class would almost always be beneficial, but still, I think the rule should not be \"Always have a third class\", but \"Always check to see if you would benefit from a third class.\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "9:34 PM - Aug 30, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>I believe we built one with Fighter 4 in that other thread, too. He might have wanted only those 2 classes for roleplay reasons.<br/>\nI agree that a third class would almost always be beneficial, but still, I think the rule should not be \"Always have a third class\", but \"Always check to see if you would benefit from a third class.\"</div></blockquote>\n\nWell, if that were the rule, then the answer would always be yes, therefore the other rule. But, RP is a whole different thing. I am not and cannot argue in favor of RP-oriented build choices, as it's a very personal thing. I know someone, for example, who never takes KD or IKD with Paladins because he says knocking your enemies down is unlawful. However, the fact remains that KD and IKD will make a Paladin build stronger, regardless of RP.<br/>\n<br/>\nI guess what I'm trying to say is that this is the ECB, we specialize in building powerful toons here, which sometimes, depending on some players' interpretation of RP, can be against character, but from a powergaming point of view, which is the one we emphasize here, the rule should definitely be \"always add a third class if you want to build EPIC characters\". Perhaps we could add a PS at the end, something along the lines of: \"uness you are going for a RP concept and wish to just make the best possible build within a certain concept\".<br/>\n<br/>\nI was gonna say some other things, but I gotta go to work. This could be a nice topic for discussion in the General Discussion forum, maybe I'll start a thread there when I have time to avoid derailing this topic here from what the OP intended it to be.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

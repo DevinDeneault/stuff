@@ -1,0 +1,68 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "979",
+  "name": "Arelith Front line bard",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-front-line-bard-t2354866.html",
+  "author": "illcat",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "illcat",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:13 AM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was hoping someone familiar with the Aerilith PW could help me with a half-elf front line, Str-based bard build with effective taunts, and probably chain armor/two handed weapons to avoid the spell casting penalty. I've never played a bard before, I'm thinking they could be a nifty spellsword type of build. <br/>\n<br/>\nAerilith only goes to level 30, dev crit is disabled, and RDD is restricted. I believe half elf gets dodge for free.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:12 AM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi, Illcat, and welcome!<br/>\n<br/>\nBefore heading down the Arelith road, please have a look at Mick Dagger's Guide for Bards in the Game Guides sub-forum. Then you can refine what you're looking for.<br/>\n<br/>\nHope that's ok?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:20 PM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why sacrifice your AC for the spell failure? Take the heaviest of armours, the biggest of shields, it does not matter, \"still spell\" will take care of it ;)<br/>\n<br/>\nWith Arelith's heavy restrictions and only 30 levels simple is also effective, \"bard 24/ fighter 6\" will give you indispellability, the epic song, ews, four attacks &amp; some bonus feats. You could \"sprinkle\" a single pally level in there to get charisma-to-saves normally but in Arelith that would have to be 20/ 4/ 6 and you would lose you only bonus epic feat e.t.c.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "illcat",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:58 PM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nWhy sacrifice your AC for the spell failure? Take the heaviest of armours, the biggest of shields, it does not matter, \"still spell\" will take care of it ;)<br/>\n<br/>\nWith Arelith's heavy restrictions and only 30 levels simple is also effective, \"bard 24/ fighter 6\" will give you indispellability, the epic song, ews, four attacks &amp; some bonus feats. You could \"sprinkle\" a single pally level in there to get charisma-to-saves normally but in Arelith that would have to be 20/ 4/ 6 and you would lose you only bonus epic feat e.t.c.\n</div></blockquote>\n<br/>\nThe Bard/Fighter split is probably the most flexible RP wise without dipping pally, because it doesn't require Lawful Good behavior. I think paladin would only add a few points to saves at 16 charisma. I like the idea of indispellability , every time my battle cleric steps into a room the mob immediately goes for the dispel and i'm left having to cast darkness and go in with only half buffs. Would you dip the first 3 fighter levels early so you can wear full plate while leveling or is it better to save it for later for epic bonus feats. From reading the guide I know you want high taunt and perform, but like I said i've never tried a bard before so I'm unsure what leveling progression to use.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:11 PM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would take the first Fighter levels early but not straight away so that I could get more skill points by going first levels as Bard. In total, you should aim for a 16/4 split pre-epic and add the last two levels afterwards. Later, I might do a simple guide for you, so that you can see the exact build as it stands.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "illcat",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:18 PM - Apr 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nI would take the first Fighter levels early but not straight away so that I could get more skill points by going first levels as Bard. In total, you should aim for a 16/4 split pre-epic and add the last two levels afterwards. Later, I might do a simple guide for you, so that you can see the exact build as it stands.\n</div></blockquote>\n\nThat'd be appreciated, thank you very much.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:36 AM - Apr 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a Bard 24/ Fighter 6 build, that I have tried to adapt to the Arelith rules.<br/>\n<br/>\nI have taken 3 gifts for a total of +2 ECL:<br/>\nGift of Might: +2 Str <br/>\nGift of Confidence: +2 Cha <br/>\nGift of Stardom: +6 Perform<br/>\n<br/>\n<strong>Arelith Frontline Bard</strong><br/>\n<br/>\nBard(24), Fighter(6), Human<br/>\nAny non-lawful<br/>\n<br/>\nSTR: 18 (26)<br/>\nDEX: 10<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 16<br/>\n<br/>\n01: Bard(1): Power Attack, Cleave<br/>\n02: Bard(2)<br/>\n03: Bard(3): Curse Song<br/>\n04: Fighter(1): STR+1, Weapon Focus, (STR=19)<br/>\n05: Fighter(2): Blind Fight<br/>\n06: Fighter(3): Knockdown<br/>\n07: Bard(4)<br/>\n08: Fighter(4): STR+1, Weapon Specialization, (STR=20)<br/>\n09: Bard(5): Improved Knockdown<br/>\n10: Bard(6)<br/>\n11: Bard(7)<br/>\n12: Bard(8): STR+1, Still Spell, (STR=21)<br/>\n13: Bard(9)<br/>\n14: Bard(10)<br/>\n15: Bard(11): Empower Spell<br/>\n16: Bard(12): STR+1, (STR=22)<br/>\n17: Bard(13)<br/>\n18: Bard(14): Improved Critical<br/>\n19: Bard(15)<br/>\n20: Bard(16): STR+1, (STR=23)<br/>\n21: Fighter(5): Epic Weapon Focus<br/>\n22: Fighter(6): Epic Weapon Specialization<br/>\n23: Bard(17)<br/>\n24: Bard(18): STR+1, Armor Skin, (STR=24)<br/>\n25: Bard(19)<br/>\n26: Bard(20)<br/>\n27: Bard(21): Epic Prowess<br/>\n28: Bard(22): STR+1, (STR=25)<br/>\n29: Bard(23): Lasting Inspiration<br/>\n30: Bard(24): Great Strength I, (STR=26)<br/>\n<br/>\nHitpoints: 264<br/>\nSaving Throws (Fortitude/Will/Reflex): 16/15/16<br/>\nSaving Throw bonuses: Spells: +7<br/>\nBAB: 21<br/>\nAB (max, naked): 33 (melee), 22 (ranged)<br/>\nAC (naked/mundane armor/shield only): 18/29<br/>\nSpell Casting: Bard(6)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkillpoints: 219 +6<br/>\nConcentration 17(19), Discipline 33(41), Listen 33(32), Perform 33(42), Spellcraft 33(35), Taunt 33(36), Tumble 30(30), UMD 7(10)<br/>\n<br/>\n01: Concentration(4), Discipline(4), Listen(4), Perform(*no ranks yet, only Gift of Stardom = 6), Spellcraft(3), Taunt(4), Tumble(4), UMD(4), Save(1), <br/>\n02: Concentration(1), Discipline(1), Listen(1), Taunt(1), Tumble(1), UMD(1), Save(2), <br/>\n03: Concentration(1), Discipline(1), Listen(1), Taunt(1), UMD(1), Save(4), <br/>\n04: Concentration(1), Discipline(1), Save(7), <br/>\n05: Concentration(1), Discipline(1), Save(10), <br/>\n06: Concentration(1), Discipline(1), Save(13), <br/>\n07: Discipline(1), Listen(4), Spellcraft(5), Taunt(4), Tumble(5), UMD(1), <br/>\n08: Concentration(2), Discipline(1), Save(2), <br/>\n09: Concentration(1), Discipline(1), Listen(2), Taunt(2), Save(3), <br/>\n10: Concentration(1), Discipline(1), Listen(1), Perform(3), Taunt(1), Save(3), <br/>\n11: Concentration(1), Discipline(1), Listen(1), Taunt(1), Save(6), <br/>\n12: Concentration(1), Discipline(1), Listen(1), Perform(3), Taunt(1), Tumble(5), Save(1), <br/>\n13: Concentration(1), Discipline(1), Listen(1), Taunt(1), Save(4), <br/>\n14: Concentration(1), Discipline(1), Listen(1), Spellcraft(5), Taunt(1), Save(2), <br/>\n15: Discipline(1), Listen(1), Perform(3), Taunt(1), Save(3), <br/>\n16: Discipline(1), Listen(1), Spellcraft(5), Taunt(1), Save(2), <br/>\n17: Discipline(1), Listen(1), Taunt(1), Tumble(5), Save(1), <br/>\n18: Discipline(1), Listen(1), Perform(3), Taunt(1), Save(2), <br/>\n19: Discipline(1), Listen(1), Perform(3), Taunt(1), Save(3), <br/>\n20: Discipline(1), Listen(1), Perform(6), Taunt(1), Save(1), <br/>\n21: Discipline(1), Save(5), <br/>\n22: Discipline(1), Save(9), <br/>\n23: Discipline(1), Listen(2), Perform(5), Taunt(3), Tumble(5), <br/>\n24: Discipline(1), Listen(2), Perform(1), Taunt(1), Save(2), <br/>\n25: Discipline(1), Listen(1), Perform(1), Spellcraft(5), Taunt(1), <br/>\n26: Discipline(1), Listen(1), Perform(1), Taunt(1), Save(3), <br/>\n27: Discipline(1), Listen(1), Perform(1), Taunt(1), Tumble(5), Save(1), <br/>\n28: Discipline(1), Listen(1), Perform(1), Taunt(1), Save(4), <br/>\n29: Discipline(1), Listen(1), Perform(1), Spellcraft(5), Taunt(1), Save(2), <br/>\n30: Discipline(1), Listen(1), Perform(1), Spellcraft(5), Taunt(1),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:58 AM - Apr 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is looking good Mick, it is almost the same build I would do and makes for a versatile and strong character overall.<br/>\n<br/>\nEdit: Perhaps you could also put \"lingering song\" somewhere to help with the levelling process, but that's it I wouldn't change anything else.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:53 PM - Apr 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nThis is looking good Mick, it is almost the same build I would do and makes for a versatile and strong character overall.<br/>\n<br/>\nEdit: Perhaps you could also put \"lingering song\" somewhere to help with the levelling process, but that's it I wouldn't change anything else.\n</div></blockquote>\n\nThank you Valerfor!<br/>\nIt has happened before that we build strength Bards that look like twins. I don't know if you remember your \"Strongest bard in the West\" and my \"Strongest bard in the east\"?<br/>\n<br/>\nAs for tweaks for this build, Lingering is possible. IKD is perhaps the one feat\u00a0that can go. Another tweak is to remove Lasting Impression and replace it with epic skill focus perform. That will give you a lvl 20 song (a lvl 21 song with buffs) and some better effects on skills from the songs.<br/>\nHere you also want to take into consideration how high\u00a0perform bonus you can get on various items.<br/>\n<br/>\nBut Lasting Impression and IKD\u00a0are my first choices.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

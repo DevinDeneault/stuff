@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "761",
+  "name": "Elven Archer Tank (Bard 7 / AA 13 / PM 20)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-archer-tank-bard-7-aa-13-pm-20-t2355244.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:52 AM - Nov 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">My AB balancing adventures with the Pale Master class continues!<br/>\n<br/>\n<br/>\nThis time I have created a Dex-based Elven Archer Tank.<br/>\n<br/>\n<br/>\nTo tank for your party.<br/>\n<br/>\n<br/>\nYes\u00a0 - elf - archer\u00a0 - to tank for the party...<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nArcane archer to pump that AB to a very acceptable level (I got it to Base 45 AB). Up to 6 APR / round with haste and rapid shot.\u00a0<br/>\n<br/>\nRest of the stat points into constitution to get the HP nice and high<br/>\n<br/>\nPale Master makes this dude crit and sneak attack immune<br/>\n<br/>\nIts has a silly amount of AC naked, like 43 AC with EMA, with no items<br/>\n<br/>\nNo uncanny dodge though, I don't think PM has that ability<br/>\n<br/>\nIt's got Taunt to lower enemy's AC so your teammates can whack em, if they are silly enough to come into melee range.<br/>\n<br/>\nCalled Shot too, to shoot their legs so they are crawling with a low AC from all that negative dexterity you are dishing out (heh up to -12 negative dex / round, if you hit all those called shots)<br/>\n<br/>\nIf you get in trouble you have the Epic Warding spell to help you out<br/>\n<br/>\nHeh I wanted lots of skill points with those elven keen senses<br/>\n<br/>\nTheres a handful of these archer tank builds sitting in the archives:<br/>\n<details><summary>Spoiler</summary>PaleMaster Archer\u00a0bard 5 / arcane archer 19 / pale master 16\u00a0(elf)\u00a0by evo_dragon\nLesser Undead Artillery\u00a0bard 5 / pale master 16 / arcane archer 19\u00a0(half-elf)\u00a0by GhostNWN</details>\n<br/>\nWith nearly 500 HP this is a very silly elven melee archer tank build that might just work!<br/>\n<details><summary>Spoiler</summary>Bard(7), Arcane Archer(13), Pale Master(20), Elf\nSTR: 10\nCON: 12 (18)\nINT: 16\n\n01: Bard(1): Point Blank Shot\n03: Bard(3): Weapon Focus: Longbow\n05: Pale Master(2)\n07: Pale Master(4)\n09: Pale Master(6): Called Shot\n11: Arcane Archer(1)\n13: Arcane Archer(3)\n15: Arcane Archer(5): Rapid Shot\n17: Arcane Archer(7)\n19: Arcane Archer(9)\n21: Pale Master(7): Epic Weapon Focus: Longbow\n23: Pale Master(8)\n25: Pale Master(10)\n27: Pale Master(12): Great Dexterity I, (DEX=19)\n29: Arcane Archer(11)\n31: Pale Master(15)\n33: Pale Master(16): Great Dexterity II, Epic Spell: Epic Mage Armor, (DEX=22)\n35: Pale Master(18)\n37: Pale Master(20)\n39: Arcane Archer(13): Great Dexterity IV, (DEX=25)\n\nSkillpoints: 261\nSaving Throw bonuses: Spells: +7, Mind Effects: +2\nAB (max, naked): 27 (melee), 45 (ranged)\nSpell Casting: Bard(2)\n\n\n01: Discipline(4), Listen(4), Open Lock(1), Perform(2), Search(1), Taunt(4), Tumble(4), UMD(4), Save(2),\u00a0\n03: Discipline(1), Listen(1), Search(1), Taunt(1), Tumble(1), UMD(1), Save(1),\u00a0\n05: Search(1), Save(9),\u00a0\n07: Search(1), Save(17),\u00a0\n09: Search(1), Save(25),\u00a0\n11: Listen(3), Search(1), Save(2),\u00a0\n13: Search(1), Save(14),\u00a0\n15: Save(28),\u00a0\n17: Save(42),\u00a0\n19: Save(56),\u00a0\n21: Listen(1), Spellcraft(24), Save(43),\u00a0\n23: Listen(1), Spellcraft(1), Save(3),\u00a0\n25: Listen(1), Spellcraft(1), Save(9),\u00a0\n27: Listen(1), Spellcraft(1), Save(15),\u00a0\n29: Listen(1), Save(24),\u00a0\n31: Spellcraft(1), Save(30),\u00a0\n33: Listen(5),\u00a0\n35: Listen(5),\u00a0\n37: Listen(1), Spellcraft(2), Save(3),\u00a0\n39: Listen(1), Save(15),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:04 PM - Nov 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm...no heavy armor to help with that loss of Dex AC because there is no Uncanny Dodge - and firing a bow in melee gets AoO - if this build gets surrounded, it's gonna get mashed! I don't see it being too tanky!\u00a0 EW is going to carry it for awhile, but then...it's 1/day.<br/>\n<br/>\nNo Str for Mighty, no WS/EWS to add any extra damage.<br/>\n<br/>\nAA levels are a bit low to make up for this.<br/>\n<br/>\nBut it is a beefy plinker.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

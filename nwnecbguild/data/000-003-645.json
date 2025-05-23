@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "645",
+  "name": "Average Joe WoG Explorer: Cleric 15 / Rogue 13 / Ranger 12",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/average-joe-wog-explorer-cleric-15-rogue-13-ranger-t2355417.html",
+  "author": "SnorriHT",
+  "avatar": "no_avatar.png",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:21 PM - Mar 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">\"Average Joe\" trades epic level abilities for versatile exploration. I am playing this build on WoG, where the Ranger receives extra skill points. Average Joe has worked well solo and has been very forgiving of my newbie mistakes. I can't find a similar build in the archives; I suspect it is because Average Joe lacks the power that epic class levels provide.\u00a0 Experienced WoG players would have the knowledge and skills to play something better.<br/>\n<br/>\nThis is a Cleric heavy armour build that brings options to the table. It is designed to operate under invisibility (extended) with a high search and spot. As such the Trickery Domain is vital to this build, with your choice of the other domain. I chose Death because the Shadow is an excellent distraction at low levels. It's also nice to play an emo Dark Knight of Nerull :-P <br/>\n<br/>\nThe intention is to use spell slots for Sanctuary, Divine Favor, Invisibility, Improved Invisibility and healing. Other spells will be added according to the situation. High concentration allows for the defensive casting of spells in combat. It also has (hopefully) enough buffer to successfully cast if I forget to engage defensive casting in the heat of the battle.<br/>\n<br/>\nRanger provides Discipline, skill points, martial weapon proficiency, extra hit points and +1 BaB before 20 and that fourth attack. The Ranger Pet will be a convenient speed bump as part of an escape plan. Ranger can also provide Ultravision, Protection from Elements, Neutralise Poison and some minor Favored Enemy bonuses.<br/>\n<br/>\nRogue and Ranger skill points are utilised for spot, search, listen and set traps. Rogue also provides disable trap, open locks, tumble and UMD. Sneak Attack and Crippling Strike round out the build. The Rogue skills can be further boosted by the Trickery Domain. A lesser amulet / amulet of the Master is also on my shopping list. <br/>\n<br/>\nIn a party Average Joe could provide the key rogue skills, restorative spells, raise dead/resurrection and weak healing. \u00a0Knockdown, sneak attack and crippling strike would also be valuable in a fight. High discipline and STR would also allow Average Joe to be a Clayton's tank (the tank you have when you don't have a tank). <br/>\n<br/>\nAdvantages<br/>\n- +6 vs spells, UMD allows casting of 9th level spells (eventually) <br/>\n- high Discipline and +6 Tumble AC<br/>\n- Invisibility / Crippling Strike / Sneak attack combo<br/>\n- can set most deadly traps in heavy armour (take 20)<br/>\n- very forgiving for a new player exploring the dangerous WoG.<br/>\n- Slippery Mind (eventually)<br/>\n- 8th level Cleric spells (eventually)<br/>\n<br/>\nDisadvantages<br/>\n- easily dispellable<br/>\n- average AB for a multiclass<br/>\n- Reflex save could be better<br/>\n- lacks the punch of epic class levels<br/>\n- missing that defining epic level feat (i.e. devastating critical, epic damage reduction etc)<br/>\n<br/>\n<details><summary>Spoiler</summary>Cleric(15), Rogue(13), Ranger(12), Human\nSTR: 15 (26)\nCON: 14\nINT: 14\n\u00a0\n01: Rogue(1): Blind Fight, Point Blank Shot\n03: Ranger(1): Weapon Focus: Longsword, Favored Enemy: Undeads, {Dual Wield}\n05: Rogue(2): {Evasion}\n07: Cleric(3)\n09: Ranger(3): Improved Knockdown\n11: Ranger(4)\n13: Cleric(5)\n15: Rogue(5): Toughness\n17: Ranger(6)\n19: Cleric(7)\n21: Cleric(8): Epic Weapon Focus: Longsword\n23: Rogue(8)\n25: Ranger(8)\n27: Rogue(10): Great Strength I, Crippling Strike, (STR=21)\n29: Cleric(10)\n31: Rogue(11)\n33: Cleric(12): Great Strength III, (STR=24)\n35: Rogue(12)\n37: Cleric(14)\n39: Rogue(13): Great Strength V, Slippery Mind, (STR=26)\n\u00a0\nSkillpoints: 335\nSaving Throw bonuses: Spells: +6, Traps: +2\nAB (max, naked): 37 (melee), 27 (ranged)\nSpell Casting: Cleric(8),Ranger(3)\n\u00a0\n\u00a0\n01: Appraise(4), Disable Trap(4), Heal(4), Listen(4), Lore(4), Open Lock(4), Search(4), Set Trap(4), Spot(4), Tumble(4), UMD(4), \n03: Concentration(1), Discipline(4), Listen(1), Search(1), Set Trap(1), Spot(1), \n05: Appraise(1), Disable Trap(3), Open Lock(3), Set Trap(1), Tumble(2), UMD(2), \n07: Concentration(1), Lore(1), Spellcraft(1), \n09: Concentration(1), Discipline(3), Listen(1), Search(1), Set Trap(1), Spot(2), \n11: Concentration(1), Discipline(3), Listen(1), Search(1), Set Trap(2), Spot(1), \n13: Concentration(2), Spellcraft(1), \n15: Appraise(1), Disable Trap(3), Open Lock(2), Search(1), Tumble(2), UMD(3), \n17: Concentration(1), Discipline(3), Listen(1), Search(2), Set Trap(1), Spot(2), \n19: Concentration(2), Spellcraft(1), \n21: Concentration(2), Spellcraft(2), \n23: Disable Trap(3), Open Lock(2), Search(2), Tumble(2), UMD(2), \n25: Concentration(1), Discipline(5), Listen(2), Search(1), Spot(1), \n27: Disable Trap(1), Open Lock(2), Search(1), Tumble(2), UMD(3), \n29: Concentration(2), Spellcraft(2), \n31: Disable Trap(3), Open Lock(2), Tumble(2), UMD(4), \n33: Spellcraft(5), \n35: Disable Trap(2), Open Lock(2), Search(2), Spot(1), Tumble(3), UMD(3), \n37: \n39: Disable Trap(3), Listen(1), Open Lock(3), Search(1), Tumble(3), UMD(2), \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:01 AM - Mar 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for posting this SnorriHT<br/>\nIt's an interesting Jack of all Trades which can solve a lot of problems<br/>\nIts weakness as you noted is it can get dispelled, but there ways to try to manage that albeit difficult if the DMs have set up things that every second man and his dog will cast greater dispelling or Mord's on you<br/>\nThe Player vs DM battle &amp; the balance of power is fascinating to watch and in the environment you are planning to play it in it is an enjoyable balance that challenges the player to grow<br/>\n<br/>\nHere are suggestions, hope they help\n<details><summary>Spoiler</summary>Playing this on WoG I would drop search by 10 to around 20 modified and increase Spot by 10 to about 40 modified\nThe extra skill points can go into tumble trying to get tumble 40, 2 AC can make a difference\nI would be tempted to rush Cleric 15 asap if possible\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:12 AM - Mar 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Orion,<br/>\n<br/>\nI'll take on your suggestions and play with the spreadsheet. <br/>\n<br/>\nTesting has shown that more Cleric levels would be a good idea before 20.<br/>\n<br/>\nI also found the Death Domain summon, even when dead or unsummoned, prevents horseriding until a rest. Very frustrating when one has 5 hours to rest and it's a long walk back to Borderkeep. So I'm going to look at a different Cleric domain.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:58 PM - Mar 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That problem with the horses is common for many persistent summons. Get boots of travelling as soon as possible, then you don't have to worry about it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:33 PM - Mar 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the tip gkorjax,<br/>\n<br/>\nI will save up for a pair.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

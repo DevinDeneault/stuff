@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "032",
+  "name": "A question about Bigby spells",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-question-about-bigby-spells-t2356166.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "11:45 AM - Oct 06, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As per my understanding, Bigby 7 and 9 are identical in how they work. The spells work in two steps: hand must first hit the target then succeed in a grapple check. I am not sure how the first step works. According to nwnwiki, hands must first make a specialized attack roll (d20 plus adding caster level and ability modifier) against the target\u2019s armor class. If the roll is 20, will it always proceed to the second step of the spell? Basically, does this roll follow the rule that an unmodified attack roll of 20 always hits?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:31 PM - Oct 06, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is no mention of a Nat 20 making the success of this spell automatic;<br/>\n<br/>\nIt is a special attack roll.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

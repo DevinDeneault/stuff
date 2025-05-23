@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "039",
+  "name": "Concealed Blademaster (Fighter 20/WM 7/SD 13)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/concealed-blademaster-fighter-20-wm-7-sd-13-t2354755.html",
+  "author": "KidMiracleman",
+  "avatar": "10714033_1519247364.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:58 AM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Concealed Blademaster (Fighter 20/WM 7/SD 13)<br/>\nXylophone<br/>\n\u00a0<br/>\nJoined: 08 May 2004<br/>\nProfile: Tuesday, 15 November 2005 03:42AM<br/>\nPlayable in PvE from 1-40.<br/>\n\u00a0<br/>\nNo story with this... it's one of the versions of a dex-WM build I've been working on for some time. This version gets self-conceal 3.<br/>\n\u00a0<br/>\nElf, all alignments<br/>\nStr 14<br/>\nDex 18<br/>\nCon 12<br/>\nInt 14<br/>\nWis 10<br/>\nCha 8<br/>\n\u00a0<br/>\n1 Ftr (1): Weapon Finesse, Weapon Focus (Rapier)<br/>\n2 Ftr (2): Dodge<br/>\n3 Ftr (3): Iron Will<br/>\n4 Ftr (4): +1 dex, Weapon Specialization (Rapier)<br/>\n5 Ftr (5):<br/>\n6 Ftr (6): Expertise, Mobility<br/>\n7 Ftr (7):<br/>\n8 Ftr (8): +1 dex, Spring Attack<br/>\n9 Ftr (9): Whirlwind Attack<br/>\n10 Ftr (10): Called Shot*<br/>\n11 WM (1):<br/>\n12 WM (2): +1 dex, Improved Critical (Rapier)<br/>\n13 WM (3):<br/>\n14 WM (4):<br/>\n15 WM (5): Toughness*<br/>\n16 WM (6): +1 dex<br/>\n17 WM (7):<br/>\n18 Ftr (11): Power Attack*<br/>\n19 Ftr (12): Blind-Fight<br/>\n20 Ftr (13): +1 dex<br/>\n21 Ftr (14): Great Dex 1, Epic Weapon Focus (Rapier)<br/>\n22 SD (1):<br/>\n23 SD (2):<br/>\n24 SD (3): +1 dex, Great Dex 2<br/>\n25 SD (4):<br/>\n26 SD (5):<br/>\n27 SD (6): Great Dex 3<br/>\n28 SD (7) +1 dex<br/>\n29 SD (8):<br/>\n30 SD (9): Great Dex 4<br/>\n31 SD (10):<br/>\n32 SD (11): +1 dex<br/>\n33 Ftr (15): Epic Dodge<br/>\n34 Ftr (16): Epic Weapon Specialization (Rapier)<br/>\n35 Ftr (17):<br/>\n36 Ftr (18): +1 dex, Self-Conceal 1, Epic Prowess<br/>\n37 Ftr (19):<br/>\n38 SD (12):<br/>\n39 SD (13): Self-Conceal 2, Self-Conceal 3<br/>\n40 Ftr (20): +1 dex, Armor Skin<br/>\n<br/>\nFor some reason, I can't take Epic Dodge at level 33 even though I have all the prerequisites<br/>\n<br/>\nSuggestions??<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:47 AM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I checked the wiki, and Epic Dodge is not on the list of feats that cannot be taken on a Fighter level, so that's not the problem. Are you sure you have ALL the prerequisites? I see that you have the required feats and 25+ DEX by then, but do you have 30 Tumble?<br/>\n<br/>\nIf your opponent has Blind Fight, he gets to make two concealment rolls and only if both rolls fail does the concealment block his attack, which effectively squares the concealment, so 50% becomes 25%, 40% becomes 16%, 30% becomes 9%, 20% becomes 4% and 10% becomes 1%. Because of this, builders usually go for all five Self Concealment feats, or they don't bother.<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Concealment\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Concealment</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:25 PM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well according to the web page fighters get epic Dodge at level 35<br/>\n<a class=\"postlink\" href=\"https://github.com/jd28/the_awakening/wiki/Fighter\" rel=\"noreferrer\" target=\"_blank\">https://github.com/jd28/the_awakening/wiki/Fighter</a><br/>\nmaybe that has some reason why I can't take it as a fighter.\u00a0 I am able to take it as a SD<br/>\nbut not as a fighter.\u00a0 <br/>\nWeird<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "10:28 PM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm sorry to come into this thread without being helpful, but I would like to take advantage of the \"Concealment\" description provided by Empyre to obtain a little clarification.<br/>\n<blockquote><div>If your opponent has Blind Fight, he gets to make two concealment rolls and only if both rolls fail does the concealment block his attack, which effectively squares the concealment, so 50% becomes 25%, 40% becomes 16%, 30% becomes 9%, 20% becomes 4% and 10% becomes 1%.</div></blockquote>\nI didn't quite catch the logic behind the calculation of the percentages. I mean, if \"blind fight\" allows you to roll two concealment rolls, I'm happy with the fact that 50% concealment is substantially a 25% (halved).<br/>\nBut 16% is not the half of 40%, and the same thought can be valid for the 30%, 20% and 10% percentages. Can you provide me the logic behind these calculations, please?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:11 PM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, without being sure about it, i believe it has something to do with the first chance of success.<br/>\n<br/>\nMeaning that the easier it is to land that first hit the the less are the chances you have to use your blind-fight feat in the first place.<br/>\n<br/>\nStill though, not sure about the logic behind the tables in wiki.<br/>\n<br/>\n<br/>\nI will however share with you a little bit of trivia about HoTU, you remember the third guardian of the path (the Pit -Fiend) right?<br/>\n<br/>\nWell, the players aren't allowed to, but that monster had a - (Unless the combat logs were lying) - total concealment of 70% !!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:18 PM - Oct 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Aquarius 233 wrote:</cite>\nI'm sorry to come into this thread without being helpful, but I would like to take advantage of the \"Concealment\" description provided by Empyre to obtain a little clarification.<br/>\n<blockquote><div>If your opponent has Blind Fight, he gets to make two concealment rolls and only if both rolls fail does the concealment block his attack, which effectively squares the concealment, so 50% becomes 25%, 40% becomes 16%, 30% becomes 9%, 20% becomes 4% and 10% becomes 1%.</div></blockquote>\nI didn't quite catch the logic behind the calculation of the percentages. I mean, if \"blind fight\" allows you to roll two concealment rolls, I'm happy with the fact that 50% concealment is substantially a 25% (halved).<br/>\nBut 16% is not the half of 40%, and the same thought can be valid for the 30%, 20% and 10% percentages. Can you provide me the logic behind these calculations, please?\n</div></blockquote>\n\nI've no idea what bearing this has, but it appears to be a sort of reverse AB, just gradtiated. As you rightly say 50 becomes 25 (2x lower), 40 becomes 16 (2.5 times lower), 30 becomes 9 (3.3 times lower) 20 becomes 4 (5x lower) and 10 becomes 1 (10x lower). I confess, I don't know the answer, but that appears to be the logic - as far as logic can be said to apply, of course!<br/>\n<br/>\nCheers<br/>\n<br/>\n(Some Valerfor ninja-work going on, but I hope this is still useful)<br/>\n<br/>\nAnd maybe, in Valerfor's Pit Fiend example, maybe the 70 become 52 or 53 (roughly 1.5x lower). A hypothetical, I realise, but that might follow the \"logic\"...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:33 AM - Oct 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is actually squared (multiplied by itself).<br/>\nLet's say you roll an attack roll and beat the AC, you normally score a hit.<br/>\nIf you don't hit because of the concealment, BF gives you another chance to beat the concealment.<br/>\nIf the concealment is 50%, it will stop the attack half of the time and not the other half. So you will miss 50% of the time.<br/>\nIf you miss, you get another chance, and this time you will also miss 50% of the time. But 50 % of 50 % is 25 %, so in total you will only miss 25 % of the time when you reroll a 50 % chance.<br/>\nThe math is: 0.5 x 0.5 = 0.25 = 25%<br/>\nWhen the miss chance is 40%, rerolled it becomes 0.4 x 0.4 = 0.16 = 16%<br/>\nFor 30% it is: 0.3 x 0.3 = 0.09 = 9%<br/>\nFor 20% it is: 0.2 x 0.2 = 0.04 = 4%<br/>\nFor 10% it is: 0.1 x 0.1 = 0.01 = 1%<br/>\n<br/>\nHope this clarifies some.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:47 AM - Oct 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, what he said...<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:58 AM - Oct 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick!<br/>\n<br/>\nI knew i could count on you to deliver the correct mathematical explanation.<br/>\n<br/>\n<br/>\nAnd that shows why that bugger of a Pit-Fiend was still hard to hit even with Blind-Fight, his 70% still becomes 49% after BF applies!<br/>\n<br/>\nYou learn something new everyday huh?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:29 AM - Oct 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nThanks Mick!<br/>\n<br/>\nI knew i could count on you to deliver the correct mathematical explanation.<br/>\n<br/>\n<br/>\nAnd that shows why that bugger of a Pit-Fiend was still hard to hit even with Blind-Fight, his 70% still becomes 49% after BF applies!<br/>\n<br/>\nYou learn something new everyday huh?\n</div></blockquote>\n\n70%? I thought 50% was the maximum possible.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "8:45 PM - Oct 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nIt is actually squared (multiplied by itself).<br/>\nLet's say you roll an attack roll and beat the AC, you normally score a hit.<br/>\nIf you don't hit because of the concealment, BF gives you another chance to beat the concealment.<br/>\nIf the concealment is 50%, it will stop the attack half of the time and not the other half. So you will miss 50% of the time.<br/>\nIf you miss, you get another chance, and this time you will also miss 50% of the time. But 50 % of 50 % is 25 %, so in total you will only miss 25 % of the time when you reroll a 50 % chance.<br/>\nThe math is: 0.5 x 0.5 = 0.25 = 25%<br/>\nWhen the miss chance is 40%, rerolled it becomes 0.4 x 0.4 = 0.16 = 16%<br/>\nFor 30% it is: 0.3 x 0.3 = 0.09 = 9%<br/>\nFor 20% it is: 0.2 x 0.2 = 0.04 = 4%<br/>\nFor 10% it is: 0.1 x 0.1 = 0.01 = 1%<br/>\n<br/>\nHope this clarifies some.\n</div></blockquote>\n\nThank you very much for the clarification, Mick! <br/>\nNever been too much fond of statistics and calculation of probabilities...<br/>\n<br/>\nAnd thank you Valerfor, for the information about the HotU Pit-Fiend!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

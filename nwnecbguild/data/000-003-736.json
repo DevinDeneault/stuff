@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "736",
+  "name": "Thomas the Angry Tank Engine (Barb 28/ F 4/ CoT 8)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/thomas-the-angry-tank-engine-barb-28-f-4-cot-8-t2355281.html",
+  "author": "conlaoch",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:07 PM - Jan 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All,<br/>\n<br/>\nThis one is very much in the development stage. I'm trying to construct a mundane party tank who's a little, shall we say, on the volatile side. I've given him both Terrifying and Mighty Rage, as well as EDRIII and a deep HP pool to help with his less than spectacular AC (which you'd think is a big no-no for a tank). All of this comes at a price, however, so he ain't the strongest in the world. Raging helps, obviously, but I'd welcome your thoughts - including, but hopefully not limited to, \"it's a stupid idea, stop it now\".<br/>\n<br/>\nApologies/ excuses out of the way, do please have a look where I'm currently at...<br/>\n<br/>\nOh, and I haven't factored in the dwarfly stuff yet, sorry.<br/>\n<br/>\n<strong>Raging Tank</strong><br/>\nBarbarian 28/ Fighter 4/ CoT 8<br/>\nAny non-Lawful, non-Evil<br/>\nPvM 1-40<br/>\nDwarf ('cause they're lovely, and they get +4 dodge AC vs Giants, +1 AB vs orcs and goblinoids, +2 lore and search underground, darkvision, and +2 to saves vs poison and spells.)<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 16 (24)<br/>\nDEX 12<br/>\nCON 18 (22)<br/>\nWIS 8<br/>\nINT 14<br/>\nCHA 6<br/>\n<br/>\nHPs - 696<br/>\nSaves - Fort 35, Will 20, Reflex 22 (all +6 vs spells, +2 vs poison)<br/>\nAC - (naked) 17, (full plate) 25, (w/tower shield) 28. +5 w/Expertise<br/>\nSkills - 234: Discipline 43 (50), Intimidate 43 (54), Listen 29 (28), Spellcraft (cc) 18 (20), Taunt 43 (54), Tumble (cc) 20 (21)<br/>\nDR - 15/-<br/>\nTerrifying Rage DC - 54 + 1d10<br/>\nGreater Rage duration - 15 rounds (x8 p/day)<br/>\nMighty Rage duration - 17 rounds (x3 p/day)<br/>\nBAB - 30<br/>\nAB - (max) 41/ 36/ 31/ 26<br/>\n<br/>\n<strong>Levelling</strong><br/>\n<br/>\n1 B1 - Luck of Heroes/ {Rage 1/ Barb speed}<br/>\n2 F1 - Weapon Focus (Battleaxe or Warhammer)<br/>\n3 B2 - Expertise/ {Uncanny Dodge I}<br/>\n4 F2 - Knockdown/ STR+1 (17)<br/>\n5 F3<br/>\n6 F4 - Weapon Specialization (Battleaxe or Warhammer)/ Blind Fight<br/>\n7 B3<br/>\n8 B4 - STR+1 (18)/ {Rage 2}<br/>\n9 B5 - Improved Critical (Battleaxe or Warhammer)<br/>\n10 B6<br/>\n11 B7<br/>\n12 B8 - Improved Knockdown/ CON+1 (19)/ {Rage 3}<br/>\n13 B9<br/>\n14 B10<br/>\n15 B11 - Skill Focus: Intimidate<br/>\n16 B12 - CON+1 (20)<br/>\n17 B13<br/>\n18 B14 - Skill Focus: Taunt<br/>\n19 B15 - {Greater Rage 4}<br/>\n20 B16 - CON+1 (21)/ {Greater Rage 5}<br/>\n21 CoT1 - Epic Damage Resistance I<br/>\n22 CoT2 - Epic Damage Resistance II<br/>\n23 CoT3<br/>\n24 B17 -\u00a0 Epic Damage Resistance III/ CON+1 (22)<br/>\n25 B18<br/>\n26 CoT4 - Epic Weapon Focus (Battleaxe or Warhammer)<br/>\n27 B19 - Terrifying Rage<br/>\n28 CoT5 - STR+1 (19)<br/>\n29 CoT6 - Epic Weapon Specialization (Battleaxe or Warhammer)<br/>\n30 B20 - Great Strength I (20)/ {Greater Rage 6}<br/>\n31 B21<br/>\n32 B22 - STR+1 (21)<br/>\n33 B23 - Great Strength II (22)<br/>\n34 B24 - Mighty Rage/ {Greater Rage 7}<br/>\n35 CoT7<br/>\n36 CoT8 - Epic Skill Focus: Intimidate/ Armour Skin/ STR+1 (23)<br/>\n37 B25<br/>\n38 B26<br/>\n39 B27 - Epic Skill Focus: Taunt<br/>\n40 B28 - Epic Prowess/ STR+1 (24)/ {Greater Rage 8}<br/>\n<br/>\nIf you like, you can swap out LoH (for -1 to all saves) for Exotic Weapons Prof and grab some Dwarven Waraxe - it really rather depends on whether they're readily available where you play. I could bang on about the pointy-eared devils getting swords and bows for free while our bearded heroes don't even get proficiency in their own special weapon, but I won't. Yet.<br/>\n<br/>\nCheers<br/>\n<br/>\n<strong><em>EDIT</em></strong>: Miscalculated DR - I'd only given 2 to each EDR feat rather than 3, so it's 15/-, not 12/-. Have changed it. I've also taken Orion's suggestion about the starting stats on board and adjusted the skill-set accordingly. Now I've just got to factor in the dwarf stuff and take the EDR feats earlier, which I'll do soon.<br/>\n<br/>\n<strong><em>EDIT 2</em></strong>: Done the other stuff now.<br/>\n<br/>\n<em><strong>EDIT 3</strong></em>: And some more, thanks to Orion's additional suggestions. I've also swapped the feats I take the Skill Foci and their epic equivalents around. And I had another thought as well - taking Mighty Rage at Barb 24 (L34) and dropping Epic Prowess down to level 40 as the Barb bonus feat there, while shuffling CoT 8 up to level 36 and taking AS as the bonus feat there. And I must confess I'm now tempted to drop down to 26 levels of Barb and lift it to 10 of CoT. No loss of bonus feat, and +1 to all saves, at the expense of 4 hit points. Hmm.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:34 PM - Jan 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looks interesting Stag, I have yet to play a terrifying rage build yet, and I might take this for a spin one day.<br/>\n<br/>\nI am curious about the starting Dex 13 and Int 13. Would it be better to go Dex 12 Int 14 or am I missing something. Or because you take fighter at lvl 2, with heavy armor proficency even set Dex to 8 and Int to 16 for heaps of skill points. Or put Cha to 10 and consider swapping the pre epic skill foci feats for toughness and iron will<br/>\n<br/>\nWith EDR III it's a powerful ability and I would take those feats much earlier early epic. I noted you take Str 19 at level 12, you could change this to Cons +1 allowing you to take EDR I, II and II at levels 21, 22 and 24.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:32 PM - Jan 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All good suggestions, Orion, thank you! This is exactly why I brought it here now - to counteract my natural inclinations. As for the Dex/ Int thing, that's just me being a nidiot. I knew I needed 13 Int for IKD so simply set it in stone and didn't even look at adjusting it. A 12 Dex/ 14 Int is a much better idea. Those extra 43 skill points will be very useful. I've never liked dropping Dex to 8 (or even 10) because even full plate allows for +1 Dex to AC, and AC is pretty sparse here so I want every drop I can squeeze out of it. I know it isn't min/maxing optimally, but still...<br/>\n<br/>\nAs far as EDR goes, you're right as well. I think I just got twitchy about my AB and damage output. I'll see what I can do. (I'd have loved to take Barb and DwD, but rules is rules I suppose, damn it.)<br/>\n<br/>\nAnd as for Raging in its many forms, (and apparently it's particularly effective on WoG, btw), Greater Rage (Barb15) gives +6 to Str and Con, +3 to Will saves, and -2 to AC, and lasts for Con modifier +9 rounds. Its Terrifying variety lasts 1xd3 rounds and has a DC of Intimidate +1xd10, as well as paralyzing its targets, so all but your sternest pally should be cacking his pants. Mighty Rage is only useable 3 times a day (you can use Mighty and then Greater, but not the other way around), has no AC penalty, lasts for your Con modifier +11 rounds, and grants +8 to both Str and Con, and +4 to Will saves. You do need 21 Str and 21 Con before you can take it, however. I'd love to take it earlier than 40, but I'm doing a weird balancing act, so...<br/>\n<br/>\nI will incorporate your suggestions in an edit, should anyone else contribute. Cheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:01 PM - Jan 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have a Rager on WoG.<br/>\n<br/>\nDon't count on the Str increase to help all that much - it just does not last long enough!<br/>\n<br/>\nMine is based on the Undead Terror build (Barb/Bard/PM)<br/>\n<br/>\nThe Terrifying is great tho - only annoying thing is chasing the buggers down!\u00a0 By the time you have killed 2~3, it has worn off because they all run willy-nilly in all directions!\u00a0 If you can get them all clogged up at a choke point, it's like shooting ducks in a barrel!<br/>\n<br/>\nToo bad one cannot get a feat to increase the number of rages aka extra turning for clerics and pallys.<br/>\n<br/>\nI do like the EDR III however!\u00a0 Sweet!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:23 AM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Quite right, Web. The first thing that irked me with Barbs was hunting victims of Rage down after they've run away - potentially not just time-consuming, but very dangerous to boot. But now, in most arenas (WoG clearly being an exception), Rage freezes foes to the spot, which is much handier.<br/>\n<br/>\nAnd I believe we discussed increasing the number of Rages in my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/terrifying-bane-ranger-22-barbarian-16-sd-2-t2355227.html\" rel=\"noreferrer\" target=\"_blank\">Terrifying Bane</a> thread recently. So we're on the same song-sheet there.<br/>\n<br/>\nAs to the benefits to Strength, here we've got 8x15 rounds (120) per day of Greater Rage (+6 Str) and 3x17 rounds (51) of Mighty Rage (+8 Str). That's not so bad, is it?<br/>\n<br/>\nBarbarian just seems to be an under-utilized class, so I simply wanted to take it out and show it the sights, give it an ice cream, take in a show and so on. And while tanking with one might seem a little perverse, I think we can get it working. I'm more than happy to learn from those who've been around the block once or twice, though.<br/>\n<br/>\nThanks for the insight!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:34 AM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, the buff itself is good, it just doesn't last all that long.\u00a0 And I feel there are too few of them to boot!<br/>\n<br/>\nI do like my Undead Terror.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:55 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've now done an edit to include Orion's suggestions (to be fair, Web's were mostly gripes, so I couldn't do much about that <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />). Unless anyone else has any thoughts, I'll take him for a test-run somewhere soon.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:40 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's looking good Stag<br/>\nUnfortunately I'm not a barbarian player, but I hear whispers that Terrifying Rage is quite handy.<br/>\n<br/>\nDo you want to take this earlier than lvl 32 without hurting the AB?<br/>\n<br/>\nI also think you can take Epic Weapon Specialization earlier than level 34 as well, its a powerful feat for sure.\u00a0<br/>\n<br/>\nI'll try to rejig it below (let me know if there are any errors, this is very rough and quick):<br/>\n<br/>\n26 CoT4 - Epic Weapon Focus (Battleaxe or Warhammer) - bonus feat (bf)<br/>\n27 B19 - Terrifying Rage - general feat (gf)<br/>\n28 CoT5 STR +1 (19)<br/>\n29 CoT 6 - Epic Weapon Specialization (Battleaxe or Warhammer) (bf)<br/>\n30 B20 - Great Strength (20) (gf)<br/>\n31 B21<br/>\n32 B22 -\u00a0 STR+1 (21)/ {Greater Rage 7}<br/>\n33 B23 - Great Strength (22) (gf)<br/>\n34 B24 - Armor Skin (bf)<br/>\n<br/>\nI can't think of much else to add, hope that is helpful.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:10 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, that's good, Orion! I had only thought about taking both Terrifying and Mighty Rages as Barb bonus feats (Barb level 24 and 28), but given that in the re-jigged version I ended up taking AS as a general feat, swapping that for Terry Rage makes sense. Alas, Mighty Rage is only available as a Barb bonus feat (or a general one if taking a level of Barb at the same time, but that would leave Str as a hanging, odd, stat). I'll get it changed.<br/>\n<br/>\nAnd just for the sake of it, it might be worth mentioning that the effects of Terrifying Rage apply to every Greater Rage you undertake, but not its Mighty variant (though I believe the Will saves stack).<br/>\n<br/>\nThanks again!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:51 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Done the edit. Also had a thought that I don't think hinders anything - apart from losing 4 hit points - and gains +1 to all saves. Make it Barb 26/ F 4/ CoT 10. Must give it a mull.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "8:25 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know if it's changed in enhanced edition or on the server(s) where you play, but in 1.69 vanilla the aura of terrifying rage applies to both greater rage and mighty rage. \u00a0Moreover if you have both mighty and greater rage active at a time, you will have two auras active, so everyone has to roll twice against the effect. You can do this by activating mighty rage first, and greater rage after, this way all the effects will stack. Also while the roll is against fear, the effect is actually a paralysis effect, so no one will flee from you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:10 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And don't rage in Critwall :(<br/>\n<br/>\nThe Bugbears now are immune to fear.<br/>\n<br/>\nI used to love sending them gibbering in terror to the far corners of the map...but not anymore!<br/>\n<br/>\nAnd yet another reason not to play Barb on WoG...at least not a Terrifying Rage Barb!\u00a0 What a total waste!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:22 PM - Jan 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><details><summary>Spoiler</summary>\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:05 AM - Jan 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"18242\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18242&amp;sid=5609296159a36f7df27e4f3416f67167#p18242\">\u2191</a><div class=\"responsive-hide\">Jan 06, 2020</div></cite>Done the edit. Also had a thought that I don't think hinders anything - apart from losing 4 hit points - and gains +1 to all saves. Make it Barb 26/ F 4/ CoT 10. Must give it a mull.<br/>\n<br/>\nCheers</div></blockquote>\nIt might seem a little narcissistic quoting myself, but it's a risk I'm prepared to take. The one thing that had completely bypassed what passes for my brain is that I'd lose 1 Greater Rage with the above thought, so I'll leave things as they are.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:42 PM - Jan 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The narcissist test:<br/>\nFirst: Think about yourself!<br/>\n...<br/>\n...<br/>\n...<br/>\nIf you at some point ask what comes next, then you're not a narcissist.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "4:23 PM - Jan 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"18260\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18260&amp;sid=5609296159a36f7df27e4f3416f67167#p18260\">\u2191</a><div class=\"responsive-hide\">Jan 07, 2020</div></cite>The narcissist test:<br/>\nFirst: Think about yourself!<br/>\n...<br/>\n...<br/>\n...<br/>\nIf you at some point ask what comes next, then you're not a narcissist.\u00a0</div></blockquote>\nok.. now I have co-workers looking at me funny cause I started chuckling loudly when reading this....<br/>\n<br/>\nand yes Stag.. they normally look at me funny.. but this isn't one of the (ab)normal reasons..\u00a0 \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

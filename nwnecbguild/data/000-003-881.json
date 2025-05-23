@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "881",
+  "name": "The best DEX-based WM build? Best as in insanely high AB and AC...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-best-dex-based-wm-build-best-as-in-insanely-hi-t2355024.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "3:38 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Sorry to disappoint, but I don't have a suggestion, it's just a question. I heard somewhere that F11, R13, WM16 would yeild the best DEX-fighter. It's not intuitive, actually I would suggest a pure Fighter8, WM32 would max out your AB. Add some monk and you'll change some AB for AC, but still. Also heard something about Ranger 10, WM30, but that can't be right?<br/>\n<br/>\nSo, I guess the build I'm looking for is somewhere in the lvl 40 section, but which? There are so many.... Can I humbly ask for some guidance?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:59 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd suggest Max's <strong>Drow Fencer</strong> (Fighter 14/ Rogue 19/ WM 7) - with a straight AB of 47 and a naked AC of 33.<br/>\n<br/>\nWorth a look, at least.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:48 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want both good AB and good AC, consider a Fighter / Bard / RDD.\u00a0 Here is one with AB 48 and AC 36:\n<details><summary>Spoiler</summary>\nDragon Warrior (Fighter 22 / Bard 8 / Red Dragon Disciple 10)\nPlayable 1 - 40, PvM, PvP\nAbilities:\nDEX: 12\nWIS: 8\nCHA: 8 (10)\nLeveling Guide:\n01: Fighter(1): Luck of Heroes, Power Attack, Weapon Focus: Scimitar\n03: Fighter(2): Cleave, Blind Fight\n05: Fighter(4): Weapon Specialization: Scimitar\n07: Bard(2)\n09: Red Dragon Disciple(3): Toughness\n11: Fighter(5)\n13: Fighter(6): Improved Critical: Scimitar\n15: Fighter(8): Iron Will, Improved Knockdown\n17: Fighter(10): Called Shot\n19: Fighter(11)\n21: Fighter(13): Epic Weapon Focus: Scimitar\n23: Fighter(14): Overwhelming Critical: Scimitar\n25: Fighter(16): Devastating Critical: Scimitar\n27: Bard(6): Great Strength II, (STR=30)\n29: Red Dragon Disciple(5)\n31: Red Dragon Disciple(7): (CON=14)\n33: Red Dragon Disciple(9): Great Strength IV, (STR=34), (INT=16)\n35: Fighter(19)\n37: Bard(7)\n39: Fighter(22): Great Strength VI, Armor Skin, (STR=41)\n\nHitpoints: 472\nSaving Throws (Fortitude/Will/Reflex): 26/24/23\nBAB: 28\nAC (naked/mundane armor/shield only): 25/36\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Listen(5), Lore(1), Perform(4), Spellcraft(3), Tumble(5)\n04: Discipline(1), Lore(1), Save(6)\n06: Discipline(1), Listen(4), Lore(1), Save(8)\n08: Discipline(2), Listen(1), Save(2)\n10: Discipline(1), Listen(1), Save(8)\n12: Discipline(1), Listen(2), Perform(3), Spellcraft(3), Tumble(5), UMD(5)\n14: Discipline(1), Save(8)\n16: Discipline(1), Save(16)\n18: Discipline(1), Listen(6), Spellcraft(10), Tumble(5), UMD(5)\n20: Discipline(1), Save(8)\n22: Discipline(1), Listen(4), Spellcraft(4), Tumble(5), UMD(5)\n24: Discipline(1), Save(8)\n26: Discipline(1), Save(16)\n28: Discipline(1), Save(4)\n30: Discipline(1), Listen(1), Spellcraft(3)\n32: Discipline(1), Listen(1), Lore(3)\n34: Discipline(1), Listen(1), Spellcraft(4)\n36: Discipline(1), Save(10)\n38: Discipline(1), Lore(5)\n40: Discipline(1), Listen(3), Perform(2), Spellcraft(5)</details>\nHe won't get as many crits as a WM, but the DC on his Dev Crit will be really high.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:04 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nIf you want both good AB and good AC, consider a Fighter / Bard / RDD.\u00a0 Here is one with AB 48 and AC 36:\n<details><summary>Spoiler</summary>\nDragon Warrior (Fighter 22 / Bard 8 / Red Dragon Disciple 10)\nPlayable 1 - 40, PvM, PvP\nAbilities:\nDEX: 12\nWIS: 8\nCHA: 8 (10)\nLeveling Guide:\n01: Fighter(1): Luck of Heroes, Power Attack, Weapon Focus: Scimitar\n03: Fighter(2): Cleave, Blind Fight\n05: Fighter(4): Weapon Specialization: Scimitar\n07: Bard(2)\n09: Red Dragon Disciple(3): Toughness\n11: Fighter(5)\n13: Fighter(6): Improved Critical: Scimitar\n15: Fighter(8): Iron Will, Improved Knockdown\n17: Fighter(10): Called Shot\n19: Fighter(11)\n21: Fighter(13): Epic Weapon Focus: Scimitar\n23: Fighter(14): Overwhelming Critical: Scimitar\n25: Fighter(16): Devastating Critical: Scimitar\n27: Bard(6): Great Strength II, (STR=30)\n29: Red Dragon Disciple(5)\n31: Red Dragon Disciple(7): (CON=14)\n33: Red Dragon Disciple(9): Great Strength IV, (STR=34), (INT=16)\n35: Fighter(19)\n37: Bard(7)\n39: Fighter(22): Great Strength VI, Armor Skin, (STR=41)\n\nHitpoints: 472\nSaving Throws (Fortitude/Will/Reflex): 26/24/23\nBAB: 28\nAC (naked/mundane armor/shield only): 25/36\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Listen(5), Lore(1), Perform(4), Spellcraft(3), Tumble(5)\n04: Discipline(1), Lore(1), Save(6)\n06: Discipline(1), Listen(4), Lore(1), Save(8)\n08: Discipline(2), Listen(1), Save(2)\n10: Discipline(1), Listen(1), Save(8)\n12: Discipline(1), Listen(2), Perform(3), Spellcraft(3), Tumble(5), UMD(5)\n14: Discipline(1), Save(8)\n16: Discipline(1), Save(16)\n18: Discipline(1), Listen(6), Spellcraft(10), Tumble(5), UMD(5)\n20: Discipline(1), Save(8)\n22: Discipline(1), Listen(4), Spellcraft(4), Tumble(5), UMD(5)\n24: Discipline(1), Save(8)\n26: Discipline(1), Save(16)\n28: Discipline(1), Save(4)\n30: Discipline(1), Listen(1), Spellcraft(3)\n32: Discipline(1), Listen(1), Lore(3)\n34: Discipline(1), Listen(1), Spellcraft(4)\n36: Discipline(1), Save(10)\n38: Discipline(1), Lore(5)\n40: Discipline(1), Listen(3), Perform(2), Spellcraft(5)</details>\nHe won't get as many crits as a WM, but the DC on his Dev Crit will be really high.\n</div></blockquote>\n\nNow this is what I call a Dex build! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /> Empyre, you bring we STR aficionados back to the party yet again - dismiss us at your peril!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:42 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nI heard somewhere that F11, R13, WM16 would yeild the best DEX-fighter. It's not intuitive...\n</div></blockquote>\nRogue is there for Tumble, UMD, Uncanny dodge etc. Rogue13 is there for ED.<br/>\nI am more a fan of\u00a0 F8 / Ro13 / WM 19, but maybe that's just me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:01 AM - Feb 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Cornflower wrote:</cite>\nI heard somewhere that F11, R13, WM16 would yeild the best DEX-fighter. It's not intuitive...\n</div></blockquote>\nRogue is there for Tumble, UMD, Uncanny dodge etc. Rogue13 is there for ED.<br/>\nI am more a fan of\u00a0 F8 / Ro13 / WM 19, but maybe that's just me.\n</div></blockquote>\nI hear ya Mick, <br/>\nyour option is more efficient overall and doesn't have any \"wasted\" levels, offering at least +1AB in comparison to the build suggested.<br/>\nBy the way, although both builds suggested from both Empyre &amp; Stagmeister are pretty good, I do not think it is what Cornflower is looking for when he says \"Insanely\" high AB/AC.<br/>\nAnd I do not think there is such a build, at all, at least not one that is practical to use.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:13 PM - Feb 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Cornflower wrote:</cite>\nI heard somewhere that F11, R13, WM16 would yeild the best DEX-fighter. It's not intuitive...\n</div></blockquote>\nRogue is there for Tumble, UMD, Uncanny dodge etc. Rogue13 is there for ED.<br/>\nI am more a fan of\u00a0 F8 / Ro13 / WM 19, but maybe that's just me.\n</div></blockquote>\n\nDo you have a link to the spec somewhere? I think F8/Ro13/WM19 seems very interesting.<br/>\n<br/>\nBut, you won't get max AB from that, since you have to take rogue levels pre-epic, yes?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:44 AM - Feb 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You take 3 or 4 Rogue levels, 10 WM levels and 6 or 7 Fighter levels pre epic. <br/>\nIf you max out dexterity (at the cost of Constitution), halfling can reach AB 51 and AC 36, human AB 49 and AC 35. Both get ED. If you give Halfling IKD, there will not be room for Blind Fight. The builds will benefit from not min/maxing too heavily.<br/>\n<br/>\nThere are two builds posted with that class combo in the old archives. One is str based, The dex build is a dual wielding halfling.<br/>\nI have some builds that I can look at, and maybe post something here. <br/>\n(I will be busy for the next couple of days though)<br/>\n<br/>\n<strong>Edit</strong>: I found time to look at it. Here is at least one way to do it with a human character. There are several ways to modify it according to different needs.<br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(8), Rogue(13), Weapon Master(19), \nAlignment: Any\nSTR: 12\nCON: 12\nINT: 14\n\n02: Fighter(1): Weapon Finesse\n04: Fighter(3): DEX+1, (DEX=19)\n06: Fighter(5): Spring Attack\n08: Rogue(2): DEX+1, {Evasion}, (DEX=20)\n10: Weapon Master(2)\n12: Weapon Master(4): DEX+1, Blind Fight, (DEX=21)\n14: Weapon Master(6)\n16: Weapon Master(8): DEX+1, (DEX=22)\n18: Rogue(3): Improved Critical, {Uncanny Dodge I}\n20: Fighter(7): DEX+1, (DEX=23)\n22: Weapon Master(12)\n24: Fighter(8): DEX+1, Great Dexterity II, Epic Weapon Specialization, (DEX=26)\n26: Weapon Master(15)\n28: Rogue(4): DEX+1, (DEX=28)\n30: Rogue(6): Great Dexterity IV, (DEX=29)\n32: Weapon Master(17): DEX+1, (DEX=30)\n34: Rogue(9)\n36: Rogue(11): DEX+1, Great Dexterity VI, (DEX=33)\n38: Weapon Master(18)\n40: Weapon Master(19): DEX+1, Epic Prowess, (DEX=34)\nHitpoints: 388\nSaving Throw bonuses: Traps: +2\nAB (mundane weapon): 49 (melee), 42 (ranged)\nSpell Casting: UMD\nSkillpoints: 311\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "1:01 PM - Feb 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's my DEX/WM, with no Epic Dodge, but other good things instead.<br/>\n<details><summary>Spoiler</summary>Fighter(12), Weapon Master(25), Rogue(3), Elf\nSTR: 14\nCON: 12\nINT: 13\n\n01: Fighter(1): Weapon Finesse, Dodge\n03: Fighter(3): Expertise\n05: Fighter(5)\n07: Fighter(7)\n09: Weapon Master(2): Improved Critical: Rapier\n11: Weapon Master(4)\n13: Weapon Master(6)\n15: Weapon Master(8): Ambidexterity\n17: Weapon Master(10)\n19: Fighter(9)\n21: Rogue(1): Great Dexterity I, (DEX=25)\n23: Weapon Master(12)\n25: Weapon Master(14)\n27: Weapon Master(16): Great Dexterity III, Epic Weapon Focus: Rapier, (DEX=28)\n29: Fighter(11)\n31: Weapon Master(18)\n33: Weapon Master(20): Great Dexterity V, (DEX=32)\n35: Weapon Master(22): Epic Prowess\n37: Weapon Master(24)\n39: Rogue(2): Great Dexterity VII, {Evasion}, (DEX=35)\n\nSkillpoints: 147\nSaving Throw bonuses: Mind Effects: +2\nAB (max, naked): 53 (melee), 44 (ranged)\nSpell Casting: \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:19 PM - Feb 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Blind Fight is missing, putting you at a disadvantage against concealed enemies.\u00a0 Also, I would go for sword-and-board for the AC, and for not having the -4 AB from dual-wielding medium weapons.\u00a0 Replace those dual-wielding feats with Blind Fight, Improved Knockdown, and Toughness.\u00a0 While you are shuffling things around, take Weapon Spec much earlier.\u00a0 If you take all 10 levels of Fighter before you start WM, you can get Blind Fight, WS, and Knockdown before WM starts, and then Improved Crit at 12, Improved Knockdown at 15, and Toughness at 18.\u00a0 Also, I would take Weapon Focus at level 1.<br/>\n<br/>\nIn epic levels, I would take all the same things, but in a different order.\u00a0 I would take EWF at 24, then Fighter 11 and 12 at 25 and 26 so I can take EWS at 26, then Armor Skin at 29, Epic Prowess at 32, and Improved Whirlwind at 35, and no other changes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "12:19 PM - Feb 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nBlind Fight is missing, putting you at a disadvantage against concealed enemies.\u00a0 Also, I would go for sword-and-board for the AC, and for not having the -4 AB from dual-wielding medium weapons.\u00a0 Replace those dual-wielding feats with Blind Fight, Improved Knockdown, and Toughness.\u00a0 While you are shuffling things around, take Weapon Spec much earlier.\u00a0 If you take all 10 levels of Fighter before you start WM, you can get Blind Fight, WS, and Knockdown before WM starts, and then Improved Crit at 12, Improved Knockdown at 15, and Toughness at 18.\u00a0 Also, I would take Weapon Focus at level 1.<br/>\n<br/>\nIn epic levels, I would take all the same things, but in a different order.\u00a0 I would take EWF at 24, then Fighter 11 and 12 at 25 and 26 so I can take EWS at 26, then Armor Skin at 29, Epic Prowess at 32, and Improved Whirlwind at 35, and no other changes.\n</div></blockquote>\nHey, that's very good feedback. Thank you!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "9:24 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's my 40 centric submission for your idea, rapier shield and all that:<br/>\n<br/>\n(Dear god my poor will save)<br/>\n<details><summary>Spoiler</summary>Fighter(8), Weapon Master(19), Rogue(13), Human\nSTR: 12\nCON: 12\nINT: 14\n\u00a0\n01: Fighter(1): Blind Fight, Weapon Finesse, Weapon Focus\n03: Fighter(3): Dodge\n05: Rogue(1)\n07: Rogue(3): {Uncanny Dodge I}\n09: Rogue(5): Spring Attack\n11: Rogue(7)\n13: Fighter(5)\n15: Weapon Master(1): Knockdown, Weapon of Choice: Rapier\n17: Weapon Master(3)\n19: Weapon Master(5)\n21: Weapon Master(7): Great Dexterity I, (DEX=24)\n23: Weapon Master(9)\n25: Weapon Master(11)\n27: Weapon Master(13): Great Dexterity III, Epic Weapon Focus, (DEX=27)\n29: Fighter(8): Epic Weapon Specialization\n31: Rogue(10): Improved Evasion\n33: Rogue(12): Great Dexterity V, (DEX=31)\n35: Weapon Master(15)\n37: Rogue(13): Defensive Roll\n39: Weapon Master(18): Epic Dodge\n\u00a0\nSkillpoints: 293\nSaving Throw bonuses: Spells: +4, Traps: +2\nAB (max, naked): 48 (melee), 41 (ranged)\nSpell Casting: \n\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

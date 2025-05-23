@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "211",
+  "name": "Question about parry and two weapon fighting",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/question-about-parry-and-two-weapon-fighting-t2354684.html",
+  "author": "UselessPoint",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "UselessPoint",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:16 AM - Mar 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello to everyone,\u00a0<br/>\n I'd like to ask another question. Since you can parry a number of attack per round equal to the number of attacks you've got (with the exception of the flurry rule), what if you got two weapon fighting? will you have then the chance to parry more attacks?<br/>\n<br/>\n Thanks for any answer!<br/>\n<br/>\n p.s: I know parry is broken and useless, but still wanted to know this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "9:44 AM - Mar 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As long as you got one more flurry from using a second weapon, you got one more parry chance. For example on lvl1 you can parry only one attack with a single weapon, and two attacks with two weapons. However if you already have three flurries with a single weapon (for example you have 11 pre-epic BAB) you will not gain another parry chance when fighting with two weapons.<br/>\n<br/>\n However I also have a question about parry. Is it possible to tweak the game somehow, so the parry skill works as it was intended?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "4:23 PM - Mar 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>hunearo wrote:</strong><hr/>However I also have a question about parry. Is it possible to tweak the game somehow, so the parry skill works as it was intended?</div></blockquote>It's a question for modders, hunearo.\u00a0 Shadooow may have addressed this in his CPP but I wouldn't know since I never installed it (there are MANY mechanical changes implemented).\u00a0 So if you are truly interested what the community has already addressed with customizations in that regard, I recommend you post this inquiry in the <a class=\"postlink\" href=\"https://neverwintervault.org/forums/neverwinter-nights-1/nwn1-custom-content\" rel=\"noreferrer\" target=\"_blank\">Custom Content forum</a> on the NWVault or, perhaps, PM Shadooow directly there.\u00a0 We don't get very many modders checking in here at the ECB, unfortunately. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /> posting here on the ECB is a learning process).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "167",
+  "name": "Spell DC and Spell Penetration Targets",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spell-dc-and-spell-penetration-targets-t2355149.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:08 AM - Sep 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just another question that was brewing in my mind<br/>\n<br/>\nWhat are reasonable Spell DC and Spell Penetration Targets for ECB spellcaster and spellsword (ie hybrid) lvl 40 builds?<br/>\n<br/>\nNote I've written 'ECB' - I know it all depends on the environment, but lets just assume we want to create something that will work in most environments<br/>\n<br/>\nAlso the DCs depend on the spell cast -&gt; for an AOE long duration spell (ie Stonehold) a lower chance of success is probably acceptable, whereas a instantaneous particularly a single target spell (ie Finger of Death) a very high chance of success is very desirable<br/>\n<br/>\n<em>Spell Penetration</em><br/>\nMy understanding is the max toolset SR is 32<br/>\n<br/>\nSo perhaps a spell penetration of 28 would allow 75% of spells on spell resistant creatures, and will generally work well on the rest who are not as spell resistant<br/>\n<br/>\nSo 'in general' perhaps one only needs to stand thinking about spell penetration feats when final caster levels are less than 28?<br/>\n<br/>\n<em>Spell DC</em><br/>\nRegarding DCs a high base save is 22, add in say a modifier of 4 -&gt; 26. Low base save is 16 add modifier 4 -&gt; 20<br/>\n<br/>\nFor AOE long duration DC<br/>\nSay 50% success against weak saves -&gt; 30. 50% success against strong saves -&gt; 36<br/>\n<br/>\nSubtract 6 from this if you can cap the ability modifier DC (ie Owl's Insight for Druids, items etc) or whatever value in the environment. Leads to a base DC of 24 for weak saves and 30 for strong saves<br/>\n<br/>\nFor single target or instantaneous DC<br/>\nSo for 75% success against weak saves ?DC 35. 75% success against high saves ?DC 41<br/>\n<br/>\nAgain subtract 6 from this if you can cap the ability modifier DC (ie Owl's Insight for Druids, items etc)\u00a0Leads to a base DC of 29 for weak saves and 35 for strong saves<br/>\n<br/>\nAnyway what are your thoughts? Just a question for the spell slingers in the forum, whether they be visible or lurking :)<br/>\n<br/>\nI've probably confused the non-spell slingers in the forum :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:07 AM - Sep 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Natural response here would be: \"as much as you can afford\", but I will be nicer than that.<br/>\n<br/>\nMinimum DC for anything I would like to count as \"effective\" would be main stat 20 plus ESF in chosen school.<br/>\nMinimum CL for mages can be lower than the rest because of Mord's Disjunction (-10). <br/>\nThe rest, is better when they have at least 26-28 CL, although if you care for penetration mostly, this can be augmented by the relevant feats. <br/>\nToolset SR max is 32 but modules/PW's can have any value really. Typical for drow is level +10, so high-level drow are a pain to deal with. <br/>\nMages especially can get away with no DC spells at all, Clerics have Harm &amp; Word of Faith only.<br/>\nInterestingly, a hybrid red-mage would have a lot of \"cheat\" spells that simply ignore DCs altogether but the challenge there is to get the penetration high enough.<br/>\nI guess, a Mage 23/ Cleric 17, can get his penetration values high enough, especially with Mord's.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:11 PM - Sep 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nNatural response here would be: \"as much as you can afford\"...</div></blockquote>\nThat would be my response too.\u00a0<br/>\nHow much spell penetration you need depends on the spell resistance of the creatures you are up against. In a way you can compare it with the relation between AB and AC. if you want to be prepared for \"everything\", spell penetration should be high. Overcoming the standard toolkit SR 32 is a target for hybrid builds. Mord's and the breach spells can help some if you struggle. It can be a matter of taste, but also of what is possible with a given build how much you are willing to, or have to, depend on those debuffers.<br/>\nSpells DC will be countered by saves. Saves vary much between different creatures, and that is what you must prepare for. A paladin/CoT build with a high spellcraft skill will have very high saves against spells, and especially so against spells with a fortitude save. A warrior class build with no saves boosters will have lousy will saves. So you may need a high DC in some cases. And you are more likely to succeed if you can target the weak save of your opponent. A high casting stat is always beneficial. It may pay well off to have more than one spell focus, or at least have a spell selection that targets all three groups of saves with a reliable DC (F/W/R). If you play a spellsword, or another hybrid mage, your casting stat often is too low for a good DC on your attack spells. Spell focus feats help some. But if they don't help enough, you can always use non-save spells, such as IGMS.\u00a0<br/>\nIf you only want to cast buffing spells, you don't need to pay any attention to DC or penetration.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

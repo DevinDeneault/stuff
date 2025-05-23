@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "658",
+  "name": "The Arcane Bastion",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-arcane-bastion-t2355395.html",
+  "author": "grizzled_dwarflord",
+  "avatar": "10758933_1548854436.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "8:49 AM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is another attempt at me in the search for building the perfect wizard (I tend to do the same with clerics.\u00a0 I think it's a sickness).<br/>\n<br/>\nThe idear is Auto Still III, high spell DCs (2 shy of max) along with Improved Expertise and Epic Mage Armor.\u00a0 Cleric 1 is taken early on for free heavy armor and Animal Domain to make him a powerful Summoner and ease of leveling.\u00a0 My gnome version abandons DCs and goes for EDR III and Auto Still III to make him even harder to destroy.\u00a0 And that's about all it is.\u00a0 High AC mage with Discipline, high Concentration, powerful Summoner, and good spell repetoire, and can still craft and set deadly traps.\u00a0 I didn't find anything in either ECBs that was like this.\u00a0 Any thoughts or ideas for improvements?<br/>\n<br/>\nThe Arcane Battle Tank<br/>\nRace: Human (Gnome and Elf work just as well)<br/>\nAlignment: Any Lawful<br/>\nPlayable: 1-40 PvM<br/>\nXP Penalty: None<br/>\n\u00a0<br/>\nAttributes<br/>\nStr14<br/>\nInt18<br/>\nWis8<br/>\nDex10<br/>\nCon14<br/>\nChr8<br/>\n\u00a0<br/>\n1 Wizard, Expertise, Improved Expertise<br/>\n2 Cleric1, Animal Domain<br/>\n3 Wizard2, Extend Spell<br/>\n4 Wizard3, Int19<br/>\n5 Wizard4<br/>\n6 Wizard5, Craft Wand, Empower Spell<br/>\n7 Wizard6<br/>\n8 Wizard7, Int20<br/>\n9 Wizard8, Still Spell<br/>\n10 Wizard9<br/>\n11 Wizard10, Silent Spell<br/>\n12 Wizard11, Toughness, Int21<br/>\n13 Wizard12<br/>\n14 Wizard13<br/>\n15 Wizard14, SF: Necro<br/>\n16 Wizard15, Maximize Spell, Int22<br/>\n17 Monk1<br/>\n18 Wizard16, GSF: Necro<br/>\n19 Wizard17<br/>\n20 Wizard18, Int23<br/>\n21 Wizard19, Great Int I<br/>\n22 Wizard20, ESF: Necro<br/>\n23 Wizard21<br/>\n24 Wizard22, Auto Still I, Int25<br/>\n25 Wizard23, Auto Still II<br/>\n26 Wizard24<br/>\n27 Wizard25, Auto Still III<br/>\n28 Wizard26, Epic Mage Armor, Int26<br/>\n29 Monk2<br/>\n30 Wizard27, ESF: Concentration<br/>\n31 Wizard28<br/>\n32 Wizard29, Epic Warding, Int27<br/>\n33 Wizard30, Great Int II<br/>\n34 Wizard31<br/>\n35 Wizard32, Great Int III<br/>\n36 Wizard33, Great Int IV, Int31<br/>\n37 Wizard34<br/>\n38 Wizard35, Great Int V<br/>\n39 Monk3, Great Int VI<br/>\n40 Wizard36, Int34<br/>\n\u00a0<br/>\nAppraise: 1 (13)<br/>\nConcentration: 43 (55)<br/>\nCraft Trap: 16 (28)<br/>\nCraft Weapon: 5 (17)<br/>\nDisable Trap: 18 (30)<br/>\nDiscipline: 42 (44)<br/>\nHeal: 10<br/>\nListen: 42 (41)<br/>\nLore:10 (22)<br/>\nOpen Lock: 5 <br/>\nSearch: 15 (27)<br/>\nSet Trap: 20 <br/>\nSpellcraft: 43 (55)<br/>\nSpot: 21 (20)<br/>\nTumble: 40<br/>\n\u00a0<br/>\nFort: 22 (33)<br/>\nReflex: 18 (29)<br/>\nWill: 24 (35)<br/>\n\u00a0<br/>\nHP: 296<br/>\nAC: 29 (mundane plate &amp; shield)<br/>\nBuffed AC: 65 (no items)<br/>\nWith +5 Tower Shield: 70<br/>\n\u00a0<br/>\n<strong><span style=\"text-decoration:underline\">Spell Slots with +12 to Intelligence</span></strong><br/>\n1<sup>st</sup>: 10<br/>\n2<sup>nd</sup>: 10<br/>\n3<sup>rd</sup>: 9<br/>\n4<sup>th</sup>: 9<br/>\n5<sup>th</sup>: 9<br/>\n6<sup>th</sup>: 9<br/>\n7<sup>th</sup>: 8<br/>\n8<sup>th</sup>: 8<br/>\n9<sup>th</sup>: 8<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:34 AM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does the AC listed include Improved Expertise?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "9:48 AM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes. The buffed AC is with everything in his arsenal. Many modules will throw a switch that turns IE off when a spell is cast, but with sticky keys you can run around with it always on. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:48 AM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice!<br/>\n<br/>\nThanks for the explanation.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:01 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looks pretty strong GDL<br/>\nI think the Str 14 is an excellent idea for encumbrance if you are going heavy armor + tower<br/>\nRogue would be a decent alternative choice to Monk if you are happy to give up the discipline skill / deflect arrows / monk speed<br/>\n(You will want to have a free hand to deflect arrows, if this is intended which means either unequipping your weapon or shield)<br/>\nIn terms of second cleric domain, Healing Domain is a good option, to make healing potions and cure scrolls/wands 50% more effective, my healing domain cleric is literally giving away 50-70 healing potions to friends due to accumulation and waving around empowered cure critical wands with 50 charges in parties. Unfortunately it doesn't look like you can take both Animal and Healing on WoG but elsewhere it looks like you can.<br/>\nCurious about both Silent and Still.\u00a0<br/>\nI wish the saves were better. A wizard 38 / cleric 1 / monk 1 split could allow you to get Epic Fortitude as a general epic feat whilst keeping everything else. You'd get two extra caster levels at the cost of skill dumps, and the other monk stuff mentioned. Dunno if its worth it<br/>\n<br/>\nHope that helps, feels like I wouldn't change what you have built except maybe take Rogue instead of Monk but that might just be my preference maybe drop silent for great fortitude but maybe you have some secret strategy in your pocket I don't know about<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:19 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know I'm no arcanist, but won't monk speed be negated if wearing heavy armour? I know you don't take Monk 3 until level 39, but even so...<br/>\n<br/>\nWhile I'm on armour, if you're taking your Cleric level early for heavy armour and summons, would it not make sense to take Silent and Still earlier in the schemata? As I say, it's not my area of expertise, so more of a question than a suggestion.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "6:29 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wouldn't plan on using Still until much later, probably when I grabbed Auto Still.\u00a0 I would still play as a straight up Wizard.\u00a0 The Silent Spell, in my opinion, doesn't become useful until you open up 6th and 7th level spell slots, so I tend to push those back in a build like this.\u00a0 Regarding Monk Speed and Deflect Arrows, those weren't considered aspects for this particular type of caster.<br/>\n<br/>\n<em class=\"mention\">@Orion2019</em>\u00a0, I too thought about Rogue in this situation.\u00a0 However, with both Wizard, Monk and Cleric classes, he basically has a built in UMD.\u00a0 So I went Monk for the quick Evasion and Discipline investments only.\u00a0 I thought the Discipline made more sense thematically since he can stand in there with highish ACs and fling some pew pews.\u00a0 The Healing Domain won't work in a build like this since he can't even cast a simple Cure Minor Wounds with his 8 Wisdom.\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:37 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Asked and answered - many thanks, Dwarflord<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:15 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you're only using cleric for animal domain and heavy armor then you might be better off switching to something like Rog2/Wiz36/Figh2. You swap animal domain for 2 fighter feats, plus since you're wearing armor Rogue gives UMD at no real cost. The main problem would be making it playable since it only has 2 Rogue dumps (or 1 if you optimise for 40 and start with Rogue).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:04 AM - Mar 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Healing domain works with cure potions GDL, also cure scrolls/wands<br/>\nWon't work with heal potions or scrolls though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

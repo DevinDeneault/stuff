@@ -1,0 +1,20 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "048",
+  "name": "Spell immunity and Spell Resistance",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spell-immunity-and-spell-resistance-t2356028.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "7:34 AM - Dec 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">nwnwiki: \"Spell immunity\u00a0grants complete protection from specified spells. This immunity is called by the spell resistance check, and serves as the second barrier to blocking magical attacks.\"<br/>\n<br/>\nIf a PC equips an item that makes one 'immune to spells level 4 and lower', does it mean he is still vulnerable to lesser spell breach, which does not check SR?<br/>\n(There is an a 'lesser spell breach immunity' item property though.)<br/>\n<br/>\nEdit: Playtested so I knew the answer to my question. PC would still be vulnerable to the breach, at least its SR lowering effect. Even immunity to LSB will still make the character vulnerable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

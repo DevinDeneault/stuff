@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "218",
+  "name": "Improved Initiative - where'd it go?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/improved-initiative-where-d-it-go-t2354592.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:12 AM - Sep 12, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was having a long look at Grizzled Dwarflord's <strong>Hearth Guard</strong> (DwD22 / CoT 10 / F 8) build in the ECB Legacy Archive, and I just wondered, when did the Improved and Superior Initiative feats become redundant, and why? I certainly haven't seen anyone take them since I've been here. Did 1.69 or some other inherent change render them pointless, or were they never that good? I seem to remember taking them in PnP days, but my memory ain't what it was (if I remember correctly).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:28 AM - Sep 12, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You won't see it because, generally-speaking, feats are so precious (hopefully) you'll always gravitate to those that produce the most significance first, then gradually trailing off to those that make less difference in results.\u00a0 I'm not referring to the sequence taken, but rather, the priority that each feat is represented somewhere in the build. Initiative-related feats would be so far down in the pecking order that they just never become relevant.\u00a0 Understand, though... custom scripting can touch on just about any aspect of the game, so if a designer decides that when an event fires, it first makes an Initiative check, then in that instance, the feats could have great value.<br/>\n<br/>\n Check the disclosure and discussion (i.e.Talk) about <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Initiative\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\">Initiative</span></a><span style=\"color:#0000FF\"> </span></strong>on the wiki as it applies to NWN.\u00a0 Forget about PnP as far as NWN mechanics go.\u00a0 There are too many actions to calculate, visualize and synch in those brief intervals that NWN becomes only a \"translation\" of AD&amp;D 3.0 rules rather than the mirror we would all like to experience.\u00a0<br/>\n<br/>\n Even vets like GDL can misinterpret how the game mechanics express a feat's structure and its relevance or base an assessment on too small a sample of situations.\u00a0<br/>\n<br/>\n There are 4 of these feats that will stack up to Initiative +12 (superior supercedes improved) but make so little difference in each round, it can become a costly investment just to increase your chances (it's still a d20 roll regardless of the base value).\u00a0 If you are really convinced that Initiative has a significant bearing on encounters, build DEXers.\u00a0 That solves your concerns.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:28 AM - Sep 12, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Got it, thanks. Nice to know my memory hasn't completely deserted me at least. And it gives some more tweaking room in the Dwarflord's build, which is always nice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

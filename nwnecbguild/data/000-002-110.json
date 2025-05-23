@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "110",
+  "name": "How figure out Epic Level BAB, AB?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-figure-out-epic-level-bab-ab-t2355562.html",
+  "author": "Asturonethoriusaline",
+  "avatar": "10758866_1605883460.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:31 AM - Sep 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all, I'm doing a Monk/Cleric/Rog build in another thread.<br/>\n<br/>\nI did, was doing a level by level buikd summary, that stopped at 20, didnt get to 21 to 40 because got help.<br/>\n<br/>\nThen after that, posting a edited, revised level by level build summary.<br/>\n<br/>\nI have done the 1st 20 levels, 10 levels per post, 2 post.<br/>\n<br/>\nI asked for comments about it wait until after all 40 levels of the build gets posted.<br/>\n<br/>\nSo now I am at posting levels 21 to 40, starting with levels 21 to 30.<br/>\n<br/>\nQuestion is: How do I figure out BAB, AB in epic levels?<br/>\n<br/>\nPart of the reason I ask this, is someone else posted their build, and it had 14 BAB in levels 1 to 20.<br/>\n<br/>\nThen at the end of their 40 lev build, they had BAB listed at 24, but their build summary doesnt show how they got from BAB 14 to BAB 24 in levels 21 to 40.<br/>\n<br/>\nMy build has 14 BAB also lev 1 to 20. But I dont know how to figure out what BAB would be levels 21 to 40.<br/>\n<br/>\nI checked the Wiki for Cleric and Rogue(Took Monk 1 at 4th level), and all the entries show is:<br/>\n<br/>\nExample:<br/>\n<br/>\nCleric 1 to 20: 15 BAB.<br/>\n<br/>\nLevels 21 to 40 it just shows the epic bonus feats, etc, but no BAB numbers for levels 21 to 40.<br/>\n<br/>\nSo how do I figure out what the BAB numbers are for levels 21 to 40?<br/>\n<br/>\nReason I didnt post this in the otber tbread,is didnt want this to bury the 40 lev by lev build summary, until it is finished and people have a chance to comment on it, if they want to.<br/>\n<br/>\nThanks for any help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "2:37 AM - Sep 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In epic levels you get +1 BAB on every odd level and +1 saves on every even level. The BAB increase from epic levels doesn't increase the number of attacks per round your build has. [<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Level_progression#Epic_progression\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Level_progr ... rogression</a>]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:40 AM - Sep 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759176&amp;sid=c86049b7a7e304c5cb502ea7c6f1890b\">Yunim</a> wrote: <a data-post-id=\"21841\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21841&amp;sid=c86049b7a7e304c5cb502ea7c6f1890b#p21841\">\u2191</a><div class=\"responsive-hide\">Sep 06, 2020</div></cite>In epic levels you get +1 BAB on every odd level and +1 saves on every even level. The BAB increase from epic levels doesn't increase the number of attacks per round your build has. [<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Level_progression#Epic_progression\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Level_progr ... rogression</a>]</div></blockquote>\n\nThanks Yunim<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "10:04 PM - Sep 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, in my Complete Guide to the Basics of Building, I explained how it works.<br/>\n<br/>\nIt's stickied at the top of the Game Guides section.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "089",
+  "name": "Dwarven Fighter\\Weapon Master/Defender",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarven-fighter-weapon-master-defender-t2354661.html",
+  "author": "Tyris2222",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:19 PM - Jan 28, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Ok, think this is a build that you guys helped me with and played it in one world and worked pretty well, moving to different world (Arelith) and would like to work in Exotic Weapon to take Dwarven Battle Axe, See anything I can really cut or change around to make that work?\u00a0 Thought about two more levels of fighter up front, but think I lose Damage Reduction III on the back end.\u00a0 Not sure if that is worth the switch.\u00a0 Any help would be greatly appreciated.\u00a0 Dan<br/>\n<br/>\n 1 F Dodge, Mobility<br/>\n 2 F Expertise<br/>\n 3 F Weapon Focus<br/>\n 4 F Spring Attack<br/>\n 5 F<br/>\n 6 F Weapon Spec, Whirlwind Attack<br/>\n 7 WM Weapon of Choice<br/>\n 8 WM<br/>\n 9 WM Improv Crit<br/>\n 10 WM<br/>\n 11 WM<br/>\n 12 WM Toughness<br/>\n 13 WM<br/>\n 14 DwD<br/>\n 15 DwD Knockdown<br/>\n 16 DwD<br/>\n 17 DwD<br/>\n 18 DwD Blindfight<br/>\n 19 DwD<br/>\n 20 DwD<br/>\n 21 F Epic Weapon Focus<br/>\n 22 F Epic Weapon Spec<br/>\n 23 DwD<br/>\n 24 DwD Epic Damage Reduction I<br/>\n 25 DwD<br/>\n 26 DwD<br/>\n 27 DwD Epic Damage Reduction II<br/>\n 28 DwD<br/>\n 29 DwD Epic Damage Reduction III<br/>\n 30 DwD\u00a0 Great Str.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "6:16 AM - Jan 29, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Without the ability spread, it's not all that obvious.\u00a0 It may cost an AB pushing EDR3 into the final Grt STR slot depending on whether you can wiggle the starting spread better.\u00a0 You guys on Arelith have those gifts that can solve problems like this I suppose. With so few levels of WM I doubt the final AB is going to be impressive.<br/>\n<br/>\nLosing a DwD bonus feat to gain a fighter bonus feat (Ftr8/DwD15 vs. Ftr10/DwD13) doesn't buy you much except perhaps a slightly better selection list.<br/>\n<br/>\nYou have few alternatives, really.\u00a0 23 levels split between Ftr &amp; DwD can only be juggled so many ways. Of your three pre-epic feats that are not prereqs (KD/BlindFight/ImpCrit), I'd give up KD or IC way before BF.\u00a0 It's not rocket science.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:44 PM - Jan 29, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I recall having similar issues when building<strong> <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2354436/\" rel=\"noreferrer\" target=\"_blank\">Grim Stonefoot - F10/WM7/DwD23</a></strong> - and that was for 40 levels, and without going an EDR route. I ended up giving him a heavy flail and getting an AB of +47. On reflection, I think Max Kane was probably right (don't tell him I said so) that its too much of an investment in what are effectively redundant prerequisites for only 7 levels of WM, and I suspect that's even more the case with a 30 level cap.<br/>\n<br/>\n I've tried doing the link to Grim for information, but it doesn't seem to want to play with me at the moment, sorry. I can tell you he's on page 5 of the Full Epic Builds sub-forum, and can be found in Hip's ECB Filter (accessible via the Rules and Tools sub-forum).<br/>\n<br/>\n Anyway, I wish you well with the build!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:09 PM - Jan 29, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Starting stats with Gifts will be<br/>\n Str 18<br/>\n Dex 13<br/>\n Con 20<br/>\n Wis 8<br/>\n Int 13<br/>\n Cha 6<br/>\n<br/>\n +2 to Str &amp; +2 to Con are two of the gifts with another Gift if I so desire, might do the +1 to saving throws gift or the +5/- to cold, fire, elec, acid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:12 PM - Jan 29, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm inclined to go with the Stonefoot starting split and eat the 1 AB.\u00a0 That'll gain you an open feat where you can fit in Exotic.\u00a0 You may need to take a non-epic feat during epic levels but such are the trappings of a force-fitted combo like this on a 30 cap server.<br/>\n<br/>\nThe main reason I would never try to play a build like this is the conflict and inefficiencies.\u00a0 <br/>\n<br/>\nOn the WM side, you are investing in Mobility/Spring Attack/WWA, none of which have any presence while in Defensive Stance, probably the greatest boost a DwD investment offers.\u00a0 All this just for 1 AB and better crits.\u00a0 The problem is, all the focus in EDR translates into a pedestrian AB and as I have always tried to remind crit-focused builders... \"You've got to HIT, before you can CRIT.\"\u00a0 The 7 WM levels begin to head in that direction (reliable AB on the way to many crit opportunities), but then the plan nerfs the potential by minimizing the primary attack ability and number of SWFs.<br/>\n<br/>\nTake those 3 prereq feats out and you'd be open immediately to your special proficiency plus IKD and Cleave, all with more value than those rare crit boosts.<br/>\n<br/>\nIf the idea appeals to you, then by all means, feed your obsession.\u00a0 But this combo is a perfect example of a build that is intrinsically fighting itself.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

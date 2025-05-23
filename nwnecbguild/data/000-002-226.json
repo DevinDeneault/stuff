@@ -1,0 +1,104 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "226",
+  "name": "Build Search Broken ?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-search-broken-t2354472.html",
+  "author": "Kalistez",
+  "avatar": "no_avatar.png",
+  "replies": 14,
+  "posts": [
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:02 PM - Nov 04, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi Guys,<br/>\n<br/>\n<br/>\n Is anyone able to use the old ECB build search at the moment ?<br/>\n<br/>\n I've been trying to get on for the last couple of days but it keeps coming up with webpage not found.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:49 PM - Nov 04, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looks like the domain expired. \u00a0I'll contribute $20USD if someone wants to bring it back.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:30 AM - Nov 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm also willing to chip in if we can find out who we need to contact.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dante2377",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:55 PM - Nov 06, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't think the domain expired - most of the comcast.net urls get redirected to xfinity.com urls, though it looks like the actual data wasn't migrated.  I'm guessing this is comcast's way of consolidating under their xfinity brand and getting rid of old content that was just sitting there from old accounts.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:02 AM - Nov 07, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I honestly hope someone still has a backup somewhere and that it all hasn't been lost for good.<br/>\n<br/>\n I normally browse that at least once a day.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "knives",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:04 PM - Nov 22, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Any news on this? I used the build search quite regularly and would like to see it back up again. I'd be happy to contribute to hosting costs, if it's known who has the data and it can be recovered.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "10:24 AM - Nov 26, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've got the lvl 30 build search saved. not the lvl 40 one sadly<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:55 AM - Nov 27, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have left a message with The_Krit who manages the nwn wiki and is involved with WoG.<br/>\n<br/>\n He says he has files that may be backups but hasn't looked any further yet as they still need to find a new host. (The search was part of WoG's homepage so they need to rehost the whole lot)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:58 AM - Dec 01, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">Epic Character Builders</a><br/>\n \u00a0- a migration project I recently created on the Neverwinter Vault when I saw that ComCast had pulled the rug out from under WoG's account as it transitioned over to their stinkin' cloud Xfinity server.<br/>\n<br/>\n Once you have decompressed the 8Mb file, you can run the search locally super fast with your browser and get all the same builds since TK compiled them just before the IGN Vault did its death spiral. Hence, it's as comprehensive as you are going to get. You can even merge the NWN2 builds using the ancillary project dedicated for that game if you are so disposed.<br/>\n<br/>\n Besides, TK always has several oars in the water at one time with all his NWN connections so who knows when/if a new host is even in the offing.<br/>\n<br/>\n I am still trying to compile a dynamic engine that would combine all that legacy stuff and the builds posted here, but don't hold your breath because I'm attempting it solo.\u00a0 It's on my wish list, though.<br/>\n<br/>\n Hip by any other name is still, unfortunately... Hip. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:58 PM - Dec 01, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Hip !<br/>\n<br/>\n I did look on the vault but could only find the NWN2 archive.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:23 PM - Dec 01, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Kalistez wrote:</strong><hr/>Thanks Hip !<br/>\n<br/>\n I did look on the vault but could only find the NWN2 archive.</div></blockquote>\n<div align=\"left\">No problem, mate!\u00a0 It was loaded only in the last few days <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n \u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:07 PM - Dec 01, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The page opens up fine but when running the search, the results are coming up with 'Database not found'.<br/>\n<br/>\n Any ideas ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:18 AM - Dec 02, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Kalistez wrote:</strong><hr/>The page opens up fine but when running the search, the results are coming up with 'Database not found'.<br/>\n<br/>\n Any ideas ?</div></blockquote>\n<div align=\"left\">Check what decompressed on my machine with yours.\u00a0 These are the filenames and sizes but running the first search could possibly alter the file sizes slightly depending where all the results get stored.\u00a0 There should be no null files, though, and the data folder should match exactly.<br/>\n \u00a0<br/>\n 3 folders should have been decompressed like this:<br/>\n<br/>\n folder: builds (subfolder: data - 3,760 html files, 53.6 mb)<br/>\n<br/>\n folder: buildsearch<br/>\n ECB_config.js - 1.09 kb<br/>\n ECB_list.txt - 173 kb<br/>\n ECB_list_doc.txt - 1.33 kb<br/>\n ECB_listload.js - 5.04 kb<br/>\n ECB_results.html - 0.8 kb<br/>\n ECB_results.js - 28.7 kb<br/>\n ECB_search.css - 2.69 kb<br/>\n ECB_search.html - 12.4 kb\u00a0 &lt;----------- open this file to trigger search<br/>\n ECB_search.js - 10.4 kb<br/>\n ECB_search_r.css - 1.18 kb<br/>\n ECB_search_s.css - 3.3 kb<br/>\n<br/>\n folder: images (subfolder: smiles) - 18.1 kb<br/>\n<br/>\n I run ECB_search.html from the buildsearch folder (no shortcut).\u00a0 I never get \"Database not found\" only \"Matches found: 0\" if it can't locate any build matching criteria.<br/>\n<br/>\n If all on your machine seems to match above, I would check the protections on folders and files. If not, delete and try re-decompressing. Or perhaps try opening with a different browser.\u00a0 This is javascript so it must be enabled in the browser, of course.\u00a0 Most installations enable it by default but never hurts to check.<br/>\n<br/>\n I am running Win7 Pro Firefox, for what that's worth.\u00a0 If you upgraded to Win10, sorry, I can't offer any suggestions as I am avoiding it like the plague.\u00a0 Hopefully, you will stumble upon the resolution even by accident and if you find some adjustment was needed either per your browser or OS, be sure to publish any fix along with your rig's specs.\u00a0 Keep us posted, please.<br/>\n<br/>\n \u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:46 AM - Dec 02, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">/sigh !<br/>\n<br/>\n Forgot that Chrome no longer supports Java.<br/>\n<br/>\n Working perfectly in Firefox.<br/>\n<br/>\n Thanks again for the archive, and the help getting it working !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:30 PM - Dec 02, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">THANK YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

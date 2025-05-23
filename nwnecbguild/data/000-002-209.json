@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "209",
+  "name": "Weird problem with Kamiryn's Character Build Calculator",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weird-problem-with-kamiryn-s-character-build-calcu-t2354691.html",
+  "author": "Nephylos",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Nephylos",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:32 PM - Apr 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello, Gang! I got the urge to play my first paladin for NWN (persistent world) and brought up a fresh copy of Kamiryn's Character Build Calculator. So, I punched in the classes I will be using (paladin, Champion of Torm), and started to place them in the level progression column. However, when I placed Paladin in row 1, it turned red (illegal) right off the bat. It has stayed this way even after inputting my ability scores and race (human). I can take it out and start in row 2 and everything is fine, except feats are now off. I can't figure out why it says level 1 pally is illegal but is fine with every level afterward. Anyone got any ideas?<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:02 PM - Apr 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The reason you can plug it into level 2 is because a pally needs at least WIS 11 at creation just like ranger, druid and cleric.\u00a0 At level 2, there are no ability requirements for <span style=\"text-decoration:underline\">any</span> class. The only way to bypass the minimum creation abilities is to take a class that has no such prereq like fighter, rogue, monk, etc. at Level 1 before the first pally level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Nephylos",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:46 PM - Apr 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, this is embarrassing. I figured it out when you mentioned my Wisdom score. I put my Wis score in Int and vice- versa, so the worksheet thought my Wis was 10 and Int was 14. =P <br/>\n Thanks for providing the clue! =)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

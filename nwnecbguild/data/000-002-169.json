@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "169",
+  "name": "AB Progression Mechanics - problems in Dragon Shape?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ab-progression-mechanics-problems-in-dragon-shape-t2355114.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:51 PM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've started this thread because I was interested to see if Piercing DR /- would affect the AB of Dragon Shape claws, but then I had some really bizarre outputs from the combat logs.<br/>\n<br/>\nHere's some screenshots of some combat logs I've done in Dragon Shape Form with Skin of the Manticore (+6AC, Piercing Resist 15/-) before shifting.\u00a0I've done two rounds against a dummy test ancient green dragon in the PGCC module.\u00a0It doesn't look like the Piercing Resist will add to my AB sadly. But even still, its\u00a0super confusing for me (mind you I am easily confused by NWN's mechanics). I'm using NWN EE (which shouldn't matter). Using flurry of blows.<br/>\n<br/>\nUsing the proper AB calculations it should be: Proper AB calculation for Dragon Shape : 24 (BAB) +23 (56 Str) +6 (Enchantment of your claws) -2 (Huge size) -2 (Flurry of blows) +1 (Epic Prowess) = 50AB. maybe 52AB for being in a wilderness area (not sure)<br/>\n<br/>\nFirst round my Dragon had an AB progression of 44/41/44/41/38/35 - what the?<br/>\nSecond round my Dragon had an AB progression of 50/47/44/35/38/35. - looks better, the flurry attack seems to have copied the 35AB attack though and what happened to my AB 41 attack, used in the previous round?<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_323e13e44abf9a74d686dde162b3af8d_t.jpg\" />\n</dl>\n</span><br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_48a13ed847145fe525a8a3901427e2c3_t.jpg\" />\n</dl>\n</span><br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_14135dded1c5b9b0185a84d75a8d635f_t.jpg\" />\n</dl>\n</span><br/>\n<br/>\nAnyway I did another test, this time unequipping the Skin of the Manticore and using Robes of the White Magi (+5AC, Bonus feat Spell Penetration) and flurry of blows<br/>\n<br/>\n<strong>First round my dragon had AB progression of 50/47/44/41/38/35 - this looks great</strong><br/>\nSecond round my dragon had AB progression of 44/47/38/41/38/35 - what the?<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_7c7d9b277414a271344d9cd67f1b6786_t.jpg\" />\n</dl>\n</span><br/>\n<br/>\nFinally I decided to test it out without Flurry of Blows.<br/>\n<br/>\nFirst round AB progression 46/43/46/43/40 - what the?<br/>\nSecond round AB progression 52/43/46/37/40 - looks better but what is with the 37 and where is the 49?<br/>\n<strong>Third round AB progression 52/49/46/43/40 - this looks perfect, the right numbers and in the right order!</strong><br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_6b858fa1734ed0cd5ef99c5ee7ff41ee_t.jpg\" />\n</dl>\n</span><br/>\n<br/>\nAnyway maybe the AB for Dragon Shape in reality is very strange. My second test had the right numbers in the right order on the first round, third test right numbers in the right order on the third round. I don't think I've encountered this problem when I have used a non-polymorphed build. If anyone else wants to have a play with the client and let me know it would be great. I thought you guys would find this interesting.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "1:19 PM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is talked about in tha latest thread. Dragon has 3 natural attacks. 2 claws which is +6 and a bite which is not. I have never found a pattern as to when the bite is chosen, but when it is you drop 6 AB and damage. From your testing you confirm what I always thought. Bite attacks hit totally random, but when they do, you suffer.<br/>\n<br/>\nI did several runs with combat debugging on to determine both damage, AB and AC. your other slight deviances might come from whatever random things kick in. Sometimes, like flanking.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:10 PM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Grimnir! That makes total sense and its explained in the Wiki (<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Dragon_shape\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Dragon_shape</a>). Very interesting! Perhaps this is case closed then.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:17 PM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First of all, having a DR item shouldn't affect your AB anyway. Second, in your first round of attacks you did have 50AB, it was the bite that dropped you for an instant (because it doesn't have an enchantment on it, which seriously should be fixed on EE). Thirdly &amp; not relevant for this fight, but sometimes you'll see odd numbers on the combat log that might be from attacks of opportunity, cleave, etc. Lastly, take a look at the skin of the manticore, you see that charging ability? That's great, it is a (2d4+2) dexterity buff, which makes it really good for you. Always take advantage of these items if you can, they are great. Monk gloves with charging abilities, amulets, etc. hoard them all in a bag of holding, you never know when an item will be needed to give you that extra \"push\".<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:33 PM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Valerfor. It totally make sense. Whenever the first set of AB numbers come up which don't quite fit, its 6 less AB to what it should be it.\u00a0<br/>\n<br/>\nFor the first test<br/>\nThe first round of numbers is 50-6/47-6/44/41/38/35<br/>\nThe second round of numbers is 50/47/44/41-6/38/35<br/>\n<br/>\nSecond test<br/>\nFirst round good<br/>\nSecond round 50-6/47/44-6/41/38/35 - I've checked the screen shot and done a typo for the third attack which I will fix<br/>\n<br/>\nThird test<br/>\nFirst round 52-6/49-6/46/43/40<br/>\nSecond round 52/49-6/46/43-6/40<br/>\nThird round is good<br/>\n<br/>\nI guess that means the bite attack doesn't penetrate Stoneskin/Greater Stoneskin etc\u00a0 <strong>Edit -\u00a0</strong>\u00a0the wiki says the bite attack does penetrate DR like a +6 weapon, without the AB bonus - apparently it is a function of the dragon's innate DR<br/>\n<br/>\nFor sure I'm definitely hanging onto that manticore item, I'd like some way to boost my dex up in shifted form for tough fights<br/>\n<br/>\n<strong>Edit:</strong>\u00a0I guess from the numbers I thought I would test the hypothesis that the bite attack occurs at rate of one in three.<br/>\n<br/>\nFirst test<br/>\nFirst round 2/6 bite attacks<br/>\nSecond round 1/6 bite attacks<br/>\n<br/>\nSecond test<br/>\nFirst round 0/6 bite attacks<br/>\nSecond round 2/6 bite attacks<br/>\n<br/>\nThird test<br/>\nFirst round 2/5 bite attacks<br/>\nSecond round 2/5 bite attacks<br/>\nThird round 0/5 bite attacks<br/>\n<br/>\n= 3+2+4 = 9 bite attacks in total, over 12 + 12 +15 = 29 attacks<br/>\n9/29 = 31% -&gt; so roughly a one in three chance of a bite attack, which makes sense.<br/>\n<br/>\nBy the way I am humbled and grateful both you Valerfor and Grimnir knew the answer so quickly and responded so fast to my question.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "10:52 PM - Jul 23, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\nThis is talked about in tha latest thread. Dragon has 3 natural attacks. 2 claws which is +6 and a bite which is not. I have never found a pattern as to when the bite is chosen, but when it is you drop 6 AB and damage. From your testing you confirm what I always thought. Bite attacks hit totally random, but when they do, you suffer.<br/>\n<br/>\nI did several runs with combat debugging on to determine both damage, AB and AC. your other slight deviances might come from whatever random things kick in. Sometimes, like flanking.\n</div></blockquote>\nDoes this count for all forms with claws/claws/bite?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:17 AM - Jul 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No, this is for the dragonshape. Other shapes have their own quirks, but not quite so weird as this.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

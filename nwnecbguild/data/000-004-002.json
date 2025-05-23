@@ -1,0 +1,224 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Preepic - Level 20 Builds",
+  "forum_id": "004",
+  "id": "002",
+  "name": "Little Villain: Rogue 7/ Assassin 10/ SD3",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/little-villain-rogue-7-assassin-10-sd3-t2351642.html",
+  "author": "webshaman1",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 34,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:27 AM - Mar 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This little scoundrel is a very crafty rogue, an excellent scout and knows several ways of murdering his target.<br/>\n<br/>\nRogue(7), Assassin(10), Shadowdancer(3), Halfling<br/>\nAlignment: Any evil<br/>\n<br/>\nPvM 1-20<br/>\n<br/>\nSTR: 11<br/>\nDEX: 19 (24)<br/>\nCON: 10<br/>\nWIS: 8<br/>\nINT: 16<br/>\nCHA: 8<br/>\n<br/>\n01: Rogue(1): Dodge<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Point Blank Shot, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=20)<br/>\n05: Rogue(5)<br/>\n06: Assassin(1): Mobility<br/>\n07: Assassin(2)<br/>\n08: Shadowdancer(1): DEX+1, {Hide in Plain Sight}, (DEX=21)<br/>\n09: Assassin(3): Weapon Finesse<br/>\n10: Assassin(4)<br/>\n11: Assassin(5)<br/>\n12: Assassin(6): DEX+1, Rapid Shot, (DEX=22)<br/>\n13: Assassin(7)<br/>\n14: Assassin(8)<br/>\n15: Assassin(9): Weapon Focus: Sling<br/>\n16: Assassin(10): DEX+1, (DEX=23)<br/>\n17: Shadowdancer(2)<br/>\n18: Rogue(6): Blind Fight<br/>\n19: Shadowdancer(3)<br/>\n20: Rogue(7): DEX+1, (DEX=24)<br/>\n<br/>\nHitpoints: 126<br/>\nSaving Throws (Fortitude/Will/Reflex): 7/6/23<br/>\nSaving Throw bonuses: Traps: +3, Poison: +5, Fear: +2<br/>\nBAB: 14 - 3 attacks per round/4 with Rapid shot.<br/>\nAB (mundane weapons): 22 (small or tiny melee weapon), 24 (sling)<br/>\nAC (naked/mundane armor): 22/23<br/>\nSpell Casting: Assassin spell like abilities. UMD<br/>\nDeath attack: DC (paralysis): 23. Damage bonus: 9d6 (6-54). Makes a double Death attack with Rapid shot active. Uses HIPS to rinse and repeat.<br/>\nShadow daze: DC 20<br/>\nDetects immediately, recovers and sets all deadly traps.<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkillpoints: 207<br/>\nDisable Trap 21(26), Hide 23(34), Listen 19(24), Move Silently 23(36), Open Lock 23(30), Search 18(21), Set Trap 16(25), Spot 23(26), Tumble 20(27), UMD 21(20)<br/>\n<br/>\n01: Disable Trap(4), Hide(4), Listen(3), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Spot(4), Tumble(4), Save(9), <br/>\n02: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(12), <br/>\n03: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(6), Save(9), <br/>\n04: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(12), <br/>\n05: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(15), <br/>\n06: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(14), <br/>\n07: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(13), <br/>\n08: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), Save(17), <br/>\n09: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spot(1), UMD(5), Save(9), <br/>\n10: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Save(9), <br/>\n11: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Save(9), <br/>\n12: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(4), Save(5), <br/>\n13: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(5), <br/>\n14: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Spot(1), <br/>\n15: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Spot(1), <br/>\n16: Disable Trap(1), Hide(1), Listen(2), Move Silently(1), Open Lock(1), Spot(1), <br/>\n17: Hide(1), Move Silently(1), Spot(1), Tumble(5), Save(1), <br/>\n18: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Spot(1), UMD(5), <br/>\n19: Hide(1), Listen(6), Move Silently(1), Spot(1), <br/>\n20: Hide(1), Listen(6), Move Silently(1), Open Lock(2), Spot(1),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "WhiZard",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:26 PM - Mar 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was hoping for a throwing weapon to give that halfling +1 AB, but unfortunately no bludgeoning throwing weapons.  The sling strategy looks good, just remember to coat your bullets with deadly giant bee venom so that your enemies die faster.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:29 PM - Mar 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>WhiZard wrote:</strong>I was hoping for a throwing weapon to give that halfling +1 AB, but unfortunately no bludgeoning throwing weapons.  The sling strategy looks good, just remember to coat your bullets with deadly giant bee venom so that your enemies die faster.</div></blockquote>\nA sling is considered a thrown weapon by the Good aim feat and gets the +1 AB bonus.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:30 PM - Mar 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Mick, you once again prove to be a master in the Dark Arts!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:55 PM - Mar 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong>Mick, you once again prove to be a master in the Dark Arts!</div></blockquote>\nThank you Valerfor!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:12 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick. I was thinking of trying coming up with a level 40 version of this build to hone my building skills, so to speak. I was thinking going 13Rog / 1SD / 26Ass, getting 20 starting Dex and going for Epic Dodge and (many) Great Dex. Would you do something else?<br/>\n<br/>\n Cheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:08 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Cosmic Tomato,<br/>\n In my opinion the 13/26/1 level split is a classic. You will find 3 builds if you use the build-search engine. They can all be improved. Have a look at them if you want, and then try posting a build in the build request section. Then we can have a closer look at it and help you along if need be.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:19 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks man. I had one quick question before I got started. Is the Assassin Improved Invis. caster level fixed, or is it based on Assassin level or character level? One or two of those builds go down the Self-Concealment route, but if the invis. is nigh undispellable because of the number of Assassin levels I'm getting, there wouldn't be much point IMHO.<br/>\n<br/>\n EDIT: If it is the case that the invis. is based on class level, then I might end up going for some improved sneak attack feats. I'm of the opinion that if you're going to hit something, you should hit it very hard.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:51 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The assassin spell like abilities are based on assassin level. With the 50% concealment from improved invisibility, I would not take SC feats with an assassin.<br/>\n You will hit hard enough without the ISA feats. Push dexterity instead.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:05 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>The assassin spell like abilities are based on assassin level. With the 50% concealment from improved invisibility, I would not take SC feats with an assassin.<br/>\n You will hit hard enough without the ISA feats. Push dexterity instead.</div></blockquote>\n<div align=\"left\">Will do. I'll start pulling something together this evening. Thanks for the help.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:23 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Are you going to play a level 40 version, CT? Cuz this build is greatly optimized for level 20, but for level 40 things would drastically change and there's already a build that kinda does that!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:37 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Honestly, I just want to practice making level 40 builds. I really like the level 20 version of this build, and I wanted to see what a level 40 version would look like.<br/>\n<br/>\n Which build are you referring to? Is it on the old forums?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:48 PM - May 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2269057/Tomi-Undergallows-Rogue-13-Assassin-26-SD-1\" rel=\"noreferrer\" target=\"_blank\">Tomi</a> by Max<br/>\n<br/>\n Edit: Sorry Max, I had forgotten about the Tomi build - and I shouldn't have.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:12 AM - May 15, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>It is <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2269057/Tomi-Undergallows-Rogue-13-Assassin-26-SD-1\" rel=\"noreferrer\" target=\"_blank\">Tomi</a> by Max<br/>\n<br/>\n Edit: Sorry Max, I had forgotten about the Tomi build - and I shouldn't have.</div></blockquote>\n<div align=\"left\">Ah. I see. Sorry, I'd overlooked Tomi as well. From what I'm working on now, we've gone for a similar level order (which I had decided on looking at some other builds on the forums), but I've gone for the sling and left WF until epic.<br/>\n<br/>\n I feel like I should explain why I'm doing this a little bit more. You see, I like to take things apart and try to put them back together. It really helps me learn about the mindsest that some people would have had when making these builds, as well as why they made the decisions they did. For instance, I now know about the caster level of the improved invisibility of Assassins, which I didn't before I started, and that Self-Concealment wouldn't make sense on a build with this many Assassin levels.\u00a0<br/>\n<br/>\n Secondly, if I do decide to play this build, I have a reference I can\u00a0use that I've tailored to the way I'd like to play it.<br/>\n<br/>\n Like I said, I honestly want to get better at building toons. I think this is the best way for me to start, as well as asking you guys questions.<br/>\n<br/>\n Cheers!<br/>\n<br/>\n P.S Speaking of asking questions, could you\u00a0explain why you left SD\u00a0until 21? Wouldn't it be better to get it earlier for HiPS?\u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:41 AM - May 15, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think it is time to start a build request thread if you want to go further into the making of lvl 40 builds.<br/>\n<br/>\n This build here is optimized in several ways for lvl 20 as Max pointed out. Since you want to learn, I will explain:<br/>\n Starting dexterity is 19 and ends at 24. Starting at 20 and ending at 25 would not gain anything if you can cap dex at lvl 20.<br/>\n I start taking assassin levels asap and max them out asap, except for a single level of SD for HIPS asap. I want as high DA DC as possible, also during leveling.<br/>\n I sacrifice 1 BAB for +2 to DA DC by taking a level split with 10 rather than 8 assassin levels, that gives BAB 14<br/>\n Halfling small stature and good aim add +2 to AB<br/>\n Int 16 gives +3 to DA DC and secures enough skill-points.<br/>\n I chose Ro7/ SD3 over Ro8/ SD2 and Ro9/ SD1. Ro8 only gives 2 more skill-points. Ro9 gives 1d6 SA, but costs -1 AB. SD3 gives shadow daze.<br/>\n I chose a sling because it has +1 to AB and because you get 4 attacks per round with rapid shot. 4 attacks gives 2 attacks in the first flurry, meaning you attack with two attacks simultaneously when you start combat from stealth.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CosmicTomato",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:54 AM - May 15, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>I think it is time to start a build request thread if you want to go further into the making of lvl 40 builds.<br/>\n<br/>\n This build here is optimized in several ways for lvl 20 as Max pointed out. Since you want to learn, I will explain:<br/>\n Starting dexterity is 19 and ends at 24. Starting at 20 and ending at 25 would not gain anything if you can cap dex at lvl 20.<br/>\n I start taking assassin levels asap and max them out asap, except for a single level of SD for HIPS asap. I want as high DA DC as possible, also during leveling.<br/>\n I sacrifice 1 BAB for +2 to DA DC by taking a level split with 10 rather than 8 assassin levels, that gives BAB 14<br/>\n Halfling small stature and good aim add +2 to AB<br/>\n Int 16 gives +3 to DA DC and secures enough skill-points.<br/>\n I chose Ro7/ SD3 over Ro8/ SD2 and Ro9/ SD1. Ro8 only gives 2 more skill-points. Ro9 gives 1d6 SA, but costs -1 AB. SD3 gives shadow daze.<br/>\n I chose a sling because it has +1 to AB and because you get 4 attacks per round with rapid shot. 4 attacks gives 2 attacks in the first flurry, meaning you attack with two attacks simultaneously when you start combat from stealth.</div></blockquote>\n<div align=\"left\">I think you might\u00a0be right about posting in the build request thread.<br/>\n<br/>\n Don't Assassin, Rogue and SD have the same BAB (at least according to wiki) or have I missed something?<br/>\n<br/>\n Cheers Mick. I really appreciate the explanation.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:59 AM - May 15, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey guys!<br/>\n<br/>\n Mick is right, you see! I am quite experienced (and not very modest as you can see lol), so I was able to understand\u00a0the reasoning behind his choices by looking at the build. He only has 20 levels, so he can't do one thing that is vital to do when POWERbuilding for level 40, which is building up BAB (for explanation on this, please read my Complete Guide to the Basics of Building in the Game Guides section). The leveling order and even level 20 spread would have probably been Rogue 12 Assassin 8 if Mick had 40 levels to play with, because the SD level would cost him a BAB point. I love the finesse with which he was able to attain both 50% concealment and 14 BAB by slightly bending the Rule of 4 and still got Shadow Daze as a small reward for his effort. UDAMAN Mick!<br/>\n<br/>\n I have to say, though, that Mick's pointed out Tomi build is not mine. It's actually Grimnir77's <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515504/Tiny-Reaper-Rogue-13-Shadowdancer-1-Assassin-26#.VVUnOebbLmQ\" rel=\"noreferrer\" target=\"_blank\">Tiny Reaper</a> build which I \"borrowed\" with his consent because I thought it'd fit Tomi perfectly (and I needed to modify it a bit too because Tomi wields Kukris).<br/>\n<br/>\n I like your attitude CT! You're an ACTIVE LEARNER, such as myself, so if you want to chat about making builds, I'll be more than happy to help you out. PM me and we can exchange ideas and chat, brother!<br/>\n<br/>\n Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Nekro83",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:12 PM - Sep 02, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">HI! I am looking for an assassin build capped at lvl 20. Do you think this would still be viable if i chose Human as race?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "2:49 PM - Sep 02, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm sure Mick ran this through as a human just to compare.\u00a0 Of course it will work that way (re: human), just not near as good.<br/>\n<br/>\n What you'll lose by not going with halfling (add them all up to get the final penalty):<br/>\n -2 DEX: that mean -1 AB, -1 AC, -1 reflex in a finessed and ranged build (DEX will be 17/22)<br/>\n -1 AB, sling: that's a racial bonus for halfling<br/>\n -1 AB, -1 AC: that's small stature.\u00a0 works the same for a gnome.<br/>\n -4 detection (listen/spot): another small stature bonus<br/>\n -4 stealth (hide/mv sil): still another small stature bonus<br/>\n -2 listen: skill affinity<br/>\n -2 mv sil: skill affinity<br/>\n -1/-1/-1 f/w/r saves: lucky<br/>\n a fear save boost vs. spells<br/>\n<br/>\n What you'll gain as human:<br/>\n 1 feat (your choice)<br/>\n Over 20 more skill points (23 IIRC)<br/>\n Able to use tower shield, large weapons and be able to one-hand medium weapons w/shield<br/>\n<br/>\n All else should remain the same, but Mick will correct me when he shows. I may have missed something important.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:24 AM - Sep 04, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip is right. Well neither class has shield proficiency, but Hip is right none the less. He points out excactly why this is a halfling build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "12:53 AM - May 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey I'm trying to convert this to a level 30 build. I have two builds here that I like, but I need some help.<br/>\n<br/>\nI'm not sure of the cut-off points for things like Set trap, UMD, and Disable trap are. Also, I think I want to Craft traps, technically I'd only need 22 points in craft trap\u00a0 to have access to everything, right? Open lock and disable trap are both crucial.<br/>\n<br/>\nAlso, at least 3 levels of SD are required. That's one of the reasons I am leaning towards the second build.<br/>\n<br/>\nThanks!<br/>\n<br/>\nRogue(13), Assassin(14), Shadowdancer(3), Halfling<br/>\n<br/>\nSTR: 11<br/>\nDEX: 19 (28)<br/>\nCON: 10<br/>\nWIS: 8<br/>\nINT: 16<br/>\nCHA: 8<br/>\n<br/>\nRo 01: Rogue(1): Point Blank Shot<br/>\nRo 02: Rogue(2): {Evasion}<br/>\nRo 03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}<br/>\nRo 04: Rogue(4): DEX+1, (DEX=20)<br/>\nRo 05: Rogue(5)<br/>\nAs 06: Assassin(1): Rapid Shot<br/>\nAs 07: Assassin(2)<br/>\nAs 08: Assassin(3): DEX+1, (DEX=21)<br/>\nAs 09: Assassin(4): Weapon Focus: Sling<br/>\nAs 10: Assassin(5)<br/>\nAs 11: Assassin(6)<br/>\nAs 12: Assassin(7): DEX+1, Blind Fight, (DEX=22)<br/>\nAs 13: Assassin(8)<br/>\nRo 14: Rogue(6)<br/>\nRo 15: Rogue(7): Dodge<br/>\nRo 16: Rogue(8): DEX+1, (DEX=23)<br/>\nRo 17: Rogue(9)<br/>\nRo 18: Rogue(10): Mobility, Improved Evasion<br/>\nRo 19: Rogue(11)<br/>\nRo 20: Rogue(12): DEX+1, (DEX=24)<br/>\nSd 21: Shadowdancer(1): Epic Weapon Focus: Sling, {Hide in Plain Sight}<br/>\nAs 22: Assassin(9)<br/>\nAs 23: Assassin(10)<br/>\nAs 24: Assassin(11): DEX+1, Great Dexterity I, (DEX=25)<br/>\nAs 25: Assassin(12)<br/>\nAs 26: Assassin(13)<br/>\nRo 27: Rogue(13): Epic Dodge, Defensive Roll<br/>\nSd 28: Shadowdancer(2): DEX+1, {Darkvision}, (DEX=26)<br/>\nSd 29: Shadowdancer(3)<br/>\nAs 30: Assassin(14): Armor Skin, Great Dexterity II<br/>\n<br/>\nHitpoints: 186<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 12/11/32<br/>\nSaving Throw bonuses: Traps: +4, Poison: +7, Fear: +2<br/>\nBAB: 20<br/>\nAB (max, naked): 30 (melee), 34 (ranged)<br/>\nAC (naked/mundane armor/shield only): 27/28<br/>\nSpell Casting:<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills\u00a0<br/>\nDisable Trap 33(38), Hide 33(45), Listen 33(38), Move Silently 33(47), Open Lock 31(39), Search 20(23), Set Trap 33(43), Spot 24(27), Tumble 30(38), UMD 31(30)<br/>\n<br/>\nSkill progression:\n<details><summary>Spoiler</summary>Ro 01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(8),\nRo 03: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(12),\nRo 05: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(16),\nAs 07: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(12),\nAs 09: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(8),\nAs 11: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(4),\nAs 13: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1),\nRo 15: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(2), Tumble(1), UMD(1),\nRo 17: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(2), Tumble(1), UMD(1),\nRo 19: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Spot(2), Tumble(1), UMD(1), Save(2),\nSd 21: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(8),\nAs 23: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(3),\nAs 25: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(1),\nRo 27: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Spot(3), Tumble(1), UMD(1),\nSd 29: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(5),</details>Here is another attempt - I think I prefer this one, as it gets HiPS earlier<br/>\n<br/>\n<br/>\nRogue(10), Assassin(15), Shadowdancer(5), Halfling\u00a0<br/>\n<br/>\nSTR: 11<br/>\nDEX: 19 (28)<br/>\nCON: 10<br/>\nWIS: 8<br/>\nINT: 16<br/>\nCHA: 8<br/>\n<br/>\nRo 01: Rogue(1): Dodge<br/>\nRo 02: Rogue(2): {Evasion}<br/>\nRo 03: Rogue(3): Point Blank Shot, {Uncanny Dodge I}<br/>\nRo 04: Rogue(4): DEX+1, (DEX=20)<br/>\nRo 05: Rogue(5)<br/>\nAs 06: Assassin(1): Mobility<br/>\nAs 07: Assassin(2)<br/>\nSD 08: Shadowdancer(1): DEX+1, {Hide in Plain Sight}, (DEX=21)<br/>\nAs 09: Assassin(3): Rapid Shot<br/>\nAs 10: Assassin(4)<br/>\nAs 11: Assassin(5)<br/>\nAs 12: Assassin(6): DEX+1, Weapon Focus: Sling, (DEX=22)<br/>\nAs 13: Assassin(7)<br/>\nAs 14: Assassin(8)<br/>\nRo 15: Rogue(6): Blind Fight<br/>\nRo 16: Rogue(7): DEX+1, (DEX=23)<br/>\nRo 17: Rogue(8)<br/>\nSD 18: Shadowdancer(2): Weapon Finesse, {Darkvision}<br/>\nSD 19: Shadowdancer(3)<br/>\nSD 20: Shadowdancer(4): DEX+1, (DEX=24)<br/>\nSD 21: Shadowdancer(5): Epic Weapon Focus: Sling, {Defensive Roll}<br/>\nRo 22: Rogue(9)<br/>\nAs 23: Assassin(9)<br/>\nAs 24: Assassin(10): DEX+1, Great Dexterity I, (DEX=26)<br/>\nAs 25: Assassin(11)<br/>\nAs 26: Assassin(12)<br/>\nRo 27: Rogue(10): Epic Dodge, Improved Evasion<br/>\nAs 28: Assassin(13): DEX+1, (DEX=27)<br/>\nAs 29: Assassin(14): Great Dexterity II, (DEX=28)<br/>\nAs 30: Assassin(15): Armor Skin<br/>\n<br/>\nHitpoints: 190<br/>\nSkillpoints: 293<br/>\nSaving Throws (Fortitude/Will/Reflex): 11/10/31<br/>\nSaving Throw bonuses: Traps: +4, Poison: +7, Fear: +2<br/>\nBAB: 20<br/>\nAB (max, naked): 30 (melee), 34 (ranged)<br/>\nAC (naked/mundane armor/shield only): 28/28<br/>\nSpell Casting:<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills Disable Trap 33(38), Hide 33(46), Listen 33(38), Move Silently 33(48), Open Lock 33(42), Search 20(23), Set Trap 33(44), Tumble 30(39), UMD 32(31), remaining skillpoints 13<br/>\n<br/>\nRo 01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(8),<br/>\nRo 02: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(10),<br/>\nRo 03: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(12),<br/>\nRo 04: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(14),<br/>\nRo 05: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(16),<br/>\nAs 06: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(14),<br/>\nAs 07: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(12),<br/>\nSD 08: Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(16),<br/>\nAs 09: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Tumble(1), UMD(2), Save(10),<br/>\nAs 10: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(8),<br/>\nAs 11: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(6),<br/>\nAs 12: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(4),<br/>\nAs 13: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(2),<br/>\nAs 14: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1),<br/>\nRo 15: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(2),<br/>\nRo 16: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(4),<br/>\nRo 17: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(6),<br/>\nSD 18: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(11),<br/>\nSD 19: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(16),<br/>\nSD 20: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(21),<br/>\nSD 21: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(26),<br/>\nRo 22: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Open Lock(5), Set Trap(5), Tumble(1), UMD(5), Save(13),<br/>\nAs 23: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(12),<br/>\nAs 24: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(11),<br/>\nAs 25: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(10),<br/>\nAs 26: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(9),<br/>\nRo 27: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Tumble(1), UMD(1), Save(12),<br/>\nAs 28: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), UMD(1), Save(12),<br/>\nAs 29: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), UMD(1), Save(12),<br/>\nAs 30: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Set Trap(1), Save(13),<br/>\n<br/>\nWhat do you think?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "9:12 AM - May 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am everything but an expert, but this guide might answer some of your questions: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/skills-where-to-stop-t2331487.html\" rel=\"noreferrer\" target=\"_blank\">skills-where-to-stop-t2331487.html</a><br/>\n<br/>\nNow locks and traps... will depend on the surrounding. Maybe somebody who is playing in the same PW (or the same module) can tell you how many skill points you need.<br/>\nI have seen OL DCs of 30 or higher in single player modules, one even had a door with an OL DC of 50. Hopefully a veteran player will be able to tell you if the locks and traps are more or less standard where you are playing or if they are modified with extremely high DCs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:20 PM - May 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Both your builds are\u00a0very good builds. You have indeed demonstrated two different ways of\u00a0qualifying for\u00a0Epic Dodge. The second build gets earlier HIPS, gets better Death attack DC, has slightly lower sneak damage and slightly lower saves. Less rogue also means\u00a08 skillpoints less. The second build also gets Shadow evade (for what it's worth).<br/>\n<br/>\nMy original build has the skills needed for handling (recovering included) of all vanilla Deadly traps in a PvM setting. In a lvl 30 build handling of epic traps becomes an option. You need a modified Set trap skill of 45 to set epic traps. You want to max your search skill to detect them earlier (you need a modified search rank of 42 to detect vanilla epic traps immediately in PvM. To disarm those traps you need a modified rank of 38.<br/>\n<br/>\nIf you ask me how I would\u00a0 convert\u00a0THIS build to a lvl 30 build,\u00a0my primary concern is to\u00a0stay true to the original concepts of the build. That also means to max out assassin to keep\u00a0the Death attack DC at Maximum (DC=33).<br/>\nThat means Rogue 7/Assassin 20/SD 3. So no ED and less skillpoints. I also have to live with BAB 19, but get a higher Dexterity from assassin bonus feats that compensates for that.<br/>\nHere is how I do it:\n<details><summary>Spoiler</summary>\nRogue(7), Assassin(20), Shadowdancer(3), Halfling\n\nDEX: 19 (30)\nWIS: 8\nCHA: 8\n01: Rogue(1): Dodge\n03: Rogue(3): Point Blank Shot, \n05: Rogue(5)\n07: Assassin(2)\n09: Assassin(3): Weapon Finesse\n11: Assassin(5)\n13: Assassin(7)\n15: Assassin(9): Weapon Focus: Sling\n17: Shadowdancer(2): \n19: Shadowdancer(3)\n21: Assassin(11): Epic Weapon Focus: Sling\n23: Assassin(13)\n25: Assassin(15)\n27: Assassin(17): Great Dexterity II, (DEX=27)\n29: Assassin(19)\n\nSaving Throws (Fortitude/Will/Reflex): 12/11/31\nBAB: 19\nAC (naked/mundane armor/shield only): 27/27\nDeath attack DC: 33\nSkillpoints: 277\n\n02: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(10), \n04: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(14), \n06: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(14), \n08: Hide(1), Move Silently(1), Search(1), Spot(1), Save(17), \n10: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(1), Save(11), \n12: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(5), UMD(1), Save(4), \n14: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(1), Save(2), \n16: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(1), \n18: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), UMD(2), \n20: Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spot(1), UMD(2), Save(5), \n22: Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(5), UMD(1), \n24: Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(1), \n26: Hide(1), Move Silently(1), Search(1), Set Trap(1), UMD(1), Save(3), \n28: Hide(1), Move Silently(1), Search(1), Set Trap(1), Spot(2), UMD(1), \n30: Hide(1), Move Silently(1), Search(1), Set Trap(1), Spot(2), UMD(1),</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "GankAnRun",
+      "avatar": "10759310_1590835636.jpg",
+      "timestamp": "1:24 PM - May 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I really like this build and want to use something similar in a PW that goes to level 25(but has a very slow process to get there) The assassin class in that PW gets HiPS at level 8 and so I wouldn't necessarily need the SD levels. What alterations would you suggest to this build if the SD was dropped out of the build and had an opportunity for 5 Epic levels?\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:05 PM - Nov 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>GankAnRun wrote: <a data-post-id=\"20784\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20784&amp;sid=ec00cd2187da888de6b471f23abf6427#p20784\">\u2191</a><div class=\"responsive-hide\">May 30, 2020</div></cite>I really like this build and want to use something similar in a PW that goes to level 25(but has a very slow process to get there) The assassin class in that PW gets HiPS at level 8 and so I wouldn't necessarily need the SD levels. What alterations would you suggest to this build if the SD was dropped out of the build and had an opportunity for 5 Epic levels?\u00a0\u00a0</div></blockquote>\nI think Fighter would give you the most bang for your buck. 2 levels = 2 feats.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:49 PM - Nov 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thread...necromancy?<br/>\n<br/>\nI mean, that request was posted in May!!! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nI doubt they waited this long for an answer...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:35 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, but still good for others to know, young webster. Ain't no such thing as a dead necro here - even though that sounds wrong on virtually every level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:38 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>Ain't no such thing as a dead necro here - even though that sounds wrong on virtually every level.</div></blockquote>\n\nBut is actually correct, considering...[There] are not no such thing as a dead necro, which because of the double negative, means that we do indeed, have dead necro.<br/>\n<br/>\nRight?<br/>\n<br/>\nNow I am surely confused.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:29 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Little Villain is indeed a killer. So they may all be dead, necro or not. But he would not kill his very own topic. It's still alive and neither dead nor undead.<br/>\nIf that were the case, we would have to lock it. For your own safety that is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:30 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Face eating threads.<br/>\n<br/>\nI say enough!<br/>\n<br/>\n*Turns undead*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MappoTrell",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:46 PM - Aug 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello <em class=\"mention\">@Mick Dagger</em>\u00a0I know this will be silly question but im pretty bad at the game and I want to use this build in orginal campaign. So the question is, what weapons aside of sling am I supposed to use is this build? Or do I just shot enemies to death even when they come close?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:43 PM - Aug 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As a Dexer you have a variety of tactics and weapons that you can fall back on.<br/>\n<br/>\nThe main one being HiPS - as long as your opponent does not have TS (and even if it does, you can still spam vanilla HiPS to \"break\" both spellcasting and attacks).<br/>\n<br/>\nYou could go Sword and Board - and since you have Weapon Finesse, you are probably looking at Shortsword as your goto.\u00a0 A rapier would be fantastic, as you could use it two-handed and still get the use of Weapon Finesse!\u00a0 Especially against foes who have poor AB but high dr.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:56 PM - Aug 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">...and traps. You can set a lovely little minefield for bad dudes, ping one or two of them with your sling, watch them suffer, then HiPS in and out as you administer Death/Sneak Attacks. Nice.<br/>\n<br/>\nMick, of course, may have other guidance...<br/>\n<br/>\nWelcome aboard, Mappo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:13 PM - Aug 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mappo, and Welcome!<br/>\nI think Web and Stag already covered many of the options. The build benefits from the fact that halflings get a bonus to AB with slings and throwing weapons. You can always resort to melee, but you don't need to. HIPS is very good for crowd control. Rapiers are finessable medium sized weapons. Halflings and gnomes wield them as two-handers and cannot finesse them. And none of the 3 classes in this build has the shield proficiency.  Using traps is definitely an option. Wands, rods, mage weapons and other items with spells to cast also add to the versatility.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:14 PM - Aug 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Whoopsies!<br/>\n<br/>\nNo rapier then.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

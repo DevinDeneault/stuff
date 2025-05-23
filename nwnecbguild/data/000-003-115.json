@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "115",
+  "name": "29 level Shifter build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/29-level-shifter-build-t2354607.html",
+  "author": "KidMiracleman",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:25 PM - Sep 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">There are areas in my server that have areas for levels 29 and under.\u00a0 Was wondering if anybody had any good<br/>\n \u200bideas for a 29th level build that had elemental shifting abilities and or other shifting abilities too<br/>\n<br/>\n \u200bDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:44 PM - Sep 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For just elemental shapes, go with a high druid build.\u00a0 For shapes that use weapons, go shifter with 5-8 levels of druid.\u00a0 Both will benefit from some monk.<br/>\n<br/>\n Elemental shapes (just like all shapes that are limited to using creature attacks) only merge armor, shield, hat.\u00a0 The most DR they can penetrate is +3 unless pre-buffed with Stoneskin or equivalent DR spell effect.\u00a0 You'll need at least Dru 20 to gain access to elder elemental shapes (the +3 DR ones).<br/>\n<br/>\n Weapon-using shapes merge every slot except gloves.\u00a0 The amount of DR that can be penetrated is only limited by the enhancement of the weapon before merging or the shapes' default weapon, whichever is highest.<br/>\n<br/>\n Epic shifter shapes generally require a substantial WIS investment, but not all of them like Undead shape. Druid's elemental shapes only require enough WIS for the unmorphed druid to cast spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

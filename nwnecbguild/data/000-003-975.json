@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "975",
+  "name": "Weird Cleric build wanted",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weird-cleric-build-wanted-t2354873.html",
+  "author": "friedpiggy",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "friedpiggy",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:54 AM - May 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings<br/>\nOk, I am looking for a 35 cleric 3 monk 2 assassin build. Must have feats are as follows<br/>\n1) Planar turning<br/>\n2) Zen archery<br/>\n3) Blinding Speed<br/>\n4) Auto still 1/2/3<br/>\n5) Divine Might - nice to have<br/>\n6) Divine shield - nice to have<br/>\n7) Domains must be sun/plant<br/>\n<br/>\nReasons as follows<br/>\nPlanar turning - needed for a LOT of areas on the server I play on<br/>\nZen Archery - Modified to let you use wis for AB instead of str only if you do not already have finesse<br/>\nBlinding Speed - modified to give 7/10 of dex bonus again as ac when not active and 1/1 dex bonus again as ac when active (so can double dex bonus to ac)<br/>\nAuto still - needed to be able to wear higher levels of DR gear<br/>\nDivine might/shield - nice to have ones but not absolutely needed<br/>\n<br/>\nAbout the server.\u00a0<br/>\nAventia - So you can go post 40 and every 25 levels post 40 you get +2 ability points. Thus if you have a great build but it needs an extra 8 Dex or something feel free to post it as I can pick up those ability points later on and then reroll. Combat casting not needed and neither is concentration. Damage is so high at end game that it is pointless taking those and you rely more on AC and not getting hit than concentration/combat cast.<br/>\n<br/>\nHope this is doable and thanks in advance for your time<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:03 PM - May 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Unless your server changes that, Clerics don't need Auto Still because they can cast in heavy armor anyway<br/>\n<br/>\nBlinding Speed requires 25 DEX, and in order to make your DEX that high, you will probably not be able to make your WIS higher than that, making Zen Archery unnecessary.. Nevermind, I just saw what you said about how Zen Archery is modified, but still, Weapon Finesse might be better. Also, the Travel Domain would get you Haste as a spell, which you could cast more than once per day.<br/>\n<br/>\nPlanar Turning requires both WIS 25 and CHA 25, which is hard to do, and impossible to also get the DEX 25 for Blinding Speed. It looks like you might be able to eventually get all three of those abilities above 25 in your server, but not in the first 40 levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "friedpiggy",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:18 PM - May 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Auto still is needed because the server limits max DR on gear based on class. Clerics can only wear 40/- DR gear and with auto still 3 can wear 50/- That is why auto still<br/>\n<br/>\nPerma haste on items is freely available from lvl 1 so travel domain is pointless.<br/>\n<br/>\nDue to the post 40 level system high stats are feasable so getting the DEX for blinding speed may not be doable straight away, but after you have a few post 40 levels it is perfectly feasable to reroll and take that. For example, I have a build that is on \"level 600\" that has over 90 dex.Post 40 levels the xp requirements are the same as pre 40 so if you are lvl 400 you would need 400k exp to get 401 and so on, This means a max level of around 2000 or so with 2 extra ability points every 25 levels from lvl 50 onwards.<br/>\n<br/>\nThe reason I asked here was to get the best optimised build (I suck at building casters) I was hoping that someone could come up with a build ignoring ability points and then say \"you will need xyz ability points to make this. I could then get those base stats and then build according to their plan.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

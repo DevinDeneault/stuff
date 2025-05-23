@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "185",
+  "name": "Circle kick - still a trap?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/circle-kick-still-a-trap-t2354958.html",
+  "author": "Valkos",
+  "avatar": "10235425_1545159776.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "8:03 PM - Dec 18, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Have anyone of you tried Circle Kick in enhanced edition?<br/>\n<br/>\nIs it still a feat that doesn't perform well?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:40 AM - Dec 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't have EE, but while Circle Kick does give you another attack, it changes your target every round, which is not good strategy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:11 PM - Dec 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Quote straight out of NWNWiki:<br/>\n<br/>\n\"This feat will sometimes choose a target that is out of the range of the character's fists (but not necessarily beyond the range of the target's weapon). <br/>\nIf this happens, the circle kick will be attempted despite the range, but then the character will cease attacking (becoming flat-footed) because of the range. <br/>\nThis issue has been fixed in Neverwinter Nights Enhanced Edition.\"<br/>\n<br/>\nSo, at least you don't become flat-footed now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

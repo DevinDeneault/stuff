@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Preepic - Level 20 Builds",
+  "forum_id": "004",
+  "id": "016",
+  "name": "Dwarven Combat Rogue - Rogue 11 / Fighter 2 / Weapon Master 7",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarven-combat-rogue-rogue-11-fighter-2-weapon-mas-t2354313.html",
+  "author": "magaiti",
+  "avatar": "no_avatar.png",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "magaiti",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:09 PM - Sep 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is a STR-based rogue build,<br/>\n combining Heavy Armor S&amp;B style with WM crits and full set of rogue locks&amp;traps skills.<br/>\n Playable 1-20 PvE <span style=\"color:#FF0000\"><strong>[PvM]</strong></span><br/>\n<br/>\n Pros:<br/>\n \u00a0- WM crit profile<br/>\n \u00a0- Crippling Strike<br/>\n \u00a0- 6d6 Sneak Attack<br/>\n \u00a0- maxed rogue skills<br/>\n Cons:<br/>\n \u00a0- low saves<br/>\n<br/>\n Rogue(11), Fighter(2), Weapon Master(7)<br/>\n<br/>\n Race: Dwarf<br/>\n Alignment: Any<br/>\n<br/>\n STR: 17 (22)<br/>\n DEX: 13<br/>\n CON: 16<br/>\n WIS: 8<br/>\n INT: 14<br/>\n CHA: 6<br/>\n<br/>\n 01: Rogue(1): Dodge<br/>\n 02: Fighter(1): Weapon Focus: Scimitar<br/>\n 03: Rogue(2): Expertise, {Evasion}<br/>\n 04: Rogue(3): STR+1, {Uncanny Dodge I}, (STR=18)<br/>\n 05: Rogue(4)<br/>\n 06: Rogue(5): Mobility<br/>\n 07: Rogue(6)<br/>\n 08: Rogue(7): STR+1, (STR=19)<br/>\n 09: Rogue(8): Spring Attack<br/>\n 10: Fighter(2): Improved Critical: Scimitar<br/>\n 11: Rogue(9)<br/>\n 12: Rogue(10): STR+1, Whirlwind Attack, Crippling Strike, (STR=20)<br/>\n 13: Weapon Master(1): Weapon of Choice: Scimitar<br/>\n 14: Weapon Master(2)<br/>\n 15: Weapon Master(3): Knockdown<br/>\n 16: Weapon Master(4): STR+1, (STR=21)<br/>\n 17: Weapon Master(5)<br/>\n 18: Weapon Master(6): Blind Fight<br/>\n 19: Weapon Master(7)<br/>\n 20: Rogue(11): STR+1, (STR=22)<br/>\n<br/>\n Hitpoints: 216<br/>\n Skillpoints: 176<br/>\n Saving Throws (Fortitude/Reflex/Will): 11/13/4<br/>\n Saving Throw bonuses: Spells: +4, Traps: +2, Poison: +2<br/>\n BAB: 17<br/>\n AB (max, naked): 25 (melee), 18 (ranged)<br/>\n AC (naked/mundane armor/shield only): 15/26<br/>\n<br/>\n Disable Trap 23(27)<br/>\n Discipline 22(28)<br/>\n Intimidate 4(2)<br/>\n Open Lock 23(24)<br/>\n Search 23(25)<br/>\n Set Trap 23(26)<br/>\n Spellcraft 8(10)<br/>\n Tumble 20<span style=\"color:#FF0000\"><strong> (21)</strong></span><br/>\n UMD 22(20)<br/>\n<br/>\n<span style=\"color:#FF0000\"><strong>Skill Schedule</strong><br/>\n 01: Disable Trap(4), Intimidate(4), Open Lock(4), Search(4), Set Trap(4), Spellcraft(2), Tumble(4), UMD(4), Save(8)<br/>\n 02: Discipline(5), Save(7)<br/>\n 03: Disable Trap(2), Open Lock(2), Search(2), Set Trap(2), Spellcraft(1), Tumble(2), UMD(2), Save(3)<br/>\n 04: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(7)<br/>\n 05: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Tumble(1), UMD(1), Save(9)<br/>\n 06: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(13)<br/>\n 07: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Tumble(1), UMD(1), Save(15)<br/>\n 08: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(19)<br/>\n 09: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Tumble(1), UMD(1), Save(21)<br/>\n 10: Discipline(8), Save(17)<br/>\n 11: Disable Trap(2), Open Lock(2), Search(2), Set Trap(2), Spellcraft(1), Tumble(2), UMD(2), Save(13)<br/>\n 12: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(17)<br/>\n 13: Discipline(3), Spellcraft(1), Save(16)<br/>\n 14: Discipline(1), Save(19)<br/>\n 15: Discipline(1), Save(22)<br/>\n 16: Discipline(1), Save(25)<br/>\n 17: Discipline(1), Save(28)<br/>\n 18: Discipline(1), Save(31)<br/>\n 19: Discipline(1), Save(34)<br/>\n 20: Disable Trap(8), Open Lock(8), Search(8), Set Trap(8), Tumble(5), UMD(7)</span><br/>\n<br/>\n<em><span style=\"color:#000000\">edit: per Hip 20160624 (corrections/additions of missing info, in</span></em><span style=\"color:#FF0000\"><strong> red</strong></span><em><span style=\"color:#000000\">)</span></em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:47 PM - Sep 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A nice offensive sword &amp; board combatant, magaiti.<br/>\n<br/>\n Perhaps you can move knockdown &amp; blind fight earlier to the build? I would also keep a nice stack of clarity potions in his bag always with that will save, the others are oka-ish.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:43 AM - Sep 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd change the level split myself going ro 9 f4 wm7. Starting out with 2 levels ro then the 4 fighters then 6 more ro. To pick up your feats faster now that im thinking more about it r7 f6 w7 would be even better moving blindfight and knockdown earlier picking up ws and maybe Iron will.  Sure you lose sneak damage and crippling strike but the tradeoff might be worth it. <br/>\n<br/>\n Valerfor you want to crunch those #'s in the cbc ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:47 AM - Sep 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@darknight, the 7/6/7 set-up is indeed a good &amp; proven build as i have seen in 20 lvl PW's, a nice alternative to the overused 10/3/7, which is what most people make.<br/>\n<br/>\n magaiti's build is fine though, he has a feel of originality to it and crippling strike is a nice addition, although you need TWF to make full use of it.<br/>\n<br/>\n Sorry, i don't use the CBC though-just yellow notes, then paper ;) Hip &amp; empyre would be the most advanced users of it (CBC).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:44 AM - Sep 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I do the pad of paper myself the wife absolutely hates it.  All my postings are currently from my phone so no \"real\" builds for awhile.  <br/>\n Back to the build...   that will save is just plain ugly so like valerfor said clarity potions will be your friend . Almost want to suggest fighter first lvl for an extra early feat (LoH.. strong soul come to mind) but I won't because of the skill point loss. Err I suppose as already suggested try to move blindfight and knockdown earlier (ie 2 more fighter lvls) going r9/f4/wm7 would make it easier but nowtI repeating myself so I'll stop. Other than the few tweaks it does look good. Peace...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:32 AM - Sep 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Man, you are a hero, if i was posting here from my <strong>phone </strong>and had to do all this double-editing i normaly do due to the format distortion the new forum does, i would break it for sure :)<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "magaiti",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:17 AM - Sep 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With this level split you can take either KD or BF as early as level 3 (at 2nd fighter level), at the cost of moving ImpCrit to lvl 15 or 18.<br/>\n 7/6/7 split sounds promising, though it will cost you 24 skill points.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

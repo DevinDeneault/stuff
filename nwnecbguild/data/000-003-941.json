@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "941",
+  "name": "lvl 30 pugilist",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lvl-30-pugilist-t2354935.html",
+  "author": "samurainostalgique",
+  "avatar": "no_avatar.png",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:28 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello ecbguilders!<br/>\n<br/>\nHere I am building yet another unarmed specialist, this time for Solarune, a relatively low magic (+3/+4 items are generally the best you can find, and I think there are no permahaste items) level 30 persistent world in which you start at level 10 (there is already a thread about this PW, but it just shows the subraces bonuses and maluses: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/fr-solarune-t2354562.html\" rel=\"noreferrer\" target=\"_blank\">fr-solarune-t2354562.html</a> ). <br/>\n<br/>\nI will be using the avariel elf subrace, which has the following bonuses:<br/>\n<br/>\nFavored Class: Cleric<br/>\nProperties:<br/>\nAbility Bonus: Dexterity +2<br/>\nAbility Bonus: Intelligence +2<br/>\nAbility Bonus: Wisdom +2<br/>\nSkill Bonus: Spot +2<br/>\n<br/>\nIn this PW, the subraces bonuses and maluses are applied like magic buffs and debuffs on top of the race's normal modifiers and feats. So, for example, an avariel gets all the usual elven traits, including +2 dexterity, and on top of that gets a further +2 dexterity bonus that counts toward the magic bonus cap, and doesn't count when trying to qualify for feats (as well of course as similar bonuses to wisdom, intelligence and spot, as seen above).<br/>\n<br/>\n\u00a0 <br/>\nI was thinking about going with this:<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n(MONK 20/ FIGHTER 5/ SHADOWDANCER 5)<br/>\nRace: Elf-Avariel<br/>\nAlignment: Lawful-neutral<br/>\n<br/>\nSTARTING/ ENDING STATS (without avariel bonuses):<br/>\nSTR -\u00a0 14<br/>\nDEX -\u00a0 19 (26) <br/>\nCON - 11 <br/>\nINT \u2013\u00a0 08 <br/>\nWIS -\u00a0 14 <br/>\nCHA - 08<br/>\n<br/>\n<br/>\n01) Monk (01): Luck of heroes<br/>\n02) Monk (02): <br/>\n03) Monk (03): Weapon Finesse<br/>\n04) Monk (04):\u00a0 DEX +1 (20)<br/>\n05) Monk (05):<br/>\n06) Monk (06): WF: Unarmed<br/>\n07) Monk (07): <br/>\n08) Monk (08): DEX +1 (21)<br/>\n09) Monk (09): Blind-Fighting<br/>\n10) Monk (10): <br/>\n11) Monk (11): <br/>\n12) Monk (12): Improved Critical: Unarmed, DEX +1 (22)<br/>\n13) Monk (13): <br/>\n14) Monk (14): <br/>\n15) Monk (15): Toughness<br/>\n16) Monk (16): DEX +1 (23)<br/>\n17) Fighter (01): Dodge<br/>\n18) Fighter (02): Mobility, Great Fortitude<br/>\n19) Fighter (03): <br/>\n20) Fighter (04): WS: Unarmed, DEX +1 (24)<br/>\n21) Shadowdancer (01): EWF: Unarmed<br/>\n22) Shadowdancer (02): <br/>\n23) Shadowdancer (03):<br/>\n24) Fighter (05): EWS: Unarmed, DEX +1 (25)<br/>\n25) Shadowdancer (04): <br/>\n26) Shadowdancer (05):<br/>\n27) Monk (17): Epic Dodge<br/>\n28) Monk (18): DEX +1 (26)<br/>\n29) Monk (19): <br/>\n30) Monk (20): Epic Prowess (not sure about this one. You get more bang for your buck with Armor Skin than with Epic Prowess on one hand, but on the other hand this character needs AB more than AC)<br/>\n<br/>\nHit points: 280<br/>\nSkill points: 132<br/>\n<br/>\nTumble: 30 (38)<br/>\nHide: 33 (41)<br/>\nMove silently: 33 (41)<br/>\nHeal: 3 (5)<br/>\n<br/>\n<br/>\nBAB: 21<br/>\nAB: +33/+30/+27/+24/+21/+18 (Unarmed)<br/>\nDamage: 1D20 +8<br/>\n<br/>\nSaving throws: 23/25/19<br/>\n<br/>\nNaked AC: 31<br/>\n<br/>\nThere is an XP penalty from level 17 onwards, but I'll deal with it.<br/>\n<br/>\nI reckon that this guy is tight on skill points and HP. In fact, I considered starting at 18 dexterity, 12 constitution and 10 intelligence, and investing in spellcraft, or maybe spot (there are a lot of stealth users in this PW, but this is more of a PVP and roleplay concern whereas I think that spellcraft would be more useful against mobs), using an epic feat for great dexterity, instead of epic prowess, but losing one point of AB is a hard decision of course...<br/>\n<br/>\nWhat do you think about it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:11 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about Monk 17 Fighter 8 / SD 5? You could use the 2 added Fighter feats in epic levels for EWS and Armor Skin, freeing up a general feat for Great DEX, which would allow you to start with 18 DEX and still end with 26 DEX. The only downsides I see are 3 less Spell Resistance and a 50% Monk Speed bonus instead of 60%.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:23 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, it would also make me lose the perfect mind feat from monk 20, as well as empty body, which is nice when soloing since I can't cast improved invisibility. I kinda like the idea of perfect mind from an RP point of view, plus it's nice not to have to worry about getting caught by a mind affecting effect without clarity, or getting your clarity dispelled. The benefits from such a trade off are tempting, but I think I still prefer keeping perfect mind.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:34 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, it feels sad when you are so close to the two best special features for the Monk and you do not get them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:22 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You make a good point.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:20 PM - Aug 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, what would you choose between having more HPs, fortitude and another full skill, and having one more point of AB (or maybe metal skin for 2 more points of AC)? I'm still torn about that choice lol.<br/>\n<br/>\nDev crit is allowed here by the way.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

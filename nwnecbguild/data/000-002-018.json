@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "018",
+  "name": "Epic spells and mantles",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-spells-and-mantles-t2356252.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "8:32 PM - Jul 28, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello<br/>\nDoes anyone know if offensive epic spells (Greater Ruin and Hellball) interact with mantles? My take is that since they don't check for SR, they should ignore mantles entirely, but I have not tested.<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:29 PM - Jul 28, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">They ignore Mantles.<br/>\n<br/>\nThey are technically not really considered spells, but are feat-based effects.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

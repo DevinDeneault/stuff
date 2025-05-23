@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "799",
+  "name": "Dex Based Cleric 10 APR Assassin (Cleric 25 / Monk 6 / Assassin 9)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dex-based-cleric-10-apr-assassin-cleric-25-monk-6--t2355189.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:30 PM - Oct 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Here's a build draft I made aiming for a dex based cleric / monk / assassin.<br/>\n<br/>\nIts time I take myself away from the comfort of strength based dev crit warriors<br/>\n<br/>\nDual Kama ITWF Undispellable cleric evilness (apart from Mords/Breaches)<br/>\n<br/>\nAssassin 9 for 5d6 death attack combined with 10 APR and undispellable improved invisibility<br/>\n<br/>\nBalanced saves, all above 25 combined with evasion deflect arrows<br/>\n<br/>\nNaked AC 34.\u00a0<br/>\n<br/>\nBase AB 25 + 9 + 4 = 38<br/>\n<br/>\nMaybe done before. Anyway this is what I've cooked up<br/>\n<br/>\nCould have gone Cleric 32 / Monk 6 / Assassin 2 for extra great wisdom (including Wis AC) and extra caster levels but I think the extra death attack damage would be welcome<br/>\n<br/>\n<details><summary>Spoiler</summary>Cleric(25), Monk(6), Assassin(9), Human\nSTR: 8\nCON: 12\nINT: 14\n\n01: Monk(1): Toughness, Weapon Focus (Kama), {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Cleric(2): Two Weapon Fighting\n05: Cleric(4)\n07: Monk(2): {Deflect Arrows}\n09: Cleric(7): Extend Spell\n11: Cleric(9)\n13: Cleric(10)\n15: Cleric(12): Empower Spell\n17: Monk(4)\n19: Cleric(15)\n21: Monk(5): Epic Weapon Focus (Kama)\n23: Cleric(17)\n25: Cleric(19)\n27: Cleric(21): Epic Prowess\n29: Cleric(23): Armor Skin\n31: Assassin(1)\n33: Assassin(3): Great Dexterity III, (DEX=24)\n35: Assassin(5)\n37: Assassin(7)\n39: Assassin(9): Great Dexterity V, (DEX=27)\n\nSkillpoints: 251\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +1, Poison: +4\nAB (max, naked): 38 (melee), 35 (ranged)\nSpell Casting: Cleric(9)\n\n\n01: Concentration(4), Listen(4), Save(20),\u00a0\n03: Concentration(1), Spellcraft(1), Save(22),\u00a0\n05: Concentration(1), Spellcraft(1), Save(28),\u00a0\n07: Concentration(1), Listen(6), Tumble(10), Save(21),\u00a0\n09: Concentration(1), Spellcraft(1), Save(26),\u00a0\n11: Concentration(1), Spellcraft(1), Save(32),\u00a0\n13: Concentration(1), Spellcraft(2), Save(30),\u00a0\n15: Concentration(1), Spellcraft(1), Save(36),\u00a0\n17: Concentration(1), Hide(8), Listen(5), Move Silently(8), Tumble(5), Save(19),\u00a0\n19: Concentration(1), Spellcraft(1), Save(24),\u00a0\n21: Concentration(1), Listen(4), Save(29),\u00a0\n23: Concentration(1), Spellcraft(3), Save(30),\u00a0\n25: Concentration(1), Spellcraft(1), Save(36),\u00a0\n27: Concentration(1), Spellcraft(1), Save(42),\u00a0\n29: Concentration(1), Spellcraft(1), Save(48),\u00a0\n31: Disable Trap(5), Listen(8), Open Lock(1), Set Trap(5), Tumble(5), UMD(34),\u00a0\n33: Disable Trap(6), Listen(1),\u00a0\n35: Disable Trap(6), Listen(1),\u00a0\n37: Listen(1), Tumble(5), Save(3),\u00a0\n39: Listen(1), Save(15),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:38 AM - Oct 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would keep it as-is, the II from Ass(9) is well worth it. <br/>\n<br/>\nAlso, nice saves.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:34 PM - Oct 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A favourite of mine is the dex based Cleric 26/ Monk 9/ SD5 with Epic dodge and Trickery domain. <br/>\nYou get an undispellable Improved Invisibility from cleric, and cleric buffs provide more than enough AB and weapon damage. <br/>\nBut I guess that takes us back to Yar Stardawg and his <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build238484.html\" rel=\"noreferrer\" target=\"_blank\">Priest of the Shadows</a> from february 28th 2005. <br/>\nI played a character with that class and level spread on the Anchorome PW from december 2005. Max is also very fond of that build type and has posted his \"Shadow Priest\" build both here and also in the old build archive back in 2010. <br/>\nBut enough rant and nostalgia.<br/>\n<br/>\nI like your effort on exploring new dexers the way you have done recently. As for this build, taking assassin to lvl 9 is indeed one of my \"sweet spots\" for minor multiclassing assassins. Cleric is very strong for dex builds because of all the damage buffs that overcome the lack of strength based damage bonus for dexers in general. Monk is ideal for dex clerics since you get an AC bonus from both wisdom and dexterity, and because you can use Kamas with the monk attack progression.<br/>\nKeep up the good work!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

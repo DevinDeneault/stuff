@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "966",
+  "name": "Level 20 Zen Archer Paladin?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-20-zen-archer-paladin-t2354892.html",
+  "author": "blur927",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "blur927",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:54 PM - Jun 11, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys, first time poster long time lurker here.<br/>\n<br/>\nI've been toying with making a paladin of Ilmater, and I thought it would be cool to try something a little different and make an archery based paladin, but then I realized all of my successful builds have come from you guys and I couldn't find one here that fit. ;)<br/>\n<br/>\nThe rules for this particular server are that paladins cannot multiclass, so it would have to be all paladin levels. You'd think that would make it easier for me but I'm still really struggling with the stat spread. I was thinking something like this:<br/>\n<br/>\nRace Human<br/>\n<br/>\nS 14<br/>\nD 8<br/>\nC 10<br/>\nI 14<br/>\nW 16 (21)<br/>\nCh 14<br/>\n<br/>\nThen feats would be something like this:<br/>\n<br/>\n1 power attack, WF Longbow<br/>\n3 divine might<br/>\n6 ZA<br/>\n9 Improved Critical: Longbow<br/>\n12 ???<br/>\n15 ???<br/>\n18 ???<br/>\n20 ???<br/>\n<br/>\nAny suggestions? I am open to different races but I kind of like roleplaying humans (I am not very imaginative I guess). Thanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "4:07 PM - Jun 11, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You must use feats for archery and Divine Might. Divine might is a goooood feat for archery. Not sure you need 14 INT. <br/>\n16 Wis should be sufficient. Have 14 STR for damage, 8 DEX 10 Int, 10 or 12 for CON, spend evertyhing for Charisma. Taunt as one of your skills.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:00 PM - Jun 11, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What Grim said, divine spell-bows are truly powerful if done right.<br/>\n<br/>\nYou will also have your Paladin spells to help you with AB so spend most of your points in Charisma.<br/>\n<br/>\nStr: 14, Dex: 8, Con: 12, Int: 10, Wis: 15 (16), Cha: 16 (20) Is what I would do.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:04 PM - Jun 11, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Power attack, Divine might, Divine shield, Weapon focus, Zen Archery, Blind-fight, Point blank shot &amp; Rapid shot. Those are the standard feats, you can drop something in order to get\u00a0 Called shot if you think you need it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

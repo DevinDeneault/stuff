@@ -1,0 +1,20 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "245",
+  "name": "Component Sequence of an Attack",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/component-sequence-of-an-attack-t2354279.html",
+  "author": "HipMaestro",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:22 AM - Jul 23, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Figured I'd pass this information along as it pertains directly to optimizing character builds:<br/>\n<br/>\n I've\u00a0been following a discussion of a few contributors on the NWN Wiki about how various components of each attack is handled by the game engine. \u00a0It may surprise you. \u00a0It did me. This is the sequence which gets resolved for each attack:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Concealment\" rel=\"noreferrer\" target=\"_blank\"><strong>Concealment/miss chance</strong></a> <em>(first in sequence) </em>---&gt; <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Parry\" rel=\"noreferrer\" target=\"_blank\"><strong>Parry</strong></a> -&gt; <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Attack_roll\" rel=\"noreferrer\" target=\"_blank\"><strong>AC</strong></a> ---&gt; <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Deflect_Arrows\" rel=\"noreferrer\" target=\"_blank\"><strong>Deflect arrows</strong></a> ---&gt; <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Dice_roll\" rel=\"noreferrer\" target=\"_blank\"><strong>Auto-miss/auto-hit</strong></a> ---&gt; <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Epic_dodge\" rel=\"noreferrer\" target=\"_blank\"><strong>Epic dodge</strong></a> <em>(last in sequence)</em><br/>\n<br/>\n In simple terms, it means that as soon as a success is encountered, all remaining components of the sequence are skipped and the next attack (if any still remain) begins. \u00a0Conversely, if the first five in the sequence fail their roll, only then can <em>Epic Dodge</em> trigger.<br/>\n<br/>\n What surprised me most was that concealment can bypass the attack roll altogether, effectively negating the value of high AC when it succeeds.<br/>\n<br/>\n Also, the importance of <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Blind_fight\" rel=\"noreferrer\" target=\"_blank\">Blind Fight</a> was reinforced. \u00a0Anything that can be done to reduce the proportion of concealment roll successes means AC will become more of a factor. \u00a0<br/>\n When you get a chance, especially if you haven't already, reacquaint yourself with the articles of the six attack components and the associated <strong>Talk </strong>pages where experience, testing and analysis are documented. \u00a0It may open your eyes and/or surprise you. \u00a0In either case, it is all information that will help make your character-building skill all that much more effective. \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

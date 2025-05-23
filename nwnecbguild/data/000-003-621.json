@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "621",
+  "name": "Suggestion for level progression of a Monk, Ranger, Champion of Torm on WoG",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/suggestion-for-level-progression-of-a-monk-ranger--t2355449.html",
+  "author": "eburro6416",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "eburro6416",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:23 AM - Apr 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all!<br/>\n<br/>\nI have never made a build before so im not super sure how to go about this. What I am looking for is maximum number of attacks per round with as much AC and AB as I can get. I chose monk because it is my favorite class to play. I was thinking of doing a Dex based Kama monk and Wis based as well so that I can benefit from the no max dex of robes and the monk AC. I was thinking Ranger because they can maintain a decent AB bonus and they get two weapon fighting for free. I also chose Champion of Torm for saves and a little bit of spell casting. But I would like to not worry to much about spell casting and just be able to hold my own against most think as much as I can. I believe max enchantment on WoG is +6. There is no alignment changes and no race restrictions either. Also I want to use Kamas.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:08 PM - Apr 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I recommend Fighter instead of Ranger to get your dual-wielding feats and WS / EWS, too.\u00a0 CoT does give you better saves, but not spell casting.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:43 PM - Apr 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is what I am currently using on WoG ;<br/>\n<details><summary>Spoiler</summary>Devastating Kama Woodsman\nRanger(26), Monk(7), Weapon Master(7), Dwarf\nSTR: 18 (28)\nCON: 10\nINT: 12 (13)\n\n02: Ranger(2)\n04: Ranger(4): INT+1, (INT=13)\n06: Ranger(6): Expertise\n08: Ranger(8): STR+1, (STR=19)\n10: Ranger(10): Favored Enemy III\n12: Ranger(12): STR+1, Whirlwind Attack, (STR=20)\n14: Ranger(14)\n16: Ranger(16): STR+1, (STR=21)\n18: Ranger(18): Power Attack\n20: Ranger(20): STR+1, Favored Enemy V, (STR=22)\n22: Ranger(21)\n24: Ranger(23): STR+1, Impr. Crit Kama, BoE (STR=23)\n26: Ranger(25): Epic Weapon Focus (Kama)\n28: Monk(2): STR+1, {Deflect Arrows}, (STR=24)\n30: Monk(4): Overwhelming Critical (Kama)\n32: Ranger(27): STR+1, (STR=25)\n34: Weapon Master(2)\n36: Weapon Master(4): STR+1, Armor Skin, (STR=26)\n38: Weapon Master(5)\n40: Weapon Master(7): STR+1, (STR=28)\nHitpoints: 386\nSaving Throws (Fortitude/Will/Reflex): 22/18/18\nBAB: 30\nAC (naked/mundane armor/shield only): 25/30\nAlignment Changes: 0\nIntimidate 4(2), Tumble 40(42), remaining skillpoints 153\n\n02: Save(21), \n04: Save(29), \n06: Save(37), \n08: Save(47), \n10: Save(57), \n12: Save(67), \n14: Save(77), \n16: Save(87), \n18: Save(97), \n20: Save(107), \n22: Save(97), \n24: Save(107), \n26: Save(117), \n28: Tumble(10), Save(117), \n30: Save(127), \n32: Tumble(5), Save(132), \n34: Save(138), \n36: Save(144), \n38: Save(147), \n40: Save(153),\u00a0 \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

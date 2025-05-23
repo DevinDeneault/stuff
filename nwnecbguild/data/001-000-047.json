@@ -1,0 +1,38 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "047",
+  "name": "CEP 2.3",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cep-2-3-t523085.html",
+  "author": "NwnwhiteBoy",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:36 AM - Nov 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello, I've just downloaded CEP 2.3 but I have no clue how to install it, can anyone help me out?<br/>\n<br/>\nTIA<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:43 AM - Nov 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why not CEP 2.4?  That's the latest update.  I am not sure if 2.3 works the same as 2.4, but I'm willing to bet it does... Just extract the .rar file into your nwn directory.  It'll ask if you want to merge the folders.. just say yes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:01 AM - Nov 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In the compressed file, there are folders which match those in your NWN folder.  Just extract the files from the compressed folder into the matching ones on your machine.  If a folder does not yet exist, you can extract the folder with contents directly into the NWN folder.  Any files that are not organized into folders, extract directly to the NWN folder.  The exe will be one of these.  You do NOT have to use the CEP exe to install the files and can do it manually as I have outlined.<br/>\n<br/>\nOne extra step I would suggest is to make a copy of all the files in each of the folders BEFORE extracting CEP.  Should any file be corrupt (if it affects gameplay adversely) it is easier to identify the culprit if you have a full listing.  Not necessary, but have found it helpful under certain circumstances. You may also find you need CEP 1.x to play some content.  Some files from previous CEP versions are/were not included in CEP 2.3 (or 2.4) yet still used in modules designed with older versions of CEP.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:06 PM - Nov 13, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Awesome very helpful  all sorted! Thanks very much!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

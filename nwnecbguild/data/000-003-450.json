@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "450",
+  "name": "Cleric/rouge Archer build (Arelith build)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cleric-rouge-archer-build-arelith-build-t2286084.html",
+  "author": "Churchburner666",
+  "avatar": "no_avatar.png",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Churchburner666",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:54 AM - Sep 13, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey, Fairly new to hardcore character building and seen other rouge clerics that involved taking gifts ex, gift of wisdom +2 wisdom where as i'd rather not taking any gifts.<br/>\nWas wondering could someone construct me a build of cleric then rouge (for rp reasons) But if really need be I can start as rouge but must hit cleric before at lvl 2 or 3. Must be human and cant use any monk because of alignment restriction. Cheers! <br/>\n<br/>\n<br/>\n\\m/<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:48 AM - Sep 13, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Arelith has a rule that the first time you take a class, you must take at least 3 levels of that class before taking any other class, so if you take Rogue first, the earliest you could take Cleric would be level 4. Still, it is best to take Rogue at level 1 because of skill points. At level 1, you get 4x as many skill points as any other level, and Rogue gets 6 more skill points per level than Cleric gets, so that extra 6 points would be multiplied by 4 at level 1, so your build gets 24 more skill points if you take Rogue first instead of Cleric first.<br/>\n<br/>\nIt looks like this might be one of those rare cases where a third class might weaken the build, since you have ruled out Monk. I presume that Shadowdancer has its HiPS feat nerfed. Fighter might be an option for EWS, but that would mean 4 fewer levels of Cleric, making you dispellable, or you would lose 2 levels of Cleric and lose the later Tumble skill dumps and therefore -2 AC.<br/>\n<br/>\nHow about Rogue 6 Cleric 24? If you choose a god with the Trickery domain, what options do you have for the other domain? If there are no replies, I'll edit this post in about an hour with a build.<br/>\n<br/>\nBy the way, the u goes after the g in Rogue. Rouge is red make-up.<br/>\n<br/>\n<strong>Edit:</strong> Here's the build. I made a very similar build for Arelith recently, but that one used gifts for WIS and INT.<br/>\n<br/>\nArelith Clever Cleric 2 (Rogue 6 / Cleric 24)<br/>\nHuman, Any Alignment<br/>\nPlayable 1 - 40<br/>\n<br/>\nAbilities:<br/>\nSTR: 10<br/>\nDEX: 14<br/>\nCON: 12<br/>\nWIS: 16 (26)<br/>\nINT: 14<br/>\nCHA: 10<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Rogue(1): Blind Fight, Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Proficiency Martial, {Uncanny Dodge I}<br/>\n04: Cleric(1): WIS+1, Domain Trickery, *Another Domain*(WIS=17)<br/>\n05: Cleric(2)<br/>\n06: Cleric(3): Zen Archery<br/>\n07: Cleric(4)<br/>\n08: Cleric(5): WIS+1, (WIS=18)<br/>\n09: Cleric(6): Weapon Focus: Longbow<br/>\n10: Cleric(7)<br/>\n11: Cleric(8)<br/>\n12: Rogue(4): WIS+1, Extend Spell, (WIS=19)<br/>\n13: Cleric(9)<br/>\n14: Cleric(10)<br/>\n15: Cleric(11): Spell Penetration<br/>\n16: Cleric(12): WIS+1, (WIS=20)<br/>\n17: Cleric(13)<br/>\n18: Cleric(14): Greater Spell Penetration<br/>\n19: Cleric(15)<br/>\n20: Cleric(16): WIS+1, (WIS=21)<br/>\n21: Cleric(17): Epic Weapon Focus: Longbow<br/>\n22: Rogue(5)<br/>\n23: Cleric(18)<br/>\n24: Cleric(19): WIS+1, Great Wisdom I, (WIS=23)<br/>\n25: Cleric(20)<br/>\n26: Cleric(21)<br/>\n27: Rogue(6): Great Wisdom II, (WIS=24)<br/>\n28: Cleric(22): WIS+1, (WIS=25)<br/>\n29: Cleric(23): Epic Spell Penetration<br/>\n30: Cleric(24): Great Wisdom III, (WIS=26)<br/>\n<br/>\nStats:<br/>\nHitpoints: 258<br/>\nSkillpoints: 219<br/>\nSaving Throws (Fortitude/Will/Reflex): 17/24/16<br/>\nSaving Throw bonuses: Spells: +7, Traps: +1<br/>\nBAB: 20<br/>\nAB (max, naked): 20 (melee), 31 (ranged)<br/>\nAC (naked/mundane armor/shield only): 18/28<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nConcentration 33(34), Disable Trap 30(32), Open Lock 30(32), Search 30(32), Spellcraft 33(35), Spot 18(26), Tumble 30(32), UMD 15(15)<br/>\n<br/>\n01: Disable Trap(4), Open Lock(4), Search(4), Spot(4), Tumble(4), UMD(4), Save(20)<br/>\n02: Disable Trap(1), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(25)<br/>\n03: Disable Trap(1), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(30)<br/>\n04: Concentration(7), Spellcraft(7), Save(21)<br/>\n05: Concentration(1), Spellcraft(1), Save(24)<br/>\n06: Concentration(1), Spellcraft(1), Save(27)<br/>\n07: Concentration(1), Spellcraft(1), Save(30)<br/>\n08: Concentration(1), Spellcraft(1), Save(33)<br/>\n09: Concentration(1), Spellcraft(1), Save(36)<br/>\n10: Concentration(1), Spellcraft(1), Save(39)<br/>\n11: Concentration(1), Spellcraft(1), Save(42)<br/>\n12: Disable Trap(9), Open Lock(9), Search(9), Spot(8), Tumble(9), UMD(9)<br/>\n13: Concentration(2), Spellcraft(2), Save(1)<br/>\n14: Concentration(1), Spellcraft(1), Save(4)<br/>\n15: Concentration(1), Spellcraft(1), Save(7)<br/>\n16: Concentration(1), Save(11)<br/>\n17: Concentration(1), Save(15)<br/>\n18: Concentration(1), Save(19)<br/>\n19: Concentration(1), Save(23)<br/>\n20: Save(28)<br/>\n21: Save(33)<br/>\n22: Disable Trap(10), Open Lock(10), Search(10), Spot(4), Tumble(10)<br/>\n23: Concentration(4), Spellcraft(1)<br/>\n24: Concentration(1), Spellcraft(4)<br/>\n25: Concentration(1), Save(4)<br/>\n26: Save(9)<br/>\n27: Disable Trap(5), Open Lock(5), Search(5), Tumble(5)<br/>\n28: Concentration(3), Spellcraft(2)<br/>\n29: Concentration(1), Spellcraft(4)<br/>\n30: Concentration(1), Spellcraft(4)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:13 PM - Sep 13, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Am I missing something? Where did the OP say it was an Arelith build?<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:59 PM - Sep 13, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Read the thread title.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:05 PM - Sep 13, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>Read the thread title. </div></blockquote>\n\nOOPS!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Churchburner666",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:11 PM - Sep 15, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks very much for the help man! This build should be quite fun to play! much appreciated!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

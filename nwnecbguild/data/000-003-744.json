@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "744",
+  "name": "Defender of the Underdark (Druid 7 / Shifter 10 / DD 23)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/defender-of-the-underdark-druid-7-shifter-10-dd-23-t2355266.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:35 PM - Dec 15, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Edited after Yunim's comment<br/>\n<br/>\nThis is a build concept, not yet completed, that attempts to obtain high AB through a high strength score in a shifter build.\u00a0<br/>\n<br/>\nIt's not a new idea and I understand Mick Dagger created a dev crit Kobold Commando shifter with a AB of 42 wielding a +3 sword.\u00a0<br/>\n<br/>\nHowever I'm not sure if high Str shifter + DD has been made before<br/>\n<br/>\nI have chosen to focus on shifted forms that transfer strength, namely the gargoyle form (not the epic gargoyle however), kobold commando and mindflayer forms.<br/>\n<br/>\nThe Risen Lord form is included for tankability<br/>\n<br/>\nThis build draft has four primary forms to use in combat:<br/>\n<br/>\n1. Dwarven Defender - this is the normal form, has spellcasting, wields a shortsword and shield, has DR 15/-, over 500hp, base AB 43.<br/>\n<br/>\n2. Kobold Commando - this form has a base AB 43 (46 with the +3 sword), 2d6 sneak attack, HiPS (albeit very poor stealth but it is self-buffable with camouflage and one with the land), DR 15/-<br/>\n3. Gargoyle Form - this form has base AB 40 with improved critical unarmed, 15/+1 damage reduction stacking with the DR 15/-. Seems pretty strong early levels.<br/>\n4. Mindflayer Form -\u00a0 it has a base AB of 40 with improved critical unarmed, has mind immunity, DR 15/- and this is the funniest form, it\u00a0attacks opponents by head butting them with its tenticular face<br/>\n<br/>\n5. Risen Lord Form for tankability but not offensive power<br/>\n<br/>\n<details><summary>Spoiler</summary>Druid(7), Shifter(10), Dwarven Defender(23), Dwarf\nSTR: 18 (34)\nCON: 14\nINT: 8\n\n01: Druid(1): Toughness\n03: Druid(3): Alertness\n05: Druid(5)\n07: Shifter(2)\n09: Shifter(4): Blind Fight\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Weapon Focus: Shortsword\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Shifter(5): Great Strength I, (STR=24)\n23: Shifter(7)\n25: Shifter(9)\n27: Shifter(10): Undead Shape\n29: Dwarven Defender(13)\n31: Dwarven Defender(15)\n33: Dwarven Defender(17): Great Strength IV, (STR=30)\n35: Dwarven Defender(19)\n37: Dwarven Defender(21)\n39: Druid(7): Great Strength VI, (STR=33)\n\nSkillpoints: 83\nSaving Throw bonuses: Spells: +2, Traps: +1, Poison: +2, Fear: +2\nAB (max, naked): 43 (melee), 29 (ranged)\nSpell Casting: Druid(3)\n\n\n01: Save(12),\u00a0\n03: Save(18),\u00a0\n05: Save(24),\u00a0\n07: Tumble(5), Save(20),\u00a0\n09: Save(26),\u00a0\n11: Discipline(14), Save(16),\u00a0\n13: Discipline(1), Save(16),\u00a0\n15: Discipline(1), Save(16),\u00a0\n17: Discipline(1), Tumble(5), Save(6),\u00a0\n19: Discipline(1), Save(6),\u00a0\n21: Save(9),\u00a0\n23: Save(15),\u00a0\n25: Save(21),\u00a0\n27: Tumble(5), Save(9),\u00a0\n29: Discipline(1), Save(8),\u00a0\n31: Discipline(1), Save(8),\u00a0\n33: Discipline(1), Save(8),\u00a0\n35: Discipline(1), Save(8),\u00a0\n37: Tumble(5),\u00a0\n39: Save(3),\u00a0</details>\nThis is the dev crit version. it loses blind fight, knockdown, armor skin and two great strengths. Base AB is 42 for dwarven / kobold forms (45 including the +3 shortsword), Base Str 32.\u00a0 Dev crit is active in dwarf form and Kobold Commando form<br/>\n<details><summary>Spoiler</summary>Druid(7), Shifter(10), Dwarven Defender(23), Dwarf\nSTR: 18 (32)\nCON: 14\nINT: 8\n\n01: Druid(1): Toughness\n03: Druid(3): Alertness\n05: Druid(5)\n07: Shifter(2)\n09: Shifter(4): Power Attack\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Weapon Focus: Shortsword\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Shifter(5): Great Cleave\n23: Shifter(7)\n25: Shifter(9)\n27: Shifter(10): Undead Shape\n29: Dwarven Defender(13)\n31: Dwarven Defender(15)\n33: Dwarven Defender(17): Great Strength II, (STR=28)\n35: Dwarven Defender(19)\n37: Dwarven Defender(21)\n39: Druid(7): Great Strength IV, (STR=31)\n\nSkillpoints: 83\nSaving Throw bonuses: Spells: +2, Traps: +1, Poison: +2, Fear: +2\nAB (max, naked): 42 (melee), 29 (ranged)\nSpell Casting: Druid(3)\n\n\n01: Save(12),\u00a0\n03: Save(18),\u00a0\n05: Save(24),\u00a0\n07: Tumble(5), Save(20),\u00a0\n09: Save(26),\u00a0\n11: Discipline(14), Save(16),\u00a0\n13: Discipline(1), Save(16),\u00a0\n15: Discipline(1), Save(16),\u00a0\n17: Discipline(1), Tumble(5), Save(6),\u00a0\n19: Discipline(1), Save(6),\u00a0\n21: Save(9),\u00a0\n23: Save(15),\u00a0\n25: Save(21),\u00a0\n27: Tumble(5), Save(9),\u00a0\n29: Discipline(1), Save(8),\u00a0\n31: Discipline(1), Save(8),\u00a0\n33: Discipline(1), Save(8),\u00a0\n35: Discipline(1), Save(8),\u00a0\n37: Tumble(5),\u00a0\n39: Save(3),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:01 PM - Dec 15, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dru7/Shif11/DD22 gives you epic Gargoyle form at the cost of 4 HP. If you're not going for the bare minimum or epic Kobold Commando then I would switch to that level layout.<br/>\nAnother slight change, if you're going for Shif10 I think you should pick up Undead Shape even if it means lowering STR. Risen Lord DD is a fairly standard DR tank due to 50% DI and critical immunity, and it is a very nice backup shape to have.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:06 AM - Dec 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Yunim for the tip on the risen lord. I'll see if I can find a way to incorporate it<br/>\nI haven't gone Shifter 11+ because I wanted to keep the standard gargoyle form which transfers the characters Str stat to the shifted form. Epic Gargoyle form had about 6 less AB when I loaded up the character in PGCC<br/>\n<br/>\n<strong>Edit:</strong>\u00a0added undead shape, added a dev crit version. What do you think now?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:15 AM - Dec 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If I was to make them myself I would drop the starting STR to 16 for more CON and INT, but for minmaxed builds they both look good.<br/>\n<br/>\nEpic Gargoyle drops your AB by 6 compared to the pre-epic form, but you gain 25/+7 DR which lets you penetrate X/+7 DR with your unarmed attacks. A pre-epic Gargoyle can't scratch an Adamantine Golem (50/+7 DR), but an epic Gargoyle can (although both AB and damage are low). It's a tricky choice though since the AB is already fairly low, sticking with pre-epic Gargoyle might be a better choice depending on your opponents.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

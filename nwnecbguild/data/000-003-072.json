@@ -1,0 +1,98 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "072",
+  "name": "Looking for a High AB High AC Fighter Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-a-high-ab-high-ac-fighter-build-t2354687.html",
+  "author": "Squid0023",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 13,
+  "posts": [
+    {
+      "author": "Squid0023",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:58 PM - Apr 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><span style=\"color:#ECF3F7\">Hello,</span><br/>\n<br/>\n<br/>\n \u00a0I am looking a fighter based class lvl 20 build that has High AB and High AC \u00a0<strong>Pure Fighter Classes</strong><br/>\n Melee Preference: \u00a0Shield and Weapon (Bastard Sword would be awesome but if it sacrifices key components nevermind)<br/>\n Wants: Improved Knockdown, Expertise<br/>\n<br/>\n Restrictions:<br/>\n Classes must be no more than 10 levels apart when multiclassing<br/>\n All Prestige classes must have at least 5 levels in them<br/>\n -No RDD<br/>\n<br/>\n Preferences: Fighter/Rogue , Fighter Bard,\u00a0<br/>\n The Highest Enchantment is like +3 \u00a0Echantment<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "11:16 PM - Apr 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">High AB + High AC = dexer.\u00a0 Choose a finessable weapon.\u00a0 <br/>\n<br/>\nThe only other way is an RDD 10 but then that's not pure fighter, is it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:42 PM - Apr 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipRedux wrote:</strong><hr/>High AB + High AC = dexer.\u00a0<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">A <strong>halfling</strong> dexer, if I might add...<br/>\n<br/>\n You need dex 30 to surpass the AC from full plate. A maxed elf or halfling gets dex 24 (or 25). With max +12 dex from items and potions they get dex 36 (37) and end up with +4 AC compared to strength builds. Monks can get even better AC with their AC bonus from wis and +1 AC per 5 levels, but then they cannot use shields.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:54 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">... quite, Mick. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nPossibly kukri/large shield with stealth to take further advantage of the size modifier.\u00a0 A halfling fighter/barb would be able to boost AB via successful taunts as well.\u00a0 Rage would be detrimental to the AC but boost Fort, HP and damage, should the need arise.\u00a0 And the minor DR wouldn't hurt either.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Squid0023",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:31 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>\n<blockquote><div><strong>HipRedux wrote:</strong><hr/>High AB + High AC = dexer.\u00a0<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">A <strong>halfling</strong> dexer, if I might add...<br/>\n<br/>\n You need dex 30 to surpass the AC from full plate. A maxed elf or halfling gets dex 24 (or 25). With max +12 dex from items and potions they get dex 36 (37) and end up with +4 AC compared to strength builds. Monks can get even better AC with their AC bonus from wis and +1 AC per 5 levels, but then they cannot use shields.</div>\n</div></blockquote>\n<div align=\"left\">\n<br/>\n A Halfing Dexer Oh my goodness I would have never thought of Making a fighter based halfing that Holds a Large Shield and like a Kurki geez I wouldn't even know how to build a 1-20 in something like that whats your feel on that?\u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:30 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Pretty straight-forward with few surprises actually...<br/>\nSpoiler [+]<br/>\n<br/>\nFighter 8/ Barbarian 8/ Rogue 4, Any Non-lawful Halfling<br/>\n<br/>\nSTR: 11<br/>\nDEX: 19 (24)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n01 - Brb(1): Wpn Prof Exotic, Weapon Finesse\u00a0 <em>(if you go with a shortie or dagger instead, can save a feat here, but smaller crit range)</em><br/>\n02 - Brb(2): {Class: Uncanny Dodge}<br/>\n03 - Ftr(1): WF: Kukri, Blind Fight<br/>\n04 - Ftr(2): DEX+1 (20)<br/>\n05 - Ftr(3)<br/>\n06 - Brb(3): Expertise<br/>\n07 - Ftr(4): WS: Kukri<br/>\n08 - Rog(1): DEX+1 (21)<br/>\n09 - Brb(4): Dodge<br/>\n10 - Ftr(5)<br/>\n11 - Brb(5)<br/>\n12 - Ftr(6): DEX+1 (22), KD, ImpCrit: Kukri<br/>\n13 - Rog(2): {Class: Evasion}<br/>\n14 - Brb(6)<br/>\n15 - Brb(7): SkF: Taunt<br/>\n16 - Rog(3): DEX+1 (23)<br/>\n17 - Ftr(7)<br/>\n18 - Rog(4): ImpExpertise<br/>\n19 - Ftr(8): IKD<br/>\n20 - Brb(8): DEX+1 (24)<br/>\n<br/>\nHP max: 240<br/>\nSaves F/W/R: 16/5/16<br/>\nAdd'l saves: Traps +1, Fear +2<br/>\nBAB: 19 (4 APR, 5 hasted)<br/>\n<br/>\nAB (max, naked): 28 (melee), 28 (thrown), 27 (other ranged)<br/>\n{19bab +7dex +1wf +1size}<br/>\n<br/>\nAC: (naked) 22/ mundane robes+Lgshield) 25<br/>\n{10 + 1size +4tum +1dodge +7dex +2shld}<br/>\n<br/>\nSkills (132) - Concentration 22(24), Hide 21(32), Move Silently 21(34), Search 10(12), Taunt 23(25), Tumble 20(27), UMD 21(20)<br/>\n<br/>\n<br/>\n<br/>\n...and equally effective with a sling in hand for bludgeoning skels and such. \u00a0<br/>\n<br/>\nTime to start hashing these basics out yourself.\u00a0 The player is always in the best position to make adjustments for their preferred server on-the-fly.\u00a0 The CBC makes it faster, but manually is probably best for new builders to understand the full consequences of each decision.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:40 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Your assuming +12 DEX enhancements in a +3 environment. Is that a safe assumption?<br/>\n<br/>\n If not, then how about a STR-based sword-and-board Fighter 14 / Bard or Rogue 6?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:36 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The OC is a +3 enhancement and capping DEX is easy even without Cat pots.\u00a0 Problem is only half-orc has a racial bias for STR so unless you adopt that race, the AB will always lag behind either halfling or elf.\u00a0 It's the DEX boost found on gloves that makes the biggest difference.\u00a0 You'll seldom (if ever) find them with any higher than +2 STR whereas +5 DEX are fairly common.\u00a0 This isn't an unarmed build so that's the most likely property to be used in that slot by a dexer.<br/>\n<br/>\nYes, it's a pretty safe assumption in a +3 environment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:54 AM - Apr 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just to throw an alternative into the mix, how about <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2350552/\" rel=\"noreferrer\" target=\"_blank\">Mick's <strong>Brawler Champion</strong></a> (Fighter 8 / Monk 2 / CoT 10)? It's a human, STR build with a BAB of 19 and an AC of 25 (in plate with tower), two separate WFs and WSs as well as cracking saves. I would do the link-thingy, but it seems to be misbehaving for me currently. I can tell you that's is on the first page of the Pre-Epic (Level 20) sub-forum. Just a thought.<br/>\n<br/>\n<br/>\n Cheers<br/>\n<br/>\n edit: 20170402 per Hip; linked<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Just a quick couple of things - first, thanks for the link, Hip, much appreciated. Second, sorry if I shot you in your own foot, Mick (highly agile though it be.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:29 AM - Apr 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">+1 for Mick's Brawler Champ,<br/>\n He not only has 26 AC in mundane gear (25+1 from a Cat's Pot) but he also has the AB to support full use of the \"Expertise\" feat for another +5 AC in tough situations.<br/>\n Plus he has a Bastard Sword already ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:01 PM - Apr 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Stagmeister wrote:</strong><hr/>\u00a0sorry if I shot you in your own foot, Mick (highly agile though it be.)<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Lmao! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n Feel free to promote my builds Stag.<br/>\n \u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Squid0023",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:02 PM - Apr 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Curious is there a Build Sheet or Software you guys use to configure a build or do you go straight into NWN and build it up?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:58 PM - Apr 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Have a look at the Rules and Tools sub-forum here, Squid. That'll give you the software mechanics. Speaking for myself, because I refuse to adapt to technology on principle (either that, or because my techie skills are crap), I sit down with plenty of paper and pencils (and some wet towels) and do it from scratch. This means I get some of the sums wrong sometimes, but that makes for some of the more interesting discussions, I think. And it's all possible because there is no one best build for any scenario - just one that suits <em>you</em> best.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:38 AM - Apr 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Squid0023 wrote:</strong><hr/>Curious is there a Build Sheet or Software you guys use to configure a build or do you go straight into NWN and build it up?<br/>\n</div></blockquote>You can tell Stagmeister hasn't spent much time rubbing elbows with  corporate types because they all carry their spreadsheets on an  umbilical like a cell phone or IPad.\u00a0 Without Excel or an equivalent, their board meetings would be  pure chaos without all those viewgraphs and pivot tables to pick apart and nod about.\u00a0 Nonetheless,  he's quite right.\u00a0 Try not to depend on the CBC to solve your design  questions or act as a surrogate tutor.\u00a0 It's more like a nifty calculator to increase ease and speed of character-building.\u00a0 I already had 20+ years of PnP scribbling before the boon of CBC popped up so was thrilled about the time-saving it provided.<br/>\n<br/>\nFor a neophyte builder, it's far, far superior to hash out the particulars on paper  so he/she understands clearly how all the aspects interact rather than  relying on Kamiryn to do it for you.\u00a0 Besides, occasionally the ECB vets  will find errors or inconsistencies in the CBC and must wait for an update until  the sheet is closer to perfection.\u00a0 Just use Kail's outline to assure your build's format is readable and provides all the essentials (or just examine several of the latest complete builds posted).<br/>\n<br/>\nThere is a <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/reply/20854521/Tools-of-the-builder#reply-20854521\" rel=\"noreferrer\" target=\"_blank\">free cloud version of Excel</a> available for those without MSOffice but I cannot attest to it's functionality.\u00a0 From what I've examined, though, it will use all the algorithms built into Kamiryn's version just fine.\u00a0 Still waiting for others to report on its effectiveness, though.\u00a0 <span style=\"text-decoration:underline\">You</span> could be the first! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

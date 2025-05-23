@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "119",
+  "name": "Wizard Specialty Spell Schools and Sorcerers / Bards",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/wizard-specialty-spell-schools-and-sorcerers-bards-t2355538.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:20 PM - Aug 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">During playtesting of a Sorcerer / Wizard build (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21375#p21375\" rel=\"noreferrer\" target=\"_blank\">Arcane Spell-Battery</a>) I discovered that:<br/>\n<br/>\n- My Sorceress could learn and cast Mass Haste and scribe it onto scrolls<br/>\n- Despite having Enchantment as a prohibited school from Wizard (Illusion Spell School Specialist)<br/>\n- She could not cast Mass Haste from a scroll however<br/>\n<br/>\nI suspect it might apply to Bards too. What about classes with memorized spells like Clerics / Druids?<br/>\n<br/>\nI note this was not mentioned in the NWN Wiki: Spell School or Talk section.<br/>\n<br/>\nThought I would share and see if anyone else has other experiences with this? Interested to know.<br/>\n<br/>\n\u00a0<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202008/10759084_79025bea33abc214799708830e59e348_t.jpg\" />\n</dl>\n</span><br/>\nHere's a screenshot of the log, the scroll I scribed (which I could not cast), and my character sheet with the school of magic visible.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "3:59 PM - Aug 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's how specialization normally works, the spell school restriction only applies to scrolls and\u00a0Wizard spells. Spells from other classes or non-scroll items are unaffected. [<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Spell_school\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Spell_school</a>]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:17 PM - Aug 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Yunim for looking into this.<br/>\n<br/>\nHowever read the text on the Wiki page carefully Yunim. I referenced the wiki page in my original post plus the Talk section:<br/>\n<blockquote><div>A wizard may choose to specialize in a school of magic, thereby gaining one additional spell slot per spell level <strong>while losing the ability to cast spells from an opposed school</strong>. <strong>This prohibition extends to spells cast from scrolls, but not to spells cast from other kinds of items.</strong> In addition, specialist wizards have a bonus (+2) to identifying spells (through spellcraft) from their area of expertise and a penalty (-5) to identifying spells from the opposing school. Alternatively, a wizard may choose to not specialize, thus keeping access to all spells.</div></blockquote>\nNowhere in the current Wiki post is there a reference to whether taking a specialty school allows casting from usually prohibited spells from a different class such as Sorcerer as a memorized spell.<br/>\n<br/>\nSo this could be a new piece of information, or the Wiki is missing this piece of information or is unclear.\u00a0<br/>\n<br/>\nIt affects builds which take a specialty wizard class along with another caster class.\u00a0<br/>\n<br/>\nI am curious if players have noticed this mechanic before?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:38 PM - Aug 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Then the wiki should be edited for clarity, this is how specialization worked in 1.69 as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

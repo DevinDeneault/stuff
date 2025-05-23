@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "161",
+  "name": "How to calculate HP each level?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-to-calculate-hp-each-level-t2355173.html",
+  "author": "sataricon",
+  "avatar": "10759088_1568407219.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "sataricon",
+      "avatar": "10759088_1568407219.jpg",
+      "timestamp": "10:08 PM - Sep 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As the title says some PW make your HP based on a dice roll and you have to try many times to gain the max HP/level.<br/>\nBut because i'm very new i want to ask how do you know what is the max HP for each level?<br/>\n<br/>\nspecially when you take RDD and you gain the feat \"hit die increase\" how to calculate this with bounce constitution?<br/>\nThank you in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:26 PM - Sep 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is how I do it.\u00a0<br/>\n<br/>\nMaybe wait for others to confirm this is a good strategy or check my math, I was always taught to check and double check any math problems I completed!<br/>\n<br/>\nI have not played a lot of RDDs, and you cannot redo your levels as an RDD on WoG:\u00a0<br/>\n<br/>\n- check the hit die each level from the NWN wiki <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Red_dragon_disciple\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Red_dragon_disciple</a>, it varies per level<br/>\n<br/>\n- add constitution bonus (and +1 from toughness) to determine the expected max hit die roll (ie cons 12-&gt; +1 cons bonus, with d6 and toughness = 8hp)<br/>\n<br/>\n- if constitution bonus increase is achieved that level (ie Cons 13 to Cons 14) then add your extra cons bonus (ie +1 in this example) multiplied by your new character level (ie Bard 8 RDD 2 = 10) to your expected max hit die roll hp to determine how much HP you should maximally gain that level (in this example 8hp + 10 = 18hp)<br/>\n<br/>\n- same with toughness. +1 multiplied by new level added to expected max hit die roll (in this example 8hp + 10 = 18hp)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

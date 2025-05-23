@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "301",
+  "name": "Question:  Autostill & Metamagic",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/question-autostill-metamagic-t515362.html",
+  "author": "HipMaestro",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "11:25 PM - Aug 01, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What are the Autostill levels based on, slotted level or actual spell level?<br/>\n<br/>\nI know that when you figure out the DCs, it is the basic spell level that is used rather than the slotted level so metamagic will not increase the DC (or am I wrong about this????)<br/>\n<br/>\nFor example, if my wizard casts Empowered IGMS (in Slot Level 8) with only the Autostill II feat, does it have the standard amount of arcane failure or is it stilled?<br/>\n<br/>\nAs usual, TIA for the free education. <br/>\n<br/>\nHip<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MrZork",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:51 PM - Aug 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just tested: It's the slot level that determines whether a spell is autostilled or not. I tested a wizard with Autostill Spell I &amp; II and had him cast an empowered IGMS while wearing full plate and a tower shield (95% arcane spell failure between the two). It failed nearly every time. No failure casting the non-empowered version.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "3:05 PM - Aug 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's interesting.  So the casting level of the DC for the metamagic component (Empowered) is calculated as a level 6 spell, while AutoStill is treating it as a level 8 spell.  Then one could extrapolate the same results for the AutoQuicken &amp; AutoSilent versions as well, I suppose. (No need for further testing on my account, as I was only really interested in the Stilled effects.)  <br/>\n<br/>\nMuchas gracias, MrZork!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MrZork",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:16 PM - Aug 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">De nada, HipMaestro. <br/>\n<br/>\nThe game seems to make the determination for auto-metamagic based on spell slot level and for DC based on spell level. I have added a note with an example to the <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Metamagic\" rel=\"noreferrer\" target=\"_blank\">NWNWiki metamagic entry</a> to make it a little more clear that it's the spell slot level that matters in determining whether a spell will benefit from an auto-metamagic feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "5:32 PM - Aug 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another potentially obscure piece of NWN tech knowledge resolved. Well done!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "803",
+  "name": "Rift lord - some kind of shifter???",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rift-lord-some-kind-of-shifter-t2355184.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:07 PM - Oct 05, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">OK. I'm truly clueless about shifters, but someone said, build a Rift lord. \"It's easy just barbarian 25, druid 5 shifter 10, then you shift into the rift lord with huge immunities. Remember to get all energy resist feats and Epic DR1-2-3 also\".<br/>\n<br/>\nAnd I was: \"??????\" I googled and was still \"??????\"<br/>\nApparently, the big advantage is that this shifted form gets a huge DR or DI.<br/>\nOh, traditionally, this build may have been on dwarven defender rather than barbarian, which I can't for my life figure out how that's combined with druid/shifter in any useful way.<br/>\n<br/>\nI suppose this is so well-known it's not documented anywhere? Can anyone help out?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:11 PM - Oct 05, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do you think he meant 'Risen lord'?<br/>\n<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Undead_shape\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Undead_shape</a><br/>\n<table class=\"post_content_table\"><tbody><tr><td>Shape</td>\n<td>Str</td>\n<td>Dex</td>\n<td>Con</td>\n<td>HP</td>\n<td>AC</td>\n<td>Special</td>\n<td>Unarmed</td>\n<td>Merge</td>\n</tr>\n<tr><td>risen lord</td>\n<td>21</td>\n<td>-</td>\n<td>19</td>\n<td>+60</td>\n<td>+13</td>\n<td>damage reduction\u00a015/+3<br/>\ndamage immunities:<br/>\nslashing 50%, piercing 50%<br/>\n<em>risen lord scythe +5</em><br/>\n(cleave,\u00a0whirlwind attack<br/>\nvampiric regeneration +2)</td>\n<td>no</td>\n<td>armor,<br/>\nitems,<br/>\nweapon</td>\n</tr>\n</tbody></table>\n<br/>\nI agree with you Dwarven Defender sounds stronger, a level 22 DD gets DR 15/- and 3 bonus feats (which could be EDR 1-3) -&gt; DR 24/- plus defensive stance (?10 uses per day), not to mention heavy armor proficiency for free. Try to get as many DD levels as you can pre-epic for maximal BAB<br/>\n<br/>\nOr you can use the bonus feats for Epic energy resistance feats<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:13 AM - Oct 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He definitely meant the Risen Lord, and you can combine the two making an ultra-tank, provided you don't care much about your ab &amp; secondly, you have something to harm yourself (it's the opposite with them).\u00a0 Here are a couple of builds from both the old &amp; the current ECB, to help you establish a base. You will have to do a little reading before you realize what's going on exactly with risen lord builds, etc. <br/>\n<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build117345.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 17345.html</a> (second post from Cinnabar Din has a DD Dragon build, in case you have second thought about making a modern dragon with 18DR or so.)<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build130386.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 30386.html</a> (this one gets 21DR on top of undead immunitties &amp; the 50% resistances to slash/pierce.)<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build222964.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 22964.html</a> (similar to the above but also dexterity-based)<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/lord-of-terror-barbarian-20-druid-8-shifter-12-t2354506.html#p895\" rel=\"noreferrer\" target=\"_blank\">lord-of-terror-barbarian-20-druid-8-shi ... .html#p895</a> (Hips build, with a detailed guide, but uses barbarian instead of DD.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:21 AM - Oct 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you guys! For convoluted reasons, I'll have to try the barbarian version I think. (On BSK you can re-build any toon you like, just delete it and keep all the XP, quest progress, etc, but you can't change race, or you can but will get weird problems. The only toon I have that I need to rebuild is a human.)<br/>\n<br/>\nI'll read up on stuff and see if I can come up with something that works well on BSK where DR is king, AB is queen and AC is more or less useless unless you can get it up to 75 or so.<br/>\n<br/>\nOne quick question: If you use the barbarian rage (which on BSK gives you both bonus damage and some DR) and then shift, you lose all nice rage effects I guess?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:27 AM - Oct 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think not,<br/>\nat least, as long as the rage's duration isn't over that is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

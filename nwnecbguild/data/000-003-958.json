@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "958",
+  "name": "3 man party PVP",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/3-man-party-pvp-t2354906.html",
+  "author": "Jacoblb",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Jacoblb",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:18 PM - Jun 22, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi guys<br/>\n<br/>\nI have been off NWN for about 10 years, so im a little rusty. All help is appritiated!<br/>\n<br/>\nMe and two friends decided to start on Arelith and we are looking into PvP builds. Link at the bottom for skill-tree for Sorc/SD build. Rogue is basically just for skilldumping since you need 3 lvls. Alternative could be monk for 10% speed bonus. Comments?<br/>\n<br/>\nIdea:\u00a0<br/>\n<br/>\n1. Fighter 12 /DwD 14 / Rogue 3\u00a0<br/>\nAlternative: 8 fighter (-2 feat) / 18 DwD (+3 DR +1 epic feat) / 4 rogue<br/>\nAlternative 2: Fighter / WM / Rogue standard vanilla NWN build<br/>\n--------------------------------------------------------------------------------<br/>\n<br/>\n2. Sorc 25 / SD 5<br/>\nAlternative: Sorc 27 / 3 pala<br/>\nAlternative 2: Sorc 24 / 3 pala / 3 rogue<br/>\n<br/>\n--------------------------------------------------------------------------------<br/>\n<br/>\n3. Cleric 24 / Fighter 4 / Rogue(or monk?) 3 (ZEN)<br/>\nAlternative: Cleric 16 / Bard 4 / AA 10 (ZEN)<br/>\nAlternative 2: Cleric 21 / Fighter 6 / Rogue(or monk?) 3<br/>\n<br/>\nIdea is divine might archer.\u00a0<br/>\n<br/>\n--------------------------------------------------------------------------------<br/>\nHere is a link for the 3 main ideas.\u00a0<br/>\n<br/>\n<iframe allowfullscreen=\"\" data-s9e-mediaembed=\"googlesheets\" scrolling=\"no\" src=\"https://docs.google.com/spreadsheets/d/1i--ERVpq_vp9qyCCoabrwT5QI4c6ECmHw4L_80Y_aoo/preview#gid=0\" style=\"border:0;height:500px;resize:vertical;width:100%\"></iframe><br/>\n<br/>\n<br/>\nOr would you suggest something with epic concealment (forgot the feat name) and ED?<br/>\n<br/>\nThanks!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:58 PM - Jun 22, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is no link there but just to comment on something for Arelith. In Arelith you need Four levels of a rogue/monk/bard class for skill-dumping because you need to take the first three all-together. For example in the first group the fighter(8)/ Rogue(4)/ DwD(18) is the correct choice. See some of the Arelith builds in the level-30 sub-forum to get an idea of what I am talking about.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Jacoblb",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:26 PM - Jun 22, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah - got it.<br/>\n<br/>\nWe are going for\u00a0<br/>\n8 fighter / 18 DwD / 4 rogue<br/>\n25 sorc / 5 SD\u00a0<br/>\n24 Cleric / 4 ftr / 4 rouge<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

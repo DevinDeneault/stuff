@@ -1,0 +1,68 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "306",
+  "name": "Shadow Bane.  Just wanted your guys opinion and help on this one.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/shadow-bane-just-wanted-your-guys-opinion-and-help-t2354266.html",
+  "author": "campgod",
+  "avatar": "no_avatar.png",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:40 PM - Jun 21, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Shadow Bane (Ranger 21 / Assassin 19)<br/>\n Human, Neu-EvilAbilities:<br/>\n STR: 8<br/>\n DEX: 18<br/>\n CON: 10<br/>\n WIS: 14<br/>\n INT: 14<br/>\n CHA: 8Leveling Guide:01: Ranger(1): Luck of Heros, Weapon Finesse, FE:Humans<br/>\n 02: Ranger(2)<br/>\n 03: Ranger(3): Weapon Focus: Daggers<br/>\n 04: Ranger(4):<br/>\n 05: Ranger(5) FE: Elves<br/>\n 06: Ranger(6): Blind Fight<br/>\n 07: Ranger(7)<br/>\n 08: Ranger(8):<br/>\n 09: Ranger(9): Great fort<br/>\n 10: Ranger(10) FE: Half-Elves<br/>\n 11: Ranger(11)<br/>\n 12: Ranger(12): Imp. Crit: Daggers<br/>\n 13: Ranger(13)<br/>\n 14: Ranger(14)<br/>\n 15: Ranger(15): Stealthy, FE: Dragons<br/>\n 16: Ranger(16):<br/>\n 17: Ranger(17):<br/>\n 18: Ranger(18): Iron Will<br/>\n 19: Ranger(19)<br/>\n 20: Ranger(20) FE: Halflings<br/>\n 21: Assassin(1): Epic Prowess<br/>\n 22: Assassin(2)<br/>\n 23: Assassin(3):<br/>\n 24: Assassin(4): Epic Weapon Focus: Daggers<br/>\n 25: Assassin(5):<br/>\n 26: Assassin(6)<br/>\n 27: Assassin(7): Great Dexterity I<br/>\n 28: Assassin(8): {Hide in Plain Sight}<br/>\n 29: Assassin(9)<br/>\n 30: Assassin(10): Weapon Proficiency: Exotic (so i can use a weapon thats under the dagger family on my server)<br/>\n 31: Assassin(11)<br/>\n 32: Assassin(12): Great Dexerity II<br/>\n 33: Assassin(13): Great Dexerity III<br/>\n 34: Assassin(14)<br/>\n 35: Assassin(15):<br/>\n 36: Assassin(16): Armor Skin<br/>\n 37: Assassin(17)<br/>\n 38: Assassin(18): Great Dexerity IV<br/>\n 39: Ranger(21): Bane of Enemies<br/>\n 40: Assassin(19):<br/>\n<br/>\n Skills: Disciline:43, Hide:43, Move Slightly:43, Listen:43, Tumble:40, Spot:43, Spellcraft:20, Not sure what to do with the rest of the skill points?<br/>\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I havent seen many traps being used on this server.<br/>\n<br/>\n This guy is set up for the server I play on, so things might not look all that great. It is for PvP so thats why I bumped up the saves some.<br/>\n So first time really doing this, so pick away. I Need help on skill points and optimizing. This server is pretty easy to get to 40 so playability is not that imporant 1-40.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:53 AM - Jun 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You forgot to take Favored Enemies at levels 5 and 10.<br/>\n You didn't say, but I guess you're increasing DEX at levels 4, 8, 12, etc. which will give you and ending DEX of 32.<br/>\n With your 14 INT, you only need 18 Spellcraft, because Spellcraft uses your net score, and you'll get the other 2 from INT. Alternatively, you could max out your Spellcraft , which would be 21(23 with INT bonus) and get some more from equipment.<br/>\n Maybe put points in Concentration to resist being taunted.<br/>\n I don't know your server, so I don't know how useful are skills for crafting, Lore, Appraise, or Heal.<br/>\n<br/>\n Hopefully, others with more experience with Rangers and/or Assassins will come along with further feedback.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:41 AM - Jun 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oops, I fixed the FE for 5 and 10. Yes all points go into Dex. I play on a server called Sinfar. thanks for your input.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:18 PM - Jun 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This build would be hard to level to 20, but I understand that this is not a concern. Make sure that you have all player sub-races covered as FEs and then the most likely shifted races like dragon and perhaps undead and outsider.<br/>\n If you want discipline 43, you have to take the last ranger level at 40. But I doubt that discipline is worth it here, since your main tactics will be attacking from stealth and your AC probably will be better than your discipline rank anyway.<br/>\n Normally I would have taken a level of SD for HIPS unless ranger or assassin are altered and get it at some point.<br/>\n This build is a bit half and half. Assassin is not optimized with only 19 levels and ranger is just enough for BoE. More ranger will give a better damage vs FEs. More assassin will secure a higher DA DC and more DA damage. You will need just 9 levels of assassin for the II spell-likeability. 13 levels of rogue will offer ED. But you will need more than 40 levels to qualify for them all: BoE, the II spell and ED (<em>Edit:</em> <em>unless you take SD10 rather than rogue 13 for ED</em>).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:58 PM - Jun 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On this server lvl 8 Assassin gives you HiPS. I really like Rangers and wanted the BOE, I\u00a0also wanted some sort of sneak attack so I went Assassin instead of Rogue because of the HiPS. Just dont know If I should keep it the way it is or go more Ranger? I am playing it as a sneak though stick and move.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:37 PM - Jun 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong><hr/>On this server lvl 8 Assassin gives you HiPS. I really like Rangers and wanted the BOE, I\u00a0also wanted some sort of sneak attack so I went Assassin instead of Rogue because of the HiPS.<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">That makes sense. Why don't you try to replace one of the assassin levels for monk and dual wield Kamas for 10 attacks per round with <em>flurry of blows</em> active and hasted? Are the exotic daggers worth it in that perspective?</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:42 PM - Jul 04, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ill play around with the one monk lvl and see what happens. I believe that they give you a AB bonus for single and duel classes, but I'll have to check on that. The crafting system is based on what they call a PP system and diffenert weapons can hold more enchants. Kama's are only allowed 2 PP, which would let me just but +6 enhancment. Whlie the Sai (the weapon in the dagger family but needs exotic weapon) holds 6 PP. With that many I can fit on each weapon, +6 enchanment,keen,1d6 ele damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:26 PM - Jul 05, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong><hr/>Shadow Bane (Ranger 21 / Assassin 19)<br/>\n --snip--<br/>\n<br/>\n Skills: Disciline:43, Hide:43, Move Slightly:43, Listen:43, Tumble:40, Spot:43, Spellcraft:20, Not sure what to do with the rest of the skill points?<br/>\n \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I havent seen many traps being used on this server.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n Perhaps enough UMD to use a stack of Darkness scrolls and some self-buffing cleric scrolls? \u00a0Dunno how your server handles the scroll check so you may not need all that much. \u00a0Mord scrolls bartered from a friendly arcanist scriber would be ideal with a high enough investment in the skill.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:04 AM - Jul 08, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah I will look into it, I heard it was something to it...but I just need to read up on it. Thanks for your time everyone.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

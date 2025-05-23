@@ -1,0 +1,152 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "707",
+  "name": "Divine Damage Paladin Arcane Archer (Paladin 16 / Wizard 1 / Arcane Archer 23)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-damage-paladin-arcane-archer-paladin-16-wiz-t2355322.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 22,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:08 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is a devlishly simple idea I came up with:<br/>\n<br/>\nPaladin for divine favor casts (including extended divine favor), divine might (boosted by special paladin charisma spell buffs)<br/>\nPump Cha up high to do lots of divine damage, up to 16 damage / hit.<br/>\nArcane archer for crazy AB boosts<br/>\nWizard 1 for scribe scroll, resist elements, can use many magical scrolls, wands, sequencers etc, spellcraft dump for further saves against spells (nice, not that it was needed, but lets use it...)<br/>\nElf for keen senses which works well with spot/listen and a reasonable wisdom score.<br/>\n<br/>\nDropped the AB down to 47. Maybe cleric would be stronger, but at least paladin being a full BAB class doesn't have to worry about divine power getting dispeled or morded.\u00a0<br/>\n<br/>\nGrizzled_Dwarflord has a half elf <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build295931.html\" rel=\"noreferrer\" target=\"_blank\">Moon Knight of Corellon</a>, essentially pure Cha Paladin / Sorc / AA.\u00a0<br/>\nAriel Thomas has another pure Cha build\u00a0<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build270136.html\" rel=\"noreferrer\" target=\"_blank\">Charismatic Sniper</a> Paladin 15/Wiz 2 / AA 23.\u00a0<br/>\n<br/>\nAnyway I've put this up for your enjoyment and review.<br/>\n<br/>\nIncluded suggestions from GDL, with thanks!<br/>\n<details><summary>Spoiler</summary>Paladin(16), Wizard(1), Arcane Archer(23), Elf\n\nDEX: 13 (14)\nWIS: 14\nCHA: 14 (30)\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Paladin(2): {Smite Evil}\n04: Paladin(4): CHA+1, (CHA=15)\n06: Paladin(6): Power Attack\n08: Paladin(8): CHA+1, (CHA=16)\n10: Paladin(10)\n12: Paladin(12): CHA+1, Extend Spell, (CHA=17)\n14: Paladin(14)\n16: Wizard(1): CHA+1, {Scribe Scroll}, (CHA=18)\n18: Arcane Archer(2): Rapid Shot\n20: Arcane Archer(4): CHA+1, (CHA=19)\n22: Arcane Archer(6)\n24: Arcane Archer(8): CHA+1, Great Charisma I, (CHA=21)\n26: Arcane Archer(10)\n28: Arcane Archer(12): CHA+1, (CHA=23)\n30: Arcane Archer(14): Great Charisma III, Epic Weapon Focus: Longbow, (CHA=24)\n32: Arcane Archer(16): CHA+1, (CHA=25)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(20): CHA+1, Great Charisma V, (CHA=28)\n38: Arcane Archer(22): Great Dexterity I, (DEX=14)\n40: Paladin(16): CHA+1, (CHA=30)\nHitpoints: 348\nSaving Throws (Fortitude/Will/Reflex): 33/30/31\nBAB: 29\nAC (naked/mundane armor/shield only): 15/25\nAlignment Changes: 0\nDisable Trap 1(5), Discipline 43(44), Listen 32(36), Open Lock 1(3), Search 11(15), Set Trap 13(15), Spellcraft 19(21), Spot 42(46), Tumble 15(17)\n\n02: Discipline(1), Save(5),\u00a0\n04: Discipline(1), Save(9),\u00a0\n06: Discipline(1), Save(13),\u00a0\n08: Discipline(1), Save(7),\u00a0\n10: Discipline(1), Save(11),\u00a0\n12: Discipline(1), Save(17),\u00a0\n14: Discipline(1), Save(23),\u00a0\n16: Spellcraft(19), Save(11),\u00a0\n18: Listen(1), Spot(5),\u00a0\n20: Listen(1), Spot(5),\u00a0\n22: Listen(1), Search(1), Set Trap(1), Spot(1), Save(1),\u00a0\n24: Spot(1), Tumble(5), Save(1),\u00a0\n26: Spot(1), Save(5),\u00a0\n28: Search(2), Spot(1), Save(1),\u00a0\n30: Set Trap(2), Spot(1), Save(1),\u00a0\n32: Listen(3), Set Trap(1), Spot(1),\u00a0\n34: Listen(5), Spot(1),\u00a0\n36: Spot(1), Save(6),\u00a0\n38: Spot(1), Save(16),\u00a0\n40: Discipline(25),\u00a0\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:34 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Any way to fit Craft Wand in there?<br/>\n<br/>\nScribe Scroll is pretty sweet, but having some Wands of Pally buffs would be pretty nice!<br/>\n<br/>\nThat would really relieve the already tight Pally spells imo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:44 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd probably drop improved critical or called shot for it and rearrange feats<br/>\nWhat wands are good to make as a pally?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:53 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That Divine Favor is looking good!<br/>\n<br/>\n50 vs that meager amount of spells/day for each wand made.<br/>\n<br/>\nThen one could basically just keep pumping the DF out, and save the spells for tough fights!<br/>\n<br/>\nThen there is Freedom of Movement, Death Ward, GMW, Bless, Aid, BS, ES, RE...all pretty good spells - esp when you wand them and have castings to burn, baby!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:24 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Of course heaps of cool Paladin buffs there<br/>\nDivine Favor sadly when scribed or crafted only has a caster level of 5.<br/>\nWill keep wisdom where it is.<br/>\n7 castings / day is probably good enough<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:29 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not, actually.<br/>\n<br/>\nDivine Favor is 1 turn.\u00a0 2 when extended.<br/>\n<br/>\nThat means you get 7x2=14 turns of DF. Plus whatever you have in your 1st level slots.\u00a0 Or were you referring to the 1st level spells?\u00a0 That would be worse - 7 turns.<br/>\n<br/>\nI don't think that will get you to the next sleep period, let alone to the end of a long dungeon!<br/>\n<br/>\nSo, Wand it!\u00a0 Yes, in a certain environment it is CL 5.\u00a0 +1 only.<br/>\n<br/>\nBetter than none, right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:54 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">DF is 4 (normal) + 3 (ext) = 7 per day<br/>\n<br/>\nNo point crafting DF with CL 5 though. I would rather shoot 5-6 attacks at AB 50+ than use a DF wand in that situation<br/>\nBut other buffs like freedom, death ward, bless, aid, prayer -&gt; awesome on a wand<br/>\n<br/>\nI think holy sword and bless weapon when scribed on scrolls have great caster levels, like 17 or something.<br/>\nNot helpful for this guy, but for the melee damage teammate that happens to tank for you :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:58 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">AFAIK in a certain environment, HS and BW only work on melee weapons.<br/>\n<br/>\nThough doesn't Bless Weapon work on bolts?\u00a0 Or is that Bless?<br/>\n<br/>\nKill those Raks!<br/>\n<br/>\nConsidering that :<br/>\n<blockquote><div>The bonus damage (reported as magical damage) is from a damage increase effect, so it ignores both damage resistance and damage immunity.</div></blockquote>\n\nWhat is not to like about +1 AB and +1 Damage that cannot be resisted?\u00a0 I mean, it is not like one is wasting a precious spellslot, or something.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:45 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"18730\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18730&amp;sid=42293de81537a331ec2ead1c51f6d24d#p18730\">\u2191</a><div class=\"responsive-hide\">Jan 29, 2020</div></cite>What is not to like about +1 AB and +1 Damage that cannot be resisted?\u00a0 I mean, it is not like one is wasting a precious spellslot, or something.</div></blockquote>\nFair comment.<br/>\nJust not during combat though :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "9:41 AM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wouldn\u2019t say a cleric is more powerful, just offers different options really and Domains offer further options, especially if you  are just using it as a source of Divine Power/Favour.<br/>\n<br/>\nI liked cleric for the Sorc build because it sorts the BaB problem, but as you noted it is dispellable.  That is less of an impact on a ranged/movement build but permanent is better :)<br/>\n<br/>\nI have been tossing around an AA Paladin idea in my head for a bit (along with several other options as I try to sort a build I like) and I like what I see here, it is inline with my expectations and thoughts on how to build such a thing.  Personally I struggle with Monk for speed vs other things for versatility on a ranged build.<br/>\n<br/>\nI will add that divine damage is, situationally, quite powerful especially if it can be delivered at range.  Which is why I find such builds ... interesting.<br/>\n<br/>\nThanks for this.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "1:05 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For those suggesting Craft Wand, I would not take Craft Wand in a build like this.\u00a0 Rather, I would be more likely to take Extra Turning so you can increase your opportunities for actual Divine Damage delivery upon thine enemy.\u00a0 Craft Wand is of limited utility in a Paladin.\u00a0\u00a0<br/>\n<br/>\nMy other suggestion would be to strive for more balance, so instead of soaking up another feat for Extend Spell -- for a very limited use of Divine Favor (you only get one 1 base spell slot for 2nd, level, and then a bonus slot for 20 Wisdom) -- I would take Divine Shield for instant AC buff.\u00a0 The inherent problem with any Paladin AA, as you have now discovered, is they are even more feat intensive than a Weapon Master.\u00a0 There are so many feats that you must have, then ones that you need, and then the ones that you want:\u00a0 PBS, WF, Power Attack, Divine Might, Rapid Shot, Called Shot.\u00a0 Then you want BF, and DS, and Extra Turning, and Extend and on and on....<br/>\n<br/>\nTaking an Epic Toughness as your AA bonus feat is a bit of a tragedy.\u00a0 That makes me reconsider the entire point of grabbing Zen Archery with a base final Wisdom of 20.\u00a0 Minoring in Dex (with you major still in Charisma) is probably the better way to go, and then just completely selling out on Charisma and your capacity to end all life with Divine Arrows.\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:48 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In a certain environment (where this build is currently being tested iirc) there are two Bracers.<br/>\n<br/>\nOne gives Extra Turning and I think +2 Cha (could be Wis).<br/>\n<br/>\nThe other gives PBS, RS, +2 Dex.<br/>\n<br/>\nBoth are...interchangeable for this Build.<br/>\n<br/>\nTo that is an item (amulet, or more accurately, a broach I believe), which gives 3 extra Divine Mights/Day.<br/>\n<br/>\nAll three of these items can be used to...mitigate, imo, the otherwise heavy toll of feat costs.<br/>\n<br/>\nThis is environment specific, however.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:58 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks GDL for your insightful comments.<br/>\nYou are absolutely right about the feat problems with ridiculous 'spillage' into epic levels of pre-epic feats.<br/>\nDropping Zen Archery I agree is a sensible move. Going elf dex frees up more attribute points which can be applied to Int and cons.<br/>\nI am still attached to Extend Spell for more divine favor casts / day [it ends up 3 + 3(ext) per day with Wis 14]\u00a0 but I can see how divine shield is an excellent choice.<br/>\nWill edit the main post with the new build<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:48 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know if you have had a look at my old <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a> build.<br/>\nIt takes Divine to the extreme, but it is a glass cannon, so you have to play it with caution.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:16 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Impressive build Mick! So much damage! And certainly it is a bit risque! Perfect in a party situation where teammates protect you though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:07 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Iirc, that was one of the builds Mick solo-ed Aielund with (on hardcore, 'cause that's how he rolls), so can function alone if the player knows what they're doing.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:50 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm going to level a Mick Dagger Holy Elven Archer!<br/>\n<br/>\nWooohooooo!<br/>\n<br/>\nNice build!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:51 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759110&amp;sid=b064970b10f6e7171cee2482bd19443b\">webshaman1</a> wrote: <a data-post-id=\"18749\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18749&amp;sid=b064970b10f6e7171cee2482bd19443b#p18749\">\u2191</a><div class=\"responsive-hide\">Jan 29, 2020</div></cite>I'm going to level a Mick Dagger Holy Elven Archer!<br/>\n<br/>\nWooohooooo!<br/>\n<br/>\nNice build!</div></blockquote>\n\nHope you take max HP rolls<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:50 PM - Jan 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"18748\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18748&amp;sid=b064970b10f6e7171cee2482bd19443b#p18748\">\u2191</a><div class=\"responsive-hide\">Jan 29, 2020</div></cite>Iirc, that was one of the builds Mick solo-ed Aielund with (on hardcore, 'cause that's how he rolls), so can function alone if the player knows what they're doing.</div></blockquote>\nI finished act one solo, but then joined a party for the rest of the Aielund saga.<br/>\nBut I did solo the Endless Nights VI module, playing the build from level 1 to 40.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:33 AM - Jan 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, got to level 12 today on WoG.<br/>\n<br/>\nSo far, so good!<br/>\n<br/>\nVery easy to level, everything works together frictionless!<br/>\n<br/>\nAmazing build!<br/>\n<br/>\nThough I tell you, hunting Stone Giants at level 10 was prickly, at best!\u00a0 Wooohoooo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:21 AM - Jan 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now at level 16.<br/>\n<br/>\nThis build truly is exceptional - I play AAs alot and one of the obstacles that I always have is gold.<br/>\n<br/>\nBecause good Arrows cost so much.<br/>\n<br/>\nThis build really relieves a lot of that!<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:13 PM - Jan 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"18744\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18744&amp;sid=4069f3d1b0148988a127fa73f84c6134#p18744\">\u2191</a><div class=\"responsive-hide\">Jan 29, 2020</div></cite>I don't know if you have had a look at my old <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a> build....</div></blockquote>\nOrion,\u00a0<br/>\nI posted this link because I wanted to illustrate an important feature of the AA class. The Enchant Arrow feat gives +1 AB and +1 damage every second level. That makes it possible to make a viable AA build even with no (or almost no) investments in dexterity (or wisdom for Zen). That opens up for builds with focus on full strength for dev crit and high mighty damage or full charisma for DM, DS and other divine feats. To make such builds work you must take enough AA levels for the AB to become high enough.<br/>\nTaking many AA levels also gives epic bonus feats for EWF, EP and Great dexterity. This let you take more Great charisma (or Great strength for strength builds) on general feats.<br/>\nThe difference between a Paladin 15/wizard 1/ AA 24 and Paladin 9/ wizard 1/AA 30 illustrates this point.<br/>\nPaladin 15 grants +5 AB and damage on Divine favor. Paladin 9 only gives a +3 bonus. So adding 6 levels of Paladin grants a +2 bonus for a limited number of times per day. 6 levels of AA on the other hand add +3 AB and damage to every arrow all day long. And the AB bonus from Enchant arrow does not even count towards the +20 AB bonus cap.<br/>\nAA 30 also grants 5 epic bonus feats instead of the 3 you get from AA 24.<br/>\nPaladin 15 (or 16 in your build) gives a better spell book than 8 or 9 levels do. But you have to invest in wisdom for it to work. And the Paladin spell book is better for a melee character.<br/>\nDon't get me wrong. Paladin 16 makes for a good build. I just wanted to show what can happen when you try to min/max with a focus on divine damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:57 PM - Jan 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick, I have been thinking such things in my own mind.\u00a0<br/>\nI believe I have been overvaluing the paladin's divine favor and undervaluing the arcane archer enchant arrow in these builds.<br/>\n<br/>\n3 levels of paladin to increase divine favor +1AB/DMG plus limited casts/day, its dispelable and requires wisdom investment.\u00a0<br/>\n2 levels of AA to increase +1AB/DMG which is not dispellable and also increases penetration.<br/>\n<br/>\nFor paladin at least, going Paladin 9 / Wizard 1 / AA 30 (or AA 29 for a late paladin skill dump) sounds quite good.<br/>\nI will have a think about redesigning the build for sure, and edit the main post.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

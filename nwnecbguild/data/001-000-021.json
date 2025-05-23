@@ -1,0 +1,44 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "021",
+  "name": "Help needed from person with NWN Enhanced Edition",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/help-needed-from-person-with-nwn-enhanced-edition-t2355113.html",
+  "author": "DoesntPlayAnymore",
+  "avatar": "10759108_1563558681.png",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "11:38 AM - Jul 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong>Hello, I made a script to manage the annoying party size penalty on XP gains in single player modules. I want to make the thing work nicely with NWN:EE but I don't own it, so I can't compile a needed file. If someone wants to help with compiling the thing, the project is currently here (For the next 7 days):\u00a0<a class=\"postlink\" href=\"https://wetransfer.com/downloads/7af661fba2fe803fcea06198ae1b3c3b20190721081835/29b225\" rel=\"noreferrer\" target=\"_blank\">https://wetransfer.com/downloads/7af661 ... 835/29b225</a></strong><br/>\n<br/>\n<strong>It's the file\u00a0dpa_pxpp_EE.nss. If you don't know how to compile it, but still want to help I can walk you through it.</strong><br/>\n<br/>\n<strong>When I'm done tinkering with the thing I'll upload it to The Vault and put a link in the Add Ons sub. If anyone wants to mess around with it as is, copy the *.ncs files and *.2da setting file to nwn/override. If it asks to override \"default.ncs\", either make a backup or of your override folder or just don't use the script - I don't have the needed function in 1.69 to dynamically set up an event to call the script, so it has to use the \"default.ncs\" file that may or may not be used by other stuff. Maybe read the first paragraphs of \"dpa_pxpp.nss\" if you choose to use it. It explains how it works.</strong><br/>\n<br/>\n<strong>Anyway, thanks!</strong><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:38 PM - Jul 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All I can do, I'm afraid, is offer support, as I would need a Babel Fish (cf \"The Hitchhiker's Guide to the Galaxy\") to understand what you're on about as far as process goes.<br/>\n<br/>\nAs an incidental, do we think it might be worth setting up a Technical forum here? Possibly together with what's currently listed as Adds On (which surely should read Add-Ons, in any case). Topics like this, and some of the later discussions in the Game Guides forum (again, miles over my head) might find a more natural home there?<br/>\n<br/>\nAnyway, I'll leave that with you all, together with lauding DPA's wanting to improve our collective experience.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:25 AM - Jul 23, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey DPA<br/>\nI have NWN EE but never used any custom scripts before. No read me file.\u00a0\u00a0<br/>\nI downloaded the default.ncs, default.nss, dpa_pxpp.ncs, dpa_pxpp.nss, dpa_pxpp_conf.2da, dpa_pxpp_EE.nss<br/>\nHow do I make it all work<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "4:38 AM - Jul 23, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@Orion2019</em>\u00a0Thanks, man! Instructions follow:<br/>\n<ol>\n<li>Download the\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwnee/other/tool/nwnsc-nwn-enhanced-edition-script-compiler\" rel=\"noreferrer\" target=\"_blank\">NWN:EE compiler</a>\u00a0and extract \"nwnsc.exe\" into some shallow empty folder like D:/foo/ or similar. (Makes everything less tiresome.)</li>\n<li>Put the dpa_pxpp_EE.nss file in the same folder.</li>\n<li>Press the Windows key and type \"cmd\". Hit enter.</li>\n<li>Should now be in console. Assuming folder is d:/foo/:\u00a0</li>\n<li>type \"cd d:/\" and hit enter.</li>\n<li>type \"cd foo\" and hit enter. If you get lost, type \"dir\" and hit enter to see where you are at. \"cd ..\" (dot dot) brings you back up a level.</li>\n<li>When in the correct folder, type \"nwnsc -co n- NWNFOLDER *.nss\" (replace NWNFOLDER with you nwn installation folder) and hit enter.</li>\n<li>Should be it!</li>\n</ol>\n\nIf you want to test it for me, place dpa_pxp.ncs, dpa_pxpp_EE.ncs (the one you just compiled) and dpa_pxpp_conf.2da in your NWN/override folder.<br/>\nYou can open the dpa_pxpp_conf.2da file with notepad or any other editor, to make sure the value just under FeedbackLevel (to the far right) is 1 or above. That will write the xp adjustment to console so it's easier to see if everything is working as intended. Make sure to turn of Word Wrap in your editor or it will look like a mess!<br/>\n<br/>\nNow open up a game! Can be a new or saved, shouldn't matter, but I suggest a caster with summons for easy party size increase. Type in chat:\n<ul>\n<li>##DebugMode 1</li>\n<li>##dm_runscript dpa_pxpp_EE</li>\n<li>##DebugMode 0</li>\n</ul>\n\nThat should be it! If it works every 6 seconds or so you will get a chat message saying \"ModuleXPScale: 25\" or whatever the scale gets set to. Try summoning anything. The number should go up. Bigger party = bigger number. There is a hard cap on the scale: 200. If the original module XP Scale is very high, like in HotU Chapter 1 (150!) the cap gets reached after 2 associates, so don't worry if it stays at 200 in that module. In Chapter 2 the scale is 100, SoU: 15, OC: 10 and Lord of Terror: 25, so it's only HotU ch1 that I know of that is set so high that it messes with the formula.<br/>\n<br/>\nIf it doesn't work and you still wanna try it, put the default.ncs file in your override folder. Don't replace anything if it asks you to - rename the folder to \"override_bak\" or similar and make a new override folder for the files. Should work immediately with the campaigns mentioned above. You can adjust the values in dpa_pxpp_conf.2da to fit what you think is balanced. Values of 1.0 exactly offsets of the party penalty, &gt;1.0 rewards associates. 0 is the game default. You can read more on the party size penalty here:\u00a0<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Party_size_penalty\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Party_size_penalty</a> and the formula is also described in dpa_pxpp.nss.<br/>\n<br/>\nThank you so much!\u00a0<br/>\n<br/>\nE: Fixed important typo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "4:45 AM - Jul 23, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAll I can do, I'm afraid, is offer support, as I would need a Babel Fish (cf \"The Hitchhiker's Guide to the Galaxy\") to understand what you're on about as far as process goes.<br/>\n<br/>\nAs an incidental, do we think it might be worth setting up a Technical forum here? Possibly together with what's currently listed as Adds On (which surely should read Add-Ons, in any case). Topics like this, and some of the later discussions in the Game Guides forum (again, miles over my head) might find a more natural home there?<br/>\n<br/>\nAnyway, I'll leave that with you all, together with lauding DPA's wanting to improve our collective experience.<br/>\n<br/>\nCheers\n</div></blockquote>\nEmotional support is always welcome!<br/>\n<br/>\nI think the \"Adds On\" (hehe) forum has room for more stuff (currently 13 topics, I think) but the old true tried and tested add ons should be stickied.<br/>\n<br/>\nAnd I've been sick and tired of the Party Size Penalty and Craft Wand XP cost for 15+(!) years. I'm so happy I've found some solutions just for me, and even happier if they work for others! I'll continue to try and fix or adjust these pet peeves as I encounter them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

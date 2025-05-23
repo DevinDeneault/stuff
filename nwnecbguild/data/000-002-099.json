@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "099",
+  "name": "Monk UBAB and extra attacks - Dragon version",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-ubab-and-extra-attacks-dragon-version-t2355612.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "7:29 PM - Nov 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am trying to understand how Monk UBAB and extra attacks work when shapeshifted, in particular in relation to the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-1-69-t2355108.html\" rel=\"noreferrer\" target=\"_blank\">Order of Jormungandr</a>\u00a0build.<br/>\n<br/>\nSuppose that I have a Druid/Monk/Cleric build, at level 40. In Dragon shape, my AB is 25 (base) + 19 (STR) + 6 (claws enhancement) -2 (size) +1 (EP) = 49.<br/>\nGiven Monk attack progression, I have 5 attacks/round, at 49/ 46/ 43/ 40/ 37 AB (assuming all are claw attacks).<br/>\n<br/>\nNow according to the\u00a0<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Free_attack\" rel=\"noreferrer\" target=\"_blank\">wiki</a>, free attacks for those who use creature weapons follow the normal attack progression, which is -3 per attack for a Monk. So assuming Divine Power (counting the extra attack but not yet the bonus AB), Flurry of Blows, and Haste, my attack progression should look like 47/ 44/ 41/ 38/ 35/ 32/ 29/ 26 (in practice in my case it looks like this +10, with DP adding 5 to AB and 10 to STR).<br/>\n<br/>\nBeing a Cleric, I can buff AB with Divine Favor (5) + Divine Power (5) + Battletide, Bless, Aid, Prayer (5), plus buff STR to cap for an extra 6 AB. Now, this hits the AB bonus cap on claw attacks, so in practice I end up with 67 AB on the first attack (and not 68). The schedule would be 67/ 64/ 61/ 58/ 55/ 52/ 49/ 46 using only claw attacks. Notice that the bite attacks happen at -5 AB when fully buffed instead of -6, and correctly so.<br/>\n<br/>\nI have tested this in the PGCC (I know the character sheet lies, I looked at the logs), and it seems to work the way I described so far, up to some possible difficulties distinguishing bite and claw attacks.<br/>\n<br/>\nOn the other hand, in the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-1-69-t2355108.html\" rel=\"noreferrer\" target=\"_blank\">OoJ</a>\u00a0post* it seems that the claimed schedule is<br/>\n+66/ +66/ +66/ +63/ +60/ +57/ +54/ +68 (Fully Buffed in Dragon Shape &amp; Flurry of Blows)<br/>\n*Notice that the OoJ has 24 BAB, so claw attacks should indeed have 1 less AB than my character.<br/>\n<br/>\nThis seems to assume that some of the free attacks happen at max AB? I think I am missing something, what am I missing?<br/>\nThanks to the community, for everything!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:39 PM - Nov 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Free attacks changed at some point (well before 1.69) from always using full BAB to following a descending progression. It's possible that that was the correct AB progression when that build was first posted, but your +67/.../+46 progression is the correct one for 1.69 / EE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:40 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"22714\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22714&amp;sid=bf0b498508cdac767723c65eb667926d#p22714\">\u2191</a><div class=\"responsive-hide\">Nov 19, 2020</div></cite>Free attacks changed at some point (well before 1.69) from always using full BAB to following a descending progression. It's possible that that was the correct AB progression when that build was first posted, but your +67/.../+46 progression is the correct one for 1.69 / EE.</div></blockquote>\nSo, has this been changed again? Because I remember I tested this a long time ago, and the extra attacks didn't follow the Ubab progression when I tested it. How is that possible? I'm confused!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:43 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Free attacks work differently with normal weapons and creature weapons.<br/>\nFor normal weapons, the free attacks start at full BAB and descend at -5 AB, regardless of Monk APR.<br/>\nFor creature weapons, the free attacks continue after normal attacks and descend at -5 AB without Monk APR or -3 AB with Monk APR.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:36 AM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for clarifying, Yunim. I wasn't aware of this dfference!<br/>\n<br/>\nEDIT: And thank you, TheSquid for bringing it up! I learned something new today! After about 14 years we're still learning new stuff! What an amazing game this is!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

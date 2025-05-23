@@ -1,0 +1,86 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "028",
+  "name": "Pretty Good Character Creator - advice, please",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pretty-good-character-creator-advice-please-t2354896.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:19 PM - Jun 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All,<br/>\n<br/>\nCurrently considerably p***sed off. Have been taking a build through the OC in order to go into Mines of Twin Summit (Valerfor's Savage Strike, which had been just what I needed). But upon leaving Port Llast for Luskan, while the gate sergeant opened the gate for me, some glitch or other prevented my entering the City of Sails. I've tried reloading from several saved games, but to no avail.<br/>\n<br/>\nThus, it's time to bite the bullet and load up PGCC or something similar.<br/>\n<br/>\nI tried to do this once before, but it didn't work. I'm sure that was down to me having the IT skills of an educationally challenged hippo. So, can someone please tell me how to get the damned thing working?<br/>\n<br/>\nThanks in advance<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "10:06 PM - Jun 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Stag! :)<br/>\nI don't know all about PGCC, but only the most elementary matters.<br/>\n<br/>\nFirst of all, you have to go into this <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/pretty-good-character-creator-customizer-pgc3-powered-igipe\" rel=\"noreferrer\" target=\"_blank\">page</a> and choose if you want to run the version with CEP or the one without the CEP; I love the non-CEP version (the v44 beta), as the other one overrides my beloved custom heads....<br/>\nNo haks have to be downloaded, just put the mod. file in modules folder and you are ok! Ready to level your PC to run MTS ;)<br/>\n<br/>\nJust remember that the first person from your left provides you exp and appropriate level of gold, and then you are free to shop; on the other hand, the area is on the right side (it is a while I don't use it, because now I always begin at lv 1, hope that the directions are right :) ).<br/>\nThe equipment is low-to-mid magic, on the opposite the \"Halls of advanced training\" provides high-magic equipment.<br/>\n<br/>\nHope that I have shed some light on the matter! ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:58 PM - Jun 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Aquarius - and good to see you again (even with that gorgeous avatar)!<br/>\n<br/>\nI think I can follow that. If not, it clearly won't be my fault, so get ready to be hunted down and butchered like a hog - either that or it's honey-dripping party cakes for everyone.<br/>\n<br/>\nI'll let you know... <em>(ominous yet surprisingly cheery music sounds)</em><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:22 AM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag, next to the witch is a blue circle thing, enter it and then it can transport you directly to one of the chapters in the OC. <br/>\n<br/>\nNext to the witch is also a brown box with a lever. Put something you want inside and then pull the lever once. Now you can have the item(s) you put inside permanently stored and ready to be taken by another character and so on. The box is a persistent storage device.<br/>\n<br/>\nLook to the mirror to see if you are pretty &amp; also if you have excessive wealth for your level by dnd standards. On the opposite corner is bobo. Hit him with a stick and he will write down your average damage &amp; then store it permanently to the board that is nearby so that you can see which character (don't take it too seriously) hits the hardest.<br/>\n<br/>\nBest thing about this module is that everything that I described and much, much more are literally ten feet away from each other so you don't have to run circles searching for something.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:29 AM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Halls of Advanced Training is also good, to be precise it was amongst the best before everyone started using PGC3. It has a more \"verbose\" appearance that might be to your liking or not. Both trainers can be installed very easy, just copy the .mod file into your .mod folder and you are done.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:30 AM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just don't put anything in the (clearly-labeled) trash unless you want it destroyed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:35 PM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks all.<br/>\n<br/>\nFanfare time...it worked!<br/>\n<br/>\nNow my issue is cash. I set up Savage Strike as a 17th level character (F8/ CoT9) with the intention of just doing the final bit of the OC before getting off to MTS. Now, if I was actually playing through the entire OC I know that I'd be fully geared up and have oodles of cash left, but I've been given 340,000 gp and have to kit myself out from scratch.<br/>\n<br/>\nI'm trying to stay true to what I know I'd be wearing/carrying at this point (though some items don't seem to be available, like the Golden Circlet): namely, red dragon armour (and spare copper dragon armour), golden hat, cloak of fort+3, ring of fort+3, ring of power (with a spare ring of elemental resistance and ring of regen), all 3 greater belts of slashing, piercing and bludgeoning (and that anti-death belt from the gold dragon in chap 3 and a str belt), gloves both of dex+3 and ogre power, speedy boots, 2 necklaces - natural armour+3 or more and greater amulet of health, at least 2 greatswords - harbinger+3 and dagger of chaos, a bow of some description (and some arrows), at least 6 or 7 bags of holding, and loads of heal kits and pots of various kinds. I simply can't afford it all.<br/>\n<br/>\nI have noticed that I can ask the merchant to give me more money, but he then calls me a cheater! So, it appears that I can either play fairly and get fairly crappy gear, or \"cheat\" and get the stuff I know I'd normally have.<br/>\n<br/>\nAny advice?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:19 PM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Valerfor to the rescue! I'm kidding but I indeed have an easy solution in my mind. First, though, I would have you know that the forge that is besides that dwarf can do pretty much a n y t h i n g you can dream off. It can put any properties, change the name or even the colour of the name of items and be very accurate about the prices it asks. Still, the usage of it would require a mini-tutorial so here comes solution No 2.<br/>\n<br/>\nSave the character you have created with PGC3\u00a0 and then import the (same) character to <em>The Halls of Advance Training (link below)</em> then take enough gold from the Hobbits and buy from the merchants around you the items you would have if played normally through the entire OC. The merchants have two categories of items, the normal (what you want) and some custom powerful gear that is level appropriate (for PvP matches). Those merchants have everything that exists, even cursed or plot items so you will have no trouble at all to select your equipment. Drop any axcess gold that you might have and save your character a final time. And next time, just use the \"Halls\" for the whole procedure ;)<br/>\n<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/halls-advanced-training-deluxe-hotusou-edition\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ou-edition</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:35 PM - Jun 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Valerfor - have to go out now, but will do as you suggest regarding Halls of Advanced Training later. I had a quick look at the link and note that the mod was submitted by our very own, sadly still MiA, Hip, so it would almost be sacrilege not to use it!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:19 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well knock me down with a feather, the HoAT download worked as well! (The gods clearly have something abominable planned for me soon.)<br/>\n<br/>\nI've been a good boy and only bought what I should to stay true to what I would have had (I will confess to some temptation...but no). So now let's get it prettified back in PGCC and pop back to the closing bit of the OC (am yet to find out whether I can get Aribeth's ring from PGCC or it's another death sentence on the poor, confused elven wench).<br/>\n<br/>\nStill, hurrah! Thanks all<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:10 AM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Glad that worked for you Stag, Aribeth's ring should be on one of the vendors in Halls of Advanced Training as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:06 PM - Jun 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All the help has been invaluable.<br/>\n<br/>\nI did go back and purchase Aribeth's ring from HoAT, but alas (for her, at least) it doesn't allow you to give the \"The lady who gave me this ring...\" response in your climactic meeting with her. So, I'm afraid to say, she's now one very dead elf. Off to play with the lizards now!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

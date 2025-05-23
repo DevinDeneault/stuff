@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "152",
+  "name": "Mechanics of Morningstars / Halberds / Scythes",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/mechanics-of-morningstars-halberds-scythes-t2355307.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:31 AM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi everyone<br/>\n<br/>\nI've used Morningstars / Halberds / Scythes in my builds and in game.<br/>\n<br/>\nHowever I am curious how the mechanics of the type of damage is delivered.<br/>\n<br/>\nTo explain better I might use an example.\u00a0<br/>\n<blockquote><div>Say I design a build for a module that has a lot of undead, and I choose Morningstar as my weapon focus for a cleric who can only use simple weapons.<br/>\nThe undead in this module resist piercing and slashing damage, but do not resist bludgeoning damage.<br/>\nThe morningstar weapon is more attractive on first glance because it does 1d8 damage whereas a mace or club does 1d6 damage.<br/>\nHowever I note the morning star does both bludgeoning and piercing damage.<br/>\nHow does this apply in game?</div></blockquote>\nDo the weapons deal damage in a 50/50 split? ie half bludgeoning and half piercing in this example?<br/>\nIs it alternating attacks? So bludgeoning damage is applied one attack, then piercing damage the next?<br/>\nOr is it alternating rounds? So bludgeoning damage is applied one round, then piercing the next?<br/>\nOr are both applied and the type that does the most damage is applied?<br/>\n<br/>\nAnyway this is my question for the day to the experts!\u00a0<br/>\n<br/>\nLook forward to reading any responses!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:16 AM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My understanding (though I may well be wrong) is that the damage is <em>dealt</em> as a whole unit for each attack, but how it is <em>received</em> will depend on resistances. Otherwise (in the morningstar example) it would be written as 2xd4 damage. Thus, the maximum amount of damage is 1xd8, with up to 50% of it capable of resistance.<br/>\n<br/>\nHope this both makes sense and is right!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:09 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Stag for responding!<br/>\n<br/>\nI found something in the\u00a0<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Damage_resistance\" rel=\"noreferrer\" target=\"_blank\">NWN Wiki: Damage Resistance</a><br/>\n<blockquote><div>Damage resistance<br/>\n<br/>\nCreatures with\u00a0<strong>damage resistance</strong>\u00a0are able to ignore damage of a specific\u00a0type\u00a0up to a specified amount. Unlike\u00a0damage reduction, damage resistance cannot be overcome with weapons with a higher enhancement bonus. Like damage reduction, the amount of damage resisted is listed as a value and a damage type, such as \"fire 20/-\". This means that the first 20 points of\u00a0fire damage\u00a0dealt to the character is ignored entirely.<br/>\nIn the special case of a weapon that deals more than one kind of\u00a0physical damage, the lower of the resistances for those physical damage types is used.\u00a0<em>(Prior to version 1.69, the higher was used.)</em></div></blockquote>\nSo my conclusion:\u00a0<br/>\n- mixed physical damage type weapons (ie halberds, morningstars and scythes) are superior to single physical type damage weapons!<br/>\n<br/>\nGet those Halberd builds ready to rock and roll!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:10 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It works like this ;<br/>\n<blockquote><div>This is a dual-damage type, which is affected by the lower of piercing immunity and bludgeoning immunity, and by the lower of piercing resistance and bludgeoning resistance. In contrast, an attack with a weapon of this damage type is affected by the higher of \"AC vs. piercing\" and \"AC vs. bludgeoning\". </div></blockquote>\n\nIn other words, it takes the weakest option to deal damage - i.e. if a creatures has piercing resistance but no bludgeoning, the damage will be dealt as bludgeoning (because it is the weakest, in this case 0).<br/>\n<br/>\nNote that before 1.69 (where this was implemented) it was the opposite, which made dual-type weapons weaker than single type.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:31 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Happy to be proved wrong here - I was only going from what I thought logical, but this is better!<br/>\n<br/>\nNow what we need are better morningstars - designers (of modules, I can't speak for PWs) never seem to give them much love. You can get a decent one from Marok in chapter 1 of the OC (upgradable in chapter 3) but that seems to be about it.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "12:33 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What Stagmeister wrote is correct, damage type only matters for DI/DR and AC vs Damage Type. Only the lowest of DI and DR are applied to the damage types, but the highest of AC vs Damage Type is applied to your attacks.\u00a0The Extra Melee/Ranged Damage item property changes the damage type too, so on servers with that item property there is a lot more flexibility with damage types.<br/>\n<br/>\nSay you do 11 damage with your morningstar (Blu/Pie) before DI/DR against an opponent with 50% Blu DV and 50% Pie DI. If you were using a rapier (Pie) you would do 6 damage (11 - 5). However since your weapon is Blu/Pie the lowest DI matters, which in this case is the 50% Blu DV. So your weapon does 16 damage (11 + 5) against your opponent. Note that a rapier with the Extra Melee Damage: Bludgeoning item property would also do 16 damage since it counts as a\u00a0 Blu/Pie weapon for DI/DR calculations.<br/>\n<br/>\nLet's say your opponent has 20 AC and +3 AC vs Blu. When attacking them with a rapier (Pie) they have 20 AC, but when attacking them with a mace (Blu) or morningstar (Blu/Pie) they will have 23 AC. They should have 23 AC when you are using an EMD: Blu rapier (Blu/Pie), but I've never tested AC vs Damage Type so I can't say for certain.<br/>\n<br/>\nOne thing to mind with multiple damage type weapons is how EB stacks with damage bonus on weapons. For single type weapons, the damage from EB does not stack with bonus damage of the base item type.<br/>\nSay you have a rapier (Pie) with +3 EB and +3 Pie damage. You will have +3 AB but only +3 damage (instead of +6) since the EB and Pie bonus damage don't stack. If your rapier is +3 EB and +3 Blu or Sla damage then you will have +3 AB and +6 damage as expected.<br/>\nIn the case of morningstars, they count as Piercing with regards to EB stacking (Blu and Sla bonus damage stacks with EB but Pie doesn't). Halberds and scythes count as Slashing with regards to EB stacking (Blu and Pie bonus damage stacks with EB but Sla doesn't). The Extra Melee Damage property doesn't affect this, only the base weapon. For variable bonus damage (eg. a rapier with +3 EB and +2d6 Pie damage), the damage stacking works as above but which property overrides which changes depending on the exact value. I've never bothered to test which EB values override which bonus damage values, but I tested enough to know that either only the EB damage is applied or only the bonus damage is applied, depending on the exact values.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:43 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, the AC vs thing I think was not corrected in the 1.69 patch imo.<br/>\n<br/>\nBecause it does not really make any sense.<br/>\n<br/>\nNormally, a weapon that threatens both types of damage (dual-damage type as defined in NWN) should attack the weakest \"link\" in the opponent - not the strongest.\u00a0 So the AC should not be the highest against whichever of the dual-damage is threatened, but the lowest (because it is the weakest link).<br/>\n<br/>\nBy doing it that way, it basically is voiding the other damage type in the dual-damage weapon.\u00a0 That makes little sense to me (if I am understanding this correctly).<br/>\n<br/>\nTBH - with a dual damage type weapon, when it deals damage to an opponent that has no resistances, etc vs the dual damage types, what damage is dealt?\u00a0 Is it one, half of each, or what?\u00a0 Since the weak link for both is 0, is there a hierarchy of which is applied first, etc?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "3:02 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Technically it's \"Bludgeoning/Piercing\" which is a specific damage type. You can just think of it as \"Physical\" damage though, since apart from AC, DI, DRes, and EB damage stacking there is no real difference between damage types.<br/>\n<br/>\nPersonally I think AC vs Damage Type should be implemented more since it balances out the weapon choices slightly. In the past I've played on a server where everything was built around DI/DR, to the point that on some chars I would carry 5 different weapons (3 melee and 2 ranged) in order to have the right damage type available. Dual-damage type weapons were great there since the EMD/ERD property was very rare, but there was no real downside to using them since nothing on the server had the AC vs Damage Type property. Giving mobs AC vs Damage Type would make players think about both DI/DR and AC which could make choosing the right weapon more interesting.<br/>\n<br/>\nSince AC vs Damage Type is so rare, in general the best damage type is Blu/Pie/Sla (which requires the EMD/ERD item property). Although if your server doesn't have opponents with differing DI/DR values then ultimately it doesn't matter.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "11:18 PM - Jan 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"18553\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18553&amp;sid=da8e59717b6a89a2679fcfb8ce7610c7#p18553\">\u2191</a><div class=\"responsive-hide\">Jan 20, 2020</div></cite>Technically it's \"Bludgeoning/Piercing\" which is a specific damage type. You can just think of it as \"Physical\" damage though, since apart from AC, DI, DRes, and EB damage stacking there is no real difference between damage types.</div></blockquote>\nThis thread springs up at the right moment ;) <br/>\nOne of my pcs has a piercing weapon with Extra Melee Damage property, and the +5 damage caused by the weapon enhancement is described, in the \"character sheet\", as physical instead of piercing.<br/>\n<blockquote><div><cite>Yunim wrote: <a data-post-id=\"18549\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18549&amp;sid=da8e59717b6a89a2679fcfb8ce7610c7#p18549\">\u2191</a><div class=\"responsive-hide\">Jan 20, 2020</div></cite>\nSay you do 11 damage with your morningstar (Blu/Pie) before DI/DR against an opponent with 50% Blu DV and 50% Pie DI. If you were using a rapier (Pie) you would do 6 damage (11 - 5). However since your weapon is Blu/Pie the lowest DI matters, which in this case is the 50% Blu DV. So your weapon does 16 damage (11 + 5) against your opponent. Note that a rapier with the Extra Melee Damage: Bludgeoning item property would also do 16 damage since it counts as a\u00a0 Blu/Pie weapon for DI/DR calculations.</div></blockquote>\nWhat is the 50% bludgeoning \"DV\"? Acronym for...?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "4:21 AM - Jan 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Damage Vulnerability, a negative Damage Immunity effect. 50% Blu DV means the same thing as -50% Blu DI.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

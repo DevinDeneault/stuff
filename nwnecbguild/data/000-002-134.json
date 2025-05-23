@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "134",
+  "name": "Freedom, stealth mode, detect mode and movement",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/freedom-stealth-mode-detect-mode-and-movement-t2355469.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:39 AM - May 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Usually when stealth mode and detect mode are used together, movement speed is decreased very substantially (50% of walking speed)<br/>\nWhereas if one or the other is used, the movement speed is that of normal walking if not encumbered.<br/>\n<br/>\nThis is the table from <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Movement_rate\" rel=\"noreferrer\" target=\"_blank\">Wiki: Movement rate</a><br/>\n<table class=\"post_content_table\"><tbody><tr><td>Situation</td>\n<td>Effective movement speed</td>\n<td>Run?</td>\n</tr>\n<tr><td>normal</td>\n<td>100%</td>\n<td>yes</td>\n</tr>\n<tr><td>active detect or stealth</td>\n<td>100%</td>\n<td>no</td>\n</tr>\n<tr><td>lightly-encumbered</td>\n<td>75%</td>\n<td>no</td>\n</tr>\n<tr><td>two of: stealth, detect,<br/>\nand lightly-encumbered</td>\n<td>50%</td>\n<td>no</td>\n</tr>\n<tr><td>heavily-encumbered</td>\n<td>50%</td>\n<td>no</td>\n</tr>\n<tr><td>stealth, detect, and lightly-<br/>\nencumbered</td>\n<td>25%</td>\n<td>no</td>\n</tr>\n<tr><td>stealth or detect,<br/>\nand heavily-encumbered</td>\n<td>25%</td>\n<td>no</td>\n</tr>\n<tr><td>stealth, detect, and heavily-encumbered</td>\n<td>12%</td>\n<td>no</td>\n</tr>\n</tbody></table>\n<br/>\nI have found when freedom is active, I can use both stealth mode and detect mode together, and move at the same speed as when I use stealth mode (or detect mode) alone ie normal walking speed. This is for both non-monks and monks.<br/>\nAnyone else notice this? I was wondering if this is an environment factor where I playtest?<br/>\n<br/>\nI have looked at quite a few wiki pages for information (<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Freedom\" rel=\"noreferrer\" target=\"_blank\">Freedom</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Freedom\" rel=\"noreferrer\" target=\"_blank\">Talk:Freedom</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Freedom_of_movement\" rel=\"noreferrer\" target=\"_blank\">Freedom of Movement</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Movement_speed_decrease\" rel=\"noreferrer\" target=\"_blank\">Movement Speed Decrease</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Movement_rate\" rel=\"noreferrer\" target=\"_blank\">Movement Rate</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Movement_rate\" rel=\"noreferrer\" target=\"_blank\">Talk:Movement rate</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Stealth\" rel=\"noreferrer\" target=\"_blank\"></a><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Stealth\" rel=\"noreferrer\" target=\"_blank\">Stealth</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Stealth\" rel=\"noreferrer\" target=\"_blank\"></a><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Stealth\" rel=\"noreferrer\" target=\"_blank\">Talk:Stealth</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Detect\" rel=\"noreferrer\" target=\"_blank\">Detect</a>, <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Detect\" rel=\"noreferrer\" target=\"_blank\">Talk:Detect</a>).<br/>\n<br/>\nThe best I can come up with is that freedom prevents movement speed decreases but detect/stealth mode doesn't allow for running.<br/>\n<br/>\nAlso curious as to what happens if I am encumbered with freedom. Will I be walking at normal speed, or a decreased movement speed + walking?\u00a0<br/>\nI will be more observant but maybe others know the answer to this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:08 AM - May 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have noticed this and use it extensively. Either a ring of freedom of movement, or I use the spell of the same name from a scroll or staff /etc. Very handy. I play in the same environment as you. I don't know if works elsewhere.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:19 AM - May 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I also have noticed this, I assumed it was working as intended and never looked into it in detail.  I use it all the time to counter over-encumbrance.  You move pretty slow when your are 2000lbs over your limit and walking speed with Freedom of Movement up.<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

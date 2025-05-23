@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "202",
+  "name": "New to the guild/game looking for some general insight as I work through a build.  Please help",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/new-to-the-guild-game-looking-for-some-general-ins-t2354717.html",
+  "author": "BraxxWarborn",
+  "avatar": "no_avatar.png",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "BraxxWarborn",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:00 PM - Jul 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am new to playing a cleric so I apologize before hand if this is a foolish question. I started my build as a paladin and at second level I swapped to cleric. I added war and trickery as my domains but I am unable to add these domain to my hotbar. Any advice would really be appreciated. Thanks all.     Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:24 PM - Jul 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Braxx, and welcome!<br/>\n<br/>\n Do you mean that you have to use the radial menu when accessing the domains, rather than the keys at the bottom of the screen? As one who doesn't do magic-users, does that make a big difference?<br/>\n<br/>\n Not terribly helpful, I know, I just wanted to extend a hand of greeting - someone who knows what they're talking about should be along soon.<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BraxxWarborn",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:41 PM - Jul 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am unable to access them via radial menu or by using the F1-F12 cell \"keybinds\". Thank you for the timely response and warm welcome the information here is a valued resource. <br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:44 AM - Jul 05, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Right-click the slot on the bottom of the screen where you want your domain power, select special abilities (straight to the left), then select Cleric, then your domain power. That will assign the domain power to that slot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BraxxWarborn",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:51 AM - Jul 05, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The problem is I am not seeing Cleric powers even show up when I do this. If I start a fresh Cleric character the game defaults my domain powers into the hotbar cells. That said if I choose to move the powers to a different cell I am unable to do so as they do not show up in the radial menu. Is it possible my game is broken or am I just a little slow here?  Thanks for any advice guys. <br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:37 PM - Jul 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to remove anything from a quick-slot, right-click on the slot and select the * at the bottom.<br/>\n If you have difficulties adding something new, try to empty the slot first.<br/>\n You can add things to the quick slots by right-clicking the way empyre told you, but you can also add items and spells by dragging them to the slot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BraxxWarborn",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:23 PM - Jul 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the input guys!  Greatly appreciate your patience and advice. Think I have a handle on the problem. Seems to be a server issue as I am able to add the domains as you suggest when I play campaign. <br/>\n<br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

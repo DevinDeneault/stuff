@@ -1,0 +1,26 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "036",
+  "name": "Multiple Installations",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/multiple-installations-t2354340.html",
+  "author": "Kalistez",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:12 AM - Nov 19, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi,<br/>\n<br/>\n Does anyone know if there is a way to have multiple installations of NWN on one machine ?<br/>\n<br/>\n The install process wont let you choose an install path, it only gives you the option to uninstall.<br/>\n<br/>\n I was hoping to have separate installs for each PW I play on to avoid conflicts with HAK's ect.<br/>\n<br/>\n Thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "11:52 PM - Dec 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I always choose to install NWN directly off the main drive rather than among the default x86 program files folder.\u00a0 Not sure why you aren't getting a location prompt.\u00a0 You should.<br/>\n<br/>\n Theoretically, you could partition your drive and use something like Boot Camp to run different OS's on a single hard-drive (or iterations, this case).\u00a0 Many Linux and Mac users use this. Essentially, you would boot into whichever partition you had the game version needed.\u00a0 How the registry would keep track of this, I couldn't venture a guess.\u00a0 You would be the one needing to remember which boot for which server.\u00a0 Also, unless you installed multiple versions of web browsers and other commonly-used software on each partition, you'd need to keep rebooting to do simple tasks like checking email, streaming content or doing some office work.<br/>\n<br/>\n Seems an awfully convoluted strategy IMO.\u00a0 It would probably be more efficient to just rename folders containing the custom resources specific to a particular server and toggle them back and forth (assuming your haks have been conflicting somehow).\u00a0 But you would need to manually rename them yourself or write some script to toggle the versions on execution.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

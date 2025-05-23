@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "337",
+  "name": "Request build: Barbarian/?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-build-barbarian-t2350608.html",
+  "author": "campgod",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:39 AM - Feb 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello again guys. I was thinking about a PvP Barbarian build. I looked at a lot on the search engine and liked \"The Gothic Champion\" by Tyrtempler. Couple of questions, On my server you get small bonuses for single and duel builds. If I took out the CoT lvls all together I would gain +1 damage reduction from the barb and +1 skills song/curse from the bard. Now is that worth dropping the Cot lvls? Seems like I would be giving up a lot if I did, the saves, Divine wrath..etc. Also I saw this one Barb playing with Dex instead of Str, why would one do that? I watched what spells he casted and he was a Barb/Bard/CoT. He wouldn't go into detail with me about the spread or what feats he took. He was a beast in a dungeon run and in PvP. So any thoughts on the two diff builds would be great. Not really looking for a dev. crit build since dev crit does only double damage if they fail a fort save which most have high fort. Thanks for your time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:21 AM - Feb 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What exactly are the bonusses for single class barbarians? In three Towns for example they get significant bonusses if they have more than 35 levels of it and in many other worlds.<br/>\n<br/>\nIs this for level 40 or less than that?<br/>\n<br/>\nIs Terrifying rage altered somehow to make it more worth it? What about Thundering rage?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:02 PM - Feb 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would gain +1 damage reduction from the barb and +1 skills song/curse from the bard as a duel class. Any spells I can cast get a +3DC if single class and +1 for duel class. This is a lvl 40 server. Barbarian Rages: The stat bonuses of their rages are removed and replaced with equivalent ab/saves/hp/discipline. (Standard = +2, Greater = +3, Mighty = +4) <br/>\nTheir speed bonus now stacks with haste, so a barbarian is faster then everyone else besides monks. A single class barb would get +2 damage reduction and +2 str when raging.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:52 PM - Feb 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Those are nice changes to the Barbarian Rage and lot more close to PnP than default NwN rules.<br/>\n<br/>\nSeems though that the small bonusses for single classes are not enough to make you drop CoT in Tyr's build. Remember that 10 lvl of CoT also offer 5 bonus feats<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

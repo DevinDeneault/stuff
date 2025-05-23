@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "016",
+  "name": "The Blind Bowman - Monk 6 /Wizard 7 / Arcane Archer 27",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-blind-bowman-monk-6-wizard-7-arcane-archer-27-t2355739.html",
+  "author": "grizzled_dwarflord",
+  "avatar": "10758933_1548854436.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "5:55 PM - Jun 12, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Here is another to add to the pantheon of heroes and heroines \u2013 the Blind Bowman.\u00a0 One part mystic, one part transcendent, and a dash of pain and glory. Built, solo-ed, and playtested from the ground up in the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/\" rel=\"noreferrer\" target=\"_blank\">World of Greyhawk</a> Action Server<br/>\n\u00a0<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202106/10758933_adbf2477b4d0849c0efb20bd25774322_t.jpg\" />\n<dd class=\"file-comment\">The Blind Bowman</dd> </dl>\n</span><br/>\n<br/>\n<strong>The Blind Bowman</strong><br/>\nMonk 6 / Wizard 7 / Arcane Archer 27<br/>\nRace: Elf<br/>\nAlignment: Any Lawful<br/>\nPlayable: 1-40 all environments<br/>\n\u00a0<br/>\n<strong>Attributes</strong><br/>\nStr14<br/>\nInt14<br/>\nWis15 (32)<br/>\nDex16<br/>\nCon10<br/>\nChr8<br/>\n\u00a0<br/>\n<strong>Level Guide</strong><br/>\n1 Monk1, Point Blank Shot<br/>\n2 Wizard1<br/>\n3 Wizard2, WF: Longbow<br/>\n4 Monk2, Wis16<br/>\n5 Wizard3<br/>\n6 Wizard4, Zen Archery<br/>\n7 Monk3<br/>\n8 Wizard5, Craft Wand, Wis17<br/>\n9 Wizard6, Rapid Shot<br/>\n10 Monk4<br/>\n11 AA1<br/>\n12 AA2, Improved Crit: Longbow, Wis18<br/>\n13 AA3<br/>\n14 AA4<br/>\n15 AA5, Blind-fighting<br/>\n16 AA6, Wis19<br/>\n17 AA7<br/>\n18 AA8, Called Shot<br/>\n19 AA9<br/>\n20 AA10, Wis20<br/>\n21 AA11, Great Wis I<br/>\n22 Monk5<br/>\n23 Wiz7<br/>\n24 AA12, Great Wis II, Wis23<br/>\n25 AA13<br/>\n26 AA14, EWF: Longbow<br/>\n27 AA15, Great Wis II<br/>\n28 AA16, Wis25<br/>\n29 AA17<br/>\n30 AA18, Epic Prowess, Great Wis IV<br/>\n31 AA19<br/>\n32 AA20, Wis27<br/>\n33 AA21, Great Wis V<br/>\n34 AA22, Epic Toughness<br/>\n35 AA23<br/>\n36 AA24, Great Wis VI, 30<br/>\n37 Monk6<br/>\n38 AA25<br/>\n39 AA26, Epic Toughness, Great Wis VII<br/>\n40 AA27, Wis32<br/>\n\u00a0<br/>\n<strong>Combat Vitals*</strong><br/>\nMundane AB: 55/50/45/40<br/>\nBuffed AB in +5 environment: 68/63/58/53<br/>\nBuffed/Hasted/Rapid Shot: 66/61/56/51/66/61<br/>\nDamage: 1-8+14 (19-20/x3)<br/>\nAC: 33 (Naked)<br/>\nAC with +5 Gear: 65<br/>\nHP: 332 <br/>\nMax HP: 572<br/>\nSchool of Magic: Illusion<br/>\n<em>\u00a0\u00a0\u00a0 </em><br/>\n<em>*the AB and damage schedules listed above do not consider bonuses from Point Blank Shot in their calculus.\u00a0 Only +6 to Wisdom, a +5 bow, and a quaffed potion of Blesss and Aid</em><br/>\n<strong>\u00a0</strong><br/>\n<strong>Saves</strong><br/>\nFort: 23 (28)<br/>\nReflex: 26 (31)<br/>\nWill: 33 (38)<br/>\n\u00a0<br/>\n<strong>Skills</strong><br/>\nCraft Weapon: 5<br/>\nDiscipline: 40 (42)<br/>\nHeal: 1 (12)<br/>\nHide: 43 (46)<br/>\nListen: 3 (15)<br/>\nMove Silently: 43 (46)<br/>\nSearch: 4 (6)<br/>\nSpellcraft: 23 (25)<br/>\nSpot: 43 (56)<br/>\nTumble: 40<br/>\n\u00a0<em>Skill Point Progression tips: Max spellcraft on Wizard levels, Discipline and Tumble on Monk levels, and Spot, Hide/Move Silently on AA levels</em><br/>\n<br/>\n<strong>Special Abilities</strong><br/>\n20% Movement Increase<br/>\nEvasion<br/>\nKeen Senses<br/>\nImbue Arrow: 18d6, DC 40<br/>\nCraft Wand: Lesser Breach, Improved Invis, Remove Blindness, Stoneskin, Invisibility, Knock, Clarity, Stoneskin, ILMS, etc.<br/>\nSuper High Spot Score (buffed is 62)<br/>\nMost of AC is natural and not Dodge-based, so no need for Uncanny Dodge<br/>\n\u00a0<br/>\n<strong>Builder\u2019s Commentary</strong><br/>\nThis is hardly a new concept, but this particular archer holds a bit of uniqueness in contrast with other Zen Archer builds.\u00a0 In my attempts to arrive at the ultimate divine damage dealing archer, I was always dismayed at how soft they were in the middle.\u00a0 This stemmed from the fact they were Dex and Charisma beings, and so lost all of their dodge AC, to include their dex AC, when flatfooted, being flanked in combat, etc.\u00a0 Because of my solo playstyle, I decided to go another route.\u00a0 Using the Monk/Wisdom/Zen Archery approach, I was able to cast aside the need for Dexterity and Uncanny Dodge, and stand in the midst of combat jamming arrows down the throats of mine enemy.\u00a0 Indeed, in going Zen one can also cast aside Weapon Finesse.<br/>\n\u00a0<br/>\nMy other goal was to make the most of the wizard class taking up a class slot, so by going 7 Wizard, one can use the free wizard feat for Craft Wand, and then have a wand for every occasion: Wands of Breach, Wands of Improved Invis, Wands of Invis, and my favorite, Wands of Remove Blindness to counter the Words of Faith spam of which I sometimes fall victim to.<br/>\n\u00a0<br/>\nThe AB is well high enough that you will only miss on rolls of 1 (with a few boss exceptions), and the AC climbs and stays commensurate with the AB.\u00a0 The high spot score ensures no one is sneaking up on you, and Called Shot: Leg becomes your modus operandi when facing big foes.\u00a0 The more you land, the more you land, if you catch my meaning.<br/>\n\u00a0<br/>\nOne is free to move skill points around, though Tumble and Spot are a must, and I found keeping Hide and Move Silently was handy.\u00a0 Discipline is a toss-up, but I ran into a creature that had On Hit: Ruin Armor, and I quickly found myself naked in combat against a beast from the abyss.\u00a0 The only defense against such attacks is a high discipline, so I decided to err on the side of caution and pump that as well (nobody teaches that at the academy, but Ruin Armor can ruin your day and is a good argument for Discipline, so judge your environment accordingly).<br/>\n\u00a0\n<ol>\n<li><a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build203926.html\" rel=\"noreferrer\" target=\"_blank\">Death by Dexterity</a>, Dex based, and is perhaps closest in level split (monk9/wiz7/AA24). Lower AB, and lacks Uncanny Dodge and suffers from questionable feat choices</li>\n<li><a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build212521.html\" rel=\"noreferrer\" target=\"_blank\">Wise and Alert Archer</a> by JennaLee. Monk10/Wiz3/AA27, most similar in concept and design, but lacks Craft Wand and Level 4 Wiz spells, slightly lower AB and AC</li>\n<li>There was only one Monk/Wiz/Archer in the newer ECB archives, one by Mick Dagger, but is a total Dex monkey and goes heavier on the Wizard side (Wiz13/Monk6/AA21).\u00a0 <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arcane-speedarcher-m%20-6-wizard-13-arcane-archer--t2354296.html\" rel=\"noreferrer\" target=\"_blank\">Arcane Speed Archer</a>.\u00a0</li>\n</ol>\n\u00a0<br/>\nIf there are others, my apologies, for I cannot tell how current the new logs are being maintained to account for more recent builds in the last couple of years.\u00a0<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202106/10758933_88868d24b83a1a2b944e625e680b41eb_t.png\" />\n<dd class=\"file-comment\">In Game Version</dd> </dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:43 PM - Jun 12, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very cool concept - but GD playing a mamby-pamby elf?<br/>\n<br/>\nSay it ain't so!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:26 PM - Jun 12, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like it!<br/>\nI am currently working on a similar build, only with more monk and less wizard.<br/>\nBut I am not done testing it properly yet.<br/>\nIt is a nice idea though to get lvl 4 spells and the wand feat!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:51 PM - Jun 12, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lovely build!<br/>\n<br/>\nI did try a Monk/ Wiz/ AA build, but it was another DEX-heavy one, and had a Monk 11/ Wizard 2/ AA 27 split, that relied more on speed to elude melee nastiness: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/dyse-monk-11-wizard-2-arcane-archer-27-t2354696.html\" rel=\"noreferrer\" target=\"_blank\">Dyse</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:07 PM - Jun 12, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"24707\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=24707&amp;sid=2a4e7801e434e03659af0f109f9124d0#p24707\">\u2191</a><div class=\"responsive-hide\">Jun 12, 2021</div></cite>Very cool concept - but GD playing a mamby-pamby elf?<br/>\n<br/>\nSay it ain't so!</div></blockquote>\nBet she's still got a stocky soul, though!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dingpot",
+      "avatar": "10759398_1682113117.jpg",
+      "timestamp": "9:29 AM - Aug 03, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the build Dwarflord. Thinking of taking this for a spin on a mod. Would you take a different feat instead of craft wand to avoid the xp hit and if so, what would you take instead? <br/>\n<br/>\nSent from my I3312 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:52 AM - Aug 03, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You do not necessarily need Craft Wand on WoG, if you have access to your own or other Player's Wizard Wand crafters (and can use them, as the case is here). Restoration (scroll) will remove Blindness, and an AA normally doesn't have much use for Lesser Breach, anyways (as it is mostly used to blow damage shields off, and AAs don't have difficulties with those).<br/>\n<br/>\nImpr. Invis, Flameweapon, GMW are all good investments, as can be ILMS for those creatures that have lots of displacement - though an AA doesn't really have much problem still hitting those, what with the flood of arrows that it unleashes.\u00a0 Stoneskin is...useless.\u00a0 There.\u00a0 I said it.\u00a0 Haste is better imo.\u00a0 Short lived, but very, very useful.\u00a0 This is all for WoG, for other environments, YMMV.<br/>\n<br/>\nWith that AB, Called Shot is a feat worth mentioning here, imo - especially Called Shot : Leg.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NWNBigx",
+      "avatar": "10759352_1602267238.jpg",
+      "timestamp": "7:16 PM - Sep 27, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Grizz, what is the reasoning for Craft Armor 5?  <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:28 PM - Sep 27, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's actually Craft Weapon 5.<br/>\n<blockquote><div>The bone wand needed to use this feat may be directly available in modules created with the Hordes of the Underdark expansion, such as the Hordes of the Underdark campaign. Bone wands can also be crafted from large bones if a DC 13 craft weapon check is passed. These large bones are dropped by many skeletons and other standard skeletal creatures (even in older modules, including all official campaigns) whenever the creature's killer has a <strong>craft weapon or craft armor skill of at least 6</strong>.</div></blockquote>\n\nAs I am not sure if this is actually real or total score (Int affects Craft), I suspect the latter.\u00a0 That would explain it - allowing for Large Bones to drop from certain creatures and aiding in creating Wands.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NWNBigx",
+      "avatar": "10759352_1602267238.jpg",
+      "timestamp": "12:07 AM - Sep 28, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Got it!<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

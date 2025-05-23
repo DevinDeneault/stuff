@@ -1,0 +1,146 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "013",
+  "name": "Because I'm an Idiot...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/because-i-m-an-idiot-t2356250.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 21,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:19 PM - Jul 21, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">...but a curious idiot, I was looking through Ye Olde Forgotten Reams wiki when my eye was caught by the Forest Gnome (there are reasons, but I'm not telling). Now, it struck me that such a creature would be more likely to be a Druid than a Wizard, and being a shy type, probably a SD for HiPS. And thus a whole RP character began to form in that idiotic but imaginative area between my ears (you may well see its outpourings in the Build Request forum sometime soon).<br/>\n<br/>\nIt was around then that I remembered I'd never built a Druid before, at least not a caster one (there were a couple with a few levels just for Shifter). Thus, here I am with a couple of questions (at least to start with). But first, some givens: no Dragon Shape; there will be at least 1, but probably 2, minor class(es) involved, so no telling me to play a pure one this time; and it will be a gnome, which I appreciate isn't necessarily the best race.<br/>\n<br/>\nSo, the questions: i) while I appreciate that Conjuration is well-regarded as the prime school - mostly for Implosion and SoV, Evocation appeals as druidic for the elemental stuff, and so does Abjuration for the same reason - druidic in nature, though not so elemental. Would I be over-gimping myself by taking one of the latter two? ii) Blind Fight, is it still worth it - ditto for KD (assuming IKD is less needed when shifting into animal/elemental form)? iii) Do all creature weapons react positively to Imp Crit: Unarmed while ignoring WF/EWF, or is that just dragon form? iv) How does Weapon Finesse work when in wildshape/ elemental form, or is it unnecessary?<br/>\n<br/>\nThere will, I'm sure, be more later, but in the meantime, any advice is appreciated from the ever-helpful Guild.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "11:15 PM - Jul 21, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Great idea! \"How to build a druid\" happens to be one of my favourite topic NWN. To your questions:<br/>\n1. You take Spell Focus to increase the DC of spells of the chosen school that offer a save. Conjuration focus is good on Druids because their area control spells (Grease, Web, Stonehold, SoV) are improved by it (as well as Bombardment I guess). Evocation is also good, you improve the DC of Flame Strike and Fire Storm and Call Lightning and Sunburst and Earthquake and whatnot. Abjuration looks bad, as Druid has _zero_ spells of this school that care about saves. Another school to consider is Transmutation (Drown! Nature's Balance! Cool Druid-only spells!)<br/>\n2. Druid shapes (except maybe Dragon, which you are not taking) have _really bad_ AC. If you want to fight shifted at all, I think you need a way to fix that, and there is mostly only one (assuming your WIS will be high) and that is dip into Monk. Assuming you don't want to do this, I suggest forgetting shapes and thinking of fighting in gnome form, kind of like a Cleric with much worse AB, better defenses, one more companion, and incapacitated enemies. So yes you can take the usual melee feats if you so desire.<br/>\n3. Weapon Finesse works when shifted, as do IC, as does Epic Prowess, and WF/EWF do not work. But you probably should not plan on shifting.<br/>\n<br/>\nI am happy to discuss further, as I said I like the topic very much.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:32 AM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Keep in mind that Druids have Animal Empathy as a skill, and depending on the environment, this is an excellent investment.\u00a0 Druids are called a \"one person army\" for a reason : Summons, Animal Companion, Animal Empathy, plus Druid makes 4 (a complete party!).<br/>\n<br/>\nGrab yourself an extra meatshield (and it is great for grabbing summons from enemies as well).<br/>\n<br/>\nDruids are known as the ultimate disablers - they have spells (nice AoE) that attack all three Saves (Reflex, Fort, and Will), so you can always exploit the \"weak\" saves of your opponents - Grease for Reflex, Stonehold for Will, SoV for Reflex, Finger of Death for Fort, etc.<br/>\n<br/>\nEven though some of the shapes are kind of weak, most of the elemental shapes are good choices (immunity to mind, immunity to crits, immunity to sneaks, etc), especially when you have laid down some nice AoE disabling spells and need to go into action.\u00a0 It's something to keep in mind.\u00a0 Epic Elemental Shape can be pretty niffty at lower epic levels.<br/>\n<br/>\nI have many druid builds on WoG, some are dragons, others are not.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:43 AM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's brilliant, Squid, thanks!<br/>\n<br/>\nOkay then, Abjuration's out, so I'm coin-flipping between Evocation and Transmutation now (kicking Conjuration into the long grass, 'cos everyone seems to love it, so me being me...).<br/>\n<br/>\nI suppose my own - I'm gonna say 'idiosyncrasies' - also account for my preference for not taking Monk (for once): well, that and the xp penalty. So, I'm wondering whether throwing a few levels of CoBW (Champion of Baervan Wildwanderer, though I'm not sure whether a dire badger or rat better substitutes for the raccoon Chiktikka Fastpaws) would be handy - to cover 1 or 2 feats pre-epic, help boost gnome-form combat, and bolster Wisdom in epic levels.<br/>\n<br/>\nThings begin to coagulate in my idiocy!<br/>\n<br/>\nOh, here's another question before moving along: do Druids get/have to chose a domain or two like Clerics do (and I'm ignoring WoG-isms here, where I know you play)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:33 AM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No, Druids do not have to choose Domains, it is \"baked in\" i.e. Animal Domain.<br/>\n<br/>\nWhich is how one can get three Domains in one PC (Cleric with a level of Druid, for example).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:53 AM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks!<br/>\n<br/>\nEDIT: Sorry, missed your first reply, so many thanks for that, too!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:59 AM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like conjuration for the grease spell as well!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "6:34 PM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Conjuration and transmutation for me for a druid and then evocation - cast a disabling soup and then let the wee beasties kill em<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:46 PM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am pleased to see you thinking of making a caster Druid. As often before, your inspiration comes from reading.<br/>\nAny serious caster should have a high number of class levels to beat SR. I'm not necessary saying \"go pure Druid\" here. You have already decided not to. <br/>\nMonk has a high AC synergy with druid as long as you go in robes or naked or in shifted forms. Monk is also a good stepping stone to qualify for SD.<br/>\nYou already mentioned SD and HIPS for role-playing shyness. HIPS is great for crowd control too, just mentioning. You can also get HIPS with Kobold commando, but that takes you way into shifter land, and you cannot cast your spells while in shifted form.<br/>\nYou started thinking about Champion of BW. CoT (or any other deity) let you take Great wisdom as bonus feats in epic levels and improves your saves. But even so, please, pretty, pretty please, ... Don't make this another Divine warrior, that would be a complete derailment of your original idea.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:47 PM - Jul 22, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"29430\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29430&amp;sid=964b834119a7d9ae58955762f01bcb18#p29430\">\u2191</a><div class=\"responsive-hide\">Jul 22, 2024</div></cite>I am pleased to see you thinking of making a caster Druid. As often before, your inspiration comes from reading.<br/>\nAny serious caster should have a high number of class levels to beat SR. I'm not necessary saying \"go pure Druid\" here. You have already decided not to. <br/>\nMonk has a high AC synergy with druid as long as you go in robes or naked or in shifted forms. Monk is also a good stepping stone to qualify for SD.<br/>\nYou already mentioned SD and HIPS for role-playing shyness. HIPS is great for crowd control too, just mentioning. You can also get HIPS with Kobold commando, but that takes you way into shifter land, and you cannot cast your spells while in shifted form.<br/>\nYou started thinking about Champion of BW. CoT (or any other deity) let you take Great wisdom as bonus feats in epic levels and improves your saves. But even so, please, pretty, pretty please, ... Don't make this another Divine warrior, that would be a complete derailment of your original idea.</div></blockquote>\nBeing honest, my inspiration here comes from my mother, whose 88th birthday would be tomorrow. She was only a little person (under 5ft, or 150cm), and I began - with my burgeoning irreverence - calling her a gnome from being about 14 (plus she had great crafting skills - head of art and design for over 40 years as a teacher). She was also passionate about nature - flora and fauna - so when I say 'she wouldn't hurt a fly', she really wouldn't. She reserved her hatred for those who wantonly destroyed the environment (when she looked like a vexed baby eagle). So I was looking to make a tribute build.<br/>\n<br/>\nThere, that's the soppy bit out of the way.<br/>\n<br/>\nNow then, to the construction. If I was going for a human or half-elf, Monk would have been a no-brainer. But I'm not, because as a module player I don't want the xp hit (wouldn't even work with Hin). By the same token, when thinking of a third class, Ranger appealed, but same problem. Hence the CoT consideration. At the moment I'm contemplating either a D32/ CoT 6/ SD2 or a D36/ CoT 2/ SD2, so please don't lose sleep about the gnome of hittiness!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:23 PM - Jul 28, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Before porting a draft over to the Unfinalized Builds forum, I have (hopefully), just one more question, based on a Druid 32/ CoT 6/ SD 2 build. Would folk think that either Blind Fight or Imp Crit would be a worthwhile pre-epic investment (using the CoT 4 bonus feat), or would I be better only taking 2 levels of CoT pre-epic and taking EP as a CoT bonus in epic levels (I've already got Great Wis X and Epic Spell Focus: Something)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:22 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, I've tried this every which-way and it just doesn't work properly for me. So, for the first time ever, I'm going to dip into an xp penalty and go with a Monk - but only because it's a very specific build, so don't get used to it!<br/>\n<br/>\nNow I need to do some more working through. Mum was an England schools champion sprinter in her younger days, so I'm going to start with trying a Druid 32/ Monk 6/ SD 2 as a starting point.<br/>\n<br/>\nI'll let you know if/when I have questions/problems!<br/>\n<br/>\nCheers, All<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:27 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Defo a neat idea, tying down things with the Uncanny Dodge from SD2!<br/>\n<br/>\nYou are gonna love how that monk <em>cheeeeeeese</em> just tastes soooo good!<br/>\n<br/>\nHiPPy Dragon Monkey butt!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:19 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Love cheese!!!!!!\u00a0 \u00a0specially with a good cracker and a nice garlicky sausage....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:58 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Much as I also love cheese - blue cheese, hard cheese, soft cheese, crumbly cheese, paneer, cow's cheese, sheep's cheese, goat's cheese, buffalo cheese, *, cottage cheese, cooked cheese, raw cheese, melted cheese, cheese slices for burgers, cheese triangles, cheese with superfluous bits of fruit/herbs/spices, even some of that American nonsense that tastes of nothing but is supposedly cheese - but I've never been one for Monk cheese (careful, now, people). <br/>\n<br/>\nMonk has always been one of my top 3 classes to play (the others being CoT and DwD), so I have to pray for forgiveness whenever I take fewer than 10 levels in it, and I will never do just 1 or 2. Another of my personal unwritten rules - except I've just written it. D'oh!<br/>\n<br/>\nEDIT: * Potential apologies to Mick, but I haven't yet tried reindeer cheese. Or yak cheese, for that matter. They're on my list, though!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:31 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag, I tell the small children:<br/>\nYou cannot say you don't like it until you have tasted it at least 5 times. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:53 PM - Oct 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"29679\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29679&amp;sid=977cac27a5ea0b44d3a650990c05245f#p29679\">\u2191</a><div class=\"responsive-hide\">Oct 03, 2024</div></cite>Stag, I tell the small children:<br/>\nYou cannot say you don't like it until you have tasted it at least 5 times. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /></div></blockquote>\n<em>I</em> know what you mean, but please do be careful where else you might say that!<br/>\n<br/>\nAnd I'm assuming you're talking about the Monk stuff, not the assorted cheeses...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:32 PM - Nov 06, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>JoyCruz wrote: <a data-post-id=\"29727\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29727&amp;sid=977cac27a5ea0b44d3a650990c05245f#p29727\">\u2191</a><div class=\"responsive-hide\">Nov 06, 2024</div></cite>You are right, I agree with you.</div></blockquote>\nWell, that's nice...but I'm not sure what you're agreeing with, or indeed who. A little more info would help here, <em class=\"mention\">@JoyCruz</em>\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:55 PM - Nov 06, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><span data-s9e-mediaembed=\"youtube\" style=\"display:inline-block;width:100%;max-width:640px\"><span style=\"display:block;overflow:hidden;position:relative;padding-bottom:56.25%\"><iframe allowfullscreen=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/PgYnIwfA2GY\" style=\"background:url(https://i.ytimg.com/vi/PgYnIwfA2GY/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%\"></iframe></span></span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:38 PM - Nov 06, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"29729\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29729&amp;sid=977cac27a5ea0b44d3a650990c05245f#p29729\">\u2191</a><div class=\"responsive-hide\">Nov 06, 2024</div></cite><span data-s9e-mediaembed=\"youtube\" style=\"display:inline-block;width:100%;max-width:640px\"><span style=\"display:block;overflow:hidden;position:relative;padding-bottom:56.25%\"><iframe allowfullscreen=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/PgYnIwfA2GY\" style=\"background:url(https://i.ytimg.com/vi/PgYnIwfA2GY/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%\"></iframe></span></span></div></blockquote>\nOh now that's annoying - I'm getting an error message when I try to watch this. Harumph<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:46 AM - Nov 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:02 AM - Nov 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Embedded videos from Facebook and Ticktock won't play for me.\u00a0\u00a0\u00a0 I work around it by loading the video on another tab on the original site.\u00a0 YouTube, however, doesn't usually give a problem.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

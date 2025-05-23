@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "084",
+  "name": "Arelith Warrior Challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-warrior-challenge-t2354672.html",
+  "author": "Bloodedblade",
+  "avatar": "no_avatar.png",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Bloodedblade",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:41 AM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello once again to these Hallowed halls of knowledge.\u00a0 I recently joined Areltith and have been enjoying it.\u00a0 I want to try a warrior there but have found that having low \u00a0saves are a real pain in the arse.\u00a0 I had planned on trying a wm there after seeing a build on here for one but thought about going\u00a0a different route after reading a few things here.\u00a0 Some have said that going weapon master isn't necessarily the best way to go.\u00a0 CoT was mentioned with fighter to give a weapon master a run for the money\u00a0with its feats and improved saves etc.\u00a0I see they have offered up a little fighter love there to\u00a0giving bonuses for going fighter as well. \u00a0I've a;ways had a thing for sword and board especially the Bastard sword myself if there is room for exotic weapon.\u00a0I'm sure some\u00a0mix of rogue would help as well.\u00a0I've always had excellent luck with the help I've received here so I'm hoping that someone takes pity on build challenged fool once more.\u00a0 Thanks for any and all\u00a0for help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:16 PM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi there, Bloodedblade,<br/>\n<br/>\n I don't know whether you've had a look around on the Mid-Epic (level 30) sub-forum, but there are some builds there that may suit you. One I've just noticed that might be a good fit, although I don't think it's Arelith-specific, is Valerfor's Knight of the Throne. The link is <a class=\"postlink\" href=\"http://nwn\" rel=\"noreferrer\" target=\"_blank\">http://nwn</a><a class=\"postlink\" href=\"http://ecbguild.forumer.com\" rel=\"noreferrer\" target=\"_blank\">ecbguild.forumer.com</a>/topic/2354289/Knight-Of-The-Throne-Fighter-10-Rogue-5-CoT-15#.WLrkwTi6Mqg<br/>\n<br/>\n I hope that works, but if not it's easy enough to find on the first page of that sub-forum, or, indeed in HipRedux's ECB Filter, available via a link in the Tools sub-forum.<br/>\n<br/>\n The build is a Fighter 10 / Rogue 5 / CoT 15, thus many feats and good saves. And as a bonus, Valerfor has constructed it with a bastard sword. Have a look and see what you think!<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Bloodedblade",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:27 PM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks I didn't see that listed.\u00a0 Arelith has restrictions on lvling though it requires a pc to take 3lvls in a row when you first take another class.\u00a0 It can be a challenge to definately changes the way a build is shaped.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:02 PM - Mar 04, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you like that build concept, and if I'm right in what I'm about to say (a big if), it might not be too hard.<br/>\n<br/>\n If you take the first 3 levels as Fighter, then the next 3 as Rogue, I reckon you'd still be ok to take CoT as indicated. Admittedly, you'd lose 24 skills points (I think), but I reckon dropping 2 from UMD (leaving a nett 33, which I believe is the magic number), 8 from Search, drop all 4 from Open Lock, 5 from Disable Trap and 5 from Heal, that should do it.<br/>\n<br/>\n What it would also mean, assuming you still wanted Skill Focus in UMD, you'd have to shift Rogue 4 to level 18. But that's not a huge problem, particularly given that you'd then be taking CoT at level 12 and thus keeping Skill Focus: Discipline where initially intended. If you still wanted Toughness, you could grab it at level 15 (although, personally, I'd drop it for Iron Will). And I'm not entirely sure why Improved Power Attack is in there: maybe Valerfor can let us know?<br/>\n<br/>\n Before you embark on this as a build, I'd wait for someone better qualified than I to come along and verify or otherwise what I've suggested.<br/>\n<br/>\n Cheers <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zeraxium",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:51 PM - Mar 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Below: Valerfor's Knight of the Throne adjusted for Arelith and tweaked slightly. Will cast all hardcore scrolls w/100% success. Will spot all non-epic traps immediately (Detect Mode highly recommended). Will disarm all traps but epic. Will recover and set all deadly versions but gas. (Gas: Who needs 'em?!) Will open all locks of DC 31 and lower, DC 41 w/+10 picks. All rogue skill effectiveness based on non-combat situations, naturally. Moved epic lvl rogue back 1 level, otherwise the same build.<br/>\n Fighter 10/ CoT 15/ Rogue 5, Any non-evil Human<br/>\n<br/>\n STR: 15 (26)<br/>\n DEX: 12<br/>\n CON: 14<br/>\n WIS: 8<br/>\n INT: 14<br/>\n CHA: 14<br/>\n<br/>\n 01: Rog(1): Luck of Heroes, Expertise<br/>\n 02: Rog(2)<br/>\n 03: Rog(3): Blind Fight<br/>\n 04: Ftr(1): STR+1(16), WP Exotic<br/>\n 05: Ftr(2): WF Bastard Sword<br/>\n 06: Ftr(3): KD<br/>\n 07: Ftr(4): WS Bastard Sword<br/>\n 08: Ftr(5): STR+1 (17)<br/>\n 09: Ftr(6): IKD, PA<br/>\n 10: CoT(1)<br/>\n 11: CoT(2): Cleave<br/>\n 12: CoT(3): STR+1 (18), SkF Discipline<br/>\n 13: CoT(4): ImpExpertise<br/>\n 14: CoT(5)<br/>\n 15: CoT(6): Toughness, Called Shot<br/>\n 16: CoT(7): STR+1 (19)<br/>\n 17: Rog(4)<br/>\n 18: CoT(8): Grt Fort, IPA<br/>\n 19: CoT(9)<br/>\n 20: Ftr(7): STR+1 (20)<br/>\n 21: CoT(10): Grt STR (21), EWF Bastard Sword<br/>\n 22: Ftr(8): EWS Bastard Sword<br/>\n 23: CoT(11)<br/>\n 24: CoT(12): STR+1 (22), Grt STR (23)<br/>\n 25: CoT(13)<br/>\n 26: CoT(14): Armor Skin<br/>\n 27: CoT(15): Grt STR (24)<br/>\n 28: Rog(5): STR+1 (25)<br/>\n 29: Ftr(9)<br/>\n 30: Ftr(10): Grt STR (26), Epic Prowess<br/>\n<br/>\n HP, max: 370<br/>\n Saves F/W/R (vs spells): 29/18/26 (32/21/29)<br/>\n BAB: 24<br/>\n AB (max, naked): 36 (mundane bastard), 26 (any ranged)<br/>\n AC (naked/ mundane armor+shield): 19/30<br/>\n<br/>\n Skills: 213 - Concentration 33(35), Disable Trap 17(21), Discipline 33(44), Open Lock 10(11), Search 19(21), Set Trap 14(15), Spellcraft 13(15), Tumble 30(31), UMD 31(33)<br/>\n<br/>\n Note: You don't need more than 15 UMD to utilize everything (scroll wise.) Feel free to allocate the extra points elsewhere.<br/>\n Credit goes to HipRedux, whom helped me on this same thing. Hope it helps.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:54 PM - Mar 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Zeraxium wrote:</strong><hr/>Below: Valerfor's Knight of the Throne adjusted for Arelith and tweaked slightly. Will cast all hardcore scrolls w/100% success. Will spot all non-epic traps immediately (Detect Mode highly recommended). Will disarm all traps but epic. Will recover and set all deadly versions but gas. (Gas: Who needs 'em?!) Will open all locks of DC 31 and lower, DC 41 w/+10 picks. All rogue skill effectiveness based on non-combat situations, naturally. Moved epic lvl rogue back 1 level, otherwise the same build.<br/>\n Fighter 10/ CoT 15/ Rogue 5, Any non-evil Human<br/>\n<br/>\n Note: You don't need more than 15 UMD to utilize everything (scroll wise.) Feel free to allocate the extra points elsewhere.<br/>\n Credit goes to HipRedux, whom helped me on this same thing. Hope it helps.<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Brilliant stuff, Zeraxium! I didn't have time to fully work things out, so thanks hugely <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /> Hope it works for you, Bloodedblade.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Bloodedblade",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:35 PM - Mar 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks so much for the help. You guys rock.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

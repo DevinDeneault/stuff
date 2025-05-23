@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "002",
+  "name": "Barbarian Request",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/barbarian-request-t2354823.html",
+  "author": "Canaduck",
+  "avatar": "10235237_1517392314.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Canaduck",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:05 PM - Feb 19, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey there!<br/>\n<br/>\nLooking to return to NWN get some advice on a balanced PVM build with a focus on Barbarian class. There is some chance of PVP, but likely not the focus of gameplay. Here is some relevant info about the game environment in regards to this character:<br/>\n<br/>\nLeveling is uncapped but slow. Viable endgame is between level 25-30 (This alone can take several months), so play-ability throughout leveling is important<br/>\nBarbarian rage does not count towards +12 attribute cap, provides flat AB and damage increase instead. It also adds physical damage immunity<br/>\nDev Crit is disabled<br/>\n<br/>\nMagic items are capped at +3<br/>\nA lot of save-free spells have been nerfed: Bigby's, IGMS, ect.. to be not as effective. (IGMS has damage lowered, bigby's is easy to resist with str)<br/>\n<br/>\nMy ideal build would be a barbarian that has strong damage and decent damage reduction as well as high saving throws. Looking to tackle game content in party play and some soloing.<br/>\n<br/>\nNo race or weapon preference.<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:26 PM - Feb 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Have you tried a buildsearch?<br/>\nLots of good Barb builds. Otherwise, going full strength Barb and mixing in some Rogue and possibly a third class like fighter is always good and easy fun. Possibly going CoT for better saves at the cost of damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

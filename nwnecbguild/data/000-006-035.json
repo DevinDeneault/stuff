@@ -1,0 +1,128 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "035",
+  "name": "Spear Disciple (Monk 9 / Assassin 9 / Weapon Master 22)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spear-disciple-monk-9-assassin-9-weapon-master-22-t2354354.html",
+  "author": "Demos",
+  "avatar": "no_avatar.png",
+  "replies": 18,
+  "posts": [
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:26 PM - Dec 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Here is a class combination that I didn't find in the old build search engine.\u00a0 And before anyone asks, NO IT DOESN'T USE KAMAS.\u00a0 The purpose of this build is have a good balance of offense and defense while using a spear.\u00a0 While there are better weapons out there, I've found some pretty nice spears where I play and wanted to take advantage of them.\u00a0 This build combines Monk and Assassin feats, and even with moderate gear, gets very respectable AC and AB numbers.\u00a0 Note that this build wears robes only.<br/>\n<br/>\n Here is what you get:<br/>\n<br/>\n<strong>Offensive</strong><br/>\n High base AB of 47<br/>\n Full array of combat feats (blind fight, improved knockdown, etc)<br/>\n x4 crits<br/>\n high base damage (1-8 + 16)<br/>\n 5d6 Death attack (treat as sneaks since the Death Attack DC will be very low)<br/>\n<br/>\n<strong>Defensive</strong><br/>\n Monk speed<br/>\n Improved Evasion<br/>\n Improved Expertise<br/>\n Improved Invisibility<br/>\n Uncanny Dodge<br/>\n Ghostly Visage<br/>\n<br/>\n With +4 equipment (robes, ring, natural amulet, DEX+4 and WIS+4), AC is 45.\u00a0 Pop on Improved Expertise and you are up to 55.\u00a0 If you have Haste on, you're at 59 AC with Improved Expertise on and 50% concealment from Improved Invisibility.<br/>\n<br/>\n With a +4 spear and STR+4 equipment, your AB is at 53.\u00a0 You could easily walk around with Improved Expertise on all the time as your AB would still be 43.<br/>\n<br/>\n The only downside is HP is a bit low for a melee toon at 366 without gear.\u00a0 He is not your primary tank, but with the high AC and concealment, he could hold the line if needed while the main tank gets treatment.<br/>\n<br/>\n Without further ado, I present the Spear Disciple:<br/>\n<br/>\n<span style=\"font-size:120%;line-height:normal\"><strong>Monk(9), Assassin(9), Weapon Master(22), Human</strong></span><br/>\n Lawful Evil only<br/>\n Playable 1-40 PvM (PvP untested)<br/>\n<br/>\n STR: 16 (32)<br/>\n DEX: 14<br/>\n CON: 10<br/>\n WIS: 14<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n<br/>\n<br/>\n Human: (Quick to Master)<br/>\n 01: Monk(1): Dodge, Expertise, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n 02: Monk(2): {Deflect Arrows}<br/>\n 03: Monk(3): Mobility<br/>\n 04: Monk(4): STR+1, (STR=17)<br/>\n 05: Monk(5)<br/>\n 06: Monk(6): Spring Attack, {Knockdown, Improved Knockdown}<br/>\n 07: Assassin(1)<br/>\n 08: Assassin(2): STR+1, {Uncanny Dodge I}, (STR=18)<br/>\n 09: Assassin(3): Weapon Focus: Spear<br/>\n 10: Assassin(4)<br/>\n 11: Monk(7)<br/>\n 12: Monk(8): STR+1, Whirlwind Attack, (STR=19)<br/>\n 13: Weapon Master(1): Weapon of Choice: Spear<br/>\n 14: Weapon Master(2)<br/>\n 15: Weapon Master(3): Blind Fight<br/>\n 16: Weapon Master(4): STR+1, (STR=20)<br/>\n 17: Weapon Master(5)<br/>\n 18: Weapon Master(6): Improved Critical: Spear<br/>\n 19: Weapon Master(7)<br/>\n 20: Weapon Master(8): STR+1, (STR=21)<br/>\n 21: Assassin(5): Improved Expertise<br/>\n 22: Assassin(6)<br/>\n 23: Weapon Master(9)<br/>\n 24: Weapon Master(10): STR+1, Great Strength I, (STR=23)<br/>\n 25: Weapon Master(11)<br/>\n 26: Weapon Master(12)<br/>\n 27: Assassin(7): Great Strength II, (STR=24)<br/>\n 28: Weapon Master(13): STR+1, Epic Weapon Focus: Spear, (STR=25)<br/>\n 29: Weapon Master(14)<br/>\n 30: Weapon Master(15): Great Strength III, (STR=26)<br/>\n 31: Weapon Master(16): Armor Skin<br/>\n 32: Assassin(8): STR+1, (STR=27)<br/>\n 33: Weapon Master(17): Great Strength IV, (STR=28)<br/>\n 34: Weapon Master(18)<br/>\n 35: Weapon Master(19): Epic Prowess<br/>\n 36: Weapon Master(20): STR+1, Great Strength V, (STR=30)<br/>\n 37: Assassin(9)<br/>\n 38: Weapon Master(21)<br/>\n 39: Weapon Master(22): Great Strength VI, Epic Toughness I, (STR=31)<br/>\n 40: Monk(9): STR+1, {Improved Evasion}, (STR=32)<br/>\n<br/>\n Hitpoints: 366<br/>\n Skillpoints: 257<br/>\n Saving Throws (Fortitude/Will/Reflex): 19/21/28<br/>\n Saving Throw bonuses: Mind Effects: +2, Traps: +1, Poison: +4<br/>\n BAB: 27<br/>\n AB (max, naked): 47 (melee), 30 (ranged)<br/>\n AC (naked/mundane armor/shield only): 25/25<br/>\n Spell Casting:\u00a0<br/>\n Alignment Changes: 0<br/>\n Discipline 43(54), Heal 26(28), Hide 43(45), Intimidate 4(3), Move Silently 43(45), Spot 42(44), Tumble 40(42), UMD 16(15)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:33 PM - Dec 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heya Demos, back with an interesting build i see.<br/>\n<br/>\n It kind of looks like my \"shadow warrior\" build but you use monk/assassin instead of shadowdancer to achieve all those nice passive effects like \"improved evasion\" in your build. I like how it is not a kama build and i like it more because he is strength-based. At high levels when perma-haste might be available he will also get a nice speed bonus from monk as well, since haste effects are multiplied in their case. Overall a nice and enjoyable build due to wm criticals and monk speed both! If i was about to make a suggestion, that would only be for your fortitude save, that is kind of weak for a warrior, so i would replace improved expertise with epic fortitude in a heartbeat. Regular expetise will suffice with this build since he has full tumble and both wisdom and dexterity bonuses to his ac.<br/>\n<br/>\n Something else you could improve, although i am fairly sure you had your reason for this (perhaps the PW that you play in) is your skills. I would take all those points from heal and put it into UMD so that i could use any item or scroll. That's all and again kudos for an interesting build like this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:53 PM - Dec 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Valerfor.\u00a0 Swapping Improved Expertise for Epic Fortitude is a good suggestion.\u00a0 Where I play, you won't find Dev Crit on most monsters and there are plenty of save boosters so my Fort save hasn't been an issue but your suggestion is certainly a good tweak for other places.\u00a0 I think skills are always adjustable...again where I play, there are only a few magical items that UMD is applicable for (no high level scrolls are available for example) so I only took a modest number of ranks in UMD.<br/>\n<br/>\n Some people will say maxing both Spot and Listen are overkill so there is another area to customize.\u00a0 If True Seeing is readily available (not where I play except from other players), I would swap those skills for others, like Set/Disable Traps and Open Locks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:04 PM - Dec 20, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the way you use assassin in this strength build. You get a virtually indispellable Improved invisibility for 50% concealment, bonus sneak damage and several skilldumps between Monk 8 and Monk 9<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:35 AM - Mar 08, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't normally play evil toons but I've played this guy and he's fun, versatile and deadly all the way up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vecho",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:29 AM - Jun 14, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>I like the way you use assassin in this strength build. You get a virtually indispellable Improved invisibility for 50% concealment, bonus sneak damage and several skilldumps between Monk 8 and Monk 9</div></blockquote>\n<div align=\"left\">I don't get it. Caster level of Improved Invisibility should be 9, am i right?</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "7:47 AM - Jun 14, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Maybe <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Dispel\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>this</strong></span></a> might help.\u00a0 ImpInvis cannot be breached and its concealment dispelling is linked to other spell effects which may also be part of the target's temporary skin.<br/>\n<br/>\n But you should be confused by a quirk in the game like this.\u00a0 The mechanics of dispelling ImpInvis's concealment has little reliance on the caster level. It's the way that the effect is linked to others that determines the probability of dispel.\u00a0 That means a scroll of ImpInvis (7) will amount to just about the same results (...as an asn 9 feat version) and can be used as many times per day with UMD as the number of scrolls in inventory.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vecho",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:55 AM - Jun 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, thanks for the reply.<br/>\n But your answer do bring me more confusion.<br/>\n Now, i understand that the concealment brought by the Improved Invisibility is undispellable, which should be a bug of NWN, as the wikia state below.<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Improved_invisibility\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Improved_invisibility</a><br/>\n<br/>\n<br/>\n But the link you provided give me more confusion.<br/>\n \"For this calculation the effective level can be one of five things, checked in the following order.\"<br/>\n By \"effective level \", i think it mean the target's \"creator's effective level\", as in this equation.<br/>\n \"1d20 + dispel's caster level vs. 12 + creator's effective level.\"<br/>\n But as i follow the article:<br/>\n \"Zero, if the effect being dispelled is one of the following types of effects while attempting to dispel all effects.\"<br/>\n \".....<br/>\n concealment<br/>\n see invisibility<br/>\n true seeing<br/>\n .....\"<br/>\n From the above list, my conduction is that when casting a dispel spell on a creature with true seeing, the equation will be:<br/>\n \"1d20 + dispel's caster level &gt;= 12 + 0\"<br/>\n So, the game make it easier to dispel the above list effect? I don't understand the reason behind this, especially when concealment effect is in the list, which should be supernatural effect and not dispellable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:00 PM - Jun 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Vecho wrote:</strong><hr/>So, the game make it easier to dispel the above list effect? I don't understand the reason behind this, especially when concealment effect is in the list, which should be supernatural effect and not dispellable.<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">It's both complicated and unpredictable which is why I've done a certain amount of testing myself.\u00a0 After testing several hundred permutations of combined spell effects applied I was able to glean NO direct consequence between caster level and dispelling concealment.<br/>\n<br/>\n I am not sure where you've gotten the idea that concealment is anything but a magical effect applied by the ImpInvis impact spell script.\u00a0 It is the linkage to other effects that make its dispellability difficult to assess and predict.\u00a0 If it were either supernatural or extraordinary, EffectConcealment(50) would have been declared one of those effect subtypes within the script and it has not... not within vanilla resources anyway.<br/>\n - - - - - - - - - - - - - - - - - - - -<br/>\n But really, this discussion should be carried on probably as a general topic since the mechanics of applying and removing the concealment effect is not a build consideration posed by the author, just a member's comment.\u00a0 If you would like to extend the discussion further (it's interesting but misplaced), PM me and I'll try to move the effects discussion into another topic just in case this inflates beyond what is reasonable to expect within the OP's scope.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vecho",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:47 AM - Jun 17, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks.<br/>\n I think i understand now that True seeing couldn't see through the concealment effect of Improved Invisibility, and it is hard to predict the probability of dispelling a concealment effect with a given caster level.<br/>\n It will be sufficient for now. I shouldn't dally too much time in researching the mechanic of the game for now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "2:28 AM - Jun 22, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Playing this now with a friend on WoG.<br/>\n<br/>\nNo spear proficiency at first, so I'm rolling fist or kama as needed until I take the first assassin level, yeah?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:24 PM - Jun 22, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would say until the 9th level where he gets his weapon focus in spears, TychoVelius.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:39 AM - Jun 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm glad someone is taking this one for a spin!\u00a0 I had great fun with mine.\u00a0 On WoG, I definitely suggest you go with Valerfor's suggestion of pumping UMD (in place of Heal probably).\u00a0 Your pick of poison if you want Epic Fortitude or Improved Expertise as there are Dev Critters around...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:27 AM - May 21, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Went back to him earlier this month and just finished \"Sands of Fate 1\" with him getting to level 32.<br/>\nStill fun to play.\u00a0 I am looking at a couple of tweaks in future plays:<br/>\n<br/>\n1 - Dev Crit.\u00a0 He's generating a lot of crits as is, with 160+ damage, but for high level monsters, insta-kills are preferable.<br/>\n2 - Drop STR from 16 to 14 and bump CON from 10-14.\u00a0 80 HP &amp; +2 Fort save<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:13 PM - May 21, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"26686\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26686&amp;sid=57e2c26ca49fd45d5275ea82daa79eb8#p26686\">\u2191</a><div class=\"responsive-hide\">May 21, 2022</div></cite>Went back to him earlier this month and just finished \"Sands of Fate 1\" with him getting to level 32.<br/>\nStill fun to play.\u00a0 I am looking at a couple of tweaks in future plays:<br/>\n<br/>\n1 - Dev Crit.\u00a0 He's generating a lot of crits as is, with 160+ damage, but for high level monsters, insta-kills are preferable.<br/>\n2 - Drop STR from 16 to 14 and bump CON from 10-14.\u00a0 80 HP &amp; +2 Fort save</div></blockquote>\nWhat are you thinking of dropping to accommodate the 4 feats you'll need for Dev Crit (given that Monk gets free Cleave, you'll still need Power Attack, Great Cleave, Overwhelming and Devastating Crits)? Improved Expertise and Epic Toughness seem simple enough choices, but that still leaves 2.<br/>\n<br/>\nIf you drop 2 Great Strengths, that leaves 30 STR - or 28 STR if you take your second tweak, which is -1 (or -2) AB and means your Dev Crit DC will drop to 40 (still respectable) or 39 (getting a bit dodgy for my liking).<br/>\n<br/>\nAlternatively, you could drop Epic Prowess (-1AB) and 1 Great Strength, still leaving you with a STR of 30 if you start with a STR of 15 and a CON of 12.<br/>\n<br/>\nUnless you had something else in mind?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "2hpnotiq",
+      "avatar": "10759411_1608366836.jpg",
+      "timestamp": "4:14 AM - Sep 15, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm anyway to shuffle stuff around and build this without Quick to Master and come out to close same build?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:53 AM - Sep 15, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is, but you will lose 1AB due to having to take 3 more levels of Monk or Assassin before you can take WM, which would also impact on later skill dumps (in that they wouldn't be so regular). The feat I'd lose would be Improved Expertise.of the 43 lost skill points, you could lose the 26 points in Heal, but the other 17 would be your call. You can, in most cases, keep the stats the same with other races, other than Half-Orc, where you'd also lose 2 points in CHA (so you'd have to put 1 more point in UMD to keep the same result). If you want to use a spear, obviously don't chose Halfling or Gnome, who can't (it being a large weapon).<br/>\n<br/>\nHope this helps<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:37 AM - Sep 15, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>2hpnotiq wrote: <a data-post-id=\"27150\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27150&amp;sid=57e2c26ca49fd45d5275ea82daa79eb8#p27150\">\u2191</a><div class=\"responsive-hide\">Sep 15, 2022</div></cite> build this without Quick to Master</div></blockquote>\nStag is right about this. If you don't build with Human, you will be one feat short from the start and qualify for WM 3 levels later. <br/>\nStag also pointed out that you have less skill points to play with, equal to one full skill.<br/>\nHalf-orc will be penalized further with a hit to intelligence, losing another 43 skill points.<br/>\nHalf-orc could still be a candidate because of the high strength, but will be very short on skills.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:38 AM - Dec 22, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"26687\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26687&amp;sid=57e2c26ca49fd45d5275ea82daa79eb8#p26687\">\u2191</a><div class=\"responsive-hide\">May 21, 2022</div></cite><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"26686\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26686&amp;sid=57e2c26ca49fd45d5275ea82daa79eb8#p26686\">\u2191</a><div class=\"responsive-hide\">May 21, 2022</div></cite>Went back to him earlier this month and just finished \"Sands of Fate 1\" with him getting to level 32.<br/>\nStill fun to play.\u00a0 I am looking at a couple of tweaks in future plays:<br/>\n<br/>\n1 - Dev Crit.\u00a0 He's generating a lot of crits as is, with 160+ damage, but for high level monsters, insta-kills are preferable.<br/>\n2 - Drop STR from 16 to 14 and bump CON from 10-14.\u00a0 80 HP &amp; +2 Fort save</div></blockquote>\nWhat are you thinking of dropping to accommodate the 4 feats you'll need for Dev Crit (given that Monk gets free Cleave, you'll still need Power Attack, Great Cleave, Overwhelming and Devastating Crits)? Improved Expertise and Epic Toughness seem simple enough choices, but that still leaves 2.<br/>\n<br/>\nIf you drop 2 Great Strengths, that leaves 30 STR - or 28 STR if you take your second tweak, which is -1 (or -2) AB and means your Dev Crit DC will drop to 40 (still respectable) or 39 (getting a bit dodgy for my liking).<br/>\n<br/>\nAlternatively, you could drop Epic Prowess (-1AB) and 1 Great Strength, still leaving you with a STR of 30 if you start with a STR of 15 and a CON of 12.<br/>\n<br/>\nUnless you had something else in mind?<br/>\n<br/>\nCheers</div></blockquote>\nComing back to this guy again.\u00a0 Dev Crit is not as important as I thought.\u00a0 I reordered some epic levels to move Assassin up - I dislike evil toons so he finishes as neutral.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

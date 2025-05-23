@@ -1,0 +1,146 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "167",
+  "name": "Drow Fencer - Fighter 14 / Rogue 19/ Weapon Master 7",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/drow-fencer-fighter-14-rogue-19-weapon-master-7-t2329192.html",
+  "author": "Kane",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 21,
+  "posts": [
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:25 PM - Apr 17, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail, mighty ECBers!<br/>\n<br/>\n I have had very little time to look into the community. RL has gone overboard with its demands and I have been having a hard time coping with it. Neverwinter Nights is and will always be a passion for me, but at the end of the day it is still entertainment, so when things get tight, that's where the cutbacks start. But today I do have a bit of time, and I will take advantage of it to post a really cool build I devised for Valerfor when he and I were discussing builds a while back. It's a drow fencer, inspired by Drizzt Do'Urden's nemesis Artemis Entreri, although being a defensive build, it doesn't dual-wield in favor of a shield to further increase its already high AC.<br/>\n<br/>\n Low HP can be an issue early, but you can counter that by sniping too or just outlasting your foes with Expertise. Mages will be a problem, so you should have spell mantle scrolls available to deal with them. He has VERY HIGH AB for a build with 19 levels of Rogue, Epic Dodge and enough UMD to use Improved Invisibility wands or scrolls at will from very early on. Damage-wise, he has EWS and crits A LOT, has good Sneak Attack damage, but against crit immune monsters with DR he will have to find alternative ways to do damage (Darkfire scrolls, for instance). Crippling Strike comes late as the icing to the cake. Without further delay - The Drow Fencer:<br/>\n<br/>\n Rogue(19), Weapon Master(7), Fighter(14), Elf (Drow)<br/>\n<br/>\n Alignment: Any<br/>\n<br/>\n Playability: 1-40 PvM<br/>\n<br/>\n STR: 12<br/>\n DEX: 20 (36)<br/>\n CON: 10<br/>\n WIS: 8<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n Elf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n 01: Rogue(1): Expertise<br/>\n 02: Fighter(1): Weapon Finesse<br/>\n 03: Fighter(2): Dodge, Weapon Focus: Rapier<br/>\n 04: Fighter(3): DEX+1, (DEX=21)<br/>\n 05: Fighter(4): Weapon Specialization: Rapier<br/>\n 06: Fighter(5): Knockdown<br/>\n 07: Fighter(6): Mobility<br/>\n 08: Rogue(2): DEX+1, {Evasion}, (DEX=22)<br/>\n 09: Fighter(7): Spring Attack<br/>\n 10: Fighter(8): Whirlwind Attack<br/>\n 11: Fighter(9)<br/>\n 12: Weapon Master(1): DEX+1, Improved Knockdown, Weapon of Choice: Rapier, (DEX=23)<br/>\n 13: Rogue(3): {Uncanny Dodge I}<br/>\n 14: Weapon Master(2)<br/>\n 15: Weapon Master(3): Improved Critical: Rapier<br/>\n 16: Weapon Master(4): DEX+1, (DEX=24)<br/>\n 17: Weapon Master(5)<br/>\n 18: Rogue(4): Blind Fight<br/>\n 19: Weapon Master(6)<br/>\n 20: Weapon Master(7): DEX+1, (DEX=25)<br/>\n 21: Rogue(5): Great Dexterity I, (DEX=26)<br/>\n 22: Rogue(6)<br/>\n 23: Rogue(7)<br/>\n 24: Rogue(8): DEX+1, Great Dexterity II, (DEX=28)<br/>\n 25: Rogue(9)<br/>\n 26: Rogue(10): Improved Evasion<br/>\n 27: Rogue(11): Great Dexterity III, (DEX=29)<br/>\n 28: Rogue(12): DEX+1, (DEX=30)<br/>\n 29: Rogue(13): Defensive Roll<br/>\n 30: Rogue(14): Great Dexterity IV, (DEX=31)<br/>\n 31: Rogue(15)<br/>\n 32: Rogue(16): DEX+1, Epic Dodge, (DEX=32)<br/>\n 33: Fighter(10): Great Dexterity V, Epic Weapon Focus: Rapier, (DEX=33)<br/>\n 34: Fighter(11)<br/>\n 35: Fighter(12): Armor Skin<br/>\n 36: Fighter(13): DEX+1, Great Dexterity VI, (DEX=35)<br/>\n 37: Fighter(14): Epic Weapon Specialization: Rapier<br/>\n 38: Rogue(17)<br/>\n 39: Rogue(18): Epic Prowess<br/>\n 40: Rogue(19): DEX+1, Crippling Strike, (DEX=36)<br/>\n<br/>\n Hitpoints: 324<br/>\n Skillpoints: 304<br/>\n Saving Throws (Fortitude/Will/Reflex): 19/15/35<br/>\n Saving Throw bonuses: Mind Effects: +2, Traps: +4<br/>\n BAB: 29<br/>\n AB (max, naked): 47 (melee), 43 (ranged)<br/>\n AC (naked/mundane armor/shield only): 33/36<br/>\n Spell Casting:<br/>\n Alignment Changes: 0<br/>\n<br/>\n Disable Trap 42(46), Hide 43(56), Intimidate 4(3), Listen 43(44), Move Silently 43(56), Open Lock 3(16), Search 19(23), Set Trap 31(46), Tumble 40(53), UMD 36(35)<br/>\n<br/>\n 01: Disable Trap(4), Hide(4), Intimidate(4), Move Silently(4), Open Lock(1), Search(4), Tumble(4), UMD(4), Save(11),<br/>\n 02: Save(15),<br/>\n 03: Save(19),<br/>\n 04: Save(23),<br/>\n 05: Save(27),<br/>\n 06: Save(31),<br/>\n 07: Save(35),<br/>\n 08: Disable Trap(7), Hide(7), Move Silently(7), Search(7), Tumble(6), UMD(7), Save(4),<br/>\n 09: Save(8),<br/>\n 10: Save(12),<br/>\n 11: Save(16),<br/>\n 12: Save(20),<br/>\n 13: Disable Trap(5), Hide(5), Move Silently(5), Search(5), Tumble(5), UMD(5),<br/>\n 14: Save(4),<br/>\n 15: Save(8),<br/>\n 16: Save(12),<br/>\n 17: Save(16),<br/>\n 18: Disable Trap(5), Hide(5), Move Silently(5), Search(1), Tumble(5), UMD(5),<br/>\n 19: Save(4),<br/>\n 20: Save(8),<br/>\n 21: Disable Trap(3), Hide(3), Move Silently(3), Search(2), Set Trap(1), Tumble(3), UMD(3),<br/>\n 22: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(4), Tumble(2), UMD(1),<br/>\n 23: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1),<br/>\n 24: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1),<br/>\n 25: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1),<br/>\n 26: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1),<br/>\n 27: Disable Trap(1), Hide(1), Move Silently(1), Set Trap(5), Tumble(1), UMD(1),<br/>\n 28: Disable Trap(1), Hide(1), Listen(4), Move Silently(1), Set Trap(1), Tumble(1), UMD(1),<br/>\n 29: Disable Trap(1), Hide(1), Listen(5), Move Silently(1), Tumble(1), UMD(1),<br/>\n 30: Disable Trap(1), Hide(1), Listen(5), Move Silently(1), Tumble(1), UMD(1),<br/>\n 31: Disable Trap(1), Hide(1), Listen(5), Move Silently(1), Tumble(1), UMD(1),<br/>\n 32: Disable Trap(1), Hide(1), Listen(5), Move Silently(1), Tumble(1), UMD(1),<br/>\n 33: Save(4),<br/>\n 34: Save(8),<br/>\n 35: Save(12),<br/>\n 36: Save(16),<br/>\n 37: Save(20),<br/>\n 38: Disable Trap(6), Hide(6), Listen(6), Move Silently(6), Tumble(5), UMD(1),<br/>\n 39: Disable Trap(1), Hide(1), Listen(7), Move Silently(1),<br/>\n 40: Hide(1), Listen(6), Move Silently(1), Open Lock(2),<br/>\n<br/>\n Similar Builds:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build210371.html\" rel=\"noreferrer\" target=\"_blank\">Elven Duelist by Kalisman77</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build117490.html\" rel=\"noreferrer\" target=\"_blank\">Unnamed build by Lockindal</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build212114.html\" rel=\"noreferrer\" target=\"_blank\">Quirky Kurki by Sirfin</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build215105.html\" rel=\"noreferrer\" target=\"_blank\">Elven Bladedancer by Jennalee</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build148351.html\" rel=\"noreferrer\" target=\"_blank\">Shadow Knight by Lockindal</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build210313.html\" rel=\"noreferrer\" target=\"_blank\">Epic Stealthblade by Sirfin</a><br/>\n<br/>\n Hope you enjoy!<br/>\n<br/>\n Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dante2377",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:07 PM - Apr 18, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">FYI, the original halfling version you posted in the build forums awhile back here\u00a0<a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/reply/20056301/PW-mostly-solo-build-advice#reply-20056301\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.forumer.com/reply/20 ... y-20056301</a>\u00a0s one of my go-to builds on servers both high and medium magic.<br/>\n<br/>\n I actually prefer the SC5 version since the worlds I play on (Sword Coast Adventures and Kharlindale) have decent amount of Mords/Anti Magic Ray at high levels. IMO definitely worth the 1 AC/AB and with crit range of 13-20 on keened shortsword, I never had a problem with damage.<br/>\n<br/>\n In terms of leveling, I noticed a slight increase in difficulty in the mid-late 20s as monsters improved, but before you get Epic Dodge and your epic Fighter Feats (EWF, EP, etc), but nothing major. And moving the Ftr levels up in epic just pushes back ED, which I wouldn't advise.<br/>\n<br/>\n But regardless of SC5 or not, it's a versatile build (not many WM builds say that for the feat investment) with good defense (high AC, Improved Evasion with great reflex save, Epic Dodge, framework in the build for SC5 if you want it) and good offense (highish AB, WM crits, traps, 10d6 sneaks, offensive scrolls if PW has them); Just needs shoring up the Will and Fort saves, but you have UMD for full potion/scroll access.<br/>\n<br/>\n One of my favorites!<br/>\n<br/>\n Dante<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "9:35 PM - Apr 22, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Dante!<br/>\n<br/>\nI like this build very much as well. Solid defense, very good offense except against Sneak-immune mobs, but even then it has some tricks up its sleeve. Ever since I posted that build, I have shifted to the belief that this one is actually better, even for worlds with loads of dispel. All one needs to have is enough scrolls / wands to rebuff at will. On WoG there is also a LOT of dispel around, but there you can get enough gold to resupply on II scrolls and you can buy wands from other players, so you don't need SCV. So, unless you can't find Improved Invisibility in abundance for some reason, I'd stick with this version. The only downside is the XP penalty, which I forgot to mention in the OP. Going Halfling negates that, but then you can't go Rapier, as it's a medium weapon, so 2-handed for a Halfling. Short sword is the choice then.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:36 PM - Mar 20, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><hr/>Disable Trap 42(46), Hide 43(56), Intimidate 4(3), Listen 43(44), Move Silently 43(56), Open Lock 3(16), <span style=\"color:#FF0000\"><strong>Search 19(23)</strong></span>, Set Trap 31(46), Tumble 40(53), UMD 36(35)<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">What's this new convention of veteran contributors opting to omit the skill allotment schedule?\u00a0 It'd take all of 5 secs to cut'n'paste from the CBC to the ECB editor but I do understand how precious those 5 secs are.<br/>\n<br/>\n BTW, this build has a -20% XP penalty for all but 6 levels, for those interested in such information.<br/>\n<br/>\n Incidentally, the current Search rating will only locate epic traps with a roll of 20 (there is <strong>no</strong> Take 20 with Search FYI).\u00a0 Most likely, you'll trigger every epic trap before you get a fortunate dice roll unless you take a step (elf's auto-active mode a blessing), wait a full minute, take another step, wait another minute, etc. Yikes! I feel older just thinking about the prospect.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:36 PM - Mar 20, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Me again - bet you're chuffed to bits! A question about a Drow build, if I may? In a standard NwN environment, is there a difference between Elf attributes and Drow ones, or just picking a different colour scheme? I know there are differences in PWs, but in vanilla?<br/>\n<br/>\n<strong><em>EDIT</em></strong>: - Perhaps \"vanilla\" was a poor choice of word for a Drow...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:11 AM - Mar 21, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In this instance, it is strictly of role-play value... though TBH... Max has NEVER role-played and am betting all the change in my pocket he never will.\u00a0<br/>\n<br/>\n On some servers, they have created custom races (like drow) similar to AD&amp;D 3.5\u00a0 with custom biases. This trend seems to be gaining more and more popularity among the newest PWs where long-time players have become bored with the v3.0 ruleset.<br/>\n<br/>\n If you are interested in the custom races, I believe Kamiryn created an NWN2 CBC (Excel uploaded to the new Vault) which contains all the 3.5 racial biases for her calculations.\u00a0 You may find it amusing to see the differences itemized even though you may have no plans to build toons for NWN2.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:18 PM - Mar 22, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail, folks!<br/>\n<br/>\n That can be solved by equipping a very common Watchman's Helm, and you should detect most traps being careful enough. It's one thing to build for a \"generic environment\", but that's a pretty generic item.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:00 AM - Mar 23, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><hr/>Hail, folks!<br/>\n<br/>\n That can be solved by equipping a very common Watchman's Helm, and you should detect most traps being careful enough. It's one thing to build for a \"generic environment\", but that's a pretty generic item.</div></blockquote>\n<div align=\"left\">Watchman is +8.\u00a0 A 45% chance to spot an epic every 3 secs is more reasonable than 5% for sure, as long as it is not a speed monk.\u00a0 Problem is you'll be using it mainly for pre-epic levels.\u00a0 After that point immunity to mind-effecting spells would be safer via Golden Circlet or Cowl of Warding, both also default helms.\u00a0\u00a0 For a non-casting build like this, quickslotting helm swaps work okay.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dante2377",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:21 PM - Apr 24, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">EDIT - updated the link above in my original reply.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:43 AM - Apr 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Probably better to furnish the current link to that build to tie into both the build and the discussion thereby eliminating the redundant information re-posted here, Dante.\u00a0 You could also edit your original comment to update the link which is even more efficient.\u00a0\u00a0 Either way works.<br/>\n<br/>\n It should be changed to: <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/reply/20056301/PW-mostly-solo-build-advice#reply-20056301\" rel=\"noreferrer\" target=\"_blank\">Max's Halfling SC ED Version (in \"PW mostly solo build advice\")</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mentha",
+      "avatar": "10758961_1536247488.jpg",
+      "timestamp": "5:27 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey fellas this is my first post<br/>\n<br/>\nI've been playing nwn badly since i was 16 or so. I'm trying to do better and this build sounds like what I want! (As for how badly, I would get weapon finess with Red Dragon Disciple. Because I thought it would stack dex with str bonuses.)<br/>\n<br/>\nI'm gonna go human though. I just like them more. What would you recommend for the extra feat and skill?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:50 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mentha, and welcome!<br/>\n<br/>\nBefore better builders than I come along and give proper advice, can I just confirm that you are aware that your starting (and therefore, ending) stats will have to be different, yes? Elves get Dex bonuses, Con penalties (iirc), while humans do not - so you won't be able to start with a Dex of 20, 18 would be your max.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mentha",
+      "avatar": "10758961_1536247488.jpg",
+      "timestamp": "5:54 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yep! I have to start with 18 dex instead of 20. And I have two extra points in attributes as well if i stick with the same amount of constitution.<br/>\nConsidering I only get a bonus to my will save and spot and search skills if I put them in wisdom, I'm thinking I might put those into constitution anyway.<br/>\n<br/>\nI'm planning to go through SOU, HOTU, and Sands of Fate, if that helps.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:11 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Indeed, Con is an option, but so is Str for more damage (handy against piercing resistances), and you could take Toughness as your extra feat. However, and without wishing to dis Max's build in any way, other than Reflex, the saves are really sucky - and there's nothing worse or frustrating for a melee-merchant than failing a Will save (in my book, anyway): it just makes you useless. That said, I'm not sure how much use Luck of Heroes or Iron Will would help here. But given where you'll be playing and the gear available there, you should be ok without them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mentha",
+      "avatar": "10758961_1536247488.jpg",
+      "timestamp": "6:16 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">well, i'm also planning to be evil, so paladin or COT isn't an option either, sadly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:31 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mentha wrote:</cite>\nwell, i'm also planning to be evil, so paladin or COT isn't an option either, sadly.\n</div></blockquote>\n\nWho mentioned Pally or CoT? I'm confused...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mentha",
+      "avatar": "10758961_1536247488.jpg",
+      "timestamp": "6:35 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">no, paladin and CoT have extra bonuses to saves from leveling in those classes, but\u00a0 i can't substitute fighter for either of those. even if i could, paladin has no extra feats and requires good charisma for those bonuses too. EDIT: I could go blackguard but that wouldn't help get feats for weapon master either. And still requires charisma.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:25 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry, I wasn't suggesting another class at all - merely what extra feat you might take as a human version. One (Toughness) could boost HPs, the other 2 (LoH and Iron Will) would boost saves. That's all - apologies if I misled you. For me, I'd go with Toughness and put the extra 2 starting stat points in Strength. Others will know better.<br/>\n<br/>\nThat said, I'd stick with elf and Max's original build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mentha",
+      "avatar": "10758961_1536247488.jpg",
+      "timestamp": "9:20 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the advice! I'll just stick em in strength for now then.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:58 PM - Sep 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome to the guild Mentha,<br/>\n<br/>\nI would do as Stagmeister proposed and put the 2 points into strength, take \"toughness\"\u00a0 as my bonus human feat &amp; cross-class \"spellcraft\" for a welcoming addition to my saving throws, thus making a well-rounded character.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:44 PM - Sep 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mentha, you've probably figured this out already, but going Human will make you shuffle your epic feat progression a bit.\u00a0 You max out at 34 DEX and will need to take Epic Dodge later.\u00a0 The upside is no XP penalty.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:29 AM - Sep 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Demos wrote:</cite>Hi Mentha, you've probably figured this out already, but going Human will make you shuffle your epic feat progression a bit.\u00a0 You max out at 34 DEX and will need to take Epic Dodge later.\u00a0 The upside is no XP penalty.</div></blockquote>Pretty sure he can build it as is. He doesn't take ED until 32.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

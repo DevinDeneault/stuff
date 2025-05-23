@@ -1,0 +1,56 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "034",
+  "name": "Seeking Scripters / Builders for NWN Project",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/seeking-scripters-builders-for-nwn-project-t2294095.html",
+  "author": "Maximillian Kane",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:42 PM - Oct 23, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail, ECBers!<br/>\n<br/>\nI have been wanting to bring to life a PW of my own creation. Two years ago, I began writing a book which I never finished because of, well, basically because of a mixture of laziness and lack of talent for writing. The whole idea began with a campaign I created to Dm to a group of friends in PnP. The group didn't last long, but I had put so much effort into making the whole story that in time I populated it with my own NWN characters and just started to write. Now, as it stands, I have stopped in chapter 10, which is kind of halfway through. I am Brazilian, so writing a book in English is to me a great challenge, maybe even more than I can actually handle. <br/>\n<br/>\nAnyway, I thought that perhaps if I found people with the scripting knowledge, we could bring this world to life. I have a map, the main cities (which are many) and ideas for pretty much many dungeons. If anyone is interested, please post here or PM me about it.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DragonatorXII",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:44 PM - Nov 23, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm pretty decent at scripting. I'm in, PM me for details?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "9:07 PM - Nov 23, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Will do mate, right now I'm quite busy, but on Sunday I will take care of that.<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "7:52 PM - Nov 24, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is this still on the plate for you?  (Hadn't noticed the OP until the last reply brought it back up.  )<br/>\n<br/>\nIf so, network via the BSN, Max.  The folks over there are only too happy to help you scratch out details and suggest loads of shortcuts.  They remain a reliable knowledge base for designers.<br/>\n<br/>\nI envy your dedication.  Maintaining a PW is a Herculean undertaking in my opinion, at least for old sleepy gits like me.<br/>\n<br/>\nMy own scripting prowess is mediocre at best, though I have helped others to build a few modules and a trainer or two along the path.  Mainly I have a knack for developing dynamics for achieving an interaction or effects rather than scripting a solution.  Quite a bit of practice developing effective convos, I suppose.  I would be more than happy to proof-read and edit all the text.  Correct spelling and grammar helps to make others take your work more seriously and with interest... and that is always encouraging after putting in all the time and effort to get the project off the ground.<br/>\n<br/>\nPay special attention to the work-arounds the admins have developed to circumvent the common security problems and Master Server removal.  Most of the activity that remains with the original NWN forum community IS in development and server-side mechanics.  And I know you still have an account there!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:45 PM - Nov 27, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the replies, Hip. The main problem is that I am really a ZERO-KNOWLEDGE fellow when it comes to scripting. The only thing I have is the story, and that's it. The world is only half done, but it can be finished while doing what we already know. Thanks for the help anyway, we will certanly take you up on that. I will send a message to Dragonator now, since one of my students skipped class today.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:24 PM - Nov 12, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've just gone to univerity and daane a bit of phythin coding, I know it's differnt from NWN scripting - what kinda things were you after I could try my hand (I may not be very reliable or good).<br/>\n<br/>\n If so hints ad to where to finding code info and methods?<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "9:20 PM - Nov 12, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Try the <strong><a class=\"postlink\" href=\"http://www.nwnlexicon.com/index.php?title=Main_Page\" rel=\"noreferrer\" target=\"_blank\">Lexicon</a></strong> and the<strong> <a class=\"postlink\" href=\"https://neverwintervault.org/\" rel=\"noreferrer\" target=\"_blank\">NW Vault</a>.</strong><br/>\n<br/>\n You may find it faster and easier to find a way to merge your ideas with existing projects.\u00a0 Most of those folks can be found hanging around the NWVault these days. They are always looking for contributors.\u00a0 TBH, with all the newest mods like the CPP, latest version of CEP, NWNX and Project Q, it can be tough to integrate all the leading edge resources into a PW that will give you a return on your investment without other former admins pointing out the pitfalls.\u00a0 I think SQL database management/scripting will also be necessary to make it come off.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

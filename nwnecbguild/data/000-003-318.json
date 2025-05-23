@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "318",
+  "name": "Gutsy Monk",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/gutsy-monk-t2353236.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:52 AM - Apr 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I like the gutsy Monk  <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build207622.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 07622.html</a><br/>\nLove the AC (nude/nude+defensive stance): 38/42<br/>\n<br/>\nThe problem is no dodge or any uncanny dodge.  Anybody know of a build that will give me the same <br/>\nAC with dodge uncanny dodge and epic dodge??<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:45 AM - Apr 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Invisible Wall <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build144136.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 44136.html</a><br/>\nMovable Wall   <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build148006.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 48006.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "WhiZard",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:36 AM - Apr 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you are looking at monk 20 in an epic dodge build, I'd suggest you drop the dwarven defender.  Monk already has 20/+1 DR for scripted physical damage (i.e. spells and abilities cannot penetrate damage reduction).  The damage reduction from dwarven defender does not stack with this.  And if you are in a server where there is high damage (including positive), it might be a whole lot better to go the high AC route than the Dwarven Defender DR route.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:17 AM - Apr 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is what I am thinking.  Looking for a build that has dodge uncanny dodge and epic dodge<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

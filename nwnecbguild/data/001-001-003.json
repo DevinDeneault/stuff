@@ -1,0 +1,26 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Modules",
+  "forum_id": "001",
+  "id": "003",
+  "name": "In dire help (Sands of Fate bug)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/in-dire-help-sands-of-fate-bug-t2356320.html",
+  "author": "wanderei",
+  "avatar": "no_avatar.png",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:40 PM - Mar 18, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So.. I am playing Sands of Fate module and after exposing Merchant Guildmaster I killed him and went down the stairs. Merchants were not hostile, just guards. I killed the guards and went to stables. For some reason Ox'es in the pen were hostile to me and my henchman went and killed them. Now when I came back up merchants were hostile. Sadly I made a quick save. I dont have other saves and ENTIRE TOWN is hostile to me. I would like to fix this with console commands but Im not sure what to type.\u00a0<br/>\n<br/>\n\u00a0Ideally - what should I type in console ? some suggestions I found in the google say that should I press \"P\" to see factions but I have nothing there.<br/>\n<br/>\n<br/>\nAny help will be welcome.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:27 PM - Mar 22, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><details><summary>Spoiler</summary>You killed him too quickly - he's supposed to teleport away and face you later on.\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

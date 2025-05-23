@@ -1,0 +1,182 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "505",
+  "name": "Looking for another lvl 30 build.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-another-lvl-30-build-t515503.html",
+  "author": "campgod",
+  "avatar": "10235237_1517392314.jpg",
+  "replies": 27,
+  "posts": [
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:26 AM - Oct 08, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello guys. I have another build request for ya. I am thinking about a Ranger/fighter/WM or anthing along those lines.This is for a low/mid magic server and lvl cap is 30. Farming goes to about lvl 23 then its all exp for Rping. So I would like to get the best I can by lvl 23. I want to be able to have BOE and get a good AB going. It would be nice to duel wield and if called for switch to a shield for more AC. I was thinking human or Elf but prob. human is best for all the feats I need? I am not sure what would be best a Dex or Str. build? Dev crit on this server can be had by only non-hybrid toons. So not sure if Dex build would be better so I can get Epic Dodge or Str. build and at least get overwhelming if its worth it. I am up for anything though, just here to pick your brains. Thanks for your time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "4:11 AM - Oct 08, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A ranger in a lvl 30 cap cannot get both BoE and ED. BoE requires 21 ranger lvls and ED requires at least SD 10, so you are 1 lvl above the cap.<br/>\n<br/>\nRanger/FTR/WM has no tumble and no UMD. I'd rather go with Ranger/FTR/Rogue, STR based, human (or half orc) and with a lvl split like Ranger 23/FTR 4/Rogue 3. DW is possible in light armor and with some dex buffing (you've got cat's grace in your spellbook already) without having to spend extra feats on it.<br/>\n<br/>\nSomething along these rough lines:<br/>\n<br/>\n<br/>\n<span style=\"font-size:150%;line-height:normal\">Ranger(23), Fighter(4), Rogue(3)</span><br/>\nHuman<br/>\n<br/>\n<br/>\nSTR: 16 (24)<br/>\nDEX: 14<br/>\nCON: 12<br/>\nWIS: 14<br/>\nINT: 12<br/>\nCHA: 8<br/>\n<br/>\n<br/>\nHitpoints: 348<br/>\nSkillpoints: 214<br/>\nSaving Throws (Fortitude/Will/Reflex): 19/17/17<br/>\nSaving Throw bonuses: Death: +1<br/>\nBAB: 24<br/>\nAB: 35, 37 vs FEs<br/>\nAC (naked/full plate and tower shield): 20/30<br/>\nSpell Casting: Ranger(4)<br/>\n<br/>\n<br/>\nDisable Trap 22(25), Discipline 33(40), Hide 33(35), Move Silently 33(35), Set Trap 11(15), Spot 21(23), Tumble 30(32), UMD 31(30)<br/>\n<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Rogue(1): Luck of Heroes, Strong Soul<br/>\n02: Ranger(1): Favored Enemy I, {Dual Wield}<br/>\n03: Ranger(2): Weapon Focus<br/>\n04: Ranger(3): STR+1, (STR=17)<br/>\n05: Ranger(4)<br/>\n06: Ranger(5): Blind Fight, Favored Enemy II<br/>\n07: Ranger(6)<br/>\n08: Ranger(7): STR+1, (STR=18)<br/>\n09: Ranger(8): Knockdown<br/>\n10: Ranger(9): {Improved Two-Weapon Fighting}<br/>\n11: Ranger(10): Favored Enemy III<br/>\n12: Rogue(2): STR+1, Improved Critical, {Evasion}, (STR=19)<br/>\n13: Ranger(11)<br/>\n14: Ranger(12)<br/>\n15: Ranger(13): Iron Will<br/>\n16: Ranger(14): STR+1, (STR=20)<br/>\n17: Ranger(15): Favored Enemy IV<br/>\n18: Ranger(16): Toughness<br/>\n19: Ranger(17)<br/>\n20: Ranger(18): STR+1, (STR=21)<br/>\n21: Fighter(1): Epic Prowess, Epic Weapon Focus<br/>\n22: Ranger(19)<br/>\n23: Ranger(20): Favored Enemy V<br/>\n24: Ranger(21): STR+1, Bane of Enemies, (STR=22)<br/>\n25: Fighter(2): Armor Skin<br/>\n26: Fighter(3)<br/>\n27: Fighter(4): Weapon Specialization, Epic Weapon Specialization<br/>\n28: Rogue(3): STR+1, {Uncanny Dodge I}, (STR=23)<br/>\n29: Ranger(22)<br/>\n30: Ranger(23): Great Strength I, Favored Enemy VI, (STR=24)<br/>\n<br/>\n<br/>\nwhich gets 6 FEs, BoE, EWS and +2d6 SA for a potential +4d6+11 damage per hit ( average +25) plus the Str modifier (+7) at 37 mundane AB which is easily self buffed (aid and blade thirst) at 41 (and which imply a further +4 damage per hit). You've got also summons, terrain control and stealth enhancing spells on your side not to mention your animal companion. UMD and trap skills round it off. Saves are enhanced by feats. Doesn't look bad, aye?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "7:25 AM - Oct 08, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just for comparison's sake... a less-skilled, crit master non-ranger (i.e. w/o BoE):<br/>\n<br/>\nFighter(10), Rogue(4), Weapon Master(16), Human<br/>\n<br/>\nSTR: 16 (26)<br/>\nDEX: 15<br/>\nCON: 12<br/>\nWIS: 10<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n01: Rogue(1): Dodge, Ambidexterity<br/>\n02: Fighter(1): Weapon Focus<br/>\n03: Fighter(2): Mobility, Two-Weapon Fighting<br/>\n04: Fighter(3): STR+1, (STR=17)<br/>\n05: Fighter(4): Weapon Specialization<br/>\n06: Fighter(5): Spring Attack<br/>\n07: Fighter(6): Expertise<br/>\n08: Fighter(7): STR+1, (STR=18)<br/>\n09: Fighter(8): Whirlwind Attack, Blind Fight<br/>\n10: Weapon Master(1): Weapon of Choice<br/>\n11: Weapon Master(2)<br/>\n12: Weapon Master(3): STR+1, Improved Critical, (STR=19)<br/>\n13: Weapon Master(4)<br/>\n14: Weapon Master(5)<br/>\n15: Weapon Master(6): Improved Two-Weapon Fighting<br/>\n16: Weapon Master(7): STR+1, (STR=20)<br/>\n17: Weapon Master(8)<br/>\n18: Weapon Master(9): Toughness (or KD or Cleave)<br/>\n19: Weapon Master(10)<br/>\n20: Rogue(2): STR+1 (STR=21)<br/>\n21: Fighter(9): Epic Weapon Focus<br/>\n22: Fighter(10): Epic Weapon Specialization<br/>\n23: Rogue(3)<br/>\n24: Weapon Master(11): STR+1, Great Str I, (STR=23)<br/>\n25: Weapon Master(12)<br/>\n26: Weapon Master(13): Epic Prowess<br/>\n27: Weapon Master(14): Great Str II, (STR=24)<br/>\n28: Weapon Master(15): STR+1, (STR=25)<br/>\n29: Rogue(4): Armor Skin<br/>\n30: Weapon Master(16): Great Str III, (STR=26)<br/>\n<br/>\nHitpoints: 344<br/>\nSkillpoints: 207<br/>\nSaves (F/W/R): 15/10/19 (16/11/20 vs. spells)<br/>\nBAB: 24<br/>\nAB (max, naked): 39 (melee), 27 (ranged)<br/>\nAC (naked/mundane armor/shield only): 20/30<br/>\n<br/>\nDisable Trap 22(26), Discipline 33(41), Heal 6(6), Hide 32(34), Intimidate 4(3), Move Silently 32(34), Set Trap 11(15), Spellcraft 3(5), Tumble 30(32), UMD 31(30)<br/>\n<br/>\nNote: Tried to parallel Kail's ranger build as close as I could.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:13 PM - Oct 08, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow! Both are really good builds. I dont know why but I have always like rangers. Maybe its the whole story behind them or at least what you can come up with. Once again you guys come through, thanks again for your time. Now for weapons what do you think would be good for a ranger? A raiper? Oh dam I overlooked something...On this server I have to take 5 lvls of any class I take at any giving time. They do this to help stop cheesy builds they say<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "11:23 PM - Oct 08, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>Now for weapons what do you think would be good for a ranger? A raiper? \n</div></blockquote>\nNot unless you want to incur an AB penalty when you dual-wield.  You''ll need to focus in a light weapon for a medium race (i.e. any small weapon), like shortsword, for instance.  For halflings &amp; gnomes, a light weapon would be a tiny one.\n<blockquote><div>Oh dam I overlooked something...On this server I have to take 5 lvls of any class I take at any giving time. They do this to help stop cheesy builds they say </div></blockquote>\nSo does this this prereq mean 5 consecutive levels or just 5 total levels within the 30?  Cheese is in the mind of the beholder, btw.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:43 AM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's an ED sneaker version to consider with that 5 level nonsense integrated:<br/>\n<br/>\nRanger(10), Rogue(13), Weapon Master(7), Human<br/>\n<br/>\nSTR: 8<br/>\nDEX: 18 (26)<br/>\nCON: 12<br/>\nWIS: 12<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n01: Rogue(1): Dodge, Mobility<br/>\n02: Rogue(2)<br/>\n03: Rogue(3): Weapon Finesse<br/>\n04: Rogue(4): DEX+1, (DEX=19)<br/>\n05: Rogue(5)<br/>\n06: Ranger(1): Weapon Focus, Favored Enemy I<br/>\n07: Ranger(2)<br/>\n08: Ranger(3): DEX+1, (DEX=20)<br/>\n09: Ranger(4): Expertise<br/>\n10: Ranger(5): Favored Enemy II<br/>\n11: Ranger(6)<br/>\n12: Ranger(7): DEX+1, Spring Attack, (DEX=21)<br/>\n13: Ranger(8)<br/>\n14: Ranger(9)<br/>\n15: Ranger(10): Whirlwind Attack, Favored Enemy III<br/>\n16: Weapon Master(1): DEX+1, Weapon of Choice, (DEX=22)<br/>\n17: Weapon Master(2)<br/>\n18: Weapon Master(3): Blind Fight<br/>\n19: Weapon Master(4)<br/>\n20: Weapon Master(5): DEX+1, (DEX=23)<br/>\n21: Weapon Master(6): Improved Critical<br/>\n22: Weapon Master(7)<br/>\n23: Rogue(6)<br/>\n24: Rogue(7): DEX+1, Epic Weapon Focus, (DEX=24)<br/>\n25: Rogue(8)<br/>\n26: Rogue(9)<br/>\n27: Rogue(10): Great Dexterity I, Defensive Roll, (DEX=25)<br/>\n28: Rogue(11): DEX+1, (DEX=26)<br/>\n29: Rogue(12)<br/>\n30: Rogue(13): Epic Dodge, Improved Evasion<br/>\n<br/>\nHP: 278<br/>\nSaves (F/W/R): 15/11/24 (18/14/27 vs. spells)<br/>\nOther save bonuses: Traps: +2<br/>\nBAB: 23<br/>\nAB (max, naked): 35 (melee), 31 (ranged)<br/>\nAC (naked/mundane armor/shield only): 24/28<br/>\n<br/>\nSkillpoints: 281<br/>\nAnimal Empathy 18(17), Disable Trap 18(22), Hide 33(41), Intimidate 4(3), Listen 33(34), Open Lock 10(18), Persuade 12(11), <br/>\nSearch 10(12), Set Trap 18(28), Spellcraft 13(15), Spot 33(34), Tumble 33(41), UMD 33(32)<br/>\n<br/>\nYour ranger will only get Cat's Grace and OwtL for 10 hours.  Skills are flexible.  Shift them to your best advantage on your server. 7d6 sneaks &amp; +3 FE's.  I'd go with either DW shortsword piercing for 19-20x2 crit range or DW handaxe slashing for 20x3 crit especially if Keen Edge scrolls are available and keened weapons scarce.<br/>\n<br/>\nYou'll get a late rogue dump in by level 23 since you seem to feel that is an important milestone.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "6:41 AM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, on your first suggested build, why start with WIS 10? Isn't it better to have 14 CON? IMO it is anyway.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:14 PM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>Hip, on your first suggested build, why start with WIS 10? Isn't it better to have 14 CON? IMO it is anyway.</div></blockquote>\nWithout Toughness, not a bad idea.  344 HPs seems sufficient to me on a Level 30 cap server.  The Will saves are so abominable any help is worth it... IMO.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:31 PM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When the saves are shyt, IMO it's best to rely on immunities. I think that this +1 save won't make you succeed on any save you'd otherwise fail, while the 30 HP can be handier.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "4:50 PM - Oct 09, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong>Here's an ED sneaker version to consider with that 5 level nonsense integrated:<br/>\n<br/>\nRanger(10), Rogue(13), Weapon Master(7)<br/>\n</div></blockquote>Change Ranger 10 to FTR 10 and you are better off. You also can go Str 12/Wis 8 that way and you get to grab WS/EWS in addition to all DW feats and a further combat feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:27 AM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah just need 5 lvls by lvl 30. Thanks guys for ideas. Not sure what I am going to go with yet. Just looking for something that does good damage on this server. Was looking at ranger build with BoE but not sure how am going to do it with this server rules just yet.  <br/>\n<br/>\n<br/>\nWell looks like I need 21 ranger lvls for BoE...so yeah that would mean a Ranger/something build without a thrid class...lol. I might have to re-think the ranger thing or at least forget about the BoE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "3:42 AM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ranger 25/Rogue 5. Compared to what I posted previously, you lose WS/EWS but get 1 more epic bonus feat from ranger (which means you lose WS/EWS only in the end) and an extra +1 damage and listen/spot(/taunt) vs FEs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:17 AM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, does really seem worth it huh? Maybe I should just go with that Fighter instead of ranger like you said.<br/>\n<br/>\n<br/>\n<br/>\nThanks Hip and Kail!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:30 AM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you guys were going to build a bad mofo with these rules and lvl30 cap, what would you guys be? What is a build that will make people shake in thier boots?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:30 AM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>If you guys were going to build a bad mofo with these rules and lvl30 cap, what would you guys be? What is a build that will make people shake in thier boots?</div></blockquote>\n\nAre you talking PvP now?<br/>\n<br/>\nArcane Casters are hands down the strongest PvP builds out there. that aside, that ranger 25 build can be pretty good too, seeing as his damage will be way ahead if you can hit steadily. Actually, in PvP, you can make most things work, if it is for groups.<br/>\n<br/>\nA few others off the top of mye head:<br/>\nCleric21/F2/WM7 (not too fond of WM7, but with Cleric buffs, damage rocks)<br/>\nRanger21+/SD1/whatever (if true seeings been changed). Works just fine as Strength based too.<br/>\nBard16/F4/RDD10 would be a good build, even Bard20/RDD10 for lasting inspiration.<br/>\nCleric16/Monk9/SD5 could be sweet, for DEX base and EpicDodge. Doesn't sound too good perhaps, but try it. Elf. Dispelling sucks, so unnerfed True seeing is lame.<br/>\n<br/>\nAnd as I said, Arcane Casters will rule the battlefield. If True Seeing is like in PnP, then they can be hurt, but I still want my Holysword back.<br/>\n<br/>\nDruid combo with Dragonshape perhaps, since you say it's low magic. Tough to build a Dragon with 30 lvls though.<br/>\n<br/>\n*EDIT* you need 5 lvls of a class, which makes a couple of the above unavailible.<br/>\n<br/>\nCleric23/WM7 might be doable, but I think I'd rather Tumble it with Rogue.<br/>\nThe bard would be Bard15/Fighter5/RDD10. Not too bad a trade, you'll lose a litte songpower, but you can get 16BAB pre-Epic and still get EWS.<br/>\nRanger splits would 25/5 always, with rogue as your best bet, I'd say.<br/>\n<br/>\n<br/>\nSorry for not readint thoroughly at first. I hate buld restrictions, mostly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "8:03 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dragon shape build needs to be something like Druid 18/Monk 6/CoT 6 (Druid 16/Monk 2/CoT 2 or Druid 16/Monk 4 preepic). DS is acquired at lvl 30, before that the build is a Zen archer/shapechanger self buffer/summoner. If the OP is interested we can analyze it further.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:13 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>Hmm, does really seem worth it huh? Maybe I should just go with that Fighter instead of ranger like you said.</div></blockquote>The Ranger 25/Rogue 5 is a pretty efficient build and basically the best way to go if you want a BoE build, given your server level cap and rules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:27 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just never have done a two class combo before sounds kinda fun. The dragon shape build would be pretty cool as well in a lvl 30 server. There seems to be a lot of casters on this server. Its not a lot of PvP here but thats what am looking for cause it does happen through Rp. When the time comes I want to be ready. So if there was a layout for the dragon form build I would like to see how it goes. The druids spells I have always liked myself. The dragon is immuine to  alot of things as well, is it not? Thanks Grim and Kail.<br/>\n<br/>\n<br/>\nThe ranger 25/rogue 5, I would start that build out rogue right to get the extra skill points? I am also trying to do the spread. Lvl 1,2 Bard 3-5 fighter, 6 RDD, 7 Bard, 8-11 RDD, 12 bard, 13-16 RDD, 17 bard, 18 RDD, 19-20 Fighter? Then I was thinking about the rule of 4 that I had read and that gives 15 lvls of the 3/4 classes. So that would mess up my BAB right? I was trying to get all 10 lvls of RDD in there pre epic but does that mess with my best BAB I can get? So do I take out one fighter lvl and put a Bard in there and move the fighter to lvl 21? I am still new to this so any help would be great.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:41 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The following is a rough template. As I said you have a caster Druid zen archer which can make good use of shapechange and which should make good use of summons and of his animal companion and dominated animals early on. CoT is needed in order to get enough wisdom by lvl 30 and it grants a further bonus feat (here spent on EP but you might opt for AS). Monk lvls are spaced on tumble dumps levels and lvl 9 druid spells are in by lvl 21. Saves are pretty nice and are gonna be impressive in dragon form. Have a look:<br/>\n<br/>\n<br/>\n<br/>\n<span style=\"font-size:150%;line-height:normal\">Druid(18), Champion of Torm(6), Monk(6)</span><br/>\nHuman, Lawful neutral<br/>\n<br/>\n<br/>\nSTR: 10<br/>\nDEX: 10<br/>\nCON: 12<br/>\nWIS: 18 (30)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n<br/>\nHitpoints: 312<br/>\nSkillpoints: 219<br/>\nSaving Throws (Fortitude/Will/Reflex): 23/32/17<br/>\nSaving Throw bonuses: Spells: +6, Mind Effects: +2<br/>\nBAB: 20<br/>\nAB (human): 22 (melee), 31 (ranged)<br/>\nAC (naked): 27<br/>\nSpell Casting: Druid(9)<br/>\n<br/>\n<br/>\nAnimal Empathy 32(31), Concentration 33(34), Disable Trap 1(3), Discipline 32(32), Hide 30(30), Move Silently 30(30), Set Trap 1(1), Spellcraft 28(30), Tumble 30(30)<br/>\n<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Expertise, Scribe Scroll<br/>\n02: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n03: Druid(2): Extend Spell<br/>\n04: Druid(3): WIS+1, (WIS=19)<br/>\n05: Druid(4)<br/>\n06: Druid(5): Zen Archery<br/>\n07: Monk(2): {Deflect Arrows}<br/>\n08: Druid(6): WIS+1, (WIS=20)<br/>\n09: Druid(7): Empower Spell<br/>\n10: Druid(8)<br/>\n11: Druid(9)<br/>\n12: Monk(3): WIS+1, Toughness, (WIS=21)<br/>\n13: Druid(10)<br/>\n14: Druid(11)<br/>\n15: Druid(12): Improved Critical: Unarmed<br/>\n16: Druid(13): WIS+1, (WIS=22)<br/>\n17: Monk(4)<br/>\n18: Druid(14): Weapon Focus: Scimitar<br/>\n19: Druid(15)<br/>\n20: Druid(16): WIS+1, (WIS=23)<br/>\n21: Druid(17): Great Wisdom I, (WIS=24)<br/>\n22: Monk(5)<br/>\n23: Champion of Torm(1)<br/>\n24: Champion of Torm(2): WIS+1, Great Wisdom II, Epic Prowess, (WIS=26)<br/>\n25: Champion of Torm(3): {Smite Evil}<br/>\n26: Champion of Torm(4): Great Wisdom III, (WIS=27)<br/>\n27: Monk(6): Great Wisdom IV, {Knockdown, Improved Knockdown}, (WIS=28)<br/>\n28: Champion of Torm(5): WIS+1, (WIS=29)<br/>\n29: Champion of Torm(6): Great Wisdom V, (WIS=30)<br/>\n30: Druid(18): Dragon Shape<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:01 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">NICE kail! thats a pretty sweet looking build. The monk goes well cause of the AC bonus ill get from the Wis and nice spead boost too. I think Ill keep the EP since ill have alright AC from the monk huh? I also like having lvl 9 spells by lvl 21  Couple question though, why the set/disable traps with 1 skill point? Just extras? Why  WF in Scimitar? Would it be better to take WF in unarmed or say for my ranged weapon? Range weapon what would that be a crossbow?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "11:14 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>NICE kail! thats a pretty sweet looking build. The monk goes well cause of the AC bonus ill get from the Wis and nice spead boost too. I think Ill keep the EP since ill have alright AC from the monk huh? I also like having lvl 9 spells by lvl 21  Couple question though, why the set/disable traps with 1 skill point? Just extras? Why  WF in Scimitar? Would it be better to take WF in unarmed or say for my ranged weapon? Range weapon what would that be a crossbow?</div></blockquote>Once I allocated all skillpoints I was left with a few extra ones and since I like traps I decided to put them there. Keep present that Disable traps just needs 1 rank to let you autorecover your own traps. Set traps can be increased to a modified score of 15 (modified by dex after gear/buffs and by gear that affects set traps directly) so that you can set all deadly traps but gas ones, but you have to take away skillpoints from somewhere (for example some from AE, some from Spellcraft and some from Concentration or Discipline). With 1 rank in Set traps you can set minor traps which are very useful early on and can keep being useful even later on... of course going up to 15 (keep present available buffs/gear) would be better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:20 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sounds cool, yeah dont know much about how the traps work. Thanks for the info. I didnt know there was an auto recover on traps lol.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "11:25 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Trap\" rel=\"noreferrer\" target=\"_blank\">Traps</a>.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Set_trap#Notes\" rel=\"noreferrer\" target=\"_blank\">Set Trap</a>.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Disable_trap\" rel=\"noreferrer\" target=\"_blank\">Disable Trap</a>.<br/>\n<br/>\n<br/>\nTraps are a very useful tactical and strategical resource. You should begin playing around with them and see how to make the best out of them. Just think that you can set up a mine field where to retire if in trouble, or into which to lure your enemy with ranged attacks, etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:33 PM - Oct 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dam thanks again for the trap info. theres a lot you can do with them, who would of thought lol.<br/>\n<br/>\nThe ranger 25/rogue 5, I would start that build out rogue right to get the extra skill points? The first 2 lvls and the las lvl rogue with the others somewhere in between? I am also trying to do the spread for the Bard/Fighter/RDD. Lvl 1,2 Bard 3-5 fighter, 6 RDD, 7 Bard, 8-11 RDD, 12 bard, 13-16 RDD, 17 bard, 18 RDD, 19-20 Fighter? Then I was thinking about the rule of 4 that I had read and that gives 15 lvls of the 3/4 classes. So that would mess up my BAB right? I was trying to get all 10 lvls of RDD in there pre epic but does that mess with my best BAB I can get? So do I take out one fighter lvl and put a Bard in there and move the fighter to lvl 21? I am still new to this so any help would be great.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:38 AM - Oct 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>NICE kail! thats a pretty sweet looking build. The monk goes well cause of the AC bonus ill get from the Wis and nice spead boost too. I think Ill keep the EP since ill have alright AC from the monk huh? I also like having lvl 9 spells by lvl 21  Couple question though, why the set/disable traps with 1 skill point? Just extras? Why  WF in Scimitar? Would it be better to take WF in unarmed or say for my ranged weapon? Range weapon what would that be a crossbow?</div></blockquote>\n\nYou need focus on a melee weapon to get CoT levels, that's why. that weapon can't be unarmed.<br/>\n<br/>\nFTR, unarmed focus doesn't work while shifted. You say you are new to this, so let me tell you something that may disappoint you a bit but that we all know and that you need to know as well:<br/>\n<br/>\nTHE CHARACTER SHEET LIES!!<br/>\n<br/>\nOne of the lies is that it gives you the impression that Weapon Focus Unarmed works while shifted, but it doesn't.<br/>\nSize modifiers to AB and AC are also not shown in you sheet. Dragons, for instance, are huge creatures, so they get an AB and AC size modifier of -2 which is not shown in the sheet. Furthermore, the Dragon Claws you attack with are counted as +6 weapons for all purposes, which is also not shown in the character sheet. This means that your AB and AC in Dragon Shape are actually +4 and -2 respectively from what is shown in your sheet. The +4 is because you need to add +6 from the dragon claws -2 from size modifier.<br/>\n<br/>\nTake it EZ!<br/>\n<br/>\nP.S.: Does anyone know the FULL LIST of the Character Sheet lies? What it counts and what it doesn't? Maybe someone can post a topic in the General Discussion forum to help out the newer players. I would do it myself, but RL is kinda hard right now (haven't even been able to play NWN in 2 weeks) and I'm not sure I know all of the lies it tells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:10 AM - Oct 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>Dam thanks again for the trap info. theres a lot you can do with them, who would of thought lol.<br/>\n<br/>\nThe ranger 25/rogue 5, I would start that build out rogue right to get the extra skill points? The first 2 lvls and the las lvl rogue with the others somewhere in between? I am also trying to do the spread for the Bard/Fighter/RDD. Lvl 1,2 Bard 3-5 fighter, 6 RDD, 7 Bard, 8-11 RDD, 12 bard, 13-16 RDD, 17 bard, 18 RDD, 19-20 Fighter? Then I was thinking about the rule of 4 that I had read and that gives 15 lvls of the 3/4 classes. So that would mess up my BAB right? I was trying to get all 10 lvls of RDD in there pre epic but does that mess with my best BAB I can get? So do I take out one fighter lvl and put a Bard in there and move the fighter to lvl 21? I am still new to this so any help would be great.</div></blockquote>\nI'd do it kinda like this, without knowing your exact environment, tho. Is this a dev crit environment, and if so, you want it? Bards are good devcritters when they can squeeze in Curse song. Dev crit will make you feat starved, There are still feats that is in the category \"good to have\" that is not in the build now.<br/>\nIf you want listen, which you can Amplify(bard spell, +20 listen) you'll have to start with 14 INT. There are room for tweaks all over the place, but this should be a decent platform to launch from.<br/>\n<br/>\nBard(15), Fighter(5), Red Dragon Disciple(10), Human<br/>\n<br/>\nSTR: 17 (32)<br/>\nDEX: 8<br/>\nCON: 14 (16)<br/>\nWIS: 8<br/>\nINT: 13 (15)<br/>\nCHA: 14 (16)<br/>\n<br/>\n01: Bard(1): Toughness, Lingering Song<br/>\n02: Bard(2)<br/>\n03: Fighter(1): Knockdown, Weapon Focus<br/>\n04: Fighter(2): STR+1, Blind Fight, (STR=18)<br/>\n05: Fighter(3)<br/>\n06: Fighter(4): Expertise, Weapon Specialization<br/>\n07: Red Dragon Disciple(1)<br/>\n08: Red Dragon Disciple(2): STR+1, (STR=21)<br/>\n09: Red Dragon Disciple(3): Extend Spell<br/>\n10: Red Dragon Disciple(4): (STR=23)<br/>\n11: Red Dragon Disciple(5)<br/>\n12: Bard(3): STR+1, Improved Critical, (STR=24)<br/>\n13: Red Dragon Disciple(6)<br/>\n14: Red Dragon Disciple(7): (CON=16)<br/>\n15: Red Dragon Disciple(8): Still Spell<br/>\n16: Bard(4): STR+1, (STR=25)<br/>\n17: Bard(5)<br/>\n18: Bard(6): Curse Song<br/>\n19: Bard(7)<br/>\n20: Bard(8): STR+1, (STR=26)<br/>\n21: Red Dragon Disciple(9): Epic Weapon Focus, (INT=15)<br/>\n22: Red Dragon Disciple(10): {Darkvision}, (STR=30), (CHA=16)<br/>\n23: Bard(9)<br/>\n24: Fighter(5): STR+1, Epic Weapon Specialization, (STR=31)<br/>\n25: Bard(10)<br/>\n26: Bard(11)<br/>\n27: Bard(12): Armor Skin<br/>\n28: Bard(13): STR+1, (STR=32)<br/>\n29: Bard(14)<br/>\n30: Bard(15): Epic Prowess<br/>\n<br/>\nHitpoints: 344<br/>\nSkillpoints: 177<br/>\nSaving Throws (Fortitude/Will/Reflex): 20/17/13<br/>\nSaving Throw bonuses: Spells: +4<br/>\nBAB: 21(4 attacks)<br/>\nAB (max, naked): 36 (melee), 21 (ranged)<br/>\nAC (naked/mundane armor/shield only): 21/32<br/>\n<br/>\nConcentration 33(36)<br/>\nDiscipline 33(44)<br/>\nLore 8(25)<br/>\nPerform 21(24)<br/>\nSpellcraft 18(20)<br/>\nTumble 30(29)<br/>\nUMD 33(36)<br/>\n<br/>\nBard-/cursesong<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />curse give negatives to opponents, of course)<br/>\nAB:+2 Dmg: +3 Saves, all:+2 hp:+16 AC+4 skil:+3<br/>\n<br/>\nSpells Known/day: <br/>\n5/4-4/5-4/4-4/4-4/3-3/2<br/>\n<br/>\nWhat else? Damage mundane weapon is at +17 if going 1-hander and shield before any buffs and song.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:05 PM - Oct 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks grim, looks pretty solid. Yeah there is dev crit on this server but you cant be a hybrid at its limited to just a few classes, so this will work great. Ty again for or time.<br/>\n<br/>\nWhat would be the best weapon for this build? One hander that is?<br/>\nWhy take Expertise?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:09 PM - Oct 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>campgod wrote:</strong>Thanks grim, looks pretty solid. Yeah there is dev crit on this server but you cant be a hybrid at its limited to just a few classes, so this will work great. Ty again for or time.<br/>\n<br/>\nWhat would be the best weapon for this build? One hander that is?<br/>\nWhy take Expertise?</div></blockquote>\nWell, I'd say scimitar for onehander. In many environments a longsword trumps, because there are more good weapons availible. You should go for weapons with bonuses other than enchantment. Bard has both Greater Magic Weapon and Keen edge on his list.<br/>\n<br/>\nExpertise is just something I like in my melee casters, to get a bit extra AC while casting, or perhaps when you activate song. You don't combat cast much as bard, but sometimes you need the ImpInvis or Darkness. Expertise is, although nice, definitely not make-or-break. You don't have IKD in there, and not any save bolsters f.ex. Sometimes I use Expertise in a group just to stay alive so the others benefit from my song also.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

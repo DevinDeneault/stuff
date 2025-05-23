@@ -1,0 +1,128 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "482",
+  "name": "Highest possible, open lock, set/disarm trap",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/highest-possible-open-lock-set-disarm-trap-t515531.html",
+  "author": "Evilbrood",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 18,
+  "posts": [
+    {
+      "author": "Evilbrood",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:30 PM - Oct 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">First of all i would like to say Hello to everybody, i'am new on this forum.<br/>\nSecond, can anyone tell me what build would have the highest possible open lock, set/disarm trap skills. For sure the rogue, but cleric has the trickery domain wchich gives him the bonuses to those skills, and of course there is bard with his bard's song wchich also gives bonuses to the skills. How to mix those classes to have those skills highest as possible or is it pointless maybe. I don't care for the ab or ac, just those skills . Thank you in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "9:05 PM - Oct 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome on board and I hope (well, we all hope, I'm certain) that you will learn and contribute ideas about character building.<br/>\n<br/>\nNow, to your questions, which probably would be best posted to the general subforum since it doesn't really involve a specific build per se...<br/>\n<br/>\nOpen Locks<br/>\nIt's a d20 skill check based on DEX.  So that means if your toon has 43 ranks in OL, say 30 DEX (+10, about average for a dexer), Trickery Domain via Cleric (let's say Cleric 24 for +13), SkF/ESkF (+13) and +10 lockpicks, you'd be able to open locks with DC of at least 109 (if I added correctly) with a Take 20 non-combat.  I'm intentionally ignoring the +2 synergy, in this case. I'd say levels like this would be tremendous overkill even without the max possible values in effect.  The fact is, locks can be set to plot and then unlockable by any skill level and unbashable.  Or they can be simply bashed via physical means or spells.  Not sure what your intent is to max the skill but that should at least put things into better perspective. IMO it is pointless to attempt it even in a roleplay environment.<br/>\n<br/>\nDisarm Traps<br/>\nTo disarm all traps except epic ones requires 16 modified ranks in Disable Traps, non-combat. For the 4 epic traps (Elec/Fire/Frost/Sonic), your toon would need to be rogue first off and then obtain a skill level of 38 with a combo of any/all of the modifiers listed for Open Locks except INT is the ability modifier.  This only accounts for designed traps, not those set by other toons.<br/>\n<br/>\nAlso, one skill that is missing from your roguish skill list is Search.  If you can't detect a trap it is difficult to disable it! <br/>\n<br/>\nSet Traps<br/>\nTo set all traps except epic ones requires 25 modified ranks in Set Traps, non-combat. For the 4 epic traps (Elec/Fire/Frost/Sonic), your toon would need to obtain a skill level of 45 with a combo of any/all of the modifiers listed for Open Locks.<br/>\n<br/>\nThe feat Skill Mastery, available only to rogues with at least 10 levels, allows a Take 20 even when in combat.<br/>\n<br/>\nI hope that helps to answer your inquiry though the goal of such a build eludes me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:55 PM - Oct 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong><br/>\nDisarm Traps<br/>\nTo disarm all traps except epic ones requires 16 modified ranks in Disable Traps, non-combat. For the 4 epic traps (Elec/Fire/Frost/Sonic), your toon would need to be rogue first off and then obtain a skill level of 38 with a combo of any/all of the modifiers listed for Open Locks except INT is the ability modifier.  This only accounts for designed traps, not those set by other toons.</div></blockquote>To be noted that the special prohibition involving rogues related to disable traps with DC&gt;35 only applies to disarming a trap. Any class can successfully examine, flag, or recover any trap, provided the skill check is passed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "11:00 PM - Oct 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Evilbrood wrote:</strong>First of all i would like to say Hello to everybody, i'am new on this forum.<br/>\nSecond, can anyone tell me what build would have the highest possible open lock, set/disarm trap skills. For sure the rogue, but cleric has the trickery domain wchich gives him the bonuses to those skills, and of course there is bard with his bard's song wchich also gives bonuses to the skills. How to mix those classes to have those skills highest as possible or is it pointless maybe. I don't care for the ab or ac, just those skills . Thank you in advance.</div></blockquote>Is there perform enhancing gear where you play? If so, what's the maximum bonus you can get to perform? Also, what kind of ability enhancements can you expect to get?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:36 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is also a hard code cap of 127 in any skill and a max of +50 bonuses from spells and items (bard song, trickery domain, lock picks, etc).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:21 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Years ago, I was told that you can disable any traps except epic traps with a modified Disarm Traps score of 16, but recently when I payed the OC, there were some traps that needed a score of 17 or even higher. I wound up diverting pojnts that were planned for other skills to boost Disarm Traps to 20, which might have been a little higher than needed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:49 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>Years ago, I was told that you can disable any traps except epic traps with a modified Disarm Traps score of 16, but recently when I payed the OC, there were some traps that needed a score of 17 or even higher. I wound up diverting pojnts that were planned for other skills to boost Disarm Traps to 20, which might have been a little higher than needed.</div></blockquote>\n\nThere is a synergy bonus between Set Trap and Disable Trap, were you factoring that as well?<br/>\n<br/>\n@Kail, <br/>\n<br/>\nWhat is the Disabling prohibition you speak of?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:12 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>Years ago, I was told that you can disable any traps except epic traps with a modified Disarm Traps score of 16, but recently when I payed the OC, there were some traps that needed a score of 17 or even higher. I wound up diverting pojnts that were planned for other skills to boost Disarm Traps to 20, which might have been a little higher than needed.</div></blockquote>\nIt's not just the Disable Trap level involved.  You must add Take 20 to that as long as it is not during combat.  In combat, you must roll a d20 and add that to Disable ranks.  Therefore, Take 20 plus Disable of 16 = 36.  The most difficult trap DC to disarm are deadly Fire, Electrical &amp; Gas, all set at 36 in vanilla.  DCs can be customized, naturally, in which case you'd need higher scores.  AFAIK all traps in the standard Bioware campaigns follow the standard toolset defaults and there are NO epic traps populated in those campaigns, which would need a rogue to disable anyway.  I've scrubbed the campaign modules pretty thoroughly and except for plot-related placeables I'd be interested to know where you encountered those that have been customized.<br/>\n<br/>\nA less vested way to boost the skill is just via INT modifier which caps at +6 to INT skills like Disable Traps.  With Fox's Cunning (Empowered even better) and Rings of Clear Thought it should be very easy to reach the +12 ability cap even without high INT. In the OC specifically, there are standard roguish skill booster items like Amulet of the Master and Ring of the Rogue (quest reward) usable by all classes to boost all those skills significantly. Probably the toughest trap in the OC is the one in the first floor of Helm's Hold, a deadly version but even that one has been relaxed down to 34 by the design team.  That one requires a modified skill level of only 14.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:15 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\n<br/>\n@Kail, <br/>\nWhat is the Disabling prohibition you speak of?</div></blockquote>\n*with my fake Kail mask on*<br/>\n<br/>\nHe means of all the trap-related skill checks, only Disable Traps require rogue levels to win the epic DCs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:27 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">While we are on the subject of trap disarming traps... <br/>\n<br/>\nThere is question that has never been answered for me and that is the use of the Find Traps spells.  Supposedly, it will disarm all traps within a certain area.  But is there a maximum DC that it will disarm?  Will it also disarm epic traps?  From my own experience, it does not disarm all traps though I cannot be sure if those that were unaffected were flagged as plot because on a PW who the heck knows, right?  So, either it is flagged or the DC is set so outrageously high that it can't be disarmed by the spell.<br/>\n<br/>\nAnybody know if there is a maximum DC affected by Find Traps and if so what is it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "2:33 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\n@Kail, <br/>\n<br/>\nWhat is the Disabling prohibition you speak of?</div></blockquote>Only rogues can detect and disarm traps with a DC&gt;35. This restriction is not applied<br/>\nto examine, flag or recover those traps  though, so even non rogues can do it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:45 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KailPendragon wrote:</strong><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\n@Kail, <br/>\n<br/>\nWhat is the Disabling prohibition you speak of?</div></blockquote>Only rogues can detect and disarm traps with a DC&gt;35. This restriction is not applied<br/>\nto examine, flag or recover those traps  though, so even non rogues can do it.</div></blockquote>\nKail... do you know if that rogue Search check prereq works the same way for hidden doors with DCs over 35?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:54 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What I am saying is that I encountered traps with a DC higher than 36 in the OC. Maybe my copy of NWN is corrupted?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:32 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>What I am saying is that I encountered traps with a DC higher than 36 in the OC. Maybe my copy of NWN is corrupted?</div></blockquote>\n\nI think you got the ECB edition!  Very rare indeed!  used by a select few who actually read the combat logs to find out the true numbers!  Congrats!  Welcome to the club!  My own copy of NWN predates ECB by a year or 2<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Evilbrood",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:59 AM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank You guys for replies. The reason i asked is that locks and traps on a PW i play have very high dc's, like 115, 120 or even higher (according to an information box on the bottom of the screen) and i was just wondering how the hell can i open/disarm them. There are no +10 thieve's tools there, nor even +1, just thieve's tools. Max bonus to dex i can achieve from items is +5 (not counting cat's grace), max bonus to perform from items is +3 as far as i remember. Well thanks again. Cheers mates.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:45 PM - Oct 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would check your PW forum and ask there.  There might be specific lock/trap tools that toons have to use to get at those high DC locks and traps.  Or DM's just placed those high DC's there on purpose with no intention of having anyone open/disarm those settings.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "magaiti",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:08 PM - Dec 02, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is possible to open DC 120+ locks, by a team of 2 lvl 40 characters.<br/>\n<br/>\n - opener: Make a Dexer. Take 38 cleric levels, to get strong Trickery Domain Power. Take Rogue level at clvl 40 for Open Lock skilldump. <br/>\n~15 (assuming 40 dex buffed) + 20(power) + 20(take 20) + 43(rank) + 13 (foci) = ~111. Might be even a decently playable character, if done right.<br/>\n<br/>\n - helper: Basically, make a bard with best song possible. 30+ bard levels, high charisma, foci in Perform. Sing for youself to buff your perform further, then sing for the opener to buff his Open Lock skill. That would be ~15-19 to skill, depending on perform ranks (19 requires 100 perform)<br/>\n<br/>\nWith Disarm Traps things get a bit worse, because it is INT-based.<br/>\nYou could make a different dedicated character, but INT-based cleric-rogue just isn't playable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "12:02 AM - Dec 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>magaiti wrote:</strong>... but INT-based cleric-rogue just isn't playable.</div></blockquote>In as long as it has enough wis to cast spells any cleric is (more than) playable<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:55 AM - Dec 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A trap or lock handling team is not necessary to reach maximum levels.<br/>\n<br/>\nAny single assassin- or rogue-based toon can reach effective skill levels of 127 for Set trap &amp; Open locks &amp; 126 (or 127) for Disable trap on high-magic environments where the the ability and skill caps are reachable, hence:<br/>\n<br/>\nSet trap - A halfling or elven assassin, ranger or rogue or Open lock - A halfling or elven assassin or rogue:<br/>\n13 (DEX 36) + 6 (ability cap) + 43 (max ranks) + 13 (foci) + 50 (skill cap) + 2 (synergy) = 127, which incidentally is the point where DCs begin to regress on the screen display<br/>\n<br/>\nDisable trap - Any race assassin or rogue,<br/>\n12 (INT 34) + 6 (ability cap) + 43 (max ranks) + 13 (foci) + 50 (skill cap) + 2 (synergy) = 126<br/>\n(Note: A rogue/RDD or assassin/RDD could reach 127 w/INT 36 but it would be one butt-ugly build.)<br/>\n<br/>\nSkill boosting via Divine trickery or bard song count towards the skill cap so that is only an optional method of reaching the cap, pretty much a non-factor in high-magic.<br/>\n<br/>\nA custom race, like a PRC one, could potentially raise the starting abilities higher.  Also, elevating the skill cap would allow higher skill levels to be attained and consequently higher toon-set trap DCs.<br/>\n<br/>\nNaturally, when it comes to detection DCs over 35 &amp; disarm DCs over 35, only the rogue class can succeed.  However, should a rogue detect an epic trap (for example) and flag it, a non-rogue in the same party could recover it with adequate skill level.<br/>\n<br/>\nThe highest possible trap DC for a toon-based default trap would be any epic one set by a level 40 halfling or elven assassin, ranger or rogue with capped skill &amp; abilities (as described above) is: 58 + 127 = 185.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

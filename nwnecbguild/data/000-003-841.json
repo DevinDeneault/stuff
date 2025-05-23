@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "841",
+  "name": "(PRC MOD) Psychic Warrior",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/prc-mod-psychic-warrior-t2355116.html",
+  "author": "Vhalyr",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Vhalyr",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:07 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What would you suggest as a prestige class? It's literally the first time i play with the prc...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:19 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, I'm very familiar with 3rd edition prestige classes but not with the PRC adaptation of them, but from what I remember webshaman\u00a0 is quite versed with it, perhaps he can help you more than I. <br/>\n<br/>\nBut, I'm not gonna let you down, going back to our ancestors, here is a build from \"Stravinsky00\" that seems very, very powerful indeed.<br/>\n<details><summary>Spoiler</summary>I have been interested in the Sacred Fist class for a while, and noticed that there weren't any builds for it here, so I figured I'd give one a shot. The key to this build is making your wisdom work some major overtime. As a monk, your wisdom boosts your AC. As a cleric, your wisdom boosts your spell DCs and gives you more spell slots. From the Intuitive Attack feat, your AB is based on your wisdom rather than your strength. And the Sacred Fist ability Sacred Flame adds your wisdom modifier (as well as your Sacred Fist class levels) to your damage for 1 minute (this build can use it 6 times a day). Here is the build:\nYuan-Ti, Lawful Good (must be this alignment)\nDEX 14\nINT 16\nCHA 14\n\n2: Cleric(1) - Magic and Trickery Domains\n4: Monk(3)\n6: Cleric(3) - Combat Casting (need 8 Lore by this point)\n8: Sacred Fist(2)\n10: Sacred Fist(4)\n12: Sacred Fist(6) - Practiced Spellcaster(Cleric)\n14: Sacred Fist(8)\n16: Sacred Fist(10)\n18: Monk(5)\n20: Cleric(4) - (need 20 Lore by this point)\n22: Sacred Fist(12)\n24: Sacred Fist(14) - Great Wisdom I, II\n26: Sacred Fist(16)\n28: Sacred Fist(18) - Epic Spell Penetration\n30: Sacred Fist(20) - Epic Skill Focus(Spellcraft)\n32: Sacred Fist(22) - Great Wisdom III\n34: Sacred Fist(24)\n36: Sacred Fist(26) - Great Wisdom IV, V\n38: Monk(8)\n40: Monk(9)\nFinal Skills: Concentration 43, Discipline 43, Hide 43, Lore 37, Move Silently 43, Spellcraft 42, Tumble 40.\nFrom your monk levels, you also get Cleave, Stunning Fist, Knockdown/Improved Knockdown, Evasion/Improved Evasion, and Purity of Body, and a few other less important ones. It also casts as a level 35 cleric (36 actually do to the bug with casting PrCs giving an extra caster level at the first level of the PrC).\nHere are some statistics. Clothed means some relatively moderate (I think) equipment for a level 40 character: Boots of the Sun Soul +5, Periapt of Wisdom +5, Ring of Protection +5, Robes of the Dark Moon, and Gloves of the Hin Fist +5. Buffed includes all useful clerical buffs as well as the epic spells Epic Mage Armor and Herculean Empowerment and also Sacred Flame.\n<br/><br/><br/><br/><br/>\nAC: 61\nAB (Flurry of Blows): 50/47/44/41/38/35/32/29\nDamage (with Sacred Flame): 1-20 + 2 (strength) + 1-6 (sonic) + 20 (fire) + 20 (divine) = 2-26 + 42\nSpell DCs: 28 + spell level\n<br/><br/><br/><br/>\nAC: 94\nAB (Flurry of Blows): 56/53/50/47/44/41/38/35/32\nSaves: Fortitude 43, Reflex 41, Will 53\n\nWhen dispelled, you will only lose about 6 AB, and since I don't believe Sacred Flame can be dispelled (although I could be wrong) and divine damage is almost never resisted, she'll still pack a wallop. She can cast powerful damaging spells on a group while rapidly pummeling the most powerful enemy to death. She can also sneak in very rapidly, through her own stealth abilities and Improved Invisibility, coupled with Monk Speed. and beat an enemy to death before being seen. And she has extremely high AC, making her very hard to hit. I've only played around with it a bit, but it's fun to watch her dismantle dragons in a single round before they even know what hit them. Anyway, enjoy.\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vhalyr",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:27 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yikes, i already gave up on that idea....using a psionic seems to be extremely hard<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

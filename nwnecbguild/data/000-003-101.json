@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "101",
+  "name": "Wizard Fighter Combo Request",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/wizard-fighter-combo-request-t2354641.html",
+  "author": "Bauer",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Jack Bauer",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:36 AM - Nov 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am looking for a build I can use for a wizard I am making on the Arelith server. Due to limited rests and several factors I would like to mix wizard with fighter for all the weapon and heavy armor feats.<br/>\n<br/>\n Currently the character stands as an elf with the current class outline. 3 wizard, 3 fighter levels and I am looking to maximize the spell Flesh to Stone.\u00a0<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Flesh_to_stone\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Flesh_to_stone</a><br/>\n<br/>\n I look forward to any and all suggestions, would love to see what some of you wizards can do.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:00 AM - Nov 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ouch!\u00a0 Already started leveling it, eh?\u00a0 Not the best sequence of events. You are going to have to furnish at least your starting and current ability spread, your current list of feats chosen and skill total.\u00a0 Alignment shouldn't matter unless you wanted a monk feat/skill dump in there somewhere.<br/>\n<br/>\n But first I need an answer to the same sort of question I just asked in another Arelith topic... Does autostill #1 still require Spellcraft 27 on your server?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Jack Bauer",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:53 AM - Nov 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">14 str<br/>\n 10 dex<br/>\n 17 constitution<br/>\n 21 intelligence<br/>\n 9 wisdom<br/>\n 10 charisma<br/>\n<br/>\n Spell focus transmutation / improved spell focus transmutation. Disarm, combat casting, exotic weapons<br/>\n<br/>\n Skill points for the build don't matter as much due to high intellect score. (Unless they are required.) I have enough points to skill up anything extra I really need but advice on possibly taking a third class or just going straight wizard.<br/>\n<br/>\n As for Autostill, I expect given my high intellect score I assume I will have the required spellcraft to get any feat required.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Rienion",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:54 AM - Nov 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Jack Bauer wrote:</strong><hr/>14 str<br/>\n 10 dex<br/>\n 17 constitution<br/>\n 21 intelligence<br/>\n 9 wisdom<br/>\n 10 charisma<br/>\n<br/>\n Spell focus transmutation / improved spell focus transmutation. Disarm, combat casting, exotic weapons<br/>\n<br/>\n Skill points for the build don't matter as much due to high intellect score. (Unless they are required.) I have enough points to skill up anything extra I really need but advice on possibly taking a third class or just going straight wizard.<br/>\n<br/>\n As for Autostill, I expect given my high intellect score I assume I will have the required spellcraft to get any feat required.</div></blockquote>\n<div align=\"left\"><strong>Automatic metamagic:</strong> Epic skill focus (spellcraft) instead of spellcraft ranks.<br/>\n<br/>\n Don't suspect your high INT will matter too much in regards to the Automatic feats, since all you need to get is Epic Skill Focus (Spellcraft), and then said Auto Feats. But, otherwise, I'd say ....well that's really all I have to say.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:02 AM - Nov 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With that gifting system they use it's hard to give you any specific breakdown.\u00a0 Apparently, the prereqs for the autometamagic feats have been customized so that also adds another variable that can't be quantified using standard AD&amp;D 3.0 toon building (CBC). However, with the spread you've provided, there are some options that only you can decide.<br/>\n<br/>\n Still Spell in pre-epic followed by the 3 auto feats in epic will be a given (no other way to cast in heavy armor otherwise, and a shield makes failure even more likely).<br/>\n<br/>\n With ftr4/wiz16 pre-epic your BAB will be 12 (3 APR, 4APR hasted).<br/>\n<br/>\n You are committed to ImpDisarm and a large weapon w/o a shield else why would take disarm at all?\u00a0 There is no reason.\u00a0 Otherwise it's just a wasted feat. What?\u00a0 maybe a scythe?\u00a0 Not sure why exotic proficiency was stuck in there.\u00a0 Medium weapons and disarm don't mix.\u00a0 I would have gone with a Greatsword for disarm/impdisarm and saved a feat but that's water over the dam now.<br/>\n<br/>\n It's looking like you are going to be trusting in True Strike with your poor AB count.\u00a0 TS can't be stilled but perhaps Silent spell will gain enough slots.\u00a0<br/>\n<br/>\n The other way would be heavier fighter pre-epic to gain more combat feats and BAB 16.\u00a0 That would be wiz8/ftr12 pre-epic to get that extra attack and probably the only way to hit anything without True Strikes in the queue. STR &amp; DEX are way too low to conjure an adequate AB.\u00a0 You could get EWS and Level 9 spells with a final split of wiz17/ftr13 but EWS will need to come very late, probably at Level 30, to get a solid discipline dump.<br/>\n<br/>\n You'll be needing to max conc and discipline, as high a spellcraft level as possible.\u00a0 I suppose Tumble 15 and perhaps another cross-class with Listen. Just about everything else must be cross-classed except a few non-combat skills.<br/>\n<br/>\n The main problem you guys have is no way to dump to a tumble class without committing 3 levels and that will really handicap your alternatives.\u00a0 In other words, something like Wiz24/Ftr5/Mnk1 isn't possible and those other monk levels really do nothing but make your buffs easier to dispel.<br/>\n<br/>\n The proverbial rock and a hard place IMO.\u00a0 If I was forced to try to get something out of this spread I would take 1 more point in CON and INT and the rest into STR. You've got 6 bumps left which will end up STR 18.\u00a0 I wouldn't try to venture any further calculating any Grt STR feats because you will have your hands full fitting 3 autostill feats in plus ICC (else why take CC?), EWF and EWS (I'm assuming you plan to take WF and ImpCrit at some point in pre-epic).\u00a0 Armor Skin and/or Epic Prowess would be nice but think you will run out of feats to get both.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Jack Bauer",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:45 AM - Nov 27, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will accept that I am stupid and had no idea what I am doing but what about this build with a more caster focus? I only took 3 points fighter for the heavy armor / weapon feat. Given I was expecting on the server I was playing with to be unable to cast the proper amount of spells to level and I don't have rest easily accessible. <br/>\n<br/>\n Forget what I already have, I'd just like to turn people to stone and if I can wear plate while I do that, it is a big bonus!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "4:36 PM - Nov 27, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Jack Bauer wrote:</strong><hr/>I will accept that I am stupid and had no idea what I am doing but what about this build with a more caster focus? I only took 3 points fighter for the heavy armor / weapon feat. Given I was expecting on the server I was playing with to be unable to cast the proper amount of spells to level and I don't have rest easily accessible.<br/>\n<br/>\n Forget what I already have, I'd just like to turn people to stone and if I can wear plate while I do that, it is a big bonus!</div></blockquote>\n<div align=\"left\">I don't consider you stupid, just inexperienced.\u00a0 It probably would have been better to ask for suggestions before you painted yourself into a corner.\u00a0 Use this as part of your learning process for your next toon building attempt.<br/>\n<br/>\n I understand what your goal was, but it's tough for us to make suggestions of much value.\u00a0 The FtS spell can be easily countered with high Fort saves or druids that attack using elemental shape. I understand that shifter class had been banned on Arelith (so no basilisk shapes run around the server) but any CoT or high-CHA pally will be able to reduce the success of petrification down to 5% (i.e. only when they roll a 1).\u00a0 Add to that the fact that artillery spell casters and archers will never get caught within the range of this spell and I am dubious about how this plan will succeed, probably only effective against poorly-designed builds or those caught unprepared.<br/>\n<br/>\n I guess if I had to try to survive playing with this build, I'd just go high-mage (you still need to deal with SR) and use Invisibility and Greater Sanctuary to get within spell range.\u00a0 Take all the spell penetration feats you can to deal with opposed SR (will add +6 with epic spell pen).\u00a0 That means pump CON as high as possible in case your spells continue to fail... at least you'll have a high-damage acid sheath for recipro damage while you try to spam more petrify attempts and a large HP pool to take damage (not to mention your own Fort will be much better).\u00a0 Stacks of petrification scrolls are only caster level 5 but you'd still be able to force more saves and SR checks.\u00a0 Start scribing as many as you can afford.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

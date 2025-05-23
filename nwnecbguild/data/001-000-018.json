@@ -1,0 +1,32 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "018",
+  "name": "Raegen Brunegar's shield (Darkness over Daggerford)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/raegen-brunegar-s-shield-darkness-over-daggerford-t2355127.html",
+  "author": "eltalstro",
+  "avatar": "10758878_1582351977.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "4:57 AM - Aug 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Does anyone know if it is possible to add Raegen's shield to the customize character override so you can use the design yourself? Or does anyone know if there are some decent looking deity shields available somewhere?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:04 PM - Aug 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just like I have sent people from there to here to talk about builds, this looks like a question that would be a better fit for the vault forums: <a class=\"postlink\" href=\"https://forum.neverwintervault.org/\" rel=\"noreferrer\" target=\"_blank\">https://forum.neverwintervault.org/</a>\u00a0 You have a much better chance of getting a solution there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "11:40 PM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You would have to extract the model and add it in a hak. CCOH may be able to read it without editing .2da files but it would depend on the module you are playing and the haks it has.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "821",
+  "name": "Need help with a Halfling weaponmaster build.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/need-help-with-a-halfling-weaponmaster-build-t2355118.html",
+  "author": "Sucy",
+  "avatar": "10759119_1564073093.jpg",
+  "replies": 79,
+  "posts": [
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "7:12 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I recently was gifted NWN:EE by a friend so I could join his group of dnd friends to play through all 3 campaigns, and have been looking for a build that incorporates halfling and weaponmaster. So far the only build I've really been able to find is <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/roguishly-critical-halfling-master-ftr11-wm28-ro1-t2354408.html\" rel=\"noreferrer\" target=\"_blank\">roguishly-critical-halfling-master-ftr1 ... 54408.html</a> but I prefer using exotic weapons like katana or bastard swords. Can anyone update this guide or have a new one with similar weapons/feats? It would be greatly appreciated as I don't have much dnd/nwn knowledge yet.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:38 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Sucy, and welcome!<br/>\n<br/>\nCutting quickly to the chase, there are a couple of issues here. Halflings are only wee things, so will have to wield katanas or bastard swords 2-handed (much as Theophilus Fist's build focus on scimitar does), thus impacting their Armour Class as they can't use a shield. What scimitar brings is a better chance of attaining a critical hit than either of the two you mention. Also, you'd need to take Exotic Weapon Proficiency as a feat, and it's hard to see what you might sacrifice here - particularly given that you already don't have Blind Fight.<br/>\n<br/>\nThe second thing - which might actually be of help here - is that if you're only going to be playing the OC, SoU and HotU (although you shouldn't play the latter 2 from the end of the OC, as SoU is also designed to be started at level 1, and you'll be ending the OC at around level 17/18, so it will be intensely dull - I know, I've done it myself) you won't go beyond level 28 (the aforementioned 17/18 in the OC). That means you won't reach Devastating Critical, so you won't need rubbish feats like Great Cleave, thereby giving a bit more freedom in your pre-epic feats.<br/>\n<br/>\nHowever, should you and your friends wish to go all the way to level 40 and fully realise your builds, we're more than happy to give a recommendation or two. I'll confess, though - and I know it's not a weapon master - I'd be tempted to point you to one of Mick's builds here...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/halfling-champion-rogue-20-fighter-6-cot-14-t2354370.html\" rel=\"noreferrer\" target=\"_blank\">Halfling Champion</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "8:50 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nHello Sucy, and welcome!<br/>\n<br/>\nCutting quickly to the chase, there are a couple of issues here. Halflings are only wee things, so will have to wield katanas or bastard swords 2-handed (much as Theophilus Fist's build focus on scimitar does), thus impacting their Armour Class as they can't use a shield. What scimitar brings is a better chance of attaining a critical hit than either of the two you mention. Also, you'd need to take Exotic Weapon Proficiency as a feat, and it's hard to see what you might sacrifice here - particularly given that you already don't have Blind Fight.<br/>\n<br/>\nThe second thing - which might actually be of help here - is that if you're only going to be playing the OC, SoU and HotU (although you shouldn't play the latter 2 from the end of the OC, as SoU is also designed to be started at level 1, and you'll be ending the OC at around level 17/18, so it will be intensely dull - I know, I've done it myself) you won't go beyond level 28 (the aforementioned 17/18 in the OC). That means you won't reach Devastating Critical, so you won't need rubbish feats like Great Cleave, thereby giving a bit more freedom in your pre-epic feats.<br/>\n<br/>\nHowever, should you and your friends wish to go all the way to level 40 and fully realise your builds, we're more than happy to give a recommendation or two. I'll confess, though - and I know it's not a weapon master - I'd be tempted to point you to one of Mick's builds here...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/halfling-champion-rogue-20-fighter-6-cot-14-t2354370.html\" rel=\"noreferrer\" target=\"_blank\">Halfling Champion</a>\n</div></blockquote>\n\nThank you for the reply! I just really like the halfling race and the idea of using a one handed weapon as a two handed, always been a fan of niche builds and aesthetically it's just up my alley. I was trying to piece together a build myself using stuff I've found here as a sort of guide, but I'd figure I should ask as well so I don't become a huge burden in our group's playthrough. From what I understand I think we do plan on going to 40 eventually, everyone is just working out their classes before we start tomorrow or the weekend. I will take a look at the build you posted as well!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:58 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here are two Halfling Weapon Masters I just made for you.\u00a0 One uses the scimitar because the Weapon Master is all about those critical hits, and no weapon has a better critical hit threat range than the scimitar (rapiers and kukris have the same, but not better).\u00a0 The other dual-wields kukris, and gets Epic Dodge.<br/>\n<br/>\nIf you are not going to eventually play Sands of Fate, where Spot is really nice to have, train Listen instead of Spot to take advantage of the Halfling's Skill Affinity: Listen.<br/>\nHin Slicer\n<details><summary>Spoiler</summary>\nHin Slicer (Rogue 9 / Fighter 24 / Weapon Master 7)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 14\nWIS: 8\nCHA: 8\nLeveling Guide:\n01: Rogue(1): Luck of Heroes\n03: Fighter(2): Power Attack, Cleave\n05: Fighter(4): Weapon Specialization: Scimitar\n07: Fighter(6): Knockdown\n09: Fighter(7): Improved Knockdown\n11: Fighter(9)\n13: Rogue(3): {Uncanny Dodge I}\n15: Fighter(12): Improved Critical: Scimitar, Expertise\n17: Fighter(14): Whirlwind Attack\n19: Weapon Master(1): Weapon of Choice: Scimitar\n21: Weapon Master(3): Epic Weapon Focus: Scimitar\n23: Weapon Master(5)\n25: Weapon Master(7)\n27: Fighter(16): Great Strength II, Epic Weapon Specialization: Scimitar, (STR=22)\n29: Fighter(17)\n31: Fighter(19)\n33: Rogue(6): Great Strength IV, (STR=26)\n35: Fighter(22): Armor Skin\n37: Fighter(24): Epic Prowess\n39: Rogue(8): Great Strength VI, (STR=29)\n\nHitpoints: 484\nSaving Throws (Fortitude/Will/Reflex): 25/16/25\nBAB: 29\nAC (naked/mundane armor/shield only): 23/32\nAlignment Changes: 0\nSkills:\n\n02: Discipline(5), Save(15)\n04: Discipline(1), Save(21)\n06: Discipline(1), Save(27)\n08: Disable Trap(7), Search(7), Spot(7), Tumble(7), UMD(7), Save(5)\n10: Discipline(1), Save(10)\n12: Discipline(1), Save(16)\n14: Discipline(2), Save(3)\n16: Discipline(1), Save(9)\n18: Disable Trap(5), Search(5), Spot(2), Tumble(5), UMD(5)\n20: Discipline(1), Spot(3)\n22: Discipline(1), Save(6)\n24: Discipline(1), Save(12)\n26: Discipline(1), Save(18)\n28: Disable Trap(5), Search(9), Tumble(9), UMD(8)\n30: Discipline(1), Save(5)\n32: Discipline(1), Save(11)\n34: Discipline(2), Save(2)\n36: Discipline(1), Save(8)\n38: Disable Trap(5), Search(8), Spot(3), Tumble(5)\n40: Lore(7), Spot(3)</details>\n\nHin Dicer\n<details><summary>Spoiler</summary>\nHin Dicer (Rogue 13 / Fighter 20 / Weapon Master 7)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 17 (32)\nWIS: 8\nCHA: 8\nLeveling Guide:\n01: Rogue(1): Dodge\n03: Fighter(2): Weapon Proficiency Exotic, Weapon Focus: Kukri\n05: Fighter(4): Weapon Specialization: Kukri\n07: Fighter(6): Knockdown\n09: Fighter(7): Two-Weapon Fighting\n11: Fighter(9)\n13: Rogue(3): {Uncanny Dodge I}\n15: Fighter(12): Improved Critical: Kukri, Spring Attack\n17: Fighter(14): Expertise\n19: Weapon Master(1): Weapon of Choice: Kukri\n21: Weapon Master(3): Epic Weapon Focus: Kukri\n23: Weapon Master(5)\n25: Weapon Master(7)\n27: Fighter(16): Great Dexterity II, Epic Weapon Specialization: Kukri, (DEX=25)\n29: Fighter(17)\n31: Rogue(6)\n33: Rogue(8): Great Dexterity IV, (DEX=29)\n35: Rogue(10): Improved Evasion\n37: Rogue(11)\n39: Rogue(13): Epic Dodge, Defensive Roll\n\nHitpoints: 428\nSaving Throws (Fortitude/Will/Reflex): 23/15/33\nBAB: 29\nAC (naked/mundane armor/shield only): 32/34\nAlignment Changes: 0\nSkills:\n\n02: Discipline(5), Save(15)\n04: Discipline(1), Save(21)\n06: Discipline(1), Save(27)\n08: Disable Trap(7), Search(7), Spot(7), Tumble(7), UMD(7), Save(5)\n10: Discipline(1), Save(10)\n12: Discipline(1), Save(16)\n14: Discipline(2), Save(3)\n16: Discipline(1), Save(9)\n18: Disable Trap(5), Search(5), Spot(4), Tumble(5), UMD(3)\n20: Discipline(1), Save(5)\n22: Discipline(1), Save(11)\n24: Discipline(1), Save(17)\n26: Discipline(1), Save(23)\n28: Disable Trap(10), Search(10), Tumble(9), UMD(7)\n30: Discipline(1), Save(5)\n32: Disable Trap(1), Search(1), Spot(3), Tumble(5)\n34: Disable Trap(1), Search(1), Spot(7), UMD(1)\n36: Discipline(6)\n38: Lore(8), Spot(1), UMD(1)\n40: Discipline(4)</details>\nBTW: Hin is an in-world slang term for Halfling.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "11:25 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nHere are two Halfling Weapon Masters I just made for you.\u00a0 One uses the scimitar because the Weapon Master is all about those critical hits, and no weapon has a better critical hit threat range than the scimitar (rapiers and kukris have the same, but not better).\u00a0 The other dual-wields kukris, and gets Epic Dodge.<br/>\n<br/>\nIf you are not going to eventually play Sands of Fate, where Spot is really nice to have, train Listen instead of Spot to take advantage of the Halfling's Skill Affinity: Listen.<br/>\nHin Slicer\n<details><summary>Spoiler</summary>\nHin Slicer (Rogue 9 / Fighter 24 / Weapon Master 7)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 14\nWIS: 8\nCHA: 8\nLeveling Guide:\n01: Rogue(1): Luck of Heroes\n03: Fighter(2): Power Attack, Cleave\n05: Fighter(4): Weapon Specialization: Scimitar\n07: Fighter(6): Knockdown\n09: Fighter(7): Improved Knockdown\n11: Fighter(9)\n13: Rogue(3): {Uncanny Dodge I}\n15: Fighter(12): Improved Critical: Scimitar, Expertise\n17: Fighter(14): Whirlwind Attack\n19: Weapon Master(1): Weapon of Choice: Scimitar\n21: Weapon Master(3): Epic Weapon Focus: Scimitar\n23: Weapon Master(5)\n25: Weapon Master(7)\n27: Fighter(16): Great Strength II, Epic Weapon Specialization: Scimitar, (STR=22)\n29: Fighter(17)\n31: Fighter(19)\n33: Rogue(6): Great Strength IV, (STR=26)\n35: Fighter(22): Armor Skin\n37: Fighter(24): Epic Prowess\n39: Rogue(8): Great Strength VI, (STR=29)\n\nHitpoints: 484\nSaving Throws (Fortitude/Will/Reflex): 25/16/25\nBAB: 29\nAC (naked/mundane armor/shield only): 23/32\nAlignment Changes: 0\nSkills:\n\n02: Discipline(5), Save(15)\n04: Discipline(1), Save(21)\n06: Discipline(1), Save(27)\n08: Disable Trap(7), Search(7), Spot(7), Tumble(7), UMD(7), Save(5)\n10: Discipline(1), Save(10)\n12: Discipline(1), Save(16)\n14: Discipline(2), Save(3)\n16: Discipline(1), Save(9)\n18: Disable Trap(5), Search(5), Spot(2), Tumble(5), UMD(5)\n20: Discipline(1), Spot(3)\n22: Discipline(1), Save(6)\n24: Discipline(1), Save(12)\n26: Discipline(1), Save(18)\n28: Disable Trap(5), Search(9), Tumble(9), UMD(8)\n30: Discipline(1), Save(5)\n32: Discipline(1), Save(11)\n34: Discipline(2), Save(2)\n36: Discipline(1), Save(8)\n38: Disable Trap(5), Search(8), Spot(3), Tumble(5)\n40: Lore(7), Spot(3)</details>\n\nHin Dicer\n<details><summary>Spoiler</summary>\nHin Dicer (Rogue 13 / Fighter 20 / Weapon Master 7)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 17 (32)\nWIS: 8\nCHA: 8\nLeveling Guide:\n01: Rogue(1): Dodge\n03: Fighter(2): Weapon Proficiency Exotic, Weapon Focus: Kukri\n05: Fighter(4): Weapon Specialization: Kukri\n07: Fighter(6): Knockdown\n09: Fighter(7): Two-Weapon Fighting\n11: Fighter(9)\n13: Rogue(3): {Uncanny Dodge I}\n15: Fighter(12): Improved Critical: Kukri, Spring Attack\n17: Fighter(14): Expertise\n19: Weapon Master(1): Weapon of Choice: Kukri\n21: Weapon Master(3): Epic Weapon Focus: Kukri\n23: Weapon Master(5)\n25: Weapon Master(7)\n27: Fighter(16): Great Dexterity II, Epic Weapon Specialization: Kukri, (DEX=25)\n29: Fighter(17)\n31: Rogue(6)\n33: Rogue(8): Great Dexterity IV, (DEX=29)\n35: Rogue(10): Improved Evasion\n37: Rogue(11)\n39: Rogue(13): Epic Dodge, Defensive Roll\n\nHitpoints: 428\nSaving Throws (Fortitude/Will/Reflex): 23/15/33\nBAB: 29\nAC (naked/mundane armor/shield only): 32/34\nAlignment Changes: 0\nSkills:\n\n02: Discipline(5), Save(15)\n04: Discipline(1), Save(21)\n06: Discipline(1), Save(27)\n08: Disable Trap(7), Search(7), Spot(7), Tumble(7), UMD(7), Save(5)\n10: Discipline(1), Save(10)\n12: Discipline(1), Save(16)\n14: Discipline(2), Save(3)\n16: Discipline(1), Save(9)\n18: Disable Trap(5), Search(5), Spot(4), Tumble(5), UMD(3)\n20: Discipline(1), Save(5)\n22: Discipline(1), Save(11)\n24: Discipline(1), Save(17)\n26: Discipline(1), Save(23)\n28: Disable Trap(10), Search(10), Tumble(9), UMD(7)\n30: Discipline(1), Save(5)\n32: Disable Trap(1), Search(1), Spot(3), Tumble(5)\n34: Disable Trap(1), Search(1), Spot(7), UMD(1)\n36: Discipline(6)\n38: Lore(8), Spot(1), UMD(1)\n40: Discipline(4)</details>\nBTW: Hin is an in-world slang term for Halfling.\n</div></blockquote>\n\nThank you very much! I'm going to take a guess and say that using bastardswords/katanas are just not really viable or feasible? If that's the case then I will just use the scimitar builds I think, as it's probably the closest to those aesthetically and I really liked the way bastardswords looked in nwn from what I've seen. Also will remember, was wondering what Hin was referring to every time I looked through halfling threads, ahah.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:48 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can't believe my eyes!<br/>\n<br/>\nSucy, welcome to the guild &amp; I must say, Empyre must really like you,(he is not the only one of course, we all do) <br/>\n<br/>\nfor he actually took the time to give two good names for his builds, instead of the usual \"halfing, lots of cuts, No 27\" &amp; \"halfing, one strike - one cut, No 16\" <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n~ you'll forgive my playfull nature this time, some black label, can do that, in a good way ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "12:35 AM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nI can't believe my eyes!<br/>\n<br/>\nSucy, welcome to the guild &amp; I must say, Empyre must really like you,(he is not the only one of course, we all do) <br/>\n<br/>\nfor he actually took the time to give two good names for his builds, instead of the usual \"halfing, lots of cuts, No 27\" &amp; \"halfing, one strike - one cut, No 16\" <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n~ you'll forgive my playfull nature this time, some black label, can do that, in a good way ;)\n</div></blockquote>\nThank you! Everyone is so nice here, it's really a change of pace from most forums I've read through in the past. I'll be back tomorrow for sure to read and test stuff out, just need to get some sleep as it's really late here!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:51 AM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You just caught us on a good day, Sucy. Normally we're vile beasties (except me, of course) <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nOh, and good call on the tipple, Valerfor!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:27 AM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">To use a bastard sword or katana instead of scimitar, take Power Attack at level 1, take Weapon Proficiency Exotic at level 2, and take Weapon Focus\u00a0 (and Cleave) at level 3, leaving tghe rest of the build the same, except replacing every reference to scimitar with bastard sword (or katana).<br/>\n<br/>\nHowever, this would make the build not quite as good.\u00a0 You would have fewer critical hits, so you do less damage, and have fewer attempts at the Dev Crit instant kill.\u00a0 Your save throws would also be 1 point lower because you would lose Luck of Heroes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "12:55 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks everyone, I will be testing out the above builds in a few minutes! I guess as a side question, how important is the expertise feat? The people I am playing with suggested I take it for a melee character but I noticed it wasn't listed here.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:28 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is very important but, not so much in modules as in persistent worlds. The more challenging the environment is, the lower the magic level of it, the more feats like expertise, worth it. <br/>\n<br/>\nExpertise doesn't mean much in a module where you can find +15 full plate. In other words, the difference of going from 90AC to 95AC isn't worth it as much as going from 60AC to 65AC, the latter is going to be way more impactful.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "1:42 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahh alright, that makes sense. I couldn't really find room to fit it in the build listed above anyway but I will keep that in mind for future builds then.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:43 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Erm, I think you'll find it in both Empyre's builds (at level 15 in Slicer and 17 in Dicer). One reason I knew it would be there is that it's one the feats you have to take to qualify for Weapon Master. More generally, how useful it is will by and large depend where you play. Most of the time it's a \"could have\" feat rather than a \"must have\" one in modules, but more of an essential in persistent worlds.<br/>\n<br/>\nEDIT: Ninja'd by Valerfor, but I'll let this one stand as well<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:18 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh wow you're right, I didn't see it there.. Well I feel extra silly now. I blame it being on the far right side, hiding itself from my eyes, rather than my own fault..!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:34 PM - Jul 26, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Quite right Sucy - deny everything!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:43 AM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nQuite right Sucy - deny everything!\n</div></blockquote>\n\nIt works every time , well almost <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:39 AM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now Imagine Sucy playing the \"Dicer/Slicer\" &amp; name him Gordon Ramsay...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:16 PM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahah, I'm currently running Empyre's slicer build with the bastard sword and our group is currently finished with Act 1! I like it a lot so far, very fun. I will definitely be doing the dicer build once we finish with our first characters or if the lack of devastating crits from bastard sword become too much. <br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/8oGFo4w.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:15 PM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Glad all is going well, Sucy! Still, Neverwinter really does have some seriously crappy hats, doesn't it (yes, even the stag one)?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "3:33 PM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very true, hoping there is better stuff in the later chapters! I do think stag helm fits her the best so far though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:49 PM - Jul 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Keep your eyes peeled for the Golden Circlet in chapter 2. It gives immunity to mind-affecting spells, which is brilliant - so don't let any of your friends nick it. It'll either come as a random drop (and you might get it several times) or you can buy it from Eltoora in Port Llast, but it does cost a lot. And it looks okay, too.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "3:16 PM - Jul 28, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Will do! I found a thieves helmet at the rogue merchant as well, seemed really nice but not as cute as the stag horns. Knock down and poison immunity along with other neat stuff, so I might try to buy one of those if I get enough gold.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:49 PM - Jul 28, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Antlers, please. Rhinos and those bloody bouncy antelopes have horns - we have antlers. Some of us take it personally, you know! And the number of tines matters as well, btw. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "12:28 PM - Jul 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oops, I mean antlers. Please forgive me! Also surprisingly haven't died once yet in our play through, miraculously survived a trap that left me with 1 health too.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:03 PM - Jul 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good stuff, Sucy! Not dying is always a good thing - and that Empyre chappie does make some very fine builds, which will also help. Just as a btw, what sort of builds are your friends going with?<br/>\n<br/>\nDo please keep us updated - and let us know if you run into any problems: we've enough accumulated wisdom to offer aid in most situations.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "9:30 PM - Jul 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Currently in Act 2 still, we just finished the quest in the wood realm and defeated the Spirit! I don't know what exactly the group composition is class wise, but I know for sure we have a wizard, cleric and some weird wizard melee hybrid thing. He always has to get naked to cast his buffs which I always find mildly amusing. I am constantly on trap duty which has been pretty fun too! Still no deaths but the monsters are starting to hit much harder even with stone skin. Can't wait to take expertise for extra AC and be a little more tanky.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:35 PM - Jul 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The weird wizard melee hybrid thing could well be a spellsword or exalted sorcerer type - others here know much more about them than I do. I hope you only defeated the Spirit of the Wood and didn't kill him - sometimes it can be hard not to, but it's never a happy feeling. Did you do the troll/ogre caves on your way there, as well as rescuing the druids en route? Have you just got Charwood left before heading to Luskan, or the northern caves as well? I take it you've picked up the bounty hunt, the Serpent's gems and the quest for Eltoora's books as well - together with the fun to be had at the Green Griffin Inn.<br/>\n<br/>\nI've never played the OC in a party before, but reckon to be finishing chapter 2 at around level 14 solo, so you'll get Expertise during chapter 3. But by then you'll have started inflicting sufficient damage and hitting much more regularly yourself, so the feat becomes less necessary (except for its requirement for WM). And don't let the others take advantage of you being the tank - you're the one keeping them from harm, remember, so get demanding of buffs and so on, lest their own squishy backsides get splatted!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:10 AM - Jul 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nThe weird wizard melee hybrid thing could well be a spellsword or exalted sorcerer type \n</div></blockquote>\nIt might as well be a bard <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /> \u2694<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:00 AM - Jul 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Some very solid advice here from Stag - I am learning things too<br/>\n<br/>\nIn future I will try to wear clothing or robes when I cast my buffs when I play Mogheiden (a very strong bard build)! (It's only 1gp.)\u00a0<br/>\n<br/>\nI honestly thought no one was looking on the isle of Ruskis...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:20 PM - Jul 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We did not kill him, just defeated! And yes we did all of those other quests as well, was pretty fun. I think the buffs I normally receive are bull's strength, stone skin and magic weapon +2. I have a lot of weight capacity as well so I usually have to carry all the loot for the party. Not sure if we'll get to play today since one person might not be able to get on, but if we do I'll definitely update later tonight!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "12:43 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bad news, the friend hosting our save file said his computer got a BSoD and now his game is corrupted. Upon reinstalling he said our save file was gone, even though he backed it up. :( So we might have to start over which is a bummer. We just finished the dungeon below the inn too, super bummed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:46 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's too bad Sucy, I feel for you since it has happened to me as well.<br/>\n<br/>\nMaybe OC is cursed &amp; you need to change module to Aielund (which is vastly better), next time ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:12 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I agree with Valerfor, however, if you do go for Aielund, remember it's a non Devastating Critical environment, so we get more feats to play with in the Slicer build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "3:26 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks guys, we're still debating on what to do before starting again on the weekend. I'll ask to see if they want to run Aielund instead as well! I'm just a little sad since the group wants to change roles this time, and they want me to play a tank/cleric now since someone else wants to do rogue. Would you happen to have any recommendations for a tank class, incase I do not get to play my Hin WM?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:27 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know I'd go for a Dwarven Defender every day of every week as a tank, and stuff the Cleric - if they want one, they can play it. Others will have different opinions, of course. We'll have the discussion before I offer a build or two, should you be interested.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "6:25 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dwarven defender sounds interesting, I'm guessing it's super tanky? I don't mind doing buffs/heals as well but if it's better to just play a dwarven defender I am all ears to your advice!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:03 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, here are a couple of DwDs for you - I've played both and thoroughly enjoyed them. The first is Valerfor's re-tooling of the Dwarven Wall, and the second is my re-working of Grizzled Dwarflord's Hearth Guard - just follow Hip's link to my reconstruction from the first post you get from the link.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-dwarven-wall-revised-t2350205.html\" rel=\"noreferrer\" target=\"_blank\">Revised Dwarven Wall</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-dwarven-wall-revised-t2350205.html\" rel=\"noreferrer\" target=\"_blank\"></a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/hearth-guard-fighter-8-cot10-dwarven-defender-22-t2354692.html\" rel=\"noreferrer\" target=\"_blank\">Hearth Guard</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:15 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Essentially, as a tank, your job is to keep the baddies busy while your friends rip them to pieces - it ain't a glory role. This means, first, pulling them to you. Then it's one of two things: either not getting hit, or recognizing you will get hit but being big and ugly enough to deal with it. A good Dwarven Defender could be either, but both of the above builds are about shrugging off damage while more than capable of dishing it out. Gandalf on a bridge, meh, amateur. \"You shall not pass!\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:28 PM - Aug 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In fact, here's Valerfor's Dwarven Wall at level 40 - with gear but no buffs.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/AJzqcoI.png\" /><br/>\n<br/>\n(Oh, and another ugly hat)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:19 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, nice builds and all...<br/>\nBeing more than 6 feet tall in real life, I have to admit that I have a problem identifying with dwarves. Drinking ale and growing a beard doesn't help, even if it hurts my charisma. Maybe I'm to tall for the beard to really touch the floor, and getting that stonecunning.<br/>\nSo instead of playing a dwarven defender, I shave, have a glass of wine, and play an elven aggressor.<br/>\nSomething like the Kama Shinobi, the Death Shadow, the Ghost or some Arcane archer. <br/>\nOh, I do play gnomes and hins too. But they are not stocky and short, they just are petite, and that's far more proportionate, and by all means, they don't boast about it.<br/>\nI don't know about you Sucy, but if I were you, I would speak up and claim the right to be something better than a meat-shield. <br/>\nRant ends.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:31 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Someone's let Mick out of his box - hurrah!<br/>\n<br/>\nAnd you're right. And taller than me (still, interesting that you can identify with hins but not dwarfs...). But I bet I weigh more than you. And it just makes you easier to hit. I was only going for personal preferences in build types - though I do have an abiding love for your Kama-Shinobi - even though it's not exactly a tank, is it?<br/>\n<br/>\nEncourages further rant...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:53 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Being a tank means standing there swarmed by angry foes and trying to shrug it off, drinking the necessary heal potion now and then. <br/>\nThere are other ways of crowd control. Here are some:<br/>\nYou can let some other party member be the tank and focus on the killing instead. After all, somebody has to do that too.<br/>\nYou can be a speed demon and leave the crowd behind somewhere in a killing field of your choice.<br/>\nYou can stealth and choose a tactical position for your attacks, and you can hide again and repeat.<br/>\nYou can stop your foes with spells, traps, stuns, paralysis and called shots while making them suffer your lethal attacks.<br/>\nYou can kill them so fast that they don't have the time to hurt you.<br/>\nYou can cast spells on yourself that hurts them badly every time they hit you. That may look like being a tank, but differs in that they kill themselves just by beating on you.<br/>\nOh, I did mention Time stop, didn't I?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:12 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You're right as ever, my gigantic friend. But the question wasn't about crowd control, or you clever souls would be on your trapping shenanigans. It was about tanks. I've said it before, Mick, but you solo too much! (Says the man yet to join a PW) And just as a btw, you followed Mirnaia's adventures with Truesilver's Hand, did you not? A sneak immune, HiPS-ing, Epic Dodging, mind spell-immune Dwarf. And as for Time St......<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:33 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">LOL, life has so much more to offer than being, or playing; a tank.<br/>\nSucy wanted to play a weapon master. Now she is sad because the group plans to change roles and wants her to be the tank. I just told her to stand up and claim her right to play something more...well something else.<br/>\n<br/>\nOh, by the way (and for the record) - I do play frontliners too. Look no further than my Brawler Champion series. <br/>\nBut it can be no secret that I also enjoy playing a fast killing Weapon Master, like my Kukri Saint.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:21 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You know full well that I have hugely enjoyed playing both your Brawler Champion and Kukri Saint, so don't try that on with me, sunshine!<br/>\n<br/>\nAnd I agree that it's rotten that Sucy's so-called friends are pushing her/him into a role they don't want - that's why I said to blow raspberries at Cleric (well, alright, it's <em>one</em> of the reasons) as well. And so we began this little exchange...<br/>\n<br/>\n(Frankly, I'm surprised no-one's yet suggested a Pale Master or Dex Monk)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:22 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heh, she can be a Cleric/Tank alright, as long as it is a Cleric 17/ Fighter 4/ Wm 19, with natural 44 AB &amp; Greataxe with X4 criticals...<br/>\n<br/>\n\"The darkness presses upon my very soul, but I feel no fear, Tempus walks with me...\" Great Mith ;)<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build197595.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 97595.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:07 AM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And Mith also gives us a Dwarf variant.<br/>\n<br/>\nJust saying...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:45 PM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That was a lot to take in, thanks everyone for chiming in! And I think I'm probably going to have to go back and re-read everything a few more times to make a solid decision. I really like my hin slicer the most so far, it is really fun to play and aesthetically nice too! I think worst case scenario is if the group doesn't want me to bring it, I can always replay the campaign solo with that character which I don't mind at all. I'm okay with playing whatever I guess, so long as everyone else is happy, ahah. From what I understand they wanted me to run some levels in cleric so I can buff them while cross classing into something tanky to be a shield afterwards. My nwn/dnd knowledge is still reaaaally low so I'm mostly relying on everyone's input here while learning how it works in-game!<br/>\n<br/>\nThe first build Stag posted looked pretty straight forward and easy to follow even for me, but I'm going to go through all of them within the next hour or two since we still have time before starting the next campaign.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:49 PM - Aug 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You could also go the other way from what Stag suggested and embrace the Cleric and snub the tank role.\u00a0 A pure or nearly pure Cleric can be quite the powerhouse.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:09 PM - Aug 05, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I looked into cleric a bit, seems like there's a -lot- of spell management if you\u00a0 go full or heavily into cleric. Looks like I need to sit down and look through them a bit. I was leaning towards the first build Stag posted since it was pretty straight forward but I may see if I can combine the two some how.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "9:52 AM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Mmm, think I will try full cleric some other time once I finish a full campaign or so, there's so many spells I don't even know which to take ahaha.\u00a0 I was looking through other classes and the paladin has a few buffs/spells like holy weapon and resist elements, which seems like it would be much easier to handle for me. Is it possible to play a DwD/Paladin for a melee tank/buffer? If not I think I will just try the original DwD build that Stag posted here and hope the group is okay with it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:07 AM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">*sneaks in and whispers* Later on, when you're getting bored with playing the scripted campaigns, you should join a Persistant World such as Blackstone Keep, which is easy to learn at low-level and extremely challenging at high-level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:11 AM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about the old classic, <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build243768.html\" rel=\"noreferrer\" target=\"_blank\">Blood and Faith</a>?<br/>\n<br/>\nOr a <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build247143.html\" rel=\"noreferrer\" target=\"_blank\">Hierophant of Velsharoon</a> would be another tanky Cleric.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:32 PM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you like Blood and Faith by Mith and you want to play in a party, I may as well suggest my own <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/spirit-and-steel-cleric-24-bard-16-t2354305.html\" rel=\"noreferrer\" target=\"_blank\">Spirit and Steel</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "5:57 PM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahhh so many builds to choose from now, this is gonna be tough. I'll try to figure out which would work best, but I have one question. Are humans just the better race to play? For the extra feat and stuff. I personally prefer to play something like hin/dworf as I'm 4'11 irl, so just curious if that would hinder the build much or not.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:07 PM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Humans are good to use because of the extra skill and feat, and also the favored class any, that makes multiclassing easier.<br/>\nBut the other races have other advantages.  So what is best depends on what you want to build/ play.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "6:16 PM - Aug 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Aha, alright. So if I were to use my prefered race for a build that uses human, I suppose it would be suboptimal. I will keep that in mind!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:43 PM - Aug 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah Sucy, and there are two exceptions to the rules.<br/>\n<br/>\nArcane Archers, need to be Elves or Half-Elves &amp; Dwarven Defenders, need to be Dwarves, there is no way around those two.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "8:53 PM - Aug 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the heads up! Didn't know that about Arcane Archers, but Dwarven Defender was kind of a given even for me, ahah. I am currently using your Revised Dwarven Wall build to try and theory craft a build that can satisfy the group and myself.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "12:41 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've manage to convince the group to try Aielund this time. Seems none of them have played through it either so it should be interesting to see how we do. Is there any thing in particular I should take in my build that's specific to Aielund campaign?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:12 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Devastating critical is disabled - make sure any build doesn't have it and/or adjust your feats accordingly.<br/>\n<br/>\nIts a little biased towards good characters that being said I have finished a play through with an evil character and it was fun.<br/>\n<br/>\nThe other ECB players will have more to tell you I'm sure, been a few months since I've opened Aielund<br/>\n<br/>\nI'm sure you will enjoy Aielund, its a very nice set of modules<br/>\n<br/>\nHope that helps<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:15 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh and don't worry about being 'dispelled' there was only one monster I encountered in Act 4 part 3 which dispelled me\u00a0<br/>\nThat's all I can think of<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:25 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Aielund campaign takes you to level 37 or thereabout, so make sure that you plan for an epic build.<br/>\nAielund uses the EMS hak (enhanced magic system). It changes many spells. Some people like it, others rather want what they are used to. I have played a couple of sorcerers through the full campaign, both solo and in a party, and had no problems with that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:49 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, thanks a bunch for the tips! Glad I asked before hand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:14 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If it helps at all, have a look at the Aielund thread in the Modules forum. And iirc, on page 13 of that thread is a full breakdown of how the EMS works: what spells are changed and so forth.<br/>\n<br/>\nFor my money, it's far and away the best of the modules out there. Some will argue that Swordflight is more challenging, but the story arc of Aielund is second to none.<br/>\n<br/>\nOne thing (among many) I don't know is how the Aielund Enhanced Edition meshes with the Beamdog Enhanced Edition. Others may be able to offer advice.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "7:31 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ohh okay, I will definitely check that out as well. I still haven't even downloaded it yet but I will once I figure out what I'm going to play and stuff. Thank you again!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:09 PM - Aug 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have NWN EE, my Aielund would crash frequently during single player which was a pain, I would be saving my game, both vanilla and quicksave very frequently (ie before every area transition)<br/>\n<br/>\nThat being said Beamdog recently released a new patch on Steam to try to improve stability. This is from the patch notes<br/>\n<blockquote><div>From:\u00a0<a class=\"postlink\" href=\"https://steamcommunity.com/games/704450/announcements/detail/1601511973011879979\" rel=\"noreferrer\" target=\"_blank\">https://steamcommunity.com/games/704450 ... 3011879979</a><br/>\n<br/>\nC++: Thousands of cases of undefined behaviour have been addressed. A lot of code duplication has been removed in the process.</div></blockquote>\nI think if you use Steam it will automatically update your NWN EE so you may not have to worry about it. Not sure how it would work in GoG.com<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:03 AM - Aug 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sucy, I understand your party was interested in a 'Buffing Tank' build.\u00a0<br/>\n<br/>\nIn case you haven't started your character yet, Grimnir77 wrote this Cleric / Monk / Dwarven Defender build which you may be interested in: <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build295958.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 95958.html</a>.\u00a0<br/>\n<br/>\n650 odd HP with epic damage reduction + DD damage reduction/defensive awareness sounds like it would do what you were interested in.<br/>\n<br/>\nI would probably not include Monk in the build in a Aielund due to the 20% exp penalty and take 2 levels of fighter (dwarf favored class) or champion of torm instead for extra feats<br/>\n<br/>\nLooking forward to hearing more about your adventures!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:06 AM - Aug 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Those 2 levels of Monk give you Tumble as a class skill, so 4 more AC, and your WIS bonus is added to your AC (+9).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "2:44 PM - Aug 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That cleric/dwarven defender build looks really neat, much better than what I am theory crafting with paladin/dwarven defender. I will check out the build in depth some more when I have time! Only thing is it takes a lot of cleric levels and spell management might be difficult for a newbie like myself, but I may just go with that anyway!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:36 PM - Aug 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to grab some insight into Clerics, have a look at Max's Guide to the class: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/an-insight-into-the-cleric-class-t515461.html\" rel=\"noreferrer\" target=\"_blank\">Cleric Guide</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:58 AM - Aug 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One of the hardest decisions when building my first cleric was what domain to choose.<br/>\n<br/>\nFor a cleric aiming to buff his or her party maybe plant (for barkskin, up to +5 AC) and trickery (for improved invisibility, 50% concealment) would be the best domains.<br/>\n<br/>\nTravel wouldn't be bad for the haste spell either.<br/>\n<br/>\nMaybe the others have a opinion on this too!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "stephenratcliffe809",
+      "avatar": "10759100_1561880327.jpg",
+      "timestamp": "8:30 AM - Aug 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Trickery for Imp Invis absolutely.<br/>\n<br/>\nTravel for Haste is situational depending if your PW has perma-haste items.   WoG doesn't so is a strong second choice.<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-T810 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:40 AM - Aug 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As far as I know, this is for Aielund, not a PW. And I'm not entirely persuaded that Imp Invisibility is a particularly good idea if you're going to be tanking - surely you want to be pulling enemies towards you, not hiding from them, lest your squishier comrades cop for it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:57 AM - Aug 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag is correct, and a very good point, improved invisibility can be cast on others and yourself if you go trickery.<br/>\nThen start fights by 'breaking the improved invisibility' to retain the 50% concealment reducing damage to yourself and continue drawing attention<br/>\nIf its too complex just cast it on your teammates, I'm sure they will love you for it with 50% damage reduction from enemy attacks :)<br/>\n<br/>\nAnimal would be ok for enhanced summons and Cat's Grace<br/>\nWar as well for aura of vitality (I think that's what its called) and\u00a0 Cat's Grace as well.<br/>\nGot a few options!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "4:09 PM - Aug 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, this is currently for Aielund and not a PW. Don't think I'm ready to jump into one yet, especially alone as no one in my group seems to want to join one. Does Aielund have perma-haste items like the OC does?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:53 PM - Aug 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It does, but they're harder to come by. That said, there are some Boots of Travelling available in the very first little town you start in (Bracksworth). They're not Boots of Haste, but they do offer a speed bonus. However, you won't be able to afford them for a fair while. The nice thing is that you only need one pair and it speeds both you and your henchies. That said, I haven't played Aielund with other \"real\" people, just the available in-game companions, so it might be different.<br/>\n<br/>\nI'll confess, I haven't joined a PW either, but that doesn't make you a pariah (me, maybe, you, no). There's plenty of great things to be done in the modules. However, if you do fancy joining one, you might want to use the modules to practice different play-styles and classes, and you'll always find some travelling companions in World of Greyhawk (see the thread in the Persistent Worlds forum) who will welcome you with open arms - newbie or not. Maybe with Orion, when he stops <span style=\"text-decoration:line-through\">being so self-obsessed</span> soloing (that damned delete button again! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />) there? If I've got it right, you're in Japan, while he's in Aus (<em><strong>edit:</strong></em> tralia, not tria, in case of confusion), so we're not talking major time zone differences...Just thinking aloud...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "9:40 PM - Aug 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is correct, I think timezones between me and Australia should be about an hour different. Also have been pretty busy lately so I haven't had any time to play or work on a build, but should be getting back into it within the next couple of days for the upcoming weekend. The idea of PWs seemed pretty nice, but still rather finish the OC or Aielund first before venturing off to those lands. My friend supposedly has tried one of the bigger PWs listed on the nwn server browser and said it was more akin to an MMORPG. So far for my Aielund play through I'm thinking of trying to do a character with 15+ into cleric and subclassing to dwd. I was working on a paladin build as well but it didn't seem too good after reviewing it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:11 AM - Aug 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sucy, did you find a build that satisfies you &amp; play with the party? <br/>\n<br/>\nLet us know how it went, &amp; if not, we'll make something for you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Sucy",
+      "avatar": "10759119_1564073093.jpg",
+      "timestamp": "8:18 PM - Sep 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did not! I just had to wing it and it turned out horribly but we manage to complete the modules. I got carried more or less but it was still very fun to play. After taking a break I think we are going to try a PW next, so I will definitely not go in half blind again this time around.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

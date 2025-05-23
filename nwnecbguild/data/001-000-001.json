@@ -1,0 +1,44 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "001",
+  "name": "Counterspell and quickbar",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/counterspell-and-quickbar-t2356069.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "7:26 PM - Feb 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all. Anyone knows if, and how, the Counterspell action can be assigned to a quickbar slot? The obvious way (right click the clot and look for the action from the radial menu) does not seem to work for me (the action icon is \"grayed out\" in the radial menu).<br/>\nMany thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:43 PM - Feb 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It can't be Quickslotted.<br/>\n<br/>\nIt was changed, long ago, due to a...rather nasty exploit.<br/>\n<br/>\nSo either you use the radial, learn to dial with the Numpad...<br/>\n<br/>\nOR<br/>\n<br/>\nUse a programmable mouse/keyboard.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:15 AM - Feb 25, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>TheSquid wrote: <a data-post-id=\"27893\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27893&amp;sid=f5e5889d0e28dd9b2ffce6aa3ef0d2d5#p27893\">\u2191</a><div class=\"responsive-hide\">Feb 24, 2023</div></cite>right click the clot</div></blockquote>\nMuch as I understand hardly a word of this, I do like the idea of clicking the clot - whether it be a right or left click (nothing wrong with a southpaw)! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:01 AM - Feb 28, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27894\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27894&amp;sid=f5e5889d0e28dd9b2ffce6aa3ef0d2d5#p27894\">\u2191</a><div class=\"responsive-hide\">Feb 24, 2023</div></cite>It was changed, long ago, due to a...rather nasty exploit.</div></blockquote>\nIt's a pity they had to solve it like that. Quick slotting active feats/modes is quite handy.<br/>\nWhen reading different forums, I get the impression that people don't use counterspelling a lot. One reason is that it is not practical to use the radial menu in the heat of action.<br/>\nThere are situations where counterspelling has something to offer. As it is, most people probably rather dispel or breach.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:37 PM - Feb 28, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">While true, the exploit was horribly broken, and impossible for Mod Makers and PW Builders to prevent otherwise (hardcoded stuff) without getting rid of Counterspelling totally.<br/>\n<br/>\nThat said, anything (keyboard, mouse, etc) that can be programmed can bring it back (well, not exactly, but it does put Counterspelling on one button again).<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

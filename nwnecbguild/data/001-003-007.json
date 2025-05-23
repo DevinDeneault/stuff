@@ -1,0 +1,26 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Add ons",
+  "forum_id": "003",
+  "id": "007",
+  "name": "OHS Henchman System",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ohs-henchman-system-t515381.html",
+  "author": "KailPendragon",
+  "avatar": "10235214_1540245864.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:19 PM - Jul 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Scripts.Detail&amp;id=2568\" rel=\"noreferrer\" target=\"_blank\">OHS Henchman System : Release 1 Version 1.6.1 for Patch 1.69 by OldMansBeard</a><br/>\n<br/>\n<strong>Lead a party of your own characters!</strong><br/>\n<br/>\nThis system allows your player character to adventure with extra companions made from your other player characters. So your favourite characters can work together as a party. There is provision for keeping your companions in a database so you can develop the party as you move on from module to module and story to story. There is a special temple ritual for converting companions back into player characters so you can rotate the leadership of your company. Everything works in-game using override files. No HakPaks. No debug commands. No external file editors. No fixes to modules. Just Install and Play. It works with NWN, SoU, HotU, Bioware Premium Modules and many, though not quite all, community-written modules. Requires NWN+SoU+HotU. Supports both English and Polish versions of NWN. Compatible with (but does not require) CEP<br/>\n<br/>\nChanges in V1.6.1<br/>\n<br/>\nCompanions will be able to ride horses in modules that provide them using the X3 horse system. Formation keeping has been changed to make space for mounts and there are three new chat commands OH1, OH2 and OH3 to change formation.<br/>\n<br/>\n<br/>\n<br/>\n<strong>******************************</strong><br/>\n<br/>\n<br/>\n<br/>\nFor when one epic mofo is not enough to nail them all and you need to go there and kick the baddies arses with a posse of mean, nasty and legendary character builds. Enjoy your own party of doom.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grom",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:01 AM - Jul 29, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Am I reading this right?!?!!   I can play the OC with a party of my own making...  Holy Baldurs Gate!!!   Where do I sign up!   I might just put some real time into the OC now.  Have always hated the weird helper system in use since BG II.<br/>\n<br/>\n  Thanks for this Kail!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

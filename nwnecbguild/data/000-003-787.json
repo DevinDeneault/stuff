@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "787",
+  "name": "Blackguard by level 8 when taking Bard, RDD?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/blackguard-by-level-8-when-taking-bard-rdd-t2355209.html",
+  "author": "eltalstro",
+  "avatar": "10758878_1582351977.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "2:33 AM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Is this possible? I'm already planning a second run-through of <span style=\"text-decoration:underline\">A Hunt Through the Dark</span>. It stipulates that you must take BG by level 8 (although I have not tested this) and you must take Elf (you can take subrace Drow to get bonuses to CHA and INT). The earliest I could get it to work for an elf in the CBC is lvl 9. Is it possible to get it down to 8 somehow?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:36 AM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Not with Bard alone, no.<br/>\nYou need BAB 6 and Cleave. Bard get BAB 6 at lvl 8. If you combine Bard4(max) with a Full BAB class you can get it earlier. 3 lvls of a full-BAB class to be precise. Fighter-Ranger-Barb.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:17 AM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This module? <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/hunt-through-dark-xp-edition\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... xp-edition</a>\u00a0<br/>\n<br/>\nVery glowing reviews! sounds like you have good taste!<br/>\n<br/>\nI reckon a Fighter / Rogue / Blackguard might be nice if you need to take blackguard by 8, although a Fighter / Rogue / Weapon Master I like the sound of better, nothing like them high AB high damage crits.... it says traps are medium so thats a hint for some light rogue multiclassing...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "12:27 PM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, going fighter, rogue, BG in this run through, Orion. Going really well so far. The main reason I wanted RDD was to take Dev Crit as early as possible. AHTtD has some outstanding qualities but also some absolutely awful ones. I'll do a review in the modules section when I finish it. <br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:39 PM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there a reason why you must take BG at lvl 8?<br/>\nI understand that you are supposed to start at lvl 4 or 5. Do you know at what level you will end the adventure?<br/>\nBtw, I look forward to the review.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "12:51 PM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>Is there a reason why you must take BG at lvl 8?<br/>\nI understand that you are supposed to start at lvl 4 or 5. Do you know at what level you will end the adventure?<br/>\nBtw, I look forward to the review.\u00a0</div></blockquote>Ahahaha! Actually Mick I'm glad you posted this. It's not AHTtD that stipulates this at all; it's the \"Blackguard\" module that does. I've got so many games on the go I'm getting them mixed up. Thanks for solving my problem. <br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:55 PM - Oct 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Blackguard series is a different matter!<br/>\nIt is true that you need to take a level of BG there before you can finsh act I,\u00a0 and if I recall correctly, you end act I at lvl 9. If your character ends at lvl 8 and doesn't have enough xp to get that first lvl of BG, you can always use a Console command to level up, just to pass that obstacle.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

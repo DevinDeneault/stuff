@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "664",
+  "name": "Need help with Barb/Ro/SD",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/need-help-with-barb-ro-sd-t2355387.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:07 PM - Mar 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am trying to build a Terrifying Rager Barb with EDIII, HiPS, ED, and Sneak damage.<br/>\n<br/>\nThis seems to be the way - I actually made the level 40 build in PGC and got everything, and it had an average BAB (Barb the whole way to epic first) of ca. 30.<br/>\n<br/>\nIt looked like Barb 25 /Ro 10 (improved Evasion)/SD 5<br/>\n<br/>\nBut I was thinking that if I could just squeeze something there (like going SD 10 instead for improved evasion) that I might be able to drop Ro levels down so Barb could get a little more EDR (due to Epic Barbarian).<br/>\n<br/>\nBarb with Terrifying Rage, Great Rage, EDRIII (Dexer) - 21st level, greater rage (4x per day), intimidate 25, 21st level, constitution 21+ <br/>\n<br/>\nSD level 5 ED - 21st level, dexterity 25+, dodge, tumble 30 ranks, improved evasion, defensive roll<br/>\nFeats: dodge, mobility<br/>\nSkills: hide 10 ranks, move silently 8 ranks, tumble 5 ranks <br/>\n<br/>\nRog for UMD -\u00a0 hide 8 ranks, move silently 8 ranks<br/>\n<br/>\nHalfling?<br/>\n<br/>\nNeed Dex and Con.<br/>\n<br/>\nStr 8<br/>\nDex 20<br/>\nCon 16<br/>\nInt 10<br/>\nWis 8<br/>\nCha 8<br/>\n<br/>\nIs there anyway to optimize this further?<br/>\n<br/>\nI thought about Elf, but it reduces Con.\u00a0 Not good.\u00a0 And I think I need that starting 20 Dex.<br/>\n<br/>\nAny ideas?<br/>\n<br/>\nI didn't really find anything in the search engine or here on the forum along these lines - just this :<br/>\n<br/>\nMaster of Scare Tactics (which I am already playing and it gave me the idea)<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build141382.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 41382.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:33 PM - Mar 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Class spread: Rog13/Barb26/SD1 or Rog15/Barb24/SD1 or Rog16/Barb23/SD1 or Rog19/Barb20/SD1<br/>\nRace: Dwarf or Gnome or Halfling<br/>\nStarting stats: 16DEX/18CON or 18DEX/16CON (before racial modifiers)<br/>\n<br/>\nYou need to end up at 25DEX/21CON minimum so any combination of the above will work. Personally I prefer a pre-epic spread of Rog4/Barb16 but Barb20 works for the first three class spreads.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:07 PM - Mar 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm going to assume your damage will come from scaring the bejesus out of them then sneaking or hipsing then sneaking, or possibly all of the above - popping in from the shadows, shouting \"Boo!\" scarily and sneaking them. In any case, that means the higher sneaks you get the better, no? And that surely means the more Rogue the better. Thus I'd be thinking at least 15 or 17 levels of Rogue (my temptation would actually be 17 or 19 for 9 or 10d6), which means Yunim's dead right, you can't really afford more than SD cheese - assuming you want a very angry Hin indeed...<br/>\n<br/>\nEDIT: I'm also a wee bit concerned about your feats. Of your 7 pre-epics, I'm assuming Dodge, Mobility, Weapon Finesse, Weapon Focus, Blind Fight and Knockdown are already taken. Because you're a WoGster you'd probably then also grab <span style=\"text-decoration:line-through\">Sharpen Pencil</span> Craft Wand rather than IKD (unavailable with your current Int) or Improved Critical. Leaving none. Then in epic (again an assumption) the Rogue bonus feats could be Improved Evasion, Defensive Roll and Epic Dodge (if you go for the 17 or 19 levels of the class - the 19 also enabling Crippling Strike). That leaves a further 7 feats, and I'd guess at EWF and Epic Prowess being 2, to sit alongside the 3 EDRs and the Terrifying Rage. Which leaves 1 spare for a Great Dex or Con - so I'll presume Dex so (with your 10 stat boosts) you'll end up with Dex 26 and Con 21. It ain't spectacular, Web. Of course, I may have all my assumptions wrong, in which case what do I know?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:40 PM - Mar 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry, Web, have just done an edit - you might not like the previous post so much any more...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:23 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fun build idea. It's like a sneaky hipsing scarer with a big surprise in store for enemies!<br/>\nI would follow Yunim's suggestion and get more rogue and lower SD to 1<br/>\nYou'd get more sneak damage.<br/>\nI like Yunim's halfling Dex 18 con 16 split it has great AB with a ranged weapon or weapon finesse from level 1 plus small size and you avoid multiclass penalties.<br/>\nStr can be 10 and Int 14 to incorporate IKD somewhere.<br/>\n<br/>\nHalf orc would also be fun too. You'd get piles of skill points from rogue and Barb to compensate for Int penalties and kudos for making a decent half orc build<br/>\n<br/>\nSee If you can get Base AB to 40 or more then it is looking very playable. Saves probably are awful but Hips and UMD should help solo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:38 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you all for the wonderous fb and tips!<br/>\n<br/>\nThis has given me a great start.<br/>\n<br/>\nI'm liking the Dex 18 con 16 split.<br/>\n<br/>\nA question :<br/>\n<br/>\nWhat does Rog4/Barb16 get over Barb 20?\u00a0 Is it just a trade-off of extra skill points vs loss of 1 BaB?\u00a0 Or does one get some extra feats to boot?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:44 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My approach would be to abandon stealth and go for Rogue 16 / Barbarian 24 with ED and EDR III, using Knockdown and the paralysis from Terrifying Rage to generate sneak attacks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:52 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"19575\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19575&amp;sid=73dabca5a7bcd2b2d6011a3285b27992#p19575\">\u2191</a><div class=\"responsive-hide\">Mar 09, 2020</div></cite>Thank you all for the wonderous fb and tips!<br/>\n<br/>\nThis has given me a great start.<br/>\n<br/>\nI'm liking the Dex 18 con 16 split.<br/>\n<br/>\nA question :<br/>\n<br/>\nWhat does Rog4/Barb16 get over Barb 20?\u00a0 Is it just a trade-off of extra skill points vs loss of 1 BaB?\u00a0 Or does one get some extra feats to boot?</div></blockquote>\nYou are correct you get 16 extra skill points at rogue 1 at level 1 vs barb 1 at level 1 at the cost of 1 BAB<br/>\nReflex save might be slightly better\u00a0<br/>\nThe build will also be more playable with Rogue 4 / Barb 16 with tumble dumps, UMD dumps, search/disable traps etc<br/>\nNo extra feats, rogue gets bonus feats at 10, 13, 16, 19 and then I think every 4 lvls from 20<br/>\nBarbs I think get bonus feats every 4 levels from 20 off memory best to check<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:01 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rog4/Barb16 gives 16 skill points and +3 reflex compared to Barb20 which gives +1 AB and +1 fortitude. Not only does it improved playability as\u00a0Orion2019 mentioned, it also lets you become a Rog19/Barb20/SD1 which is my preferred level layout. It has an extra feat compared to the other spreads which can be used for Crippling Strike or ESF: Int (or any other epic Rogue bonus feat).<br/>\n<br/>\nIf you do decide to drop HiPS then I would recommend a Rog/Barb/Figh such as Rog13/Barb23/Figh4 or Rog19/Barb15/Figh6.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:03 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Definitely not dropping HiPS.<br/>\n<br/>\nThanks for the explanation.\u00a0 I'll have to consider it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:07 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like Yunim's suggestion for a Rogue 19 / Barb 20 / SD 1 split<br/>\nIt hits a lot of nice sweet spots for all the classes involved.<br/>\nI personally wouldn't make a Barb with more than 20 levels of Barb in it, I feel you get diminishing returns once mighty rage is obtained<br/>\n<br/>\nOne thing is mighty rage has a strength requirement of 21+<br/>\nIf you are going dex based you probably should drop Barb further to just meet requirements for terrifying rage (I believe this is Barb 16) and put rogue higher for more sneak and skill points<br/>\nA Rogue 4 Barb 15 SD 1 split pre-epic would give you BAB 28 then you can take a Barb 16 level to get terrifying rage as a general epic feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:12 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The NWN Wiki says :<blockquote><div><strong>Terrifying Rage</strong><br/>\n<strong>Type of feat:</strong> general (epic)<br/>\n<strong>Prerequisite:</strong> epic barbarian <em>21st level, greater rage (4x per day)</em>, intimidate 25<br/>\n<strong>Specifics:</strong> While the barbarian is <em>raging</em>, any enemy (with less than the barbarian's hit dice) that comes close to him must make a will save opposed by the barbarian's intimidate check or become panicked for 1d6 <em>1d3</em> rounds. Opponents with up to twice the barbarian's hit dice will not flee but will receive a -2 penalty to attack and saving throw rolls. Creatures with more than <em>at least</em> twice the barbarian's hit dice are not affected by the rage.<br/>\n<strong>Use:</strong> automatic while in rage <br/>\nNotes Edit\n<ul>\n<li>Requires Hordes of the Underdark.</li>\n<li>This feat's description incorrectly lists \"epic barbarian\" as a prerequisite. While 21 character levels are required, <strong><em>only 15 of them need to be barbarian levels. (More precisely, the feat \"greater rage (4x per day)\" is required.)</em></strong></li>\n<li>The earliest this feat can be taken is at the 24th character level (this is because the 25 intimidate ranks can only be achieved at level 22 or later, and there are no general or barbarian feats available in between the 21st and 24th level). </li>\n</ul>\n</div></blockquote>\n\nCan Terrifying Rage feat be taken on a non-Barb level?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:35 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to take even more Rogue levels then go for Rog24/Barb15/SD1 with a pre-epic spread of Rog8/Barb12. I didn't include that one since compared to a Rog19/Barb20/SD1 it loses 1 AB and 2/- DR in exchange for an extra Rogue feat, but it will let you get both Crippling Strike and ESF: Int instead of choosing one.<br/>\n<br/>\nAll of the rage feats must be taken on a Barb level. Terrifying and Thundering both require Barb15, Mighty requires Barb20.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:38 AM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So Rog19/Barb20/SD1 looks like it is optimal.<br/>\n<br/>\nI'm going to go with that.<br/>\n<br/>\nI want to thank each and every one of you who helped me with this, and gave good insight, tips, and just made plain common sense.<br/>\n<br/>\nI'll get back with the build when I have it done.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:40 PM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good man, Web - I hate it when folk say \"thanks\" then just sod off and we never see the results: good or bad. But the boys of the Old Brigade are not built on those lines - even wee rapscallions such as yourself <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:28 PM - Mar 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wee wee webbie!<br/>\n<br/>\nYup, that's me!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

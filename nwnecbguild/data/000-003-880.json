@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "880",
+  "name": "Another weird BlackstoneKeep-request: Bladeweaver F2/S3 minimum, where to go?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/another-weird-blackstonekeep-request-bladeweaver-f-t2355034.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "4:09 PM - Feb 18, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So, there's a custom class in Blackstone Keep PW that gets a nifty katana. Requirements are you are Elf and get at least F2 and Sorc3 (not necessarily in any special order, as soon as you have at least F2/S3, you will get the katana).<br/>\nThere are two obvious ways to go (WM or RDD), each with two variants (pre-epic or post-epic), but I'm pretty sure I'm missing something... So, if I'm playing someone who is primarily running around hacking mobs to death and every sixth hit I give magic damage and self-heal a bit, what's the best build?<br/>\nBlackstone Keep is high-magic with bosses and mobs with some resistance and immunities. The most annoying thing is that the bosses have ridiculous AB/AC combos for the level you're supposed to be when tackling them, so dwarven defenders or Dex-WM are the most useful builds, also some cheesy variants. This could be something fresh, with a katana giving up to 45 magical damage every sixth hit, so I hope someone can help. Please?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "9:51 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's a good starting point for a more melee focused spellsword that meets the requirements. The only thing I don't like is the skills, I ended up with so many and nowhere to put them. Tumble is CCed. If you ditch Imp KD you can get some extra stat points saved by dropping Int. The last 2 Great Strengths could easily be epic spells, I believe some of the epic summons have been buffed on BSK.<br/>\n<details><summary>Spoiler</summary>Fighter(4), Sorcerer(26), Red Dragon Disciple(10), Human\nSTR: 16 (34)\nCON: 12 (14)\nINT: 14 (16)\n\u00a0\n01: Fighter(1): Blind Fight, Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Sorcerer(2): Still Spell\n05: Sorcerer(4)\n07: Sorcerer(6)\n09: Red Dragon Disciple(1): Empower Spell\n11: Red Dragon Disciple(3)\n13: Red Dragon Disciple(5)\n15: Red Dragon Disciple(7): Improved Critical: Bastard Sword, (CON=14)\n17: Red Dragon Disciple(9): (INT=16)\n19: Sorcerer(7)\n21: Sorcerer(9): Epic Weapon Focus: Bastard Sword\n23: Fighter(3)\n25: Sorcerer(11)\n27: Sorcerer(13): Armor Skin\n29: Sorcerer(15)\n31: Sorcerer(17)\n33: Sorcerer(19): Automatic Still Spell I\n35: Sorcerer(21)\n37: Sorcerer(23): Automatic Still Spell II\n39: Sorcerer(25): Great Strength II, (STR=33)\n\u00a0\nSkillpoints: 238\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 39 (melee), 23 (ranged)\nSpell Casting: Sorcerer(9)\n\u00a0</details>\nAnd another one, this one with Wizard and WM:\n<details><summary>Spoiler</summary>Fighter(6), Wizard(26), Weapon Master(8), Human\nSTR: 16 (28)\nCON: 12\nINT: 16 (20)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword, Dodge\n03: Fighter(3): Mobility\n05: Wizard(1): {Scribe Scroll}\n07: Wizard(3)\n09: Wizard(5): Whirlwind Attack, Still Spell\n11: Wizard(7)\n13: Weapon Master(1): Weapon of Choice: Bastard Sword\n15: Weapon Master(3): Blind Fight\n17: Weapon Master(5)\n19: Weapon Master(7)\n21: Fighter(6): Epic Weapon Focus: Bastard Sword, Epic Weapon Specialization: Bastard Sword\n23: Wizard(10): Great Intelligence I, (INT=18)\n25: Wizard(12)\n27: Wizard(14): Epic Prowess\n29: Wizard(16)\n31: Wizard(18)\n33: Wizard(20): Great Strength II, Automatic Still Spell I, (STR=24)\n35: Wizard(22)\n37: Wizard(24)\n39: Wizard(26): Great Strength IV, Automatic Still Spell III, (STR=27)\n\u00a0\nSkillpoints: 287\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 40 (melee), 29 (ranged)\nSpell Casting: Wizard(9)\n\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:34 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If it helps with your skills surplus, Sky, maybe some detection would help (Listen or Spot)? Is Heal a big deal in BSK, btw?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "10:47 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's just that all the skills are going to be CC because sorcerer, rdd, and fighter have terrible skill selections. In the Wizard version I ended up taking WM at 40 to get discipline and spot to 43. I'm working on a final rogue version that will use the skills better and have full tumble.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:58 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm sorry to be an arse here, but doesn't Cornflower say you need both Fighter and Sorcerer for this? It's a bugger anyway, given that you also need to be an Elf (at least for module players who will inevitably have xp penalties with either the RDD or WM iterations). So isn't Rogue out of the picture?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "11:01 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, as a BSK player myself I believe either Wizard or Sorcerer will do. I forgot about elf but that's easily workable in there. No XP penalties on BSK either. <br/>\n<br/>\nMy attempt at the Lia spellblade class was Fighter Wizard Rogue as Death attack got nerfed and weapon finesse doesn't work with bastard swords anyway, so no need for extra dexterity.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:21 PM - Feb 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Gotcha, thanks!<br/>\n<br/>\nI'd begun to wonder whether there was scope to adapt Valerfor's Draco Mauler. That's a Bard 4/ Fighter 10/ RDD 26 and a Dwarf as it stands currently. So, at least a couple of issues: not an Elf, and not a Sorcerer.<br/>\n<br/>\nHowever, if, as you say, Wiz will also qualify, then several possibilities open up. WM, certainly (but loads of prerequisites), but CoT might be interesting, too (lots of Bonus Feats, full BAB, etc). Anyway, you know the environment...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:21 AM - Feb 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've got one that forsakes spellcasting and goes full WM:<br/>\n<br/>\n52 AB is nothing to sneeze at. If you want wizard levels pre epic to get your exploding sword it drops to 50. Dev crit on BSK increases damage by 35% which is a nice buff but not insta death, so all those feats can be dropped for other things if needed. <br/>\n<details><summary>Spoiler</summary>Fighter(11), Wizard(4), Weapon Master(25), Elf\nSTR: 18 (34)\nCON: 10\nINT: 14\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Fighter(3): Dodge\n05: Fighter(5)\n07: Fighter(7)\n09: Fighter(9): Knockdown\n11: Weapon Master(1): Weapon of Choice: Bastard Sword\n13: Weapon Master(3)\n15: Weapon Master(5): Cleave\n17: Weapon Master(7)\n19: Weapon Master(9)\n21: Wizard(1): Great Strength I, {Scribe Scroll}, (STR=24)\n23: Wizard(3)\n25: Weapon Master(12)\n27: Fighter(11): Epic Weapon Specialization: Bastard Sword\n29: Weapon Master(15)\n31: Weapon Master(17)\n33: Weapon Master(19): Great Strength IV, Devastating Critical: Bastard Sword, (STR=30)\n35: Weapon Master(21)\n37: Weapon Master(23)\n39: Weapon Master(25): Great Strength VI, Epic Prowess, (STR=33)\n\u00a0\nSkillpoints: 172\nSaving Throw bonuses: Spells: +8, Mind Effects: +2\nAB (max, naked): 52 (melee), 33 (ranged)\nSpell Casting: Wizard(2)\n\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "1:49 AM - Feb 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Last one from me as I've covered all the non rogue bases. I originally made it with 18 levels of rdd but sorcerer spells are just too good... so here you get to self buff nicely and stop time. Ends with 42 AB, which is great for 20 caster levels I think. The 15 sorcerer 15 RDD version can get 44+ (I was up at 46 with some variations) but I feel the extra spells are just too much better. Skills again are a little less than ideal but they are the weakest aspect of this build to begin with. <br/>\n<details><summary>Spoiler</summary>Fighter(10), Sorcerer(20), Red Dragon Disciple(10), Elf\nSTR: 16 (34)\nCON: 10 (12)\nINT: 14 (16)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Sorcerer(1): Cleave\n05: Sorcerer(3)\n07: Fighter(3)\n09: Fighter(5): Knockdown\n11: Fighter(7)\n13: Red Dragon Disciple(1)\n15: Red Dragon Disciple(3): Still Spell\n17: Red Dragon Disciple(5)\n19: Red Dragon Disciple(7): (CON=12)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Bastard Sword, (INT=16)\n23: Fighter(9)\n25: Sorcerer(5)\n27: Sorcerer(7): Devastating Critical: Bastard Sword\n29: Sorcerer(9)\n31: Sorcerer(11)\n33: Sorcerer(13): Epic Prowess\n35: Sorcerer(15)\n37: Sorcerer(17)\n39: Sorcerer(19): Great Strength II, (STR=34)\n\u00a0\nSkillpoints: 191\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 42 (melee), 27 (ranged)\nSpell Casting: Sorcerer(9)\n\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:19 AM - Feb 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey! Those last two builds are awesome, <em class=\"mention\">@EasternPromises</em> ! They are both good, so you can choose to be a very good weaponmaster with some buff ability as a bonus, or a full spellcaster with 42 AB, DevCrit and a magic sword. Now, those are some excellent options really. Nice work!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "6:20 PM - Feb 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok I lied. Here is the same 20 CL concept applied to the WM variant:<br/>\n<br/>\nI end with Automatic Still Spell x3 for convenience but it is by no means required. It can be swapped for epic spells or more stats. <br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(12), Wizard(20), Weapon Master(8), Elf\nSTR: 16 (28)\nCON: 12\nINT: 16 (19)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Wizard(1): Still Spell, {Scribe Scroll}\n05: Wizard(3)\n07: Fighter(4): Weapon Specialization: Bastard Sword\n09: Fighter(6): Mobility, Spring Attack\n11: Fighter(8): Whirlwind Attack\n13: Fighter(10): Improved Knockdown\n15: Weapon Master(2): Improved Critical: Bastard Sword\n17: Weapon Master(4)\n19: Weapon Master(6)\n21: Fighter(11): Epic Weapon Focus: Bastard Sword\n23: Wizard(4)\n25: Wizard(6)\n27: Wizard(8): Epic Prowess\n29: Wizard(10): Great Intelligence II, (INT=18)\n31: Wizard(12)\n33: Wizard(14): Great Strength II, (STR=26)\n35: Wizard(16)\n37: Wizard(18)\n39: Wizard(20): Automatic Still Spell II, Automatic Still Spell III\n\u00a0\nSkillpoints: 226\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 42 (melee), 31 (ranged)\nSpell Casting: Wizard(9)\n\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

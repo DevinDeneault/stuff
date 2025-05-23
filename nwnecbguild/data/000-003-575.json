@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "575",
+  "name": "Dwarf trap master",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarf-trap-master-t2355515.html",
+  "author": "Killinius",
+  "avatar": "no_avatar.png",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Killinius",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:12 PM - Jul 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all,<br/>\n<br/>\nI have been struggling for some time now with a dwarf rogue build for arelith server. I found something close to what Im looking for in a build called the greedy dwarf but its built for 40 levels and Im not sure why it has a monk level it seems like it would do better with some fighter levels for better damage. I know Valerfore commented on it, maybe you can help me out. I played the heck out of the dwarf monk you tweaked somewhere on this site.<br/>\n<br/>\nOver all Im looking for good mechanical rogue skills, disable traps, set traps, open locks, and of course tumble and use magic device skill. Heal would be a good addition as well though maybe not needed as much because of tankiness from dwarven defender? I like the idea or wielding 2 axes or even the double axe but if whatever weapon and shield is better Id be good with that. My original idea was to wear medium or heavy armor disregarding ac bonus from dex but honestly Im getting lost in the numbers and Im not even sure if the armor check penalty would be effecting my rogue skills negatively or not. I imagine some of you pro character builders can help me out though?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:39 AM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello there, Killinius, good to meet you!<br/>\n<br/>\nIf I'm right, this is the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/probably-the-worst-build-you-ve-seen-greedy-dwarf--t2354982.html\" rel=\"noreferrer\" target=\"_blank\">Greedy Dwarf</a> build you've been looking at. The Monk level is taken so Monk UBAB can come into play. That is, where normally your attacks per round (APR) decrease by 5 each time you get another attempt (for example, an AB of 45/40/35/30), with 1 level of Monk - and if you take either Unarmed or Kama - it only decreases by 3 (so, in the above example, you'd have 45/42/39/36). Which means you'd have a better chance of hitting beyond your first attempt. And you'd get more attempts as well (up to 10 per round, but that doesn't apply in this case). Hope that makes sense.<br/>\n<br/>\nUnfortunately, I know with Arelith you need to take 3 levels in a class when you first take it, and it's only a level 30 PW, so you're a bit stumped with this particular build. <em>@Zanithar</em>, where are you?<br/>\n<br/>\nNone of what you're wanting falls within my boathouse, so I hope someone else can come along soon for you.<br/>\n<br/>\nCheers, and welcome again<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Killinius",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:35 AM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That does make sense. I always thought the monk bab thing was just the extra attack from the flurry of blows. Thank you very much for that explanation.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "11:16 AM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've checked out Arelith recently. Here's something that's in the ballpark of what you're asking for:<br/>\n<details><summary>Spoiler</summary>Rogue(20), Dwarven Defender(10), Dwarf\nSTR: 14\nCON: 16\nINT: 15 (18)\n\n\nArelith Major Gift: +2 Intelligence (INT 17)\n01: Rogue(1): Blind Fight\n03: Rogue(3): Weapon Focus: 1H Edged, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Toughness\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Rogue(11): Knockdown\n17: Dwarven Defender(6)\n19: Rogue(12)\n21: Dwarven Defender(9): Great Dexterity I, (DEX=23)\n23: Rogue(13): Improved Evasion\n25: Rogue(15)\n27: Rogue(17): Epic Weapon Focus: 1H Edged\n29: Rogue(19): Pick One of These: Slippery Mind or ESF: Hide/MS or ESF: Disable Trap\n\n\nSkillpoints: 297\nSaving Throw bonuses: Spells: +2, Traps: +6, Poison: +2\nAB (max, naked): 32 (melee - 1H Edged weapons), 30 (ranged)\nSpell Casting:\u00a0\n\n\n01: Craft Trap(4), Disable Trap(4), Heal(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Tumble(4), UMD(4),\u00a0\n03: Craft Trap(1), Disable Trap(1), Heal(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1),\u00a0\n05: Craft Trap(1), Disable Trap(1), Heal(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1),\u00a0\n07: Craft Trap(1), Disable Trap(1), Heal(1), Hide(1), Listen(1), Lore(2), Move Silently(1), Open Lock(1), Search(1), Tumble(1), UMD(1),\u00a0\n09: Craft Trap(1), Disable Trap(1), Heal(1), Hide(1), Listen(1), Lore(2), Move Silently(1), Open Lock(1), Search(1), UMD(1), Save(1)\n11: Discipline(9), Heal(1), Listen(1),\u00a0\n13: Discipline(2), Heal(1), Save(3)\n15: Disable Trap(5), Search(5), Tumble(5), UMD(5),\u00a0\n17: Discipline(1), Save(8)\n19: Disable Trap(4), Hide(4), Move Silently(3), Search(4), Tumble(5), UMD(5),\u00a0\n21: Craft Trap(1), Discipline(1), Save(4)\n23: Disable Trap(4), Hide(4), Move Silently(4), Search(4), Tumble(5),\u00a0\n25: Disable Trap(1), Hide(5), Move Silently(5), Search(1),\u00a0\n27: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(3), Search(1), Tumble(5),\u00a0\n29: Craft Trap(2), Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), UMD(5),\u00a0</details>\n\nSome notes about this:<br/>\n- I used the standard character creator, then heavily edited the skill schedule. It may need double-checking.<br/>\n- Arelith has LOTS of custom rules. To get this build to work, both major gifts (+INT and +DEX) are used.<br/>\n- Arelith Rogues get Weapon Finesse for free at level 2.<br/>\n- Arelith Rogues get a dodge bonus equal to the Dexterity bonus lost to the armor's Dexterity bonus cap, but only in light armor.<br/>\n- Epic Skill Focus: Hide also grants Epic Skill Focus: Move Silently and vice versa on Arelith.<br/>\n- I couldn't squeeze Epic Dodge, EDR, and an amazing skill schedule into a level 30 character, but this build gets Epic Dodge and DR 6/-<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Killinius",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:27 PM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thats a good start and thank you I really appreciate the help. I dont need any craft skills as crafting is handled by a different system on arelith. and I dont want hide or move silently. Im thinking more Bomb squad style. I toyed with using strength as my main fighting stat and only using dex and int for what I need for skills and feats but it didnt seem to be working. Also it doesnt seem like the dodge bonus for rogues in light amor counts as the dodge feat for the dwarven defender prerequisites, so theres another feat I need to take.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:46 PM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I said before, I ain't an Arelith player, however, I think we might need to drill down to the basics here - both in terms in what you need to have and what you can have - before we get too confused.<br/>\n<br/>\nSo, you're a dwarf. That gives you 7 pre-epic general feats and 4 epic ones (we can look at bonus feats later). You say you want Dwarven Defender. That's 2 feats gone straight away (Dodge and Toughness - and don't forget you need 13+ DEX to get Dodge).<br/>\n<br/>\nYou also say you want to be a trapsmith. So you need some Rogue (even without the Craft skills). INT governs your ability to find (via Search) and disable/recover (via Disable Traps) traps set by others. If you want to set your own traps, that's DEX, as is Open Lock. Armour check penalties apply to your ability to successfully set traps, so you'd need to strip off before doing so if you're in full plate - even if you take Skill Mastery as a Rogue bonus feat (which grants take 20 on any trap skill check, even in combat).<br/>\n<br/>\nSo, given you'll be looking to squeeze what you can from at least Disable Trap, Open Lock, Search, Set Trap, Tumble and UMD - let alone cross-classing Spellcraft (to help saves v spells) and a detection skill (Listen or Spot). That's 8 skills you want to maximize (let's ignore the Disable/Set Trap synergy for now, along with other details). So let's see how close we can get to that 264 total (it's actually less than that, but it's not a bad starting point).<br/>\n<br/>\nDwarven Defender gives you 2 skill points (+INT modifier) per level, and Rogue 8 (+INT mod) (x4 at level 1). If you had a 0 INT modifier, you'd need all 30 levels to be Rogue (1x32 and 29x8 = 264). So you're really going to have to think about those Dwarven Defender levels.<br/>\n<br/>\nTo be honest, I'm not all that sure what DwD brings to a build that's crying out to be DEX and INT based. Fighter, while not as exotic, does seem to offer more - it gives bonus feats and doesn't cost any - and is a dwarf's preferred class, so there's no xp penalty.<br/>\n<br/>\nHave a mull, Killinius, and see what you think.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "10:08 PM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dwarven Defender is changed to Earthkin Defender on Arelith. Also, the Dodge feat is not a prerequisite there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:22 PM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Not if you read Killinius' last sentence, I'm afraid. Would be nice, but...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "11:03 PM - Jul 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Arelith's\u00a0<a class=\"postlink\" href=\"http://wiki.nwnarelith.com/Earthkin_Defender#:~:text=Arelith%20Changes&amp;text=All%20Earthkin%20races%20%28Halfling%2C%20Gnome,Dodge%20feat%20at%20level%201.\" rel=\"noreferrer\" target=\"_blank\">Earthkin Defender</a><br/>\nDodge is not a pre-requisite feat.<br/>\nThe Rogue dodge bonus is a completely different thing. Arelith\u00a0<a class=\"postlink\" href=\"http://wiki.nwnarelith.com/Rogue\" rel=\"noreferrer\" target=\"_blank\">Rogues</a><br/>\n<br/>\nHere's a different build. Earthkin Defender for tankiness, Fighter for feats, Rogue for skills. Less frills, more AB. Though the output from the character creator doesn't reflect it, this one should swing with a +35 AB with any handaxe, waraxe, longsword, short sword, or dagger. Two-weapons puts the attack schedule at +33/28/23/18/33/28. Improved Knockdown available for more 5d6 sneak attacks. Even without sneak attacks, this build hits like a tank (+15 damage).<br/>\n<br/>\nHad to keep Dexterity at 15 for Ambidexterity.<br/>\n<details><summary>Spoiler</summary>Rogue(10), Fighter(10), Earthkin Defender(10), Shield Dwarf\nSTR: 16 (28)\nCON: 16\nINT: 14 (16)\n\nArelith Major Gift: +2 Intelligence/+1 ECL\n\n01: Rogue(1): Blind Fight\n03: Rogue(3): Weapon Focus: 1H Edged, {Uncanny Dodge I}\n05: Fighter(2): Two-Weapon Fighting\n07: Fighter(4): Weapon Specialization: 1H Edged\n09: Earthkin Defender(1): Improved Knockdown, {Defensive Stance}\n11: Earthkin Defender(3)\n13: Earthkin Defender(5)\n15: Earthkin Defender(6): Ambidexterity\n17: Fighter(6): Improved Two-Weapon Fighting\n19: Fighter(8): Cleave\n21: Fighter(10): Epic Weapon Focus: 1H Edged, Epic Weapon Specialization: 1H Edged\n23: Rogue(5)\n25: Earthkin Defender(10)\n27: Rogue(7): Great Strength II, (STR=24)\n29: Rogue(9)\n\n\nSkillpoints: 210\nSaving Throw bonuses: Spells: +2, Traps: +2, Poison: +2\nAB (max, naked): 32 (melee), 26 (ranged)\nSpell Casting:\u00a0\n\n\n01: Disable Trap(4), Open Lock(4), Search(4), Set Trap(4), Spot(4), Tumble(4), UMD(4), Save(12),\u00a0\n03: Disable Trap(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), UMD(1), Save(25),\u00a0\n05: Discipline(1), Save(27),\u00a0\n07: Discipline(1), Save(35),\u00a0\n09: Discipline(1), Spot(6), Save(37),\u00a0\n11: Discipline(1), Save(44),\u00a0\n13: Save(53),\u00a0\n15: Discipline(1), Spot(4),\u00a0\n17: Discipline(1), Save(4),\n19: Discipline(1), Save(12),\n21: Discipline(1), Save(20),\n23: Disable Trap(9), Search(4), Spot(1), Tumble(10), UMD(5),\u00a0\n25: Discipline(1), Spot(1), Save(5),\n27: Disable Trap(1), Open Lock(3), Search(1), Spot(1), Tumble(5),\u00a0\n29: Disable Trap(1), Open Lock(5), Search(1), Set Trap(3), Spot(1),\u00a0\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Killinius",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:45 PM - Jul 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yep I was wrong. Sorry about that Stagmeister. I had only looked at normal dwarven defender. Ten Pura that build looks amazing. Im going to try it out immediately. I actually found a way to make the character builder spreadsheet work without microsoft excel so maybe next time I ask for help I'll be more prepared. Thank you both so much for the help. You guys are awesome!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

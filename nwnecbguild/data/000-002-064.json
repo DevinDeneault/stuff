@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "064",
+  "name": "Whirlwind Attack",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/whirlwind-attack-t2355899.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:17 PM - Feb 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Does Whirlwind Attack ignore Displacement?<br/>\n<br/>\nI was doing some WA against some Displacer Beasts, and I noticed that there weren't any misses being reported due to Displacement.<br/>\n<br/>\nSo does anyone know if WA ignores this?<br/>\n<br/>\nWould be another cool feature of this combat feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:05 AM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know the answer to that, and the wiki doesn't help, but I do know that Whirlwind Attack can be used to attack unseen enemies in range.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:46 PM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We can't be certain of the answer, but I have a feeling that Whirlwind does indeed work against displaced opponents. <br/>\n<br/>\nFurther testing is needed of course.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:15 PM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Upon further testing - WM vs 5 Displacer Beasts :\n<details><summary>Spoiler</summary>Displacer Beast attacks Massy Vattack : *miss* : (14 + 11 = 25)\nDisplacer Beast attacks Massy Vattack : *miss* : (7 + 11 = 18)\nDisplacer Beast attacks Massy Vattack : *miss* : (18 + 6 = 24)\nDisplacer Beast attacks Massy Vattack : *miss* : (14 + 11 = 25)\nMassy Vattack : Damage Reduction absorbs 0 damage\nMassy Vattack attempts Whirlwind Attack on Displacer Beast : *hit* : (15 + 60 = 75)\nMassy Vattack damages Displacer Beast: 49 (39 Physical 5 Divine 5 Positive Energy)\nYou learn nothing from this kill. You are too far advanced in level.\nMassy Vattack killed Displacer Beast\n(12 + 16 = 28)\nDisplacer Beast attacks Massy Vattack : *miss* : (14 + 6 = 20)\nDisplacer Beast attacks Massy Vattack : *miss* : (12 + 11 = 23)\nDisplacer Beast attacks Massy Vattack : *miss* : (3 + 6 = 9)\nMassy Vattack performs Whirlwind Attack.\nMassy Vattack attempts Whirlwind Attack on Displacer Beast : *hit* : (13 + 60 = 73)\nMassy Vattack damages Displacer Beast: 47 (37 Physical 5 Divine 5 Positive Energy)\nMassy Vattack damages Displacer Beast: 50 (40 Physical 5 Divine 5 Positive Energy)\nExperience Points Gained:\u00a0 3\nDisplacer Beast attacks Massy Vattack : *miss* : (15 + 16 = 31)\nSomeone attacks Massy Vattack : *miss* : (9 + 18 = 27)\nDisplacer Beast attacks Massy Vattack : *hit* : (20 + 11 = 31 : Threat Roll: 9 + 11 = 20)\nMassy Vattack : Damage Reduction absorbs 0 damage\nDisplacer Beast attacks Massy Vattack : *miss* : (10 + 6 = 16)\nMassy Vattack performs Whirlwind Attack.\nMassy Vattack attempts Whirlwind Attack on Displacer Beast : *critical hit* : (19 + 60 = 79 : Threat Roll: 11 + 60 = 71)\nMassy Vattack damages Displacer Beast: 48 (38 Physical 5 Divine 5 Positive Energy)\nExperience Points Gained:\u00a0 3\nDisplacer Beast attacks Massy Vattack : *miss* : (7 + 16 = 23)\nMassy Vattack damages Displacer Beast: 275 (225 Physical 25 Divine 25 Positive Energy)\nExperience Points Gained:\u00a0 3\nDisplacer Beast attacks Massy Vattack : *miss* : (8 + 6 = 14)\nDisplacer Beast attacks Massy Vattack : *miss* : (5 + 11 = 16)\nMassy Vattack attempts Whirlwind Attack on Displacer Beast : *hit* : (5 + 60 = 65)\nYou learn nothing from this kill. You are too far advanced in level.\nMassy Vattack killed Displacer Beast\n</details>\n<br/>\nI think it is safe to say that WA ignores displacement!<br/>\n<br/>\nTest Toon was a 40th level Character with a very high AB to filter out misses (only a 1 misses in this case).\u00a0 No recorded misses due to Displacement here.<br/>\n<br/>\nOne thing I will add - WA is really, really bad vs Enlarged Opponents (meaning those that have been enlarged with the toolset) - missing them entirely whereas attacking normally does not.\u00a0 I suppose this is where IWA is much better, but the Prereq is meh (23 Dex).\u00a0 Might be something to look into for a Dex based WM, however.<br/>\n<br/>\nI think, upon using WA more now on WoG, that perhaps it's Reputation should be upgraded to a pretty useful feat - lt basically makes one immune to Sneaks, Flanking, hits invisible, including Greater Sanctuary hidden foes, and more importantly imo ignores Displacement, all at highest AB on surrounding opponents.<br/>\n<br/>\nThat's pretty useful in my book!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:10 PM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the clever name of your character.\u00a0 If you say Massy Vattack aloud, it sounds like \"massive attack\".<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:29 PM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As a WM using a Mercurial Greatsword with all the feats (thanks, BeamDog and WoG!), her attacks are, in fact, MASSIVE!<br/>\n<br/>\nCrits over 290+<br/>\n<br/>\nThat's what I'm talkin' 'bout!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:22 PM - Feb 17, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I too like whirlwind attack on my MGS weapon masters...I just wish there was a way to playably squeeze in improved whirlwind attack somehow..<br/>\n<br/>\nSent from my Pixel 3 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

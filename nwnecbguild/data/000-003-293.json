@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "293",
+  "name": "Shadow Dancer Bard RDD",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/shadow-dancer-bard-rdd-t2354294.html",
+  "author": "KidMiracleman",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:50 PM - Aug 10, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was thinking of a Shadow Dancer Bard RDD dex build with just enough Shadow Dancer to get dodge uncanny dodge and epic dodge using the half celestial<br/>\n sub race<br/>\n<br/>\n Thoughts??<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:59 PM - Aug 10, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think I could make that for you. Please remind me what the half-celestial sub race give you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:05 AM - Aug 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Half-celestial<br/>\n Restrictions: None<br/>\n Favored class: None<br/>\n Benefits: Low Lightvision, +3 Str, Con, Wis and Cha, +2 Dex &amp; Int, 50% Cold, Acid, Electrical Immunity, Immunity Disease, +4 Fort save<br/>\n Negatives: 50% Vul to Negative Energy and fire<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:01 PM - Aug 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here you go: I had to delay the 10th level of RDD until level 40 so that the 20th level of Bard could be at level 39 to meet the requirements of Lasting Inspiration.<br/>\n<br/>\n Celetial Shadow Dragon (Bard 20 / Red Dragon Disciple 10 / Shadowdancer10)<br/>\n Human, Non-Lawful<br/>\n Playable 1 - 40<br/>\n<br/>\n Notes:<br/>\n Made for Half Cestial subrace on Tornado of Souls PW (Restrictions: None, Favored class: None, Benefits: Low Lightvision, +3 Str, Con, Wis and Cha, +2 Dex &amp; Int, 50% Cold, Acid, Electrical Immunity, Immunity Disease, +4 Fort save, Negatives: 50% Vul to Negative Energy and fire, ECL 4) Note: The 50% vulnerability to fire from Half Celectial combined with the 100% immunuty to fire from RDD will result in a 50% immunity to fire.<br/>\n<br/>\n Your perform skill keeps up with your Bard levels until level 38, when you will be 1 point shy of the level 19 song. At level 39, you will have the level 19 song, but you will be 5 points shy of the level 20 song. At level 40, the +2 CHA will bring you to 4 points shy of the level 20 song. It shouldn't be too hard to make up for that with gear.<br/>\n<br/>\n Your net UMD will be only 39 until the level 40 Charasma boost, which meaans that you will only be able to use items as if your UMD was 35 until level 40.<br/>\n<br/>\n You can choose to replace Improved Crit with Knockdown, if you value that more. Another option would be to use a finessable Simple weapon, either a mace or a dagger, allowing you to drop Weapon Proficiency: Martial. Then you could move Blind Fight to level 1 and take Knockdown at level 9 and keep Improved Crit.<br/>\n<br/>\n Abilities: [What you enter] Starting (Ending)<br/>\n STR: [13] 16 (24)<br/>\n DEX: [16] 18 (30)<br/>\n CON: [13] 16 (18)<br/>\n WIS: [9] 12<br/>\n INT: [12] 14 (16)<br/>\n CHA: [13] 16 (18)<br/>\n<br/>\n Leveling Guide:<br/>\n Human: (Quick to Master)<br/>\n 01: Bard(1): Dodge, Weapon Proficiency Martial<br/>\n 02: Bard(2)<br/>\n 03: Bard(3): Weapon Finesse<br/>\n 04: Bard(4): DEX+1, (DEX=19)<br/>\n 05: Bard(5)<br/>\n 06: Red Dragon Disciple(1): Weapon Focus: Rapier<br/>\n 07: Bard(6)<br/>\n 08: Red Dragon Disciple(2): DEX+1, (STR=18), (DEX=20)<br/>\n 09: Red Dragon Disciple(3): Blind Fight<br/>\n 10: Red Dragon Disciple(4): (STR=20)<br/>\n 11: Red Dragon Disciple(5)<br/>\n 12: Bard(7): DEX+1, Mobility, (DEX=21)<br/>\n 13: Shadowdancer(1): {Hide in Plain Sight}<br/>\n 14: Shadowdancer(2): {Darkvision, Evasion, Uncanny Dodge I}<br/>\n 15: Red Dragon Disciple(6): Improved Critical: Rapier<br/>\n 16: Red Dragon Disciple(7): DEX+1, (DEX=22), (CON=18)<br/>\n 17: Shadowdancer(3)<br/>\n 18: Bard(8): Curse Song<br/>\n 19: Red Dragon Disciple(8)<br/>\n 20: Shadowdancer(4): DEX+1, (DEX=23)<br/>\n 21: Red Dragon Disciple(9): Epic Weapon Focus: Rapier, (INT=16)<br/>\n 22: Bard(9)<br/>\n 23: Shadowdancer(5): {Defensive Roll}<br/>\n 24: Shadowdancer(6): DEX+1, Epic Prowess, (DEX=24)<br/>\n 25: Bard(10)<br/>\n 26: Shadowdancer(7): {Slippery Mind}<br/>\n 27: Shadowdancer(8): Armor Skin<br/>\n 28: Bard(11): DEX+1, (DEX=25)<br/>\n 29: Shadowdancer(9)<br/>\n 30: Shadowdancer(10): Epic Dodge, {Improved Evasion}<br/>\n 31: Bard(12)<br/>\n 32: Bard(13): DEX+1, (DEX=26)<br/>\n 33: Bard(14): Great Dexterity I, (DEX=27)<br/>\n 34: Bard(15)<br/>\n 35: Bard(16)<br/>\n 36: Bard(17): DEX+1, Great Dexterity II, (DEX=29)<br/>\n 37: Bard(18)<br/>\n 38: Bard(19)<br/>\n 39: Bard(20): Lasting Inspiration<br/>\n 40: Red Dragon Disciple(10): DEX+1, (STR=24), (DEX=30), (CHA=18)<br/>\n<br/>\n Stats:<br/>\n Hitpoints: 444<br/>\n Skillpoints: 320<br/>\n Saving Throws (Fortitude/Will/Reflex): 23/24/32<br/>\n Saving Throw bonuses: Spells: +9, Traps: +2<br/>\n BAB: 25<br/>\n AB (max, naked): 39 (melee), 36 (ranged)<br/>\n AC (naked/mundane armor/shield only): 34/37<br/>\n Spell Casting: Bard(6)<br/>\n Alignment Changes: 0<br/>\n<br/>\n Skills:<br/>\n Concentration 43(47), Discipline 43(50), Hide 10(20), Listen 43(44), Lore 13(36), Move Silently 8(18), Perform 42(46), Spellcraft 42(45), Tumble 40(50), UMD 36(40)<br/>\n<br/>\n 01: Concentration(4), Discipline(4), Hide(2), Listen(4), Lore(4), Move Silently(2), Perform(4), Tumble(4)<br/>\n 02: Concentration(1), Discipline(1), Hide(1), Listen(1), Lore(1), Perform(1), Tumble(1)<br/>\n 03: Concentration(1), Discipline(1), Listen(1), Lore(1), Move Silently(1), Perform(1), Tumble(1)<br/>\n 04: Concentration(1), Discipline(1), Hide(1), Listen(1), Lore(1), Perform(1), Tumble(1)<br/>\n 05: Concentration(1), Discipline(1), Listen(1), Lore(1), Move Silently(1), Perform(1), Tumble(1)<br/>\n 06: Concentration(1), Discipline(1), Listen(1), Save(2)<br/>\n 07: Concentration(1), Discipline(1), Hide(2), Listen(1), Move Silently(1), Perform(1), Tumble(2)<br/>\n 08: Concentration(1), Discipline(1), Listen(1), Save(2)<br/>\n 09: Concentration(1), Discipline(1), Listen(1), Save(4)<br/>\n 10: Concentration(1), Discipline(1), Listen(1), Save(6)<br/>\n 11: Concentration(1), Discipline(1), Listen(1), Save(8)<br/>\n 12: Concentration(1), Discipline(1), Hide(4), Listen(1), Move Silently(3), Tumble(5)<br/>\n 13: Listen(1), Tumble(1), Save(7)<br/>\n 14: Listen(1), Tumble(1), Save(14)<br/>\n 15: Concentration(3), Discipline(3), Listen(1), Spellcraft(3), Save(9)<br/>\n 16: Concentration(1), Discipline(1), Listen(1), Save(11)<br/>\n 17: Listen(1), Tumble(3), Save(16)<br/>\n 18: Concentration(2), Discipline(2), Listen(1), Perform(3), Tumble(1), UMD(14)<br/>\n 19: Concentration(1), Discipline(1), Listen(1), Save(2)<br/>\n 20: Listen(1), Tumble(2), Save(8)<br/>\n 21: Concentration(2), Discipline(2), Listen(1), Save(8)<br/>\n 22: Concentration(1), Discipline(1), Listen(1), Tumble(2), UMD(11)<br/>\n 23: Listen(1), Tumble(1), Save(8)<br/>\n 24: Listen(1), Tumble(1), Save(16)<br/>\n 25: Concentration(3), Discipline(3), Listen(1), Spellcraft(13), Tumble(1), UMD(3)<br/>\n 26: Listen(1), Tumble(1), Save(8)<br/>\n 27: Listen(1), Tumble(1), Save(16)<br/>\n 28: Concentration(3), Discipline(3), Listen(1), Perform(3), Spellcraft(11), UMD(3)<br/>\n 29: Listen(1), Lore(2), Tumble(2), Save(5)<br/>\n 30: Listen(1), Tumble(1), Save(13)<br/>\n 31: Concentration(3), Discipline(3), Listen(1), Perform(3), Spellcraft(7), Tumble(1), UMD(3)<br/>\n 32: Concentration(1), Discipline(1), Listen(1), Perform(2), Spellcraft(1), Tumble(1), UMD(1)<br/>\n 33: Concentration(1), Discipline(1), Listen(1), Perform(2), Spellcraft(1), Tumble(1), UMD(1)<br/>\n 34: Concentration(1), Discipline(1), Listen(1), Perform(3), Spellcraft(1), Tumble(1)<br/>\n 35: Concentration(1), Discipline(1), Listen(1), Perform(4), Tumble(1)<br/>\n 36: Concentration(1), Discipline(1), Listen(1), Perform(4), Tumble(1)<br/>\n 37: Concentration(1), Discipline(1), Listen(1), Perform(4), Tumble(1)<br/>\n 38: Concentration(1), Discipline(1), Listen(1), Perform(4), Spellcraft(1)<br/>\n 39: Concentration(1), Discipline(1), Listen(1), Perform(1), Spellcraft(4)<br/>\n 40: Concentration(1), Discipline(1), Listen(1), Lore(3)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:00 PM - Aug 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">opps!  I guess I should have said that I wanted as many levels of RDD as possible to get the AC bonuses of RDD<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:51 PM - Aug 11, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What empyre made, already has trhe optiimal lvl spread. If you rise Rdd by ten lvls for example you will have to reduce Bard to 10 and then loose 5 AC from his song to gain merely 2 from dragonic skin. The only reason you might want more Rdd lvls/ less Bard lvls in this build is if you know you can aleady cap your dodge bonus to +20 via items, haste counds also as dodge bonus keep that in mind. Lets say (Boots of the Sun Soul +10, Bard song, mage armour, Haste) would cap that and then you would gain AC only from Rdd's dragonic skin.<br/>\n<br/>\n By the way this build has in a (+5 items, module/ pw) 80 AC plus ED.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:54 AM - Aug 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Furthermore, he would have the same AC with Monk robe and shield as with armor and shield (assuming the same armor bonus on the robe and the armor). That would help with casting (with casting penalty only from shield).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:35 AM - Aug 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the Gutsy Monk - Monk 20 / Dwarven Defender 14 / Fighter 6 but with nu uncanny dodges he does not do well against hordes.  I was hoping to find a build that give the same<br/>\n naked AC 38/42 and also has dodge uncanny dodge and epic dodge.  I thought I was onto something with the SD Bard RDD build but I guess not.  Sorry<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:03 PM - Aug 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do not forget that Curse Song will always give you +2 AC more that isn't showing anywhere and that it's effects are rather permanent with lasting inspiration. With the amounts of AC this build has plus Dodge/ UD/ ED and a good Improved Invisibility effect from a scroll/ wand i don't think many things will exist that would hit you. Hmm, what sub-races exist for Halflings/ Elves? You could probably gain an additional +2\u00a0 AC if you truly maximize Dexterity with a HIn/ Elf, especially if there is some good sub-race for them.<br/>\n<br/>\n As a side note, what are the expecting AB's of the mobs there?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:49 AM - Aug 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>I like the Gutsy Monk - Monk 20 / Dwarven Defender 14 / Fighter 6 but with nu uncanny dodges he does not do well against hordes. I was hoping to find a build that give the same<br/>\n naked AC 38/42 and also has dodge uncanny dodge and epic dodge. I thought I was onto something with the SD Bard RDD build but I guess not. Sorry<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Dwarven Defender has a feat called Defensive Awareness that protects your DEX AC just like Uncanny Dodge.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:32 AM - Aug 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">wow!  OK  Cool!  Thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:17 AM - Aug 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is better actually, since Defensive Awareness also makes you immune to sneak attacks while you attacking something.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

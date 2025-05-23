@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "386",
+  "name": "Fighter/ Palemaster/ Bard",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/fighter-palemaster-bard-t2341211.html",
+  "author": "Arianlhew",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Arianlhew",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:49 AM - Aug 28, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">First let me say im very pleased with this forum. Thanks for all the time and upkeep. Anyway im trying to build a fighter palemaster with a level 30 cap. Now im trying to work in immunity to crits and still have dev crit. Is there any help you could lend?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:46 PM - Aug 28, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heya,<br/>\n<br/>\nWell, at first glance it shouldn't be very hard. You can go Half-Orc, Fighter 16 Pale Master 10 Bard 4, take Fighter 13 Bard 3 PM 4 pre-epic to try to diminish your BAB loss (as is it will be 3 points lower than max, cuz you lose 1 for Bard 1 and 1 for PM 1 and PM 3 each, so you have 17 pre-epic BAB, still 4 APR), then take OC at 21 and DC at 24. You can spread the Bard levels for skill dumps (at 7, 12, and then 19 (so your UMD is on par with your Tumble because of the negative charisma), then take the last level of Bard at 29 to max out both skills.<br/>\n<br/>\nAny questions you have, feel free to ask.<br/>\n<br/>\nEDIT: Forget what I said about spreading your Bard levels, you need to have all 3 before 16 to be able to take PM, so taking Bard at 19 is not an option. <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Arianlhew",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:48 PM - Sep 08, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So I ended up goin, with my race as duergar.  Lvl split is 16 ftr, 4 brd, 10 pm.  I took 13 ft and 3 brd and 4 pm pre-epic. This would help with my ab. The charecter ends up being a high con and str build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:10 PM - Sep 08, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Arianlhew wrote:</strong>So I ended up goin, with my race as duergar.  Lvl split is 16 ftr, 4 brd, 10 pm.  I took 13 ft and 3 brd and 4 pm pre-epic. This would help with my ab. The charecter ends up being a high con and str build.</div></blockquote>\n\nIf you don't need AB to hit things, then CON is a good choice, EDR is also good to combo with critical hit immunity, if you can afford the feats for it. 9 points of damage reduction on a PM build means no dex toon will damage you unless they have bonus elemental damage or something.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

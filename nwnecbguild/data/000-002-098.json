@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "098",
+  "name": "Damage Bonus Item Property",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-bonus-item-property-t2355526.html",
+  "author": "Yunim",
+  "avatar": "10759176_1572007808.png",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:55 PM - Aug 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Recently in my EE testing I've been experimenting with Damage Bonus item properties. Although it's not really related to character building I'm posting the results here since it may be of use to people when equipping their characters.<br/>\n<br/>\nDamage Bonus item properties, as the name suggests, add bonus damage to weapons. Damage Bonus item properties of the same damage type do not stack, with certain damage bonuses taking priority over others.\u00a0For variable damage bonuses (1dx, 2dx) the game does not perform the damage roll and then use the highest one, it only uses the highest priority Damage Bonus.<br/>\nFor example, a +1 Slashing Damage Bonus and a +2 Slashing Damage Bonus will not stack, only the +2 Slashing Damage Bonus will be used. This applies to elemental damage bonuses as well. A +1d4 Fire Damage Bonus will not stack with a +1d6 Fire Damage Bonus, only the +1d6 Fire Damage Bonus will be used.<br/>\n<br/>\nThe Damage Bonus item property and the Damage Increase effect (eg Bard Song, Divine Might, Prayer) should not be confused with each other. The +1 Slashing Damage Increase effect from Prayer will stack properly with a +2 Slashing Damage Bonus item property.<br/>\nFor example, let's say a Paladin with a +5 Divine Damage Increase effect from Divine Might uses a longsword with a +1d4 Divine Damage Bonus and the Holy Avenger item property. The +5 Divine Damage Increase of\u00a0Divine Might stacks with both the +1d4 Divine Damage Bonus and the +1d6 Divine Damage Bonus vs Evil from Holy Avenger, but the two Divine Damage Bonus item properties do not stack with each other. So the Paladin will do 1d6 + 5 Divine damage against Evil targets and 1d4 + 5 Divine damage against non-Evil targets. Note that non-physical Damage Increase effects ignore DI/DR calculations completely, so only the 1d4 or 1d6 Divine damage will be affected by DI/DR.<br/>\n<br/>\nThe Enhancement Bonus item property is effectively a combination of the Attack Bonus and Damage Bonus item properties. As a result, there are cases where Damage Bonus item properties and Enhancement Bonus item properties do not stack. The damage type of this Damage Bonus is governed by the base item type of the weapon.\u00a0The Extra Melee Damage item property affects the damage calculations of DI/DR but does not affect the damage type of an Enhancement Bonus.<br/>\nFor single damage type weapons, the damage type matches the base damage type. For Bludgeoning/Piercing weapons (morningstars), the damage type is Piercing. For Piercing/Slashing weapons (creature weapon claws, halberds, scythes), the damage type is Slashing. There are no Bludgeoning/Slashing or Bludgeoning/Piercing/Slashing weapons in vanilla NWN but I predict that the damage type would be Slashing for such weapons.<br/>\n<br/>\nSo to summarise: Bludgeoning weapons with EB should not have a Bludgeoning Damage Bonus added to them, Piercing or Bludgeoning/Piercing weapons with EB should not have a Piercing Damage Bonus added to them, and Slashing or Piercing/Slashing weapons with EB should not have a Slashing Damage Bonus added to them.<br/>\n<br/>\nBelow is a list of damage bonus priorities. The earlier the damage bonus appears the lower it's priority, with lower priority damage bonuses being overwritten by higher priority damage bonuses. I didn't check all possible combinations so it's possible that the list isn't completely accurate or that there are bugs with some of the priorities. +11 and +2d12 have the same priority, whichever damage bonus is applied first will be the one that is used.<br/>\nA +x Enhancement Bonus is effectively the same as a +x Damage Bonus, so for example a Scythe (Piercing/Slashing) with both a +5 Enhancement Bonus and a +1d8 Slashing Damage Bonus will only use the +5 Slashing Bonus Damage.<br/>\n<br/>\nDamage Bonus Priority List<br/>\n+1. +2. +1d4. +3. +1d6. +4. +1d8. +5.<br/>\n+1d10. +2d4. +6. +1d12. +7. +2d6. +8. +9. +2d8. +10.<br/>\n+2d10. +11 = +2d12. +12. +13. +14. +15.<br/>\n+16. +17. +18. +19. +20.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:18 PM - Aug 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is some good shit, Yunim.<br/>\n<br/>\nThanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:56 PM - Aug 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very good. It may serve as a guide.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:46 PM - Aug 07, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is good stuff Yunim!\u00a0<br/>\nIt has been known for probably years amongst players in the WoG forum that the same damage types don't stack, in fact it is written in the <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Damage_bonus\" rel=\"noreferrer\" target=\"_blank\">NWN Wiki</a>\u00a0by The_Krit in August 2011.<br/>\nHowever no one has gone to the trouble of creating a detailed priority list for amounts of damage, which is very useful indeed.<br/>\nI've copy and pasted that priority to a notepad file somewhere! Many thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "9:30 AM - Aug 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The majority of this information is common knowledge for experienced players, the specific things that I tested were if the stacking rules apply to creature weapons (they do) and the priority order. The main reason I posted this was so that I can reference the priority order in the future.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:17 PM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">After more testing I've found that the priority list is determined by the value of \"Rank\" in iprp_damagecost.2da, and is therefore softcoded.<br/>\nBy default +11 and +2d12 both have the same Rank value (20), while the other damage bonus properties have Rank values that match the posted priority list.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:47 PM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm not obsessing Yunim, I promise, but where would Monk's d20 fists (level 16+ Monk, if not small race) come in your list?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "10:10 PM - Nov 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This priority list only applies to damage bonus item properties, the weapon's (or unarmed) base damage doesn't matter.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

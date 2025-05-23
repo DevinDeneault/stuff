@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "093",
+  "name": "Weapon Finesse and ability score loss",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weapon-finesse-and-ability-score-loss-t2355642.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:41 AM - Dec 24, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Case 1:<br/>\n<br/>\nA PC who has Weapon Finesse later develops a base strength that is higher than his base dexterity, but then equips an item increasing his dexterity so that it becomes higher than his strength. Could this PC still benefit from Weapon Finesse?<br/>\n<br/>\n<br/>\nCase 2:\u00a0<br/>\n<br/>\nThe above PC does not have anything which grants ability score bonuses, so his strength is higher than his dexterity. While in combat he is dealt strength damage (temporary), and his strength becomes lower than his dexterity.\u00a0<br/>\n<br/>\na.) Would Weapon Finesse become active?<br/>\n<br/>\nb.) Would it be immediately after the strength reduction (while still in combat)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:49 AM - Dec 24, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Your PC benefits from the ability that is higher at the time. If it didn't have Weapon Finesse, however, he could not benefit from a higher Dexterity at all.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:55 PM - Dec 24, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey darktooth!<br/>\n<br/>\nYes to all, BUT, rememeber that the weapon the PC is wielding needs to be finessable for Weapon Finesse to take effect. If the PC is wielding a Longsword, even if he has the feat, it won't apply.<br/>\n<br/>\nI hope this answers your questions.<br/>\n<br/>\nCheers!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "4:08 PM - Dec 24, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Indeed.<br/>\n<br/>\nWhen I was new to NWN I made exactly this mistake. Played a dual-wielding dexer ranger with LONGSWORDS and wondered why the game was so hard, lol...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "102",
+  "name": "The CBC",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-cbc-t2355607.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:02 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am trying to use the CBC to create the output for the Nightshade build.<br/>\n<br/>\nI am at level 21, trying to go to level 22 (which would be Shadowdancer) - I have all the prereqs (<strong>Feats:</strong> dodge, mobility <strong>Skills:</strong> hide 10 ranks, move silently 8 ranks, tumble 5 ranks) but the CBC will only let me take M (Monk), F (Fighter)\u00a0 or 0 (I have no idea what that is) from the dropdown under Classes.<br/>\n<br/>\nAnyone know why?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:06 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here are the screenies:<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:59 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can see from the screen shot that you have chosen monk and fighter as classes, but I am not able to see what 3rd class you have chosen. Are you sure that you have chosen SD as a third class after monk and ... wait... shouldn't one of the the classes be assassin?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "5:00 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe you should preselect what classes your character will have under column Classes (BK?). As you see, the preset in the sheet is Monk/Fighter/nothing, which is likely the reason you can only select Monk, Fighter or 0.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:33 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">But I have no Fighter levels!<br/>\n<br/>\nTake a look!\u00a0 They are all Monk.<br/>\n<br/>\nI cannot take a level in Shadowdancer, regardless.\u00a0 I am wondering why.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:39 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On the top, to the right of Feats, you have selected Monk and Fighter and, apparently, no third class, although we cannot see it in the screenshot.\u00a0 You can only select on the far left the classes you have chosen to the right of Feats.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:07 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">*<em>looks smug about using pencil and paper</em>* (for once. We really do need a hittable smug-face emoji, btw)<br/>\n<br/>\nGood luck, Web!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:19 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"22629\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22629&amp;sid=eec0f15c0d6dacea6e983d16db930c9b#p22629\">\u2191</a><div class=\"responsive-hide\">Nov 10, 2020</div></cite>On the top, to the right of Feats, you have selected Monk and Fighter and, apparently, no third class, although we cannot see it in the screenshot.\u00a0 You can only select on the far left the classes you have chosen to the right of Feats.</div></blockquote>\nAh, I see, thanks!\u00a0 I thought I only had to enter the class in the far lefthand column.\u00a0 Thanks for the pointer!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:21 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I want to truly thank all that helped me here.<br/>\n<br/>\nThank you, sincerely.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:12 PM - Nov 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /> I thought that was the hittable thug-face emoji?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

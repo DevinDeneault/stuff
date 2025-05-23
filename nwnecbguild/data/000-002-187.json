@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "187",
+  "name": "Two-weapon fighting off-hand weapon",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/two-weapon-fighting-off-hand-weapon-t2354953.html",
+  "author": "Emperor_Marius",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Emperor_Marius",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:21 PM - Nov 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Is it worth using a light weapon in the off-hand to reduce penalties or is it more effective to just use two weapons of the same size? As an example, 2 rapiers or rapier and shortsword?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "5:10 PM - Nov 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In AB terms it's best to use two identical, small weapons, so that you can get EWF on all attacks and suffer no malus from having a non-light weapon in the off-hand. This will outweigh the benefit of having a heavier weapon with a little more damage.<br/>\n<br/>\nThe other option is a double-sided weapon, which counts as a light weapon for the off-hand, but which requires the Exotic Weapon Feat (and is less flexible).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:24 PM - Nov 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A lot will depend on what build you're playing, but a light weapon in the off-hand is always going to be better in AB terms - as Thorsson says (tiny for halfling or gnome, obviously). However, if you've got lots of Fighter and/or CoT levels you might have enough feats to take WF, WS, Imp Crit, EWF, EWS in two different weapons as well as the 3 two-weapon fighting feats. In that case, it's worth thinking about different damage types - slashing in the main hand, piercing or blunt in the off, for example.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

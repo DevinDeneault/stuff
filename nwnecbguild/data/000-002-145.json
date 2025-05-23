@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "145",
+  "name": "Searching for existing builds",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/searching-for-existing-builds-t2355343.html",
+  "author": "Shia_Luck",
+  "avatar": "10758897_1524612892.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "9:46 PM - Feb 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Do we have a tool these days to enable us to search previous builds so we are not duplicating something? Thanks :)<br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "9:49 PM - Feb 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">ECB Build Search: [<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... index.html</a>]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "10:08 PM - Feb 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you very much Yunim :) <br/>\n<br/>\nHow up to date is it? I remember having to use an offline archive for a while for some older builds. That is not necessary now I take it?\u00a0 Thanks again :)<br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:41 PM - Feb 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Shia<br/>\n<br/>\nYunim links to the ECB Archives which covers builds I believe to early 2011.<br/>\nIt is an excellent search tool and covers perhaps a few thousand builds<br/>\nIt only searches lvl 40 builds.<br/>\n<br/>\n<br/>\nIf you want even newer builds the team have been working on an updated guild archive. <em class=\"mention\">@DoesntPlayAnymore</em>\u00a0coded this in his spare time. This engine searches newer finalised level 40 builds between 2011 to mid 2019.\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/ecb-guild-build-archive-v2\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... archive-v2</a><br/>\n<br/>\nWe are hoping to link the two together so we can have a 3000+ build search engine, however we are still looking for someone with the appropriate technical expertise.<br/>\n<br/>\n<br/>\n<br/>\nOther ways to search is:<br/>\n<br/>\nTapatalk forum search (see the search bar above), not very fun to search<br/>\n<br/>\nGoogle Search:<br/>\n<br/>\n<blockquote><div>site:<a class=\"postlink\" href=\"http://www.tapatalk.com/groups/nwnecbguild\" rel=\"noreferrer\" target=\"_blank\">www.tapatalk.com/groups/nwnecbguild</a> \"Druid\" \"Monk\"</div></blockquote>\n\nAlthough this is less user friendly, those who are familiar with google search it may work well<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "11:44 PM - Feb 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Orion2019, thanks :)<br/>\n<br/>\n@DoesntPlayAnymore sounds like a true hero if they really don't anymore. I wish I could help but my skillset does not include coding. This must be an update to what I had so thank you very much to all who helped put it together. I see some of the usual suspects in the credits *grin*. <br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "UrbanHermit",
+      "avatar": "10759229_1581741214.jpg",
+      "timestamp": "4:18 AM - Feb 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"18944\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18944&amp;sid=5b0fb1717493f38a2d9129cbfd008a98#p18944\">\u2191</a><div class=\"responsive-hide\">Feb 06, 2020</div></cite>ECB Build Search: [<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... index.html</a>]</div></blockquote>\nLove that archive. You can get lost there for hours and hours. But I prefer the formatting in the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">downloadable version</a> from The Vault, even though I can only seem to get it to work with IE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Game Guides",
+  "forum_id": "001",
+  "id": "027",
+  "name": "Skills where to stop",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/skills-where-to-stop-t2331487.html",
+  "author": "WhiZard",
+  "avatar": "no_avatar.png",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "WhiZard",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:02 PM - May 04, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Skill points are precious.  When taking a skill it is usually recommended to maximize the skill so as to remain competitive with the environment.  Below I have detailed a number of skills with earlier cut-off points which will still remain competitive.  This is given as a range of diminishing returns based on the modified skill score (including equipment and spells).  A build certainly does not need to invest in any of these skills, but rather it may be ill-suited to take too many ranks, especially if they can be used elsewhere.<br/>\n<br/>\nAnimal Empathy<br/>\nSuggested cut-off: 26-36<br/>\nAt 26 most standard creatures will be succeeded against with a roll of one.  At 36 all standard creatures and most PC animal companions will be dominated with a roll of one.<br/>\n<br/>\nCraft Armor<br/>\nSuggested cut-off: 27-40<br/>\nAt 27 the mithral shield can be crafted without chance of failure.  At 40 a +20 full plate can be fully modified without chance of failure.<br/>\n<br/>\nCraft Trap<br/>\nSuggested cut-off: 25-44<br/>\nAt 25, can just barely craft a deadly gas trap and other traps are very likely to craft.  At 44 all traps can be crafted without chance of failure<br/>\n<br/>\nCraft Weapon<br/>\nSuggested cut-off: 14-18<br/>\nAt 14 can modify any weapon and craft ironwood weapons without chance of failure.  At 18 all weapons can be crafted without chance of failure.<br/>\n<br/>\nHeal<br/>\nSuggested cut-off: 15-34<br/>\nAt 15 most poisons and diseases are removed on a roll of one with full guarantee outside of combat (take 20).  At 34 all poisons and diseases can be removed during combat.<br/>\n<br/>\nLore<br/>\nSuggested cut-off: 20-55 (for this include lore bonus from identify (+13 for standard potion higher if the spell can be cast)) <br/>\nAt 20 (7 + 13 from potion) can identify bland +5 gear.  55 is the highest for identification.<br/>\n<br/>\nPerform <br/>\nSuggested cut-off: 30-75<br/>\nAt 30 the bard/curse song affects 5AC (with 16 bard).  At 75 it affects 6AC (with 25 bard).  Intermediate scores have only a marginal effect.<br/>\n<br/>\nPick pocket<br/>\nSuggested cut-off: 19-29<br/>\nAt 19 can automatically pick pocket neutrals with minimal spot investment.  At 29 all pick pocket attempts will succeed (though they can still make the target hostile).<br/>\n<br/>\nSearch<br/>\nSuggested cut-off: 34-46<br/>\nAt 34 a non-rogue has maxed his trap detection.  At 46 a rogue can detect on a roll of one a deadly gas trap set by a player who barely made the skill roll with a take 20.  There is no way to compete with PC set epic traps.<br/>\n<br/>\nSet trap<br/>\nSuggested cut-off: 15-45<br/>\nAt 15 can succeed on a take 20 for most deadly traps.  At 45 can succeed on a take 20 for epic traps.<br/>\n<br/>\nUMD<br/>\nSuggested cut-off: 35-40<br/>\nAt 35 can use any scroll without chance of failure.  At 40 can fully take advantage of a holy avenger with additional properties with a total value at 1,000,000 or less.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

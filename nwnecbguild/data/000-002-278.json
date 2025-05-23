@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "278",
+  "name": "BEWARE!: Gremlins play with ECB cookies and widgets",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/beware-gremlins-play-with-ecb-cookies-and-widgets-t2207458.html",
+  "author": "HipMaestro",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "6:30 AM - Mar 11, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I figured I should post this alert just in case there are other ECB members that have been experiencing log-in problems like I have lately.<br/>\n<br/>\nTurns out it was a combination of manually removing cookies for the ECB forum and also re-entering the auto-login username/password for the widget I have on these browsers.  For some reason, it had placed a blank in the username field.  Who knows why and who knows why it chose to do it a few days ago?  Kismet, I suppose.<br/>\n<br/>\nI had a PM with MrZork who seemed to have experienced something similar during the same period and he indicated that the \"Delete all board cookies\" hyperlink at the bottom of the ECB screen doesn't work. <br/>\n<br/>\nBottom line is:  Should you experience any log-in problems on the ECB yourself, manually purge the applicable cookies before investigating any other possibilities.  Also check what is being stored in the fields of your auto-log widget if you have one in use.<br/>\n<br/>\nGremlins must start their fiscal action policy in March after resting during the holidays.  I can imagine no other cause.  BTW, they must be ECB gremlins (the ones with the ghostly-blue aura) because I had no problems logging in anywhere else.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "3:45 AM - Mar 14, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A follow-up:<br/>\n<br/>\nApparently, the forum support team finally got the \"Stay Logged In\" issue resolved and needed to change the cookie structure enough to make the login a problem unless a member manually removed the old cookies.  But once it is done, the account will now stay logged in until it is personally logged off.  Just make sure to check the box next to the Login button if you want it to do that for you.<br/>\n<br/>\nNow... back to our regularly-scheduled program...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "5:55 PM - Mar 14, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thats not all the gremlins attack.<br/>\n<br/>\nI had bookmarked a build Kail posted, and now it is gone.<br/>\n<br/>\nNWN Epic Character Builders Guild \u2022 View topic - Singing Spellblade: Sorc 23 / Bard 16 / Druid 1<br/>\n\"<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=10&amp;t=74\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.44.forumer.com/viewt ... ?f=10&amp;t=74</a>\"<br/>\n<br/>\n[NOTE:  added quotes to get the entire url to stay put.....]<br/>\nConlaoch<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "7:52 PM - Mar 14, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>conlaoch wrote:</strong>Thats not all the gremlins attack.<br/>\n<br/>\nI had bookmarked a build Kail posted, and now it is gone.<br/>\n<br/>\nNWN Epic Character Builders Guild \u2022 View topic - Singing Spellblade: Sorc 23 / Bard 16 / Druid 1<br/>\n\"<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=10&amp;t=74\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.44.forumer.com/viewt ... ?f=10&amp;t=74</a>\"<br/>\n<br/>\n[NOTE:  added quotes to get the entire url to stay put.....]<br/>\nConlaoch</div></blockquote>\nIf it was one of the standard level 40 builds, the address you are listing seems odd to me. Maybe it didn't bookmark right for you.  Dunno.  Check the address any of the builds in there and you will see what I mean (i.e. the title should be part of the URL).  However, if it is indeed a valid addy, try contacting support via the link in the lower RH corner of the screen and sending what you have.  If they keep back-ups, they should be able to re-install it.  It usually take a few days before they respond though you will get one of those automatic replies instantly. <br/>\n<br/>\nI haven't found anything on WoG like this so I doubt Kail posted it anywhere else but here, unfortunately.<br/>\n<br/>\nIn addition, I haven't had luck contacting Kail for over a month now, otherwise I am sure he would just plop it back in.  Stay tuned, though.  He may appear when we least expect it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:39 PM - Mar 16, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It seems all the url addresses have changed so here you go with the new location of the <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/singing-spellblade-sorc-23-bard-16-druid-1-t515356.html\" rel=\"noreferrer\" target=\"_blank\">Singing Spellblade</a>.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

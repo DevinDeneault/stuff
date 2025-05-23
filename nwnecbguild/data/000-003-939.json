@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "939",
+  "name": "Cult of the DragonSong Monks",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cult-of-the-dragonsong-monks-t2354936.html",
+  "author": "Elysion",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "Elysion",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:29 PM - Aug 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I would like to introduce you guys to a build Idea that I think would be fun to play in a PvM environment. If someone knows an optimized build for this please let me know.<br/>\n<br/>\nThe Idea behind this build would be to have a shapeshifting singing dragon Monk.<br/>\nMy original thinking about the level distribution would be: 18th level druid (for dragon shape), 16th level Bard (optimal bardic song) and 6th Level Monk (gaining (Improved) Knockdown)<br/>\nI need help with optimizing this build for level progression form level 1 to 40. Which feats/skills to pick first? which class to pick at what level? How and when to do the alignment shifting? etc.<br/>\nIt's probably a challenge to find the optimal build for this and to play it, but that's what makes it fun to me after having played the game multiple times in the past.<br/>\n<br/>\n1) PvM or PvP - This is mainly a PvM build for fun<br/>\n<br/>\n2) Level cap - level cap 40<br/>\n<br/>\n3) Race preference - Probably human for multiclassing<br/>\n<br/>\n4) Class preference - 18 Druid, 16 Bard, 6 Monk<br/>\n<br/>\n5) Melee preference - Unarmed attack<br/>\n<br/>\n6) Range preference - Zen Archery (WIS)<br/>\n<br/>\n7) Weapon preference - doesn't matter<br/>\n<br/>\n8) Maximum item enhancement - +10<br/>\n<br/>\n9) Spellcasting - Original thinking was to use buffing spells, but I am open for suggestions<br/>\n<br/>\n10) Custom factors - no custom factors<br/>\n<br/>\nThanks for anyone willing to brainstorm on this build <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:12 PM - Aug 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Elysion - and welcome to the Guild!<br/>\n<br/>\nBefore someone who knows something about druids comes along, it might be worth pointing out that with no custom factors, you can't be both a monk and a bard. Monk has to be lawful alignment, while bard has to be anything except lawful. (I think druids have to have some neutral in them.) So it might be worth thinking which you prefer.<br/>\n<br/>\nSorry to be a pain.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Elysion",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:20 PM - Aug 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Stagmeister, Thanks for the welcome and the response and yes I know the alignments will be a tricky part in this build and it will require some alignment shifting during gameplay. I see that as part of the challenge/lore of the build. I have played NWN and NWN2 multiple times in the past and I am looking for a bit of a challenge.(made an edit to the original post to include the alignment shifts)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:37 PM - Aug 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's an unarmed dragon Monk, but not what you asked for.\n<details><summary>Spoiler</summary>\nOrder of the Wyrm (Monk 25 / Sorcerer 1 / Red Dragon Disciple 14)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 14\nWIS: 12\nCHA: 8 (10)\nLeveling Guide:\n01: Monk(1): Luck of Heroes, Power Attack, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(3): Weapon Focus: Unarmed\n05: Monk(5)\n07: Monk(7)\n09: Monk(9): Great Cleave, {Improved Evasion}\n11: Monk(11)\n13: Monk(13)\n15: Monk(15): Lightning Reflexes\n17: Monk(16)\n19: Red Dragon Disciple(2): (STR=22)\n21: Red Dragon Disciple(4): Epic Weapon Focus: Unarmed, (STR=25)\n23: Red Dragon Disciple(6)\n25: Red Dragon Disciple(8)\n27: Red Dragon Disciple(10): Devastating Critical: Unarmed, {Darkvision}, (STR=30), (CHA=10)\n29: Monk(18)\n31: Monk(20)\n33: Monk(22): Great Strength II, (STR=34)\n35: Monk(23)\n37: Monk(25): Armor Skin\n39: Red Dragon Disciple(13): Great Strength IV, (STR=37)\n\nHitpoints: 496\nSaving Throws (Fortitude/Will/Reflex): 27/27/26\nBAB: 24\nAC (naked/mundane armor/shield only): 32/32\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Listen(1), Lore(1), Tumble(1), Save(6)\n04: Discipline(1), Listen(1), Lore(1), Tumble(1), Save(8)\n06: Discipline(1), Listen(1), Lore(1), Tumble(1), Save(10)\n08: Discipline(1), Listen(1), Lore(1), Tumble(1), Save(12)\n10: Discipline(1), Listen(1), Tumble(1), Save(18)\n12: Discipline(1), Listen(1), Tumble(1), Save(24)\n14: Discipline(1), Listen(1), Tumble(1), Save(30)\n16: Spellcraft(19), Save(18)\n18: Discipline(1), Search(21)\n20: Disable Trap(1), Discipline(1), Search(1)\n22: Disable Trap(1), Discipline(1), Search(1)\n24: Disable Trap(2)\n26: Disable Trap(1), Discipline(1), Listen(1)\n28: Discipline(1), Tumble(10)\n30: Disable Trap(2), Discipline(1), Listen(2)\n32: Discipline(1), Listen(1), Tumble(5)\n34: Discipline(1), Listen(1), Lore(3)\n36: Discipline(1), Listen(1), Lore(3), Tumble(2)\n38: Discipline(1), Listen(1), Lore(3)\n40: Discipline(1), Listen(1), Lore(3)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Elysion",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:18 AM - Aug 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Empyre65, thanks for the post and that build also looks interesting but yeah it's not what I was looking for. It like asking for chocolate ice with a horn and getting vanilla in a cup, they are both ice and probably taste delicious, but are not the same thing. ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Luck_Dragon",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:55 PM - Aug 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Elysion, here is a link to the old build search database<br/>\n.<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build225451.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 25451.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Elysion",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:39 PM - Aug 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Luck Dragon, that's an awesome find, so we just need to update that build to the after patch 1.69 version which requires wildshape 6X a day instead of 5x a day for DragonShape. This means I probably need to sacrifice at least 4 levels on the bard side or at least 4 levels on the monk side.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:53 PM - Aug 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Luck_Dragon wrote:</cite>\nElysion, here is a link to the old build search database<br/>\n.<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build225451.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 25451.html</a>\n</div></blockquote>\n\nThat site is back? Awesome! I and others here have missed it since it disappeared years ago.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

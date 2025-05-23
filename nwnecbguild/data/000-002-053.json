@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "053",
+  "name": "A question regarding some new build possibilities",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-question-regarding-some-new-build-possibilities-t2355889.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:52 PM - Jan 12, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As you may (or may not, accordingly) know, BeamDog made it possible to finally create custom Spellbooks for Classes in NWN:EE.<br/>\n<br/>\nA hak has been made to bring spellbooks to the PrCs of Harper Scout, Blackguard, and Assassin, bringing them inline with their PnP counterparts.<br/>\n<br/>\nAside from Blackguard here, the spells of both Harper Scout and Assassin are Arcane in nature, meaning that it actually qualifies them for the following PrCs:<br/>\n<br/>\nArcane Archer<br/>\nRed Dragon Disciple<br/>\nPale Master<br/>\n<br/>\nIn light of this, how does the ECB feel about expanding builds to account for this?<br/>\n<br/>\nAs of right now, it is possible to put this hak into Mods and/or PWs (barring some difficulties, such as those with modified Class .2das).\u00a0 This means that yes, peeps will be able to build using these methods (might need some additional work, accordingly).<br/>\n<br/>\nStill, I personally find this really, really exciting!\u00a0 New building blocks!\u00a0 Oh my oh my!<br/>\n<br/>\nI haven't been this excited since HotU came out!<br/>\n<br/>\nThe hak in question : <a class=\"postlink\" href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1975673785&amp;searchtext=\" rel=\"noreferrer\" target=\"_blank\">https://steamcommunity.com/sharedfiles/ ... earchtext=</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:26 AM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I love the idea Web, truly, but my problem is (as ever) the technicalities. An Assassin or HS AA opens marvellous opportunities, for example...<br/>\n<br/>\nHowever (and you knew there'd be a however), and others may well have different views, we're still supposed to focus on vanilla NwN here, so I can't buy into it as a norm. But (please note the lack of a 'however') if requests are made for such a build, that could be fun. Just not a Full Epic forum one. At least for now.<br/>\n<br/>\nSorry, and this isn't me just pissing on your strawberries, because I genuinely see it as a great implementation.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:14 AM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the idea of spellbooks for these classes.<br/>\nIf nothing else, we must follow up on how the new hak works and see how popular it becomes.<br/>\nIf the hak replaces the spell-like abilities, we must know if the stacking of the ability buffing spells such as BG Bull's, HS Cat's and Eagle's is out or if it's still there.<br/>\nThe ability stat for casting also becomes an issue now for low wisdom BGs. Assassins normally have a high intelligence while HSs may or may not have a high charisma.<br/>\nIt is a good question if the Assassin and HS classes now are programmed to count as a arcane casters. That could indeed open up a whole new avenue of AA and PM builds. As for RDD, I assume that you still need a class associated with Dragon blood, such as Bard and Sorcerer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:04 PM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Hak does not replace the spell like abilities (so that it does not break backwards compatibility) but does make them \"non-operative\" - meaning that the new spellbooks take precedence.<br/>\n<br/>\nI also made a mistake regarding Assassin and RDD - since Assassins have to memorize spells like Wizards, they are not a \"spontaneous spellcaster\" and therefore do not have the requirements for RDD (sorc and bard).<br/>\n<br/>\nI would also like to point out that this Hak utilizes normal, ingame menus, etc - meaning it does not need any other support here.\u00a0 In other words, it is using vanilla assets. <br/>\n<br/>\nThis is what is exciting imo.\u00a0 It actually is inline with the \"vanilla assets only\" rule.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:17 PM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wonder if this could be done in override form.\u00a0 I suspect that it cannot.<br/>\n<br/>\nAlso, is it EE-only?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:05 PM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, this is EE only.<br/>\n<br/>\nI have no idea if it is Override compatible.\u00a0 But since it uses vanilla assets, it well might be.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Jam Master",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:30 PM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>I wonder if this could be done in override form.\u00a0 I suspect that it cannot.<br/>\n<br/>\nAlso, is it EE-only?</div></blockquote>\nYes there is an override as I have used it for Swordflight on a Blackguard.<br/>\n<br/>\nThe pack is extremely high quality &amp; comes \u2018out the box\u2019 as BioWare should have implemented IMHO <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:58 PM - Jan 13, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The server I play on has had this for a while, however it does replace class abilities<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:45 AM - Sep 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just performing a quick necro here. Anyone know how this is settling in after a few months? Also, do we have any knowledge of how progression is made (for example, if HS is treated as a wizard-type, s/he would get 3rd level spells at L5, but as a sorcerer-type, only 2nd level)? And then there's Blackguard spells: presumably they would be an evil reflection of the Pally spellbook, and also capped at 4th level spells?<br/>\n<br/>\nJust asking for an update, really.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:48 AM - Sep 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Afaik, it is just sitting there <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nIt got shot down on WoG - \"it would make things to \"OP\"\" for whatever that means...strange how making things more like the PnP roots causes such conniptions...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "12:24 PM - Sep 16, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With the Assassin nerf Beamdog did, it hardly seems OP for them to get a buff to another area....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

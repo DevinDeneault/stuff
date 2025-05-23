@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "105",
+  "name": "Dual Wielding",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dual-wielding-t2355579.html",
+  "author": "Fist",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:04 AM - Oct 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I do not see a lot of dual-wield builds (except, of course, Kama Monks). What are the inherent weaknesses to dual wielding (besides the feat investment &amp; loss of shield?<br/>\n<br/>\nAlso, if a PC has Two Weapon Fighting with a light weapon in the off-hand and the Ambidexterity feat, is the AB penalty -2/+2?<br/>\n<br/>\nIs there value to ITWF at low levels?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:40 AM - Oct 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Theophilus.<br/>\n<br/>\nPerhaps this link will help in your quest for d-w answers: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/best-weapon-style-shield-2handed-dual-t2355304.html\" rel=\"noreferrer\" target=\"_blank\">1/2-handed/d-w weapons</a><br/>\n<br/>\nAs to AB penalties, you're right about the AB penalty with both TWF and Ambidexterity. You will, of course need a DEX of 15+ in order to take Ambidexterity (unless you take Ranger and its inherent D-W feat/s).<br/>\n<br/>\nWhen you take ITWF is a matter of personal taste, by and large (provided you have BAB of 9+). For myself, I prefer to wait until my AB is higher before grabbing that extra off-hand attack. After all, if you take it when it first becomes available, you'll be making the attack at -7 from your optimal AB (-5 if a kama Monk), and you're not going to hit much then without a 20 roll. There are probably more beneficial feats that could be taken earlier instead. But then, I tend to take all d-w feats later than many here do anyway.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:48 AM - Oct 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, and here are just a couple of examples of non-kama dual-wielders - one DEX and one STR based. There are plenty more...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/kukri-saint-fighter-12-wm-25-rogue-3-t2353598.html\" rel=\"noreferrer\" target=\"_blank\">Kukri Saint</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/aielund-sword-champion-fighter-14-cot-20-rogue-6-t2354534.html\" rel=\"noreferrer\" target=\"_blank\">Aielund Sword Champion</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:53 AM - Oct 11, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Aargh! Because I am an idiot, and it was very early when I posted the above, I now see I've presented two STR builds. I actually meant to present you with this DEX one: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/halfling-champion-rogue-20-fighter-6-cot-14-t2354370.html\" rel=\"noreferrer\" target=\"_blank\">Halfling Champion</a><br/>\n<br/>\nSorry!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:29 PM - Oct 11, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is my favorite two-weapon build - <strong>Gloom Razor by GDL</strong> <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/gloom-razor-of-the-hin-rogue-24-divine-champion-10-t2355280.html\" rel=\"noreferrer\" target=\"_blank\">gloom-razor-of-the-hin-rogue-24-divine- ... 55280.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

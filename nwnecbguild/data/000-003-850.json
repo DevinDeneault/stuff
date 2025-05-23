@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "850",
+  "name": "Can't find the asgardian???",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/can-t-find-the-asgardian-t2355096.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:53 AM - Jul 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I think Valerfor or Empyre posted a link to a build called the \"Asgardian\". I copied the build down, but now I can't find the post that mentions it, nor the link. Am I blind, or just plain stupid? Help?<br/>\n<br/>\nI have the build (below), but I very much wanted to re-read the discussion where it was linked. There were some great pointers there about the build, why/when you should use it, etc.<br/>\n<details><summary>Spoiler</summary>STR: 19 (36)\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Warhammer, Dodge\n03: Fighter(3): Expertise\n05: Fighter(5)\n07: Weapon Master(1): Weapon of Choice: Warhammer\n09: Weapon Master(3): Improved Critical: Warhammer\n11: Weapon Master(5)\n13: Weapon Master(7)\n15: Champion of Torm(2): Power Attack, Improved Knockdown\n17: Champion of Torm(4): Cleave\n19: Weapon Master(9)\n21: Weapon Master(11): Great Strength I, (STR=25)\n23: Weapon Master(13): Epic Weapon Focus: Warhammer\n25: Champion of Torm(6): Epic Weapon Specialization: Warhammer\n27: Weapon Master(15): Great Strength III, (STR=28)\n29: Weapon Master(17)\n31: Weapon Master(19): Devastating Critical: Warhammer\n33: Weapon Master(21): Great Strength V, (STR=32)\n35: Weapon Master(23)\n37: Weapon Master(25): Epic Prowess\n39: Weapon Master(27): Great Strength VII, (STR=35)\n\nSkillpoints: 172\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 54 (melee), 32 (ranged)\nSpell Casting: \n\n\n02: Discipline(1), Save(3), \n04: Discipline(1), Save(3), \n06: Discipline(1), Save(3), \n08: Discipline(1), Open Lock(1), Save(1), \n10: Discipline(1), Search(1), Save(1), \n12: Discipline(1), Search(1), Save(1), \n14: Discipline(1), Search(1), Save(1), \n16: Discipline(1), Search(1), Save(1), \n18: Discipline(1), Search(1), Save(1), \n20: Discipline(1), Search(1), Save(1), \n22: Discipline(1), Search(1), Save(1), \n24: Discipline(1), Search(1), Save(1), \n26: Discipline(1), Heal(1), Save(2), \n28: Discipline(1), Heal(1), Save(2), \n30: Discipline(1), Heal(1), Save(2), \n32: Discipline(1), Heal(1), Save(2), \n34: Discipline(1), Heal(1), Save(2), \n36: Discipline(1), Heal(1), Save(4), \n38: Discipline(1), Heal(1), Spot(2), \n40: Discipline(1), Heal(1), Spot(2), \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:11 PM - Jul 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Argh, hard to remember from the title but I do remember that AB though. There is only one such build, done by Grimnir.<br/>\n<br/>\n<strong>Trollborn Asgardian: </strong><a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build215866.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... 15866.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:18 PM - Jul 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a note of caution, if I may. If you're intending to take this one to WoG (from your other recent thread), it might be worth bearing in mind Max's \"AC is king\" mantra. If you look at Grimnir's original there's no Dev Crit, though he does go for 2 Weapons of Choice/ WF (Battleaxe and Warhammer), so if you were just to concentrate on one weapon you might be more able to mitigate that number of feats used for some more - dare I say it - defensive ones (and Blind Fight becomes more available as well). Not quite sure what atm (maybe Imp Expertise with that level of AB is one), but it might be worth a thought.<br/>\n<br/>\nOf course, if you're not going to WoG with the build, please ignore this post!<br/>\n<br/>\nGo well - cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "7:38 PM - Jul 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nJust a note of caution, if I may. If you're intending to take this one to WoG (from your other recent thread), it might be worth bearing in mind Max's \"AC is king\" mantra. If you look at Grimnir's original there's no Dev Crit, though he does go for 2 Weapons of Choice/ WF (Battleaxe and Warhammer), so if you were just to concentrate on one weapon you might be more able to mitigate that number of feats used for some more - dare I say it - defensive ones (and Blind Fight becomes more available as well). Not quite sure what atm (maybe Imp Expertise with that level of AB is one), but it might be worth a thought.<br/>\n<br/>\nOf course, if you're not going to WoG with the build, please ignore this post!<br/>\n<br/>\nGo well - cheers\n</div></blockquote>\nYes, I did some modifications already in my adaptation. I hadn't thought of bringing the asgardian to WoG, but it might be worth a try, but with some more defence available.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "7:40 PM - Jul 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nArgh, hard to remember from the title but I do remember that AB though. There is only one such build, done by Grimnir.<br/>\n<br/>\n<strong>Trollborn Asgardian: </strong><a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build215866.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... 15866.html</a>\n</div></blockquote>\nWheee! Thank you! Just what I needed!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

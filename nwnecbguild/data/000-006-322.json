@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "322",
+  "name": "Last Rites: Cleric 16 / Assassin 22 / Shadowdancer 2",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/last-rites-cleric-16-assassin-22-shadowdancer-2-t515546.html",
+  "author": "Demos",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:08 PM - Oct 31, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Happy Halloween!  It's appropriate that this sneaky, creepy build makes its appearance today.<br/>\n<br/>\nOnly 1 other build came back with this combination, <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build249434.html\" rel=\"noreferrer\" target=\"_blank\">The Dire Priest Assassin</a>, when I rolled up this assassin.  The concept is fairly simple: get more uses per day of the Assassin special feats (invisibility, imp invis) without gimping the Assassin concept.  I chose Cleric because of Divine Power (and the rest of the combat buffs) and Trickery domain gave the spells I was looking for.  Shadowdancer picked up for HiPS and Evasion.<br/>\n<br/>\nThe Dire Priest Assassin is a Cleric 17 / Assassin 22 / Shadowdancer 1 split and picks up level 9 spells instead of Evasion (you can see the OP's and others' POV on that point) and is strength based.  I chose Dex because I going dual-wielding to get more Death Attacks in, can grab Great Dex as an Assassin bonus feat and had the cleric buffs to augment damage.  Also, while level 9 spells are nice, I stopped at 8 to grab the 2nd level of SD (Evasion) and to also let me keep my WIS investment at 18.<br/>\n<br/>\nThe primary downside of this build the lack of Epic Dodge.  You need 10 Shadowdancer levels but that weakens the overall build (Cleric 15 was a minimum for me).  This build is also feat starved because there are very few bonus feats and so Knockdown was sacrificed in the build (you can swap Epic Prowess for KD as an option).<br/>\n<br/>\n***************<br/>\n<br/>\nThe head councilman walked into the temple, carefully concealing his features to remain anonymous.  He shuffled over to a booth, opened the door, stepped inside and closed the door behind him.  Sitting across from him was a priest, whose features were hidden behind a hood.<br/>\n<br/>\n\"What brings you here today, good citizen?\" asks the priest.<br/>\n<br/>\nThe councilman stammers for a bit before he answers.  \"I have committed a terrible sin, and I am afraid for my life.\"<br/>\n<br/>\n\"Do tell me more...\"<br/>\n<br/>\n***************<br/>\n<br/>\n<strong>Last Rites: Cleric(16), Assassin(22), Shadowdancer(2)</strong><br/>\n<br/>\nPlayable 1-40 PvM, Untested PvP<br/>\nHuman, any evil<br/>\n<br/>\nSTR: 8<br/>\nDEX: 16 (30)<br/>\nCON: 12<br/>\nWIS: 16 (18)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Extend Spell, Blind Fight, Domain Strength, Domain Trickery<br/>\n02: Cleric(2)<br/>\n03: Cleric(3): Weapon Finesse<br/>\n04: Cleric(4): Wis+1, (WIS=17)<br/>\n05: Cleric(5)<br/>\n06: Cleric(6): Weapon Focus: Mace<br/>\n07: Cleric(7)<br/>\n08: Cleric(8): Wis+1, (WIS=18)<br/>\n09: Cleric(9): Dodge<br/>\n10: Cleric(10)<br/>\n11: Cleric(11)<br/>\n12: Cleric(12): Dex+1, Two-Weapon Fighting, (DEX=17)<br/>\n13: Cleric(13)<br/>\n14: Assassin(1)<br/>\n15: Assassin(2): Ambidexterity, {Uncanny Dodge I}<br/>\n16: Assassin(3): Dex+1, (DEX=18)<br/>\n17: Assassin(4)<br/>\n18: Cleric(14): Mobility<br/>\n19: Cleric(15)<br/>\n20: Cleric(16): Dex+1, (DEX=19)<br/>\n21: Shadowdancer(1): Improved Two-Weapon Fighting, {Hide in Plain Sight}<br/>\n22: Shadowdancer(2): {Darkvision, Evasion}<br/>\n23: Assassin(5)<br/>\n24: Assassin(6): Dex+1, Epic Weapon Focus: Mace, (DEX=20)<br/>\n25: Assassin(7)<br/>\n26: Assassin(8)<br/>\n27: Assassin(9): Armor Skin<br/>\n28: Assassin(10): Dex+1, (DEX=21)<br/>\n29: Assassin(11)<br/>\n30: Assassin(12): Great Dexterity I, (DEX=22)<br/>\n31: Assassin(13)<br/>\n32: Assassin(14): Dex+1, Great Dexterity II, (DEX=24)<br/>\n33: Assassin(15): Epic Prowess<br/>\n34: Assassin(16)<br/>\n35: Assassin(17)<br/>\n36: Assassin(18): Dex+1, Great Dexterity III, Great Dexterity IV, (DEX=27)<br/>\n37: Assassin(19)<br/>\n38: Assassin(20)<br/>\n39: Assassin(21): Great Dexterity V, (DEX=28)<br/>\n40: Assassin(22): Dex+1, Great Dexterity VI, (DEX=30)<br/>\n<br/>\nHitpoints: 316<br/>\nSkillpoints: 267<br/>\nSaving Throws (Fortitude/Will/Reflex): 22/25/29<br/>\nSaving Throw bonuses: Spells: +5, Traps: +2, Poison: +6<br/>\nBAB: 25<br/>\nAB (max, naked): 39 (melee), 36 (ranged)<br/>\nAC (naked/mundane armor/shield only): 30/33<br/>\nSpell Casting: Cleric(8)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 23(24), Disable Trap 23(25), Hide 43(53), Move Silently 43(53), Open Lock 15(25), Spellcraft 23(25), Tumble 40(50), UMD 41(40)<br/>\n<br/>\nNotes:<br/>\n1.  Trickery taken to augment stealth skills and Invis/Imp Invis.  Strength to grab earlier Divine Power and Stoneskin is good to help take the sting off.  Other Domains that could be used are Animal (Cat's Grace and stronger summons so Summon VIII grabs the Elder Elemental)<br/>\n2.  He has a lot of variety to land Death Attacks (DC of 34).  No KD/IKD unfortunately (you could swap KD for Epic Prowess) but sneaks, HiPS, Darkness + Ultravision/True Seeing, Invis and Greater Sanctuary are at your disposal.  Also summons can help draw mobs to lead sneaks.<br/>\n3.  Unfortunately, there is no Epic Dodge or Discipline on this toon so be aware of KD spammers, especially if they're known to have Blind Fight.<br/>\n4.  Maces used because Clerics have access to them, are finessable, deliver bludgeoning damage, and look pretty scary with Darkfire on.<br/>\n5.  HP's are a little low.  Since you're susceptible to dispels, be wary of using Endurance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "WhiZard",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:24 PM - Oct 31, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Demos wrote:</strong><br/>\nConcentration 23(24), Disable Trap 23(25), Hide 43(53), Move Silently 43(53), Open Lock 15(25), Spellcraft 23(25), Tumble 40(50), UMD 41(40)\n</div></blockquote>\n\nWith trickery domain and decent cleric levels always take at least one rank in open lock, disable trap (both of which you have) and pickpocket.  The +9 bonus for a duration based on turns is worth the single point investment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:29 PM - Nov 02, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Demos wrote:</strong>Also summons can help draw mobs to lead sneaks.</div></blockquote>\nTrue, but beware that once your victims are in combat, the death attack works as a normal sneak attack dealing damage, but with no paralyze roll.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:42 PM - Nov 02, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><blockquote><div><strong>Demos wrote:</strong>Also summons can help draw mobs to lead sneaks.</div></blockquote>\nTrue, but beware that once your victims are in combat, the death attack works as a normal sneak attack dealing damage, but with no paralyze roll.</div></blockquote>\n\nRight on Mick.  I purposely used sneaks in that sentence rather than DA's to try to distinguish the difference but that may not have been clear.  My original build called for the Animal domain (for this reason) but I opted for Strength in the end.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:16 PM - Nov 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like this build and the way it's scripted, and it is nice and original, whereas what I'm about to suggest has been done before many times. Still, I'll suggest it anyway as an alternative in case someone wants more cheapness . You could relinquish Hips, swapping SD for Monk. That would net you +10 AC with capped WIS, earlier evasion, Monk unarmed and Kama progression, hence more APR, which means more attacks in the first flurry and more chances for DA to paralyze your enemies.<br/>\n<br/>\nNet Loss: HiPS<br/>\n<br/>\nNet Gain: +4 unbuffed AC (+10 with capped WIS), 2 Feats (Dodge and Mobility aren't needed anymore), Monk attack progression, More DA chances to paralyze, a few skill points because you won't need to cross-class MS and Hide to meet Assassin requirements.<br/>\n<br/>\nI know it's tough because the Cleric Monk combo is so sick that pretty much all DEX-based clerics without a Monk level are so much weaker than with Monk. You probably made this guy like this just to get away from the Monk cheesiness, but alas, I still felt like I needed to mention this anyway <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:18 PM - Nov 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">hey! The emoticons are working now<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

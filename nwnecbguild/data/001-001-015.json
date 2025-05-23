@@ -1,0 +1,176 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Modules",
+  "forum_id": "001",
+  "id": "015",
+  "name": "NWN EE iOS - How to mod?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-ee-ios-how-to-mod-t2355595.html",
+  "author": "0rangeAGENT",
+  "avatar": "10759393_1603651917.jpeg",
+  "replies": 26,
+  "posts": [
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "6:56 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I could use some help modding my game. \u00a0I\u2019m having difficulty finding any modules and custom content that work.<br/>\n<br/>\nTo be clear and reiterate, my only option is to play NWN:EE, and only on my iOS device.<br/>\n<br/>\nI\u2019ve spent many hours searching for how to do this. \u00a0The single source I found explaining how is one Reddit post from months ago. \u00a0Here is a quote of the relevant info explaining how to mod the iOS version of the game:<br/>\n<br/>\n\u2018Step 1: Head over to Neverwinter Vault and look for a module you want.<br/>\nStep 2: Download the module, make sure to grab any extra files the module might require<br/>\nStep 3: When the module finishes downloading save it into your files<br/>\nStep 4: Extract the files from the zip into a separate folder (ONLY FILES IN THE SEPARATE FOLDER, NO SUB DIRECTORIES aka NO OTHER FOLDERS IN THE FOLDER)<br/>\nStep 5: rename the folder to include an @ symbol at the beginning of it, ie: @eyeofthebeholder<br/>\nStep 6: move this folder into your NVN/EE folder in your files<br/>\nStep 7: Load up the game and click on the store, and hit customize, on the left side of the screen you should see your module, install it. It will appear under \u201cother modules\u201d when you start new game.\u2019 [sic]<br/>\n<br/>\nMy first question is: \u00a0what are the good websites to find modules? \u00a0The only one I know of is neverwintervault.org, and every page loads painfully slow for me (my internet connection speed seems plenty fast in every other way I\u2019ve used it so I don\u2019t think that\u2019s the issue).<br/>\n<br/>\n<br/>\nMy next question is: \u00a0will someone please spell out in great detail exactly how to install mods on iOS?<br/>\n<br/>\nUsing the instructions above I attempted to install numerous modules and types of custom content and so far I found exactly one that works: \u00a0Customize Character Override HAK (CCOH). \u00a0I love this one because I hate the way most default armors look.<br/>\n<br/>\nHere is a short list of mods I tried that don\u2019t work using the above technique:<br/>\n* The Lord of Terror module<br/>\n* CEP 2.6 (it installs with no error messages, but it doesn\u2019t do anything?)<br/>\n* several portrait packs (again, no errors but no new portraits are available to choose in game)<br/>\n<br/>\nI wonder if I have to limit myself to EE only mods, or if there are some other basic filters I need to consider that I am currently unaware of. \u00a0Is there a defined list of mods that are known to work with NWN:EE iOS?<br/>\n<br/>\nPart of my desperation stems from the fact I only have about 20 free hours per week to play around with this. \u00a0I might even figure it out myself in a few months time....<br/>\n<br/>\nPlease help me out? \u00a0I am in love with this game and will really bummed out if I\u2019m limited to the OC, expansions, and official modules only.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:29 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, OrangeAGENT, I can't promise anything, but I might be able to help a bit (I am to technology what Minsc is to diplomacy).<br/>\n<br/>\nFirst of all, are we clear about the difference between \"modules\" and \"modifications\"? Both tend to be unhelpfully shortened to \"mods\". Using your 3 examples of \"failed mods\", Lord of Terror is a module, and requires a CEP modification to work. Unfortunately, it needs an earlier one than you've loaded (check the Lord of Terror thread in this forum for details on which one you do need). The CEP modification you have loaded won't \"do\" anything - what it will do is allow you to play the newer modules you might want to load up. Afraid I'm not going to be much use as far as the portrait packs go, but I suspect they, too, are modifications rather than modules, so you'll only be able to use them when playing an appropriate module.<br/>\n<br/>\nIn essence, a module is what you play: a modification alters the experience of playing. We've tried to be helpful here in the Guild by putting modifications under the heading \"Add-Ons\".<br/>\n<br/>\nNow, over to people who know what they're on about...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "9:09 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for your quick reply, Stagmeister. \u00a0You are right, I did use the term \u201cmod\u201d loosely to mean both the nouns of modules and modifications, as well as the verb to install both of those things. \u00a0Going forward I\u2019ll use the term \u201ccustom content\u201d when I\u2019m talking about both.<br/>\n<br/>\nI tried two more modules today and had one failure and one success. \u00a0I\u2019ll make a list here (and try to edit to update as I go) in case there\u2019s someone else in my situation in the future. \u00a0This is me time traveling:<br/>\n<br/>\nCustom Content that works on iOS:<br/>\n\u2022 Customize Character Override HAK (CCOH) (Add-On)<br/>\n\u2022 The Halls of Advanced Training Deluxe - HotU+SoU Edition (Module)<br/>\n<br/>\nI\u2019m going to keep trying to get some of the big name modules I keep hearing about to work. \u00a0Lord of Terror is still on my list, along with Aielund and Swordflight.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:00 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe Asturo plays from a mobile device, so he might be able to help you there, and IIRC he was testing his build on Aielund too.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "11:26 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I\u2019m new to this kind of forum, it turns out I can\u2019t edit my previous post<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:51 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>0rangeAGENT wrote: <a data-post-id=\"22454\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22454&amp;sid=c7c662c61e0ea23813e6fe9980dab034#p22454\">\u2191</a><div class=\"responsive-hide\">Oct 29, 2020</div></cite>I\u2019m new to this kind of forum, it turns out I can\u2019t edit my previous post</div></blockquote>\nThat's odd. There should be a bunch of options below your post, including Quote, Edit, Like, etc, which you just click on to do as it says (much as I clicked on Quote to, well, quote you, before replying to that quote). Edit used to be time-driven, but I turned that off for everyone. Is it a 'phone thing, perhaps?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:52 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>0rangeAGENT wrote: <a data-post-id=\"22454\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22454&amp;sid=c7c662c61e0ea23813e6fe9980dab034#p22454\">\u2191</a><div class=\"responsive-hide\">Oct 29, 2020</div></cite>I\u2019m new to this kind of forum, it turns out I can\u2019t edit my previous post</div></blockquote>\nThat's odd. There should be a bunch of options below your post, including Quote, Edit, Like, etc, which you just click on to do as it says (much as I clicked on Quote to, well, quote you, before replying to that quote). Edit used to be time-driven, but I turned that off for everyone. Is it a 'phone thing, perhaps?<br/>\n<br/>\nCheers</div></blockquote>\n\nThis is in a computer, stag. The phone interface is different.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:53 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>0rangeAGENT wrote:</cite>I\u2019m new to this kind of forum, it turns out I can\u2019t edit my previous post</div></blockquote>\n\nUsing a mobile device, you should probably click and hold on your post until it's selected, then the option to edit should pop up. It took me a while to figure that one out when I post from my iPad<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "11:54 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I missed the button, thanks Stag.  I\u2019m working with a mild fever here (don\u2019t worry it\u2019s \u201cregular sick\u201d not covid) so I\u2019m missing lots of obvious stuff today.  Also the reason I have more time to play around online.  Pros and Cons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:56 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian_Kane wrote: <a data-post-id=\"22456\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22456&amp;sid=c7c662c61e0ea23813e6fe9980dab034#p22456\">\u2191</a><div class=\"responsive-hide\">Oct 29, 2020</div></cite>\nThis is in a computer, stag. The phone interface is different.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div></blockquote>\nThanks, Max. Right, I'll go ask Tapatalk how it's done on a 'phone and let folk know.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "11:59 PM - Oct 29, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just read through almost the entire LoT thread. \u00a0Saw something that intrigued me and I\u2019d love confirmation here if possible:<br/>\n<br/>\nCan I install both CEP v1x and CEP 2.65 without breaking anything?  That is, be able to play both LoT and a newer mod without having to juggle CEP installs?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:11 AM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>0rangeAGENT wrote: <a data-post-id=\"22460\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22460&amp;sid=817ada850a9393f5c71bb1b814a8066b#p22460\">\u2191</a><div class=\"responsive-hide\">Oct 29, 2020</div></cite>I just read through almost the entire LoT thread. \u00a0Saw something that intrigued me and I\u2019d love confirmation here if possible:<br/>\n<br/>\nCan I install both CEP v1x and CEP 2.65 without breaking anything? \u00a0That is, be able to play both LoT and a newer mod without having to juggle CEP installs?</div></blockquote>\nNice and simple answer: yes. That should also probably do you for pretty well everything else as well.<br/>\n<br/>\nOh, and I've asked the Tapatalk wombles about editing and await their reply.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:14 AM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>Maximillian_Kane wrote: <a data-post-id=\"22456\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22456&amp;sid=817ada850a9393f5c71bb1b814a8066b#p22456\">\u2191</a><div class=\"responsive-hide\">Oct 29, 2020</div></cite>\nThis is in a computer, stag. The phone interface is different.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div></blockquote>\nThanks, Max. Right, I'll go ask Tapatalk how it's done on a 'phone and let folk know.</div></blockquote>\n\nScroll up a bit and thou shalt find out<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "2:17 AM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The weird thing is, I saw the edit button that second time and then used it.  But now it\u2019s not there.  There must be a trick to it that I found by accident just that once.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:48 AM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, what I do is back out of the topic, refresh the page, then go back in.<br/>\n<br/>\nThat usually helps \"show\" the edit, etc buttons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "11:35 PM - Oct 31, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That doesn\u2019t work for me, web, I tried. \u00a0It seems kind of random now, sometimes all the like / edit / etc buttons are there but most of the time not.<br/>\n<br/>\nOf note, I\u2019m browsing this forum on Safari on my phone \u2014 not using the tapatalk app. \u00a0I did install that to see if it gave more functionality and I guess it does? \u00a0But the I find the interface extremely unattractive so I\u2019m not planning to use it much except as a backup.<br/>\n<br/>\nGood news is now I have figured out how to install modules! \u00a0I just had the bad luck of initially trying a string of modules that didn\u2019t work. \u00a0I still can\u2019t get most add-one to work except those built into modules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:44 AM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, I have also noticed this recently.<br/>\n<br/>\nTapatalk has probably done some updates to their code (they tend to do this every so often) - it is really too bad, everything was working fine before.<br/>\n<br/>\nGrats on the mod install problem solving.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:38 AM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rats. I was hoping all was sorted, 'cause the Tapatalk minions still haven't replied to my question. To be fair, they don't appear to have responded to anyone else's issues in the past 48 hours either, so at least they're ignoring everyone.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "3:02 AM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is a weekend, and a holiday, so let\u2019s don\u2019t hold our breaths until Monday <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "6:45 PM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It looks like I spoke too soon. \u00a0I got Lord of Terror installed and working. \u00a0Made a wemic barbarian with all default stats to make sure it loads and talked to the first NPC. \u00a0All good. \u00a0I uninstalled (will do all my playing once I get the new phone in a couple weeks).<br/>\n<br/>\nCurrently I have 4 things installed: \u00a0cep 1 complete, cep 265, ccoh, and halls of advanced training.<br/>\n<br/>\nNext one on my list is Caereena, since it\u2019s only two files I thought it would go quick. \u00a0Did everything I was supposed to then installed. \u00a0As soon as I try to create a character or select premise character I get:<br/>\n<br/>\n\u201cCould not lord the Module.<br/>\nMissing required HAK file.<br/>\nCheck your log file for the list of missing hak packs.\u201d<br/>\n<br/>\nI check the log file and it says I am missing pacific 1.hak and pacific 2.hak. \u00a0But I\u2019m not missing those. \u00a0They are there.<br/>\n<br/>\nI uninstalled Caereena. \u00a0Installed Mines of Twin Summit. \u00a0MTS1 loses fine, used a pregen toon and talked to NPC and entered the campaign. \u00a0Fine \u2714. \u00a0Tried to start MTS2, select pregen/create toon gave me the same error message. \u00a0Log file showed a missing hak pack that was not actually missing.<br/>\n<br/>\nNow I\u2019m stumped. \u00a0I\u2019m kind of busy off and on the rest of today but I\u2019ll try to install a few other modules see what happens.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "6:55 PM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>0rangeAGENT wrote: <a data-post-id=\"22521\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22521&amp;sid=c92c10736f558a1ab6fad279405e03a0#p22521\">\u2191</a><div class=\"responsive-hide\">Nov 01, 2020</div></cite>It looks like I spoke too soon. \u00a0I got Lord of Terror installed and working. \u00a0Made a wemic barbarian with all default stats to make sure it loads and talked to the first NPC. \u00a0All good. \u00a0I uninstalled (will do all my playing once I get the new phone in a couple weeks).<br/>\n<br/>\nCurrently I have 4 things installed: \u00a0cep 1 complete, cep 265, ccoh, and halls of advanced training.<br/>\n<br/>\nNext one on my list is Caereena, since it\u2019s only two files I thought it would go quick. \u00a0Did everything I was supposed to then installed. \u00a0As soon as I try to create a character or select premise character I get:<br/>\n<br/>\n\u201cCould not lord the Module.<br/>\nMissing required HAK file.<br/>\nCheck your log file for the list of missing hak packs.\u201d<br/>\n<br/>\nI check the log file and it says I am missing pacific 1.hak and pacific 2.hak. \u00a0But I\u2019m not missing those. \u00a0They are there.<br/>\n<br/>\nI uninstalled Caereena. \u00a0Installed Mines of Twin Summit. \u00a0MTS1 loses fine, used a pregen toon and talked to NPC and entered the campaign. \u00a0Fine \u2714. \u00a0Tried to start MTS2, select pregen/create toon gave me the same error message. \u00a0Log file showed a missing hak pack that was not actually missing.<br/>\n<br/>\nNow I\u2019m stumped. \u00a0I\u2019m kind of busy off and on the rest of today but I\u2019ll try to install a few other modules see what happens.</div></blockquote>\nI remember having the same problem with MTS. Apparently there are a fw extra files that module 1 doesn't need that are needed for 2 and 3, but I was able to work it out in the end, so I'm sure you will too.<br/>\n<br/>\nDidn't know you could play a Wemic in LoT LOL<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:02 PM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This might help with loading MTS (it's pages 3 and 4 of the thread), but it might all have been superceded.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mines-of-twin-summits-1-2-and-3-t2354731-s20.html\" rel=\"noreferrer\" target=\"_blank\">MTS CEP</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "0rangeAGENT",
+      "avatar": "10759393_1603651917.jpeg",
+      "timestamp": "11:23 PM - Nov 01, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I appreciate that, Stag, but unfortunately this might be a brick wall for me.  The cep1.x is the only cep on the vault that\u2019s an .exe, and I don\u2019t know if it\u2019s even possible to run a .exe on iOS.  It\u2019s also likely that cep1.x will be necessary to run some of these modules.  Sigh.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "12:47 AM - Nov 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you\u2019re using cep, make sure to get the tlk files in your tlk folder. That\u2019ll block you every time until you do. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:53 AM - Nov 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You might be able to open the exe as if it were a zip file.\u00a0 I have done that before, but not in ios.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:21 PM - Nov 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>0rangeAGENT wrote: <a data-post-id=\"22495\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22495&amp;sid=c92c10736f558a1ab6fad279405e03a0#p22495\">\u2191</a><div class=\"responsive-hide\">Nov 01, 2020</div></cite>It is a weekend, and a holiday, so let\u2019s don\u2019t hold our breaths until Monday <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:22 PM - Nov 05, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's like the online version of plugging your ears and screaming \"I'm not listening! Blah blah blah blah\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

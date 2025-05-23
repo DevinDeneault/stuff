@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "096",
+  "name": "Monk Deflect Arrows and Epic Dodge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-deflect-arrows-and-epic-dodge-t2355624.html",
+  "author": "Grimnir",
+  "avatar": "10758866_1605883460.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:23 AM - Dec 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail, Mighty ECBers!<br/>\n<br/>\nI was wondering how these two feats interact with each other when a Monk has them both. I have played the Shadow Priest on WoG to level 40, but there's an item there that Clerics can carry on the off-hand that doesn't mess with Monk Ubab progression or AC, so I never actually found out because you need your off-hand to be free to use Deflect Arrows.<br/>\n<br/>\nWhat happens when a Monk receives a ranged attack? Does Epic Dodge trigger first, does Deflect Arrows trigger first, or do they trigger simultaneously? How does it work when both are \"active\" and usable at the same time? I'd greatly appreciate it if anyone who knows could share this info.<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:03 AM - Dec 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I went to the NWN WIKI articles for Epic Dodge and Deflect Arrow, and the Talk page for Deflect Arrow talks about testing this combination, but no results from such a test were posted, and the Talk page for Epic Dodge makes no mention of this combination.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:31 AM - Dec 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Should be easy enough to test in Critwall.<br/>\n<br/>\nI'll test it with my Nightshade.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:36 AM - Dec 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Deflect Arrows triggers first, Epic Dodge triggers second. If both are active then the Monk can potentially block two ranged attacks per round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "2:23 PM - Dec 04, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote:</cite>Deflect Arrows triggers first, Epic Dodge triggers second. If both are active then the Monk can potentially block two ranged attacks per round.</div></blockquote>That was one of the fun parts of the Shadow Priest. Deflect Arrows, Epic Dodge and 50% concealment makes you a pain for those pesky Arcane Archers. Good fun in capture the flag.<br/>\n<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

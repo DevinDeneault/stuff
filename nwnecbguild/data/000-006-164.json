@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "164",
+  "name": "The Blackstone Archer (Fighter 10/Bard 3/Arcane Archer 27)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-blackstone-archer-fighter-10-bard-3-arcane-arc-t2354999.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "3:07 PM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings!<br/>\n<br/>\nHere is my first try for a build. Now, I use the word \"my\", because it was my original question that led to this, not because I did it all myself. It was in very large part a collaboration of the great members of this excellent forum that resulted in this build. You can read the discussion here:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/bard-3-fighter-8-arcane-archer-29-help-needed-t2354978-s20.html\" rel=\"noreferrer\" target=\"_blank\">bard-3-fighter-8-arcane-archer-29-help- ... 8-s20.html</a><br/>\n<br/>\nAnyway, the purpose of the build was to gain very high AB, so it could be used as a companion to a tank and deal out a large amount of damage per second, a so called DPS if you use that term. The build is somewhat adapted to Blackstone Keep, a PW where I play occasionally. It's a very high-magic world with some specific challenges, so if you play elsewhere, you might want to adapt the build somewhat.<br/>\n<br/>\nHere are the details:<br/>\n<details><summary>Spoiler</summary>Fighter(10), Bard(3), Arcane Archer(27), Elf\nSTR: 12\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Longbow, Point Blank Shot\n03: Fighter(3): Weapon Focus: Rapier\n05: Fighter(5)\n07: Bard(1)\n09: Arcane Archer(2): Improved Critical: Longbow\n11: Arcane Archer(4)\n13: Arcane Archer(5)\n15: Arcane Archer(7): Improved Critical: Rapier\n17: Arcane Archer(9)\n19: Fighter(8): Called Shot\n21: Arcane Archer(11): Epic Weapon Focus: Longbow\n23: Fighter(10): Epic Weapon Specialization: Longbow\n25: Bard(2)\n27: Arcane Archer(15): Great Dexterity I, (DEX=27)\n29: Arcane Archer(17)\n31: Arcane Archer(19)\n33: Arcane Archer(21): Great Dexterity IV, (DEX=32)\n35: Arcane Archer(23)\n37: Arcane Archer(25)\n39: Arcane Archer(27): Great Dexterity VIII, (DEX=37)\n\nSkillpoints: 232\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 45 (melee), 61 (ranged)\nSpell Casting: \n\n\n02: Discipline(1), Save(15), \n04: Discipline(1), Save(21), \n06: Save(28), \n08: Lore(4), Spot(2), \n10: Spot(1), Save(8), \n12: Discipline(7), Save(10), \n14: Spot(1), Save(19), \n16: Spot(1), Save(29), \n18: Spot(1), Save(39), \n20: Discipline(1), Save(40), \n22: Spot(1), Save(48), \n24: Spot(2), Save(53), \n26: Lore(4), Spot(2), \n28: Lore(1), Spot(1), Save(8), \n30: Lore(1), Spot(1), Save(16), \n32: Lore(1), Spot(1), Save(24), \n34: Lore(1), Spot(1), Save(32), \n36: Lore(1), Spot(1), Save(40), \n38: Spot(1), Save(50), \n40: Discipline(16), Perform(3), Spellcraft(15), Tumble(12), UMD(15), \n</details>\n\nAs Valerfor suggested elsewhere, you can switch some feats around depending on taste and needs.<br/>\n<br/>\nEquipped with Rapier and Shield for emergency melee, the survivability is fine, even on lower levels. Anyway, this is my first try and I'm not a powergamer, more of an Role Player, so you might need to check this out before using it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "7:14 PM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>CHA: 8</div></blockquote>\nI see why you didn't invest more in Bard! I like the rapier addition, not losing any archery and gaining a viable melee option for low levels. I also like the trade of 1 enchant arrow level for both EWF and Bard skill dump, giving tumble and spellcraft.<br/>\n<br/>\nOnly thing I could say is in general mention the XP penalty you take with Bard / Elf as people will want\u00a0 to take this build to other servers. Imp critical on rapier can probably be dropped for something else (like iron will?) as at a certain point you will never attack with one again, AA levels will just be better. Granted 83 AC with your shield out and +10 gear (with those monk shoes!) is not bad at all.<br/>\n<br/>\nBasically you have near the best AB ever possible and great damage coming from fighter levels, with enough spare pre-epic feats for players to adapt how they need. I think this is my favorite \"pure\" AA split, more well rounded and lots of goodies for just 1 enchant arrow level. <br/>\n<br/>\nWell done!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

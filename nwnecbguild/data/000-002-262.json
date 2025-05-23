@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "262",
+  "name": "Rogue feats",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-feats-t2325605.html",
+  "author": "Tyris2222",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:05 AM - Mar 23, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">How would you rate the usefulness of these feats?<br/>\n<br/>\nCrippling Strike<br/>\nDefensive Roll<br/>\nImproved Evasion<br/>\nOpportunist<br/>\nSkill Mastery<br/>\nSlippery Mind<br/>\nBlinding Speed<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:57 AM - Apr 16, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey, mate!<br/>\n<br/>\nWell, I am not so experienced with Rogues, but I guess most are environment-dependant. BUt let me try to give you a general idea:<br/>\n<br/>\n- Crippling Strike: VERY GOOD against things that aren't immune to it. It lowers the STR score of the target when it's sneaked. If a lot of immunities are common where you play, not so useful.<br/>\n- Blinding Speed: OK if there is no perma-haste or other way to haste yourself. Otherwise a wasted investment. a Haste wand or even scrolls are more useful, being that BS is only once-per-day for a short duration.<br/>\n- Slippery Mind: Useless if you have the habit of carrying Clarity Potions around (which as a rogue you should).<br/>\n- Defensive Roll: It's a requirement for Epic Dodge, which is the must-have of all dex-oriented builds that have Rogue levels, but the feat itself if not to get ED isn't worth the investment.<br/>\n- Improved Evasion: It's the other requirement of Epic Dodge, so it's often taken for that. Has some value for STR-oriented rogues because their Reflex save is lower, and that makes them take half damage when they fail a reflex save. For a DEX-heavy build (other than as a requirement for Epic Dodge), it's nearly useless, as Reflex should be a strong save already, so how often will you really fail a Reflex save to make use of this feat? Answer, probably 5% of the time (when you roll a natural 1).<br/>\n- Opportunist: Not totally worthless if you have NOTHING ELSE to invest on, but I would take Improved Sneak Attack over it anytime.<br/>\n- Skill Mastery: Can be useful to set traps in combat, but how often do you do that? If your set trap is high enough, you probably won't need it.<br/>\n<br/>\nAs for the feats you asked about, these are all, but if you take Rogue levels in epics, you'll have access to other feats. Here is a list:<br/>\n<br/>\n- Improved Sneak Attack: Gives you an extra d6 of SA damage, which is good.<br/>\n- Epic Skill Focus: Gives you +10 to one skill and can be taken multiple times (applying to different skills). So you can have ESF: Set Traps and set traps in combat without skill mastery, for example, or you can have ESF: Hide and ESF: Move Silently if your world has a nerfed True Seeing spell, etc...<br/>\n<br/>\nMost of the stuff is dependant on where you play, but I hope this helps you a bit.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

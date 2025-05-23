@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "754",
+  "name": "Dragon Dwarven Defender (D24DD14M2)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dragon-dwarven-defender-d24dd14m2-t2355248.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:52 PM - Nov 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This was another idea I came up with<br/>\n<br/>\nTrying to combine Dragon Shape with Dwarven Defender<br/>\n<br/>\nCombined with zen archer and Monk Wisdom AC it seems like this is a multi-hybrid build (melee/ranged/spells), with spellcasting abilities (undispellable), ranged abilities with zen archery, and pretty solid melee capabilities with polymorphs/dragon shape/wis AC/monk UBAB, toughness/blind fight/IC:unarmed/EP/knockdown, and damage reduction 12/- (stacking with the dragon shape for up to 52/+6 DR), 600 odd HP to boot to cast a whole bunch of spells before transforming into that dragon.<br/>\n<br/>\nProbably the closest build I can see in the archives is Kail Pendragons's Dragon of the Stone Halls (<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build257125.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 57125.html</a>) which is a D21/DD18/M1 build. I've sacrificed 80 odd skill points in my build to be able to get one feat of EDR but I felt the build didn't need those points, and the extra HP is good to be able to survive when casting druidic spells of death with a small bonus to concentration as well. I wish I could have fit more EDR into the build but with DS wisdom requirements it was always going to be tough<br/>\n<details><summary>Spoiler</summary>Druid(24), Monk(2), Dwarven Defender(14), Dwarf\nSTR: 8\nCON: 18 (21)\nINT: 10\n\n01: Druid(1): Toughness\n03: Druid(3): Extend Spell\n05: Druid(5)\n07: Druid(7)\n09: Druid(9): Dodge\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Improved Critical: Unarmed\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Druid(11): Great Wisdom I, (WIS=23)\n23: Druid(12)\n25: Druid(14)\n27: Druid(16): Great Wisdom III, (WIS=26)\n29: Druid(18)\n31: Druid(20)\n33: Druid(22): Great Wisdom V, (WIS=30)\n35: Druid(24): Dragon Shape\n37: Monk(2): {Deflect Arrows}\n39: Dwarven Defender(13): Epic Prowess\n\nSkillpoints: 144\nSaving Throw bonuses: Spells: +2, Traps: +1, Poison: +2, Fear: +2\nAB (max, naked): 27 (melee), 38 (ranged)\nSpell Casting: Druid(9)\n\n\n01: Animal Empathy(1), Concentration(4), Open Lock(1), Search(1), Save(7),\u00a0\n03: Concentration(1), Save(13),\u00a0\n05: Concentration(1), Save(19),\u00a0\n07: Concentration(1), Save(25),\u00a0\n09: Concentration(1), Save(31),\u00a0\n11: Concentration(1), Discipline(14), Save(21),\u00a0\n13: Concentration(1), Discipline(1), Save(21),\u00a0\n15: Concentration(1), Discipline(1), Save(21),\u00a0\n17: Concentration(1), Discipline(1), Save(21),\u00a0\n19: Concentration(1), Discipline(1), Save(21),\u00a0\n21: Concentration(1), Save(24),\u00a0\n23: Concentration(1), Search(1), Save(1),\u00a0\n25: Concentration(1), Search(1), Save(1),\u00a0\n27: Concentration(1), Search(1), Save(1),\u00a0\n29: Concentration(1), Save(7),\u00a0\n31: Concentration(1), Save(13),\u00a0\n33: Concentration(1), Save(19),\u00a0\n35: Concentration(1), Save(25),\u00a0\n37: Concentration(1), Discipline(1), Tumble(15),\u00a0\n39: Concentration(1), Discipline(1),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:12 AM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">DD DR doesn't stack with dragon DR in vanilla NWN. This build has 40/+6 DR and 12/- DR, so you have 40 DR against +0 to +5 weapons and 12 DR against +6 and above weapons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:35 AM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">^ According to the NWN Wiki, this is correct.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:13 AM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice one Yunim, thanks for pointing that out!<br/>\n<br/>\nI thought I noted in WoG that an Archer's belt DR and the DR from Ghostly Visage seemed to stack...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:31 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is a nice discussion on DR here - <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Damage_reduction\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Talk:Damage_reduction</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "12:42 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Archer's Belt has Damage Resistance rather than Damage Reduction, that's why it stacks with Damage Reduction effects like Ghostly Visage.<br/>\nWhen taking damage the defensive effects applied are, in order: Damage Immunity, Damage Resistance, Damage Reduction.<br/>\nDI effects stack with each other, but only the highest of DRes and DRed are applied (although DRed feats stack with each other).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:59 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Yunim for the explanation<br/>\nMakes sense now why the Dwarven Defender Damage Reduction stacks with Greater Swordsmans's Belts etc -&gt; its really delightful actually<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:25 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another way to have a Dragon Dwarven Defender would be something like Bard 8 / RDD 10 / DD 22.\u00a0 RDD 10 gives +4 AC bonus, and DD 22 gives more Damage Reduction than DD 14.\u00a0 The +2 CON from RDD would help you get EDR sooner.\u00a0 I am sure it has been done several times before, but that is a build I would seriously consider playing.<br/>\n<br/>\nThat said, a skilled Druid player would do well with this build.<br/>\n<br/>\n<strong>EDIT:</strong>\u00a0 I just realized\u00a0 a serious problem with my idea: there is an alignment conflict between Bard and DD.\u00a0 That's very different, then.\u00a0 Never mind!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:28 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"17800\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17800&amp;sid=c804e3ed8ee34c87ccd9fcc7edbd4f05#p17800\">\u2191</a><div class=\"responsive-hide\">Nov 30, 2019</div></cite>Another way to have a Dragon Dwarven Defender would be something like Bard 8 / RDD 10 / DD 22.\u00a0 RDD 10 gives +4 AC bonus, and DD 22 gives more Damage Reduction than DD 14.\u00a0 The +2 CON from RDD would help you get EDR sooner.\u00a0 I am sure it has been done several times before, but that is a build I would seriously consider playing.<br/>\n<br/>\nThat said, a skilled Druid player would do well with this build.<br/>\n<br/>\n<strong>EDIT:</strong>\u00a0 I just realized\u00a0 a serious problem with my idea: there is an alignment conflict between Bard and DD.\u00a0 That's very different, then.\u00a0 Never mind!</div></blockquote>\nI suppose, technically, you could do a Sorcerer 5 or 6, RDD 7 or 6, DD 8 pre-epic, followed by the remaining 3 or 4 levels of RDD, 3 or 2 more Sorcerer and 14 DD in epic. Admittedly the AC bonus is nullified by having to cross-class Tumble and those first12 levels will be hard work, but it's still do-able.<br/>\n<br/>\nNot by me, though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:40 PM - Nov 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"17802\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17802&amp;sid=c804e3ed8ee34c87ccd9fcc7edbd4f05#p17802\">\u2191</a><div class=\"responsive-hide\">Nov 30, 2019</div></cite>\nNot by me, though.</div></blockquote>\nStag you remembered!<br/>\n<blockquote><div><cite>Stagmeister wrote:</cite>Damn straight young man! I had some spasms even when constructing the Firewing of Corellon. Maybe there's an allergy involved. But I think pure cussedness is a little more likely.<br/>\n<br/>\nWhat I certainly don't fall for is a \"Look at the pretty dragon wings! Look at the obdurate might of a Dwarven Defender!\" when I can see full well there's broccoli in there somewhere <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />.<br/>\n<br/>\nStill, I can't fault you for trying! (And you really didn't help yourself by bringing the hat up again.)<br/>\n<br/>\nCheers</div></blockquote>\nAnyway such a build that you have suggested now exists<br/>\n<details><summary>Spoiler</summary>Sorcerer(6), Dwarven Defender(22), Red Dragon Disciple(12), Dwarf\n\nDEX: 13\nWIS: 8\nCHA: 11 (13)\nDwarf: (Darkvision, Defensive Training vs. Giants, Stonecunning, Hardiness vs. Poison, Hardiness vs. Spells, Offensive Training vs. Goblinoids, Offensive Training vs. Orcs, Skill Affinity: Lore)\n02: Sorcerer(2)\n04: Sorcerer(4): STR+1, (STR=16)\n06: Red Dragon Disciple(1): Blind Fight\n08: Red Dragon Disciple(3): STR+1, (STR=19)\n10: Red Dragon Disciple(5)\n12: Red Dragon Disciple(7): STR+1, Dodge, (STR=22), (CON=20)\n14: Dwarven Defender(1): {Defensive Stance}\n16: Dwarven Defender(3): STR+1, (STR=23)\n18: Dwarven Defender(5): Improved Critical: Greataxe\n20: Dwarven Defender(7): CON+1, (CON=21)\n22: Red Dragon Disciple(10): (STR=27), (CHA=13)\n24: Dwarven Defender(8): STR+1, Epic Damage Reduction II, (STR=28)\n26: Dwarven Defender(10)\n28: Dwarven Defender(12): STR+1, (STR=29)\n30: Dwarven Defender(14): Great Strength I, Epic Weapon Focus: Greataxe, (STR=30)\n32: Red Dragon Disciple(11): STR+1, (STR=31)\n34: Dwarven Defender(17)\n36: Dwarven Defender(19): STR+1, Great Strength III, (STR=34)\n38: Dwarven Defender(21)\n40: Red Dragon Disciple(12): STR+1, (STR=36)\nHitpoints: 636\nSaving Throws (Fortitude/Will/Reflex): 28/25/17\nBAB: 25\nAC (naked/mundane armor/shield only): 21/32\nAlignment Changes: 0\nDiscipline 43(56), Listen 5(4), Lore 8(11), Search 9(10), Tumble 20(21)\n\n02: Lore(1), Save(5),\u00a0\n04: Lore(1), Save(7),\u00a0\n06: Discipline(1), Save(9),\u00a0\n08: Discipline(1), Save(1),\u00a0\n10: Discipline(1), Save(3),\u00a0\n12: Discipline(1), Save(5),\u00a0\n14: Discipline(1), Save(7),\u00a0\n16: Discipline(1), Save(9),\u00a0\n18: Discipline(1), Save(1),\u00a0\n20: Discipline(1), Save(3),\u00a0\n22: Discipline(1), Search(2),\u00a0\n24: Discipline(2), Save(4),\u00a0\n26: Discipline(1), Save(8),\u00a0\n28: Discipline(3),\u00a0\n30: Discipline(3),\u00a0\n32: Discipline(1), Search(3),\u00a0\n34: Discipline(1), Save(4),\u00a0\n36: Discipline(1), Save(8),\u00a0\n38: Discipline(2), Listen(1),\u00a0\n40: Discipline(1), Listen(2),\u00a0\n</details>\n\nThe first few levels are not as hard as you think, as long as you are prepared to use the Summon Creature I spell, familiar, ranged weapons and magic missiles (preferably from a wand) to help defeat enemies.<br/>\n<br/>\nLater on when one has RDD and its stat bonuses one can melee effectively<br/>\n<br/>\nSorcerer isn't totally wasted for flame weapon and keen weapon, bull strength / cats grace / invisibility etc at level 23 and to use those random scrolls that drop along your journey<br/>\n<br/>\nNo dev crit so greataxe or halberd would work well<br/>\n<br/>\nAnd with 600hp+ / DR 24/- its pretty tanky, with base AB 42 and Str 36 it can deal some damage. 3 APR though<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:09 AM - Dec 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, no, we stags do not forget...Oh, hang on, that's elephants. Bugger...I forgot. I'll get back to you when my head's sorted...<br/>\n<br/>\n(And if anyone even hints that could be a long, long wait, I'm watching you \ud83d\udd75)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

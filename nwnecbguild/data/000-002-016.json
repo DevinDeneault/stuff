@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "016",
+  "name": "Penalties to damage immunity",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/penalties-to-damage-immunity-t2356197.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:22 AM - Jan 02, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">According to wiki, the restoration line of spells removes penalties to damage immunity. I do not know of any spells or effects that give one vulnerabilities to damage types, at least one that could be removed by restoration. I'd be grateful for any information on this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:20 AM - Jan 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As far as I can see, you're right about this.<br/>\nBut others with deeper knowledge of the intricacies of the game may have things to add.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:12 PM - Jan 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I suppose it depends on what is meant by damage immunity here, after all there are many types of damage, from the purely physical (slashing, bludgeoning, piercing, etc), through elemental (fire, cold, acid, etc), to the mental (mind spells, spell type, etc), and plenty more besides - including that sneaky way Implosion gets around death magic immunity.<br/>\n<br/>\nDid you check out the wiki's page on immunity? That might offer some further insight.<br/>\n<br/>\nAfraid I can't be of much help really.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:31 AM - Jan 05, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10404082&amp;sid=b6527bc6edef507dbf59a69225d263bc\">Stagmeister</a> wrote: <a data-post-id=\"28954\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28954&amp;sid=b6527bc6edef507dbf59a69225d263bc#p28954\">\u2191</a><div class=\"responsive-hide\">Jan 03, 2024</div></cite>\nDid you check out the wiki's page on immunity? That might offer some further insight.\n</div></blockquote>\nI looked into the different restoration spells and the damage immunity page. I even checked the talk and history pages looking for anything relevant. But I could not find anything casting light on this subject.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:26 AM - Jan 08, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Found an article: <a class=\"postlink\" href=\"https://nwnlexicon.com/index.php/EffectDamageImmunityDecrease#:~:text=This%20effect%20means%20if%20we,instantly%2C%20only%20temporarily%20or%20permanently\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php/Effect ... ermanently</a>.<br/>\n<br/>\nThis doesn\u2019t answer my question, but provides an interesting info. If a character equips items that grants 200% damage immunity bonus, he would still be rendered 100% vulnerable if a 100% damage immunity effect is applied. This is in the previous version of NWN, can\u2019t test this in the current version without knowledge of the sources of this effect. I think its inclusion in the restoration spells\u2019 description is like a placeholder for when the game may expand to include such effects.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "LilaShepard",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:18 AM - Mar 14, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It seems there might be some confusion regarding the restoration line of spells and their interaction with damage immunities and vulnerabilities. The restoration spells, such as Lesser Restoration, Greater Restoration, and similar magic, are primarily focused on removing conditions and ailments affecting a creature, such as blindness, paralysis, or curses. While they can indeed remove penalties associated with damage immunities, it's important to note that these spells typically don't directly address vulnerabilities to damage types. Vulnerabilities to damage types, such as vulnerability to fire or vulnerability to radiant damage, are usually imposed by specific effects, abilities, or conditions within the game system. However, as of my last update, there isn't a direct spell effect or condition that grants vulnerabilities to damage types, and consequently, there wouldn't be a direct interaction with the restoration spells in removing such vulnerabilities. If such a mechanic were introduced in a specific game or edition, it would likely come with its own means of mitigation or removal, possibly through different spells or abilities.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DavidAnderson12",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:48 PM - Jun 06, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Restoration line of spells generally removes conditions like exhaustion and paralysis, but not direct damage vulnerabilities. Some powerful curses or magical effects might reduce a creature's immunity, which Restoration could potentially address. Check with your game master or specific rulebook for more details on these interactions.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MasonJones",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:33 PM - Sep 12, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the advice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

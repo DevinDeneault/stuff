@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "090",
+  "name": "30 Wizard proper",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/30-wizard-proper-t2354659.html",
+  "author": "Bauer",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Jack Bauer",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:27 AM - Jan 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><span style=\"color:#000000\">Hey I was trying to do wizard again on the Arelith server. I was intending to take the extra gifts of +2 endurance and +2 intellect. I would like to try and get as many epic spell focuses as possible, while including the spells epic mummy dust and Epic Dragon Knight. I also wouldn't mind having a focus around the flesh to stone spell or possibly just using summoned creatures to take me to max level. I look forward to hearing what suggestions you folks have. Thanks!<br/>\n<br/>\n -Jack Bauer</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:58 PM - Jan 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">These are the Spellcraft skill prereqs (earliest level possible) for each epic spell:<br/>\n<br/>\nmummy dust 15 (21)<br/>\ndragon knight 22 (21)<br/>\ngreater ruin 25 (22)<br/>\nepic mage armor 26 (23)<br/>\nhellball 32 (29)<br/>\nepic warding 34 (31): this feat impossible on Lvl 30 cap unless server changed Spcr prereq (only allotted ranks allowed in vanilla)<br/>\n<br/>\nEach Epic Spell Focus requires <em>spell focus</em> and <em>grtr spell focus</em> in each applicable school.\u00a0 FtoS is Transmutation.<br/>\n<br/>\nTotal epic feats, Level 30 cap = 4 general + 3 wiz bonus = 7<br/>\n<br/>\nMaximum epic spell focus possible, Level 30 cap = 5 (10 feats pre epic, 5 feats epic)<br/>\n<br/>\nIt's up to you to choose what makes the most sense for your intentions.<br/>\n<br/>\nKeep in mind that for each pair of Grt INT feats \"traded\" in for epic spell feats, your DC will drop by 1 universally (all schools).<br/>\n<br/>\nAlso, for PvP, you will almost certainly need <em>spell pen</em>, <em>grtr spell pen</em>, <em>epic spell pen</em> (2 pre-epic feats + 1 epic feat)<br/>\n<br/>\n\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Jack Bauer",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:00 PM - Jan 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the help, so is 1 natural intellect = 1 dc on a spell? It is possible I could make my race drow for an extra +2 intelligence.  Or is it that the greater int feat on it's own adds +1 dc to spells cast of all schools?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "2:24 AM - Jan 26, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not the ability level but the ability <span style=\"color:#0000FF\"><strong>modifier</strong></span> that affects DC.\u00a0 +1 ability affects nothing (except +1 STR does boost towing capacity).\u00a0 +2 ability raises the modifier by 1.<br/>\n<br/>\nIt calculates like this: DC = 10 + spell level + ability <span style=\"color:#0000FF\"><strong>modifier</strong></span> + feat modifier. <br/>\n<br/>\nSo,  using a dual spell focus example (many ppl like to take evoc and necro  so we'll use those for an example), it would take 4 pre-epic feats (SpF: Evoc/GSpF:  Evoc and SpF: Necro/GSpF: Necro ) to qualify to take Epic SpF: Evoc and  Epic SpF: Necro.\u00a0 The epic foci would raise Evoc and Necro spells by  DC 2. The other schools' DCs would gain nothing. \u00a0 However, if you chose Grt INT x 2 instead, it would raise <span style=\"text-decoration:underline\">all</span>  schools by the modifier, 1.\u00a0 In the first case, you'd gain +1 DC in the 2  focused schools over the corresponding investment in Grt INTx2 but the remaining  schools would remain at status quo.\u00a0 <br/>\n<br/>\nSo, it comes down to how  dedicated you intend your spellcasting to be.\u00a0 With little diversion  away from the 2 focused schools, it's best to invest in their corresponding epic  focus.\u00a0 With a wide spectrum of spellcasting using spells that allow  saves, it's best to focus on your primary ability using Grt Ability  bumps, if given the choice, to boost all schools evenly.<br/>\n<br/>\nDC does not rely on \"natural\" ability modifier so if you can reach the +12 ability cap by a combo of item props and (in this case) Empowered Fox Cunning pre-buff (up to +7 INT), you'll be able to raise the DCs of all schools by +6.\u00a0 Empowered Fox should be an automatic pre-buff for all high-WIZ types.<br/>\n<br/>\nA good tactic to optimize success of FtoS is to precede it with <em>Bestow Curs</em>e, another Transmutation.\u00a0 That spell saves vs. Will which is typically very low on warrior types.\u00a0 When you follow-up with FtoS, you'll gain a 1 point advantage (modifier) by lowering the CON of the foe by 2 points.\u00a0 Fort is the hardest save to beat with warrior types, especially CoTs.<br/>\n<br/>\nI agree somewhat about the Drow subrace INT boost advantage.\u00a0 The problem with with elven spellcasters is that they give up Fort with the racial bias, so in a theoretical Fort duel between elven wiz and human wiz (or dwarven wiz, for that matter), elves should lose most of the time due to their racial CON penalty.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

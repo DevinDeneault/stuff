@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "946",
+  "name": "Input requested ^^; Fighter16/Bard4/Pale Master20",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/input-requested-fighter16-bard4-pale-master20-t2354925.html",
+  "author": "umbrellamonk",
+  "avatar": "no_avatar.png",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:32 AM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Edit: Hello, first time posting, though I've lurked intermittently for as long as the original ECB on, IGN was it?.<br/>\n<br/>\nI've been trying to make a melee build that's got good AB, decent dev crit (DC40+), Pale Master defenses and access to at least epic warding, preferably also EMA.\u00a0 I tried cramming dev crit into Valerfor's Andariel, but it proved to be too feat-starved.\u00a0 Then I came across Grizzled Dwarflord's Charnel Lord, and it was exactly what I was looking for in a PM fighter build, except the AB was a little low.\u00a0 So I took a rusty scalpel and shiny new hammer to it and here's what I came up with.\u00a0 I've looked through he forums and text searched the downloaded ECB build index so I hope I didn't miss something.\u00a0 I know Grizzled Dwarflord has a build with this exact spread (Myrmidon Eternal), but it turns out quite different (no dev crit, earlier PM levels, only one epic spell etc. etc.).<br/>\n<br/>\nFighter16/Bard4/Pale Master20<br/>\n<br/>\n1 Fighter1, Expertise, Blindfight, Luck of Heroes*<br/>\n2 Bard1<br/>\n3 Fighter2, Power Attack, Cleave<br/>\n4 Fighter3, Str19<br/>\n5 Fighter4, WF<br/>\n6 Fighter5, WS<br/>\n7 Bard2<br/>\n8 Fighter6, Great Cleave, Str20<br/>\n9 Fighter7, Improved Crit<br/>\n10 Fighter8, Improved Expertise<br/>\n11 Fighter9<br/>\n12 Fighter10, Knockdown, Improved Knockdown, Str21<br/>\n13 Fighter11<br/>\n14 Bard3<br/>\n15 Fighter12, Disarm, Improved Disarm<br/>\n16 Fighter13, Str22<br/>\n17 Pale Master1<br/>\n18 Pale Master2, Toughness<br/>\n19 Pale Master3<br/>\n20 Pale Master4, Str23<br/>\n21 Pale Master5, Overwhelming Crit<br/>\n22 Pale Master6<br/>\n23 Pale Master7<br/>\n24 Pale Master8, Great Str I, Str25<br/>\n25 Pale Master9<br/>\n26 Pale Master10<br/>\n27 Fighter14, Great Str II, Dev Crit<br/>\n28 Palemaster11, Str27<br/>\n19 Fighter15<br/>\n30 Fighter 16, Epic Weapon Focus, Epic Weapon Specialization<br/>\n31 Palemaster12<br/>\n32 Palemaster13, Epic Energy Resistance (Acid), Str 28<br/>\n33 Palemaster14, Great Str III<br/>\n34 Palemaster15<br/>\n35 Palemaster16, Epic Spell: Epic Warding<br/>\n36 Palemaster17, Great Str IV, Str31<br/>\n37 Palemaster18<br/>\n38 Palemaster19, Epic Spell: Epic Mage Armor<br/>\n39 Palemaster20, Epic Prowess<br/>\n40 Bard4, Str32<br/>\n<br/>\nCombat Vitals:<br/>\nAC: 38 (mundane plate)<br/>\nAB: 42/37/32/27 (Any weap keeping dev crit in mind, I picked greatsword.\u00a0 Man I wish falchions were in NWN1 &gt;____&gt;)<br/>\nHP: 452<br/>\nResistances: Acid, 10/-<br/>\nImmunities: All the Pale Master goodies i.e. immune to crit, paralysis, stun, holds<br/>\nFighty Abilities: DC41 Dev Crit, IKD, Improved Disarm, Improved Expertise, Power Attack<br/>\n<br/>\nSaves<br/>\nFort: 26 (37)<br/>\nWill: 21 (32)<br/>\nReflex: 19 (30)<br/>\n<br/>\nSkills:<br/>\nDiscipline: 43(54)<br/>\nSpellcraft: 43(45)<br/>\nTaunt: 43(42)<br/>\nTumble: 43<br/>\nUMD: 41(40)<br/>\n<br/>\nThe first 14 levels are more or less the same as Charnel Lord, with some feat order swapped around on account of personal preference.\u00a0 I wanted to minimize pre-epic PM levels to eke out more AB, and at the same time didn't want to take one too many fighter feats pre-epic.\u00a0 The order can probably be more optimized for playability.<br/>\n<br/>\nI'm not building with any particular environment in mind.\u00a0 Primarily PvM, but with all the combat abilities and defenses, only thing I see holding it back in pvp is the low AB.<br/>\n<br/>\nI believe I can trade in Great Strength III and IV for one more epic spell and a free feat (either armor skin or ESF: Discipline I think).\u00a0 That would bring AB down to 41 though and I dunno if any of the remaining spells are worth that tradeoff.<br/>\n<br/>\nI've also got a version that takes PM down even further, to Fighter20/Bard4/PM16, leaving just epic warding in exchange for more AB and feats.\u00a0 Might post it but I want to know if I'm on the right track first.\u00a0\u00a0<br/>\n<br/>\nI want to say I've done good here, but I can't help but feel that compared to Grizz's build that I started with, I've bartered away a lot of goodies for that extra bit of fightiness in the form of AB and fighter feats.\u00a0 I dunno, am I overvaluing' AB here?<br/>\n<br/>\nAgain, I hope I haven't inadvertently copied some build out there I missed.\u00a0 NWN been around so long that I find it hard to imagine there's something absolutely no one's tried before.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:31 AM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome to the guild umbrellamonk, you might want to take a look at this.<br/>\n<br/>\nDeathkiss --&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/deathkiss-fighter-20-bard-4-pale-master-16-t515535.html#p216\" rel=\"noreferrer\" target=\"_blank\">deathkiss-fighter-20-bard-4-pale-master ... .html#p216</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:36 AM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow...how did I miss that one.\u00a0 It never occured to me to try and cram the two epic spells into 16 levels of PM.\u00a0 Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:09 AM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry for the double post...I just ran that build.\u00a0 It's interesting, we kind of end up in the exact same place in terms of AC, strength, AB...everything.\u00a0 In place of 4 pre-epic save feats (strong soul, great fort, iron will, lightning reflexes) I got improved disarm and improved expertise.\u00a0 We also skilled up differently with the same number of points, but other than that I'm looking at the thing and the only difference at level 40 is Kail squeezed out 11 more hp!<br/>\n<br/>\nCourse, his also looks to be much more playable, especially from leveling from 20 onwards, but it's funny how these things can kind of converge XD<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:36 AM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is how it may look if you can live without the epic spells. I like this better!\n<details><summary>Spoiler</summary>\nFighter(24), Bard(6), Pale Master(10), Human\nSTR: 18 (34)\nCON: 14\nINT: 14\n\n02: Fighter(2): Expertise\n04: Fighter(3): STR+1, (STR=19)\n06: Fighter(5): Blind Fight\n08: Bard(2): STR+1, (STR=20)\n10: Fighter(8): Improved Knockdown\n12: Fighter(10): STR+1, Lightning Reflexes, Improved Critical, (STR=21)\n14: Fighter(12): Disarm\n16: Fighter(14): STR+1, Improved Disarm, (STR=22)\n18: Bard(3): Great Cleave\n20: Pale Master(2): STR+1, (STR=23)\n22: Fighter(17)\n24: Fighter(19): STR+1, Great Strength I, (STR=25)\n26: Pale Master(3): {Darkvision}\n28: Pale Master(4): STR+1, (STR=27)\n30: Pale Master(6): Great Strength III, (STR=28)\n32: Bard(5): STR+1, (STR=29)\n34: Pale Master(9)\n36: Fighter(21): STR+1, Great Strength V, (STR=32)\n38: Fighter(23)\n40: Bard(6): STR+1, (STR=34)\nHitpoints: 474\nSaving Throw bonuses: Spells: +7\nAB (max, naked): 44 (melee), 29 (ranged)\n\nDiscipline 43(55), Listen 43(42), Perform 13(12), Spellcraft 33(35), Taunt 39(38), Tumble 40(40), UMD 16(15)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:09 PM - Jul 17, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice, it's kind of a sliding scale of defensive tools with more PM levels versus more solid combat vitals with more fighter levels.\u00a0 Now, if I wanted to cram ESF: Discipline in there, what's the most painless feat to replace?\u00a0 I'm thinking either EWS or Armor Skin.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

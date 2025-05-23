@@ -1,0 +1,20 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Add ons",
+  "forum_id": "003",
+  "id": "006",
+  "name": "Craft Magic",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/craft-magic-t515387.html",
+  "author": "KailPendragon",
+  "avatar": "10235214_1540245864.jpg",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "1:14 PM - Jul 29, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">The_Krit has gifted the community with these two Craft Magic \"fixes\", working both for the single players and for module/PW builders. Enjoy.<br/>\n<br/>\n<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Hakpaks.Detail&amp;id=7921\" rel=\"noreferrer\" target=\"_blank\">Craft Magic Fixes</a>: This fixes scroll scribing so that all spells can be scribed. It also imposes consistency on spells with subspells, making them all (if I didn't miss any) use the innate level of the parent spell for all aspects of the craft magic feats. (Consequentially, you won't be able to brew potions of shadow conjuration anymore.) The innate level of war cry is also fixed. (Sorry, bards.)<br/>\nThis will probably work with any version of HotU installed, but I'm going to label it as requiring 1.69 since that is the version the data files were pulled from.<br/>\n<br/>\nSo what was broken? Basically, some spells could never successfully create a scroll (for at least some classes). The particulars vary, but that's the gist of it.<br/>\n<br/>\nSpells fixed:<br/>\n* amplify<br/>\n* aura vs. alignment<br/>\n* blade thirst<br/>\n* dirge<br/>\n* fire storm<br/>\n* healing circle<br/>\n* invisibility purge<br/>\n* shades<br/>\n* shapechange<br/>\n* storm of vengeance<br/>\n* undeath to death (added April 14)<br/>\n* vine mine<br/>\n* war cry<br/>\n<br/>\nFor those wondering, this will work with a better Craft Magic. Not all of the listed spells are broken with that system, but some are and this will fix those. <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Scripts.Detail&amp;id=3312\" rel=\"noreferrer\" target=\"_blank\">A better Craft Magic</a>: Multiple caster levels for Brew Potion, Craft Wand, and Scribe Scroll are possible with this script. As with a better Scribe Scroll (which is the basis for this), caster levels adjust as far as possible (I think) with neither a client-side hak/override nor a lot of scripting. Furthermore, this script is ready to implement true-level scribing, once someone makes the needed item properties available (or modifies every spell script).<br/>\n<br/>\nSo what does this package do? BioWare's script ignored a PC's caster level. This script does not. It makes the resulting potion, scroll, or wand as powerful as possible, without going over the PC's level (unless the weakest possible item is already over the PC's level, in which case the weakest possible is used).<br/>\n<br/>\nThere are limits, though. The caster levels available are limited to those found in iprp_spells.2da, so not every caster level is possible. To see what levels are available in BioWare's version of that file, download and read Item_levels.txt. Every spell &amp; level combo listed in that file is a possibility with this script.<br/>\n<br/>\nIf you want to extend iprp_spells.2da to allow all (or more) possible caster levels, download and read Extended_levels.txt to see how to change the included .2da so that this scroll scribing system accesses your new item properties. There is still a bit of work involved, but this will save you from having to write a script.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

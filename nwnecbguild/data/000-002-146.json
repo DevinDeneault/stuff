@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "146",
+  "name": "How do I hit a devil, demon, Barghest Whelp?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-do-i-hit-a-devil-demon-barghest-whelp-t2355363.html",
+  "author": "Asturonethoriusaline",
+  "avatar": "10759176_1572007808.png",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:36 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all. I am playing a Monk/Cleric/Assassin. Monk 3/Cleric 6/Ass 3.<br/>\n<br/>\nHave +3 Kama's. Can't hit them. When I say cant hit them, I dont mean that I cant hit their AC. I easily hit their AC. It's just that when I do Hit them, the thing says I cant hit them.<br/>\n<br/>\nSo do I need +4 + weapons to hit them? Would Darkfire on a nonmagical Kama hit them?<br/>\n<br/>\nOr do I need Acid Kama's? <br/>\n<br/>\nWhat do I need to hit them?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:43 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Accidentally double posted this, sorry about that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:48 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It would be good if you could take a screenshot of the combat log.<br/>\nI am unsure how this can be done on Android, if you are using this.<br/>\n<br/>\nI suspect your opponent has a very high slashing resistance or damage reduction from other sources such as greater stoneskin/premonition?<br/>\nOnly guessing without the combat log.<br/>\n<br/>\nAlso if you can write the creature name exactly, it could be located in the NWN wiki, which may give us some more clues<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:00 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759084&amp;sid=878619c7d5c5019174439ace275622b2\">Orion2019</a> wrote: <a data-post-id=\"19175\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19175&amp;sid=878619c7d5c5019174439ace275622b2#p19175\">\u2191</a><div class=\"responsive-hide\">Feb 19, 2020</div></cite>It would be good if you could take a screenshot of the combat log.<br/>\nI am unsure how this can be done on Android, if you are using this.<br/>\n<br/>\nI suspect your opponent has a very high slashing resistance or damage reduction from other sources such as greater stoneskin/premonition?<br/>\nOnly guessing without the combat log.</div></blockquote>\n\nThese are minor to medium devils, demons, barghest whelps. The combat logs didnt say anything about Slashing resistence, or premonition, or Greater Stoneskin, Damage Reduction.<br/>\n<br/>\nI did get one of those yellow messages that said it, they were immune to my weapon, and that because of that I couldnt hit them <br/>\n<br/>\nThat would suggest that I need something like a Acid Kama, or a Darkfired Kama, or a high enough magical enhancement +x bonus, or Cold Wrought Iron Bonus, etc,etc, etc.<br/>\n<br/>\nI am 12th lev, and the Map thing says that the dungeon, area I am in is for levels 10 to about 13.<br/>\n<br/>\nSo something should hit it, these Barhest Whelp things.<br/>\n<br/>\nJust not sure what.<br/>\n<br/>\nSo why I ask, what thits these things?<br/>\n<br/>\nThanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:03 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The funny thing, is that even tho I cant hurt them, they cant hurt me, at least until all my buffs gradually, eventually run out, and I have to leave the area.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:06 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We need to know the environment where this is taking place.<br/>\n<br/>\nIs it the OC?<br/>\n<br/>\nSoU?<br/>\n<br/>\nIn any case, it is probably a case of DR - Damage Resistance that is absorbing the damage (and may, dependingly, also be regenerated).<br/>\n<br/>\nI would cast Darkfire on the Kama, then activate DF+DP.\u00a0 That should give you some irresistable magical damage.\u00a0 The Fire may be absorbed by immunity to fire, however.<br/>\n<br/>\nDF will get you <blockquote><div>The bonus damage (reported as magical damage) is from a damage increase effect, so it ignores both damage resistance and damage immunity. </div></blockquote>\n\nDP will get you <blockquote><div>The caster gains the following bonuses: 1 extra hit point per caster level, strength is raised to 18 (if their strength is already 18 or higher, it is not raised further), and base attack bonus improves to that of a fighter of the same level. </div></blockquote>\n which will vastly improve your #attacks and perhaps some extra str damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:35 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759110&amp;sid=878619c7d5c5019174439ace275622b2\">webshaman1</a> wrote: <a data-post-id=\"19178\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19178&amp;sid=878619c7d5c5019174439ace275622b2#p19178\">\u2191</a><div class=\"responsive-hide\">Feb 19, 2020</div></cite>We need to know the environment where this is taking place.<br/>\n<br/>\nIs it the OC?<br/>\n<br/>\nSoU?<br/>\n<br/>\nIn any case, it is probably a case of DR - Damage Resistance that is absorbing the damage (and may, dependingly, also be regenerated).<br/>\n<br/>\nI would cast Darkfire on the Kama, then activate DF+DP.\u00a0 That should give you some irresistable magical damage.\u00a0 The Fire may be absorbed by immunity to fire, however.<br/>\n<br/>\nDF will get you <blockquote><div>The bonus damage (reported as magical damage) is from a damage increase effect, so it ignores both damage resistance and damage immunity. </div></blockquote>\n\nDP will get you <blockquote><div>The caster gains the following bonuses: 1 extra hit point per caster level, strength is raised to 18 (if their strength is already 18 or higher, it is not raised further), and base attack bonus improves to that of a fighter of the same level. </div></blockquote>\n which will vastly improve your #attacks and perhaps some extra str damage.</div></blockquote>\n\nThis is on Arkhalia PW.<br/>\n<br/>\nThe combat logs didnt mention any of that.<br/>\n<br/>\nIt mentioned being IMMUNE to my weapon.<br/>\n<br/>\nMeaning it had weapon immunities against some to most weapons(Which is normal for a devil, demon thing like a Barghest Whelp).<br/>\n<br/>\nI probably need some like a high enough +\u00d7 weapon to hit it(This is like SPECTERS, where if you do not have at least a +1 weapon, you cant hit it), or a Fire, Acid Weapon, or a Cold Wrought Iron Weapon, etc, etc.<br/>\n<br/>\nI just dont know what a Barghest Whelp is immune to, and what you need to hit it.<br/>\n<br/>\nIf they have Damage Reduction it would be something like:  DR 5 OR 10/+1, OR DR 5/10/Fire or Acid, or Cold Wrought Iron, etc.<br/>\n<br/>\nWhich means if you have that, you BYPASS the DR Damage Reduction.<br/>\n<br/>\nI dont have Divine Power yet(Assume thats what your talking about). I will be getting it next level. <br/>\n<br/>\nI do have the following buffs:<br/>\n<br/>\nDivine Favor, Cat's Grace, Bull's Strength, Aid, Prayer, Bless, Magic Weapon, Darkfire<br/>\n<br/>\nI have used all my buffs(Except Darkfire, Divine Power(Dont have yet(Next level), and still immune to my attacks.<br/>\n<br/>\nMaybe Darkfire+ Divine Favore+ Divine Power would work next level.<br/>\n<br/>\nI have tried to google this.<br/>\n<br/>\nHope these thing dont have DR 20/ Cold Wrought Iron, as I have no idea, where to get Cold Wrought Iron Kama's or other weapons.<br/>\n<br/>\nHave tried asking other players, no answer, help yet.<br/>\n<br/>\nOh well if I cant figure this out, I can just avoid this area pretty easily.<br/>\n<br/>\nJust would be nice to be able to hit them as they are about 125 to 150 Xp per whelp.<br/>\n<br/>\nWould be nice to farm them for xp.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:55 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know nothing about Arkhalia.<br/>\n<br/>\nThat said, these look like custom made monsters.<br/>\n<br/>\nSince that is the case, only someone who is actually familiar with that particular environment can help you here (esp. since the log is not actually helping much - other than to tell you that your present weapon is apparently not effective enough to actually present a threat).<br/>\n<br/>\nImmune normally refers to the creature in question actually being immune to either :<br/>\n<br/>\n+3 and lower weapons (meaning you need higher than that - which threshold exactly is not determinable by the log feedback).<br/>\nIt could be the damage type - immunity to slashing.<br/>\nDF should at least get you some magical damage on your weapon that automatically bypasses all immunities and reductions here.<br/>\n<br/>\nYou mention Cold Wrought weapons - this is not something that is innate to NWN.\u00a0 That means custom scripting and custom creatures.\u00a0 In that case, I would appeal to whatever rules and guidelines are available for the PW.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "11:58 AM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It may have 100% slashing DI. Have you tried punching it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:53 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759105&amp;sid=878619c7d5c5019174439ace275622b2\">Ten Pura</a> wrote: <a data-post-id=\"19181\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19181&amp;sid=878619c7d5c5019174439ace275622b2#p19181\">\u2191</a><div class=\"responsive-hide\">Feb 19, 2020</div></cite>It may have 100% slashing DI. Have you tried punching it?</div></blockquote>\n\nArkhalia says it trys to use the 3.5 Ed rules.<br/>\n<br/>\nI was finally able to google up Barghest Whelp.<br/>\n<br/>\nThese sources say that need a +1 weapon to hit(Covered(+3 Kama)<br/>\n<br/>\nNo DR listed. No immunities listed, except immune to fire.<br/>\n<br/>\nCant use fist because not high Monk enough lev to make them magical, and dont think Magic Weapon would be able to make fist count as magic weapons.<br/>\n<br/>\nPlus a Kama does equal damage to fist at this level. No listed Slashing immunity, etc.<br/>\n<br/>\nSo unless Arkhalia has customized the Barghest Whelp, and not following NWN/D20 Barghest Whelp, then with a +25 Modified buffed AB, I should be hitting, damaging, killing these things.<br/>\n<br/>\nAlso as a 10th to 14th level encounter, no reason to give them immunity to my weapon, Kama, DR, etc, and just use the NWN D20 no DR, etc, version.<br/>\n<br/>\nI am probably going to have to go up 1 level to 13 level, get a +4 Kama, Use Divine Favor, Divine Power, Bulls Str, Magic Weapon, Cats Grace, Bless, Prayer, Aid, No Darkfire(Darkfire only works on non magical weapons), etc, and hope that works.<br/>\n<br/>\nIf that doesnt work, maybe somebody in the game can tell me what will work.<br/>\n<br/>\nAnd if not then skip it.<br/>\n<br/>\nAt 9k xp until lev 13, just only need to kill about 100 Umberhulks at about 80 xp each to get to 13th lev, get Divine Power<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:03 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You <em><strong>SHOULD </strong></em>be able to first cast Darkfire on a non-magical weapon, then GMW (Greater Magical Weapon) to get around this...<br/>\n<br/>\nBut perhaps that has been accounted for?<br/>\n<br/>\nIn any regards, it sounds like that Barghast Whelp has some sort of custom features...<br/>\n<br/>\nIt does state <blockquote><div>enchanted weapons were required to seriously harm a barghest</div></blockquote>\n\nNow, I don't know if this is the case, but perhaps the +3 on the weapon in question has to be enchantment, and not attack bonus...I have no idea if that is even scriptable in NWN, however.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:31 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"19184\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19184&amp;sid=fad31742f87294e78fe99729d16c230b#p19184\">\u2191</a><div class=\"responsive-hide\">Feb 19, 2020</div></cite>You <em><strong>SHOULD </strong></em>be able to first cast Darkfire on a non-magical weapon, then GMW (Greater Magical Weapon) to get around this...<br/>\n<br/>\nBut perhaps that has been accounted for?<br/>\n<br/>\nIn any regards, it sounds like that Barghast Whelp has some sort of custom features...<br/>\n<br/>\nIt does state\n<blockquote><div>enchanted weapons were required to seriously harm a barghest</div></blockquote>\n\nNow, I don't know if this is the case, but perhaps the +3 on the weapon in question has to be enchantment, and not attack bonus...I have no idea if that is even scriptable in NWN, however.</div></blockquote>\n\nThe +3 Kama's I have, have a +3 ENHANCEMENT bonus, not a AB bonus. It says that in the Item description, anf I paid about 23k to 43k for them at a store.<br/>\n<br/>\nI just leveled to character lev 13, Cleric level 7, 4th lev spells, Divine Power, Stoneskin, Greater Magic Weapon. I have done 27 damage on a critical hit against the Umberhulks.<br/>\n<br/>\nSo since I have extend, I will just buff, stoneskin myself, which combined with my 39 AC, I will defeat them by doing that with Divine Power, and EVENTUALLY I will critical hit them, which should do enough damage at about 15 to 27, that that should get about 4 to 6 damage past, thru any DR's, EVENTUALLY, and EVENTUALLY Kill them.<br/>\n<br/>\nI can also combine that with Darkfire, Magic Weapon.<br/>\n<br/>\nIf that is not enough, or if its immune, or if Inhave to get something like Cold Wrought Iron, then I will just skip them.<br/>\n<br/>\nThanks for the help ya all.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:01 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry Asturonethoriusaline, it looks like we haven't been able to help much (so far at least)\u00a0<br/>\nOne suggestion I might have is if you put your message on an Arkhalia PW forum, or even <a class=\"postlink\" href=\"https://www.reddit.com/r/neverwinternights/\" rel=\"noreferrer\" target=\"_blank\">NWN Reddit</a> maybe you might be able to get some answers from others, some of whom might be more familiar with Arkhalia than we are.<br/>\nOr if you are in game with some of the players they might be able to help, I've asked Gkorjax, WebShaman and many others for advice regarding WoG when I started that almost a year ago.<br/>\nPerhaps there might be an Arkhalia expert who is reading the forum at a later stage who might be generous enough to post and give advice<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:33 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759084&amp;sid=fad31742f87294e78fe99729d16c230b\">Orion2019</a> wrote: <a data-post-id=\"19189\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19189&amp;sid=fad31742f87294e78fe99729d16c230b#p19189\">\u2191</a><div class=\"responsive-hide\">Feb 19, 2020</div></cite>Sorry Asturonethoriusaline, it looks like we haven't been able to help much (so far at least) because we haven't got a lot of Arkhalia PW experts<br/>\nIf you put your message on an Arkhalia PW forum, or even <a class=\"postlink\" href=\"https://www.reddit.com/r/neverwinternights/\" rel=\"noreferrer\" target=\"_blank\">NWN Reddit</a> maybe you might be able to get some better answers.<br/>\nAlso if you are in game with some of the players they might be able to help, I've asked Gkorjax, WebShaman and many others for advice regarding WoG when I started that almost a year ago.<br/>\nIn the meantime perhaps there might be an Arkhalia expert who is reading the forum at a later stage who might be generous enough to post and give advice</div></blockquote>\n\nNot sure if it was a glitch, bug, DM feat, or what, but now I am hitting, killing them.<br/>\n<br/>\nAll the buff ups, including GMW, DP, Stoneskin, etc, are so awesome when combine them all. Only problem, is it takes too long to cast them all, that by the time I cast the last buff, the first buff, is expiring.<br/>\n<br/>\nModified AB at 13th lev is 30. And doing about 17 to 33 damage each hit I do.<br/>\n<br/>\nThat combined with the 39 AC, and the about DR 50 to 100/+3,+4,+5 that stoneskin gives you, combined with the saves, combined with Sanctuary, Stealth, Death Attacking makes this build extremely unfair.<br/>\n<br/>\nNo wonder they nerfed the Assassin, because of this build combo.<br/>\n<br/>\nNot bragging, just amazed at what this build does.<br/>\n<br/>\nMaybe you all arent, wouldnt be amazed. Maybe you guys are used to this kind of stuff.<br/>\n<br/>\nBut I am a new enough builder, that this is new to me.<br/>\n<br/>\nThanks for the help.<br/>\n<br/>\nNow I am getting 100 xp per each Barghest I kill.<br/>\n<br/>\nNeeds some quest to do and quest xp, as farming 50 to 100 to 150 mobs to lev up each lev, is taking way to much grinding.<br/>\n<br/>\nThanks.<br/>\n<br/>\nMike.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:56 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sounds fishy, all right.<br/>\n<br/>\nProbably a DM who possessed said Creatures in immune mode.<br/>\n<br/>\nAnyway - when I solo, I am either :<br/>\n<br/>\nA - exploring<br/>\nB - hunting xp and/or treasure<br/>\n<br/>\nIf B, then I usually go after the biggest game I can bag.<br/>\n<br/>\nFor example, hunting 16 cl stuff with level 2.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:08 PM - Feb 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As has already been posted, this is a problem with DI/DR and you will need to change weapons to fight them. That yellow message appears if your attacks do 0 damage, it doesn't necessarily\u00a0mean that the problem is 100% DI or invulnerability. You need to check the actual logs to look at the DI/DR.<br/>\n<br/>\nIn vanilla NWN both Battletide and Divine Favour ignore DI/DR, but at your level this will mean only 2 damage per hit. Try using a different damage type (mace/sling for bludgeoning, shortsword/longbow for piercing), use elemental damage (although outsiders usually have elemental DI/DR), and try Searing Light or other damage spells. If using a different damage type works then I recommend carrying multiple types of weapons so you don't have a problem with DI/DR again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

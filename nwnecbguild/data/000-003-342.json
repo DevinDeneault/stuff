@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "342",
+  "name": "Build Request: Sorcerer for OC",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-request-sorcerer-for-oc-t2350075.html",
+  "author": "Ktan",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Ktan",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:46 AM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good morning everyone   <br/>\n<br/>\nThanks to gog.com I've recently got back into playing NWN1. As a long time fan (but never a winner) of roguelikes this game appeals to me greatly.<br/>\n<br/>\n I've looked around several forums for builds specifically for the original <strong>original campaign</strong> But they either seem to be posted years ago and choosing skills such as persuade, intimidate (for dialogue quest options I presume) or very focused on the final Level40 outcome. I'm aware that this forum is the 'epic character builders guild' however from the guides I have read so far so far this forum has offered the best thought out advice for characters.<br/>\n<br/>\nI've followed this guide:<br/>\n<a class=\"postlink\" href=\"http://social.bioware.com/forum/1/topic/199/index/3275241\" rel=\"noreferrer\" target=\"_blank\">http://social.bioware.com/forum/1/topic ... ex/3275241</a><br/>\nUsing mods #3 to #19 (excluding #5) to beautify my game somewhat.<br/>\n<br/>\nI've managed to stagger and stumble my way through half of chapter 1 using a wizard. Too often I found myself running away like a 7 year old girl after running out of spells....<br/>\nOC plot spoiler:<br/>\n<br/>\n<br/>\n\t\tSpoiler<br/>\n<br/>\n\t\t\t[+]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\tOn several Occasions I had to fall back on the tactic of using all my spell slots to super buff a summon, or by actually pulling the mini-boss back to the gate guards. *shame*<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nI see that many of the epic level character 40 builds on this forum are based on three (or sometimes two) character classes. Is there going to be a large advantage in multi classing a sorcerer for the original campaign, or would it be best to keep as a pure sorcerer for my 16ish levels? I'd prefer to be a spell slinger and not some kind of hand-to-hand combat caster, (however I'm open to being convinced otherwise if they are much more powerful.)<br/>\n<br/>\n things that I did gone and learnt myself sofar    <br/>\n8 Strength just plain sucks. Yes, I know I can cast bulls strength or use bags of holding , but having to micro manage which loot goes in the 80% / 60% / 40% bag is just annoying.<br/>\n<br/>\nAs a player I always fail my willpower save when it comes to utilising the unlimited gold bug. So gold isn't a limiting factor<br/>\nUnlimited gold spoiler:<br/>\n<br/>\n<br/>\n\t\tSpoiler<br/>\n<br/>\n\t\t\t[+]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\tBuy dagger, cast continual flame on it, sell dagger.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nSo, with all that being said,<br/>\nCould someone suggest a sorcerer character build for the original campaign please?<br/>\n<br/>\nPreemptive thanks, <br/>\nKtan.<br/>\n<br/>\n(Just avoiding the flood waters in Somerset England. Staying in during this horrible weather and playing Neverwinter Nights)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:58 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you have not given up Wizard completely, the <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build301814.html\" rel=\"noreferrer\" target=\"_blank\">Melee Mage</a> is a way to build and play. <br/>\n<br/>\nMy advice for a sorcerer is to go pure sorcerer pre epic to build up spellpower. Start with a high charisma (18) and then some constitution (14). That gives you some points to spend on strength. The most important skills are spellcraft and concentration. As human you will get both with an intelligence of 8. <br/>\nStay out of hand-to-hand combat in the early levels. Hang back with a crossbow early on and use your familiar, summoned animals or henchmen as meat-shields.<br/>\nAt level 10 when you have some level 4 spells (Improved invisibility, Stoneskin, Ice storm) and start getting level 5 spells (firebrand) , soloing becomes easy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ktan",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:18 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you Mick for your words, I'll stick to Sorc for my first attempt...<br/>\n<br/>\nJust started now:<br/>\n<br/>\nHuman female sorcerer.<br/>\n<br/>\nStr 10 (carrying ability)<br/>\nDex 10 (I didn't want a -1 modifier)<br/>\nCon 14 (+2 modifier for extra HP. I'm playing with maxhp=1 in the .ini file)<br/>\nWiz 10 (I didn't want a -1 modifier)<br/>\nInt 10 (I didn't like the sound of \"int lower than 9....unable to speak properly)<br/>\nCha 18 (I'll get the henchman rewards ASAP to get this to 20)<br/>\n<br/>\nPanther familiar for some combat oomph.<br/>\nChaotic evil.<br/>\nLevel 1: Concentration 4. SpellCraft 4. (Save 4) - I may put these into heal if I feel the need.<br/>\n<br/>\nFeats...... Hmmm...<br/>\nI'm tempted to go for \"spell penetration\" + \"greater spell penetration\" to help me deal with those pesky bosses.<br/>\nOr<br/>\n\"Luck of heroes\" and \"toughness\" for survivability.<br/>\nOr<br/>\n\"Spell focus:evocation\" and \"GSF: evocation\" for increased DC on my direct damage Arsenal.<br/>\nOr<br/>\n\"Sf:necro\" and \"GSF:necro\" for instadeath magics...<br/>\n<br/>\nHmmmmmmmmm..<br/>\n<br/>\nAdvice?<br/>\n<br/>\n(I've temporarily gone down the penetration route to get my game started, but I'll re-roll if needed. No big deal)<br/>\n<br/>\n<br/>\nWish me luck!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:39 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome to the guild man!<br/>\n<br/>\nThat's a nice guide you followed, here is an alternative ready to go package too if you want to have a look.<br/>\n<br/>\nGrand Override Compilation of Ages --&gt; <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Hakpaks.Detail&amp;id=7935\" rel=\"noreferrer\" target=\"_blank\">http://nwvault.ign.com/View.php?view=Ha ... il&amp;id=7935</a><br/>\n<br/>\nAlso when you done with the OC , check our module section for we have some proposals there for single player that far outperform the original campaign.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ktan",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:18 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've literally spent hours compiling all those mods together to form my own override directory, and you tell me someone has done it already.... :-/<br/>\n<br/>\nBaaah!<br/>\n<br/>\nAnd yes, I fully intent to follow the advise from the learned board members as to where I take this character next. <br/>\n<br/>\nCurrently level 8 sorc.<br/>\nGreater spell pen. Greater focus evocation.<br/>\n Grease , web and hasted fireball spam seem to be working well in conjunction with a buffed panther.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:46 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He he,<br/>\n<br/>\nTake also Grimgnaw with you and start buff him, he is a machine of death!<br/>\n<br/>\nGoing Sorcerer is always a good choice in NWN 1. Time stop, IGMS, Bigby's VI, Wail of Banshee, firebrand, so many good spells...<br/>\n<br/>\nKeep going with your character and play HoTU too, that's better than the OC, whole lot of stuff is happening there with the Duke of Hell and a Drow  High Priestess.<br/>\n<br/>\nNext try Aielund, you will be surprised that the quality of this mod is simmilar to a professional gaming studio can do. <strong>Ten </strong>times better than the OC &amp; HoTU compined!<br/>\n<br/>\nAlso dont forget to put Tony's AI there as you play, it makes the whole experiance lots better.<br/>\n<br/>\nHappy gaming.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:56 PM - Feb 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As for you original request, you won't see many builds for the OC specifically because the environment generally is considered easy for the most part and it does not go all the way to Epic levels.<br/>\n<br/>\nthat being said, the OC as the HoTU after that is a lot friendly to the traditional Hero so Paladin's are very good for that (also because of their skill selection) and a perfect match for your Sorcerer too.<br/>\n<br/>\nBeing simplistic here i will say that if you want to take your Hero all the way up to HoTU which ends at lvl 27 or so, a Sorcerer 23/ Paladin 4 with DM &amp; DS is a really good way to go.<br/>\n<br/>\nKeep Persuade, Tumble, Spellcraft and Concentration high and you will have no problem at all. Knock,find traps and your Pixie will take care of all your Rogue needs.<br/>\n<br/>\nEnjoy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:19 AM - Feb 17, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heya!<br/>\n<br/>\nWelcome to the ECB!<br/>\n<br/>\nI'm with my friends here. Playing the OC isn't a challenge. You might have a little bit of trouble in the early stages, nothing that a henchman and a familiar can't solve. Maybe you should just use a Crossbow and conserve your spells more. IIRC there are no resting restrictions in the OC, so you can rest before every battle. The fact that you are running out of spells is WEIRD! Maybe you're trying to RP too much? There is no in-game reason to run out of spells EVER, just rest before every battle <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ktan",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:14 PM - Feb 20, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you all for those tips. Everything has been mentally noted <br/>\n<br/>\nGrimgnaw buffed and hasted is a killer! I know I loose some XP by using a henchman but this chap is worth it..<br/>\n<br/>\nRighty, let's grab me a Dryad....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:38 PM - Feb 21, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Someone is having fun<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "214",
+  "name": "Questions about called shot and bards",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/questions-about-called-shot-and-bards-t2354657.html",
+  "author": "233",
+  "avatar": "10714033_1519247364.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "3:12 PM - Dec 31, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all!<br/>\n I have some questions related to the following matters:<br/>\n<br/>\n 1) When \"called shot\" can/should be used? For DEX-build? For STR-builds?<br/>\n \u00a0\u00a0\u00a0 I need general advices for dealing with this feat; at the beginning of my NWN experience I thought it was useless, but I didn't considered that a mean of raising AC is also lowering the enemy's AC.<br/>\n<br/>\n 2) I would like to create a Bard mainly as a support character: would it be consistent for offline/server play?<br/>\n \u00a0\u00a0\u00a0 Should I multiclass with other classes (e.g. arcane archer, in order to have a decent ranged attack)?<br/>\n<br/>\n Thank you for your answers!<br/>\n Aquarius \u00a0\u00a0<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:09 PM - Dec 31, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Aquarius!<br/>\n Called shot has 2 uses; attack against your opponents arm or leg. The attacks are made vs a discipline check. The effects of a successful hit lasts for 4 rounds and are cumulative if you make more hits.<br/>\n An arm attack lowers the AB by 2. A leg attack lowers dexterity by 2 and speed by 20%.<br/>\n Arm attacks are great for melee. Leg attacks are also great for melee against dex builds, but are most often used by archers to slow down their target and keep the distance.<br/>\n<br/>\n Bard is one of the strongest classes and play an important part in many of the strongest builds that are.<br/>\n But if you want to make a bard based support character with AA, I will recommend to take more than 20 levels of bard for LI and probably 24 or more levels for indispellability. The song boni will be awesome if you manage to get a high perform skill. Use the song to buff your party and curse song to debuff your opponents. A high taunt skill will also help your party if you can taunt difficult bosses successfully.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "2:53 PM - Jan 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for the reply, Mick!<br/>\n<br/>\n But, how can you determine which level provides indispellability?<br/>\n You have said \"and probably 24 or more levels for indispellability\": can you provide me a mathematical example (with involved calculations), in order to fully understand this topic?<br/>\n<br/>\n Besides, relating to the build itself: for a 40-level PC I would think to create a 25 Bard/15 Arcane archer; Bard 25 can provide me a bonus/malus of 6 AC with bard/curse song, and by gaining odd levels of AA I can benefit of Enchanted Arrow's bonuses (+8 ench). Do you agree?<br/>\n And, what if I had to create a 30-level character? What would be the preferred split?<br/>\n<br/>\n P.S.: Happy New Year!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:31 PM - Jan 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll leave the rest of the answers about bards to Mick, however...<br/>\n<br/>\nRegarding what most folks refer to as <em>\"indispellability\"</em>, check the wiki article about <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Greater_dispelling\" rel=\"noreferrer\" target=\"_blank\">Greater Dispelling</a>.</strong>\u00a0 Naturally, a Mord will dispel all but pure caster (Level 40) buffs but except on high-magic realms, Mords are rare and likewise do not appear on items, via UMD or non-class-specific custom items. Dispelling comes down to nothing more than caster levels and a dice roll.\u00a0 For each caster level less than 24, add another 5% likelihood that the buffs will be dispelled.<br/>\n<br/>\nAlso, Called Shot effectiveness only depends on AB.\u00a0 You should be asking yourself\u00a0 \"Does my toon have an AB high enough to assure that Arm or Leg shots will land reliably or will I be missing those attempts most of the time?\" An AA can hit anything but are limited as to special attacks more typically implemented via melee.\u00a0 WMs also attain those lofty ABs that allow it to breach the penalties associated with special attacks so usually excel with them as well.\u00a0 Whether the AB is based on DEX or STR (or somewhat more rare, on WIS via Zen) does not matter.\u00a0 It still comes down to reaching a reliable AB in any manner possible, with any ability+focus+prowess combo to achieve that number (with the additional caveat of AC-reducing effects like Taunt, Curse, etc.).<br/>\n<br/>\nA somewhat related factor of Called Shot effectiveness is the opposed Freedom effect.\u00a0 Whether it is applied by an item property or via a spell buff, those possessing Freedom are immune to Leg Shots and all mobility-related spells and effects.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:37 PM - Jan 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Happy new year to you as well!<br/>\n By undispellable we mean immune to lesser dispel, dispel magic and greater dispel. If you look up <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Greater_dispelling\" rel=\"noreferrer\" target=\"_blank\">greater dispel</a></strong> in the NWN wiki, you will find a good explaination.<br/>\n Note that this does not give immunity to the breach spells and Mordenkainen's disjunction.<br/>\n The 25/ 15 split is absolutely an option.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "7:45 PM - Jan 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok thank you all for the replies!<br/>\n I will think of a build and, if not already posted, I will post in this forum...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

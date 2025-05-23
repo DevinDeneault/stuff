@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "875",
+  "name": "Level 20 Melee Cleric Build (Good Aligned)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-20-melee-cleric-build-good-aligned-t2355046.html",
+  "author": "EatPreyLuv",
+  "avatar": "no_avatar.png",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:46 AM - Mar 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">1) PvM or PvP - A bit of Both<br/>\n<br/>\n2) Level cap - 20<br/>\n<br/>\n3) Race preference - Elf or Human (Preferably Elf)<br/>\n<br/>\n4) Class preference - Just cleric really but open to 1-2 level multiclass ideas that buff its survivability would prefer at least 17 cleric for 9th level spells<br/>\n<br/>\n5) Melee preference - Strength, and/or Cha, Sword and Board<br/>\n<br/>\n6) Range preference - WIS (spells)<br/>\n<br/>\n7) Weapon preference - Longsword<br/>\n<br/>\n8) Maximum item enhancement - +1/+2 stat, +4/+5 ac/attack/enhancement<br/>\n<br/>\n9) Spellcasting - Buffing spells and AOE battlefield control spells<br/>\n<br/>\n10) Custom factors - divine might/shield is 5 rounds + cha modifier<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:51 PM - Mar 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about this?\n<details><summary>Spoiler</summary>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)\nPlayable 1 - 20, PvM\n\nSTR: 14\nCON: 14\nINT: 12\n\nHuman: (Quick to Master)\n02: Fighter(1): Weapon Focus: Longsword\n04: Cleric(3): WIS+1, (WIS=16)\n06: Cleric(5): Extend Spell\n08: Cleric(7): WIS+1, (WIS=17)\n10: Cleric(9)\n12: Cleric(11): WIS+1, Divine Shield, (WIS=18)\n14: Cleric(12)\n16: Cleric(14): WIS+1, (WIS=19)\n18: Cleric(16): Toughness\n20: Cleric(18): WIS+1, (WIS=20)\nStats:\nSkillpoints: 92\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 18 (melee), 14 (ranged)\nSpell Casting: Cleric(9)\n\nConcentration 23(25), Discipline 16(18), Heal 14(19), Spellcraft 19(20), Tumble 10(9)\n01: Concentration(4), Heal(4), Spellcraft(4), Save(4)\n03: Concentration(1), Spellcraft(2), Tumble(1)\n05: Concentration(1), Spellcraft(1), Tumble(1)\n07: Concentration(1), Spellcraft(1), Tumble(1)\n09: Concentration(1), Spellcraft(1), Tumble(1), Save(2)\n11: Concentration(1), Spellcraft(1), Save(6)\n13: Concentration(1), Discipline(11)\n15: Concentration(1), Spellcraft(1), Tumble(1), Save(1)\n17: Concentration(1), Tumble(2)\n19: Concentration(1), Heal(3)\n</details>\n\nI made an alternate version in case you decide that Divine Might and Divine Shield aren't worth it with only 14 CHA.\n<details><summary>Spoiler</summary>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)\nPlayable 1 - 20, PvM\nAbilities:\nDEX: 12\nWIS: 15 (20)\nCHA: 8\nLeveling Guide:\n01: Cleric(1): Power Attack, Cleave, Domain Magic, Domain Trickery\n03: Cleric(2): Blind Fight\n05: Cleric(4)\n07: Cleric(6)\n09: Cleric(8): Knockdown\n11: Cleric(10)\n13: Fighter(2): Improved Critical: Longsword\n15: Cleric(13): Empower Spell\n17: Cleric(15)\n19: Cleric(17)\n\nHitpoints: 224\nSaving Throws (Fortitude/Will/Reflex): 16/16/7\nBAB: 15\nAC (naked/mundane armor/shield only): 13/24\nAlignment Changes: 0\nSkills:\n\n02: Concentration(1), Discipline(5), Heal(1)\n04: Concentration(1), Heal(1), Spellcraft(1), Tumble(1), Save(1)\n06: Concentration(1), Heal(1), Spellcraft(1), Tumble(1), Save(1)\n08: Concentration(1), Heal(1), Spellcraft(1), Save(3)\n10: Concentration(1), Heal(1), Spellcraft(1), Save(5)\n12: Concentration(1), Heal(1), Spellcraft(1), Save(9)\n14: Concentration(1), Heal(1), Spellcraft(2), Tumble(1)\n16: Concentration(1), Heal(1), Spellcraft(1), Tumble(1)\n18: Concentration(1), Heal(1), Lore(2), Spellcraft(1)\n20: Concentration(1), Heal(1), Lore(2), Spellcraft(1)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:35 PM - Mar 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is this okay?\u00a0<br/>\n<br/>\nLevel 20 Melee Cleric (Cleric 19 / Paladin 1)<br/>\nElf, Good<br/>\nPlayable 1 - 20, PvM<br/>\n<br/>\n<br/>\nAbilities:<br/>\nSTR: 14<br/>\nDEX: 8<br/>\nCON: 12<br/>\nWIS: 15 (20)<br/>\nINT: 12<br/>\nCHA: 14<br/>\n<br/>\nLeveling Guide:<br/>\n01: Cleric(1): Power Attack, Domain Magic, Domain Trickery<br/>\n02: Cleric(2)<br/>\n03: Cleric(3): Blind Fight<br/>\n04: Cleric(4): WIS+1, (WIS=16)<br/>\n05: Cleric(5)<br/>\n06: Cleric(6): Extend Spell<br/>\n07: Cleric(7)<br/>\n08: Cleric(8): WIS+1, (WIS=17)<br/>\n09: Cleric(9): Divine Might<br/>\n10: Cleric(10)<br/>\n11: Cleric(11)<br/>\n12: Cleric(12): WIS+1, Divine Shield, (WIS=18)<br/>\n13: Cleric(13)<br/>\n14: Cleric(14)<br/>\n15: Cleric(15): Weapon Focus: Longsword<br/>\n16: Cleric(16): WIS+1, (WIS=19)<br/>\n17: Cleric(17)<br/>\n18: Cleric(18): Toughness<br/>\n19: Cleric(19)<br/>\n20: Paladin(1): WIS+1, (WIS=20)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:24 PM - Mar 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I also did this, the goal being that it's melee is coupled with some implosion use:<br/>\n<br/>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)<br/>\nElf, Lawful Good<br/>\n<br/>\n<br/>\nAbilities:<br/>\nSTR: 14<br/>\nDEX: 10<br/>\nCON: 14<br/>\nWIS: 15 (20)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Blind Fight, Domain Magic, Domain Trickery<br/>\n02: Fighter(1): Weapon Focus: Longsword<br/>\n03: Cleric(2): Extend Spell<br/>\n04: Cleric(3): WIS+1, (WIS=16)<br/>\n05: Cleric(4)<br/>\n06: Cleric(5): Empower Spell<br/>\n07: Cleric(6)<br/>\n08: Cleric(7): WIS+1, (WIS=17)<br/>\n09: Cleric(8): Knockdown<br/>\n10: Cleric(9)<br/>\n11: Cleric(10)<br/>\n12: Cleric(11): WIS+1, Improved Knockdown, (WIS=18)<br/>\n13: Fighter(2): Improved Critical: Longsword<br/>\n14: Cleric(12)<br/>\n15: Cleric(13): Toughness<br/>\n16: Cleric(14): WIS+1, (WIS=19)<br/>\n17: Cleric(15)<br/>\n18: Cleric(16): Spell Focus: Evocation<br/>\n19: Cleric(17)<br/>\n20: Cleric(18): WIS+1, (WIS=20)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:28 AM - Mar 15, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The second build looks good.\u00a0 Note, you will have a 20% experience penalty starting at level 4 because neither Cleric nor Fighter is the favored class for an Elf.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:10 PM - Mar 15, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you're only going to take a few levels of one more class, Monk goes best with Cleric, 8 Str, high Dex high Wis. Monk attack schedule + DP + DF + DF = slaughter ass.<br/>\nEDIT: Right, apparently I didn't get the strength-based bit, sorry. I tend to forget Str exists as an ability score for clerics :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "901",
+  "name": "A Shot in the Dark (Bard 5 / AA 9 / Assassin 26)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-shot-in-the-dark-bard-5-aa-9-assassin-26-t2354966.html",
+  "author": "neo.dietrich",
+  "avatar": "10759013_1546875159.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "neo.dietrich",
+      "avatar": "10759013_1546875159.jpg",
+      "timestamp": "4:14 AM - Dec 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just picked up NWN:EE and have been working on a character build for a while. I think I've got the class and stat spreads worked out, but I could use some help with class timing and feat selection. The basic concept is a reliable archer that uses Darkness to rack up Death Attacks.<br/>\n<br/>\nSo here's the bare-bones:<br/>\n<br/>\nElf, NE/CE, 1-40<br/>\nS- 14<br/>\nD- 16<br/>\nC- 8<br/>\nW- 8<br/>\nI- 16<br/>\nCh- 14<br/>\n<br/>\nBard 1-5<br/>\nAssassin 6-10<br/>\nAA 11-19<br/>\nAssassin 20-40<br/>\n<br/>\nIt seemed fairly straightforward, but of course, that made me feel a little odd. (What's ever straightforward?) AB and AC seem decent enough. Lots of skills to work with. As far as feats go, they also seem pretty easy. All your basic archery feats (PBS, Rapid Shot, WF, Called Shot, etc.) fit right in. Epic feats are also pretty basic. Great Dex and Imp. Sneak Attacks, as well as Epic Prowess and EWF. Can even get a Blinding Speed in there. No self concealment, though, because it doesn't get Improved Evasion.<br/>\n<br/>\nI guess my biggest questions would be whether the class spread seems right, when to take feats (epic in particular) and whether it even seems viable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:15 AM - Dec 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Neo.dietrich, here is a build I have worked a bit on. It is almost ready for posting in the 40s section. The working title is \"Marksman Assassin\". It has the level split you want. I have also added trap skills to be able to detect and recover deadly traps, and to set epic traps. It still needs a little \"playtesting\" before I will post it.<br/>\nHave a look, and see if it has what you want.<br/>\n<br/>\nI also welcome input from other members before I post this build in the 40s section.<br/>\n<details><summary>Spoiler</summary>\nBard(5), Assassin(26), Arcane Archer(9), Elf\n\nDEX: 18 (36)\nWIS: 8\nCHA: 12\n01: Bard(1): Point Blank Shot\n03: Bard(3): Rapid Shot\n05: Bard(5)\n07: Assassin(2): {Uncanny Dodge I}\n09: Assassin(4): Weapon Focus: Longbow\n11: Arcane Archer(2)\n13: Arcane Archer(3)\n15: Arcane Archer(5): Blind Fight\n17: Assassin(6)\n19: Arcane Archer(8)\n21: Assassin(7): Epic Weapon Focus: Longbow\n23: Assassin(9)\n25: Assassin(11)\n27: Assassin(13): Armor Skin\n29: Assassin(15)\n31: Assassin(17)\n33: Assassin(19): Great Dexterity IV, (DEX=30)\n35: Assassin(21)\n37: Assassin(23)\n39: Assassin(25): Great Dexterity VII, (DEX=34)\n\nSaving Throws (Fortitude/Will/Reflex): 19/18/38\nBAB: 26\nAC (naked/mundane armor/shield only): 33/36\nAlignment Changes: 0\nSkillpoints: 301\n\n02: Hide(1), Move Silently(1), Perform(1), Tumble(1), Save(13), \n04: Hide(1), Move Silently(1), Perform(1), Spellcraft(5), Tumble(1), Save(14), \n06: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(1), Search(8), Set Trap(1), Spot(9), Tumble(1), \n08: Disable Trap(2), Hide(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), \n10: Hide(1), Move Silently(1), Spot(1), Save(4), \n12: Disable Trap(3), Hide(1), Move Silently(1), Spot(1), Tumble(5), UMD(4), \n14: Hide(1), Move Silently(1), Spot(1), Save(8), \n16: Hide(1), Move Silently(1), Spot(1), Save(16), \n18: Hide(1), Move Silently(1), Spot(1), Save(4), \n20: Hide(1), Move Silently(1), Spot(1), Save(12), \n22: Hide(1), Move Silently(1), Spot(1), Tumble(5), \n24: Disable Trap(3), Hide(1), Move Silently(1), Spot(1), Save(3), \n26: Hide(1), Move Silently(1), Spot(1), UMD(5), Save(3), \n28: Hide(1), Move Silently(1), Set Trap(4), Spot(1), \n30: Hide(1), Move Silently(1), Set Trap(4), Spot(1), \n32: Hide(1), Move Silently(1), Spot(1), Tumble(5), \n34: Hide(1), Move Silently(1), Set Trap(4), Spot(1), \n36: Hide(1), Listen(3), Move Silently(1), Spot(1), Save(1), \n38: Hide(1), Listen(4), Move Silently(1), Spot(1), \n40: Hide(1), Listen(4), Move Silently(1), Spot(1),</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "neo.dietrich",
+      "avatar": "10759013_1546875159.jpg",
+      "timestamp": "6:23 PM - Dec 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Definitely better than what my final product would have looked like.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:10 PM - Dec 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's bloody beautiful! <br/>\n<br/>\nIn a strange, weird, assassin's way...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "8:39 AM - Jan 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Spellcraft 7?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:11 AM - Jan 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\nSpellcraft 7?\n</div></blockquote>\n\n7 + a bonus of 3 from intelligence is 10. <br/>\nAt lvl 5 the best you can get is 8.<br/>\nIf you cap intelligence you can have 6 more. So your spellcraft target is 15 with buffs. <br/>\nIt will be easier to achieve with 8 base ranks. But once you can have Intelligence 26 from items or buffs, you are OK with 7 ranks.<br/>\nIf you know that you can cap intelligence, 6 ranks will get the job done.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "10:20 AM - Jan 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, I get the logic now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "neo.dietrich",
+      "avatar": "10759013_1546875159.jpg",
+      "timestamp": "9:46 PM - Jan 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So I played through the OC, SOU and HOTU with Mick's build. It's good. It's fun. But the entire time, I was just wondering what I could get out of it that I couldn't get from a Rogue/Wiz/AA. And in the end, it just doesn't compare.<br/>\n<br/>\nIf you want to play a Bard/AA/Assasin, Mick's build is what you want. It's not a bad build at all. But there are much better builds that do the same thing.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:43 AM - Jan 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rogue/Wizard/AA and Bard/AA/Assassin do have much in common. And you can build them very similar if you want.<br/>\nFor me, in the first combo, I give AA priority for high AB and consistant damage. Wizard serves as a stepping stone for AA with access to scrolls and mage items as a bonus. I only take a couple of levels of Wizard. Rogue is there for the skillpoints and skills and Uncanny dodge - and Epic dodge. I typically take 13 levels and SA is a nice bonus. Trap skills are core as secondary attack.<br/>\nThe assassin build goes much higher on assassin levels for an effective ranged Death attack. AA is primarily there to give EA V to pierce premonition and add some AB and a little extra damage. Bard is there because you need a base class in the build, and Bard is the only class that qualifies for both prestige classes within a reasonable number of levels.<br/>\nI play that build as a stalker, and attack at close range.<br/>\nThe way I build and play, I end up with two very different characters and play styles.<br/>\nLast week I finished playing the assassin build to lvl 40. I tested different play styles. It was very effective when I could pull single creatures from groups with a single long range arrow, before nailing them with a close range Death attack from stealth.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:24 AM - Jan 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And ain't that the absolute truth, Mick! I've been banging on about different playstyles for a while. And I fully accept that it's taken me a while to properly get it - weirdly perhaps, it was playing Mines of Twin Summit that did it for me - possibly because it's a nice hack'n'slash that means I didn't have to over-analyse the plot so could focus more on how not only the build performed, but on how<em> <strong>I</strong></em> performed playing it. (Don't tell Max, but his Playing Guide is still worth the read, btw.)<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

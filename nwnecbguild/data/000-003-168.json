@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "168",
+  "name": "A Bit Of Fun - Fighter 14 / CoT 18 / Rogue 8 (Dual-Wield)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-bit-of-fun-fighter-14-cot-18-rogue-8-dual-wield-t2354516.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:36 PM - Mar 29, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All,<br/>\n<br/>\n Over the course of the Easter weekend my brain seized up with too many options for another build I'm trying to finalize, so I thought, as a bit of fun, \"I'll just take a blast through the OC and Aribeth's Redemption just hitting stuff with something I'll make up on the hoof.\" But it seems my spontaneity button's been broken by the ECB, so I ended up drawing up a full schemata. While it worked well for me (hence my sharing it), I will stress that it <em>is</em> for the OC, so I have no idea how it would work elsewhere - perhaps you could let me know if it could stand up in other environments. Equally, I've only taken it as far as Level 25, and I haven't checked other builds for similarities. So, three reasons for locating it here rather than in the Full Epic section.<br/>\n<br/>\n Okay, that's the disclaimers out of the way. For the dual-wielding I went for Scimitar and Light Hammer, though Morningstar or Warhammer and Handaxe would look cool, and the smart option would probably be Scimitar and Swordsword, but do feel free to pick your own (and if you double-up with small weapons, you'll open plenty more feats up). If you have comments, please dive in!<br/>\n<br/>\n<strong>AVEO CRAY</strong><br/>\n<br/>\n Fighter 14 / CoT 18 / Rogue 8<br/>\n Human - any non-Evil<br/>\n PvM 1-40<br/>\n<br/>\n STATS<br/>\n<br/>\n STR 16 (32)<br/>\n DEX 15<br/>\n CON 14<br/>\n INT 14<br/>\n WIS 8<br/>\n CHA 8<br/>\n<br/>\n HPs: 448<br/>\n Saves (F/W/R): 35/26/34 (+1 Reflex vs Traps) (+4 vs Spells)<br/>\n Skill points: 263. Disable Trap 23 (25), Discipline 43 (54), Open Lock 13 (15), Search 26 (25), Spellcraft (cc) 18 (20), Spot 41 (40), Tumble 40 (42), UMD 41 (40)<br/>\n<br/>\n AC: (naked) 22, (full plate) 30, (full plate and tower shield) 33<br/>\n BAB: 29<br/>\n AB: (max) 44 (melee), 40 (ranged). Dual-wield: 42/37/32/27 (main hand) 42/37 (off hand)<br/>\n Damage: depends on chosen weapons, but with +17 (main hand) and +11 (off hand)<br/>\n Sneak Attack: 4xD6<br/>\n<br/>\n LEVELING GUIDE<br/>\n<br/>\n L1 F1 - WF:Scimitar / WF:LHammer / Power Attack<br/>\n L2 F2 - Cleave<br/>\n L3 R1 - Blind Fighting<br/>\n L4 F3 - [STR+1]<br/>\n L5 F4 - WS:Scimitar<br/>\n L6 F5 - Ambidexterity<br/>\n L7 F6 - WS:LHammer<br/>\n L8 R2 - (Evasion) / [STR+1]<br/>\n L9 CoT1 - 2-Weapon Fighting / (Lay on Hands)<br/>\n L10 CoT2 - Imp2-Weapon Fighting / (Sacred Defence+1)<br/>\n L11 CoT3 - (Smite Evil)<br/>\n L12 CoT4 - Iron Will / ImpCrit:Scimitar / (Sacred Defence+1) / [STR+1]<br/>\n L13 R3 - (Uncanny Dodge1)<br/>\n L14 CoT5 - (Divine Wrath1)<br/>\n L15 CoT6 - Lightning Reflexes / ImpCrit:LHammer / (Sacred Defence+1)<br/>\n L16 CoT7 - [STR+1]<br/>\n L17 CoT8 - Knockdown / (Sacred Defence+1)<br/>\n L18 R4 - Great Fortitude<br/>\n L19 CoT9<br/>\n L20 CoT10 - ImpKnockdown / (Sacred Defence+1 / Divine Wrath2) / [STR+1]<br/>\n L21 F7 - GSTRI<br/>\n L22 F8 - EWF:Scimitar<br/>\n L23 R5<br/>\n L24 F9 - GSTRII / [STR+1]<br/>\n L25 F10 - EWS:Scimitar<br/>\n L26 F11<br/>\n L27 F12 - GSTRIII / EWF:LHammer<br/>\n L28 R6 - (Uncanny Dodge2) / [STR+1]<br/>\n L29 F13<br/>\n L30 F14 - Epic Will / EWS:LHammer<br/>\n L31 Cot11<br/>\n L32 CoT12 - (Sacred Defence+1) / [STR+1]<br/>\n L33 R7 - GSTRIV<br/>\n L34 CoT13<br/>\n L35 CoT14 - Armour Skin / (Sacred Defence+1)<br/>\n L36 CoT15 - GSTRV / (Divine Wrath3) / [STR+1]<br/>\n L37 CoT16 - (Sacred Defence+1)<br/>\n L38 R8<br/>\n L39 CoT17 - GSTRVI<br/>\n L40 CoT18 - Epic Prowess / (Sacred Defence+1) / [STR+1]<br/>\n<br/>\n SKILLS ALLOCATION<br/>\n<br/>\n L1 - Disc 4, Spell 2 (Save 12)<br/>\n L2 - Disc 1 (Save 16)<br/>\n L3 - DTrap 6, OLock 2, Search 6, Spell 1, Tum 5, UMD 6<br/>\n L4 - Disc 2 (Save 3)<br/>\n L5 - Disc 1, Spell 1 (Save 5)<br/>\n L6 - Disc 1 (Save 9)<br/>\n L7 - Disc 1, Spell 1 (Save 11)<br/>\n L8 - DTrap 3, OLock 2, Search 3, Spot 4, Tum 5, UMD 5<br/>\n L9 - Disc 2, Spell 1, Spot 1<br/>\n L10 - Disc 1, Spot 4<br/>\n L11 - Disc 1, Spell 1, Spot 2<br/>\n L12 - Disc 1, Spot 2 (Save 2)<br/>\n L13 - DTrap 1, Spell 1, Tum 5, UMD 5<br/>\n L14 - Disc 2, Spot 3<br/>\n L15 - Disc 1, Spell 1, Spot 2<br/>\n L16 - Disc 1, Spot 1 (Save 3)<br/>\n L17 - Disc 1, Spell 1, Spot 1 (Save 4)<br/>\n L18 - DTrap 2, Search 3, Tum 5, UMD 5<br/>\n L19 - Disc 2, Spell 1, Spot 1<br/>\n L20 - Disc 1, Spot 2 (Save 2)<br/>\n L21 - Disc 1, Spell 1 (Save 4)<br/>\n L22 - Disc 1 (Save 8)<br/>\n L23 - DTrap 3, OLock 1, Search 3, Spell 1, Tum 5, UMD 5<br/>\n L24 - Disc 2 (Save 3)<br/>\n L25 - Disc 1, Spell 1 (Save 5)<br/>\n L26 - Disc 1 (Save 9)<br/>\n L27 - Disc 1, Spell 1 (Save 11)<br/>\n L28 - DTrap 4, OLock 4, Search 4, Tum 5, UMD 5<br/>\n L29 - Disc 2, Spell 1 (Save 1)<br/>\n L30 - Disc 1 (Save 5)<br/>\n L31 - Disc 1, Spell 1, Spot 7<br/>\n L32 - Disc 1, Spot 3 (Save 1)<br/>\n L33 - Spell 1, Tum 5, UMD 5<br/>\n L34 - Disc 2, Spot 1 (Save 2)<br/>\n L35 - Disc 1 (Save 6)<br/>\n L36 - Disc 1 (Save 10)<br/>\n L37 - Disc 1 (Save 14)<br/>\n L38 - DTrap 4, OLock 4, Search 7, Tum 5, UMD 5<br/>\n L39 - Disc 2, Spot 3<br/>\n L40 - Disc 1, Spot 4<br/>\n<br/>\n Kept it all as simple as I could, so I hope it might be of interest - or at least fun!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:33 PM - Mar 29, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looks good. <br/>\n Damage will be +17 on main hand and +11 off hand. Add +5 if you use PA.<br/>\n<br/>\n This one reminds me of a dual wielder I played once: His name was Igor. He was dressed in all red and wielded a golden hammer and sickle. ;p<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:59 PM - Mar 29, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Like it, Mick - Champions of Trotsky unite! (Replace sickle with ice-pick and you've really got something <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:21 AM - Mar 30, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know what I did about the damage, hurrah! I counted WS and EWS as +1 and +2, rather than +2 and +4, and I'm guessing they don't apply to the off hand - which, if I'm right, means I might as well bin those two feats and take something else. Damn it, now you've made me care!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:19 AM - Mar 30, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have never heard of the idea that WS might not apply to the off-hand. Look it up in the wiki and if it is not mentioned in the WS article, it is not true.<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Main_Page\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Main_Page</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:06 AM - Mar 30, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Empyre. I looked it up and you're right, it isn't WS related. Apparently when dual-wielding the main weapon gets full STR as a damage bonus, while the off-hand gets half that (rounded down). I didn't know that - probably why we find more DEXers dual-wielding.<br/>\n<br/>\n I've edited the build to reflect the change<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:20 PM - Mar 30, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Stagmeister wrote:</strong><hr/>\u00a0(Replace sickle with ice-pick and you've really got something <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />, however ironic!)<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">3 guys... 1 lunatic... omg</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

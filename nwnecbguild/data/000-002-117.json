@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "117",
+  "name": "EMA for pure casters (yardsticks) and rounds counting",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ema-for-pure-casters-yardsticks-and-rounds-countin-t2355546.html",
+  "author": "233",
+  "avatar": "10714033_1519247364.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "10:15 PM - Aug 19, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all! Just two thoughts from a pure sorcerer (yardstick) build player:<br/>\n<br/>\n1<br/>\nTaking epic mage armor seemed almost automatic to increase the build's AC: just take the epic spell for an AC increase, and many inventory slots are freed to other precious items (for main stat capping, immunities, and so on); however, considering that (as in Wog server expertise does not work when casting) there are no other methods to increase AC other than cross-class tumble (e.g. divine shield and armor+auto still, taken from paladin/blackguards/sorcerers) and that, as even with it AC will be low for high level foes, I am wondering if to not to take it and replace it with a epic focus or CHA increase.<br/>\nWhat do you think?<br/>\n<br/>\n2.<br/>\nI have used, sometimes, the Bigby strategy to defeat enemies (6 for casters, 7 for pure meelers) + Evards instead of IGMS (to save it); however, watching enemies dying due to tentacles without casting any other spell (although sadist) didn't allow me to understand whow many rounds have required to defeat the enemy.<br/>\nI was sorcerer 32 when one of these fights occurred, so (considering that there are not changes in WoG server for this spell, and extend spell has not been used) Evards' spell duration is 16 rounds; for sure the gnome casted 5 spells (no. 1 Bigby 7 + no. 4 Evards), so maybe it is not easy to understand if some of the four Evards' were faded before the enemy became dead.<br/>\nIs there something in the combat log that could help me understand how many rounds have required to kill the foe?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:31 AM - Aug 20, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">1. EMA<br/>\nI can understand how you are thinking, similar questions did go through my mind at some stage. Enemies who only use melee attacks can be dodged with good strategy such as disables, traps, positioning, haste in a number of situations.\u00a0<br/>\n<br/>\nWith EMA, I found the extra AC is useful against ranged attacks,and ranged touch attack spells and abilities which are a little harder to manage. A greater archers belt and premonition can help against arrows, however there isn't any good answers to Bigby's 7 and 9 grasping effect, which will likely always hit with low AC. The worries is then getting mobbed by the meleers that might be around -&gt; invisibility / greater sanctuary are the best spells to cast if that happens, AoE effects will still target you and greater sanctuary has some bugs on occasions.\u00a0\u00a0<br/>\n<br/>\nI noticed the difference on my sorceress (HiPSing speed caster) when I leveled her to mid epics with EMA and without EMA, and she is avoiding melee. I think you can live without it, if you want to put another feature in the build. I chose to take it where possible, dodge +5 AC for 24 hrs is pretty good compared with tumble 20/40 for +4 to +8 AC, armor skin for +2 AC, or dodge for +1 AC against one opponent. The exception being low AC damage shield builds like Mestil's Pale Emissary where one wishes for low AC. Or some very high magic environment where the dodge cap is easily reached and there are more than +5 AC items.<br/>\n<br/>\n2. Round counting<br/>\nThis is what I use:<br/>\n- if not hasted, 1 spell = 1 round, bioware potion usage = ?1 flurry or ?2-3 seconds, wand/scroll/other item usage = 1 round<br/>\n- if hasted, 2 spells = 1 round,\u00a0bioware potion usage = ?1 flurry or ?2-3 seconds,\u00a0wand/scroll/other item usage = 1 round<br/>\n- crossbow attacks 1 attack = 1 round if not hasted and no rapid reload feat, 2 attacks = 1 round if hasted and no rapid reload feat<br/>\n- usual attacks -&gt; usually I count the flurries<br/>\n<br/>\nHope that helps<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

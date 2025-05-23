@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "236",
+  "name": "Charnel Lord Query",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/charnel-lord-query-t2354317.html",
+  "author": "Kalistez",
+  "avatar": "no_avatar.png",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:41 AM - Sep 15, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi Guys,<br/>\n<br/>\n I was planning on giving the Charnel Lord a run and on putting it into the CBC (As I do with all builds before I actually play them) it appears that I can't actually take Epic Warding at Level 31.<br/>\n<br/>\n There is a not on the build that says requires 34 Spellcraft, and the max I can get at that level is 33(35). \u00a0<br/>\n<br/>\n Do the Epic Spells require unadjusted skill prereqs or is this just a CBC issue ? \u00a0And if the former would you suggest switching Epic Mage Armour with Epic Warding as the easiest solution ?<br/>\n<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build303254.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 03254.html</a><br/>\n<br/>\n Thanks\u00a0<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:50 AM - Sep 15, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The max skills at lvl 31 should be 34 (unless cross classed then 17) .<br/>\n that's one of the dwarflords builds unless something is noted as being incorrect I'd put money on it that it isn't. Are you actually at level 30 ? or did you run out of skill points?<br/>\n Here's the <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Epic_spell:_epic_warding\" rel=\"noreferrer\" target=\"_blank\"> epic warding </a> wiki page.<br/>\n<blockquote><div><strong>Kalistez wrote:</strong><hr/>And if the former would you suggest switching Epic Mage Armour with Epic Warding as the easiest solution ? \u00a0</div></blockquote><div align=\"left\"> </div>\n<br/>\n You could try switching them should be fine .  Might actually be a cbc issue Idk.<br/>\n Maybe empyre could run it thru ..<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:38 PM - Sep 15, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Epic Warding needs 34 spellcraft which is exactly what you should have at 31th lvl, and at that lvl also comes the bonus feat from the 16th lvl of Pale Master. All should be correct unless you are out of skill points.<br/>\n<br/>\n It's not a big deal anyway since two levels after that comes the next Epic Feat and you simply can switch places, not to mention that in low-to--medium magic worlds EMA is actually better than EW.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:26 AM - Sep 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you like that build you also might like <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build205716.html\" rel=\"noreferrer\" target=\"_blank\"> The Revenant </a> also by the dwarflord. It's not a dev crit build but with some tweaking (blasphemy I know) it could be.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:36 PM - Sep 16, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is not so well-known but my actually favorite from the old pm builds would be Cin's Ossified Tank, now that's a really tough dwarf,<br/>\n<br/>\n<strong>Ossified Tank</strong> =&gt; <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build251695.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 51695.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:25 AM - Oct 22, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This reply probably belongs more in the build request section but I didn't really feel it justified makng a new topic.<br/>\n<br/>\n After having a ball with this build I finally get to take my first PM level and find out there is an undocumented server change that requires 3rd level spells, not 3 caster levels fro PM.<br/>\n<br/>\n I had a good play around and found that there is no way to preserve the 24 PM levels and the 4 APR.<br/>\n<br/>\n The best I could come up with was Fighter 10 Bard 8 PM 22.<br/>\n<br/>\n I lose 2 AC, 8 hp, 2 points off Fort save and the Lich Lord Summon<br/>\n<br/>\n I gain 8 skill points, stronger Bard song (including the 8 HP I lost), and more spells (with +Cha Items)<br/>\n<br/>\n Can anyone suggest anything I may have missed ?<br/>\n<br/>\n Thanks\n<table class=\"post_content_table\"><tbody><tr><td>Fighter(10), Bard(8), Pale Master(22), Human</td></tr><tr><td>\u00a0</td></tr><tr><td>STR: 18 (30)</td></tr><tr><td>DEX: 10</td></tr><tr><td>CON: 14</td></tr><tr><td>WIS: 8</td></tr><tr><td>INT: 14</td></tr><tr><td>CHA: 8</td></tr><tr><td>\u00a0</td></tr><tr><td>Human: (Quick to Master)</td></tr><tr><td>01: Fighter(1): Power Attack, Cleave, Weapon Proficiency Exotic</td></tr><tr><td>02: Bard(1)</td></tr><tr><td>03: Fighter(2): Knockdown, Weapon Focus: Scythe</td></tr><tr><td>04: Fighter(3): STR+1, (STR=19)</td></tr><tr><td>05: Fighter(4): Weapon Specialization: Scythe</td></tr><tr><td>06: Fighter(5): Blind Fight</td></tr><tr><td>07: Bard(2)</td></tr><tr><td>08: Fighter(6): STR+1, Expertise, (STR=20)</td></tr><tr><td>09: Bard(3): Improved Critical: Scythe</td></tr><tr><td>10: Fighter(7)</td></tr><tr><td>11: Bard(4)</td></tr><tr><td>12: Bard(5): STR+1, Improved Knockdown, (STR=21)</td></tr><tr><td>13: Bard(6)</td></tr><tr><td>14: Bard(7)</td></tr><tr><td>15: Fighter(8): Toughness, Improved Expertise</td></tr><tr><td>16: Fighter(9): STR+1, (STR=22)</td></tr><tr><td>17: Pale Master(1)</td></tr><tr><td>18: Pale Master(2): Great Cleave</td></tr><tr><td>19: Pale Master(3): {Darkvision}</td></tr><tr><td>20: Pale Master(4): STR+1, (STR=23)</td></tr><tr><td>21: Pale Master(5): Overwhelming Critical: Scythe</td></tr><tr><td>22: Pale Master(6)</td></tr><tr><td>23: Pale Master(7)</td></tr><tr><td>24: Pale Master(8): STR+1, Great Strength I, (STR=25)</td></tr><tr><td>25: Pale Master(9)</td></tr><tr><td>26: Pale Master(10)</td></tr><tr><td>27: Pale Master(11): Devastating Critical: Scythe</td></tr><tr><td>28: Pale Master(12): STR+1, (STR=26)</td></tr><tr><td>29: Pale Master(13): Epic Energy Resistance: Acid I</td></tr><tr><td>30: Fighter(10): Epic Weapon Focus: Scythe, Epic Weapon Specialization: Scythe</td></tr><tr><td>31: Pale Master(14)</td></tr><tr><td>32: Pale Master(15): STR+1, (STR=27)</td></tr><tr><td>33: Pale Master(16): Epic Spell: Epic Warding, Epic Spell: Epic Mage Armor</td></tr><tr><td>34: Pale Master(17)</td></tr><tr><td>35: Pale Master(18)</td></tr><tr><td>36: Pale Master(19): STR+1, Great Strength II, Epic Spell: Mummy Dust, (STR=29)</td></tr><tr><td>37: Pale Master(20)</td></tr><tr><td>38: Pale Master(21)</td></tr><tr><td>39: Pale Master(22): Epic Prowess, Epic Spell: Greater Ruin</td></tr><tr><td>40: Bard(8): STR+1, (STR=30)</td></tr><tr><td>\u00a0</td></tr><tr><td>Hitpoints: 428</td></tr><tr><td>Skillpoints: 231</td></tr><tr><td>Saving Throws (Fortitude/Will/Reflex): 24/21/19</td></tr><tr><td>Saving Throw bonuses: Spells: +9</td></tr><tr><td>BAB: 26</td></tr><tr><td>AB (max, naked): 40 (melee), 27 (ranged)</td></tr><tr><td>AC (naked/mundane armor/shield only): 30/41</td></tr><tr><td>Spell Casting:\u00a0</td></tr><tr><td>Alignment Changes: 0</td></tr><tr><td>\u00a0</td></tr><tr><td>Discipline 43(53), Perform 16(15), Spellcraft 43(45), Taunt 43(42), Tumble 40(40), UMD 31(30), remaining skillpoints 15</td></tr><tr><td>\u00a0</td></tr><tr><td>01: Discipline(3), Save(17),\u00a0</td></tr><tr><td>02: Discipline(1), Perform(4), Spellcraft(5), Taunt(4), Tumble(5), UMD(5),\u00a0</td></tr><tr><td>03: Discipline(1), Save(4),\u00a0</td></tr><tr><td>04: Discipline(1), Save(8),\u00a0</td></tr><tr><td>05: Discipline(1), Save(12),\u00a0</td></tr><tr><td>06: Discipline(1), Save(16),\u00a0</td></tr><tr><td>07: Perform(3), Spellcraft(5), Taunt(4), Tumble(5), UMD(5), Save(1),\u00a0</td></tr><tr><td>08: Discipline(1), Save(5),\u00a0</td></tr><tr><td>09: Discipline(1), UMD(1), Save(10),\u00a0</td></tr><tr><td>10: Discipline(1), Save(14),\u00a0</td></tr><tr><td>11: Discipline(1), Save(20),\u00a0</td></tr><tr><td>12: Discipline(1), Spellcraft(5), Tumble(5), Save(16),\u00a0</td></tr><tr><td>13: Discipline(1), Perform(6), UMD(5), Save(11),\u00a0</td></tr><tr><td>14: Discipline(1), Taunt(7), Save(10),\u00a0</td></tr><tr><td>15: Save(15),\u00a0</td></tr><tr><td>16: Save(20),\u00a0</td></tr><tr><td>17: Spellcraft(5), Save(20),\u00a0</td></tr><tr><td>18: Spellcraft(1), Save(24),\u00a0</td></tr><tr><td>19: Spellcraft(1), Save(28),\u00a0</td></tr><tr><td>20: Spellcraft(1), Save(32),\u00a0</td></tr><tr><td>21: Spellcraft(1), Save(36),\u00a0</td></tr><tr><td>22: Spellcraft(1), Save(40),\u00a0</td></tr><tr><td>23: Spellcraft(1), Save(44),\u00a0</td></tr><tr><td>24: Spellcraft(1), Save(48),\u00a0</td></tr><tr><td>25: Spellcraft(1), Save(52),\u00a0</td></tr><tr><td>26: Spellcraft(1), Save(56),\u00a0</td></tr><tr><td>27: Spellcraft(1), Save(60),\u00a0</td></tr><tr><td>28: Spellcraft(1), Save(64),\u00a0</td></tr><tr><td>29: Spellcraft(1), Save(68),\u00a0</td></tr><tr><td>30: Discipline(18), Save(55),\u00a0</td></tr><tr><td>31: Spellcraft(2), Save(58),\u00a0</td></tr><tr><td>32: Spellcraft(1), Save(62),\u00a0</td></tr><tr><td>33: Spellcraft(1), Save(66),\u00a0</td></tr><tr><td>34: Spellcraft(1), Save(70),\u00a0</td></tr><tr><td>35: Spellcraft(1), Save(74),\u00a0</td></tr><tr><td>36: Spellcraft(1), Save(78),\u00a0</td></tr><tr><td>37: Spellcraft(1), Save(82),\u00a0</td></tr><tr><td>38: Spellcraft(1), Save(86),\u00a0</td></tr><tr><td>39: Spellcraft(1), Save(90),\u00a0</td></tr><tr><td>40: Discipline(10), Perform(3), Spellcraft(1), Taunt(28), Tumble(25), UMD(15), Save(15),\u00a0</td></tr></tbody></table><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MrZork",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:30 AM - Oct 24, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's too bad. Which server are you playing him on? I have a charnel lord build running on WoG. He is a tough cookie. ;-)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

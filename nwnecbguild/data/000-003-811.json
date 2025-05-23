@@ -1,0 +1,116 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "811",
+  "name": "Requesting a paladin/WM/??? Build for all 3 classic campaigns",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/requesting-a-paladin-wm-build-for-all-3-classic-ca-t2355115.html",
+  "author": "Vardalia",
+  "avatar": "10759117_1563962401.jpg",
+  "replies": 16,
+  "posts": [
+    {
+      "author": "Vardalia",
+      "avatar": "10759117_1563962401.jpg",
+      "timestamp": "12:19 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello everyone! I have recently discovered your nice community and id like to seek your wisdom since I am a noob. I want to replay all 3 classic campaigns plague--&gt; SoU--&gt; HotU in that order. I m interested in a holy warrior build with paladin/ weapon master / ??? ( Maybe CoT?), Human race and ideally having any form of enserric the sword as the final weapon! Got any suggestions for me? :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:25 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First of all, Welcome!<br/>\n<br/>\nSecond of all, SoU is supposed to start at level 1.\u00a0 If you play it with the hero from the OC (plague campaign), you will be way too powerful and SoU will be too easy and boring.\u00a0 Instead, follow the OC with <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mines-of-twin-summits-1-2-and-3-t2354731.html\" rel=\"noreferrer\" target=\"_blank\">Mines of Twin Summit</a> to get all the way to level 40, and follow SoU and HotU with <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/sands-of-fate-t2354705.html\" rel=\"noreferrer\" target=\"_blank\">Sands of Fate</a> to get to level 40.<br/>\n<br/>\nI need to go to bed, so I will make a build for you sometime later.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vardalia",
+      "avatar": "10759117_1563962401.jpg",
+      "timestamp": "2:40 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for your quick reply! Looking forward to hearing your suggestions!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:49 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The problem is Weapon Master requires 13 INT and 13 DEX to get the required prerequisite feats to qualify for the class, and Paladins need good WIS and CHA, and all warriors types need good STR and CON, and you can't have good numbers in all of those at the same time, which is why Paladin and Weapon Master are not a good mix.\u00a0 Still, I tried, and these two builds are what I came up with:<br/>\n<br/>\nThis one is a pretty good WM build with 2 levels of Paladin to access the Holy Avenger (no big deal, since it was nerfed in NWN 1.69) and Immunity to fear.\n<details><summary>Spoiler</summary>\nAvenger Master (Fighter 10 / Paladin 2 / Weapon Master 28)\nPlayable 1 - 40\nAbilities:\nDEX: 14\nWIS: 10\nCHA: 8\nLeveling Guide:\n01: Fighter(1): Dodge, Mobility, Weapon Focus: Longsword\n03: Fighter(3): Blind Fight\n05: Paladin(1)\n07: Fighter(5)\n09: Weapon Master(1): Knockdown, Weapon of Choice: Longsword\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Power Attack\n17: Fighter(8): Cleave\n19: Weapon Master(9)\n21: Fighter(9): Epic Weapon Focus: Longsword\n23: Weapon Master(11)\n25: Weapon Master(13): Overwhelming Critical: Longsword\n27: Weapon Master(15): Great Strength II, (STR=24)\n29: Weapon Master(17)\n31: Weapon Master(19): Armor Skin\n33: Weapon Master(21): Great Strength IV, (STR=28)\n35: Weapon Master(23)\n37: Weapon Master(25): Epic Toughness I\n39: Weapon Master(27): Great Strength VI, (STR=31)\n\nHitpoints: 520\nSaving Throws (Fortitude/Will/Reflex): 24/15/21\nBAB: 30\nAC (naked/mundane armor/shield only): 18/28\nAlignment Changes: 0\nSkills:\n\n02: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n04: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n06: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n08: Concentration(1), Discipline(1), Save(5)\n10: Discipline(1), Spellcraft(1), Spot(1), Save(1)\n12: Discipline(1), Spellcraft(1), Spot(1), Save(1)\n14: Discipline(1), Tumble(2), Save(1)\n16: Concentration(8), Discipline(1), Save(1)\n18: Discipline(1), Spot(4)\n20: Discipline(1), Spellcraft(2), Spot(1)\n22: Concentration(1), Discipline(1), Spellcraft(1), Save(1)\n24: Discipline(1), Spot(3), Save(1)\n26: Discipline(1), Spot(1), Tumble(1), Save(1)\n28: Discipline(1), Spot(4)\n30: Discipline(1), Spellcraft(2), Spot(1)\n32: Discipline(1), Spot(1), Tumble(2)\n34: Discipline(1), Lore(1), Spot(1), Tumble(1)\n36: Discipline(1), Lore(3), Spot(1)\n38: Discipline(1), Lore(3), Spot(1)\n40: Discipline(1), Lore(3), Spot(1)</details>\n\nThis one is heavy on the Paladin and light on the WM, but still not a very good Paladin because the abilities are spread too thin, and feats, too.\n<details><summary>Spoiler</summary>\nMaster Avenger (Paladin 23 / Champion of Torm 10 / Weapon Master 7)\nPlayable 1 - 40\nAbilities:\nDEX: 13\nWIS: 14\nCHA: 14\nLeveling Guide:\n01: Paladin(1): Dodge, Weapon Focus: Longsword\n03: Paladin(3): Blind Fight\n05: Paladin(5)\n07: Paladin(7)\n09: Champion of Torm(2): Knockdown, Improved Knockdown\n11: Champion of Torm(4): Spring Attack\n13: Champion of Torm(6): Whirlwind Attack\n15: Weapon Master(2): Improved Critical: Longsword\n17: Weapon Master(4)\n19: Weapon Master(6)\n21: Champion of Torm(7): Epic Weapon Focus: Longsword\n23: Champion of Torm(9)\n25: Paladin(8)\n27: Paladin(10): Great Strength II, (STR=22)\n29: Paladin(12)\n31: Paladin(14)\n33: Paladin(16): Great Strength IV, (STR=26)\n35: Paladin(18)\n37: Paladin(20)\n39: Paladin(22): Great Strength VI, (STR=29)\n\nHitpoints: 460\nSaving Throws (Fortitude/Will/Reflex): 29/25/30\nBAB: 30\nAC (naked/mundane armor/shield only): 17/28\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Save(3)\n04: Discipline(1), Save(5)\n06: Discipline(1), Save(7)\n08: Discipline(1), Spot(11)\n10: Discipline(1), Intimidate(1), Spot(1)\n12: Discipline(1), Intimidate(1), Spot(1)\n14: Discipline(1), Spot(1), Tumble(1)\n16: Discipline(1), Spot(1), Tumble(1)\n18: Discipline(1), Spellcraft(1), Spot(1)\n20: Discipline(1), Spellcraft(1), Spot(1)\n22: Discipline(1), Spellcraft(1), Spot(1)\n24: Discipline(1), Spot(1), Tumble(1)\n26: Discipline(1), Tumble(2)\n28: Discipline(1), Spellcraft(2)\n30: Discipline(1), Spellcraft(2)\n32: Discipline(1), Spellcraft(1), Save(1)\n34: Discipline(1), Tumble(1), Save(1)\n36: Discipline(1), Tumble(1), Save(1)\n38: Discipline(1), Lore(3)\n40: Discipline(1), Lore(3)</details>\n\nHere is an alternative suggestion instead of Paladin / WM, a Paladin / RDD:<br/>\nI made this build four years ago.\u00a0 In hindsight, I would have just 1 Sorcerer level and 3 more Paladin levels, but I don't have time to build that right now.\u00a0 I'll build it later.\n<details><summary>Spoiler</summary>\nPaladin of Bahamut (Paladin 26 / Sorcerer 4 / Red Dragon Disciple 10)\nPlayable 1 - 40\nAbilities:\nDEX: 8\nWIS: 14\nCHA: 14 (20)\nLeveling Guide:\n01: Paladin(1): Weapon Focus: Longsword, Luck of Heroes\n03: Paladin(3): Power Attack\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Blind Fight\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Divine Shield\n17: Paladin(17)\n19: Paladin(19)\n21: Sorcerer(1): Epic Weapon Focus: Longsword\n23: Sorcerer(3)\n25: Red Dragon Disciple(2): (STR=25)\n27: Red Dragon Disciple(4): Great Strength II, (STR=28)\n29: Red Dragon Disciple(6)\n31: Red Dragon Disciple(8)\n33: Red Dragon Disciple(10): Great Charisma I, {Darkvision}, (STR=34), (CHA=18)\n35: Paladin(22)\n37: Paladin(24)\n39: Paladin(26): Epic Reflexes, Epic Prowess\n\nHitpoints: 480\nSaving Throws (Fortitude/Will/Reflex): 35/24/25\nBAB: 30\nAC (naked/mundane armor/shield only): 19/30\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Lore(1), Save(1)\n04: Discipline(1), Lore(1), Save(1)\n06: Discipline(1), Save(2)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(6)\n12: Discipline(1), Save(8)\n14: Discipline(1), Save(10)\n16: Discipline(1), Save(14)\n18: Discipline(1), Save(18)\n20: Discipline(1), Save(22)\n22: Spellcraft(1), Tumble(1), Save(1)\n24: Discipline(4), Spellcraft(1), Save(1)\n26: Discipline(1), Spellcraft(1), Save(1)\n28: Discipline(1), Spellcraft(1), Save(1)\n30: Discipline(1), Spellcraft(1), Save(1)\n32: Discipline(1), Tumble(1)\n34: Discipline(1), Tumble(2)\n36: Discipline(1), Lore(1), Tumble(1)\n38: Discipline(1), Lore(3)\n40: Lore(1), Spellcraft(5)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vardalia",
+      "avatar": "10759117_1563962401.jpg",
+      "timestamp": "10:12 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for the builds!! Although I am not a fan of spellcasters the RDD seems like an interesting idea. Most guides suggest that WM after lvl 7 is a waste of good skills so maybe sticking to the second one might be just for me. <br/>\n<br/>\n+Rep :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:56 PM - Jul 24, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! Although I am not a fan of spellcasters the RDD seems like an interesting idea. Most guides suggest that WM after lvl 7 is a waste of good skills so maybe sticking to the second one might be just for me. <br/>\n<br/>\n+Rep :)\n</div></blockquote>\nWelcome to the guild Vardalia!<br/>\n<br/>\nIt is all right if you are not a fan of spell casters.\u00a0 You will have great fun from this game anyway. You will soon enough learn that the main use of the RDD class is for melee builds, not casters.<br/>\nAs for WM, there are two main uses. One is to leave it at 7 levels for ki critical and improved multiplier. The other one is to take WM as major class for a high AB bonus from epic superior weapon focus.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:43 AM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! <strong>Although I am not a fan of spellcasters</strong>...</div></blockquote>\nI am surprised Stag hasn't come with flowers yet...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:49 AM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@Empyre, on your 2nd build (Pally 23/ Wm 7/ CoT 10), shuffle the feats around &amp; take \"extend spell\", it's a must with so many levels of Pally.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:47 AM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! <strong>Although I am not a fan of spellcasters</strong>...</div></blockquote>\nI am surprised Stag hasn't come with flowers yet...\n</div></blockquote>\nAnother one that slipped under my radar (gods, I'm getting old). Still, welcome Vardalia - let's stick those spell-chuckers back in their box! Hit them hard and hit them often! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:25 AM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n@Empyre, on your 2nd build (Pally 23/ Wm 7/ CoT 10), shuffle the feats around &amp; take \"extend spell\", it's a must with so many levels of Pally.\n</div></blockquote>\n\nIn that case, take Extend Spell at 6, Mobility and Knockdown at 9, and Improved Knockdown at 18, basically exchanging Toughness for Extend Spell.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:34 AM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You are a gentleman, thanks Empyre.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:34 PM - Jul 25, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is the new-and-improved Paladin of Bahamut, with less Sorcerer, More Paladin, and with Extend Spell:\n<details><summary>Spoiler</summary>\nPaladin of Bahamut 2 (Paladin 29 / Sorcerer 1 / Red Dragon Disciple 10)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 8\nWIS: 14\nCHA: 14 (20)\nLeveling Guide:\n01: Paladin(1): Weapon Focus: Longsword, Power Attack\n03: Paladin(3): Cleave\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Extend Spell\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Divine Shield\n17: Paladin(17)\n19: Paladin(19)\n21: Sorcerer(1): Epic Weapon Focus: Longsword\n23: Red Dragon Disciple(2): (STR=23)\n25: Red Dragon Disciple(4): (STR=27)\n27: Red Dragon Disciple(6): Great Strength II, (STR=28)\n29: Red Dragon Disciple(8)\n31: Red Dragon Disciple(10): {Darkvision}, (STR=34), (CHA=16)\n33: Paladin(22): Great Charisma I, (CHA=18)\n35: Paladin(24)\n37: Paladin(26): Epic Prowess\n39: Paladin(28): Epic Reflexes\n\nHitpoints: 518\nSaving Throws (Fortitude/Will/Reflex): 34/23/24\nBAB: 30\nAC (naked/mundane armor/shield only): 19/30\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Lore(1), Save(1)\n04: Discipline(1), Lore(1), Save(1)\n06: Discipline(1), Save(2)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(6)\n12: Discipline(1), Save(8)\n14: Discipline(1), Save(10)\n16: Discipline(1), Save(14)\n18: Discipline(1), Save(18)\n20: Discipline(1), Save(22)\n22: Discipline(1), Spellcraft(1), Tumble(1)\n24: Discipline(1), Spellcraft(1), Save(1)\n26: Discipline(1), Spellcraft(1), Save(1)\n28: Discipline(1), Spellcraft(1), Save(1)\n30: Discipline(1), Spellcraft(1), Save(1)\n32: Discipline(1), Tumble(2)\n34: Discipline(1), Tumble(2)\n36: Discipline(1), Lore(3)\n38: Discipline(1), Lore(3)\n40: Discipline(1), Lore(3)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:14 PM - Sep 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about my knight of Yore? Can't link it right now from my phone, but Pal16/F2/WM22. It hits TRUE, just know CHA must be dumped for hitting power. It was awesome before holy sword nerf.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:21 PM - Sep 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Never understood that Holy Sword nerf myself, they basically made it useless in 1.69 patch.<br/>\n<br/>\nCarsomyr &amp;\u00a0 Pale Justice would be ashamed of their little brothers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "12:52 PM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Never understood that Holy Sword nerf myself, they basically made it useless in 1.69 patch.\n</div></blockquote>\nWhat Holy Sword nerf??? What was it before and what is it now?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:43 PM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In Neverwinter Nights, The Holy Avenger dispelled magic with every strike (50% chance) at an opposite caster level <strong>equal to the experience level of the Character</strong>.<br/>\nAfter 1.69 Patch, it has a <strong>default caster level of 10</strong>. <br/>\nIt seems many people have problems to understand what a properly balanced \"fix\" is, going from full force to basically useless in one go. <br/>\n<br/>\nCarsomyr &amp; Pale Justice (BG II &amp; IWD, respectively) have the even more powerful AD&amp;D Holy Avenger properties, which, not only dispel magic at the experience level of the Paladin (and that should be the correct application of the rule, Paladin level &amp; not Character level) but also gave them a default 50% magic resistance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "5:52 PM - Sep 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>In Neverwinter Nights, The Holy Avenger dispelled magic with every strike (50% chance) at an opposite caster level <strong>equal to the experience level of the Character</strong>.<br/>\nAfter 1.69 Patch, it has a <strong>default caster level of 10</strong>. <br/>\nIt seems many people have problems to understand what a properly balanced \"fix\" is, going from full force to basically useless in one go. <br/>\n<br/>\nCarsomyr &amp; Pale Justice (BG II &amp; IWD, respectively) have the even more powerful AD&amp;D Holy Avenger properties, which, not only dispel magic at the experience level of the Paladin (and that should be the correct application of the rule, Paladin level &amp; not Character level) but also gave them a default 50% magic resistance!</div></blockquote>\nI'm so happy that driller (the owner) has fixed this on BSK, so there's a OnHit script that runs for Holy Avengers that dispells properly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

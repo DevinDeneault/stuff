@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "757",
+  "name": "Shaman Ranger",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/shaman-ranger-t2355246.html",
+  "author": "Orion",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:49 PM - Nov 28, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">In the level 40 \"Green Knight of Ehlonna\" thread Regsa brougth up the possibility to build a Druid/ Bard/ AA archer. I started to look into it.<br/>\nI have chosen to focus on the Druid levels, but still make it an archer with just enough AA levels to pierce Stoneskins/Premonition and give it a good warrior AB. Choosing to focus on wisdom and Zen archery also gives a fair spell DC. Bard is there as the glue that makes the pieces stick together, but also offers some class skills. The thing is feat starved, and more so when I choose Half elf rather than elf to avoid an xp penalty. Blind Fight and Rapid shot are on the whish list and compete with Called shot and Improved critical. The high wisdom let me pick Dragon shape on an odd feat slot\u00a0 at level 39.<br/>\nI want to ask you experienced Druid players if this build makes sense at all.\u00a0 And if it does, if there are ways to improve it and tailor it better to how the Druid class works.<br/>\n<details><summary>Spoiler</summary>Druid(28), Bard(3), Arcane Archer(9), Half-Elf\n\nDEX: 14\nWIS: 16 (32)\nCHA: 8\n01: Druid(1): Point Blank Shot\n03: Bard(1): Weapon Proficiency Martial\n05: Druid(4)\n07: Druid(6)\n09: Druid(8): Weapon Focus: Longbow\n11: Arcane Archer(1)\n13: Arcane Archer(2)\n15: Arcane Archer(4): Called Shot\n17: Arcane Archer(6)\n19: Arcane Archer(8)\n21: Druid(11): Epic Weapon Focus: Longbow\n23: Druid(12)\n25: Druid(14)\n27: Druid(16): Great Wisdom I, (WIS=23)\n29: Druid(18)\n31: Druid(20)\n33: Druid(22): Great Wisdom III, (WIS=27)\n35: Druid(24): Great Wisdom IV, (WIS=28)\n37: Bard(3)\n39: Druid(27): Dragon Shape\n\nSaving Throws (Fortitude/Will/Reflex): 23/33/23\nBAB: 26\nAC (naked/mundane armor/shield only): 20/28\nAlignment Changes: 0\nSkillpoints: 258\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:49 AM - Nov 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This looks nice Mick<br/>\n<br/>\nI would probably put the Epic Weapon Focus and Epic Prowess later in the build and put some great wisdoms earlier to see if you can get Dragon Shape earlier, getting dragon shape is a huge powerspike in the build, and I think you will have enough AB<br/>\n<br/>\nI'd swap empower spell for Rapid Shot\u00a0<br/>\n<br/>\nI'd consider pumping discipline if possible in any druid build if you have access to it as a class skill. Knockdown immunity tends to come from helmets (ie Thieves Hood) and having high discipline means you can safely forget about it in dragon form (heh yes I did get knocked down in dragon form when I didn't have KI or discipline!). Most knockdown immunity items are from boots, which don't transfer in most modules when one polymorphs.<br/>\n<br/>\nHope that helps Mick!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "039",
+  "name": "The new patch",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-new-patch-t2356097.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:15 PM - May 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So the new patch has now gone live.<br/>\n<br/>\nAmong other things (groovy man), it allows up to 8 Classes to build with.\u00a0 My question is, how does the ECB wish to respond to this?<br/>\n<br/>\nGranted, it is a 2da change (done in rules.2da) - meaning that it will have to be consciously changed from the standard 3.\u00a0 In SP, not a problem, just open it, change it, drop it in the override, bam!<br/>\n<br/>\nOnline is not so simple, as only those with access to the Mod itself can do this, meaning they decide what is what.<br/>\n<br/>\nPerhaps we need a new building section for this?\u00a0 I mean, it is going to blow Building to smithereens!\u00a0 So.Many.Possibilities!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dingpot",
+      "avatar": "10759398_1682113117.jpg",
+      "timestamp": "10:56 PM - May 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Would you be kind enough to provide expanded instructions for tech dummies on how to open it, change it and drop it in the override. I may not do so just yet, having enough trouble with 3 classes but might be useful to know in future.<br/>\n<br/>\nThanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:32 AM - May 25, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would guess that the benefit with more classes in a build for the most part is with \"front loaded\" classes where you can add a level or two for some cheese or to qualify for a prestigue class that would not be possible otherwise with a given set of only 3 classes. <br/>\nMany classes still benefit from a high number of levels, such as casters, rangers, AAs, assassins etc.<br/>\nThere is also the question of more than 40% xp penalty that now really can slow down the character progression.<br/>\nIt still remains to be seen how many PWs that choose to expand beyond 3 classes. If they do, we will face a new type of build requests.<br/>\nI think we should start to explore the possibilities.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:37 AM - May 25, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Dingpot wrote: <a data-post-id=\"28177\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28177&amp;sid=f26add04e1eb735875622e3047407a6a#p28177\">\u2191</a><div class=\"responsive-hide\">May 24, 2023</div></cite>Would you be kind enough to provide expanded instructions for tech dummies on how to open it, change it and drop it in the override. I may not do so just yet, having enough trouble with 3 classes but might be useful to know in future.<br/>\n<br/>\nThanks in advance!</div></blockquote>\nFor those who want to test the Class limits :<br/>\n<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwnee/other/development-build-35-37-2da?destination=node/30774\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... node/30774</a><br/>\n<br/>\nJust put this in your Override...<br/>\n<br/>\nThe modified version of ruleset.2da is in the override (ovr) folder of the development version game files. The version in base_2da.bif is still the .34 Retail. The line to change appears to be 519 MULTICLASS_LIMIT which defaults to 3.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "4:08 PM - May 25, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28176\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28176&amp;sid=f26add04e1eb735875622e3047407a6a#p28176\">\u2191</a><div class=\"responsive-hide\">May 24, 2023</div></cite>\nPerhaps we need a new building section for this?\u00a0 I mean, it is going to blow Building to smithereens!\u00a0 So.Many.Possibilities!</div></blockquote>\nYes! I would love to see a new section.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dingpot",
+      "avatar": "10759398_1682113117.jpg",
+      "timestamp": "11:21 PM - May 25, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em>\"For those who want to test the Class limits :<br/>\n</em><br/>\n<br/>\n<em><a class=\"postlink\" href=\"https://neverwintervault.org/project/nw\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw</a> ... node/30774</em><br/>\n<br/>\n<em>Just put this in your Override...</em><br/>\n<br/>\n<em>The modified version of ruleset.2da is in the override (ovr) folder of the development version game files. The version in base_2da.bif is still the .34 Retail. The line to change appears to be 519 MULTICLASS_LIMIT which defaults to 3.\"</em><br/>\n<br/>\nI'm afraid that's still several levels above my understanding, which probably tells me all I need to know, i.e. stick to 3 classes !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "3:29 PM - May 26, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow. New possibilities and new builds are coming, that's great news !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:43 AM - Jun 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Dingpot wrote: <a data-post-id=\"28182\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28182&amp;sid=f26add04e1eb735875622e3047407a6a#p28182\">\u2191</a><div class=\"responsive-hide\">May 25, 2023</div></cite><em>\"For those who want to test the Class limits :<br/>\n</em><br/>\n<br/>\n<em><a class=\"postlink\" href=\"https://neverwintervault.org/project/nw\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw</a> ... node/30774</em><br/>\n<br/>\n<em>Just put this in your Override...</em><br/>\n<br/>\n<em>The modified version of ruleset.2da is in the override (ovr) folder of the development version game files. The version in base_2da.bif is still the .34 Retail. The line to change appears to be 519 MULTICLASS_LIMIT which defaults to 3.\"</em><br/>\n<br/>\nI'm afraid that's still several levels above my understanding, which probably tells me all I need to know, i.e. stick to 3 classes !</div></blockquote>\nDownload that file and extract it into your override folder (on my Windows 11 PC, go to documents/Neverwinter Nights/override).<br/>\nWhen the file is in override, \"right click\" on it and select \"open\" (use Notepad if you have a choice).<br/>\nOnce it is open, go down to line 519 and change the 3 to something bigger, but less than 9 (I went to 8).<br/>\nThen go to \"file\" and hit \"save.\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

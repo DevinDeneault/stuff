@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "912",
+  "name": "Build ideas for EfU (Lvl 10 max)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-ideas-for-efu-lvl-10-max-t2354983.html",
+  "author": "extaz93",
+  "avatar": "no_avatar.png",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "extaz93",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:54 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello everyone,<br/>\n<br/>\nI want to bring a friend on EfU:R server, but he's really new to NWN, and after playing the game since day one, i'm still really a newbie at builds.<br/>\n<br/>\nI would like to share a few basic efficient builds with him.<br/>\nAt first i thought about a basic human fighter, but frontliners on EfU are dying a lot and it might give him a lot of frustration early on. <br/>\nOn the other hand, clerics and spellcasters might be hard to play for a first character...<br/>\nMaybe a bow ranger? But i actually never played a ranger in nwn...<br/>\n<br/>\nAlso, the really slow and capped leveling on EfU:R doesn't leave a lot of room for mistakes in the choice of feats...<br/>\n<br/>\nSo i'm asking for your help and ideas for a few basic newbie-friendly builds, capped at lvl 10 (and i actually never reached lvl 10 with any of my characters on EfU... Most powerful PC's are around lvl 7-8...)<br/>\n<br/>\nPS : if you don't know anything about EfU, it is a low-magic PW, full PVP, set in the underdark. Most ennemies are goblins, troglodytes, ogres, minotaurs, gnolls, spiders...And each class has a few mechanical changes (see link) from main game.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.efupw.com/forums/index.php?topic=35727.0\" rel=\"noreferrer\" target=\"_blank\">https://www.efupw.com/forums/index.php?topic=35727.0</a><br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:01 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm way too sleepy to work it out, but how about a zen archer druid, played my little army style? It's a lot harder to die when you can let your summons tank and you shoot from behind. Then again, your summons can also pull the entire map all at once. You mostly operate with summons and buffs, which is a gentle introduction to spellcasting, you're on a server so the xp reduction is less of a problem, and you have one very specific task to master: staying behind and learning how to use the keyboard shortcuts for issuing commands to your pets. It will also teach him about how the game handles monster attacks when there is more than one possible target. It will probably end up as a 9/1 druid/monk?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:27 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fighter 6/Barbarian 1/Rogue 3, might be good for that particular module.<br/>\nThe secret in low-level, low-magic modules, is to start really strong, and have a solid backbone to build around.<br/>\n<br/>\nRace: Half-Orc<br/>\nAlignment: Something neutral &amp; NOT lawful, is Ideal<br/>\n<br/>\nAbilities: (Str 20(22), Dex 10, Con 12, Int 13, Wis 08, Cha 06)<br/>\n01) Fighter(01): Expertise, Wf: Battle-axe<br/>\n02) Fighter(02): Power attack<br/>\n03) Fighter(03): Cleave<br/>\n04) Fighter(04): Ws: Battle-axe [STR+1]<br/>\n05) Barbarian(01): fast movement, rage 1/day<br/>\n06) Fighter(05): Blind-fight<br/>\n07) Rogue(01): <br/>\n08) Fighter(06): Improved Critical: Battle-axe, Knockdown, [STR +1]<br/>\n09) Rogue(02): Improved Knockdown, evasion<br/>\n10) Rogue(03): <br/>\n<br/>\nThere are a lot of things that are safer than this guy, but with a full-plate &amp; shield, full-tumble ranks &amp; expertise in his disposal he can certainly last for a good while, in the front lines.<br/>\nAnd he hits hard, really hard with natural 22 Strength &amp; Weapon specialization &amp; 2d6 Sneak-attack &amp; Improved Knockdown &amp; UMD<br/>\nHe moves faster than a normal warrior should, which is always a bonus &amp; makes gameplay easier &amp; has Evasion<br/>\nHe is an enjoyable character overall because he hits consistently, he hits hard &amp; has two attacks plus cleave<br/>\nHe can carry a lot of loot in case bags of holding are a rare commodity <br/>\nHe starts with 7AB right out of character creation<br/>\n<br/>\nFor real fun use a 2-hander &amp; watch heads fall-off! (Compromises AC though, so maybe not the best choice if things are really tough)<br/>\nThere is also a mini-version of Mick's \"Brawler Champion\" (Ftr/Monk/CoT) that I made a while ago for level 10, but my search-fu isn't good enough as Stagmeister's &amp; I can't find it at the moment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "10:11 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think the principle of Str based Fighter with a dip to add skills is the way to go, as it ticks most of the boxes (AB, AC, HP, damage), so apart from the 2 above, Fighter/Bard/RDD might also work; F6/Brd1/RDD2/Bard maybe.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "extaz93",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:58 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks a lot for the suggestions!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:33 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found the thread extaz, there are some builds there that fit your criteria I think,<br/>\nLow-Level Builds =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/what-makes-a-strong-low-level-1-10-build-t2354767.html\" rel=\"noreferrer\" target=\"_blank\">what-makes-a-strong-low-level-1-10-build-t2354767.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "1:25 PM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, re-reading the first post again, puts me in mind of my first post in that thread. This is designing for a character that may never reach level 10 and, on a PW, who needs to be 'strong' every step of the way.<br/>\n<br/>\nWhat is the best build depends somewhat on what he needs to do. Key questions I can think of are:<br/>\n<br/>\n1. Will he need Rogue Skills? If there aren't traps or if he will always be in a party with a Rogue character, then the situation is different from soloing a lot in a trap-happy environment.<br/>\n2. Will he largely be facing \"grunts\" (i.e. melee types) or will he have to be making lots of Saves? If the latter then CoT becomes more optimal.<br/>\n3. Are there any \"homebrew\" changes?<br/>\n<br/>\nMy knowledge of NWN is beginner compared to these guys, but I've been playing D&amp;D for over 40 years and much of that has been spent with low level builds. Here you will never be able to get in BAB11 and 3 normal attacks per round, but it is advantageous to get two attacks sooner than later. Fighters are great, because from the off they can wear the heaviest armor and use all shields. In the early levels AC is often king.<br/>\n<br/>\nFrontliners are much easier to play than other builds. If they tend to die a lot, then you should concentrate on making them tough. But you probably need to say exactly what the main challengers are - if it's taking physical damage then you want lots of AC and lots of HP.<br/>\n<br/>\nIf we take Valerfor's 10-level Brawler then, I would say that maybe it is better as a Dwarf. You can drop Toughness from the plan and still have the same HPs (and +1 to your Fort Save), plus you get all the Dwarven Racial abilities, many of which are survival aids, including Darkvision, +2 v Spells and Poisons and the combat bonuses against Giants, Orcs and Goblinoids. You can probably drop Persuade from the skill set. You should also base the weapon choice on what is available and the foes faced, e.g. if crit immunes are limited, Scimitar may be a better pick. The one downside to the build is level 1 - Monks are not very survivable at first level; but I assume he'll be able to \"leach\" XP in a party.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "extaz93",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:24 PM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All your links and ideas are really interesting guys, and enough for my friend and I to dig in for a few months...We'll test a few characters next weeks and i'll let you know what worked for us!<br/>\n<br/>\nThanks again<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

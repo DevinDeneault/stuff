@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "479",
+  "name": "Level 30 Rogue (Arelith)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-30-rogue-arelith-t2194967.html",
+  "author": "MiniQuinny",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "MiniQuinny",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:05 PM - Jan 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">A Pure (Halfling) Rogue for Arelith.<br/>\n<br/>\nTo use a Shortbow with deadly sneak attacks please.<br/>\n<br/>\n<br/>\nUsing the Arelith Character Creation, the build will have a 32 SR on creation (With +2 ECL).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "10:37 PM - Jan 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So... with regards to the +2 ECL... <br/>\nare you requesting a 30-level build or a 28-level one?  A 30 level design would end up as a Level 32 toon, no?   <br/>\n<br/>\nAre there any special variants (i.e. subtypes) available to the rogue class <br/>\nor <br/>\nability/feat alterations for the halfling race on Arelith beyond the standard race bias(es)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "johnbonmovi",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:23 PM - Jan 31, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">32 SR is not going to be effective at all at endgame if that's what you're planning for and thus not worth the ECL that will make leveling take mind numbingly longer.<br/>\n<br/>\nAlso there really isn't much to a build if you just want big sneak attacks with nothing else, pump up dex, take epic sneak attack, and take some fighter or bard levels at epic to dump discipline/grab an epic skill focus in it.  Bow sneak attacks are somewhat unreliable and the bow suffers a penalty to hit knockdown'd targets making it not really the weapon of choice for sneaks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

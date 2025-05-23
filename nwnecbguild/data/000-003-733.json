@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "733",
+  "name": "Thorn Bathu (Fighter 10/ Rogue 20/ CoT 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/thorn-bathu-fighter-10-rogue-20-cot-10-t2355239.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:47 PM - Nov 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've just finished reading the \"Shattered Sea\" trilogy by Joe Abercrombie, and wondered how to design Thorn, one of the protagonists. (Yes, I know it's a YA series, but the characters and plot stand up well, so there <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />.) She's a young girl training to be a warrior in a man's world in a traditional S&amp;B tradition. She is then introduced to a trainer with a different way of fighting - speed and two weapons - a sword and an axe. She goes on to become the \"storm\" she is told she must be. She is described as strong and tough, but mostly quick, using her weapons deftly. She's also definitely not a sneaky or trapper type - very much an \"in your face\" fighter.<br/>\n<br/>\nAnd here's the lady in question...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://joeabercrombie.com/books/half-the-world/\" rel=\"noreferrer\" target=\"_blank\">Thorn</a><br/>\n<br/>\nSo, firstly, this is not supposed to be an optimized build. It's supposed to be able to do as she does. Otherwise I might have gone for a Fighter/ WM/ Rogue - but that didn't give me nearly enough scope. Equally, I know I'm neglecting some of the more obvious Rogue skills for a Dex build - for once I thought I had too many of the things, but I needed 13 Int for other reasons. I'd have quite liked Taunt, but cross-classed it's a bit meh.<br/>\n<br/>\nYou could argue that I've played a bit fast and loose with the character, given I've taken UMD, Spellcraft, and even CoT as a class, but you know how I am about saves. I'm also a little undecided whether to go for Power Attack, Expertise, or Dodge as a level 1 feat. And yes, I know I haven't managed to get Armour Skin in the mix - I went for Crippling Strike instead.<br/>\n<br/>\nAs ever, ladies and gentlemen, your thoughts are welcome!<br/>\n<br/>\n<strong>THORN BATHU</strong><br/>\nFighter 10/ Rogue 20/ CoT 10<br/>\nHuman, any non-evil<br/>\nL1-40 PvM<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 14<br/>\nDEX 17 (34)<br/>\nCON 14<br/>\nWIS 8<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHPs: 400<br/>\nAC: (naked) 30<br/>\nSaves: Fort 29, Will 20, Ref 38 <span style=\"color:#FF0000\">(all +4 vs spells)</span><br/>\nBAB: 28<br/>\nAB: (melee) max 44 (4 APR), D-W 42 (6 APR)<br/>\nSneak Attack 10xd6<br/>\nSkills: <span style=\"text-decoration:line-through\">310</span> <span style=\"color:#FF0000\">286</span>. <span style=\"text-decoration:line-through\">Max</span> Discipline <span style=\"color:#FF0000\">42 (44)</span>, Concentration <span style=\"color:#FF0000\">42 (44)</span>, Listen <span style=\"color:#FF0000\">43 (42)</span>, Spellcraft (cc) <span style=\"color:#FF0000\">19 (20)</span>, Spot <span style=\"color:#FF0000\">43 (42)</span>, Tumble 40 <span style=\"color:#FF0000\">(52)</span>, UMD <span style=\"color:#FF0000\">34 (33)</span>, <span style=\"text-decoration:line-through\">28</span> <span style=\"color:#FF0000\">4 </span>spare <span style=\"color:#FF0000\">(I took Heal, but Lore might work - it's only 4, so a bit meh)</span>.<br/>\n<br/>\n<strong>Levelling</strong><br/>\n1 <span style=\"text-decoration:line-through\">R1 - Blind Fight/ Expertise OR Power Attack OR Dodge </span><span style=\"color:#FF0000\">F1 - Weapon Finesse/ WF: Shortsword/ Power Attack </span><br/>\n2 <span style=\"text-decoration:line-through\">F1 - Weapon Finesse </span><span style=\"color:#FF0000\">R1</span><br/>\n3 F2 - <span style=\"text-decoration:line-through\">WF: Shortsword/</span> WF: Handaxe<span style=\"color:#FF0000\">/ KD</span><br/>\n4 F3 - DEX+1 (18)<br/>\n5 F4 - WS: Shortsword<br/>\n6 R2 - <span style=\"text-decoration:line-through\">KD</span><span style=\"color:#FF0000\"> Blind Fight</span>/ (Evasion)<br/>\n7 R3 - (UD1)<br/>\n8 R4 - DEX+1 (19)<br/>\n9 <span style=\"text-decoration:line-through\">F5 - TWF </span><span style=\"color:#FF0000\">CoT1 - Ambidexterity</span><br/>\n10 <span style=\"text-decoration:line-through\">F6 - WS: Handaxe </span><span style=\"color:#FF0000\">CoT2 - TWF</span><br/>\n11 <span style=\"text-decoration:line-through\">CoT1</span> <span style=\"color:#FF0000\">F5</span><br/>\n12 <span style=\"text-decoration:line-through\">CoT2</span> <span style=\"color:#FF0000\">F6</span>- DEX+1 (20)/<span style=\"text-decoration:line-through\"> Ambidexterity</span>/ ICrit: Shortsword <span style=\"color:#FF0000\">/ WS: Handaxe</span><br/>\n13 R5<br/>\n14 CoT3<br/>\n15 CoT4 - ITWF/ ICrit: Handaxe<br/>\n16 CoT5 - DEX+1 (21)<br/>\n17 R6<br/>\n18 R7 - IKD<br/>\n19 F7<br/>\n20 R8 - DEX+1 (22)<br/>\n21 CoT6 - GDexI (23)/ EWF: Shortsword<br/>\n22 CoT7<br/>\n23 CoT8 - EWF: Handaxe<br/>\n24 R9 - DEX+1 (24)/ GDexII (25)<br/>\n25 R10 - (Imp Evasion)<br/>\n26 R11<br/>\n27 R12 - GDexIII (26)<br/>\n28 R13 - DEX+1 (27)/ (Defensive Roll)<br/>\n29 R14<br/>\n30 R15 - GDexIV (28)<br/>\n31 R16 - (Epic Dodge)<br/>\n32 F8 - DEX+1 (29)/ EWS: Shortsword<br/>\n33 CoT9 - GDexV (30)<br/>\n34 CoT10 - EWS: Handaxe<br/>\n35 R17<br/>\n36 R18 - DEX+1 (31)/ GDexVI (32)<br/>\n37 R19 - (Crippling Strike)<br/>\n38 F9<br/>\n39 F10 - GDexVII (33)/ Epic Prowess<br/>\n40 R20 - DEX+1 (34)<br/>\n<br/>\nCheers<br/>\n<br/>\n<span style=\"color:#FF0000\"><em><strong>EDIT</strong></em>: Changed some details post-play-through.</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:43 PM - Nov 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now I'm gonna have to go check out those books before I can say if you hit the mark or not\u00a0 :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:11 PM - Nov 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ha! Just be aware, she doesn't feature at all until the second book - \"Half the World\" and somewhat minimally in the third, \"Half a War\". I'd still read the first - \"Half a King\" - first (?), though. And they're quick reading - I did all 3 in a couple of weeks...though that could have been from boredom with RL.<br/>\n<br/>\nI'd actually been mulling Rogue and Bard builds through my fat head. And then I came across this little beauty of yours -\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/tear-of-the-dragon-bard-16-rogue-14-red-dragon-dis-t515494.html\" rel=\"noreferrer\" target=\"_blank\">Tear of the Dragon</a> - and stopped. Hence this one instead.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "12:49 PM - Nov 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">She is one of the few non-casters I can play.\u00a0 Those were the good old days.\u00a0 I stumbled across that idea and Kail helped polish it up.\u00a0 \u00a0Haven't seen many others that have dev crit and epic dodge.<br/>\n<br/>\nI'll check Abebooks.com and see if I can find those books.\u00a0 Thats usually my first place to look.\u00a0 I hate paying full price for a book i may never read a second time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:33 PM - Jan 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This one I did enjoy playing through (went OC/ MTS), everything felt natural, and I would shift it to the completed builds forum but for the fact that it is deliberately hampered for RP reasons. Still, I'd recommend anyone fancying a slash-fest to give it a whirl.<br/>\n<br/>\nI did make some changes in its construction, which I'll now go highlight in red in the lead post.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

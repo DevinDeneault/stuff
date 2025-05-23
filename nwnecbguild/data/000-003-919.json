@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "919",
+  "name": "Build Request: Level 20 evil sorc build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-request-level-20-evil-sorc-build-t2354971.html",
+  "author": "Eijji",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Eijji",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:35 PM - Jan 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Looking for help making a level 20 evil sorc for PVM and light PVP on a level 20 server. Does not have to be fully sorc but would like to focus on pure offensive spell casting. I would like to somehow mix in a level of shadow dancer for HIPS if it cannot facetank. Has to be an elf. Has to be evil. Server is a low magic server with +5 rare drops. Any help with this would be appreciated, thank you!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:10 PM - Jan 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can't call that server \"low magic\", <br/>\nIn fact, I would argue that this is a fairly standard magic level having +5 items at all.<br/>\n<br/>\nAnyway, Elf &amp; Evil makes it tougher than it should be, Sorcerer 18/ Cleric 1/ Paladin 1, Human/Gnome is so much better.<br/>\nSorcerer 19/ Cleric 1 for Divine Shield is okay &amp; can be done Evil &amp; Elf as you want.<br/>\nCharisma 17 -&gt; 22, Greater Spell Focus on 2 different schools and that's it.<br/>\nI assume your PW has changed some things for casters/spells for PvP or else it is ridiculous as you can go Timestop -&gt; 3x Isaac's Greater missile storms and obliterate anything that's 20 level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Eijji",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:01 PM - Jan 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How would you build Sorc 19/Cleric 1?\u00a0<br/>\n<br/>\n1st level: Power Attack<br/>\n3rd (cleric) Divine Shield<br/>\nrest of the levels greater spell focuses and empower spell<br/>\n<br/>\nStarting Stats (Elf):<br/>\n<br/>\nStr: 8<br/>\nDex: 15<br/>\nCon: 14<br/>\nWis: 8<br/>\nInt: 10<br/>\nCha: 17<br/>\n<br/>\nIs this good?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:11 PM - Jan 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ignorant but genuine question. If Pally is out of the equation, would Blackguard be worth it? Again, I'm thinking Charisma synergy. However, it does seem mean to shove an elf into Sorcerer rather than Wizard, regardless of alignment<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:33 PM - Jan 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He would be worth it if it was a level 40 build but at level 20 you need at least 3 levels to take that Divine Shield so you lose all 9th level spell-casting. <br/>\nAt level 40 however, Sorceress 35/ BG 3/ Monk 2, for example, would be a really good combo.<br/>\n<br/>\nEijji, try this instead: Str: 09 Dex: 16 Con: 12 Int: 12 Wis: 08 Cha 17(22)<br/>\nPA, DS, GSF 1/GSF 2, Empower OR Extend Spell. <br/>\nAnd here is why Human is so good, he allows you to take Both of them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

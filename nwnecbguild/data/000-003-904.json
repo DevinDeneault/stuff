@@ -1,0 +1,170 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "904",
+  "name": "Bard 3 / Fighter 8 / Arcane Archer 29 - Help needed",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/bard-3-fighter-8-arcane-archer-29-help-needed-t2354978.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": 25,
+  "posts": [
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:30 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As you can see here:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/pw-adapted-complementary-builds-specializing-in-of-t2354975-s10.html\" rel=\"noreferrer\" target=\"_blank\">pw-adapted-complementary-builds-special ... 5-s10.html</a><br/>\nwe're trying to set up a very good build with max AB.<br/>\n<br/>\nHere's a recap:<br/>\n<blockquote><div><cite>Cornflower wrote:</cite>\n<blockquote><div><cite>Thorsson wrote:</cite>\nLooking at the AA, I have a couple of questions:<br/>\n<br/>\n1. Why Knockdown? Seems a pointless Feat on an AA with 14 Str.<br/>\n2. Why not get 29 AA levels for the maximum bonus (or even 30 as you get a Bonus Feat)?<br/>\n3. Although you lose the extra Dex and full Elf abilities, Half-Elf allows you to take Bard, which gives you full Tumble and UMD, as well as Bard Song (which gets you back the AB you lost on Dex, plus some damage).<br/>\n<br/>\nI guess I'm thinking of something along the lines of F8/Bd3/AA29 or Bd4/F6/AA30.<br/>\n<br/>\nTBH is the Rapier stuff worth having? I mean he's not going to hurt a fly with one. Certainly not a boss with DR.\n</div></blockquote>\n1. I have no idea, as I said I just got the build and tried it. I'm open to improvements if anyone would like to set it up.<br/>\n2. See above.<br/>\n3. I understand the thinking of bard, but why drop Elf? You can be an elven bard.<br/>\n<br/>\nRapier is I think more of a convenience so you can go rapier/shield when it's crowded and you can't move back and fire undisturbed. It's not a necessity I think, but so far (lvl 22) I find it useful.<br/>\n<br/>\nThinking of the suggested build... You want bard 3 for the song. Bard 4 doesn't really give you anything extra (possibly 2 lvl 2 spells, if you spend enough charisma, which you won't). You want AA29 for the max bonus. The extra D6 explosive damage you get from AA30 is probably not very useful. So, Fighter 8/Bard 3/AA29 would probably be best. (If not, please explain why).\n</div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:35 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's a similar build but without UMD and Tumble:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/legolas-my-version-t2354926.html\" rel=\"noreferrer\" target=\"_blank\">legolas-my-version-t2354926.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:11 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK. Tried to set up a build. Since you can only take 10 levels of AA pre-epic, the question is: Do you want more than one level of Fighter post-epic for epic feats, if so, which?<br/>\nI'm thinking you take a fighter level post-epic, then you can get Epic Weapon Specialization. But, then you can't use Bard level for Tumble/UMD skill dump. If you drop one AA level, you can just the same drop two, since 28 and 27 have the same bonus.<br/>\n<br/>\nSo, what's better? EWS / Tumble+UMD maxed out / Drop one AA levels / Drop two AA levels and get both EWS and Tumble+UMD?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:56 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, a first try. Skill distribution and level spread a bit wonky, but still, good AB and decent AC I think. I'm not that experienced in this, so I probably missed something important....<br/>\n<br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(10), Bard(3), Arcane Archer(27), Elf\nSTR: 12\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Longbow, Point Blank Shot\n03: Fighter(3): Weapon Focus: Rapier\n05: Fighter(5)\n07: Bard(1)\n09: Arcane Archer(2): Improved Critical: Longbow\n11: Arcane Archer(4)\n13: Arcane Archer(5)\n15: Arcane Archer(7): Improved Critical: Rapier\n17: Arcane Archer(9)\n19: Fighter(8): Called Shot\n21: Arcane Archer(11): Armor Skin\n23: Arcane Archer(13)\n25: Arcane Archer(15)\n27: Fighter(10): Great Dexterity II, Epic Weapon Specialization: Longbow, (DEX=28)\n29: Arcane Archer(17)\n31: Arcane Archer(19)\n33: Arcane Archer(21): Great Dexterity IV, (DEX=32)\n35: Arcane Archer(23)\n37: Arcane Archer(25)\n39: Arcane Archer(27): Great Dexterity VIII, (DEX=37)\n\nSkillpoints: 232\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 45 (melee), 61 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Save(12), \n03: Discipline(1), Save(18), \n05: Discipline(1), Save(24), \n07: Discipline(1), Spellcraft(10), Tumble(10), UMD(10), Save(2), \n09: Lore(2), Spot(4), \n11: Spot(1), Save(9), \n13: Spot(2), Save(12), \n15: Spot(1), Save(22), \n17: Spot(1), Save(32), \n19: Discipline(7), Save(34), \n21: Lore(3), Spot(3), \n23: Lore(1), Spot(1), Save(4), \n25: Lore(1), Spot(1), Save(12), \n27: Discipline(1), Lore(1), Save(11), \n29: Lore(1), Spot(1), Save(17), \n31: Spot(1), Save(27), \n33: Spot(1), Save(37), \n35: Spot(1), Save(47), \n37: Spot(1), Save(57), \n39: Spot(1), Save(67), \n\n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "6:13 PM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think your reasoning is sound.<br/>\n<br/>\nYou only need 40 Tumble. I don't think you need 43 UMD either, so Bard doesn't have to wait all the way until 40 (could be 37), although you probably squeeze one more Save vs spells from it.\u00a0Not keen on the Will Save anyway, but maybe that is covered off through items.<br/>\n<br/>\nI had said Half-Elf, because Elf gets an XP Penalty, but that might not be important.\u00a0<br/>\n<br/>\nI wonder if more Bard might be helpful, e.g. Bd9/F4/AA27; assuming that you can get WS/EWS on the 4th Fighter level, it would be Bd7/F3/AA10 pre-Epic. Obviously you lose 3 Feats (bye bye Rapier I think). However your Bard Song becomes stronger (2 attack/2 damage vs 1/1) and you might be able to do something with spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "5:42 PM - Jan 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\nI think your reasoning is sound.<br/>\n<br/>\nYou only need 40 Tumble. I don't think you need 43 UMD either, so Bard doesn't have to wait all the way until 40 (could be 37), although you probably squeeze one more Save vs spells from it.\u00a0Not keen on the Will Save anyway, but maybe that is covered off through items.<br/>\n<br/>\nI had said Half-Elf, because Elf gets an XP Penalty, but that might not be important.\u00a0<br/>\n<br/>\nI wonder if more Bard might be helpful, e.g. Bd9/F4/AA27; assuming that you can get WS/EWS on the 4th Fighter level, it would be Bd7/F3/AA10 pre-Epic. Obviously you lose 3 Feats (bye bye Rapier I think). However your Bard Song becomes stronger (2 attack/2 damage vs 1/1) and you might be able to do something with spells.\n</div></blockquote>\nAs you assumed, I got +1 save against spells by putting Bard at 40.<br/>\nMore bard might be useful, but I need 4 levels of Fighter on pre-epic for +1AB. Not sure it's worth another bard level, since the net AB is 0.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "6:54 PM - Jan 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">i would max UMD, due to the high value ln BSk on items.<br/>\n<br/>\nrapier shield setup is just too good on the server too with +5 enhancement and 3 ele types of dmg at a lvl 21. <br/>\n<br/>\neven with +10 mighty and 1d6 arrows, you need a ton of AA levels to enhance the dmg enough to beat a darkfire rapier early on.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:47 PM - Jan 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\ni would max UMD, due to the high value ln BSk on items.<br/>\n<br/>\nrapier shield setup is just too good on the server too with +5 enhancement and 3 ele types of dmg at a lvl 21. <br/>\n<br/>\neven with +10 mighty and 1d6 arrows, you need a ton of AA levels to enhance the dmg enough to beat a darkfire rapier early on.\n</div></blockquote>\nSo, do you think I should drop Great Dexterity and add some more rapier feats?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "10:29 PM - Jan 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would use it for levelling only, so I would bot recommend you lose endgame value.<br/>\n<br/>\nOn this server it is great to be strong whilst levelling. I wouls perhaps grab imp crit rapier instead and do main focus on endgame stats.<br/>\n<br/>\nso weapon finesse and imp crit rapier will make things go super smooth.<br/>\n<br/>\nit kind of only comes down to this: 1 ftr for Ews or max skills for 1 bard. last option is 27 aa, and 2 more ftr for 1 more feats.. \u00a0Choose wisely!<br/>\n<br/>\nAlso I would feel odd if I didnt say; ftr at lvl 1. your purpose is endgame with an Arcane archer so any point spent away from dex,con,str,int is a wasted point. 14.20.12.8.10.8 is what I would take. you can also make a dev crit version of this.<br/>\n<br/>\nFurthermore I would take cleric/bard/aa for dmg, due to divine power, grabbing animal/strength/trickery domains, zen archery in fullplate. 14,13,6,18,8,13<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:30 AM - Jan 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\n... I wouls perhaps grab imp crit rapier instead and do main focus on endgame stats.\n</div></blockquote>\nInstead of what?<br/>\n<blockquote><div><cite>Valkos wrote:</cite>...<br/>\nAlso I would feel odd if I didnt say; ftr at lvl 1. your purpose is endgame with an Arcane archer so any point spent away from dex,con,str,int is a wasted point. 14.20.12.8.10.8 is what I would take. you can also make a dev crit version of this.\n</div></blockquote>\nI took higher INT so I could get Lore and Spot, which is not strictly necessary, but is very useful for convenience and to avoid PvP/PP (which is quickly increasing with the dramatic influx of players now). I get your point, though.<br/>\n<blockquote><div><cite>Valkos wrote:</cite>...<br/>\nFurthermore I would take cleric/bard/aa for dmg, due to divine power, grabbing animal/strength/trickery domains, zen archery in fullplate. 14,13,6,18,8,13\n</div></blockquote>\nHave you run the calculations to see if this actually improves the AB, AC and damage? Also, what spread would you recommend?<br/>\nSomething like this?<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/sehanine-s-finest-cleric-15-bard-2-arcane-archer-2-t2182559.html\" rel=\"noreferrer\" target=\"_blank\">sehanine-s-finest-cleric-15-bard-2-arca ... 82559.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "9:51 AM - Jan 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">the cleric build is to increase dmg. you will have lower overall feats, AB, but you will be able to have a smoother levelling experience as a solo player. No testing have been done, but both magic and divine dmg do not get resisted by endgame mobs which all the other ele types do.<br/>\n<br/>\nI was thinking imp crit over WF.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "9:48 PM - Jan 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Divine Power: the BAB will change to max, which means the AB will change (by 1 assuming &lt;5 Bard levels in the builds). It cannot get WS/EWS, but it does have (the unfortunately short-lived) Divine Favor.<br/>\n<br/>\nAs for Zen Archery, you still need Dex 13 for Rapid Shot and I doubt that Plate is giving you as much AC as you get from Dex.<br/>\n<br/>\nI doubt that it's worth it in a High Magic environment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:58 PM - Jan 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll see if I have the time and energy to set up the Zen Archer in the excel thingy so we can see what's what.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:04 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Haven't read the whole thread but I wanted to mention something here quickly,<br/>\nThe Divine Power's AB boost is counted within the +20 cap limit on AB, so effectively if you have a +20 weapon &amp; do this you gain nothing!<br/>\nFrom the NwN Wiki,<br/>\n\"The increase in base attack bonus is a simulation, so the increase counts towards the +20 attack bonus cap.\"<br/>\n<br/>\nSo, if you are on a high-magic module or anything, take that into consideration guys,<br/>\nHave fun<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "8:21 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am sorry. I meant divine might of course.<br/>\n<br/>\nFor the charisma mod to divine dmg.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "8:39 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\nI am sorry. I meant divine might of course.<br/>\n<br/>\nFor the charisma mod to divine dmg.</div></blockquote>\nNice to have the extra damage, but there's a cost.\u00a0 I think you need to be a little more specific; how many Cleric levels and what is the level 20 split? You're going to miss out on WS/EWS, so the delta in damage is not huge to Fighter - and that's without factoring in that DM is not \"always on\". You will lose BAB. And then there's the fact that you now need points in every single attribute, so I reckon AB suffers again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:49 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Enchant Arrow based AB increase does not count towards the AB bonus cap of +20. <br/>\nWhen you start picking other classes for whatnot benefits, my advice is to keep track of how much EA based AB and damage you lose in the process.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:38 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With an AB of 61 with 1d8+20 for dmg, I think your build is already good enough Cornflower.<br/>\nIt has the same basic idea as the \"Reliable Archer\" if I remember correctly, it was solid back then &amp; it is still solid right now.<br/>\nTrying to squeeze 1AB more isn't going to change anything really. <br/>\nWhy don't you give him a test-drive instead?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "7:01 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Cornflower, nice to see you here as well. <br/>\n<br/>\nBy going bard 3 at the end you gained Tumble, Spellcraft, and UMD but lose 4 damage from EWS.<br/>\n<br/>\nI opted to take fighter at level 21 for EWS, with only 1 level in wizard. Given the apparant lack of multiclass penalties (or party size penalties for that matter) on BSk you can go Elf with your build scott free, so that might be the better choice.<br/>\n<br/>\nI guess you could give up +1 on arrows for EWS and skill dumps both, dropping AA to 27 and going Fighter 10 / Bard 3. But if max AB is what you're after then it's a loss. So I would say your build is done.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:17 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>\nHey Cornflower, nice to see you here as well. <br/>\n<br/>\nBy going bard 3 at the end you gained Tumble, Spellcraft, and UMD but lose 4 damage from EWS.<br/>\n<br/>\nI opted to take fighter at level 21 for EWS, with only 1 level in wizard. Given the apparant lack of multiclass penalties (or party size penalties for that matter) on BSk you can go Elf with your build scott free, so that might be the better choice.<br/>\n<br/>\nI guess you could give up +1 on arrows for EWS and skill dumps both, dropping AA to 27 and going Fighter 10 / Bard 3. But if max AB is what you're after then it's a loss. So I would say your build is done.\n</div></blockquote>\nAs you suggest, Fighter 10/Bard 3/AA27 is the current top candidate. Mostly because as you so correctly point out, I get both skill dumps (which I need on BSK both for AC, saves and use of some restricted items) and EWS. (Also, who needs 62 AB? Isn't 61 enough?)<br/>\n<br/>\nCurrent build looks like this. Note that I'm still awaiting feedback from a long-time BSK player who is really great at toon builds.<br/>\nRapier feats to survive until the AA bonus kicks in for real (and I can use one of the Uber Bows).<br/>\nBlind fight is late, because it's not really needed until the first epic quest line starts.<br/>\n<details><summary>Spoiler</summary>Fighter(10), Bard(3), Arcane Archer(27), Elf\nSTR: 12\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Longbow, Point Blank Shot\n03: Fighter(3): Weapon Focus: Rapier\n05: Fighter(5)\n07: Bard(1)\n09: Arcane Archer(2): Improved Critical: Longbow\n11: Arcane Archer(4)\n13: Arcane Archer(5)\n15: Arcane Archer(7): Improved Critical: Rapier\n17: Arcane Archer(9)\n19: Fighter(8): Called Shot\n21: Arcane Archer(11): Armor Skin\n23: Arcane Archer(13)\n25: Arcane Archer(15)\n27: Fighter(10): Great Dexterity II, Epic Weapon Specialization: Longbow, (DEX=28)\n29: Arcane Archer(17)\n31: Arcane Archer(19)\n33: Arcane Archer(21): Great Dexterity IV, (DEX=32)\n35: Arcane Archer(23)\n37: Arcane Archer(25)\n39: Arcane Archer(27): Great Dexterity VIII, (DEX=37)\n\nSkillpoints: 232\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 45 (melee), 61 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Save(12), \n03: Discipline(1), Save(18), \n05: Discipline(1), Save(24), \n07: Discipline(1), Spellcraft(10), Tumble(10), UMD(10), Save(2), \n09: Lore(2), Spot(4), \n11: Spot(1), Save(9), \n13: Spot(2), Save(12), \n15: Spot(1), Save(22), \n17: Spot(1), Save(32), \n19: Discipline(7), Save(34), \n21: Lore(3), Spot(3), \n23: Lore(1), Spot(1), Save(4), \n25: Lore(1), Spot(1), Save(12), \n27: Discipline(1), Lore(1), Save(11), \n29: Lore(1), Spot(1), Save(17), \n31: Lore(1), Spot(1), Save(25), \n33: Spot(1), Save(34), \n35: Spot(1), Save(44), \n37: Spot(1), Save(54), \n39: Spot(1), Save(64), \n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "3:00 AM - Jan 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">quick note on the build here.<br/>\n<br/>\nI would myself remove epic prowess and armor skin for two more points in dex. net loss is 1 ac, gained is 1 reflex save. it is minor, but I love me some 40 dex builds.<br/>\n<br/>\nAlso I would only take 1 bard pre epic. this gives you instant access to EWS at lvl 25 and the back to AA levelling. you will lose 1 ref and will save, I like to get insta access to EWS longbow.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "1:36 PM - Jan 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\nquick note on the build here.<br/>\n<br/>\nI would myself remove epic prowess and armor skin for two more points in dex. net loss is 1 ac, gained is 1 reflex save. it is minor, but I love me some 40 dex builds.<br/>\n<br/>\nAlso I would only take 1 bard pre epic. this gives you instant access to EWS at lvl 25 and the back to AA levelling. you will lose 1 ref and will save, I like to get insta access to EWS longbow.\n</div></blockquote>\nEpic Prowess/Armor skin for Greater Dexterity x 2 seems kinda cool.<br/>\nThe other one you need to explain. If I don't take that bard pre-epic, I need to take another Fighter pre-epic, since you can't take AA11 pre-epic. That would give me EWS at level 24, but would delay my DEX progression a bit. I can see no other advantages. Not sure I understand correctly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:29 PM - Jan 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is this what you mean, Valkos?<br/>\n<details><summary>Spoiler</summary>Fighter(10), Bard(3), Arcane Archer(27), Elf\nSTR: 12\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Longbow, Point Blank Shot\n03: Fighter(3): Weapon Focus: Rapier\n05: Fighter(5)\n07: Bard(1)\n09: Arcane Archer(2): Improved Critical: Longbow\n11: Arcane Archer(4)\n13: Arcane Archer(5)\n15: Arcane Archer(7): Improved Critical: Rapier\n17: Arcane Archer(9)\n19: Fighter(8): Called Shot\n21: Arcane Archer(11): Epic Weapon Focus: Longbow\n23: Fighter(10): Epic Weapon Specialization: Longbow\n25: Bard(2)\n27: Arcane Archer(15): Great Dexterity I, (DEX=27)\n29: Arcane Archer(17)\n31: Arcane Archer(19)\n33: Arcane Archer(21): Great Dexterity IV, (DEX=32)\n35: Arcane Archer(23)\n37: Arcane Archer(25)\n39: Arcane Archer(27): Great Dexterity VIII, (DEX=37)\n\nSkillpoints: 232\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 45 (melee), 61 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Save(12), \n03: Discipline(1), Save(18), \n05: Discipline(1), Save(24), \n07: Discipline(1), Spellcraft(10), Tumble(10), UMD(10), Save(2), \n09: Lore(2), Spot(4), \n11: Spot(1), Save(9), \n13: Spot(2), Save(12), \n15: Spot(1), Save(22), \n17: Spot(1), Save(32), \n19: Discipline(7), Save(34), \n21: Spot(3), Save(40), \n23: Discipline(3), Save(46), \n25: Discipline(2), Spellcraft(18), Tumble(18), UMD(18), \n27: Lore(5), Spot(1), \n29: Lore(1), Spot(1), Save(8), \n31: Lore(1), Spot(1), Save(16), \n33: Lore(1), Spot(1), Save(24), \n35: Lore(1), Spot(1), Save(32), \n37: Spot(1), Save(41), \n39: Spot(1), Save(51), \n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "10:06 PM - Jan 16, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">exactly that! I like the overall compromise. this is basically your most bang per buck on feats and class distribution. Really awesome to finally see you ingame on the road to 40! :D<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "3:09 PM - Jan 17, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Damn, forgot perform 9 so I can get +1AB from Bard Song.... Here is the even more final-er build:<br/>\n<details><summary>Spoiler</summary>Fighter(10), Bard(3), Arcane Archer(27), Elf\nSTR: 12\nCON: 10\nINT: 14\n\n01: Fighter(1): Weapon Focus: Longbow, Point Blank Shot\n03: Fighter(3): Weapon Focus: Rapier\n05: Fighter(5)\n07: Bard(1)\n09: Arcane Archer(2): Improved Critical: Longbow\n11: Arcane Archer(4)\n13: Arcane Archer(5)\n15: Arcane Archer(7): Improved Critical: Rapier\n17: Arcane Archer(9)\n19: Fighter(8): Called Shot\n21: Arcane Archer(11): Epic Weapon Focus: Longbow\n23: Fighter(10): Epic Weapon Specialization: Longbow\n25: Bard(2)\n27: Arcane Archer(15): Great Dexterity I, (DEX=27)\n29: Arcane Archer(17)\n31: Arcane Archer(19)\n33: Arcane Archer(21): Great Dexterity IV, (DEX=32)\n35: Arcane Archer(23)\n37: Arcane Archer(25)\n39: Arcane Archer(27): Great Dexterity VIII, (DEX=37)\n\nSkillpoints: 232\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 45 (melee), 61 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Save(12), \n03: Discipline(1), Save(18), \n05: Discipline(1), Save(24), \n07: Perform(4), Spellcraft(10), Tumble(10), UMD(10), \n09: Lore(2), Spot(1), Save(3), \n11: Spot(1), Save(13), \n13: Spot(2), Save(14), \n15: Spot(1), Save(24), \n17: Spot(1), Save(34), \n19: Discipline(6), Save(37), \n21: Spot(3), Save(43), \n23: Discipline(3), Save(49), \n25: Discipline(2), Perform(3), Spellcraft(18), Tumble(18), UMD(18), \n27: Lore(1), Spot(1), Save(4), \n29: Lore(1), Spot(1), Save(12), \n31: Lore(1), Spot(1), Save(20), \n33: Lore(1), Spot(1), Save(28), \n35: Lore(1), Spot(1), Save(36), \n37: Spot(1), Save(45), \n39: Spot(1), Save(55), \n\n</details>\nSo, how do I get this published in the level 40 build section so I can take my place among the big boys?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:31 AM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why don't you make a new topic in 40's section, write a few words about it and post it there Cornflower?<br/>\nIt's as simple as that ;)<br/>\nAnd let me make some constructive criticism while I'm here,<br/>\nChange BF with Toughness pre-epic for slightly better play-ability.<br/>\n<br/>\nIt is a great archer nevertheless!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

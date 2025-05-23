@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "989",
+  "name": "SD build request - Kharlindale Realms",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/sd-build-request-kharlindale-realms-t2354835.html",
+  "author": "friedpiggy",
+  "avatar": "10572442_1552585393.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "friedpiggy",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:24 PM - Mar 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings all.<br/>\n<br/>\nI humbly request a Shadowdancer build from you good people.\u00a0<br/>\n<br/>\n<strong>Server specifics</strong><br/>\nLow Magic world<br/>\nMax is +5 (+6 at 40)<br/>\nMaxing out DEX is perfectly doable<br/>\nThere are almost no changes to base nwn, even CEP isn't used on the server.<br/>\nEach class has a custom item with some stats/skills etc. SD gets a shuriken quiver thingy. These shuriken are upgraded every 5 levels<br/>\n<br/>\n<strong>What I am looking for</strong><br/>\nI am looking for a dex build with as many SD levels as possible. Must have the WF/EWF/IC shuriken feats. Would be nice if it could also be feated for rapiers.<br/>\nWill mainly be played solo so that needs to be taken into account as well.<br/>\n<br/>\n<br/>\nThanking you all in advance<br/>\nPiggy<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:47 PM - Mar 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Before I make such a build for you, I need to warn you that this is a bad idea. After the first few levels, Shadowdancer is a weak class, and shurikens are a weak weapon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "friedpiggy",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:33 AM - Mar 28, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm you might have a point there. The shuriken was mainly to take advantage of the ammo generator thingy that upgrades every 5 levels. I think this can be scrapped though. will try something else out instead.<br/>\n<br/>\nThank you for your time though<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "9:52 PM - Mar 30, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Once I wanted to make a build that uses shurikens, but it remained only a concept in my mind. I would take rogue or assassin to get sneak/death attack, and at least 21 levels of Ranger for BoE against sneak immunes. The third class would be shadowdancer here, and it's not bad because HiPS would help you to land sneaks.<br/>\nBut that's it, I don't know if anything useful can be made from this.<br/>\n<br/>\nEDIT:<br/>\nI made a little search, and here is something with roughly the same class distribution as described above - <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-bane-crusher-ranger-23-rogue-16-sd-1-t515517.html\" rel=\"noreferrer\" target=\"_blank\">The Bane Crusher</a> from Maximilian Kane. It's a melee toon and does not have exotic proficiency, so a few tweaks are needed, but it can be a good base to start.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:46 AM - Mar 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He was wanting lots of SD levels because the more levels of SD, the better the unlimited supply of shurikens become, +1 every 5 levels.<br/>\nMaybe a Rogue 20 / SD 20 wouldn't be completely awful, with unlimited +4 shurikens, Epic Dodge, and sneak attacks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:22 PM - Mar 31, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rogue 19/ Fighter 6/ ShadowDancer 15, would be even better with additional attacks &amp; ews.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "7:42 PM - Apr 03, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about a fighter 8 / blackguard 16 / shadowdancer 16 with a little focus on charisma? You can get extra damage from divine might, ws/ews and sneaks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

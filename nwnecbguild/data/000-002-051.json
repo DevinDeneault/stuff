@@ -1,0 +1,92 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "051",
+  "name": "Heroic shield uses per day",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/heroic-shield-uses-per-day-t2356013.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": 12,
+  "posts": [
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "8:42 AM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was playing a PDK in a group, and idly spamming Heroic Shield while waiting for the last member. At some point I noticed that there was a counter on the icon, as if the number of uses per day were not infinite. It must have appeared at some point, it definitely is not there when I rest, and only appears after several uses. Anyone knows what's going on? Might be a WoG thing as the ability is changed there, but I thought only in duration. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:09 AM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As far as I know, Heroic Shield lasts one round and can be used once per round unlimited, so I don't know why there is a counter. Maybe you should ask in the WoG forums.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:27 AM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's a WoG thing - due to the duration change, etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "11:53 AM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK I tested in PGCC, and it happens there too. It's not actually unlimited.<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_24af8ee3760013e3d47dc289bc61320e_t.png\" />\n</dl>\n</span><br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_0b02620fc9ab735177d0f18302899308_t.png\" />\n</dl>\n</span><br/>\nThere is a counter counting *attempted* uses, not even successful ones. Not sure how high it starts (as it does not show above 99!), maybe 200?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:57 AM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Have Beamdog been buggering around with it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:59 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Weird.<br/>\n<br/>\nWell, try \"using\" them all up...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:15 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok, after firing up one of my PDK characters, I am not showing this - my heroic shield icon looks normal and behaves normally ingame, even after multiple uses, see graphic below.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "2:52 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can see in my second picture that indeed I can use them all up. And get the message \"you have no uses remaining for this feat\" if I try again.<br/>\nWeird it's not the same for you. Did you test with *many* attempted uses? Like 100+<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:17 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, I did.<br/>\n<br/>\nI never got any limited numbers for the feat.<br/>\n<br/>\nNot on the QBar and not on the Radial.<br/>\n<br/>\nNow, I know that WoG changed the feat, so that may be overriding BeamDog's version of Heroic Shield.\u00a0 I haven't tried a non-WoG version of a PDK.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:27 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:13 PM - Oct 25, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"27369\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27369&amp;sid=7017895f2a26938ea880b07b978202b4#p27369\">\u2191</a><div class=\"responsive-hide\">Oct 25, 2022</div></cite>...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!</div></blockquote>\nIf you want to be good at this, you have to know the ropes. <br/>\nI think this is a fine game to be obsessed with.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:15 AM - Oct 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, I agree Mick (few more so - and I'm still learning), but was just inserting my trademarked facetiousness!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:38 AM - Oct 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rope-a-dopes! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "036",
+  "name": "\"Order of Jormungandr\"  by Kail Pendragon -- lost",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-by-kail-pendragon-lost-t2354758.html",
+  "author": "Schism",
+  "avatar": "10758818_1510287075.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Schism",
+      "avatar": "10758818_1510287075.jpg",
+      "timestamp": "10:58 PM - Oct 14, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello there.<br/>\n<br/>\nI didn't play NWN for a long time. somehow, I found sweet moments of playing this game in memory.<br/>\nPlayed some time and started to search interesting builds of others.<br/>\n<br/>\nFound an interesting combination of druid/monk/cleric and started to investigate the web.<br/>\nI found that this build was created by Kail Pendragon and it's lost... as well as a huge part of NWN building communities.<br/>\n<br/>\n(Also I have a suspicion that the build was created before the new DS requirements - 30 WIS)<br/>\n<br/>\n<br/>\nDoes anyone remember this build and can reproduce it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:29 PM - Oct 14, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Schism,<br/>\n<br/>\nI will recommend you to download the legacy archives of the ECB forum, but for this time i will give you the original build itself.<br/>\nPlease have in mind that the build is illegal as of 1.69 patch but to fix it is a simple matter of upping the Druid levels to 18, everything else remains the same.<br/>\n<details><summary>Spoiler</summary>\n<br/><br/>\n\nDEX: 10\nWIS: 18 (32)\nCHA: 8\nHitpoints: 360\nSaving Throws (Fortitude/Will/Reflex): 25/35/16\nAB (max, naked): 26 (melee), 37 (ranged)\nSpell Casting: Cleric(9),Druid(7)\n<br/><br/><strong>LVL BREAKDOWN</strong>\n02: Druid(2)\n04: Druid(4): WIS+1, (WIS=19)\n06: Druid(6): Zen Archery\n08: Druid(8): WIS+1, (WIS=20)\n10: Cleric(2)\n12: Cleric(4): WIS+1, Greater Spell Penetration, (WIS=21)\n14: Cleric(6)\n16: Cleric(8): WIS+1, (WIS=22)\n18: Cleric(10): Improved Critical: Unarmed\n20: Cleric(12): WIS+1, (WIS=23)\n22: Cleric(14)\n24: Cleric(16): WIS+1, Great Wisdom II, (WIS=26)\n26: Cleric(18)\n28: Druid(9): WIS+1, (WIS=28)\n30: Druid(11): Great Wisdom IV, (WIS=29)\n32: Druid(13): WIS+1, (WIS=30)\n34: Cleric(20)\n36: Cleric(22): WIS+1, Epic Spell Penetration, (WIS=31)\n38: Cleric(24)\n40: Cleric(25): WIS+1, (WIS=32)\n</details>Also for your convenience, here is where the Legacy ECB Archives can be found. You just DL them to your HD and you open them whenever you want to search for a build.<br/>\n<br/>\n<strong>Legacy ECB Archives </strong>=&gt;&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... r-builders</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Schism",
+      "avatar": "10758818_1510287075.jpg",
+      "timestamp": "12:27 AM - Oct 15, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Valerfor,<br/>\n<br/>\nI don't even know which of these made me happier =)<br/>\n<br/>\nIt took a while to fix search page (No database found: Chrome CORS blocked the search result page).<br/>\nBut finally, I have all of these sweeties.<br/>\n<br/>\nThanks a lot!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

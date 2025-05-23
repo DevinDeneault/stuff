@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "997",
+  "name": "Requesting build!Arelith ninja Rogue/Monk/Shadowdancer",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/requesting-build-arelith-ninja-rogue-monk-shadowda-t2354721.html",
+  "author": "FairyMaster",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "FairyMaster",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:50 PM - Jul 15, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi!<br/>\n I plan to build a lawful neutral ninja shadowdancer that is quite sneaky and also able to deal decent sneak attack damage.<br/>\n How should I do it I wonder...?Rogue skills are for trapping while monk skills are for awareness.He should be as close to a real life ninja as possible,even though not very strong.<br/>\n Race:Human\u00a0<br/>\n Server:Arelith<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:20 AM - Jul 16, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just threw this together for you. Unfortunately, there was no room for Improved Critical. the higher your Set trap skill, the higher the DC of traps you set, so I maxxed it. I also maxxed Disable trap to have the best chance of handling traps set by other players. UMD 33 will let you use any scroll.<br/>\n<br/>\n You could also optionally add a third gift for +2 WIS, which would give you +1 Will save and +1 AC. If you don't want to use gifts, each of which costs you a 1-point ECL penalty, causing you level more slowly, I could easy change it to use 1 gift (DEX only), or no gifts.<br/>\n<br/>\n It just occurred to me that it might be a good idea to replace those last two Great Dexterity feats with Epic Prowess and Armor Skin. This would result in no change for your AB, +1 for your AB, and -1 for your Reflex Saves. The down side is you would lose one point on some skills, like Hide and Move Silently and Set Trap.<br/>\n<br/>\n Something else just occurred to me. Maybe HiPS is nerfed in Arelith. If so, you might be better off with Fighter as your third class.<br/>\n<br/>\nSpoiler [+]<br/>\n<br/>\n Arelith Sneaky Ninja (Rogue 16 / Monk 9 / Shadowdancer 5)<br/>\n Human, Any Lawful<br/>\n Playable 1 - 30<br/>\n Only legal on Arelith with Gifts for +2 DEX and +2 INT.<br/>\n<br/>\n Abilities:<br/>\n STR: 14<br/>\n DEX: 18 (28)<br/>\n CON: 12<br/>\n WIS: 10<br/>\n INT: 16<br/>\n CHA: 10<br/>\n<br/>\n Leveling Guide:<br/>\n Human: (Quick to Master)<br/>\n 01: Rogue(1): Dodge, Blind Fight<br/>\n 02: Rogue(2): {Evasion}<br/>\n 03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}<br/>\n 04: Monk(1): DEX+1, {Cleave, Improved Unarmed Strike, Stunning Fist}, (DEX=19)<br/>\n 05: Monk(2): {Deflect Arrows}<br/>\n 06: Monk(3): Weapon Focus: Kama<br/>\n 07: Rogue(4)<br/>\n 08: Rogue(5): DEX+1, (DEX=20)<br/>\n 09: Monk(4): Two-Weapon Fighting<br/>\n 10: Rogue(6)<br/>\n 11: Rogue(7)<br/>\n 12: Monk(5): DEX+1, Ambidexterity, (DEX=21)<br/>\n 13: Rogue(8)<br/>\n 14: Rogue(9)<br/>\n 15: Monk(6): Improved Two-Weapon Fighting, {Knockdown, Improved Knockdown}<br/>\n 16: Rogue(10): DEX+1, Crippling Strike, (DEX=22)<br/>\n 17: Monk(7)<br/>\n 18: Rogue(11): Mobility<br/>\n 19: Monk(8)<br/>\n 20: Rogue(12): DEX+1, (DEX=23)<br/>\n 21: Shadowdancer(1): Epic Weapon Focus: Kama, {Hide in Plain Sight}<br/>\n 22: Shadowdancer(2): {Darkvision}<br/>\n 23: Shadowdancer(3)<br/>\n 24: Rogue(13): DEX+1, Great Dexterity I, Slippery Mind, (DEX=25)<br/>\n 25: Shadowdancer(4)<br/>\n 26: Rogue(14)<br/>\n 27: Shadowdancer(5): Great Dexterity II, {Defensive Roll}, (DEX=26)<br/>\n 28: Rogue(15): DEX+1, (DEX=27)<br/>\n 29: Monk(9): {Improved Evasion}<br/>\n 30: Rogue(16): Great Dexterity III, Epic Dodge, (DEX=28)<br/>\n<br/>\n Stats:<br/>\n Hitpoints: 238<br/>\n Skillpoints: 350<br/>\n Saving Throws (Fortitude/Will/Reflex): 16/15/28<br/>\n Saving Throw bonuses: Spells: +3, Mind Effects: +2, Traps: +4<br/>\n BAB: 20<br/>\n AB (max, naked): 32 (melee), 29 (ranged)<br/>\n AC (naked/mundane armor/shield only): 26/26<br/>\n Spell Casting: <br/>\n Alignment Changes: 0<br/>\n<br/>\n Skills:<br/>\n Disable Trap 33(38), Discipline 32(34), Hide 33(42), Listen 33(33), Move Silently 33(42), Open Lock 33(42), Search 33(36), Set Trap 33(44), Spellcraft 12(15), Tumble 30(39), UMD 33(33)<br/>\n<br/>\n 01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Spellcraft(2), Tumble(4), UMD(4), Save(8)<br/>\n 02: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(11)<br/>\n 03: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Tumble(1), UMD(1), Save(12)<br/>\n 04: Discipline(7), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(9)<br/>\n 05: Discipline(1), Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), Save(10)<br/>\n 06: Discipline(1), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(13)<br/>\n 07: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Open Lock(3), Search(4), Set Trap(4), Spellcraft(1), Tumble(1), UMD(4)<br/>\n 08: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(2)<br/>\n 09: Discipline(3), Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), Save(1)<br/>\n 10: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(2), Set Trap(2), Tumble(1), UMD(2)<br/>\n 11: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Tumble(1), UMD(1), Save(1)<br/>\n 12: Discipline(3), Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(2)<br/>\n 13: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spellcraft(1), Tumble(1), UMD(2)<br/>\n 14: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(3), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(1)<br/>\n 15: Discipline(3), Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1)<br/>\n 16: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(1), UMD(2)<br/>\n 17: Discipline(2), Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1)<br/>\n 18: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(1), UMD(2)<br/>\n 19: Discipline(2), Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1)<br/>\n 20: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(1), UMD(2)<br/>\n 21: Hide(1), Listen(1), Move Silently(1), Search(1), Spellcraft(1), Tumble(1), Save(3)<br/>\n 22: Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(8)<br/>\n 23: Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(13)<br/>\n 24: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Open Lock(8), Search(1), Set Trap(4), Tumble(1), UMD(4)<br/>\n 25: Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(5)<br/>\n 26: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Open Lock(5), Search(1), Set Trap(2), Tumble(1), UMD(2), Save(1)<br/>\n 27: Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(6)<br/>\n 28: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), UMD(2), Save(6)<br/>\n 29: Discipline(10), Hide(1), Listen(1), Move Silently(1), Save(1)<br/>\n 30: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Open Lock(2), Search(2), Set Trap(2), UMD(2)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:30 AM - Jul 16, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong><hr/>\n Something else just occurred to me. Maybe HiPS is nerfed in Arelith. If so, you might be better off with Fighter as your third class.<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Apparently HiPS on Arelith comes at SD 5, not 1, so it's still viable with this build. It's also only useable a few times p/day and there has to be a \"cooling off\" period after taking it each time.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "FairyMaster",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:37 PM - Jul 17, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just think you've valued int a bit too much...<br/>\n I would prefer my ninja to have more wisdom because...<br/>\n it makes more sense rp wise and more AC.<br/>\n<br/>\n My ninja would be fine at 14 or 12 int with higher wisdom.<br/>\n<br/>\n Another thing is...I plan to be a katana dual wielder with him.<br/>\n Is it okay?Remember that katana are light and finesseable here<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:17 AM - Jul 18, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The thing is that Rogue is all about those skills, and if you have lower INT, you have fewer skills.<br/>\n<br/>\n If you use kamas, you get the Monk's unarmed attack progression, which would give you 5 attacks per round with your main hand in this build, but if you were to use katanas instead, you would get only 3 attacks per round with the main hand. Both would get 2 attacks with the off hand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "FairyMaster",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:23 PM - Mar 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nThe thing is that Rogue is all about those skills, and if you have lower INT, you have fewer skills.<br/>\n<br/>\n If you use kamas, you get the Monk's unarmed attack progression, which would give you 5 attacks per round with your main hand in this build, but if you were to use katanas instead, you would get only 3 attacks per round with the main hand. Both would get 2 attacks with the off hand.\n</div></blockquote>\nLong time no thread.<br/>\nI just want to ask you one more question...<br/>\nIs there a way to pump wisdom a little bit?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:33 PM - Mar 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You could start with 16 DEX (including the +2 from the gift) and use the freed-up,points to raise WIS to 14. You would get +1 AC, and +2 Will saves, at the cost of -1 AB and -1 Reflex saves.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

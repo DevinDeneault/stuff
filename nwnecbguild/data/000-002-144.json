@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "144",
+  "name": "Change to how Uncanny Dodge II works",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/change-to-how-uncanny-dodge-ii-works-t2355369.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:12 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Apparently Uncanny Dodge II changed since patch 1.74<br/>\n<br/>\nIt basically makes anyone who has it \"immune\" to Sneaks from flanking if they are higher level (it does say combined levels of Barb, Rogue, Blackguard, Assassin) than the attacking sneak attacker.<br/>\n<br/>\nFlatfooted still produces the expected results (i.e. one can sneak attack them).<br/>\n<br/>\nWhat this really changes (other than PvP) are all the Monsters that have Uncanny Dodge II and more levels in the above classes as any Rogue (or combination of above with sneaks).\u00a0 Kinda really put a massive crimp in the Gloomrazer build from GDL that I was levelling.<br/>\n<br/>\nOthers might want to test this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "12:53 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It can be helpful in PvM, depending on how the builders make monsters. Creatures that have high Death/Sneak Attack die but no Ass/BG/Rog levels are a lot easier to fight with the changes. This only matters if the builders add Death/Sneak Attack via feats rather than actually giving the monsters class levels in a Death/Sneak Attack class though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:13 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is a 3.5 D&amp;D change to Uncanny Dodge &amp; it shouldn't be on an otherwise unaltered\u00a0 3.0 Neverwinter Nights ruleset. <br/>\n<br/>\nWhy the guys doing the patch-work select only singular elements from the ruleset &amp; leave others as they are?<br/>\n<br/>\nAnyway, I suppose this is a net gain for the Barbarians out there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "4:17 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"19255\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19255&amp;sid=9d5f85e86eb5df7da3b0591c9ff59e31#p19255\">\u2191</a><div class=\"responsive-hide\">Feb 22, 2020</div></cite>\nWhat this really changes (other than PvP) are all the Monsters that have Uncanny Dodge II and more levels in the above classes as any Rogue (or combination of above with sneaks).\u00a0 Kinda really put a massive crimp in the Gloomrazer build from GDL that I was levelling.\n</div></blockquote>\nYes, this was one of their \"changes\".\u00a0 In effect it is like the Dwarven Defenders Stance in that it grants protection against Flanking.\u00a0 As Valerfor pointed out, this is nice boon to Barbarians, but it basically waters down the Dwarven Defender since now anyone with Uncanny Dodge II (not just Uncanny Dodge) now has the Defensive Awareness feat.\u00a0 Not sure if that's what Beamdog intended, but I'm going to gripe about it on their website.<br/>\n<br/>\nEventually though, you should outgain your opponent in a Gloomrazor-style build since it nets 24 Rogue levels.\u00a0 Unless your opponent has a butt-ton of Rogue/Assn/Barb levels.\u00a0 Then you'll need to resort to some IKD or attacking from a stealthed position.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:41 AM - Feb 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah - I was enjoying some XP hunting until I ran into Bodyguards of Trok...<br/>\n<br/>\nJust nasty!  Took everything I had just to deal with one of those beasts!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "6:51 AM - Feb 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">See Sherincall's comments to my question:\u00a0<a class=\"postlink\" href=\"https://forums.beamdog.com/discussion/78400/uncanny-dodge-ii#latest\" rel=\"noreferrer\" target=\"_blank\">Uncanny Dodge</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:56 AM - Feb 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you very much for this information, GDL!<br/>\n<br/>\nI had no idea that this was present in vanilla NWN ala patch 1.69 (albeit in a bugged form, apparently).<br/>\n<br/>\nSo, it looks like it is WAD.<br/>\n<br/>\nThis basically means that creatures can be built in the Toolset that do not have immunity to sneaks that are, in essence, immune to sneaks because they can have more than 40 levels (though not concurrently - but the case of UD, the Classes <strong>ADD</strong> to each other for the effect), outmatching Players.<br/>\n<br/>\nMan, I wonder what other \"gems\" are hidden away, that no-one knows about...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

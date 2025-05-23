@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "015",
+  "name": "[Request] Pure Paladin lvl40",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-pure-paladin-lvl40-t2354801.html",
+  "author": "Nekro83",
+  "avatar": "no_avatar.png",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Nekro83",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:24 PM - Dec 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi! I am trying to build a pure Tyr paladin. I'd like something worth in PvM and PvP versus evil aligned.<br/>\n<br/>\nThe server where i play has lot of modifications that only take place if you go pure class.<br/>\n<br/>\nHere they are (the normal feats and bonus stat points still apply):<br/>\n<br/>\nBonus feats:<br/>\n-lvl 2 Extra Smite<br/>\n-Lvl 5 Bonus stat point<br/>\n-Lvl 6 Divine power<br/>\n-Lvl 9 Divine shield<br/>\n-Lvl 10 Bonus stat point + Great Smite1 (if cha 19)<br/>\n-Lvl 15 Bonus stat point + Great smite2 (if cha 21)<br/>\n-Lvl 20 Bonus stat point + Great smite 3 (if cha 23)<br/>\n-lvl 25 Bonus stat point + bonus Great smite (if cha 25)<br/>\n-lvl 30 Bonus sta point + bonus great smite (if cha 25)<br/>\n-lvl 35 Bonus stat point<br/>\n-lvl 40 bonus stat point<br/>\n<br/>\nEpic feat progression is 1 every 3 levels, Great strenght, great che and great dex are class epic feats.<br/>\n<br/>\nMy thanks to anyone who whises to help :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:59 PM - Dec 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, not many ways you can build that it is obvious that they want to support the classic charismatic knight so you need to focus on that (at least at first) and then put your remaining points into strength. I am assuming this is for a level forty environment and\u00a0 that devastating critical is allowed (you have to tell us how effective it can be though.) The bonus stats help a lot in this build as do the bonus feats.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Nekro83",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:39 PM - Dec 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Devastating critical has beeen modified, now it increases the crit multiplier ( es x2 becomes x3, x4 becomes x5. does not apply to scimitars and rapiers)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:36 AM - Dec 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, here is your Paladin Necro, I worked on it for a couple of hours and although these days I don't make NwN builds anymore and I am a bit rusty, I think it came up fairly competent. Great smite 10 and Devastating Critical plus a good 42 AB naked will have you covered in both PvE and PvP. This build goes over 80 AB with just a good taunt and some buffs while attempting a great smite and the damage is bonkers if you have a critical one. I would like a bit more hit points for a melee character personally but with divine shield giving you up to 14 more AC, you won't be exactly what we could call \"helpless\". Finally, some epic feats might need some shuffling around, depending what you want to achieve first, but that is easy to tinker with. <br/>\n<br/>\n<br/>\n<span style=\"color:#990000\"><strong>TYR'S EXALTED CHAMPION</strong></span><br/>\n<span style=\"color:#990000\">{PALADIN 40}</span><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/j6Dbl5d.jpg\" /><br/>\n<br/>\nRACE: Human<br/>\nALIGNMENT: Lawful Good<br/>\nPLAYABILITY: PvM &amp; PvP 1-40 lvl<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR \u2013\u00a0 16 (<strong>26</strong>)<br/>\nDEX \u2013\u00a0 08<br/>\nCON \u2013 10<br/>\nINT \u2013\u00a0\u00a0 10<br/>\nWIS \u2013\u00a0 14<br/>\nCHA \u2013 16 (<strong>26</strong>)<br/>\n<br/>\nHit Points: 440<br/>\n<br/>\nSkill Points: 129<br/>\nDiscipline : 43 (51)<br/>\nPersuade: 3 (11)<br/>\nTaunt: 43 (51)<br/>\nTumble: 20 (19) cc<br/>\n<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 30/ 23/ 26<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 36/ 29/ 32 (w/ buffed charisma)<br/>\n<br/>\nNaked/ Armoured AC: 15/ 26 (full plate &amp; shield)<br/>\n<br/>\n<br/>\nBAB: 30 (four attacks)<br/>\n<br/>\nAB: +42/ +37/ +32/ +27 (Longsword)<br/>\n<br/>\nDMG: 1d8 +8/ 17-20 x3 (Longsword)<br/>\n<br/>\n<br/>\nSpellcasting: Paladin 4<sup>th</sup> Circle of Spells (Undispellable)<br/>\n<br/>\nDevastating Critical: Improves Longsword's critical hits to x3!<br/>\n<br/>\nLay on Hands: 320 hit points, 560 hit points (w/ buffed charisma)<br/>\n<br/>\nDivine Might: 8 rounds/ +8 dodge AC, 14 rounds/ +14 dodge AC (w/ buffed charisma)<br/>\n<br/>\nDivine Shield: 8 rounds/ +8 divine damage, 14 rounds/ +14 divine damage (w/ buffed charisma)<br/>\n<br/>\nGreat Smite X: 3 times/ day +440 dmg on hit vs evil, +1320 dmg on critical hit vs evil, +8/ +14 to hit!<br/>\n<br/>\nLEVELING GUIDE:<br/>\n01) Paladin (01): WF: Longsword, Power Attack<br/>\n02) Paladin (02): Extra Smite<br/>\n03) Paladin (03): Cleave<br/>\n04) Paladin (04): {CHA +1}<br/>\n05) Paladin (05): {CHA +1}<br/>\n06) Paladin (06): Divine Power, Blind Fight<br/>\n07) Paladin (07): <br/>\n08) Paladin (08): {CHA +1}<br/>\n09) Paladin (09): Divine Shield, IC: Longsword<br/>\n10) Paladin (10): Great Smite (1), {CHA +1}<br/>\n11) Paladin (11): <br/>\n12) Paladin (12): {CHA +1}, Toughness<br/>\n13) Paladin (13): <br/>\n14) Paladin (14): <br/>\n15) Paladin (15): Great Smite (2), {CHA +1}, Extend Spell<br/>\n16) Paladin (16): {CHA +1}<br/>\n17) Paladin (17): <br/>\n18) Paladin (18): Great Cleave<br/>\n19) Paladin (19): <br/>\n20) Paladin (20): Great Smite (3), {CHA +1}, {CHA +1}<br/>\n21) Paladin (21): Great Strength (1)<br/>\n22) Paladin (22): <br/>\n23) Paladin (23): EWF: Longsword<br/>\n24) Paladin (24): {STR +1}, Great Smite (4)<br/>\n25) Paladin (25): {STR +1}, Great Smite (5)<br/>\n26) Paladin (26): Armour Skin<br/>\n27) Paladin (27): Great Smite (6)<br/>\n28) Paladin (28): {STR +1}<br/>\n29) Paladin (29): Epic Prowess<br/>\n30) Paladin (30): {STR +1}, Great Smite (7)<br/>\n31) Paladin (31): <br/>\n32) Paladin (32): {STR +1}, Great Smite (8)<br/>\n33) Paladin (33): Great Smite (9)<br/>\n34) Paladin (34): <br/>\n35) Paladin (35): {STR +1}, Great Smite (10)<br/>\n36) Paladin (36): {STR +1}, Great Strength (2)<br/>\n37) Paladin (37): <br/>\n38) Paladin (38): Overwhelming Critical: Longsword<br/>\n39) Paladin (39): Devastating Critical: Longsword<br/>\n40) Paladin (40): {STR +1}, {CHA +1}<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Nekro83",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:24 AM - Dec 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My Thanks! I like it very much :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

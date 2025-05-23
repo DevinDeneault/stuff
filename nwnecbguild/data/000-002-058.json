@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "058",
+  "name": "Damage Calculation questiion",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-calculation-questiion-t2355950.html",
+  "author": "yoppil",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "yoppil",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:10 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello to all guildmembers!<br/>\n<br/>\nI'm try figure out how damage calculation works in NWN1.\u00a0 On d6 roll, for example, probability is:<br/>\n1) 1,2,3,4,5,6 same for all rolls<br/>\n2) higher chance for 4 and 3, and less chance for 1 and 6?<br/>\n<br/>\np.s. according to this article on NWNVault<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/damage-calculation-formula-dice\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... rmula-dice</a><br/>\nit seems 2) variant.<br/>\n<br/>\np.s.s. As far as i understand mechanics of game, best 1h weapon will be battleaxe, if I'm encounter enemy with relatively high DC, (for example 70% chance to hit with 1st attack in row), and\u00a0relatively high DR, compare to scimitar (with equal feats and\u00a0additional damage of other types on weapon)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:19 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, actually, for any weapon that does a straight amount of damage (no conglomeration) like this (1-6), the chance is equal for 1,2,3,4,5 or 6.<br/>\n<br/>\nThere really is no \"higher chance\" for a 3 or 4 here.<br/>\n<br/>\nWhere that starts to come into play is 2-8 (2d4), 2-12 (2d6), etc.\u00a0 Then the chances that the middle numbers come up increases.<br/>\n<br/>\nSo no, the Battleaxe is not the best 1-h weapon in the game.\u00a0 It also does 1d8, not 1d6.\u00a0 Maybe you mean the handaxe??<br/>\n<br/>\nAlso, to compare weapons like this, you also need to factor in the crit range and bonus imo.<br/>\n<br/>\nIf what you mean here is Battleaxe vs Scimitar, and you are only talking base damage, then yes, Battleaxe&gt;Scimitar (1d8 &gt; 1d6).\u00a0 <br/>\n<br/>\nOtherwise, a Bastard Sword/Katana does 1d10&gt;1d8 of the Battleaxe.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "yoppil",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:43 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, webshaman for light-speed replay!<br/>\n<br/>\n<blockquote><div>So no, the Battleaxe is not the best 1-h weapon in the game.\u00a0 It also does 1d8, not 1d6.\u00a0 Maybe you mean the handaxe??</div></blockquote>\nI just take d6 damage as example for understanding game mechanics.\u00a0 <br/>\nFor calculation Battleaxe's damage I'm use spreadsheet form NWNVault (and done some calculations myself), and take into a count these parameters:<br/>\n1) 1d8 base damage<br/>\n2) CritMuli x3<br/>\n3) Crit range 18-20 (increased from Improved critical+keen)<br/>\n4) STR modifier 1 (for One-handed)<br/>\n5) Chance to hit manual set to 16 (meaning that i need roll from 16 to 20 to hit)<br/>\n6) Damage bonus manual set to 10 (just for example to add approx. damage enhancements)<br/>\n7) Attribute bonus damage manual set to 10 (to calc STR modifier)<br/>\n8) Damage Reduction of target manual set to 5<br/>\nthan calculating average damage per attack with exception that enemy is not undead . That average damage per attack I'm compare with Scimitar (with same bonuses and feats)<br/>\n<br/>\nAs far as I'm understand, scimitar is superior, than i can easly hit target within its threat range. If target harder to hit, than crit multiplier is more valuable. And if i had 4 attacks per round, and 1-st has around 70% chance to hit target, than 2,3,4 attacks have even less chance to hit target. <br/>\n\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:49 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, if one puts it like that (the overwhelming slant is the \"need a 16+ to hit\" criteria), then yes, that would be true EXCEPT that there is this meddling little thang called a Dwarven Waraxe. 1d10&gt;1d8 (x3 crit is the same, yadda yadda yadda).<br/>\n<br/>\nOopsie!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "yoppil",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:13 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, webshaman yet again!<br/>\nlittle Dwarven Waraxe gets out of my sight ;))<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:45 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello and welcome, <em class=\"mention\">@yoppil</em> !<br/>\n<br/>\nHope you don't mind, but I've shifted this discussion over to the General Discussion forum - it seemed more appropriate.<br/>\n<br/>\nAnd if it's purely a damage calculation you're looking for, then those 2-handers with their 1.5 damage per hit have to be factored in, surely? (And if you want to leave melee weapons behind, the Arcane Archer hoves into view with its ranged +1 damage on every other level taken.)<br/>\n<br/>\nAs with pretty much all things NwN, there are many factors that come into play. What weapons can the PC use? Are enemies susceptible to crits/ sneaks? Will there be lots of undead/ constructs where you play? (Ranger's Bane of Enemies comes to mind as a factor there.) Which classes will you be taking? What race will you be playing? How many hits achieving damage can you anticipate per round/ flurry? (Monk, anyone?) And so it goes on...<br/>\n<br/>\nBut the absolutely <em>critical </em>thing is - how much will you enjoy playing your character?<br/>\n<br/>\nMaths only takes you so far, after all.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:03 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think he was making the case for Battleaxe=best 1h weapon under special circumstances.<br/>\n<br/>\nBut forgot about Dwarven Waraxe.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:25 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"26706\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26706&amp;sid=42e285eca30ad7c36b6d016136d5746e#p26706\">\u2191</a><div class=\"responsive-hide\">May 26, 2022</div></cite>I think he was making the case for Battleaxe=best 1h weapon under special circumstances.<br/>\n<br/>\nBut forgot about Dwarven Waraxe.</div></blockquote>\nAh, I took it too far again. My bad.<br/>\n<br/>\nBut still, I did love your line that \"there really is no 'higher chance' for a 3 or 4 here.\" Thus spake the Roller of Many 1s!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:46 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Notice I did not say \"you WILL roll many, many 1s!\" although I was wont to do so! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "yoppil",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:02 PM - May 26, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"26705\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26705&amp;sid=42e285eca30ad7c36b6d016136d5746e#p26705\">\u2191</a><div class=\"responsive-hide\">May 26, 2022</div></cite>Hello and welcome, <em class=\"mention\">@yoppil</em> !<br/>\n<br/>\nHope you don't mind, but I've shifted this discussion over to the General Discussion forum - it seemed more appropriate.<br/>\n<br/>\nAnd if it's purely a damage calculation you're looking for, then those 2-handers with their 1.5 damage per hit have to be factored in, surely? (And if you want to leave melee weapons behind, the Arcane Archer hoves into view with its ranged +1 damage on every other level taken.)<br/>\n<br/>\nAs with pretty much all things NwN, there are many factors that come into play. What weapons can the PC use? Are enemies susceptible to crits/ sneaks? Will there be lots of undead/ constructs where you play? (Ranger's Bane of Enemies comes to mind as a factor there.) Which classes will you be taking? What race will you be playing? How many hits achieving damage can you anticipate per round/ flurry? (Monk, anyone?) And so it goes on...<br/>\n<br/>\nBut the absolutely <em>critical </em>thing is - how much will you enjoy playing your character?<br/>\n<br/>\nMaths only takes you so far, after all.<br/>\n<br/>\nCheers</div></blockquote>\nHello, Stagmeister!<br/>\nOkey, if it fits to other forum thread - no problem at all :)<br/>\nI'm play NWN long time ago, mostly on mage-type characters,\u00a0 and now, try theorycraft board'n'sword hero for playing original company (OC) and DLC.\u00a0 I know, that are some type of weapon more common like longswords, and some other - less, like exotic. Undeads and constructs a pretty common in OC, if i remember correctly.\u00a0 There are many great builds on this forum and on the internet,\u00a0 many of that builds suggest to take scimitar as good 1-h weapon. Trying to figure out game mechanics, and enjoy theorycraft something by myself. <br/>\n<br/>\np.s. I'm sorry if the reasoning sounded too confident,\u00a0 I don't pretend to be \"the builder of year\" or something like that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:13 AM - May 27, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, Scimi just has too much going for it.\u00a0 It's easy to get (Druids even get it, fer cryin' out loud!), has a great crit range, and is slashing.<br/>\n<br/>\nWhy D&amp;D decided that the Scimi was \"teh chizz\" 1-h weapon of all time is beyond me!\u00a0 Should have been longsword imo.\u00a0 And longsword should be slashing/piercing, really.\u00a0 Meh.<br/>\n<br/>\nOne of my pet peeves.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

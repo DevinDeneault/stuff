@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "950",
+  "name": "Low Magic Melee Mage",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/low-magic-melee-mage-t2354918.html",
+  "author": "blur927",
+  "avatar": "10235240_1510287070.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "blur927",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:10 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys,<br/>\n<br/>\nI'm trying to build out a melee mage concept and would like your help. I've read HipMaestro's melee mage thread and thought it sounded like a lot of fun. The server I'm trying to build for is Anphillia:\u00a0<br/>\n<a class=\"postlink\" href=\"http://anphillia.pw/w/index.php/Mechanics_changes\" rel=\"noreferrer\" target=\"_blank\">http://anphillia.pw/w/index.php/Mechanics_changes</a><br/>\n<br/>\nThe level cap is 16, and the server itself is pretty difficult. Rest times are once every 20-30 minutes I think so that might make things<br/>\ntricky at earlier levels, but most of the time you're playing with team mates so I can fall back as a buffbot / support character.<br/>\n<br/>\nAnyway, here is what I have so far:<br/>\n<br/>\nHuman Wizard<br/>\n<br/>\nIllusionist 16<br/>\n<br/>\nStr: 16<br/>\nDex: 12<br/>\nCon: 14<br/>\nInt: 16 (20)<br/>\nWis: 8<br/>\nCha: 8<br/>\n<br/>\n01: Illusionist: Martial Weapon Proficiency, Toughness<br/>\n02: Illusionist\u00a0<br/>\n03: Illusionist: Blind Fight<br/>\n04: Illusionist\u00a0<br/>\n05: Illusionist: Extend Spell<br/>\n06: Illusionist:\u00a0 Knockdown<br/>\n07: Illusionist\u00a0<br/>\n08: Illusionist\u00a0<br/>\n09: Illusionist: Expertise<br/>\n10: Illusionist: Empower Spell<br/>\n11: Illusionist\u00a0<br/>\n12: Illusionist: Improved Expertise<br/>\n13: Illusionist\u00a0<br/>\n14: Illusionist\u00a0<br/>\n15: Illusionist: Maximize Spell<br/>\n16: Illusionist\u00a0<br/>\n<br/>\nSkills would be concentration, heal, tumble, spellcraft and discipline<br/>\n<br/>\nThe main plan would be buff up myself and any teammates or a summon and go in with a greatsword. I'm not sure I need expertise with DR and concealment, but I'll have pretty low AC in robes otherwise and if I get focused on I imagine stoneskins etc dropping pretty fast.\u00a0<br/>\n<br/>\nWhat do you guys think?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:53 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hm, what about illusionist(15)/fighter(1)?<br/>\n<br/>\nYou can then wear full plate which will give you +8AC and cast your combat spells stilled. You lose almost nothing from your wizard powers but you gain a lot of martial prowess instead. When you are out of combat (pre-buffing) you can be without it and cast your spells extended/empowered but when in combat you can cast them stilled.\u00a0<br/>\n<br/>\n<br/>\nHuman Illusionist(15)/ Fighter(1)<br/>\n<br/>\nStr:\u00a0\u00a0 16 (<strong>18</strong>)<br/>\nDex:\u00a0\u00a0 8<br/>\nCon: 16<br/>\nInt:\u00a0\u00a0\u00a0 16 (<strong>18</strong>)<br/>\nWis:\u00a0\u00a0\u00a0 8<br/>\nCha:\u00a0\u00a0 8<br/>\n<br/>\n01: Fighter(01): WF: Greatsword, Expertise, Toughness<br/>\n02: Illusionist(01): Scribe Scroll, Pixie Familiar<br/>\n03: Illusionist(02): Blind-Fight<br/>\n04: Illusionist(03): {INT +1}<br/>\n05: Illusionist(04): <br/>\n06: Illusionist(05): Still Spell, Knockdown<br/>\n07: Illusionist(06): <br/>\n08: Illusionist(07): {INT +1}<br/>\n09: Illusionist(08): Extend Spell<br/>\n10: Illusionist(09): <br/>\n11: Illusionist(10): Empower Spell<br/>\n12: Illusionist(11): Improved Knockdown, {STR +1}<br/>\n13: Illusionist(12): <br/>\n14: Illusionist(13): <br/>\n15: Illusionist(14): Improved Critical: Greatsword<br/>\n16: Illusionist(15): Maximize Spell, {STR +1}<br/>\n<br/>\n*You can opt to take Dwarf instead and gain darkvision, +1 fortitude &amp; the other Dwarven bonuses at no loss.<br/>\n\u00a0To do that, simply get rid of \"toughness\" and instead start with Constitution(18).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:02 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n*You can opt to take Dwarf instead and gain darkvision, +1 fortitude &amp; the other Dwarven bonuses at no loss.<br/>\nTo do that, simply get rid of \"toughness\" and instead start with Constitution(18).\n</div></blockquote>\nHope you don't mind me being a picky git here, but there would be the loss of 19 skill points.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:06 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On a build with 18(Int) and no rogue/bard levels to spend them on? No loss, really.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:26 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did say I was being a picky git! I suppose I try to keep an eye on the skill points because a lot of people seem to treat them without due respect (I know you are not one of those). That and Mick and Hip have drilled paying attention to them into me, so I now can't help myself.<br/>\n<br/>\nBut you're right.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "blur927",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:20 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ooh I like the dip into fighter. Saves a feat and gives me the option of using a sword and board if necessary.<br/>\n<br/>\nDo you think my AB will be high enough outside of Tenser's windows? It is pretty important to reliably hit around 35 AC-ish creatures if melee damage is going to be my main source, so around 25 ab would be the goal<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:15 PM - Jul 09, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>blur927 wrote:</cite>\nOoh I like the dip into fighter. Saves a feat and gives me the option of using a sword and board if necessary.<br/>\n<br/>\nDo you think my AB will be high enough outside of Tenser's windows? It is pretty important to reliably hit around 35 AC-ish creatures if melee damage is going to be my main source, so around 25 ab would be the goal\n</div></blockquote>\n\nThe AB at lvl 16 will be 20-21 with empowered Bull's and GMW. You also have short bursts of True strike.<br/>\nBut the idea of the melee mage is to melee the mooks and save the spells for the bosses.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:44 AM - Jul 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can do 25 AB aye, but this is not the way of the war-mage. Instead, throw a stilled Bigby's VI or VII to the boss to completely neutralize it and then let the warriors finish it off while you observe the battlefield. If the boss is somehow immune to those OP spells then shrug and just choke it to death with Isaack's greater missile storms till he is nothing but a smear on the ground. Wizards are so overpowered that is not even funny to mention it. War-wizards that can also take a big two-hander and start chopping on their own, and then can pick every lock and disarm every trap with their familiar...But yes, it is preferable to simply use your melee prowess for the mobs conserving your \"big spells\" for the tough encounters, that give your party a hard time. You will be invaluable to your party and also capable of soloing on your own should you need to.<br/>\n<br/>\nAs to how you can have 25 AB from just 8 BAB...<br/>\nAB: 8(bab) +4(18 str) +5(gmw) +3(emp. bull's) +3(belt+gloves of str) +2 (aid+bless pots). <br/>\nThrow in an extended haste &amp; keen edge + flame weapon &amp; you will hit like a truck with your greatsword.<br/>\n<br/>\nHave fun with your war-wizard ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:05 PM - Jul 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Valerfor you are too modest.  Your build also has WF!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "blur927",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:03 PM - Jul 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n[...] Instead, throw a stilled Bigby's VI or VII to the boss to completely neutralize it and then let the warriors finish it off while you observe the battlefield. If the boss is somehow immune to those OP spells then shrug and just choke it to death with Isaack's greater missile storms till he is nothing but a smear on the ground. Wizards are so overpowered that is not even funny to mention it. War-wizards that can also take a big two-hander and start chopping on their own, and then can pick every lock and disarm every trap with their familiar...But yes, it is preferable to simply use your melee prowess for the mobs conserving your \"big spells\" for the tough encounters, that give your party a hard time. You will be invaluable to your party and also capable of soloing on your own should you need to. [...]</div></blockquote>\n\nI am embarrassed at how excited that got me :D<br/>\n<br/>\nThank you everyone for your help!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "3:42 PM - Jul 11, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nBut the idea of the melee mage is to melee the mooks and save the spells for the bosses.\n</div></blockquote>\n\nAnd don't forget as a mage you have free access to scribe scroll. \u00a0So before you rest, scribe the leftover spells to scrolls and slowly build up an arsenal for when times get tough or your almost out of spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

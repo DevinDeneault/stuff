@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "022",
+  "name": "Ranger 26/ Bard 4/ RDD 10 - a few questions",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ranger-26-bard-4-rdd-10-a-few-questions-t2354786.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:57 PM - Dec 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All,<br/>\n<br/>\nI've been mulling over a few ideas for a human Ranger 26/ Bard 4/ RDD 10 build. I then had a look at the split in Hip's Fantabulous Contrapulator, and the only one that showed up was Tyr Templar's Dragonborn Ranger \"Striker\", which is a lovely build, but there were a couple of things that weren't really \"me\", so I wondered if I could bounce a few things off you?<br/>\n<br/>\nMy first thought is this (and please excuse shorthand and gaps at this stage in the process):<br/>\n<br/>\nSTR 16 (34)<br/>\nDEX 14 (18)<br/>\nCON 12 (14)<br/>\nWIS 14<br/>\nINT 12 (14)<br/>\nCHA 8 (10)<br/>\n<br/>\n01 Ranger 1 - FE I / {Dual-Wield / Trackless Step} / WF:Shortsword / Blind Fighting<br/>\n02 Ranger 2<br/>\n03 Ranger 3 - Iron Will<br/>\n04 Ranger 4 - DEX+1 (15)<br/>\n05 Ranger 5 - FE II<br/>\n06 Ranger 6 - {Animal Comp} / KD<br/>\n07 Ranger 7<br/>\n08 Ranger 8 - DEX+1 (16)<br/>\n09 Ranger 9 - {ITWF} / ImpCrit: Shortsword<br/>\n10 Ranger 10 - FE III<br/>\n11 Ranger 11<br/>\n12 Ranger 12 - DEX+1 (17) / Great Fort<br/>\n13 Ranger 13<br/>\n14 Ranger 14<br/>\n15 Ranger 15 - FE IV / Toughness<br/>\n16 Ranger 16 - DEX+1 (18)<br/>\n17 Ranger 17<br/>\n18 Ranger 18 - L Reflexes<br/>\n19 Ranger 19<br/>\n20 Ranger 20 - STR+1 (17) / FE V<br/>\n21 Ranger 21 - EWF:Shortsword<br/>\n22 Ranger 22<br/>\n23 Bard 1<br/>\n24 Ranger 23 - STR+1 (18) / BoE / Armor Skin<br/>\n25 RDD 1<br/>\n26 RDD 2 - {STR+2 (20)}<br/>\n27 RDD 3 - Great Str I (21)<br/>\n28 RDD 4 - STR+1 (22) / {STR+2 (24)}<br/>\n29 Bard 2<br/>\n30 RDD 5 - Epic Prowess<br/>\n31 RDD 6<br/>\n32 RDD 7 - STR+1 (25) / {CON+2 (14)}<br/>\n33 Bard 3 - Great Str II (26)<br/>\n34 RDD 8<br/>\n35 RDD 9 - {INT+2 (16)}<br/>\n36 RDD 10 - STR+1 (27) / {STR+4 (31) / CHA+2 (10)} / Great Str III (32)<br/>\n37 Bard 4<br/>\n38 Ranger 24<br/>\n39 Ranger 25 - FE VI / Great Str IV (33)<br/>\n40 Ranger 26 - STR+1 (34) / FE VII<br/>\n<br/>\nHPs: 488<br/>\nSPs: 244 - Conc 28 (30), Disc 43 (55), Lore 8 (10), Listen - or Spot 42 (44), Perform 9 (9), Search 13 (15), Spell 38 (40), Tum 40 (44), UMD 33 (33)<br/>\nSaves: Fort 26, Will 20, Ref 22 (all +8 vs spells)<br/>\nAC: naked 28, chain/bplate 33, + ts 36<br/>\nBAB: 30<br/>\nAB: max, melee 46 - d-w shortswords 44/39/34/29 - 44/39<br/>\n<br/>\nMy concerns are about: saves, which I could improve by losing the full Ranger spread pre-epic, but I was after BoE as fast as seemed reasonable (and keeping BAB as high as I could); whether investing points in DEX harms the belligerence potential, but I'm not terribly fond of swapping armour all the damned time; and that the build won't mature properly until pretty late on, which isn't my normal style.<br/>\n<br/>\nIt's relatively simple to adjust for DevCrit, if desired, and if planned for Aielund, the extra 60 SPs could usefully go into Hide and MS.<br/>\n<br/>\nRegardless, any and all thoughts welcome, thanks!<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Sorry, should have said - the order of taking feats is definitely not set in stone, so suggestions on that are also gratefully received.<br/>\n<br/>\n<strong><em>EDIT 2:</em></strong> Amended to include Valerfor's suggestion and make the epic feats tidier (essentially, tried to not leave too huge a gap on an odd number in STR). Oh, and realised it had to be Dodge rather than Expertise or IKD because INT isn't high enough until well into epic levels.<br/>\n<br/>\n<em><strong>EDIT 3:</strong></em> Ignore the Dodge thing, now dropped for Toughness (and bit more re-juggling of feats). Oh, and, naturally, the FEs will depend on where you play and when you're likely to bump into things.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:09 PM - Dec 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Can i make a quick suggestion?<br/>\n<br/>\nStart with 16 strength/ 14 wisdom &amp; instead of Epic Will take another great strength. Eand result is -2 to will saves but you will have the full array of ranger spells, which is kind of sad not to have them if you are an epic ranger and all ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:21 PM - Dec 01, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You certainly can! It is indeed a good idea, which I'll bring in (dammit, everyone wants me take some blasted spells, and I've resisted for so long...). I'll also confess that boosting DEX as well as STR was at least in part brought about by your own Dodji Domatai build, but I chickened out of taking it as far as you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:31 AM - Dec 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wanted more Dex for taking Epic Dodge, you don't need that much. You are fine with 18 Dex in your character. With your spells (Cat's Grace) &amp; some modest equipment you can easily bring that up to 26 which will allow you to have exactly the same AC as a Full Plate warrior, wearing just Padded armour. I believe this would be a fine first character for you to delve into the secrets of self-buffing stag. (Well ideally a Pally would be better, but not everyone wants to be a boy-scout as Batman refers to Souperman).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:48 AM - Dec 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just edited the OP to make the changes and do some tidying-up.<br/>\n<br/>\nOh, and btw, I would have gone for Elf here (could have lived without Dodge), but for the xp penalty.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:19 PM - Dec 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag, what about putting \"Toughness\" somewhere in pre-epic of course?<br/>\n<br/>\nYou think replacing any of \"Dodge/ Lightning Reflexes\" is worth it? I mean it's +40 hp's that are always there for you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:02 PM - Dec 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also a good idea. I suspect I'd got a bit paranoid about AC and saves, having initially had a pre-epic split of Ranger 15/ Bard 1/ RDD 4, and seen erosions in those areas as I decided to pump BAB and hasten taking BoE at the same time (and I'd also gone for a kukri focus, which I sacrificed to get Lightning Reflexes). So, yes, Dodge can go. I don't like letting any of my saves drop below 20: just a personal thing, I guess - too much time playing CoTs and Monks. I should be prepared to recognise that this is primarily an offensive rather defensive build, particularly having decided to make it that way in the first place.<br/>\n<br/>\nRight, I'll change it now...then I must get back to Ren in Aielund - I left her in the palace in Fairloch a couple of days ago, and she'll be getting bored and twitchy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

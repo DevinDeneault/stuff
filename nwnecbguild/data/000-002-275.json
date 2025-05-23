@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "275",
+  "name": "Divine Power and +20 AB cap",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-power-and-20-ab-cap-t2266000.html",
+  "author": "Dante2377",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Dante2377",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:58 PM - Jun 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I'm confused about whether Divine Power AB counts towards the +20 AB cap.<br/>\n<br/>\nNormally I would have said \"no\" because it says it adjusts the BAB to that of a fighter, but there's a note at the nwn wiki (<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Divine_power\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Divine_power</a>) saying:<br/>\n<br/>\n\"The increase in base attack bonus is a simulation, so the increase counts towards the +20 attack bonus cap.\"<br/>\n<br/>\nBut I am experiencing the opposite.  E.G. on one server I have built Mith's Blood and Faith and with +10 weapon and capped +12 strength I have an unbuffed AB of 58 (42 AB \"natural\" with +10 weapon and +6 str).  So at +58 it includes +10 (weapon) of the max +20 AB bonus.<br/>\n<br/>\nWhen I cast extended Aid and Bless (part of my long term buffs), it goes up to +60, +12 of which counts towards the cap.<br/>\n<br/>\nAs I get near encounters, when I cast Divine Power, I get +5 AB plus the extra attack, so AB is +65 and if DP counts towards the cap, that would be +17 towards the cap.  For hard encounters, I cast Divine Favor, which bumps my AB to +70, BUT if DP counted towards the cap, then Divine Favor should only add +3, not +5, because it would have already had +17 towards the cap before Divine Favor.  Also, if I cast Battletide with all that running I see AB of +72 when enemies are in my aura.<br/>\n<br/>\nso given all that, the evidence would seem to point that Divine Power actually edits your BAB \"under the covers\" and does NOT count towards the +20 AB cap, but the note in the wiki is very specific about it, so I'd like to get your input for those of you who have power-built better and longer than I have.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "7:18 PM - Jun 29, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is due to the fact that the Character Sheet doesn't recognize AB caps, so it will show the defective value, but if you take a look at the combat log (which, as an ECBer you sort of HAVE TO), you should notice that you're actually not attacking as high as your sheet shows. Just for fun, use a scroll of True Strike and you will see your ab will go to 80+, but when you attack, check the log and you'll see you didn't actually go over the cap. And just for the record, that's not the only mishap associated with Character sheet. It doesn't recognize size modifiers to anything, and wrongly shows WF and EWF unarmed to work on Druid shifted shapes, when they actually don't.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

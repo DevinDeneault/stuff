@@ -1,0 +1,20 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Add ons",
+  "forum_id": "003",
+  "id": "003",
+  "name": "Hakpack Compatibility",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/hakpack-compatibility-t515491.html",
+  "author": "RookY2K",
+  "avatar": "no_avatar.png",
+  "replies": 0,
+  "posts": [
+    {
+      "author": "RookY2K",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:33 PM - Oct 22, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><blockquote><div><strong>HipMaestro wrote:</strong><blockquote><div><strong>RookY2K wrote:</strong>Ok, question regarding hakpacks and PW play:  Let's say I d/l the EMS hakpack to play this module and then later want to play in a PW that does not use this hak.  Does that matter at all?  Do I have to uninstall any haks I have or are those haks only used in PW and modules that specifically call for them?</div></blockquote>\nAs long as you have the room, load up any and all haks you need and leave them there.  The only issues I have ever had is when a particular hak has been updated and I have an older one.  In a case like that, one will typically get a diagnostic that specifies the exact file name that is missing, a clue that the hak has been revised.  Some times the individual files have been provided for DL but most times you just need the latest version. But, in general, each hak that is called by a server (or module) is specific enough to avoid dichotomy problems.<br/>\n<br/>\nAlso, should you ever find a problem while playing new custom content, it is a good habit to keep some sort of dated listing of all the haks and overrides in their respective folders.  That way, when you play new content and something seems amiss, you can more easily identify the \"offending\" hak.  Not all haks and overrides are created equal!)</div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

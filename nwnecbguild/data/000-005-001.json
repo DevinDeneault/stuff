@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Mid Epic - Level 30 Builds",
+  "forum_id": "005",
+  "id": "001",
+  "name": "Exalted Sorceress Minor: Sorcerer 28/ Paladin 1/ Monk1",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/exalted-sorceress-minor-sorcerer-28-paladin-1-monk-t2354839.html",
+  "author": "Grandma",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:11 PM - Apr 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">The Exalted Sorceress should need no further presentation. This is my level 30 version of the epic caster build. <br/>\nIt works well for both PvP and PvM.<br/>\n<br/>\nSorcerer(28), Paladin(1), Monk(1), Human<br/>\nAlignment: Lawful good<br/>\n<br/>\nSTR: 12<br/>\nDEX: 9<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 17 (24)<br/>\n<br/>\n01: Sorcerer(1): Expertise, Improved Expertise<br/>\n02: Sorcerer(2)<br/>\n03: Sorcerer(3): Spell Focus: Necromancy<br/>\n04: Sorcerer(4): CHA+1, (CHA=18)<br/>\n05: Sorcerer(5)<br/>\n06: Sorcerer(6): Extend Spell<br/>\n07: Sorcerer(7)<br/>\n08: Sorcerer(8): CHA+1, (CHA=19)<br/>\n09: Sorcerer(9): Empower Spell<br/>\n10: Sorcerer(10)<br/>\n11: Sorcerer(11)<br/>\n12: Sorcerer(12): CHA+1, Greater Spell Focus: Necromancy, (CHA=20)<br/>\n13: Sorcerer(13)<br/>\n14: Sorcerer(14)<br/>\n15: Sorcerer(15): Maximize Spell<br/>\n16: Sorcerer(16): CHA+1, (CHA=21)<br/>\n17: Sorcerer(17)<br/>\n18: Sorcerer(18): Still Spell<br/>\n19: Sorcerer(19)<br/>\n20: Paladin(1): CHA+1, (CHA=22)<br/>\n21: Sorcerer(20): Epic Skill Focus: Discipline<br/>\n22: Sorcerer(21)<br/>\n23: Sorcerer(22)<br/>\n24: Sorcerer(23): CHA+1, Automatic Still Spell I, Automatic Still Spell II, (CHA=23)<br/>\n25: Sorcerer(24)<br/>\n26: Sorcerer(25)<br/>\n27: Sorcerer(26): Automatic Still Spell III, Epic Spell: Epic Mage Armor<br/>\n28: Sorcerer(27): CHA+1, (CHA=24)<br/>\n29: Monk(1)<br/>\n30: Sorcerer(28): Epic Spell Focus: Necromancy<br/>\n<br/>\n<br/>\nHitpoints: 190<br/>\nSaving Throws (Fortitude/Will/Reflex): 22/22/17<br/>\nSaving Throw bonuses: Spells: +7<br/>\nBAB: 15<br/>\nAB (max, naked): 16 (melee), 14 (ranged)<br/>\nAC (naked/mundane armor/shield only): 15/26<br/>\nSpell Casting: Sorcerer(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkillpoints: 167<br/>\nConcentration 33(35), Discipline 32(43), Heal 6(5), Lore 33(35), Spellcraft 33(35), Tumble 30(29)<br/>\n<br/>\n<br/>\n01: Concentration(4), Heal(4), Lore(4), Spellcraft(4), Save(4), <br/>\n02: Concentration(1), Heal(1), Lore(1), Spellcraft(1), Save(5), <br/>\n03: Concentration(1), Heal(1), Lore(1), Spellcraft(1), Save(6), <br/>\n04: Concentration(1), Lore(1), Spellcraft(1), Save(8), <br/>\n05: Concentration(1), Lore(1), Spellcraft(1), Save(10), <br/>\n06: Concentration(1), Lore(1), Spellcraft(1), Save(12), <br/>\n07: Concentration(1), Lore(1), Spellcraft(1), Save(14), <br/>\n08: Concentration(1), Lore(1), Spellcraft(1), Save(16), <br/>\n09: Concentration(1), Lore(1), Spellcraft(1), Save(18), <br/>\n10: Concentration(1), Lore(1), Spellcraft(1), Save(20), <br/>\n11: Concentration(1), Lore(1), Spellcraft(1), Save(22), <br/>\n12: Concentration(1), Lore(1), Spellcraft(1), Save(24), <br/>\n13: Concentration(1), Lore(1), Spellcraft(1), Save(26), <br/>\n14: Concentration(1), Lore(1), Spellcraft(1), Save(28), <br/>\n15: Concentration(1), Lore(1), Spellcraft(1), Save(30), <br/>\n16: Concentration(1), Lore(1), Spellcraft(1), Save(32), <br/>\n17: Concentration(1), Lore(1), Spellcraft(1), Save(34), <br/>\n18: Concentration(1), Lore(1), Spellcraft(1), Save(36), <br/>\n19: Concentration(1), Lore(1), Spellcraft(1), Save(38), <br/>\n20: Concentration(1), Discipline(23), Lore(1), Save(18), <br/>\n21: Concentration(1), Lore(1), Spellcraft(2), Save(19), <br/>\n22: Concentration(1), Lore(1), Spellcraft(1), Save(21), <br/>\n23: Concentration(1), Lore(1), Spellcraft(1), Save(23), <br/>\n24: Concentration(1), Lore(1), Spellcraft(1), Save(25), <br/>\n25: Concentration(1), Lore(1), Spellcraft(1), Save(27), <br/>\n26: Concentration(1), Lore(1), Spellcraft(1), Save(29), <br/>\n27: Concentration(1), Lore(1), Spellcraft(1), Save(31), <br/>\n28: Concentration(1), Lore(1), Spellcraft(1), Save(33), <br/>\n29: Concentration(1), Discipline(9), Tumble(30), <br/>\n30: Concentration(1), Lore(2), Spellcraft(2), <br/>\n<br/>\nComments:<br/>\nMany mods and servers have disabled casting in Expertise mode. In that case, drop the two Expertise feats and add one more Greater Spell Focus.<br/>\nThe original build has Improved Combat Casting. I did not find room for that in this build, and in my opinion a high Concentration skill will avoid spell interruption and save your day most of the times.<br/>\nThe maxed Lore is from the original build, and I have stayed true to that here. Casting Identify should do the job, so feel free to choose other skills, perhaps Heal or Persuade.<br/>\n<br/>\nFor those not familiar with the Exalted Sorceress - this is a sorcerer that is empowered in several ways:<br/>\nShe is a high level Sorcerer with high Charisma and an Epic Spell Focus, securing spells with high DC and high spell penetration. She has the essential meta magic.<br/>\nPaladin adds the Armor/Shield proficiency, the Discipline skill and the Divine Grace feat that has synergy with the high Charisma and grants greatly improved saves. <br/>\nMonk adds one more dump of Discipline, The Tumble skill for added AC and the Evasion feat that helps avoid damage from many spells and effects.<br/>\nEpic skill focus Discipline makes her very hard to knock down or disarm.<br/>\nThe Auto-Still feats let her cast in full armor with no arcane spell failure and with full meta magical freedom.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:19 PM - Apr 03, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now, Mick, we all know how powerful the exalted sorceress is and for those who don't, I would say \"go and play her now\", but putting this thing into the 30's...Is even more ridiculous and it gives even fewer excuses for someone not having played one!<br/>\n<br/>\nWell done, and I would like to see your suggestions (forget what the original build says, this is yours) about the secondary school focus and the replacement to \"lore\" skill. I would also be interested to know how the build plays in a level 30 limited environment based on your experience (if you have played it).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:08 PM - Dec 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you drop the expertise feats, you can live with intelligence 12 and just drop the lore skill.<br/>\nThe two buy points can go to strength for better carrying capacity. After all you plan on equipping full plate and a shield, maybe even a tower shield.<br/>\nIt is also possible to start out with charisma 18 if you take intelligence 12 and dexterity 8. You can then end up with a final charisma of 26 if you are willing to swap one of the epic feats with great charisma. IMO it is not worth it, but it is an option.<br/>\nEvocation is my prefered school #2. Some may prefer transmutation to make the Flesh to stone spell more dangerous. Dropping the expertise feats gives room for a second greater spell focus feat. I don't find room for one more epic spell focus feat here.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:38 PM - Dec 10, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><em class=\"mention\">@Valerfor:</em><br/>\n<br/>\n\u00a0I would also be interested to know how the build plays in a level 30 limited environment based on your experience (if you have played it).</div></blockquote>\n\nLike the exalted sorceress this is a build with a lot of defensive qualities, that are quite inexpensive: You drop 2 caster levels, but spell penetration is still quite good, even without the feats. You spend some feats on auto still and epic skill focus discipline. In other builds you can spend those feats on great charisma and improve the DC of all your spells by 2. \u00a0<br/>\nDefensively the character feels as solid as a buffed fighter. In some extraordinary situations you may want that extra penetration and DC. But more often than not, casting the spell once more solves the problem.<br/>\n<br/>\nI must admit that I have more experience with more \"fragile\" sorcerer builds with higher charisma and better DCs. But in some harsh environments I do certainly prefer the Exalted sorceress.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Shia_Luck",
+      "avatar": "10758897_1524612892.jpg",
+      "timestamp": "8:03 PM - Dec 18, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n. In some extraordinary situations you may want that extra penetration and DC. But more often than not, casting the spell once more solves the problem.<br/>\n<br/>\nI must admit that I have more experience with more \"fragile\" sorcerer builds with higher charisma and better DCs. But in some harsh environments I do certainly prefer the Exalted sorceress.\n</div></blockquote>\nI was about to bring up Epic Warding but realised lvl30 cap leaves you one spellcraft short. That's a very annoying limitation! (I've never played on a lvl30 PW so not considered it before). If you took epic skill focus spellcraft instead of discipline or could squeeze in a skill focus spellcraft ( we can wonder how later) would it then meet the requirement or is it purely bought ranks for the pre-requisite?<br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "8:03 PM - Jul 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dear ECBers, a question from the underdog - is it really valuable to take SF: Necromancy at lvl 3 when there are no really usefull necro spells? Not that they are absent completely, but if you are going for dual SF, wouldn't it make more sense to take something like SF:Evoc, which is so much more usefull at lower levels?<br/>\n<br/>\nThanks in advance for the insights!<br/>\n<br/>\nP.S. I realise that this build does not have dual SF, but the original Exalted Sorceress does, as far as I can recall?<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:20 PM - Jul 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi, calespurmarksman<br/>\nI agree with you on the fact that the great and imortant necro spells come later. Then again, you get extend when you have your first lvl 3 slots and empower soon after you get lvl 4 slots.<br/>\nIf you want them earlier, you can swap. <br/>\nThere are some low level necro DC spells early on if you want to use them. Feel free to choose for yourself.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Leyoz",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:19 AM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What spell choice do you use?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:40 PM - Oct 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This build is crazy good, Mick!<br/>\n<br/>\n+1 like from me!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "skeletonproblems",
+      "avatar": "10759420_1610223824.jpg",
+      "timestamp": "9:33 PM - Jan 17, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For a new player, what strategy do you use with this build? What spells, and what Items should we be looking for?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "11:30 AM - Jan 18, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A warm welcome to you, skeletonproblems!<br/>\n<br/>\nHow new is \"new\"?<br/>\n<br/>\nWhere do you intend to play this build? OC, expansions (SoU and HotU), a module or campaign (like Lord of Terror or Aielund) or a PW like Arelith (it is the only one I have heard of that has a level cap of 30)? The more people know, the easier it will be for them to help you and answer specific questions about items, spells and such.<br/>\n<br/>\nIf you haven't played the original campaign yet and this is what you intend to do, I would recommend that you either tweak this build a bit or look for another one. The OC ends around level 18 so that you won't ever get this monk level, not even the first paladin level.<br/>\nThe expansions will get you to mid-to-late twenties, level-wise, but you probably\u00a0 still won't get this monk level. In case you knew all this already, sorry, it is hard to guess from your post if you are new to NWN or just new to power building.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

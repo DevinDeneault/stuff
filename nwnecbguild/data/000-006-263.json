@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "263",
+  "name": "Legacy of the Dragon (Monk 18/Sorc 12/RDD 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/legacy-of-the-dragon-monk-18-sorc-12-rdd-10-t2350861.html",
+  "author": "Apocrypha",
+  "avatar": "no_avatar.png",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:16 AM - Mar 06, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Many thanks to Valerfor for helping me get my first build off the floor!   <br/>\n<br/>\n\"You discovered at a young age that you had dragon blood. While it certainly explained a few things about you, such as your volatile temper and possessiveness, the implications were more worrying than comforting. What if these urges grew stronger until they overtook you? Your fledgling magical abilities could hardly be called dangerous, but even a small fire cantrip could do great damage to your parents' home. With these thoughts in mind, you set out to a nearby monastery, hoping the monks could teach you a few things about self-control...\"<br/>\n<br/>\nI admit this is partially a RP-build; after all, if I really wanted an overpowered Monk/RDD, I'd just take a dip in Sorcerer and leave it at that. Or take only a few levels in Monk for Evasion and everything else in Sorcerer. But I liked the idea of an ordinary man/woman discovering their draconic heritage and spending months in a monastery, learning how to discipline themselves against their base urges, and wanted to see if it was possible to be good at both Unarmed combat and spellcasting. Well, you'll never be an epic spellslinger like any wizard worth his salt, but you get some pretty useful buffs to augment your d20 Fists, and with your very high Strength you can pretty much punch through a wall. It has its downsides, of course; the Reflex save is a little low for a Monk, and your Hit Points fall just a bit short of 400, but I think it fulfills its role as a self-buffing melee DPS-er quite nicely. So, I now present...<br/>\n<br/>\n<strong>Legacy of the Dragon</strong><br/>\n<strong>(Monk 18/Sorcerer 12/Red Dragon Disciple 10)</strong><br/>\n<br/>\nRACE: Human<br/>\n<br/>\nALIGNMENT: Any Lawful (thematically Lawful Neutral or Lawful Good)<br/>\n<br/>\nPLAYABILITY: PvE<br/>\n<br/>\nSTARTING STATS:<br/>\n<br/>\nSTR - 14<br/>\nDEX - 14<br/>\nCON - 12<br/>\nINT -10<br/>\nWIS - 14<br/>\nCHA - 14<br/>\n<br/>\nENDING STATS:<br/>\n<br/>\nSTR - 36<br/>\nDEX - 14<br/>\nCON - 14<br/>\nINT - 12<br/>\nWIS -14<br/>\nCHA - 16<br/>\n<br/>\nBASIC STATS:<br/>\n<br/>\n- Hit Points: 373<br/>\n<br/>\n- Skill Points: 143<br/>\n<br/>\n- Skills:<br/>\n  Discipline: 45 (59)<br/>\n  Lore: 8 (9)<br/>\n  Spellcraft: 30 (31)<br/>\n  Tumble: 40 (42)<br/>\n  Left over: 20. Put them wherever you like, I personally chose Persuade.<br/>\n<br/>\n- Saving Throws (Fort/Ref/Will): 22/18/26 (+6 versus Spells)<br/>\n<br/>\n- Naked AC: 31 (Robes)<br/>\n<br/>\n- BAB: 23 (Three Attacks \u2013 Five Attacks Unarmed)<br/>\n<br/>\n- AB: +40/ +37/ +34/ +31/ +28<br/>\n<br/>\n- DMG: 1D20 + 13 / 19-20 X2<br/>\n<br/>\n- Spellcasting: Sorcerer (6th level)<br/>\n<br/>\n- Familiar: Pixie<br/>\n<br/>\n<br/>\nLEVELING GUIDE:<br/>\n<br/>\n1- Monk (01): Blind Fight, Toughness<br/>\n2- Monk (02)<br/>\n3- Monk (03): Weapon Focus: Unarmed<br/>\n4- Monk (04): STR<br/>\n5- Monk (05)<br/>\n6- Monk (06): Extra Stunning Attacks<br/>\n7- Sorcerer (01)<br/>\n8- Red Dragon Disciple (01): STR<br/>\n9- Red Dragon Disciple (02): Power Attack<br/>\n10- Red Dragon Disciple (03)<br/>\n11- Red Dragon Disciple (04)<br/>\n12- Sorcerer (02): Improved Critical: Unarmed Strike, STR<br/>\n13- Sorcerer (03)<br/>\n14- Sorcerer (04)<br/>\n15- Sorcerer (05): Extend Spell<br/>\n16- Sorcerer (06): STR<br/>\n17- Sorcerer (07)<br/>\n18- Sorcerer (08): Craft Wands OR Scribe Scroll<br/>\n19- Monk (07)<br/>\n20- Monk (08): STR<br/>\n21- Red Dragon Disciple (05): Epic Weapon Focus: Unarmed<br/>\n22- Red Dragon Disciple (06)<br/>\n23- Red Dragon Disciple (07)<br/>\n24- Red Dragon Disciple (08): Armor Skin, STR<br/>\n25- Red Dragon Disciple (09)<br/>\n26- Red Dragon Disciple (10)<br/>\n27- Monk (09): Epic Prowess<br/>\n28- Monk (10): STR<br/>\n29- Monk (11)<br/>\n30- Monk (12): Great Strength I<br/>\n31- Sorcerer (09)<br/>\n32- Sorcerer (10): STR<br/>\n33- Sorcerer (11): Great Strength II<br/>\n34- Sorcerer (12)<br/>\n35- Monk (13)<br/>\n36- Monk (14): Great Strength III, STR<br/>\n37- Monk (15)<br/>\n38- Monk (16)<br/>\n39- Monk (17): Great Strength IV<br/>\n40- Monk (18): STR<br/>\n<br/>\nRecommended Buffs:<br/>\n1st Level: Mage Armor, Protection From Alignment<br/>\n2nd Level: Death Armor, Invisibility<br/>\n3rd Level: Displacement<br/>\n4th Level: Elemental Shield, Improved Invisibility, Stoneskin<br/>\n5th Level: Energy Buffer, Mestil's Acid Sheath<br/>\n6th Level: Ethereal Visage, Greater Stoneskin<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "WhiZard",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:18 AM - Mar 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First order of business: fix the title of this thread so that it shows the level distribution (as I have done with this post).  Not that these posts can currently be arranged and indexed into a search engine, but we don't want to lose the possibility because of a large number of poorly formatted builds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:26 AM - Mar 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fixed, sorry.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:18 PM - Mar 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Seems like a fun build to play,<br/>\n<br/>\nBasically you turned what would be an RP-only character into a viable Epic Build,<br/>\n<br/>\nPerhaps after you have tested the build thoroughly you can tell us if two more Sorcerer lvls at the end would be better or not,<br/>\n<br/>\nBravo for your efforts!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:37 AM - Mar 08, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, without testing I can tell you that two more levels of Sorc will net you seventh-level spells...the problem being, you'll need to move one point away from Strength into Charisma to be able to cast them, and losing two levels of monk drops your AB a bit, though you still have a d20 die. The trade-off may be worth it since you get some pretty sick spells, including Mordenkainen's Sword, Power Word: Stun, Spell Mantle, etc., and with Scribe Scroll you can cast them without having to make a Concentration check. You effectively trade power for versatility, so it's probably more of a personal choice than anything. Either way the build should still be playable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:59 AM - Jul 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice!  Have you played it all the way up, or is it \"born at 40?\"<br/>\n<br/>\n Might consider going kama to use Flame Weapon (+11-15 fire damage for 24 turns!) and free up the glove spot, but the base fist damage is awesome!  <br/>\n<br/>\n I like the level 20 monk immunity to mind affecting, but yu can cast Clarity or Lesser Mind Blank.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:49 AM - Aug 06, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi! Sorry it took so long to respond. It's not a \"born at 40\" build, though it certainly takes some time to get going. The earliest levels--1 to 7--are the hardest, as you are just a gimmicky low-level monk, and gimmicky low-level monks are neither powerhouses nor good survivalists. Once you start getting RDD levels you begin your shift into Glass Cannon territory, with your survivability getting easier bit by bit as you gain Sorcerer levels and thus buffs. At 18 you get Stoneskin, and that's when this build really hits it's stride, climbing steadily into powerhouse territory without having to worry about easy deaths.<br/>\n<br/>\n This is all assuming, of course, you play on a low-magic world. On a high-magic one you can find items that may help mitigate your survivability problem.<br/>\n<br/>\n Kamas are viable, but I find they're only effective when dual-weld. And that, unfortunately, is too cheesy for me. Plus I'm not sure you could fit the dual-wielding fits in here--the kamas are easy, just swap out the unarmed feats for them, but everything else is pretty much inflexible. Maybe Scribe Scroll, Extra Stunning Attacks, and either Armor Skin, Epic Prowess, or a Great STR would work.<br/>\n<br/>\n Immunity to mind spells would certainly be very nice, but it means losing two levels of Sorc, and thus all your sixth-level spells. Not worth swapping those for something you can just as easily accomplish, as you said, with Clarity or Lesser Mind Blank. And trading away RDD levels is an even worse idea--without the +2 CHA you can't even cast your higher-level buffs, and the +4 STR is what makes this build so powerful. Plus you'd lose the spiffy wings.<br/>\n<br/>\n Thanks for the complimen, and I hope you enjoyt!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

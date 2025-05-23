@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "021",
+  "name": "Challenge Fighter Monk SD",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/challenge-fighter-monk-sd-t2354789.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:20 PM - Dec 05, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am looking for a Fighter Monk SD build that will get me the most AC<br/>\nI found a couple of builds that might give me that but I was wondering if the was a way to get Naked 40 AC<br/>\nat level 40<br/>\n<br/>\nSuggestions?<br/>\n<br/>\nStarting stats should be\u00a0<br/>\n<br/>\n12 str<br/>\n16 Dex<br/>\n12 Con<br/>\n14 int<br/>\n14 wis<br/>\n8 chr<br/>\n<br/>\nThanks in advance<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:27 PM - Dec 05, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just off the top of my head, if you go with fighter10/ sd5/ monk25 for epic dodge &amp; maximum number of attacks with 16 bab pre-epic, you will get something close to that but not exactly 40 ac. Let's try some calculations here...base (10) +8 (tumble) +2 (armour skin) +5 (monk) +2 (wisdom) +11 (dexterity) equals 38 ac. Now you can further optimize the stats, so with an Elf character we can start with 18dex/ 16wis and finally get to 40 ac naked at forty level. <br/>\n<br/>\nNext. ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:18 AM - Dec 06, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sounds good.\u00a0 Will try that.\u00a0 Thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

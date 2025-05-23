@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "201",
+  "name": "Explaining Metamagic to a Monkey",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/explaining-metamagic-to-a-monkey-t2354779.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:22 PM - Nov 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've been following a thread or two that mention metamagic, and I've just read Hip's Glimpse into Metamagic in the Guides section. Sadly, this is now a very blurry glimpse indeed: moving to our new host seems to have successfully turned a lot of what I assume was actual language into hieroglyphs at best.<br/>\n<br/>\nThus, flaunting my ignorance once more, metamagic: what actually is it, please? What does it bring to the party, and what are the costs?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:10 PM - Nov 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Simply put, metamagic is the manipulation of your spell slots to better fit your needs. <br/>\n<br/>\nYou have a good spell that you want to cast more times per day? Isaack's Greater Missile Storm is a good example, you can do all your 6th lvl spell slots, then if you have Empower Spell, you can also do it as an 8th lvl spell with increased effect as well. And if you are really into it, you could also Maximize it as a 9th lvl spell-slot. I am sure you have heard me or others talking about the \"Unbeatable\" Sorcerer that can cast Time Stop then 2X Maximixe IGMS then Time Stop then again 2X Maximizee IGMS and kill any (single) opponent without that opponent ever getting the chance to do anything about it. The unrestricted nature of resting in normal Neverwinter Nights permits that sort of things. Other modules or most PW's won't allow that though.<br/>\n<br/>\nMetamagic is also useful for other things, for example you could \"Still\" your spells for just a 1 lvl adjustment to cast in full armour &amp; shield, or you could \"Silence\" them to cast them in an area that no sound is permitted, (forgot what Cleric spell is that causes this effect) or \"Widen\" them to get more enemies into your Area of Effect (AoE) spells. It always cost something more than a normal spell but as you can see, the benefits can be great indeed.<br/>\n<br/>\nHope that helped a bit Stag,<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:39 PM - Nov 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Indeed it did Valerfor, thanks. However...<br/>\n<br/>\nPresumably, these are bonus feats for arcane types (divine, too?), which then free up these slots to boost the effectiveness of \"lesser\" spells. Does that mean one gets extra slots at those higher levels, or the number one would normally get are then filled with these badder dudes? So, for example, if I empower IGMS - thereby getting it as an 8th level spell, I wouldn't be able to use another \"real\" 8th level spell, or do I get an additional slot for this empowered casting?<br/>\n<br/>\nI only ask because I'd be a lot more tempted to try an arcanist build if I knew what the bloody hell was going on with it - and it seems pointless to pretend knowledge where there is none.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:10 PM - Nov 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Metamagic doesn't give you more spell slots.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:04 AM - Nov 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Exactly, these feats as i said, \"manipulate\" your available spell slots to better fit your needs, they do not provide however \"additional\" spell slots. If you want to start a spell-slinger i suggest you try the easier way first, Clerics, no, Paladins are the best for a starter. Its basically a Warrior + , so you just do what you did already but you just have additional spells that buff your abilities. Then you go to melee Bards &amp; Clerics and after that you start a real arcanist like a Sorcerer first and finally Wizard. So to recap, from easier to hardest: Paladins &amp; Rangers, then Bards &amp; Clerics, then Sorcerer and finally Wizard.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:00 AM - Nov 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip's Glimpse is indeed corrupted, but some of it is still intact. What I have used that guide for is to check what metamagic feat you can use for any given spell. <br/>\nThere are two things I find important with metamagic:<br/>\nThe first is what alterations the different metamagic feats bring to your spell. Eg; Extend spell doubles the duration of your spell, Still spell removes the arcane spell failure from armor etc. They all have their uses. It comes at the cost of casting from a higher level slot, one or more levels depending on the actual feat.<br/>\nAnd that leads to the second important characteristic. These metamagic feats let you cast a spell from slots of a different level than the spell itself. You can use that for spell-book management. Eg; if your level 2 spell slots are full from all the Bull's and Cat's and whatnot, and you also want to memorize Ultravision and a couple of Darkness spells, you can solve that by memorizing some of the spells as extended in level 3 slots or empowered in level 4 slots.<br/>\n<br/>\nFor spontaneous casters there is no spell book to manage. You memorize all spells and can cast them as you see fit, with or without any metamagic. Metamagic adds enormously to that freedom, since you can not only cast a given spell from all the slots of it's level, but also from all the levels that your metamagic feats allow you to.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:49 PM - Nov 25, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That all seems to make sense - many thanks, everyone.<br/>\n<br/>\nIt seems, then, to reinforce the importance of getting a build \"right\" particularly for spell-chuckers - in effect (and put simply) becoming a fourth level in the building process, where the other three are stats, feats and skills.<br/>\n<br/>\nI shall have a closer look at how you good people have implemented the feats in some of your published builds.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

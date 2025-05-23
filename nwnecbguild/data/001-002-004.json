@@ -1,0 +1,44 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Persistent Worlds",
+  "forum_id": "002",
+  "id": "004",
+  "name": "Unable to figure out the Haks for World of Greyhawk",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/unable-to-figure-out-the-haks-for-world-of-greyhaw-t2355841.html",
+  "author": "Ragar_Stormwynd",
+  "avatar": "10759513_1636795144.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Ragar_Stormwynd",
+      "avatar": "10759513_1636795144.jpg",
+      "timestamp": "1:37 PM - Dec 03, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Howdy folks! I hope this letter finds you well. I'm reaching out for some assistance, these old eyes of mine appear to not be able to figure out what in the seven hells I'm doing wrong ( I know it's on me, this is not me passing blame to anyone else) but I can't seem to for the life of me figure out why I'm not able to gain access to world of Greyhawk. Is there an easy installer someplace or an easier way of doing it than placing all the files in the folders manually that I am unaware of? I've tried about a dozen different times now, going in sequence of first to last (up to down) of putting everything in its proper place and yet.. It still isn't working.<br/>\n<br/>\nI know it's me screwing things up somewhere, and this is not meant to pass blame. So I'm instead asking if there's a \"installer for dummies\" option or summat like it. Thanks in advance for any assistance rendered! <br/>\nI am in love with the world of Greyhawk as it was the original setting that I got into when it came into tabletop, and would love to explore it from a fresh perspective.\u00a0<br/>\nDawi forever,<br/>\n-Ragar Stormwynd<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:03 PM - Dec 03, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would suggest visiting The World of Greyhawk forums and doing a search on problems like yours. There is no installer, one must manually move the files. People there are pretty good at helping others.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/worldofgreyhawkfr/</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:03 PM - Dec 03, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Ragar, have you checked out our sister site, <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/\" rel=\"noreferrer\" target=\"_blank\">World of Greyhawk</a>? We share many members, but while we're devoted to building, they're focused entirely on the WoG side of things. DM Wise is the site's boss, as well as being behind the construction and development of the PW. I'm sure he'd be more than happy to let you know what you need to do.<br/>\n<br/>\nHope this helps.<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Ninja'd by gkorjax!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:39 PM - Dec 03, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are a couple of tricky ones - like the Music Hak in the Music folder.<br/>\n<br/>\nNot really the fault of WoG in that respects - it is how the Music is done.<br/>\n<br/>\nBut yeah, post on the WoG forum to get help.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ragar_Stormwynd",
+      "avatar": "10759513_1636795144.jpg",
+      "timestamp": "4:56 PM - Dec 03, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, my fault! I thought these were one and the same. I should have double checked before posting. Sorry about that!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

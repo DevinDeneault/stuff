@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "541",
+  "name": "Arelith Don't touch me build \"The Lawkeeper\" (Wizard 6/ Pale Master 10/ Earthkin(Dwarven) Defender 14)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-don-t-touch-me-build-the-lawkeeper-wizard--t2355588.html",
+  "author": "Flame867",
+  "avatar": "no_avatar.png",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Flame867",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:08 PM - Oct 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey, I'm super new at this so please help me if I make some mistakes or you suggest a better alteration to this build. I'm very fond of this community and think you all do great work! so I hope you can help me do the same.\u00a0<br/>\n<br/>\nI made this build a little while ago and was curious if it's even really all that good. Thought it'd be fun to post it and let you guys poke at it. Maybe it's been posted before.<br/>\nThe idea was just a no-nonsense character that would walk towards you like an unyielding force of nature that only meant one thing: You broke the lords rules, so now I hunt you... veeeeery slowly.<br/>\n<br/>\n<strong>The Lawkeeper</strong><br/>\n(Wiz 6/ PM 10/ DD 14)<br/>\nShield Dwarf -\u00a0 lawful Neutral, Lawful Evil (LN, thematically)(on Arelith, must be evil unless you have an award) (Any earth-kin race available with some sacrifices to meet the 21 con for EDR)<br/>\nPvM 1-30<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 14 (20) (+2 STR gift)<br/>\nDEX 12<br/>\nCON 18 (22) (+2 CON Gift)<br/>\nWIS 10<br/>\nINT 15 (16)<br/>\nCHA 6\u00a0<br/>\n<br/>\nHPs: 480<br/>\nAC: (naked) 16, (full plate) 24, (+tower shield) 27, (+Improved Expertise) 37, (+Defensive stance) 41 /\u00a0(Immune to crits, DR 18/-)<br/>\nSaves: Fortitude 24, Will 21, Reflex 12.\u00a0<br/>\nBAB: 18<br/>\nAB: (max, melee) 23, (3 APR), (ranged) 19\u00a0<br/>\nSpellcasting: Wizard(6)<br/>\nSpell level: 11, Necromancy: 16<br/>\nSkills: 143. Concentration 33 (39), Discipline 33 (38), Listen 33 (33), Lore 13 (15), Spellcraft 30 (33),\u00a0<br/>\n<br/>\n<strong>Levelling</strong><br/>\n1 W1: Expertise<br/>\n2 W2:\u00a0<br/>\n3 W3: Improved Expertise<br/>\n4 PM1: CON+1 (21)<br/>\n5 PM2<br/>\n6 PM3: Toughness<br/>\n7 PM4<br/>\n8 PM5: CON+1 (22)<br/>\n9 PM6: Still Spell<br/>\n10 PM7<br/>\n11 PM8:\u00a0<br/>\n12 PM9: INT+1 (16)/ Spell Penetration<br/>\n13 PM10:\u00a0<br/>\n14 W4:\u00a0<br/>\n15 DD1: Spell Focus: Necromancy<br/>\n16 DD2: STR+1 (17)<br/>\n17 DD3<br/>\n18 DD4: Greater Spell Focus: Necromancy<br/>\n19 DD5<br/>\n20 DD6: STR+1 (18)<br/>\n21\u00a0 DD7: Epic Damage Reduction(EDR) I<br/>\n22 DD8<br/>\n23 DD9:\u00a0<br/>\n24 DD10: STR+1 (19)/ EDR II<br/>\n25 DD11<br/>\n26 DD12:\u00a0<br/>\n27 DD13: EDR III<br/>\n28 W5: STR+1 (20)/ Greater Spell Penetration\u00a0<br/>\n29 W6<br/>\n30 DD14: Epic Energy Resistance: Fire/ Armor Skin<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:22 PM - Oct 23, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail and welcome, Flame867! Good to meet you.<br/>\n<br/>\nBefore you get excited about a proper response, let me disappoint you. I have no idea about Wizards or Pale Masters (DwDs, I know, for what it's worth!), and only a passing knowledge of Arelith, so this is really just a welcome until someone who knows what they're talking about comes along...<br/>\n<br/>\nSo, welcome!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:04 AM - Oct 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome and well met!<br/>\n<br/>\nSo,<br/>\nArelith is a very customised persistent world and, like many such modules, there is a basic framework upon which everything else sits.<br/>\n<br/>\nOn Arelith DR builds are far outstripped by Critical hits (200+ is not uncommon).  The one way to mitigate this is by being immune critical.<br/>\n<br/>\nThe problem is, there are not many immune critical builds that do not destroy your character mechanics.<br/>\n<br/>\nYou are stuck between a bit of a rock and hard place here.  You will not be an effective caster, buffer or melee character.  Although your caster level will be 16 for the purposes of dispels, you actual spell level will be lower.  Your casting level will be 11 netting you 6th level spells.  You would be much better off not casting any spells and buffing from scrolls/wands to keep near undispellable mundane casting (character level).<br/>\n<br/>\nI do a lot of the Arelith wiki work/contributions and I created/maintain a build index (see below) and I also created some dispel tables which will help outline what this means.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://wiki.nwnarelith.com/Dispel_Tables\" rel=\"noreferrer\" target=\"_blank\">http://wiki.nwnarelith.com/Dispel_Tables</a><br/>\n<br/>\nAs you can see with 16 CL for dispel purposes, each of your spells will have a 75-95% chance of being dispelled depending on how much abjuration foci the dispel caster has.<br/>\n<br/>\n<br/>\nI would suggest you take a look here for build ideas:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://wiki.nwnarelith.com/Character_Builds\" rel=\"noreferrer\" target=\"_blank\">http://wiki.nwnarelith.com/Character_Builds</a><br/>\n<br/>\nThere are a few semi viable DR builds:<br/>\nHexblade 6 / Earthkin defender 14 / PM 10 as a melee build<br/>\nBarbarian 16 / Hexblade 4 / PM 10 as a melee build (go HOrc for racial DI)<br/>\n<br/>\nAlternatively, <br/>\nWizard 11 / PM 16 / 3 bard is a viable caster build.  It is not a DR build, but with epic Mage Armor and int 19 -&gt; everything else in Dex you will have an exceptionally high AC and require a 20 to hit you are immune critical.  At the cost of spell slots, you will net melee invulnerability.<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:15 AM - Oct 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now *that* is some expert advice!<br/>\n<br/>\nWell said and done!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Flame867",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:57 PM - Oct 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the info! this is helpful.<br/>\nI guess the build really doesn't compete to some of the others out there. I was thinking that I could tweak the build to have\u00a0 6 less DR to bring the spell level to 8, rearranging some stat progressions as well and I could have the caster able to use greater ruin due to Palemasters <span style=\"text-decoration:line-through\">13th</span> 15th level and 20 int, but I take it level 9 spells is what's important in a casting build.\u00a0<br/>\nI think the progression was something like <span style=\"text-decoration:line-through\">Wiz11/PM13/DD6\u00a0</span>\u00a0Wiz 9/PM15/DD6<br/>\nIt's not the levels of \"you only can maybe get 3 damage per hit in if lucky\" but half damage is still twice the longevity.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

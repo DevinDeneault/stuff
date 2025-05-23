@@ -1,0 +1,68 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "183",
+  "name": "Needing help ASAP for rakaska form",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/needing-help-asap-for-rakaska-form-t2354996.html",
+  "author": "stalkcasper",
+  "avatar": "10759025_1547024419.jpg",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "stalkcasper",
+      "avatar": "10759025_1547024419.jpg",
+      "timestamp": "9:25 AM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have redone this build quite a few times and I cannot seem to get rak shape. Could someone tell me all that i need to get rak form? Thank you so much!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:19 AM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">To get Rak shape, you need the Outsider shape feat. <br/>\nThat requirees an epic character with at least 10 levels of shifter and at least wisdom 25.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:25 PM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know if this helps, but I seem to recall reading somewhere here that Rak has been somewhat nerfed in EE. Afraid I didn't pay too much attention as I haven't played a shifter nor do I have EE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:57 PM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe that the nerf to Rak shape had to do something with the unlimited icestorms not being empowered anymore...or something like that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:48 PM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All of the following are from the final release notes pdf for <br/>\nNeverwinter Nights Enhanced Edition. These aren't everything, <br/>\nbut it is what I found more interesting &amp; affects the gameplay most.<br/>\n<br/>\n1) Assassins with Death Attack can now use<br/>\nImproved Sneak Attack without having <br/>\nSneak Attack 1.<br/>\n2) Assassin\u2019s Death Attack paralysis length is based<br/>\nonly on assassin level, not total character level.<br/>\n3) Assassin\u2019s Death Attack balanced to only fire once<br/>\nper round (first attack).<br/>\n4) Fix to Uncanny Dodge 2 feat (higher-level rogues<br/>\nare now allowed to attack lesser rogues with<br/>\nSneak/Death attacks)<br/>\n5) Monk\u2019s Circle Kick: When current target leaves<br/>\nmaximum attack range, we will now pick a new<br/>\ntarget within attack range instead of standing and<br/>\ndoing nothing<br/>\n6) Defensive Stance mode will be canceled properly<br/>\nwhen casting a spell or using an item<br/>\n7) Greater Sanctuary now stacks properly with<br/>\nInvisibility (True Seeing no longer pierces both<br/>\neffects)<br/>\n8) Monk\u2019s Stunning Fist: Balance change to last only<br/>\none round instead of three rounds<br/>\n9) For feat-based spells (such as Harper Scout sleep),<br/>\nGetSpellSaveDC now computed properly when<br/>\nthe base ability score for the character is <br/>\nless than 10.<br/>\n10) Extra spell slots earned from items are<br/>\nunreadied instead of cleared when shapeshifting/polymorphing.<br/>\n11) Removed ability for shapeshifting players to<br/>\nabuse the UI and use their normal spells while<br/>\nshapeshifted.<br/>\n<br/>\nHm, some nice fixes but some (unnecessary IMO) big nerfs too.<br/>\nAssassins won't be happy.<br/>\nCould not find anything for Rakshasas, <br/>\nbut It might be on some post-release patch.<br/>\n<br/>\nMaybe I should post this somewhere else with its own topic, perhaps,<br/>\nas more &amp; more people appear that play the Enhanced Edition.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:25 PM - Jan 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@ gkorjax - iirc, that's the very fellow. Thanks.<br/>\n<br/>\n@ Valerfor - good thought about posting EE changes on a new thread. I'm going to assume that, for now at least, we're still going to be dealing with \"normal\" builds, rather than EE adapted ones. Otherwise chaos looms.<br/>\n<br/>\nPoor Mick must be drowning his sorrows right now. Oh crap, he'll be going all throat-slitty soon - everybody hide!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:03 AM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nPoor Mick must be drowning his sorrows right now. Oh crap, he'll be going all throat-slitty soon - everybody hide!</div></blockquote>\nThey should have added HIPS to assassin like in NWN 2, just to compensate for the loss of flurries of DA paralyzation attempts. <br/>\nBut stay calm, I won't go Postal on this.<br/>\nI might even post a \"druid\" build with HIPS, high DC Death attacks, and Dev Crit, just to keep you interested.<br/>\n<br/>\nAnd if that does not catch your attention, I will direct you to my <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/spirit-and-steel-cleric-24-bard-16-t2354305.html\" rel=\"noreferrer\" target=\"_blank\">Spirit and Steel</a> build, just to keep yout thoughts on something completely different - unless they also nerfed cleric and bard, that is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:41 AM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\nPoor Mick must be drowning his sorrows right now. Oh crap, he'll be going all throat-slitty soon - everybody hide!</div></blockquote>\nThey should have added HIPS to assassin like in NWN 2, just to compensate for the loss of flurries of DA paralyzation attempts. <br/>\nBut stay calm, I won't go Postal on this.<br/>\nI might even post a \"druid\" build with HIPS, high DC Death attacks, and Dev Crit, just to keep you interested.<br/>\n<br/>\nAnd if that does not catch your attention, I will direct you to my <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/spirit-and-steel-cleric-24-bard-16-t2354305.html\" rel=\"noreferrer\" target=\"_blank\">Spirit and Steel</a> build, just to keep yout thoughts on something completely different - unless they also nerfed cleric and bard, that is.\n</div></blockquote>\n\nNow, here indeed we find a true assassin. Ice cold and able to deal with all problems in their path with a mocking smirk and swift adaptation.<br/>\n<br/>\nSpirit and Steel was (and remains) my next go-to evil build - I just needed some spelly practice first. But in the meantime, have a cognac.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:22 AM - Jan 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10404082&amp;sid=352d6a64b2b23add4cbc19eff5d418ac\">Stagmeister</a> wrote: <a data-post-id=\"13819\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=13819&amp;sid=352d6a64b2b23add4cbc19eff5d418ac#p13819\">\u2191</a><div class=\"responsive-hide\">Jan 19, 2019</div></cite>\n@ Valerfor - good thought about posting EE changes on a new thread. I'm going to assume that, for now at least, we're still going to be dealing with \"normal\" builds, rather than EE adapted ones. Otherwise, chaos looms.\n</div></blockquote>\n\nThis is what I'm inclined to do Stag, at least until they \"Finalize\" the EE, so we know where we stand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

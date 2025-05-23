@@ -1,0 +1,128 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "638",
+  "name": "The Druid Devastator (Druid 28 / Bard 2 / RDD 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-druid-devastator-druid-28-bard-2-rdd-10-t2355408.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 18,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:06 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong>The Druid Devastator\u00a0</strong><br/>\n<br/>\nHaven't seen a lot of Druid / RDDs<br/>\nI think this is an underexplored build concept.\u00a0<br/>\nDruids have outstanding crowd control abilities with Stonehold, Grease, Entangle and SoV.<br/>\nI honestly get sick of my druids having to polymorph in and out of forms all the time.<br/>\nSometimes I just want to be in druid form to cast spells. Polymorphs for situational usage (ie Water Elementals are mind immune, and petrify immune and can fight rust monsters without a care...)<br/>\n<br/>\nHere I take a Druid 28 / Bard 2 / RDD 10 split<br/>\nIt has a Str of 34, Base AB of 41 and 400 HP with a full 'undispellable Druid Spell Book, high Concentration/Discipline/Spot/Tumble 40/UMD 33/Spellcraft 30 mod etc.<br/>\nWith the Weapon Proficiency Druid containing Scimitar, I take WF/EWF: Scimitar and IC/OC/Devastating Critical: Scimitar<br/>\nI give up any dream of Dragon Shape, the Wis 30+ requirement is just too expensive for me.<br/>\nI do use one bonus great wisdom feat from Druid 24 to access level 9 druid spells which I viewed as a small trade off for a 'spellblade' to free up an extra epic feat but one can obviously adjust this to taste (ie if you want faster Druid 9 spells then get an extra point of wis early and change epic fort or epic prowess for great strength, for example.<br/>\n<br/>\nDruids have great stat capping abilities in Bull's, Blood Frenzy, Aura of Vitality. One could swap Craft wand or Heavy Armor for Extend Spell in the build if desired.\u00a0<br/>\n<br/>\nIn terms of previous Druid / Bard / RDDs there are two builds total I could find in the ECB Archives (two) and ECB Filter Search (none):<br/>\n<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build142549.html\" rel=\"noreferrer\" target=\"_blank\">Morphea Draca</a>\u00a0druid 22 / bard 8 / red dragon disciple 10\u00a0(human?)\u00a0by sketchy_c<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build199235.html\" rel=\"noreferrer\" target=\"_blank\">A Quite (devastating) Critical Dragon</a>\u00a0druid 29 / bard 1 / red dragon disciple 10\u00a0(half-orc?)\u00a0by Dennis05<br/>\n<br/>\nOne doesn't work as Dragons have creature weapons and cannot dev crit. The other gets Dragon Shape and is a Zen Archer with a longbow.\u00a0<br/>\n<br/>\nAnyway this one looks good, so feel free to have a look and comment if desired<br/>\n<details><summary>Spoiler</summary>Druid(28), Bard(2), Red Dragon Disciple(10), Human\nSTR: 16 (34)\nCON: 12 (14)\nINT: 14 (16)\n\n01: Druid(1): Armor Proficiency Heavy, Power Attack\n03: Druid(3): Cleave\n05: Druid(5)\n07: Druid(7)\n09: Druid(9): Knockdown\n11: Druid(11)\n13: Druid(13)\n15: Druid(15): Improved Critical: Scimitar\n17: Druid(17)\n19: Druid(19)\n21: Druid(21): Epic Weapon Focus: Scimitar\n23: Druid(23)\n25: Bard(1)\n27: Red Dragon Disciple(2): Epic Prowess, (STR=22)\n29: Red Dragon Disciple(4): (STR=25)\n31: Red Dragon Disciple(6)\n33: Red Dragon Disciple(8): Devastating Critical: Scimitar\n35: Red Dragon Disciple(10): {Darkvision}, (STR=30), (CHA=10)\n37: Bard(2)\n39: Druid(27): Great Strength II, (STR=33)\n\nSkillpoints: 287\nSaving Throw bonuses: Spells: +6, Fear: +2\nAB (max, naked): 41 (melee), 25 (ranged)\nSpell Casting: Druid(9),Bard(0)\n\n\n01: Animal Empathy(1), Concentration(4), Disable Trap(1), Lore(4), Open Lock(1), Set Trap(1), Spellcraft(4), Save(9),\u00a0\n03: Concentration(1), Lore(1), Spellcraft(1), Save(17),\u00a0\n05: Concentration(1), Lore(1), Save(27),\u00a0\n07: Concentration(1), Save(39),\u00a0\n09: Concentration(1), Save(51),\u00a0\n11: Concentration(1), Save(63),\u00a0\n13: Concentration(1), Save(75),\u00a0\n15: Concentration(1), Save(87),\u00a0\n17: Concentration(1), Save(99),\u00a0\n19: Concentration(1), Save(111),\u00a0\n21: Concentration(1), Save(123),\u00a0\n23: Concentration(1), Save(135),\u00a0\n25: Concentration(1), Discipline(28), Taunt(28), Tumble(25), UMD(28), Save(38),\u00a0\n27: Concentration(1), Discipline(1), Spot(1), Save(3),\u00a0\n29: Concentration(1), Discipline(1), Spot(1), Save(7),\u00a0\n31: Concentration(1), Discipline(1), Spot(1), Save(11),\u00a0\n33: Concentration(1), Discipline(1), Spot(1), Save(15),\u00a0\n35: Concentration(1), Discipline(1), Spot(1), Save(20),\u00a0\n37: Concentration(1), Discipline(2), Taunt(12), Tumble(15), UMD(5),\u00a0\n39: Concentration(1), Spellcraft(7),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:58 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I suppose Druid/RDD is not very popular to build with because RDD doesn't bring anything major to Druid.<br/>\n<br/>\nYou give up 11 levels of Druid caster levels and a lot of Great Wisdoms for...what?<br/>\n<br/>\nStr, ayup (the obvious one with RDD).\u00a0 A bit of Int, sort of useful (skill points), but that comes pretty late in your build.\u00a0 Immunity to Fire - but aren't Fire Elementals immune to fire?\u00a0 Red Dragons as well?<br/>\n<br/>\nYou do get some Con and better HD, but that really comes late.<br/>\n<br/>\nWings...hmmm.<br/>\n<br/>\nI think this is the reason why RDD is not mixed much with Druid.\u00a0 What is your build really getting from 10 levels of RDD?\u00a0 The Bard level is rather obvious, I think.\u00a0 UMD, Tumble.<br/>\n<br/>\nWhy did you only take 1 point in Animal Empathy?<br/>\n<br/>\nI am curious to see how your build goes, if you decide to test it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:24 AM - Mar 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"19896\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19896&amp;sid=9c80d1703fede6d528ec8f3eb5639e0b#p19896\">\u2191</a><div class=\"responsive-hide\">Mar 21, 2020</div></cite>I suppose Druid/RDD is not very popular to build with because RDD doesn't bring anything major to Druid.<br/>\n<br/>\nYou give up 11 levels of Druid caster levels and a lot of Great Wisdoms for...what?<br/>\n<br/>\nStr, ayup (the obvious one with RDD).\u00a0 A bit of Int, sort of useful (skill points), but that comes pretty late in your build.\u00a0 Immunity to Fire - but aren't Fire Elementals immune to fire?\u00a0 Red Dragons as well?<br/>\n<br/>\nYou do get some Con and better HD, but that really comes late.<br/>\n<br/>\nWings...hmmm.<br/>\n<br/>\nI think this is the reason why RDD is not mixed much with Druid.\u00a0 What is your build really getting from 10 levels of RDD?\u00a0 The Bard level is rather obvious, I think.\u00a0 UMD, Tumble.<br/>\n<br/>\nWhy did you only take 1 point in Animal Empathy?<br/>\n<br/>\nI am curious to see how your build goes, if you decide to test it.</div></blockquote>\nI think Druid/RDD is not popular because Cleric/RDD, Bard/RDD, Fighter/RDD are much more popular with higher AB and more attacks / round.\u00a0\u00a0Druid builds also have polymorph in them which to maximize, one will want Monk for the extra APR + Wis AC. Druid/Monk rules out RDD. RDD has +8 Str (+4 AB +4DMG +4 Dev Crit DC), +2 Con (+1 Fort, +40hp), +4 AC, Fire Immunity its great as always.<br/>\n<br/>\nDruids do have some great spells, such as Stonehold/Grease/Entangle/SoV which disables and can destroy Dex/Tumble/Dodge AC for maybe -10 to -20 AC to opponents? Haven't done the math here but I believe it will be quite effective.\u00a0<br/>\nBasically I am making a build which enemies have to fight the Druid with dev crit in his own powerful environmental pit at the cost of spell DC/Wisdom which is capped by Owl's Insight anyway.\u00a0\u00a0<br/>\n28 CL means 85% chance of beating max toolset SR 32, the loss of CLs is fine with a dev crit scimitar druid with Base 41 AB, you get something else in exchange. It looks exciting to me.<br/>\nI did try a close to pure druid/fighter/rogue version of this build but the AB just ends up around 38-39 unless one goes half-orc which had other costs involved<br/>\n<br/>\nThe 1 point in AE is for Take 20 cheese to control certain wildlife, also there are gloves of animal empathy if you do want to use it in combat, it opens this up. you can drop it if you want<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:35 AM - Mar 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No, I am a great fan of Animal Empathy, and depending on the environment can be a huge advantage.<br/>\n<br/>\nGrab that Summons from enemy X and put it to work for you.\u00a0 Imagine the terror in your opponents eyes when that giant X turns against it!<br/>\n<br/>\nJust wondering why the 1 skill point and not more, that is all.\u00a0 I mean, RDD does bring a bit of Cha with it...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:47 AM - Mar 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice one. How much Animal Empathy do you put in your builds Web?<br/>\nI personally have no idea what a good number is<br/>\nWhat skill would you drop for it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:51 AM - Mar 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, this is the mechanic being dealt with :<br/>\n<blockquote><div>\n<ul>\n<li><strong>Check</strong>: Animals and dire animals have a difficulty class of 15 + the creature's hit dice. For beasts and magical beasts, the DC is 19 + the creature's hit dice. If the check succeeds, the creature is dominated. </li>\n</ul>\n<ul>\n<li><strong>Special</strong>: If the character fails their check by five or more, the creature will go hostile. </li>\n</ul>\n<ul>\n<li><strong>Use</strong>: Select this skill (from the quickbar) and then select the target creature. Dominated creatures will be commanded as if they were henchmen. The creature will remain dominated for one turn per level of the character using the skill. </li>\n</ul>\n</div></blockquote>\n\nSo it really depends on what one is facing in the environment as to how much to invest (also, what sort of Cha increasing stuff one has access to, and of course Animal Empathy skill increasing items, etc).<br/>\n<br/>\nThe \"highest\" animal summons is of course the Dire Tiger with 16 HD.\u00a0 So that would be a DC of 15+16=31.\u00a0 This is normally a mark to aim for if one is only interested in grabbing an opponents summons to use against them (I think this will also work on Animal Companions and Familiars if animals or beasts or magical beasts, but may require even a higher skill level).<br/>\n<br/>\nDepending on the environment, one may really want to pump it as high as possible to get the best possible murder beast.<br/>\n<br/>\nLet's take, for example, a Giant Cave Bear, a murderous weapon of mass destruction.\u00a0 It has 30 HD for this example.\u00a0 So as a normal Animal, it has a DC of 15+30=45.\u00a0 <br/>\n<br/>\nMagical Beasts, like Ankhegs would use the DC of 19+HD, of course.\u00a0 Or Purple Worms...<br/>\n<br/>\n\"You talking to me?\u00a0 Talk to the Worm first! Oh, and it doesn't understand Common!\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:08 PM - Mar 22, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can see where you are coming from Web<br/>\nIt is tricky to drop anything in the build skill wise, probably it would be Taunt but that is needed to help with dropping the AC when your spells don't work. Or Discipline, but that protects against disarms/called shots and helps resist knockdowns if you don't have Knockdown Immunity.<br/>\nPerhaps a future build I can put in a modified 31 Animal Empathy<br/>\nI'll leave it at 1 though, just in case there are some uber AE gloves or something in the environment you are in, with possibly a bard buffing you.\u00a0<br/>\nI understand the skill cap is +50 so there is a bit of leeway<br/>\n<br/>\nBuild is very easy to play btw. Level 12 very quickly, solo run Ruskis, did Orcs for fun and for some WF chests, did a party run through Dragon Cult Pt 1.<br/>\n<br/>\nIts like a scimitar wielding fighter running around in full plate and tower with an entourage of rabid bears (or whatever animals you like) flank attacking enemies tearing them apart<br/>\nThe key is my AC is about 10-20 points higher than my summons, so if I can tank for them the more value I can get out of them, especially with Greater Magic Fang + Awaken.<br/>\n<br/>\nI anticipate it will get easier to play epics with dev crit scimitar and huge AB/AC boost from RDD than most Druid builds who suffer from levels 22-early to mid 30 until they get Dragon Shape<br/>\nI never really liked that part of the Druid/Monk Wisdom Shape Focused Druid.<br/>\n<br/>\nHere's a few screenshots from playtesting, for your enjoyment.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10759084_4236d030b995603b3ca18ba4a38911ac_t.jpg\" />\n</dl>\n</span><span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10759084_afdc83e6e41c11136ef529c21677f40e_t.jpg\" />\n</dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:22 PM - Mar 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The only reason you don't often see Druid devastators is because Cleric ones are seen as better Orion.\u00a0 And while this is partially true, Druids have some tricks up their sleeves that Clerics don't have, so, If I were in your shoes I would point-out these differences as much as I could. <br/>\n<br/>\nHere, for example, you could change \"craft wand, knockdown &amp; epic fortitude\" for ESF: Conjuration to emphasize the Druid aspect of your build. Some might say it is fruitless to give ESF to a character with base 20 WIS but I disagree with this -one size fits all- approach.\u00a0 You see, Stonehold is a Will saving throw AoE save-or-suck spell &amp; for most melee monsters this is their weakest point by far, even on epic levels. Your max Stonehold DC (33) will destroy them with ease &amp; you will be running through them &amp; dev -crit, after dev-crit, after dev-crit... Show them how fair spell-casting is ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:03 PM - Mar 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I really do want to fit SF/GSF and possibly ESF: Conjuration into this build for the Grease / Stonehold / SoV massive AoE Druid Bomb<br/>\n<br/>\nThanks for providing your insights Valefor as to one way how it might be done<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:06 PM - Mar 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Can you fit Vinemine in there as well?  And Creeping Doom?<br/>\n<br/>\nMight as well go ALL IN!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:18 PM - Mar 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heh Web on top of the Grease/Stonehold/SoV, for my caster druid I would sometimes add Entangle<br/>\nOne could conceivably add Nature's Balance then start spamming spells like Call Lightning, Ice Storm, Flame Strike<br/>\nDruid has a nice toolkit against mobs<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:23 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I really like this build Orion, thank you for sharing.<br/>\n<br/>\nI can't comment on it though, as I don't have the knowledge or play experience.<br/>\n<br/>\nThis build shows the possibilities of the Druid. And I am assuming you are playtesting the build on WoG? If yes, it is a great place to even allow such unique builds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:41 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for your comment SnorriHT, encouragement is always valued as well as critique!<br/>\nYes I play-test all my builds on WoG, it is a great place to test builds, its challenging solo, lots of players happy to party, content close to 40, dev crit enabled, etc<br/>\nWith the play-testing its more to make sure I have the balance of all the elements of the build pretty good<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:33 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I agree, WoG is a great place to stress-test builds.<br/>\n<br/>\nI would like to hear more about your adventures with this build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:48 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"20009\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20009&amp;sid=5f6282b9fb419f45578b29ffab3cd808#p20009\">\u2191</a><div class=\"responsive-hide\">Mar 27, 2020</div></cite>I agree, WoG is a great place to stress-test builds.<br/>\n<br/>\nI would like to hear more about your adventures with this build.</div></blockquote>\nI agree and please include screenshots!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:40 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Really humbled by your interest.<br/>\n<br/>\nHere's a few screenshots during a solo hill giants run.<br/>\nWas a straightforward run learnt a lot during it.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10759084_5f1766288e423b815613d0605f54f056_t.jpg\" />\n</dl>\n</span><br/>\nManfighting the big boss. No need for greater water elemental to tank for me.\u00a0<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10759084_aa96b8223e2a9e66e62a85ce28d83f13_t.jpg\" />\n</dl>\n</span><br/>\nWands of call lightning are nice against low reflex saves being party friendly and all.\u00a0<br/>\nAs are Wands of Summon IV, that Dire Bear on the left is there to assist with damage to help save some of my big summons for later.<br/>\nWithin all the chaos you may observe a certain\u00a0'glowing' scimitar\u00a0<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10759084_7aa514e35ff43d2153584267c7ba61ce_t.jpg\" />\n</dl>\n</span><br/>\nEnemies can't fight back when they are encased in stone for 15+ rounds\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\nIncluding mages, they can't cast spells...<br/>\nNot sure how much AC they lose here, it would be dex/tumble and dodge that gets disabled here.\u00a0<br/>\nThe AC loss probably gets better as one advances in level<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "8:50 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Druids are the perfect companion for archers and archer/rogues, or even all rogue types if the Druid grants his compatriot some Freedom.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "SnorriHT",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:29 AM - Mar 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for screenshots Orion, I especially like the one where you are tanking the boss.<br/>\n<br/>\nHmmm...I want to play a Druid caster now :-)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:16 AM - Apr 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>SnorriHT wrote: <a data-post-id=\"20013\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20013&amp;sid=5f6282b9fb419f45578b29ffab3cd808#p20013\">\u2191</a><div class=\"responsive-hide\">Mar 27, 2020</div></cite>Thanks for screenshots Orion, I especially like the one where you are tanking the boss.<br/>\n<br/>\nHmmm...I want to play a Druid caster now :-)</div></blockquote>\nSeems like a fair fight. 2 vs 1 big Bandit Lord boss of the Cairn Hills encased in stone.<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202004/10759084_888d9371485a5b47e98d89aef3aa4732_t.jpg\" /></dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

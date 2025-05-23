@@ -1,0 +1,140 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "004",
+  "name": "Half Orc Barbarian / Bard",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/half-orc-barbarian-bard-t2354818.html",
+  "author": "ShagratGromGol",
+  "avatar": "10758851_1516210936.jpg",
+  "replies": 20,
+  "posts": [
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "3:58 PM - Feb 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi. I was never a fan of bards as a main character until NWN, and now I keep coming back to them. I've started many games, and most of my later builds are bards. My problem is I always want to try something else.\u00a0 So I thought I'd ask here and get some ideas.<br/>\n<br/>\n1) PvM.<br/>\n<br/>\n2) Level cap - OC and Hordes, which I believe is about level 27.<br/>\n<br/>\n3) Race preference - Half-orc, or possibly half-orc. Or then again half-orc. But never, ever, ever, a dwarf. Mmmmh, that sounds like a good line for a song.<br/>\n<br/>\n4) Class preference - Combat orientated Barbarian / Bard. The question is the 3rd class. RDD 10 sounds great, but I always get bored around level 7. And it impacts my bard levels. So I'm thinking 4 RDD for strength - OR - COT for extra feats - OR - no third class. In all cases I was thinking upping my Charisma 2 as I level up, the rest in strength.<br/>\n<br/>\n5) Melee preference - High-damage strength-based, possibly with battle axe when a shield would help. Specialized attacks I don't usually use, so any suggestions are welcome.<br/>\n<br/>\n6) Range preference - Must be DEX archery as my WIS is my dump stat. Even if I choose heavy armour as a feat, I would still prefer a DEX of 14, as I prefer to be flexible with use of a bow when required.<br/>\n<br/>\n7) Weapon preference - I prefer great axe as it gets the job done quicker. I tried battle axe and shield, which worked but was slow. Or maybe great axe as main weapon with battle axe and shield when required (which I presume would be better with COT).<br/>\n<br/>\nI'm also considering halberd if the halberd problem is solved in 1.69. My other worry about the halberd is that the only one I think is practical is the forged one with sonic damage. But does sonic work on deafened enemies?<br/>\n<br/>\n8) Maximum item enhancement - No idea, I have never got that far.<br/>\n<br/>\n9) Spellcasting - Buffing, possibly to cast strong offensive spells if possible. Casting spells reliably while wearing armor would be nice but not important.<br/>\n<br/>\n10) Custom factors - None.<br/>\n<br/>\nOther factors, I don't like to min max as I prefer to be flexible. I also don't like the idiot talk with an INT lower than 10, that's why I don't use INT as a dump stat. But dropping DEX for STR is an idea if use of archery makes my character too weak.<br/>\n<br/>\nAnd I always feel like UMD is cheating, so I never use it. I know, I know. But who said Half Orcs were smart?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:23 PM - Feb 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi ShagratGromGol!<br/>\nYou have a lot of thoughts about what kind of character you want to build.<br/>\n<br/>\nLet me try to sum this up: A PvM Bard/Barbarian strength based Greataxe-wielding half-orc with heavy armor and a little extra in cha and dex. Possibly some CoT or RDD. Selfbuffing in heavy armor. No cheating, no UMD, no min/maxing, no stupid talking.<br/>\n<br/>\nAlthough this can be done, much of it is counterproductive with few, if any synergies. <br/>\n<br/>\nI can build a strong lvl 30 Bard with a few extras, but that will not be a half-orc.<br/>\nI can build an armored self buffer, but that will be a Cleric.<br/>\n<br/>\nAnd if you want, I can build a strong lvl 30 (or 28) Barbarian half-orc with terrifying rage, RDD 10 with Bard as minor class to get RDD and for skill dumps. But don't expect priority on high dexterity, high charisma and high intelligence.<br/>\n<br/>\nMick<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:14 PM - Feb 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello, back again<br/>\n<br/>\nSee if you can use something like this one:<br/>\n<details><summary>Spoiler</summary>\nBarbarian(17), Bard(3), Red Dragon Disciple(10), Half-Orc\nSTR: 19 (34)\nCON: 14 (16)\nINT: 12 (14)\n\n01: Barbarian(1): Armor Proficiency Heavy\n03: Barbarian(3): Power Attack\n05: Barbarian(5)\n07: Barbarian(7)\n09: Barbarian(9): Knockdown\n11: Barbarian(11)\n13: Red Dragon Disciple(1)\n15: Red Dragon Disciple(3): Blind Fight\n17: Red Dragon Disciple(5)\n19: Red Dragon Disciple(7): (CON=16)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Greataxe, (INT=14)\n23: Bard(2)\n25: Barbarian(13)\n27: Barbarian(15): Terrifying Rage\n29: Barbarian(16)\n\n\nSaving Throw bonuses: Spells: +1, Traps: +4\nBAB: 22\nAC (naked/mundane armor/shield only): 22/33\nSpell Casting: Scrolls and UMD\n\nDiscipline 33(45), Intimidate 33(32), Listen 33(32), Lore 8(13), Spellcraft 3(5), Tumble 30(30), UMD 12(11), remaining skillpoints 2\n01: Discipline(4), Intimidate(4), Listen(4), Lore(4), Save(4), \n03: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(6), \n05: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(8), \n07: Discipline(1), Intimidate(1), Listen(1), Save(12), \n09: Discipline(1), Listen(1), Save(17), \n11: Discipline(1), Listen(1), Save(23), \n13: Discipline(1), Listen(2),\n15: Discipline(1), Listen(1), Save(2), \n17: Discipline(1), Listen(1), Save(4), \n19: Discipline(1), Listen(1), Save(6), \n21: Discipline(1), Listen(1), Save(8), \n23: Discipline(1), Tumble(10), Save(5), \n25: Discipline(1), Intimidate(4), Listen(1), \n27: Discipline(1), Intimidate(2), Save(3), \n29: Discipline(1), Intimidate(2), Listen(3), </details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:43 PM - Feb 12, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nHello, back again<br/>\n<br/>\nSee if you can use something like this one:<br/>\n<details><summary>Spoiler</summary>\nBarbarian(17), Bard(3), Red Dragon Disciple(10), Half-Orc\nSTR: 19 (34)\nCON: 14 (16)\nINT: 12 (14)\n\n01: Barbarian(1): Armor Proficiency Heavy\n03: Barbarian(3): Power Attack\n05: Barbarian(5)\n07: Barbarian(7)\n09: Barbarian(9): Knockdown\n11: Barbarian(11)\n13: Red Dragon Disciple(1)\n15: Red Dragon Disciple(3): Blind Fight\n17: Red Dragon Disciple(5)\n19: Red Dragon Disciple(7): (CON=16)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Greataxe, (INT=14)\n23: Bard(2)\n25: Barbarian(13)\n27: Barbarian(15): Terrifying Rage\n29: Barbarian(16)\n\n\nSaving Throw bonuses: Spells: +1, Traps: +4\nBAB: 22\nAC (naked/mundane armor/shield only): 22/33\nSpell Casting: Scrolls and UMD\n\nDiscipline 33(45), Intimidate 33(32), Listen 33(32), Lore 8(13), Spellcraft 3(5), Tumble 30(30), UMD 12(11), remaining skillpoints 2\n01: Discipline(4), Intimidate(4), Listen(4), Lore(4), Save(4), \n03: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(6), \n05: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(8), \n07: Discipline(1), Intimidate(1), Listen(1), Save(12), \n09: Discipline(1), Listen(1), Save(17), \n11: Discipline(1), Listen(1), Save(23), \n13: Discipline(1), Listen(2),\n15: Discipline(1), Listen(1), Save(2), \n17: Discipline(1), Listen(1), Save(4), \n19: Discipline(1), Listen(1), Save(6), \n21: Discipline(1), Listen(1), Save(8), \n23: Discipline(1), Tumble(10), Save(5), \n25: Discipline(1), Intimidate(4), Listen(1), \n27: Discipline(1), Intimidate(2), Save(3), \n29: Discipline(1), Intimidate(2), Listen(3), </details>\n</div></blockquote>\n\nHi Mick, I know this isn't my request, but I hope neither you nor Shagrat mind if I ask a question or two from a position of at best wobbly knowledge...<br/>\n<br/>\nIf you're not planning on making use of Bard Song (no Perform being taken), then why Bard over, say, Rogue?<br/>\n<br/>\nEqually - and acknowledging the low CHA - it seems a little odd that you're taking nothing in Taunt. I notice you couldn't resist a few points in UMD, but would Taunt or Perform be a better option?<br/>\n<br/>\nI do appreciate the early lack of skill points, but what with you being my skills top banana, I thought I had to ask.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:44 AM - Feb 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag<br/>\nBard is there first and foremost to qualify for RDD.<br/>\nHere I also use it to get some skill dumps in tumble and also UMD and a couple of spare points in spellcraft.<br/>\nA level 3 song does not give very much more than +1 to AB and damage, and only 3 times per day. Imo not worth 10 skillpoints in this starved build.<br/>\nIf you want skills, go human for 2 full skills extra.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:54 AM - Feb 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nStag<br/>\nBard is there first and foremost to qualify for RDD.<br/>\nHere I also use it to get some skill dumps in tumble and also UMD and a couple of spare points in spellcraft.<br/>\nA level 3 song does not give very much more than +1 to AB and damage, and only 3 times per day. Imo not worth 10 skillpoints in this starved build.<br/>\nIf you want skills, go human for 2 full skills extra.\n</div></blockquote>\n\nCan't find an emoji for the echoing ba-doing of a soft and empty skull echoing off a rock - RDD, of course!<br/>\n<br/>\nFair enough on the singing side of things. But, given Shagrat's said he doesn't use UMD...where does that leave Taunt?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:54 AM - Feb 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">HotU is intended to follow SoU, not the OC. The NPCs are supposed to recognize you as the hero from SoU, but they won't if you aren't. Also, the OC will put your level a little bit too high for starting HotU. How abut playing SoU and HotU (with The Nether Scrolls as an optional bridge module in between), and follow HotU with the Sands of Fate series to get all the way to level 40?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:10 AM - Feb 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>\nShat's said he doesn't use UMD...where does that leave Taunt?\n</div></blockquote>\n\nIf you drop umd and spellcraft, I think that leaves 18 points for taunt. The AB is quite good, so you don't need taunt desperately, especially not in the OC.But it can be nice to use  together with power attack to be able to land more high damage hits.<br/>\n<br/>\nI say umd is better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:32 AM - Feb 13, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Multiple replies still scare me, so I'll go old school...<br/>\n<br/>\n@ Empyre: Maybe another alternative for a \"Hulk bash, Hulk smash\" type of build (my favourites) would be the OC then Mines of Twin Summit?<br/>\n<br/>\n@ Mick: Thanks, it's good to know the thinking behind such decisions - it all helps me learn, even if everyone else knows it already!<br/>\n<br/>\nOh, almost forgot...Hey, Shagrat, what do you think? And at the risk of getting that Half Orcish blood up, where is it written that the other half of the orc couldn't be dwarven? <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:06 AM - Feb 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\" Maybe another alternative for a \"Hulk bash, Hulk smash\" type of build (my favourites) would be the OC then Mines of Twin Summit?\"<br/>\nThat would good, too.<br/>\n<br/>\n\"where is it written that the other half of the orc couldn't be dwarven?\"<br/>\nI am sure that could happen in the Forgotten Realms, but not in NWN as a playable character. You could role-play it that way, but the actual character build would not be affected.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "4:59 PM - Feb 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nHello, back again<br/>\n<br/>\nSee if you can use something like this one:<br/>\n<details><summary>Spoiler</summary>\nBarbarian(17), Bard(3), Red Dragon Disciple(10), Half-Orc\nSTR: 19 (34)\nCON: 14 (16)\nINT: 12 (14)\n\n01: Barbarian(1): Armor Proficiency Heavy\n03: Barbarian(3): Power Attack\n05: Barbarian(5)\n07: Barbarian(7)\n09: Barbarian(9): Knockdown\n11: Barbarian(11)\n13: Red Dragon Disciple(1)\n15: Red Dragon Disciple(3): Blind Fight\n17: Red Dragon Disciple(5)\n19: Red Dragon Disciple(7): (CON=16)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Greataxe, (INT=14)\n23: Bard(2)\n25: Barbarian(13)\n27: Barbarian(15): Terrifying Rage\n29: Barbarian(16)\n\n\nSaving Throw bonuses: Spells: +1, Traps: +4\nBAB: 22\nAC (naked/mundane armor/shield only): 22/33\nSpell Casting: Scrolls and UMD\n\nDiscipline 33(45), Intimidate 33(32), Listen 33(32), Lore 8(13), Spellcraft 3(5), Tumble 30(30), UMD 12(11), remaining skillpoints 2\n01: Discipline(4), Intimidate(4), Listen(4), Lore(4), Save(4), \n03: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(6), \n05: Discipline(1), Intimidate(1), Listen(1), Lore(1), Save(8), \n07: Discipline(1), Intimidate(1), Listen(1), Save(12), \n09: Discipline(1), Listen(1), Save(17), \n11: Discipline(1), Listen(1), Save(23), \n13: Discipline(1), Listen(2),\n15: Discipline(1), Listen(1), Save(2), \n17: Discipline(1), Listen(1), Save(4), \n19: Discipline(1), Listen(1), Save(6), \n21: Discipline(1), Listen(1), Save(8), \n23: Discipline(1), Tumble(10), Save(5), \n25: Discipline(1), Intimidate(4), Listen(1), \n27: Discipline(1), Intimidate(2), Save(3), \n29: Discipline(1), Intimidate(2), Listen(3), </details>\n</div></blockquote>\n\nThanks for the build, it's similar to one of mine. Unfortunately it's parked up at the minute as I found it a little boring. I do move it forward at times, normally when I've had a few beers, because it gets the job done.<br/>\n<br/>\nBut then I get the calling of the bard.<br/>\n<br/>\nYou know how it is when you get a line in your head about bashing a dwarf on the head, and you have to find the rest of the lyrics.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "5:37 PM - Feb 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nMultiple replies still scare me, so I'll go old school...<br/>\n<br/>\n@ Empyre: Maybe another alternative for a \"Hulk bash, Hulk smash\" type of build (my favourites) would be the OC then Mines of Twin Summit?<br/>\n<br/>\n@ Mick: Thanks, it's good to know the thinking behind such decisions - it all helps me learn, even if everyone else knows it already!<br/>\n<br/>\nOh, almost forgot...Hey, Shagrat, what do you think? And at the risk of getting that Half Orcish blood up, where is it written that the other half of the orc couldn't be dwarven? <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />\n</div></blockquote>\n<em>OK, play it cool, Shagrat, remember why you were kicked out of flower arranging class, ... yes, I know, pink and blue is cliched, but Lady Crinkley is a traditionalist, so back to the topic, think of this as a sillyphosophical question, you can do this, OK and go</em> ...<br/>\n<br/>\nHi Stagmeister, what a <strong>GREAT</strong> sillyphosophical question. ... <em>don't over do it, your diplomacy skills are not that good</em> ... Anyone <strong>that</strong> evil to create a half orc, half dwarf ... <em>and breath</em> ... would create the most self loathing creature possible. I guess it would be high on strength, constitution and anger, and would wade in any fight with axe swinging, no questions asked.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:53 PM - Feb 14, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, but can you imagine what a phenomenal army that would be? Abroad, preferably - wouldn't want them camped next door for too long. In any case, sorry for the wind-up - have some petunias and chocolate gnome-cakes.<br/>\n<br/>\nIf you're not an RDD fan, have you had a look through our Filter? There are a couple of builds you might like, depending on your proclivities. Unfortunately, neither contains Bard, but you might like to give them a look anyway...<br/>\n<br/>\nOne is another one of Mick's builds - <strong>Champion of Gruumsh</strong> (Barbarian 10/ Rogue 2/ Black Guard 28), which is number 135 in the filter. The other is Max Kane's re-working of <strong>Daelan Red Tiger</strong> (Barbarian 17/ CoT 18/ Harper Scout 5), at\u00a0 number 60.<br/>\n<br/>\nIf you don't have the filter yet, you can download it from the ECB Guild Filter thread in the Rules and Tools section. Doddle - even I can do it.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "11:58 AM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAh, but can you imagine what a phenomenal army that would be? Abroad, preferably - wouldn't want them camped next door for too long. In any case, sorry for the wind-up - have some petunias and chocolate gnome-cakes.<br/>\n<br/>\nIf you're not an RDD fan, have you had a look through our Filter? There are a couple of builds you might like, depending on your proclivities. Unfortunately, neither contains Bard, but you might like to give them a look anyway...<br/>\n<br/>\nOne is another one of Mick's builds - <strong>Champion of Gruumsh</strong> (Barbarian 10/ Rogue 2/ Black Guard 28), which is number 135 in the filter. The other is Max Kane's re-working of <strong>Daelan Red Tiger</strong> (Barbarian 17/ CoT 18/ Harper Scout 5), at\u00a0 number 60.<br/>\n<br/>\nIf you don't have the filter yet, you can download it from the ECB Guild Filter thread in the Rules and Tools section. Doddle - even I can do it.<br/>\n<br/>\nCheers\n</div></blockquote>\n\nSorry, I should have been more clear. I only have the OC and hordes, hence the level 27 maximum.<br/>\n<br/>\nAnd it's not that I don't like the RDD, it's just that I get bored around level 7. Hence my idea of only doing 4 levels of RDD for the extra strength while still allowing me to develop my bard. And then along come all the other ideas, such as going COT instead for weapon feats, or a low DEX character who forgoes archery for greater strength, or forgetting a third class altogether, etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:39 PM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you get bored ShaGrom, perhaps a solution is to download some better modules? <br/>\nThat being said, I catch your melody, so to speak. It is possible to create interesting characters that are less powerful, but more challenging and maybe more fun.<br/>\nA Half-orc bardic temptress can be fun to roleplay, but it is an uphill struggle with low charisma and intelligence to start with, and consequently less points to spend on strength.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:01 PM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You have the OC and HotU, but not SoU? Part of the great appeal of NWN is the fact that there is so much custom content, but almost all of it assumes that you have the complete set. It would be totally worthwhile to spend about ten bucks at GOG so you have the complete set so you can use the custom content, like the Sands of Fate series for after HotU, or the Twin Summit series for after the OC, either of which will bring you all the way to level 40, or the awesome Aielund Saga, which brings you from level 1 to level 36, and there is so much more.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "6:13 PM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nIf you get bored ShaGrom, perhaps a solution is to download some better modules? <br/>\nThat being said, I catch your melody, so to speak. It is possible to create interesting characters that are less powerful, but more challenging and maybe more fun.<br/>\nA Half-orc bardic temptress can be fun to roleplay, but it is an uphill struggle with low charisma and intelligence to start with, and consequently less points to spend on strength.\n</div></blockquote>\n\nI meant bored with RDD at around level 7.<br/>\n<br/>\nI find it hard to get bored with a bard. It's the \"what if I did this factor\" that gets me. And getting ideas from your \"how to be a bard\" posts don't help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ShagratGromGol",
+      "avatar": "10758851_1516210936.jpg",
+      "timestamp": "6:15 PM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nYou have the OC and HotU, but not SoU? Part of the great appeal of NWN is the fact that there is so much custom content, but almost all of it assumes that you have the complete set. It would be totally worthwhile to spend about ten bucks at GOG so you have the complete set so you can use the custom content, like the Sands of Fate series for after HotU, or the Twin Summit series for after the OC, either of which will bring you all the way to level 40, or the awesome Aielund Saga, which brings you from level 1 to level 36, and there is so much more.\n</div></blockquote>\n\nBuy another game!!! My wife would kill me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:39 PM - Feb 15, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>ShagratGromGol wrote:</cite>\n<blockquote><div><cite>Empyre65 wrote:</cite>\nYou have the OC and HotU, but not SoU? Part of the great appeal of NWN is the fact that there is so much custom content, but almost all of it assumes that you have the complete set. It would be totally worthwhile to spend about ten bucks at GOG so you have the complete set so you can use the custom content, like the Sands of Fate series for after HotU, or the Twin Summit series for after the OC, either of which will bring you all the way to level 40, or the awesome Aielund Saga, which brings you from level 1 to level 36, and there is so much more.\n</div></blockquote>\n\nBuy another game!!! My wife would kill me.\n</div></blockquote>\n\nIt's only Shadows of Undrentide you're lacking - if I read this right - and then all the other stuff is free from the Neverwinter Vault. Or are we being half orc, half egg-laying clucking thing? (Sorry, running with a dwarf atm, and the roleplay is getting worrying...)<br/>\n<br/>\nSeriously, if you don't try Aielund you're being a fool to yourself - it's soooooooo much better than the official stuff. It took me over a year of playing before I downloaded it, despite encouragement to do so from the great and good, and have kicked myself for taking so long ever since. Oh, and there are many kewler half-orc avatars available there, too - and Bard gets an extra 2 skill points per level as well.<br/>\n<br/>\nGo on, you know you want to...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:39 AM - Feb 16, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What I suspect is that Aielund and most other custom modules will assume he has SoU and use stuff from SoU and not work without SoU. There might still be some really old stuff that requires only the OC. The days before SoU were before my time. I got NWN in the platinum edition, which has both expansion packs plus some premium modules, but fewer of them than diamond edition.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:53 AM - Feb 16, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you don't have SoU installed, you miss out on\u00a0some of the\u00a0coolest prestige classes in NWN:\u00a0 Arcane archer, Assassin, Blackguard, Harper scout, and Shadowdancer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

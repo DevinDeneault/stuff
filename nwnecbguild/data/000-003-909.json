@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "909",
+  "name": "Death Metal Bardbarian: Barbarian 16 / Bard 21 / Blackguard 3",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/death-metal-bardbarian-barbarian-16-bard-21-blackg-t2354984.html",
+  "author": "EasternPromises",
+  "avatar": "10759017_1547723389.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "5:27 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good evening metal fans,<br/>\n<br/>\nI was minding my business listening to extremely edgy metal when the idea for rage and music fusion came to me. What if music could INCREASE how scary you are while LOWERING your target's ability to deal with it, then fly into a bloodrage to paralyze them with fear?! Well now you can! <br/>\n<br/>\nTerrifying Rage, Taunt+Expertise, UMD, Spellcraft, Tumble, LI+Epic Bard Song, Dark Blessing, and Divine Might. You'll have no issues hitting the STR cap with rage so PUMP YOUR CHARISMA. It boosts saves, damage, and your FEAR FACTOR. Divine Shield not included, alignment restrictions apply. I would use a scimitar and tower but it works nicely with a greatsword.<br/>\n<br/>\nHere is the Death Metal Bardbarian:<br/>\n<br/>\nBarbarian(16), Bard(21), Blackguard(3), Human<br/>\n\u00a0<br/>\nSTR: 16 (26)<br/>\nDEX: 8<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 16<br/>\n\u00a0<br/>\nHuman: (Quick to Master)<br/>\n01: Barbarian(1): Power Attack, Expertise<br/>\n02: Barbarian(2): {Uncanny Dodge I}<br/>\n03: Barbarian(3): Cleave<br/>\n04: Barbarian(4): STR+1, (STR=17)<br/>\n05: Barbarian(5)<br/>\n06: Barbarian(6): Weapon Focus<br/>\n07: Barbarian(7)<br/>\n08: Barbarian(8): STR+1, (STR=18)<br/>\n09: Bard(1): Blind Fight<br/>\n10: Blackguard(1)<br/>\n11: Blackguard(2): {Smite Good}<br/>\n12: Blackguard(3): STR+1, Divine Might, (STR=19)<br/>\n13: Barbarian(9)<br/>\n14: Barbarian(10)<br/>\n15: Bard(2): Curse Song<br/>\n16: Barbarian(11): STR+1, (STR=20)<br/>\n17: Barbarian(12)<br/>\n18: Bard(3): Still Spell<br/>\n19: Barbarian(13)<br/>\n20: Bard(4): STR+1, (STR=21)<br/>\n21: Bard(5): Epic Skill Focus: Intimidate<br/>\n22: Bard(6)<br/>\n23: Barbarian(14)<br/>\n24: Barbarian(15): STR+1, Terrifying Rage, (STR=22)<br/>\n25: Bard(7)<br/>\n26: Bard(8)<br/>\n27: Bard(9): Epic Weapon Focus<br/>\n28: Bard(10): STR+1, (STR=23)<br/>\n29: Bard(11)<br/>\n30: Bard(12): Armor Skin<br/>\n31: Bard(13)<br/>\n32: Bard(14): STR+1, (STR=24)<br/>\n33: Bard(15): Epic Prowess<br/>\n34: Bard(16)<br/>\n35: Bard(17)<br/>\n36: Bard(18): STR+1, Improved Critical, (STR=25)<br/>\n37: Bard(19)<br/>\n38: Bard(20)<br/>\n39: Bard(21): Lasting Inspiration<br/>\n40: Barbarian(16): STR+1, (STR=26)<br/>\n\u00a0<br/>\nHitpoints: 388<br/>\nSkillpoints: 295<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/21/21<br/>\nSaving Throw bonuses: Spells: +8, Traps: +4<br/>\nBAB: 29<br/>\nAB (max, naked): 41 (melee), 29 (ranged)<br/>\nAC (naked/mundane armor/shield only): 19/30<br/>\nSpell Casting: Bard(6)<br/>\nAlignment Changes: 0<br/>\n\u00a0<br/>\nHide 5(4), Intimidate 43(56), Listen 43(42), Perform 42(45), Spellcraft 42(44), Taunt 43(46), Tumble 40(39), UMD 37(40)<br/>\n\u00a0<br/>\n\u00a0<br/>\n01: Intimidate(4), Listen(4), Taunt(4), Save(16), <br/>\n02: Intimidate(1), Listen(1), Taunt(1), Save(20), <br/>\n03: Intimidate(1), Listen(1), Taunt(1), Save(24), <br/>\n04: Intimidate(1), Listen(1), Taunt(1), Save(28), <br/>\n05: Intimidate(1), Listen(1), Taunt(1), Save(32), <br/>\n06: Intimidate(1), Listen(1), Taunt(1), Save(36), <br/>\n07: Intimidate(1), Listen(1), Taunt(1), Save(40), <br/>\n08: Intimidate(1), Listen(1), Taunt(1), Save(44), <br/>\n09: Hide(5), Listen(1), Perform(1), Spellcraft(10), Taunt(1), Tumble(10), UMD(12), Save(11), <br/>\n10: Intimidate(2), Taunt(1), Save(13), <br/>\n11: Intimidate(1), Taunt(1), Save(16), <br/>\n12: Intimidate(1), Taunt(1), Save(19), <br/>\n13: Intimidate(1), Listen(4), Taunt(1), Save(20), <br/>\n14: Intimidate(1), Listen(1), Taunt(1), Save(24), <br/>\n15: Listen(1), Perform(2), Spellcraft(5), Taunt(1), Tumble(5), UMD(6), Save(11), <br/>\n16: Intimidate(2), Listen(1), Taunt(1), Save(14), <br/>\n17: Intimidate(1), Listen(1), Taunt(1), Save(18), <br/>\n18: Listen(1), Perform(3), Spellcraft(6), Taunt(1), Tumble(5), UMD(3), Save(6), <br/>\n19: Intimidate(2), Listen(1), Taunt(1), Save(9), <br/>\n20: Listen(1), Spellcraft(2), Taunt(1), UMD(2), Save(10), <br/>\n21: Listen(1), Spellcraft(1), Taunt(1), UMD(1), Save(13), <br/>\n22: Listen(1), Perform(3), Spellcraft(1), Taunt(1), Tumble(5), UMD(1), Save(8), <br/>\n23: Intimidate(4), Listen(1), Taunt(1), Save(9), <br/>\n24: Intimidate(1), Listen(1), Taunt(1), Save(13), <br/>\n25: Listen(1), Spellcraft(3), Taunt(1), UMD(3), Save(12), <br/>\n26: Listen(1), Perform(3), Spellcraft(1), Taunt(1), UMD(1), Save(12), <br/>\n27: Listen(1), Spellcraft(1), Taunt(1), Tumble(5), UMD(1), Save(10), <br/>\n28: Listen(1), Spellcraft(1), Taunt(1), UMD(1), Save(13), <br/>\n29: Listen(1), Perform(3), Spellcraft(1), Taunt(1), UMD(1), Save(13), <br/>\n30: Listen(1), Spellcraft(1), Taunt(1), UMD(1), Save(16), <br/>\n31: Listen(1), Spellcraft(1), Taunt(1), UMD(1), Save(19), <br/>\n32: Listen(1), Perform(3), Spellcraft(1), Taunt(1), Tumble(5), UMD(1), Save(14), <br/>\n33: Listen(1), Perform(3), Spellcraft(1), Taunt(1), UMD(1), Save(14), <br/>\n34: Listen(1), Perform(6), Spellcraft(1), Taunt(1), UMD(1), Save(11), <br/>\n35: Listen(1), Perform(5), Spellcraft(1), Taunt(1), Save(10), <br/>\n36: Listen(1), Perform(5), Spellcraft(1), Taunt(1), Save(9), <br/>\n37: Listen(1), Perform(3), Spellcraft(1), Taunt(1), Tumble(5), Save(5), <br/>\n38: Listen(1), Perform(1), Spellcraft(1), Taunt(1), Save(8), <br/>\n39: Listen(1), Perform(1), Spellcraft(1), Taunt(1), Save(11), <br/>\n40: Intimidate(16), Listen(1), Taunt(1),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:09 AM - Jan 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another interesting one Promises, <br/>\nA little tight on feats but that's the nature of these builds, anyway,<br/>\n<br/>\nCorrect me If I am wrong, but I think it is possible to take Lasting Inspiration with 20 levels of Bard, right?<br/>\nIf that's indeed the case then going for either Barbarian 17 OR Blackguard 4 might be a better idea, both give something nice at those levels<br/>\nIf Blackguard is taken to 4th level then I would replace Intimidate focus with Divine Shield,<br/>\n<br/>\nEsf: Intimidate isn't needed in this particular build, you have a positive charisma &amp; the effects of both Bard/Curse song are going to boost that even further,<br/>\nI might take that focus on Taunt instead, but another idea is to rely on \"keen edge\" for my scimitar &amp; go for 2X Gr. Strengths instead finishing on 28 Str.<br/>\nI like the Expertise+Taunt combo and I like your skill-set, I would only change \"listen\" for \"discipline\", even though I am a big fan of \"listen\" myself.<br/>\n<br/>\nKeep in mind that all of my suggestions are for \"normal\" PW's/modules &amp; if you are building this for Blackstone Keep instead, then I totally understand why you did things the way you did,<br/>\n(for example, there you can hit the dodge cap easily already with this build so DS is out.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:53 AM - Jan 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, the name is awesome!!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:43 PM - Jan 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like this build. An epic bard boosted with feats from both barbarian and blackguard!<br/>\nI have built with barbarian/bard, bard/blackguard and barbarian/blackguard, but I cannot find any builds in my build folders that combine all 3 of them! <br/>\nI can confirm that you can take Lasting inspiration with 20 bard levels, as long as you have an epic character.<br/>\nI might also add that with ESF: Perform, you have enough ranks (55) for the level 21 song.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "7:54 PM - Jan 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I ended up taking an extra level of Barbarian somewhere of the middle of the bard levels to smooth out Intimidate progression. If ESF: Intimidate isn't there to compensate I felt it was too low, but I had no trouble with most mobs and I got a point of DR. BG 4 so I could sneak attack paralyzed foes was also tempting. <br/>\n<br/>\nThis is one of the builds I feel is unique enough and tested enough to post for real, what do you think?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:13 PM - Jan 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Definitely.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:43 PM - Jan 14, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think so. It deserves a place in the regular level 40 builds section.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "290",
+  "name": "NWN vs. proxy",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-vs-proxy-t515459.html",
+  "author": "Dzmitry",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Dzmitry",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:53 PM - Sep 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all. <br/>\n<br/>\nHere is my question: does anyone try to run NWN and play online through proxy, which has login and password? Few people I ask in our community, says, that it's impossible, but I hope here is some resolution. So, does anyone have a succesful attempt with running NWN through proxy? Or not?<br/>\n<br/>\nThanx.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "8:24 PM - Sep 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The proxy settings are set by the network admin for security reasons.  They purposely block certain sites like gaming, porno, etc. access which cannot be hakked unless they are woeful at their duties, in which case they will soon be looking for another job.  I suggest you contact your networking department to plead your case for gaining access to a gaming site.  If it's a school or college, don't waste your time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Dzmitry",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:39 PM - Sep 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, problem is, that NWN don't wont work with proxy. I have it on my work, I'm some kind of administrator there, but I can't remove it at all, cause other users get internet connection through it. I thought, that maybe some settings are added to nwn ini files or maybe some software is needed to make it work... I don't know...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "10:38 PM - Sep 12, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, this not a task for amateurs.  You need to know how to set up port forwarding for your particular router and firewall.  But if you are a networking admin, you should have the authority to control and customize the port forwarding yourself.<br/>\n<br/>\nHere are a few links which relate applicable information and pose some solutions:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://support.microsoft.com/kb/323712\" rel=\"noreferrer\" target=\"_blank\">http://support.microsoft.com/kb/323712</a><br/>\n<a class=\"postlink\" href=\"http://www.overclockers.com/forums/showthread.php?t=516936\" rel=\"noreferrer\" target=\"_blank\">http://www.overclockers.com/forums/show ... p?t=516936</a><br/>\n<a class=\"postlink\" href=\"http://windows.microsoft.com/en-US/windows-vista/Play-online-games-through-a-firewall-or-proxy-server\" rel=\"noreferrer\" target=\"_blank\">http://windows.microsoft.com/en-US/wind ... oxy-server</a><br/>\n<a class=\"postlink\" href=\"http://portforward.com/\" rel=\"noreferrer\" target=\"_blank\">http://portforward.com/</a><br/>\n<br/>\nKeep in mind, that setting up a proxy server properly to handle communications between game servers requires intimate knowledge of the equipment you are using.  In my own experience, even when adequate ports have been set up, running a game through a proxy is very slow and drop-outs are common and unpredictable, being based on whether the packets are moving fast enough.  You are welcome to try, but I think you may be disappointed in the performance even after you have configured it properly...  which is probably why there are so few instructional outlets on the Web for this sort of thing... it's just not worth all the effort.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

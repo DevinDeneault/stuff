@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "007",
+  "name": "Anyone know how to enter melee combat without running?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/anyone-know-how-to-enter-melee-combat-without-runn-t2356306.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:40 PM - Feb 07, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Other than waiting for the opponent to come to you, does anyone know any way to enter melee combat without running?<br/>\n<br/>\nWhenever I click on an opponent, my PC runs - this makes my PC not only susceptible to the AoO rule (entering combat while running) but ALSO for some reason makes one flatfooted now (meaning total AC loss).<br/>\n<br/>\nAnd no, I do NOT want to walk everywhere!!!!!<br/>\n<br/>\nThe reason for this is that the AI knows exactly where your weapon reach is, stops the AI controlled opponents right before that, and has them \"walk\" into you and combat...which allows them to<br/>\n<br/>\nA) Avoid AoO<br/>\nB) Avoid being Flat-footed<br/>\n<br/>\nBut you, as a human, cannot do this most of the time (even if you time it, different weapons, different types of opponents, all have different reaches that you cannot see, but the AI can).<br/>\n<br/>\nIt gets worse on Horseback...much, much worse.\u00a0 So bad, that I will not go into melee on Horseback anymore.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:27 PM - Feb 07, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">To walk, enter stealth or detection mode.<br/>\nOr you can press shift.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:59 PM - Feb 07, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, I know about Shift, but if you click on something to enter combat, you will start to run.<br/>\n<br/>\nIs there any way to prevent that (does stealth/detect do that)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:10 PM - Feb 07, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, Mick!\u00a0 Stealth mode actually works just fine!\u00a0 This is incredible, click on an opponent, wait until you get near (not within melee range) and then just hit the Detect/Stealth button!\u00a0 Your PC will continue towards the enemy, but not at a run!\u00a0 It's absolutely genius!<br/>\n<br/>\nLearned something new today, thank you Mick.<br/>\n<br/>\nElves can't do detect mode.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

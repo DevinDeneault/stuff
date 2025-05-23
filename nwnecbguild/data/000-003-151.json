@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "151",
+  "name": "For the OC and Expansions",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/for-the-oc-and-expansions-t2354551.html",
+  "author": "OmegaSage",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "OmegaSage",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:48 AM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I wanna try out the Shifter. I stumbled across one posted with 5M/6D/11SH, and I guess it looks cool. Not entirely sure why the Monk levels instead of say... umm.... no clue what if anything synergizes with Shifter though. XD I saw wnth post, I think it was a note left on the old epic builds, saying for Dragon form you need 18 in Druid? So how would (pre-20) 5M/11SH/4D then building to somehting like 18D/5M/11SH????<br/>\n<br/>\n Are there any online planners available for this game by chance, would help a lot. Love theory crafting builds and stuff.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:07 AM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not clear exactly what you are looking to do.\u00a0 For the OC, you will need a level 18 build.\u00a0 For SoU/HotU, one capped at 28.\u00a0 Neither of those are suitable for a dragon shape focus even with bridge modules stuck in.\n<blockquote><div><strong>OmegaSage wrote:</strong><hr/>\n So how would (pre-20) 5M/11SH/4D then building to somehting like 18D/5M/11SH????<br/>\n<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n You need at least Dru 5 to qualify for shifter.\u00a0 Also, only 10 levels of shifter is available during pre-epic.\u00a0 If you go shifter, you don't need Dru 18 unless you want that many levels.\u00a0 That's for a druid dragon shape.\u00a0 Ummm... let's see if I can capsulize...<br/>\n<br/>\n For <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Dragon_shape\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Dragon Shape</strong></span></a> only druid 18 (WildShp x6)\u00a0 or shifter 10 is required.\u00a0 Your main problem will be reaching WIS 30 and for the earliest DS possible, CoT must be used. Either dru/mnk/CoT or dru/shf/CoT requires Level 30 to qualify for DS, the earliest unless custom content changes those requirements.<br/>\n<br/>\n Monk AC, WIS AC, monk speed and feats merge with all forms.\u00a0 Monk attack progression (-3 BAB) only merges with shapes that use creature weapons.<br/>\n<br/>\n edit:\u00a0 Just to give you a taste of playing shifter in a limited campaign, here is a sample build to try out.\u00a0 After becoming more familiar with how shifting works, leave your impressions in this thread.\u00a0 I've played a Risen Lord before in the SoU/HotU combo with success so once you have established your own style, I could dig that one up for a 28-level cap build.<br/>\n<br/>\n This one, however, focuses on (but not limited to) 3 shapes: Wyrmling, Minotaur, Drider... in that order.\u00a0 For stronger minotaur (in case Level 18/shf 5 seems unreachable), use alternate feat sequence.\u00a0 Only wyrmling (and other unarmed shapes) will benefit from the monk attack progression.\u00a0 The merge is always better for armed shapes. 93 skill points are left open for allocation of your personal preference (eg. high stealth, heal or xclass skills).\u00a0 Attack: 3 APR w/weapons, 4 APR unarmed. Dru 7 @ Lvl 11 assures full druid circle quest is available.\u00a0 Ignore the native combat stats because they will be adjusted by the current shape.<br/>\nSpoiler [+]<br/>\n<br/>\n OC Shifter: Druid(7), Monk(6), Shifter(5), Lawful Neutral Human<br/>\n<br/>\n STR: 10<br/>\n DEX: 14<br/>\n CON: 14<br/>\n WIS: 16 (20)<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n 01: Dru(1): Alertness, Blind Fight<br/>\n 02: Mnk(1)<br/>\n 03: Dru(2): Toughness (effective for all shapes)<br/>\n 04: Dru(3): WIS+1 (17)<br/>\n 05: Dru(4)<br/>\n 06: Dru(5): Extend Spell<br/>\n 07: Dru(6)<br/>\n 08: Shf(1): WIS+1 (18)<br/>\n 09: Shf(2): Dodge (or <em>Expertise</em> if you plan on spamming lots of wyrmling breath attacks)<br/>\n 10: Shf(3)<br/>\n 11: Dru(7) ---&gt; Stoneskin available for unarmed shape DR penetration<br/>\n 12: Mnk(2): WIS+1 (19), ImpCrit: Unarmed (Alt: WP Martial)<br/>\n 13: Mnk(3)<br/>\n 14: Mnk(4)<br/>\n 15: Mnk(5): ImpCrit: Spear\u00a0 (Alt: WF: Battleaxe)<br/>\n 16: Shf(4): WIS+1 (20)<br/>\n 17: Mnk(6)<br/>\n 18: Shf(5): WF: Spear (Alt: ImpCrit: Battleaxe)<br/>\n<br/>\n Monk feats accrued: Cleave, Evasion, Imp Unarmed Strike, Stunning Fist, Deflect Arrows, KD/IKD<br/>\n WIS 20 slot bonus: 2,1,1,1<br/>\n<br/>\n HP: 198<br/>\n Saves (F/W/R): 16/16/13 (19/19/16 v spells)<br/>\n Add'l saves:\u00a0 Mind Effects: +2, Fear: +2<br/>\n BAB: 12<br/>\n AB (max, naked): 13 (melee), 14 (ranged)<br/>\n AC (naked/mundane armor/shield only): 22/24<br/>\n<br/>\n Animal Empathy 1(0), Discipline 20(20), Spellcraft 13(15), Tumble 20(22), remaining -----&gt; 93<br/>\n<br/>\n 01: Animal Empathy(1), Spellcraft(4), Save(23)<br/>\n 02: Discipline(5), Tumble(5), Save(20)<br/>\n 03: Spellcraft(2), Save(25)<br/>\n 04: Spellcraft(1), Save(31)<br/>\n 05: Spellcraft(1), Save(37)<br/>\n 06: Spellcraft(1), Save(43)<br/>\n 07: Spellcraft(1), Save(49)<br/>\n 08: Save(56)<br/>\n 09: Save(63)<br/>\n 10: Save(70)<br/>\n 11: Spellcraft(3), Save(74)<br/>\n 12: Discipline(10), Tumble(10), Save(61)<br/>\n 13: Discipline(1), Tumble(1), Save(66)<br/>\n 14: Discipline(1), Tumble(1), Save(71)<br/>\n 15: Discipline(1), Tumble(1), Save(76)<br/>\n 16: Save(83)<br/>\n 17: Discipline(2), Tumble(1), Save(87)<br/>\n 18: Save(94)<br/>\n<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:00 PM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Omega Sage, and welcome <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n I don't know if it helps, but there are excellent guides to to both Druid and Shifter in the Game Guides forum in this section of the Guild, as well as guides to playing and building for NwN1. Also, in the NWN World section, there are fora on the different Modules and Persistent Worlds.<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "OmegaSage",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:56 PM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks HipRedux for the build as well as the insight and suggestions. I'll definitely repost later after playing the base game with my impressions.<br/>\n<br/>\n Greetings to you as well Stagmeister. Thank you for pointing those out, I'll definitely give those a look-see.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "748",
+  "name": "Elven Deathguard draft version 2 (Monk 9 / Assassin 21 / Blackguard 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-deathguard-draft-version-2-monk-9-assassin-2-t2355258.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:32 AM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi everyone<br/>\n<br/>\nThanks for your comments on the previous draft of this build<br/>\nI've considered them and changed this guy to a Str based build to ensure reasonable damage output against sneak immunes<br/>\nIt also synergises better with the stackable Bull's Strength feat from Blackguard<br/>\nWas going to play test this guy soon<br/>\nBase AB 41, I'd like an AB around 43+ if possible but I think the cost to the build will be too much<br/>\nAny tips on managing this in game?<br/>\nDeath attack 14d6, Death Attack DC is 33<br/>\n<details><summary>Spoiler</summary>Monk(9), Assassin(21), Blackguard(10), Elf\nSTR: 16 (30)\nCON: 12\nINT: 14\n\n01: Monk(1): Two-Weapon Fighting, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(3): Weapon Focus: Kama\n05: Monk(5)\n07: Assassin(1)\n09: Monk(7): Blind Fight\n11: Blackguard(1)\n13: Blackguard(2): {Smite Good}\n15: Blackguard(4): Improved Critical: Kama\n17: Assassin(4)\n19: Blackguard(7)\n21: Monk(9): Epic Weapon Focus: Kama, {Improved Evasion}\n23: Assassin(6)\n25: Assassin(8)\n27: Assassin(10): Armor Skin\n29: Blackguard(10)\n31: Assassin(12)\n33: Assassin(14): Great Strength II, Epic Skill Focus: Hide, (STR=26)\n35: Assassin(16)\n37: Assassin(18): Epic Skill Focus: Move Silently\n39: Assassin(20): Great Strength IV, (STR=29)\n\nSkillpoints: 238\nSaving Throw bonuses: Mind Effects: +4, Traps: +2, Poison: +10\nAB (max, naked): 41 (melee), 31 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Listen(1), Move Silently(4), Tumble(4), Save(11),\u00a0\n03: Hide(1), Move Silently(1), Tumble(1), Save(17),\u00a0\n05: Hide(1), Move Silently(1), Tumble(1), Save(23),\u00a0\n07: Disable Trap(5), Hide(1), Move Silently(1), Open Lock(1), Search(3), Set Trap(10), Tumble(1), UMD(10),\u00a0\n09: Hide(1), Listen(3), Move Silently(1), Tumble(1),\u00a0\n11: Save(5),\u00a0\n13: Save(4),\u00a0\n15: Save(12),\u00a0\n17: Hide(5), Listen(2), Move Silently(5), Tumble(5), UMD(5),\u00a0\n19: Save(8),\u00a0\n21: Hide(4), Listen(3), Move Silently(4), Save(7),\u00a0\n23: Hide(1), Listen(5), Move Silently(1),\u00a0\n25: Hide(1), Listen(1), Move Silently(1), UMD(2), Save(1),\u00a0\n27: Hide(1), Listen(1), Move Silently(1), Tumble(5), UMD(1),\u00a0\n29: Save(8),\u00a0\n31: Hide(1), Listen(1), Move Silently(1), Save(3),\u00a0\n33: Hide(1), Listen(2), Move Silently(1), Search(3), Save(1),\u00a0\n35: Hide(1), Listen(1), Move Silently(1), Search(2), Save(1),\u00a0\n37: Hide(1), Listen(1), Move Silently(1), Tumble(5),\u00a0\n39: Hide(1), Listen(3), Move Silently(1), Search(1),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:37 AM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Er, you appear to be taking Weapon Focus at level 1 while having 0 BAB...sorry. You might want to think about jiggling the pre-epic feats around a bit.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:54 AM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"17862\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17862&amp;sid=b3452019b89b073938567783718acedd#p17862\">\u2191</a><div class=\"responsive-hide\">Dec 09, 2019</div></cite>Er, you appear to be taking Weapon Focus at level 1 while having 0 BAB...</div></blockquote>\nThanks Stag fixed that up, good pick up<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:52 AM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How will you deal with AC here? Is it full plate, or do you rather want the monk attack progression with the Kamas?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:47 PM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there a particular reason why you chose BG other than to avoid the multiclass penalty as an elf? Currently the only thing BG adds is 3d6 sneak attack and stackable Bull's Strength since you don't invest in CHA or Taunt. Something like a\u00a0Monk9/Ass21/Figh10 would have enough feats for DC: Kama on top of your current build, although avoiding the multiclass penalty would involve juggling the monk and fighter levels. Going human would open up even more options while avoiding the multiclass penalty but that would require dropping Keen Senses.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:56 PM - Dec 09, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick and Yunim for your comments!<br/>\n<br/>\nRE AC I was planning for robes &amp; UMD to supplement with the Monk UBAB and Monk Speed, but light and medium armor are options. I wouldn't use Heavy armor wouldn't make sense with such a large investment in stealth and having a base dex of 16. AC can be increased with both dex and wis buffs with robes on, although the Wis 8 score means that at least +4 wis would be needed to increase the AC<br/>\n<br/>\nI like your suggestion to choose fighter Yunim rather than Blackguard, it grants 6 bonus feats and allows me to dump Charisma. I like the level split you suggested too. Dodging the multiclass exp penalty should be achievable. I'll have a look at reworking the build when I get some time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:51 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">AC is gonna be nasty bad!<br/>\n<br/>\nWhich means you will run into trouble around mid Epics (on WoG, anyways).\u00a0 You will need some MAJOR socket items to fill in the holes here!\u00a0 It's doable, but will probably take a few years of game time to actually get everything you need.<br/>\n<br/>\nI would say get some of the light armor on WoG - there is a set that is perfect for this build (this will \"nerf\" your Monk UBAB and Wis, unfortunately).\u00a0 That will pretty much take care of the Dex.\u00a0 You will need some Str, I am thinking, along with DR and Regen.<br/>\n<br/>\nStill going to be some low AC, especially on the other side of level 30!<br/>\n<br/>\nLet me know how it turns out.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:48 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"17890\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17890&amp;sid=b3452019b89b073938567783718acedd#p17890\">\u2191</a><div class=\"responsive-hide\">Dec 10, 2019</div></cite>AC is gonna be nasty bad!<br/>\n<br/>\nWhich means you will run into trouble around mid Epics (on WoG, anyways).\u00a0 You will need some MAJOR socket items to fill in the holes here!\u00a0 It's doable, but will probably take a few years of game time to actually get everything you need.<br/>\n<br/>\nI would say get some of the light armor on WoG - there is a set that is perfect for this build (this will \"nerf\" your Monk UBAB and Wis, unfortunately).\u00a0 That will pretty much take care of the Dex.\u00a0 You will need some Str, I am thinking, along with DR and Regen.<br/>\n<br/>\nStill going to be some low AC, especially on the other side of level 30!<br/>\n<br/>\nLet me know how it turns out.</div></blockquote>\nThanks for your comment Web<br/>\nDo you think, if I follow Yunim's suggestion, take fighter, get WS/EWS for +6 damage (damage is about equivalent to Str 22), and go dexterity monk might be more optimal?<br/>\nThat will solve the AC issue and the build would have a higher AB as well, better stealth skills etc<br/>\nI feel like that would be a better choice than struggling with low AC<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:53 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's a hard choice, really.<br/>\n<br/>\nI've tried ALOT of different combinations of this\u00a0 on WoG - with Monk/Ftr/WM.\u00a0 It just is like juggling too many variables!\u00a0 I can get AB up...and lose AC.\u00a0 AC up, and lose AB.<br/>\n<br/>\nJust too much to try to squeeze in.<br/>\n<br/>\nIt's like...just missing 1 level!\u00a0 Or 1 extra Class!\u00a0 It's like almost being able to lick the ice cream through bars!<br/>\n<br/>\nEven when I could get everything to \"work\" - no Uncanny Dodge to cement the AC Dex bonus.\u00a0 It is what caused me to go a totally diffrerent route for WoG - 38 Monk/2 Ass.<br/>\n<br/>\nThat is really wiping things out.<br/>\n<br/>\nBut a totally different build as here.\u00a0 Though I think if you would stop for a moment, and think about \"what are you really trying to accomplish with this build?\" you might see my point.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:39 AM - Dec 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I want to do damage and have enough defensive capacities to stand and fight to deal it, and have enough skill points to enjoy playing the build in different ways<br/>\n<br/>\nAnd keep exploring and learning new things of course, there are so many ways builds can go, in many ways the unfinished builds section is very much me doing this, looking for ways to make something special, which does occur occasionally, but for sure, if I have 80% bad ideas 20% good ideas I'll take that any day :)<br/>\n<br/>\nIf AC is a problem going strength monk then I'll can go dexterity based which works well with Assassin<br/>\n<br/>\nI have read improved sneak attack is bugged if assassin is taken without either rogue or blackguard levels so the bonus feats go into dexterity, for extra AB and AC<br/>\n<br/>\nThis is what it looks like, Base AB 43 (+2 AB from the Str version), WF/EWF, WS/EWS, IWF, 400+hp, 230 odd skill points, naked AC 32 (+8 AC from the Str version), nine great dexterities, death attack 13d6 with DC 38, resist energy: fire to reduce damage from those pesky fire weapon meleers / clerics with darkfire,\u00a0<br/>\n<details><summary>Spoiler</summary>Monk(6), Assassin(26), Fighter(8), Elf\nSTR: 14\nCON: 13 (14)\nINT: 14\n\n01: Monk(1): Two-Weapon Fighting, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(2): Weapon Focus: Kama, {Deflect Arrows}\n05: Fighter(3)\n07: Fighter(4): Weapon Specialization: Kama\n09: Monk(4): Toughness\n11: Fighter(5)\n13: Assassin(2): {Uncanny Dodge I}\n15: Assassin(4): Called Shot\n17: Assassin(6)\n19: Fighter(6): Point Blank Shot\n21: Assassin(9): Epic Weapon Focus: Kama\n23: Assassin(11)\n25: Assassin(12)\n27: Assassin(14): Great Dexterity I, Great Dexterity II, (DEX=25)\n29: Assassin(16)\n31: Assassin(18): Great Dexterity IV, (DEX=28)\n33: Assassin(20): Great Dexterity V, (DEX=30)\n35: Assassin(22): Great Dexterity VI, (DEX=31)\n37: Assassin(24)\n39: Assassin(26): Great Dexterity VIII, Great Dexterity IX, (DEX=35)\n\nSkillpoints: 242\nSaving Throw bonuses: Spells: +2, Mind Effects: +4, Traps: +2, Poison: +13\nAB (max, naked): 43 (melee), 40 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Move Silently(4), Tumble(4), Save(12),\u00a0\n03: Hide(2), Move Silently(2), Tumble(2), Save(16),\u00a0\n05: Save(24),\u00a0\n07: Save(25),\u00a0\n09: Hide(1), Listen(4), Move Silently(1),\u00a0\n11: Save(4),\u00a0\n13: Hide(1), Move Silently(1), Tumble(5), UMD(5),\u00a0\n15: Save(8),\u00a0\n17: Hide(1), Move Silently(1), Tumble(5), Save(5),\u00a0\n19: Save(4),\u00a0\n21: Hide(3), Listen(4), Move Silently(3), Save(2),\u00a0\n23: Hide(2), Move Silently(2), Tumble(5), UMD(5),\u00a0\n25: Hide(1), Listen(3), Move Silently(1), Search(1), UMD(2), Save(2),\u00a0\n27: Hide(1), Listen(1), Move Silently(1), Tumble(5), UMD(1), Save(1),\u00a0\n29: Hide(1), Listen(3), Move Silently(1), UMD(1), Save(1),\u00a0\n31: Hide(1), Listen(1), Move Silently(1), UMD(1), Save(4),\u00a0\n33: Hide(3), Listen(1), Move Silently(2), Save(2),\u00a0\n35: Hide(1), Listen(1), Move Silently(1), Spellcraft(2), Save(1),\u00a0\n37: Hide(1), Listen(1), Move Silently(1), Tumble(5), Save(2),\u00a0\n39: Hide(1), Listen(1), Move Silently(1), Spellcraft(2),\u00a0</details>\n\nit looks ok, but honestly I want epic dodge in the build with all that dex...<br/>\n<br/>\nSo if I go human... and go large with rogue... it would be a new build, perhaps a pretty good build? :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:31 AM - Dec 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>have read improved sneak attack is bugged if assassin is taken without either rogue or blackguard levels so the bonus feats go into dexterity, for extra AB and AC</div></blockquote>\n\nI think this got fixed in EE?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:29 AM - Dec 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This starts to look like how I build my Assassins. Great dexterity as a bonus feat can give you a warrior like AB and very good AC. You don't get that bonus feat from rogue. A high number of Assassin levels gives a high DC, several epic bonus feats for Great dexterity and enough Death attack damage, <br/>\n<br/>\nIf you want Epic dodge, you can go Monk 9/ SD 5 since you already are into Monk. Another option is Rogue 13. Monk 9/ Rogue 10 eats up too many Assassin levels IMO.\u00a0 Rogue gives SA damage but the DA DC suffers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

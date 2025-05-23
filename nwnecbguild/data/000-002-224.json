@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "224",
+  "name": "Divine Feats",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-feats-t2354514.html",
+  "author": "Kalistez",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:22 AM - Mar 25, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all,<br/>\n<br/>\n Are Divine Might/Shield worth taking ?<br/>\n<br/>\n It has always seemed to me to be a heavy investment in terms of feats, and pumping Cha for limited short term buffs.<br/>\n<br/>\n Thoughts ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:14 PM - Mar 25, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As limited short term buffs, no.\u00a0<br/>\n<br/>\n I usually use the base 18-20 CHA as a metric to help decide if it is worth it.\u00a0 You'll need to take the environment's max item property level into account as well.\u00a0 Once you are able to elevate that intrinsic CHA up to 30 or more via buffs/items near to the cap, the benefits are more noticeable.\u00a0 Of course, the CHA mod also determines the number of uses and duration as well.<br/>\n<br/>\n These buffs are dispelled according to character level rather than caster level so are fairly sturdy.\u00a0 No concentration check or AoO possible.<br/>\n<br/>\n Are there rest restrictions within the environment which would make it a problem in long dungeon crawls, like a caster would have?<br/>\n<br/>\n Exalted Sorcerers(esses) i.e. sorc pally:\u00a0 DvS is a natural synergy.\u00a0\u00a0 Also, bardic priests can find a handy synergy, as can CoT's little used Divine Wrath.<br/>\n<br/>\n Just bear in mind that Divine Might does nothing to help AB so will need to share ability distribution with the primary attack ability (STR/DEX/WIS) for physical combat prowess.\u00a0 If you cannot hit the targets reliably, the durations will time out and that awe-inspiring damage is not realized.\u00a0 That is the main equalizer with DivMight, balancing an effective AB vs. the potential benefits of elevating CHA to add divine damage.<br/>\n<br/>\n Another consideration is whether it is worthwhile to allocate 13 points to STR and PA (which you have already skirted).\u00a0 Also, do Cleric/Pally/BG classes fit in well with your goals?\u00a0 That can only be reckoned on a build-by-build basis because there are too many variables to consider.\u00a0 It is very tough to build a finessing DW toon with Divine buffs and still maintain an effective attack.<br/>\n<br/>\n Rather than dealing in hypotheticals, if you have a particular situation in mind, share.\u00a0 It is easier to make a build-specific recommendation than make an assessment about a generalization.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:59 PM - Mar 26, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Short answer: Only in the builds that already have Charisma in there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

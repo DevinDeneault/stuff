@@ -1,0 +1,140 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "869",
+  "name": "Pre-Epic, Monk only",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pre-epic-monk-only-t2355050.html",
+  "author": "Kyhe",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 20,
+  "posts": [
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:45 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi guys, im looking for help making a playable monk for my RP PW. I tried fooling a little around my self, but cant seems to really get it to stick.<br/>\n<br/>\n<br/>\n<br/>\n<strong>1) PvM or PvP -</strong> Well, this is a hard one cause, it needs to be able to PvM as it is the only way to level up. But at the same time, i would really like it to be able to take down others especially for the RP that i have planned.<br/>\n<br/>\n<strong>2) Level cap</strong> - Max level is 20, though this is hard to reach, normal reachable range is around 10-14.<br/>\n<br/>\n<strong>3) Race preference</strong> - Looking to do an Elf, but will \"settle\" for human should this be better.<br/>\n<br/>\n<strong>4) Class preference</strong> - I really want to do a stealth monk on my PW, seeing that they are so \"rough\" in their playstyle. On the PW where i play youre only allowed to take monk classes when youre monk. This creates an fun restriction to play with where you need to utilize both your feats and your skillpoints! <br/>\n<br/>\n<strong>5) Melee preference</strong> - would like to go unarmed, but again, i would love to hear other idea?<br/>\n<br/>\n<strong>6) Range preference </strong>- DEX-,\u00a0 Zen-Archery, either really?<br/>\n<br/>\n<strong>10) Custom factors</strong> -\u00a0 here is the monk class template for the PW (now you might guess the PW :)):<br/>\n<table class=\"post_content_table\"><tbody><tr><td>Lvl</td>\n<td>BAB</td>\n<td>Saves</td>\n<td>Feats</td>\n<td>HP range</td>\n<td>Unarmed AB</td>\n<td>Flurry of blows AB</td>\n<td>Unarmed damage</td>\n<td>AC bonus</td>\n<td>Speed bonus </td>\n</tr>\n<tr><td></td>\n<td>Fort</td>\n<td>Ref</td>\n<td>Will</td>\n<td></td>\n<td></td>\n<td>Large/Medium</td>\n<td>Small</td>\n<td></td>\n</tr>\n<tr><td>1st</td>\n<td>+0</td>\n<td>+2</td>\n<td>+2</td>\n<td>+2</td>\n<td>Cleave, Monk AC Bonus, Stunning Fist,Evasion,<br/>\nFlurry of Blows, Improved Unarmed Strike</td>\n<td>4-8</td>\n<td>+0</td>\n<td>-2/-2</td>\n<td>1d6</td>\n<td>1d4</td>\n<td>-</td>\n<td>- </td>\n</tr>\n<tr><td>2nd</td>\n<td>+1</td>\n<td>+3</td>\n<td>+3</td>\n<td>+3</td>\n<td>Deflect Arrows, Fiery Fist</td>\n<td>8-16</td>\n<td>+1</td>\n<td>-1/-1</td>\n<td>1d6</td>\n<td>1d4</td>\n<td>-</td>\n<td>- </td>\n</tr>\n<tr><td>3rd</td>\n<td>+2</td>\n<td>+3</td>\n<td>+3</td>\n<td>+3</td>\n<td>Monk Speed, Still Mind</td>\n<td>12-24</td>\n<td>+2</td>\n<td>+0/+0</td>\n<td>1d6</td>\n<td>1d4</td>\n<td>-</td>\n<td>+10% </td>\n</tr>\n<tr><td>4th</td>\n<td>+3</td>\n<td>+4</td>\n<td>+4</td>\n<td>+4</td>\n<td></td>\n<td>16-32</td>\n<td>+3</td>\n<td>+1/+1</td>\n<td>1d8</td>\n<td>1d6</td>\n<td>-</td>\n<td>+10% </td>\n</tr>\n<tr><td>5th</td>\n<td>+3</td>\n<td>+4</td>\n<td>+4</td>\n<td>+4</td>\n<td>Purity of Body</td>\n<td>20-40</td>\n<td>+3</td>\n<td>+1/+1</td>\n<td>1d8</td>\n<td>1d6</td>\n<td>+1</td>\n<td>+10% </td>\n</tr>\n<tr><td>6th</td>\n<td>+4</td>\n<td>+5</td>\n<td>+5</td>\n<td>+5</td>\n<td>Knockdown, Improved Knockdown</td>\n<td>24-48</td>\n<td>+4/+1</td>\n<td>+2/-1/+2</td>\n<td>1d8</td>\n<td>1d6</td>\n<td>+1</td>\n<td>+20% </td>\n</tr>\n<tr><td>7th</td>\n<td>+5</td>\n<td>+5</td>\n<td>+5</td>\n<td>+5</td>\n<td>Wholeness of Body</td>\n<td>28-56</td>\n<td>+5/+2</td>\n<td>+3/+0/+3</td>\n<td>1d8</td>\n<td>1d6</td>\n<td>+1</td>\n<td>+20% </td>\n</tr>\n<tr><td>8th</td>\n<td>+6/+1</td>\n<td>+6</td>\n<td>+6</td>\n<td>+6</td>\n<td>Fiery Ki Defense, Ki Blast</td>\n<td>32-64</td>\n<td>+6/+3</td>\n<td>+4/+1/+4</td>\n<td>1d10</td>\n<td>1d8</td>\n<td>+1</td>\n<td>+20% </td>\n</tr>\n<tr><td>9th</td>\n<td>+6/+1</td>\n<td>+6</td>\n<td>+6</td>\n<td>+6</td>\n<td>Improved Evasion</td>\n<td>36-72</td>\n<td>+6/+3</td>\n<td>+4/+1/+4</td>\n<td>1d10</td>\n<td>1d8</td>\n<td>+1</td>\n<td>+30% </td>\n</tr>\n<tr><td>10th</td>\n<td>+7/+2</td>\n<td>+7</td>\n<td>+7</td>\n<td>+7</td>\n<td>Ki Strike +1</td>\n<td>40-80</td>\n<td>+7/+4/+1</td>\n<td>+5/+2/-1/+5</td>\n<td>1d10</td>\n<td>1d8</td>\n<td>+2</td>\n<td>+30% </td>\n</tr>\n<tr><td>11th</td>\n<td>+8/+3</td>\n<td>+7</td>\n<td>+7</td>\n<td>+7</td>\n<td>Diamond Body</td>\n<td>44-88</td>\n<td>+8/+5/+2</td>\n<td>+6/+3/+0/+6</td>\n<td>1d10</td>\n<td>1d8</td>\n<td>+2</td>\n<td>+30% </td>\n</tr>\n<tr><td>12th</td>\n<td>+9/+4</td>\n<td>+8</td>\n<td>+8</td>\n<td>+8</td>\n<td>Diamond Soul</td>\n<td>48-96</td>\n<td>+9/+6/+3</td>\n<td>+7/+4/+1/+7</td>\n<td>1d12</td>\n<td>1d10</td>\n<td>+2</td>\n<td>+40% </td>\n</tr>\n<tr><td>13th</td>\n<td>+9/+4</td>\n<td>+8</td>\n<td>+8</td>\n<td>+8</td>\n<td>Ki Strike +2</td>\n<td>52-104</td>\n<td>+9/+6/+3</td>\n<td>+7/+4/+1/+7</td>\n<td>1d12</td>\n<td>1d10</td>\n<td>+2</td>\n<td>+40% </td>\n</tr>\n<tr><td>14th</td>\n<td>+10/+5</td>\n<td>+9</td>\n<td>+9</td>\n<td>+9</td>\n<td></td>\n<td>56-112</td>\n<td>+10/+7/+4/+1</td>\n<td>+8/+5/+2/-1/+8</td>\n<td>1d12</td>\n<td>1d10</td>\n<td>+2</td>\n<td>+40% </td>\n</tr>\n<tr><td>15th</td>\n<td>+11/+6/+1</td>\n<td>+9</td>\n<td>+9</td>\n<td>+9</td>\n<td>Quivering Palm</td>\n<td>60-120</td>\n<td>+11/+8/+5/+2</td>\n<td>+9/+6/+3/+0/+9</td>\n<td>1d12</td>\n<td>1d10</td>\n<td>+3</td>\n<td>+50% </td>\n</tr>\n<tr><td>16th</td>\n<td>+12/+7/+2</td>\n<td>+10</td>\n<td>+10</td>\n<td>+10</td>\n<td>Ki Strike +3</td>\n<td>64-128</td>\n<td>+12/+9/+6/+3</td>\n<td>+10/+7/+4/+1/+10</td>\n<td>1d20</td>\n<td>2d6</td>\n<td>+3</td>\n<td>+50% </td>\n</tr>\n<tr><td>17th</td>\n<td>+12/+7/+2</td>\n<td>+10</td>\n<td>+10</td>\n<td>+10</td>\n<td></td>\n<td>68-136</td>\n<td>+12/+9/+6/+3</td>\n<td>+10/+7/+4/+1/+10</td>\n<td>1d20</td>\n<td>2d6</td>\n<td>+3</td>\n<td>+50% </td>\n</tr>\n<tr><td>18th</td>\n<td>+13/+8/+3</td>\n<td>+11</td>\n<td>+11</td>\n<td>+11</td>\n<td>Empty Body</td>\n<td>72-144</td>\n<td>+13/+10/+7/+4/+1</td>\n<td>+11/+8/+5/+2/-1/+11</td>\n<td>1d20</td>\n<td>2d6</td>\n<td>+3</td>\n<td>+60% </td>\n</tr>\n<tr><td>19th</td>\n<td>+14/+9/+4</td>\n<td>+11</td>\n<td>+11</td>\n<td>+11</td>\n<td></td>\n<td>76-152</td>\n<td>+14/+11/+8/+5/+2</td>\n<td>+12/+9/+6/+3/+0/+12</td>\n<td>1d20</td>\n<td>2d6</td>\n<td>+3</td>\n<td>+60% </td>\n</tr>\n<tr><td>20th</td>\n<td>+15/+10/+5</td>\n<td>+12</td>\n<td>+12</td>\n<td>+12</td>\n<td>Perfect Self</td>\n<td>80-160</td>\n<td>+15/+12/+9/+6/+3</td>\n<td>+13/+10/+7/+4/+1/+13</td>\n<td>1d20</td>\n<td>2d6</td>\n<td>+4</td>\n<td>+60% </td>\n</tr>\n</tbody></table><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:31 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Kyhe!<br/>\n<br/>\nCould I just ask a couple of questions before anything else, please? When you say \"Monk only\", does that mean you can't multiclass at all? What are these \"Fiery Fist\" abilities? How is your PW when it comes to available goodies such as gloves, robes, boots, kamas, etc - and what sort of bonuses do they give (+1? +3? +5?)?<br/>\n<br/>\nI've a couple of ideas in mind, but which to go for kind of depends on your answers. I just wouldn't want to embark on something unhelpful.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:44 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Stagmeister,<br/>\n<br/>\nYes, its mean you arent at all allowed to multiclass whe you take monk as a class. So there is this restriction for classes.<br/>\n<br/>\nAs for the Fiery Fist ability, its an ability to gain basically the \"flame Weapon\" spell on your gloves/kama/sai etc. for the same number of turns as your wisdom score.<br/>\n<br/>\nThe PW, is very kind when it comes to having different gloves with attirbutes for a monk, though they may/can be hard to come by. Kama and monk weapons not much more then a +1/+3 kinda a things with a little added bonus now and then. its possible to get robes that has dmg reduction on them, or ac against specific dmg type, like blud, slash, piercing.<br/>\n<br/>\n\u00a0:)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:28 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Kyhe, that helps.<br/>\n<br/>\nOne thought, if you're looking at a Dex build, would be to dual-wield kamas. You'd have the required number of feats to get Weapon Focus, Weapon Finesse, Ambidexterity, TWF, ITWF, Blind Fight and Imp Crit. Obviously, you'd have one more feat if you went human (as well as 23 more skill points) for something else - maybe Power Attack to boost damage, or Expertise to help AC (depending on what we go for in Int). That said, going with elf helps with Dex.<br/>\n<br/>\nWhat that would mean is that while your damage per hit won't be as great as unarmed, you'll hit more frequently. The Monk attack schedule is not to be sniffed at.<br/>\n<br/>\nOf course, this would be very much a combat-focused build, so you'd prefer something more defensive, that can be explored.<br/>\n<br/>\nWhat do you think?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:47 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sounds ok, though im wondering :).<br/>\n<br/>\nThe Reason for Dex, is to gain AC from tumble/parry (parry gives +1 ac pr 5 lvls on this PW) and most importantly higher Hide/MS. Just after a quick talk with some of the players, it seems that gloves are more \"enchanced\" to come by then Kamas on the server:<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:05 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's fine - unarmed it is. That gives us 3 more feats to play with. I'll go have a think...<br/>\n<br/>\nBtw, the way Tumble impacts on AC isn't dependent on Dex. Every five ranks you place in the skill boosts AC by +1, it doesn't matter if you're Dex, Str, Cha, Wis, Int or Con based. And Monk has it as a class skill, so you'll be able to get +4AC from it. So, what have they done with Parry, because that sounds very different from the nerfed skill in vanilla?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:13 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">they have done the following :) :\n<details><summary>Spoiler</summary>Parry allows the character to block incoming attacks and make spectacular counterattacks. For every five skill points (including Dexterity and other modifiers, up to maximum 30 points before armor check penalty) the character's armor class is also improved by +1 when fighting in melee without a shield. This bonus is halved when fighting with a heavy weapon unless the character has the Improved Parry feat. When fighting with a shield, for every ten skill points the character's armor class is improved by +1. With the Shield Parry feat, the character's armor class is improved by +1 for every five skill points when fighting with a shield. \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:20 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, what do you think of this as a first draft?<br/>\n<br/>\nI was torn between taking Expertise as a feat that gives +5AC, or Parry as a skill that will bring +4AC. Each are selected in combat, so you wouldn't be able to use both at the same time. Here I decided on Expertise, to free up more skill points, but if you'd like to change that you'd then be able to drop Int to 12, with that 1 spare point available for Con or Str - neither of which would help in itself, but any gear that boosts those stats with +1, +3, etc would be more usable.<br/>\n<br/>\nAnyway, here's a first go...<br/>\n<br/>\n<strong>Monk 20</strong><br/>\nElf, any Lawful<br/>\n1-20 PvM (PvP will need to be modified depending on who you're facing-off against)<br/>\n<br/>\n<strong>Stats</strong><br/>\n<br/>\nSTR 12<br/>\nDEX 17 (22)<br/>\nCON 10<br/>\nWIS 14<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHPs: 180<br/>\nAC: (naked) 26 (31 in Expertise)<br/>\nSaves: Fort 12, Will 14, Reflex 18 (all +2 vs spells, immune to sleep, poison, disease, mind effects)<br/>\nSkills: 115 - Hide 23 (29), Listen 23 (27), Move Silently 23 (29), Spellcraft (cc) 9 (10), Tumble 20 (26), spare 8<br/>\nBAB: 15<br/>\nAB: (max, unarmed) 22/ 19/ 16/ 13<br/>\nSpeed: +60%<br/>\n<br/>\n<strong>Levelling</strong> (all Monk)<br/>\n<br/>\n1 Expertise<br/>\n2<br/>\n3 Weapon Finesse<br/>\n4 DEX+1 (18)<br/>\n5<br/>\n6 Weapon Focus: Unarmed<br/>\n7<br/>\n8 DEX+1 (19)<br/>\n9 Blind Fight<br/>\n10<br/>\n11<br/>\n12 DEX+1 (20)/ Power Attack<br/>\n13<br/>\n14<br/>\n15 Imp Crit: Unarmed<br/>\n16 DEX+1 (21)<br/>\n17<br/>\n18 Toughness<br/>\n19<br/>\n20 DEX+1 (22)<br/>\n<br/>\nOver to you...<br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> I've just realized that you can get +5AC with Parry, because it takes into account your Dex modifier. So you could lose Spellcraft and take 19 points in Parry (still leaving 7 spare) instead, drop Expertise and maybe Power Attack to get Skill Focuses in both Hide and Move Silently (bringing Blind Fight to level 1 and taking the Skill Foci at 9 and 12).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:52 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kyhe wrote:</cite>\n\u00a0(now you might guess the PW :)):</div></blockquote>\nThe level 20 restriction, no multiclass for monk and the use of tumble for an AC bonus is something I remember from the RP PW \"Ravenloft - Prisoners of the Mist\".<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:00 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Any helpful insights you could offer, Mick?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:16 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAny helpful insights you could offer, Mick?\n</div></blockquote>\nIf my guess is right...<br/>\nMonks seemed to do well, but I never tried one there.<br/>\nThere was also a custom feat system that give player characters feats more often than the standard 1/3 level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:01 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nOkay, what do you think of this as a first draft?<br/>\n<br/>\nI was torn between taking Expertise as a feat that gives +5AC, or Parry as a skill that will bring +4AC. Each are selected in combat, so you wouldn't be able to use both at the same time. Here I decided on Expertise, to free up more skill points, but if you'd like to change that you'd then be able to drop Int to 12, with that 1 spare point available for Con or Str - neither of which would help in itself, but any gear that boosts those stats with +1, +3, etc would be more usable.<br/>\n<br/>\nAnyway, here's a first go...<br/>\n<br/>\n<strong>Monk 20</strong><br/>\nElf, any Lawful<br/>\n1-20 PvM (PvP will need to be modified depending on who you're facing-off against)<br/>\n<br/>\n<strong>Stats</strong><br/>\n<br/>\nSTR 12<br/>\nDEX 17 (22)<br/>\nCON 10<br/>\nWIS 14<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHPs: 180<br/>\nAC: (naked) 26 (31 in Expertise)<br/>\nSaves: Fort 12, Will 14, Reflex 18 (all +2 vs spells, immune to sleep, poison, disease, mind effects)<br/>\nSkills: 115 - Hide 23 (29), Listen 23 (27), Move Silently 23 (29), Spellcraft (cc) 9 (10), Tumble 20 (26), spare 8<br/>\nBAB: 15<br/>\nAB: (max, unarmed) 22/ 19/ 16/ 13<br/>\nSpeed: +60%<br/>\n<br/>\n<strong>Levelling</strong> (all Monk)<br/>\n<br/>\n1 Expertise<br/>\n2<br/>\n3 Weapon Finesse<br/>\n4 DEX+1 (18)<br/>\n5<br/>\n6 Weapon Focus: Unarmed<br/>\n7<br/>\n8 DEX+1 (19)<br/>\n9 Blind Fight<br/>\n10<br/>\n11<br/>\n12 DEX+1 (20)/ Power Attack<br/>\n13<br/>\n14<br/>\n15 Imp Crit: Unarmed<br/>\n16 DEX+1 (21)<br/>\n17<br/>\n18 Toughness<br/>\n19<br/>\n20 DEX+1 (22)<br/>\n<br/>\nOver to you...<br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> I've just realized that you can get +5AC with Parry, because it takes into account your Dex modifier. So you could lose Spellcraft and take 19 points in Parry (still leaving 7 spare) instead, drop Expertise and maybe Power Attack to get Skill Focuses in both Hide and Move Silently (bringing Blind Fight to level 1 and taking the Skill Foci at 9 and 12).\n</div></blockquote>\nHi Stagmeister, this looks quite interesting. i see there is only 10 con, i take it due to the ac and dodge of a monk this isnt really a problem :)? i would like to add, that Parry doesnt need to be activated to gain the AC boost.<br/>\n<br/>\nto add to that, Mick (who guessed the PW) is saying about the bonus feats, i believe its up to 5 extra feats, i cant remember where they are in the progression though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:35 PM - Mar 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kyhe wrote:</cite>\nHi Stagmeister, this looks quite interesting. i see there is only 10 con, i take it due to the ac and dodge of a monk this isnt really a problem :)? i would like to add, that Parry doesnt need to be activated to gain the AC boost.<br/>\n<br/>\nto add to that, Mick (who guessed the PW) is saying about the bonus feats, i believe its up to 5 extra feats, i cant remember where they are in the progression though.\n</div></blockquote>\nThe problem we have with Con is that to even raise it to 10 takes 4 points at character generation for an elf, as it has -2 to its Con, so to take it to 12 would take 6 points, and that means losing 2 from somewhere else. So realistically it's either Str, which would further limit your damage, or Wis, which would drop your AC and Will save by 1. I'm quite alright to drop the Str to 10 for an extra 20 hps and +1 to the Fort save if you'd prefer - it was merely personal preference on my part for a build that's concentrating on not getting hit at all (indeed, I'd thought about Dodge rather than Expertise as well for that extra +1AC vs current opponent). Your call, really.<br/>\n<br/>\nAnd if that's the case with Parry, then it's definitely a better option than Expertise here - you'd only lose the +2 saves vs spells. Or you could even take them both, so that when in Expertise mode you could have a naked pre-epic AC of 36, which is insane, frankly.<br/>\n<br/>\nIt would be really, really helpful to find out more about those extra feats, though. They could make a world of difference<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:23 AM - Mar 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">i fully understand the con now :) thanks <br/>\n<br/>\ni went unto our test server at the PW and lvled a monk to 20 we get 1 bonus feat at the following lvls: 2, 5, 8, 11, 14, 17 and lastly at 20<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:59 AM - Mar 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kyhe wrote:</cite>\ni went unto our test server at the PW and lvled a monk to 20 we get 1 bonus feat at the following lvls: 2, 5, 8, 11, 14, 17 and lastly at 20\n</div></blockquote>\nWell that's just berserk - 7 bonus feats! You could take everything you want and a few just for giggles! There may be an impact on what we want our starting stats to look like, though. Would I be right in thinking these extra feats are drawn from the standard pot?<br/>\n<br/>\nSorry, going to need some time to get my head round this...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:02 AM - Mar 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah they are, you can basically just select any of the feats present :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:51 PM - Mar 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Apologies, but Real Life has stuck its ugly head in, and it may be up to a week before I can do anything here, sorry. I'll try while in transit, but can make no promises.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:50 PM - Mar 22, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">no Worries Stagmeister :) everything at its own time<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:46 PM - Mar 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've not yet had chance to tidy anything up yet, but my reckoning you could take WF and Imp Crit in both Unarmed and Kamas (with the 3 d-w feats) - which is nice, slashing and bludgeoning threat. Along with that you could have Blind Fight, Weapon Finesse, Toughness, Skills Focus in both Hide and MS, Toughness, Iron Will and Great Fort. And that's without buggering about with the opening/ending stats.<br/>\n<br/>\nWorth pursuing?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:32 AM - Apr 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/monks-an-analysis-t4720.html\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/worldof ... t4720.html</a><br/>\nThis is the most comprehensive stuff I've seen about pure monks. Worth a read.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:05 PM - Apr 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the link, Mirnaia, it's a pretty comprehensive analysis. However, as with many comprehensive analyses, it does rather lose itself in the detail at times - sort of like saying, \"that's a tree\", \"that's a tree\", \"that's a tree\", \"that's a tree\", without recognizing that the whole thing's a forest. The prime example being that separating offence from defence, while all very laudable in statistical terms, misses the balance between the two that Monk achieves (or can achieve in a good build, anyway) better than any other class (imho).<br/>\n<br/>\nNevertheless, as you say, it's worth a read!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

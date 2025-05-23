@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "119",
+  "name": "Fighter 11 SD 13 BG 16",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/fighter-11-sd-13-bg-16-t2354595.html",
+  "author": "KidMiracleman",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:00 PM - Sep 13, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">With 13 SD I can summon an exact duplicate of myself to fight with me and 16 BG level I get a summon fiend feat.<br/>\n \u200bAlso there is a nice Blackguard quest on my server that gets you a nice Bastard sword.<br/>\n<br/>\n Thoughts??<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "4:29 PM - Sep 13, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Probably Ftr10/SD14/BG16 is better to get a slightly better skill total and daze DC with the 11th fighter level of little value (BG gets both concentration and discipline as class skills).\u00a0 The last level of BG should be taken as late as possible for the best taunt dump.\u00a0 If you want access to the fiend earlier, then go with Ftr10/SD13/BG17.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:34 AM - Sep 14, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ftr10/SD14/BG16 sound good. I can always relevel after he hits level 40<br/>\n<br/>\n Thanks for the advice<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:51 AM - Sep 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">N CBC is not working for me anymore<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "4:29 PM - Sep 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Delete your copy and download a fresh one.\u00a0 If you still have the zip in your downloads folder, decompress a new copy.<br/>\n<br/>\n The first thing you need to do when you decide to build a new design is save the spreadsheet AS A NEW NAME immediately when it opens up.\u00a0 Always work from from a blank workbook.\u00a0 That way, if you accidentally corrupt it, the saved workbook will be the only one that doesn't work.\u00a0 Follow my tips in one of your other topics to economize the effort you spend devising a build.<br/>\n<br/>\n What version of Excel do you have loaded on your PC, David?\u00a0 Mine is pretty old so I save the workbooks as .xls (MSOffice 2002) rather than .xlsx (that's a MSOffice 2007 version).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:45 PM - Sep 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Make the original read-only, which will force you to save it before editing, like Hip advised.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:10 AM - Sep 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I figured it out. I had to unprotect it<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:13 AM - Sep 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>I figured it out. I had to unprotect it</div></blockquote>\n<div align=\"left\">Just make sure to protect it again before trying to build or you will end up with another corrupt file.\u00a0 CBC was designed to make calculations only with protected cells.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

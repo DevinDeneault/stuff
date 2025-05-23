@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "168",
+  "name": "Dual-wield and heavy armor",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dual-wield-and-heavy-armor-t2355148.html",
+  "author": "Orion",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:26 AM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello!<br/>\nWe all know that Rangers must wear light- or no armor for their Dual-wield feat to work. So if you want a dual-wielder in heavy armor, you have to pick the TWF and Ambidexterity feats.<br/>\nBut what about ITWF? Will the ITWF feat that Rangers get at lvl 9 only work in light armor as well?<br/>\nI tested it in the \"Pretty good character creator\" module with this build:\n<details><summary>Spoiler</summary>Ranger(9), Fighter(4), Human\nSTR: 15 (18)\nCON: 12\nINT: 12\n\n01: Ranger(1): Power Attack, Cleave, Favored Enemy, {\n02: Fighter(1): Weapon Focus: Shordsword<br/><br/><br/><br/><br/><strong>Improved Two-Weapon Fighting</strong></details>\n\nI equipped the ranger with full plate and two shortswords and let it attack some combat dummies. It has BAB 13 and should have 3 attacks per round when fighting with one weapon. Two weapons should add a forth attack and ITWF should add a fifth attack.<br/>\nThe combat log showed 5 attacks per round. The AB was -2 compared with one hand attacks. There were 2 off hand attacks per round at the right AB. <br/>\nThis test showed that the ITWF feat you get from the Ranger class worked just like the normal ITWF feat even in heavy armor.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:34 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick<br/>\n<br/>\nThis is a brilliant observation you have made. Congratulations!<br/>\n<br/>\nIt opens up many more possibilities for strength based dual wielding ranger builds, where large amounts of ranger levels are highly desirable for the favored enemies feats<br/>\n<br/>\nI read your post and tested it as well in the Pretty Good Character Creator and I wish to make it known I have confirmed Mick's observation.\u00a0<br/>\n<br/>\nFirst with a Fighter 1 / Ranger 9 build using the method of taking the TWF and Ambidexterity feats as a fighter, then leveling ranger to 9.\u00a0<br/>\n<br/>\nBAB 10. Two shortswords wearing full plate. 4 attacks when it should be 3 if the ranger ITWF feat was restricted to light armor.<br/>\n<br/>\nAlso with a Fighter 1 / Ranger 19 build. BAB 20. Two shortswords wearing full plate. 6 attacks when it should be 5 if the ranger ITWF feat was restricted to light armor.<br/>\n<br/>\nIt shows in the character sheet display, and the combat log as well.<br/>\n<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201909/10759084_1518f60cc2b8d99cb4becca3f2df94e4_t.jpg\" />\n</dl>\n</span><span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201909/10759084_487433c1eed0b0697bf4c5853364dd08_t.jpg\" />\n</dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:13 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, that would give us a \"free\" feat in such builds, nicely done Mick.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:24 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So let me ask, just for clarity, because I think I see a difference between Orion and Micks' observations.<br/>\n<br/>\n6 APR, not 5, right?<br/>\n<br/>\nEdit...my mistake, I see Mick was testing a level 13.<br/>\n<br/>\nThe pendant in me would like confirmation from a combat log or something though...I have heard that the character sheet can often misreport things...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:00 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>\nThe pendant in me would like confirmation from a combat log or something though...I have heard that the character sheet can often misreport things...\n</div></blockquote>\n\nYou are right about the character sheet.<br/>\nMy findings are based on the combat log.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Agadris",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:37 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello everyone.<br/>\n<br/>\n17 years later Neverwinter Nights keep revealing its secrets.\u00a0<br/>\n<br/>\nPerhaps, a foolish question but what version of the game is it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:50 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Not foolish at all, in the excitement I forgot to post it.\u00a0<br/>\n<br/>\nI'm using NWN EE which should be v1.78<br/>\n<br/>\nAlso Gkorjax - my findings are also from the combat log vs the dummy target - 2 attacks in each flurry for the BAB 20 version = 6 attacks, not just the character sheet, although it certainly displays there too<br/>\n<br/>\nThe builder in me is VERY curious as to what Mick Dagger might be thinking of building with this new information. :)<br/>\n<br/>\nPerhaps an updated strength based\u00a0dual wielding full plated lightly multiclassed\u00a0version of Mick Dagger's 'Bane of all' from the classic NWN forum?<br/>\n<br/>\nMaybe Ranger 35 (against favored enemies: +8AB/+8Dmg/+2d6 dmg) / Fighter 4 (for heavy armor proficiency, weapon specialisation/epic weapon specialisation and bonus feats) / Assassin 1 (1d6 death attack, UMD, tumble as a class skill, prestige to avoid multi class penalties)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:56 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Agadris wrote:</cite>\nPerhaps, a foolish question but what version of the game is it?\n</div></blockquote>\n\u00a0I still use 1.69, but I may install EE just for multiplayer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:14 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nThe builder in me is VERY curious as to what Mick Dagger might be thinking of building with this new information. :)\n</div></blockquote>\nLike Valerfor said, it may save you one feat in a specific type of build.<br/>\nHere is the build I had pieced together, that made me wonder if it would work.\n<details><summary>Spoiler</summary>Ranger(32), Fighter(6), Shadowdancer(2), Human\nSTR: 15 (30)\nCON: 12\nINT: 12\n\n02: Fighter(1): Weapon Focus: Shortsword\n04: Fighter(3): STR+1, (STR=16)\n06: Ranger(2): Knockdown\n08: Ranger(4): STR+1, (STR=17)\n10: Ranger(6)\n12: Ranger(8): STR+1, Improved Critical: Shortsword, (STR=18)\n14: Ranger(10): Favored Enemy: Dragons\n16: Ranger(12): STR+1, (STR=19)\n18: Ranger(14): Mobility\n20: Ranger(16): STR+1, (STR=20)\n22: Shadowdancer(1): {Hide in Plain Sight}\n24: Ranger(17): STR+1, Armor Skin, (STR=21)\n26: Ranger(19)\n28: Ranger(21): STR+1, (STR=23)\n30: Ranger(23): Great Strength II, Bane of Enemies, (STR=24)\n32: Ranger(25): STR+1, Favored Enemy: Outsiders, (STR=25)\n34: Ranger(27)\n36: Ranger(29): STR+1, Great Strength IV, Favored Enemy: Elves, (STR=28)\n38: Ranger(30): Favored Enemy: Dwarves\n40: Ranger(32): STR+1, Favored Enemy: Giants, (STR=30)\nHitpoints: 436\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 44 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\nDiscipline 43(53), Heal 23(25), Hide 43(45), Listen 43(45), Lore 14(15), Move Silently 43(45), Search 20(21), Set Trap 3(5), Spellcraft 19(20), Tumble 40(42), remaining skillpoints 5\n</details>\nYou may notice that there are too many skill points. That is simply because I was thinking of an Aielund play through, where Rangers get 6 skill points per level from the EMS hak.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:48 PM - Sep 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick! Looks cool. Great AB and nice use of synergy with Camouflage and One with the Land with the SD class<br/>\n<br/>\nI'm working on a ranger 32 / fighter 6 / assassin 2 build - I noted some errors with the draft I posted so I've removed it<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:20 AM - Sep 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><details><summary>Spoiler</summary>Edit: changed to human for the extra feat and skill points, also dropped assassin for more skill points and evasion\nRanger(32), Fighter(6), Rogue(2), Human\nSTR: 16 (32)\nCON: 10\nINT: 12\n\n01: Ranger(1): Weapon Focus (Short sword), Blind Fight, Favored Enemy: Goblinoid, {Dual Wield}\n03: Fighter(1): Ambidexterity, Two Weapon Fighting\n05: Ranger(4)\n07: Ranger(6)\n09: Ranger(8): Improved Critical (Short sword)\n11: Ranger(10): Favored Enemy: Undead\n13: Ranger(12)\n15: Ranger(14): Cleave\n17: Ranger(16)\n19: Ranger(18)\n21: Rogue(1): Great Strength I, (STR=22)\n23: Ranger(21)\n25: Ranger(23): Bane of Enemies\n27: Fighter(3): Great Strength III, (STR=25)\n29: Fighter(5)\n31: Ranger(24)\n33: Ranger(26): Great Strength IV, Favored Enemy: Outsiders, (STR=28)\n35: Ranger(28)\n37: Rogue(2): {Evasion}\n39: Ranger(31): Great Strength VI, (STR=31)\n\nSkillpoints: 254\nSaving Throw bonuses:\u00a0\nAB (max, naked): 45 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Discipline(4), Listen(4), Search(4), Set Trap(4), Save(8),\u00a0\n03: Discipline(1), Save(13),\u00a0\n05: Discipline(1), Listen(1), Search(1), Save(15),\u00a0\n07: Discipline(1), Listen(1), Save(22),\u00a0\n09: Discipline(1), Listen(1), Save(30),\u00a0\n11: Discipline(1), Listen(1), Save(38),\u00a0\n13: Discipline(1), Listen(1), Save(46),\u00a0\n15: Discipline(1), Listen(1), Save(54),\u00a0\n17: Discipline(1), Save(63),\u00a0\n19: Discipline(1), Save(73),\u00a0\n21: Disable Trap(24), Open Lock(20), Tumble(20), UMD(24),\u00a0\n23: Discipline(1), Listen(3), Save(2),\u00a0\n25: Discipline(1), Save(11),\u00a0\n27: Discipline(1), Save(17),\u00a0\n29: Discipline(1), Save(23),\u00a0\n31: Discipline(1), Save(31),\u00a0\n33: Discipline(1), Save(41),\u00a0\n35: Discipline(1), Save(51),\u00a0\n37: Disable Trap(16), Open Lock(20), Tumble(20), UMD(10),\u00a0\n39: Discipline(1), Listen(5),\u00a0</details>\nYou can tell by the way I'm definitely not a sneaker<br/>\n<br/>\n<strong>Edit:</strong>\u00a0also the +7damage +9AB buffs +2d6 bane of enemies damage are pretty awesome for dual wielders, it seems just as nice as taking 28 levels of weapon master<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

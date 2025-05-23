@@ -1,0 +1,80 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "132",
+  "name": "Improved Whirlwind Attack",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/improved-whirlwind-attack-t2355486.html",
+  "author": "blackfeltfedora",
+  "avatar": "10759277_1587126532.jpg",
+  "replies": 10,
+  "posts": [
+    {
+      "author": "blackfeltfedora",
+      "avatar": "10759277_1587126532.jpg",
+      "timestamp": "3:32 AM - Jun 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was fooling around with re-building the Kukri Saint as a dex-based Halfling and saw that I was eligible for Improved Whirlwind Attack. I've never seen a build that uses that feat but it appears quite useful, is there a reason I'm missing that feat has been underutilized?\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:14 AM - Jun 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Its an interesting question, I avoid building with it due to the expensive pre-requistes (21st level,\u00a0intelligence\u00a013+,\u00a0dexterity\u00a023+,\u00a0dodge,\u00a0expertise,\u00a0mobility,\u00a0spring attack,\u00a0whirlwind attack), most of my weaponmasters end up strength based with Dex 13-16 at most but perhaps some of the others will have more to add, perhaps in a high magic environment where most of the damage comes from weapon enchantments rather than strength damage, might such a dex based weapon master shine, I tend to prefer low-mid magic (ie +5-6 max).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:17 AM - Jun 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, to be honest, Whirlwind Attack (and Improved Whirlwind Attack) have a lot of pre-requisites.<br/>\n<br/>\n21st level, intelligence 13+, dexterity 23+, dodge, expertise, mobility, spring attack, whirlwind attack to be exact.<br/>\n<br/>\nThat's a lot of feats for...what, exactly?\u00a0 One can attack once on each target (albeit with full AB).<br/>\n<br/>\nSo let us break this down for a minute.\u00a0 I know it sounds great, in theory.\u00a0 <br/>\n<br/>\nLet us say one has 4 attacks a round (full BAB without haste, ITWF, etc - and since we are talking IWA, Epic levels, so 4 attacks round).<br/>\n<br/>\nThese are all concentrated on one opponent.\u00a0 Should that opponent not survive the onslaught, Cleave (and Great Cleave) come into consideration.<br/>\n<br/>\nSo concentrating those 4 attacks on one opponent (and downing it) is more effective than damaging many opponents at once (even when threatening Dev Crits, assuming it is a Dev Crit build and having a really good crit range aka Kukris) - because Dev Crit does not always result in a dead opponent (no crit, save, ED, etc).<br/>\n<br/>\nThe reason for this is simple.\u00a0 In a situation where one would want to use IWA (more than 1~2 opponents gathered around), as the opponents drop one by one from normal attacks concentrated on one opponent, that means <strong>there are less opponents to be attacked by.</strong><br/>\n<br/>\nThis is more effective that spreading the damage among your opponents, as they are still alive and can attack, heal, etc.<br/>\n<br/>\nAlso, one cannot use KD, or Called Shot, PA, etc with IWA.\u00a0 And no sneaks, either,<br/>\n<br/>\nDon't get me wrong here - with the right build, it can be a powerful feat (threatening Dev Crit in a 10 foot radius on all opponents with a good crit range weapon, for example).\u00a0 But when one has crit immune opponents, etc, it quickly becomes rather unappetizing as a combat feat.<br/>\n<br/>\nIn other words, it is a bit situational, and the feat cost is staggering for it.<br/>\n<br/>\nI have done a lot of testing with WA (not IWA, because my results from WA were...meh).\u00a0 It does protect one from flatfooted, sneaks, etc and that is beneficial, but I found that there was a small range of levels where it was useful (so between 2~3 attacks a round) but then concentrating attacks on one opponent just picks up and superceeds WA after that.<br/>\n<br/>\nAnd then we come to the question of what about one opponent?\u00a0 IWA is kind of absolutely useless against one opponent when stacked up against 4 attacks.\u00a0 You know, that big Boss man that is waiting for you after you clean up his m0bs.<br/>\n<br/>\nAnd then there is the case where if one has that much dex, one would most likely want to go ITWF - which costs feats as well (and results in a LOT of attacks/round!).\u00a0 It is sort of at odds (or at least competing with) IWA.\u00a0 <br/>\n<br/>\nAnd in an environment where Haste is available, that sort of makes IWA a bit less desirable (especially when stacked up against ITWF!)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "blackfeltfedora",
+      "avatar": "10759277_1587126532.jpg",
+      "timestamp": "8:16 PM - Jun 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">To be clear I wasn't suggesting building a character to get this feat; Weaponmaster already has\u00a0dodge, expertise, mobility, spring attack, whirlwind attack. Going for a finesse/dex based character already had me dumping all my stat points into Dexterity. Not being able to focus on the highest priority enemy can be an issue for sure, I was wondering if there was something inherently flawed with the feat (like Circle Kick). If you are in a situation with greater than 10 enemies surrounding you this could be helpful (dependent on dungeon layout, spawn points, and spawn rate vs kill speed). Dealing with a room full of sneaky Drow if you don't have sneak-immune could be helpful as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:55 PM - Jun 02, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is nothing inherently flawed with either IWA OR Circle Kick.<br/>\n<br/>\nSince BeamDog fixed CK, it works as advertised - I use it on my Deadly Nightshade build to great effect (being able to KD and/or Disarm twice a round is a handy thing).<br/>\n<br/>\nIt is a bit irritating when attack focus is broken, I will say that.\u00a0 <br/>\n<br/>\nIWA is just so feat intensive (yes, as WM one already has the pre-reqs) that spending one more feat for IWA - is really a lot of feats imo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BikWiteDik",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:32 AM - Jun 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Improved WA is quite awesome and useful on leveling and on the maps with a lit of mobs u gatta take down before getting to the boss<br/>\n<br/>\nI was using it on some servers<br/>\n<br/>\nIf u can handle lots of surrounding u by not dying then it's awesome aoe to kill them<br/>\n<br/>\nSent from my SM-N960N using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:11 PM - Jun 12, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">IIRC, the old ECB had tested this with death attack &amp; found the IWA to not work with it, thereafter, the whole IWA build subject was abandoned swiftly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:32 PM - Jun 12, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am pretty sure that the usual chance of critical hits, and therefore Dev Crirt, would apply with IWA.<br/>\n<br/>\nI wonder if stealth-induced Sneak Attack would work with all of the attacks from IWA.\u00a0 It would be a challenge to get yourself surrounded by a lot of enemies in range of even IWA, let alone WA while in stealth.<br/>\n<br/>\nI seriously doubt that you could apply Ki Strike or Knockdown/IKD to the attacks from IWA.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BikWiteDik",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:35 PM - Jun 12, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>IIRC, the old ECB had tested this with death attack &amp; found the IWA to not work with it, thereafter, the whole IWA build subject was abandoned swiftly.</div></blockquote>Huh there's actually a build around it? Funny. For me it's just a tool like knockdown that u take to ease the pain on something, IWA I take only when going Dex WM<br/>\n<br/>\nSent from my SM-N960N using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:20 PM - Jun 12, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>BikWiteDik wrote: <a data-post-id=\"20931\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20931&amp;sid=f2fb62e1eab633cf47a39db450ea2fac#p20931\">\u2191</a><div class=\"responsive-hide\">Jun 12, 2020</div></cite><blockquote><div><cite>Valerfor wrote:</cite>IIRC, the old ECB had tested this with death attack &amp; found the IWA to not work with it, thereafter, the whole IWA build subject was abandoned swiftly.</div></blockquote>\nHuh there's actually a build around it? Funny. For me it's just a tool like knockdown that u take to ease the pain on something, IWA I take only when going Dex WM.</div></blockquote>\nActually, one of the better uses of WA/IWA is to \"find\" invisible opponents. If you happen to also have Dev Crit with it, sometimes it works wonders.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BikWiteDik",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:41 PM - Jun 12, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite><blockquote><div><cite>BikWiteDik wrote: <a data-post-id=\"20931\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20931&amp;sid=5d7e6bdd142981786366cad144ec4b18#p20931\">\u2191</a><div class=\"responsive-hide\">Jun 12, 2020</div></cite><blockquote><div><cite>Valerfor wrote:</cite>IIRC, the old ECB had tested this with death attack &amp; found the IWA to not work with it, thereafter, the whole IWA build subject was abandoned swiftly.</div></blockquote>\nHuh there's actually a build around it? Funny. For me it's just a tool like knockdown that u take to ease the pain on something, IWA I take only when going Dex WM.</div></blockquote>\nActually, one of the better uses of WA/IWA is to \"find\" invisible opponents. If you happen to also have Dev Crit with it, sometimes it works wonders.\u00a0</div></blockquote>Yeah just sometimes, in rare occassions,  because it's not a lot of mobs using invis and usually u can have gear with true seeing or a s roll and if the mob just got bugged and u dont see him u just relog and there he is, that's cool to have WA yeah, but to go for it just for that purpose? Nope<br/>\n<br/>\nAbout other comment that trying to WA from sneaks:<br/>\nI dunno why u need to give yourself a hard time figuring out how to make a WA from sneaks, it's all about time, WA is when it's faster to kill all them like that , considering as a 1 handler u have only 5 attacks, 3-2 of which usually a miss, depends on enemies of course, wasting time sneaking around is not worth it imo.<br/>\n<br/>\n If the weapon dmg is crap and y rely on sneaks no need to go for IWA or even WA if your are not WM<br/>\n<br/>\nFor the guys reading that-<br/>\nI've played on many servers, lots of experience and from that I can tell that WA is a utilize tool, it's not something to go on purpose and rely on it, it can save u time in some cases fighting lots of mobs and level u faster cuz on leveling it's usually a lot of mobs that can hit u only on 20, so u can gather a lot and kill them, if u are not WM just dont go for it, waste of feats.  Improved WA is awesome but there just a few servers on which Its gonna be useful, where it's just hoards of mobs spawning every 2 steps but  most of time normal WA is enough<br/>\n<br/>\nTLDR: u are WM- that feat is quite helpful sometimes<br/>\nNot WM - dont go for it, cuz usually epic areas dont spawn tons of hard mobs and low lvl hoards u can quickly kill by 1 shotting anyway. <br/>\n<br/>\nSent from my SM-N960N using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

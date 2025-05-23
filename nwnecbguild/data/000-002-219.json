@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "219",
+  "name": "Newbie, Exodus from NWN2",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/newbie-exodus-from-nwn2-t2354550.html",
+  "author": "OmegaSage",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "OmegaSage",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:26 AM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Yeah, I've been indoctrinated by NWN2 for years now. Not an expert in that game, in fact could never bring myself to finish the mian story. I've always loved the idea of the game though, just too many problems. I recently saw a random comment on some random forum about NWN1 being so much better, so on a whim I checked it out.<br/>\n<br/>\n Why is it, that everything NWN2 is utterly incapable of, NWN1 has right out of the box!? WTF!?<br/>\n<br/>\n So, yeah, got NWN1 now and getting ready to play for first time ever. I only stopped to try and plan a build, but quickly realized I need to UNLEARN everything! *sigh*<br/>\n<br/>\n Anyone have updated links for some must-have mods? Been using Tony-K's AI for 2, but the link i found here in these forums is broken.<br/>\n<br/>\n Also, would appreciate any suggestions or advice for cutting my teeth here.<br/>\n<br/>\n I know I'm about 20 years late on this, I apologize.<br/>\n<br/>\n Oh, whoops, just now spotted the Introductions section of the forums. Sorry about that. XD<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:32 AM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome to the guild, amigo!\u00a0 It's unusual to encounter a player of NWN2 who has not tried NWN1 beforehand.\u00a0 You are a rare breed indeed! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "OmegaSage",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:53 PM - Jun 15, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for the warm response. I can attest to the modding thing with NWN2 as I did try my hand at it at one point, and even with help accomplished a whole lot of nothing. Was attempting to give the Druid Shapeshifting ability what they're supposed to have instead of nothing but slight stat boosts. It seems even the modding community that does know how to do everything gave up on that though. Closest to it was people coming up with script that tracks enchantments and buffs and then reapplies them after you're wildshaped. Imagine turning into a Badger with claw attacks with 1d8 acid, 1d8 fire, vorpal, and vampiric leech, to give an idea what that looked like.<br/>\n<br/>\n I digress, thank you again for the warm welcome. I'm gunna head on over to the new vault shortly and grab Tony K's AI module. Anything else you might suggest just for modifying the OC+Expansions? Going in mostly blind.<br/>\n<br/>\n Also, trying to load up the excell file you pointed towards even now. Normally Open Office doesn't have trouble loading XLSX files, but this one is a dousy. Thing just doesn't want to load. Thought about getting an excel viewer, but then I wouldn't be able to actually USE it, only look at it. -.- Ah well, I'll figure something out. Thank you for the help already!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:57 AM - Jun 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"ftp://empyre%40geekmesa.com:HouseofPain%211@ftp.geekmesa.com/CBC2806.zip\" rel=\"noreferrer\" target=\"_blank\">Here's an older version that isn't as nice, but works well with Open office.</a> The entire first sentence is the link. I recommend making it read-only and each time you start a new build, save-as to a file with the native format.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:10 AM - Jun 16, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>OmegaSage wrote:</strong><hr/>Anything else you might suggest just for modifying the OC+Expansions? Going in mostly blind.<br/>\n<br/>\n Also, trying to load up the excell file you pointed towards even now. Normally Open Office doesn't have trouble loading XLSX files, but this one is a dousy. Thing just doesn't want to load. Thought about getting an excel viewer, but then I wouldn't be able to actually USE it, only look at it. -.- Ah well, I'll figure something out. Thank you for the help already!<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Tony's AI is about all that is worth using with the Bioware modules.\u00a0 One word of advice about playing the OC... though all the prestige classes (yes, including shifter), new feats and spells were folded into the OC as of v1.69, the campaign itself was never rebalanced.\u00a0 The result is that even playing it on the hardest diff setting, there will scarcely be any significant challenge for most builds.\u00a0 If you want to fool with hench inventory, fine... but unless you improve the monster AI, it will become ridiculously easy with a well-equipped comrade-in-arms and not at all representative of a typical romp through NWN-land.<br/>\n<br/>\n After you finish the Bioware content, download the <a class=\"postlink\" href=\"http://neverwintervault.org/cep\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>CEP pak</strong></span></a>.\u00a0 I still use v2.3 but the claim is that the newest version is dependable.\u00a0 You'll need at least the CEP pak for much CC and many PWs.\u00a0 There will also be additional haks for some venues, but I'd wait until I encountered them before trying to anticipate every need.\u00a0 I wouldn't touch the PRC resources with a 10-foot pike but that is just from my own bad experience with it.<br/>\n<br/>\n TBH, I also had some problems getting .xlsx to open with just my MSOffice 2002 version of Excel.\u00a0 I remember needing to install some sort of compatibility fix from the Microsoft site but can't recall the procedure.\u00a0 It was somewhat of a nightmare to get them to open and now I save and use all Excel as the 2002 format.\u00a0 If you would like a copy of CBC2002, email me for a delivery addy.\u00a0 I see Kamiryn just offers the MSOffice 2007 version on the Vault now so you have few choices.\u00a0 Yes, the viewer is pretty much worthless for building toons since we usually post all the stats right on these boards.<br/>\n<br/>\n edit: Ninja'd by Empyre again!\u00a0 Since we are alternating, expect the next attack to come from yurz troolie.<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /></div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

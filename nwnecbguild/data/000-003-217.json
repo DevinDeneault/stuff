@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "217",
+  "name": "Rogue / Blackguard",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-blackguard-t2354437.html",
+  "author": "Vandayer",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Vandayer",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:01 AM - May 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've tried hard to come up with a build on my own but I can't make it work. Hopefully someone here can help me out!<br/>\n<br/>\n The idea is a stealthy type who also gets benefits from the BG (Cha) .. I understand his stats will be stretched thin.\u00a0<br/>\n<br/>\n Skills I'd like to have are Disable Trap, Hide, Move Silent, Open Lock, Search, Tumble, UMD.<br/>\n<br/>\n<br/>\n<span style=\"color:#ECF3F7\">1) PvM or PvP - PvM - very little to no PvP</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">2) Level cap - 20</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">3) Race preference - Must be Human</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">4) Class preference - Rogue and Blackguard -<em><strong> must have 10 levels of Blackguard</strong></em>. Third class is optional. Shadow Dancer would be great but not a must..</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">5) Melee preference - Dex based, using one weapon and a small shield - weapon type doesn't matter much.</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">6) Range preference - DEX\u00a0</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">7) Weapon preference - Long Bow.. This character is the scout/thief type for our group. He should be focused on ranged combat</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">8) Maximum item enhancement - +2 / +3 gear is typically as good as it gets</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">9) Spellcasting - Only the BG based spells. Will rely on UMD for most things.</span><br/>\n<br/>\n<span style=\"color:#ECF3F7\">10) Custom factors - These are the changes that have been made to the Blackguard on Thain :\u00a0</span><br/>\n<br/>\n<strong>Touch of Corruption</strong><br/>\n<span style=\"color:#000000\">-Add +1 per 2 Blackguard Levels to hit and Divine Damage for Blackguard turns per level (max +5)</span><br/>\n<span style=\"color:#000000\">-Once per day @ Lvl 1 - 4; Twice per day @ Lvl 5 - 9; Three times per day @ Lvl 10+</span><br/>\n<span style=\"color:#000000\">-</span><em>This effectively gives the Blackguard GMW</em><br/>\n<span style=\"color:#000000\">--Note, that there are stacking exceptions for this ability</span><br/>\n<br/>\n<strong>Aura of Depravity</strong><br/>\n<span style=\"color:#000000\">-Add +4 to CHA</span><br/>\n<span style=\"color:#000000\">-Add immunity to Fear</span><br/>\n<span style=\"color:#000000\">-Add immunity to Death @ Blackguard Lvl 10+</span><br/>\n<span style=\"color:#000000\">-Allies gain +5 to fear save and random heal from 1 to Blackguard level</span><br/>\n<span style=\"color:#000000\">-Once per day @ Lvl 5 - 9; Twice per day @ Lvl 10+</span><br/>\n<span style=\"color:#000000\">--</span><em>This effectively gives the Blackguard Aura of Glory and Deathward + the paladin immunity to fear</em><br/>\n<br/>\n<strong>Riftfire Eruption</strong><br/>\n<span style=\"color:#000000\">-Enemies around take [Blackguard level] d10 damage, half in negative, half in fire (reflex save for both)</span><br/>\n<span style=\"color:#000000\">-Those killed by the damage turn into rift shadows for Blackguard level turns (max number = cha bonus)</span><br/>\n<span style=\"color:#000000\">-Once per day @ Lvl 10+</span><br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:39 PM - May 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would suggest a Fighter 6 Rogue 4 BG 10, then. You'll have regular UMD and Tumble dumps, many feats with which to take twf feats abd BG requirements. Rogue levels at 1, 7, 12, 17. 14 STR 16 DEX to start with, either 16 CHA and 12 INT, leftovers in CON and 8 WIS or 14 CHA and 14 INT to have access to IKD and Expertise.<br/>\n<br/>\n I also recommend Taunt and Expertise if you can afford them.<br/>\n<br/>\n Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:15 AM - May 25, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Vandayer, you are right about the stats being stretched thin. The skills will also suffer from 10+ levels of a class with only 2 skillpoints per level. You want a lot of skills in. You probably also want spot or listen with this scout/thief.<br/>\n I have to tell you right away that BG is not the first thing I would pick as main class for a stealthy archer. It can definitely be done, but the class is better for melee builds.<br/>\n A general rule of mine is that if you cannot figure out how to make a build, there is a good chance that you want to put too many things into it. And that always makes the build weaker.<br/>\n Why don't you show us what you have come up with so far? Then we can help you decide what you want to keep and not.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vandayer",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:26 AM - May 27, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I ended up scraping it. It was just too spread out and as you said, just didn't mix well.<br/>\n<br/>\n I ended up just building a rogue/assassin/shadow dancer<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

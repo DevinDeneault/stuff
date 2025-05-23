@@ -1,0 +1,68 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "035",
+  "name": "Time Stop - how many spells?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/time-stop-how-many-spells-t2356136.html",
+  "author": "Gath",
+  "avatar": "10759592_1664210509.jpg",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "1:56 AM - Aug 23, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectTimeStop#:~:text=Use%20Time%20Stop,more%20with%20Quicken\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... %20Quicken</a>).<br/>\n<br/>\nHow many spells can you cast during time stop? The link says you can cast more than 3 with AutoQuiken if iunderstand correctly.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "2:19 AM - Aug 23, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Arkanis Gath wrote: <a data-post-id=\"28408\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28408&amp;sid=e940e641427c32240b5e7813b1b66c4e#p28408\">\u2191</a><div class=\"responsive-hide\">Aug 23, 2023</div></cite><a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectTimeStop#:~:text=Use%20Time%20Stop,more%20with%20Quicken\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... %20Quicken</a>).<br/>\n<br/>\nHow many spells can you cast during time stop? The link says you can cast more than 3 with AutoQuiken if iunderstand correctly.\u00a0</div></blockquote>\n<strong><span style=\"color:#ff0000\">Just tested in Nwn diamond. It seems that you can cast only 3 spells in time stop if hasted, autoquicken, or both. Looks like the link is wrong.</span></strong><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:28 AM - Aug 23, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>There is no way to allow a creature to be excluded from the timestop effect, which is why maybe Bioware limited the effect to a mere 9 seconds duration (which with haste is still time for <strong>3 spell casts</strong>).</div></blockquote>\n\nThe link is accurate.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "12:35 AM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28410\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28410&amp;sid=e940e641427c32240b5e7813b1b66c4e#p28410\">\u2191</a><div class=\"responsive-hide\">Aug 23, 2023</div></cite><blockquote><div>There is no way to allow a creature to be excluded from the timestop effect, which is why maybe Bioware limited the effect to a mere 9 seconds duration (which with haste is still time for <strong>3 spell casts</strong>).</div></blockquote>\n\nThe link is accurate.</div></blockquote>\nhow so? Can you explain? i didn't get it.\u00a0<br/>\nI'm referring to the part where it says: \"(under a Haste effect it allows 3 normal spells to be cast, potentially more with Quicken)\".<br/>\nfrom my tests it seems impossible to cast more than 3 spells.<br/>\nAm i missing something?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "12:45 AM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Aaand probably it's the wrong section :( sorry. Can someone move it to the right section? Again, sorry.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:04 AM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>potentially more with Quicken</div></blockquote>\n\nAs Quicken and Haste do not stack, there is no \"potentially more\" possible than 3.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:59 PM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@Arkanis Gath</em> : No, no, this is in the right section, don't worry.<br/>\n<br/>\nAnd, as Webby says, Quicken and Haste don't stack, which is one reason why you'll find few builds with Quicken Spell as a feat in an environment where perma-haste items can relatively easily be found or purchased. (Get me, showing a little arcane knowledge - time to quit the meds)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "2:45 PM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm getting to the bottom of the matter here.<br/>\ni was confused by the link i posted, but i didn't read the most important thing:\u00a0the version of the game.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectHaste#:~:text=Version-,1.62,-Example\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... 2,-Example</a><br/>\n<br/>\nProbably, but i can't test it, in version 1.62 and earlier it was possible to cast more than 3 spells per time stop (does anyone remember this by any chance?)<br/>\nI'm trying to solve a mystery here<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:05 PM - Aug 24, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My memory of the days of yore got erased along with the Bioware NWN forums...<br/>\n<br/>\nWhat a '*?`!\u00a7$%&amp;$ blow to the NWN Community that day was.<br/>\n<br/>\nIt's the day Bioware died, both literally and figuratively.<br/>\n<br/>\nThen EA bought them up, and they turned into instant trash.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

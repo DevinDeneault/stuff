@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "713",
+  "name": "The Planar Kensai Spellsword (Sorcerer 27 / Blackguard 4 / Monk 9)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-planar-kensai-spellsword-sorcerer-27-blackguar-t2355318.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:43 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is an interesting build concept that tries to marry the nice parts of each the classes:<br/>\n<br/>\n- Sorcerer for their crazy spells / day (base 6 / day) and spontaneous flexibility with casting, epic warding/epic mage armor, extended damage shields (death armor/elemental shield/mestil's), Mords/Time Stop/BBoD/Greater Sanc and summons<br/>\n- Monk for evasion/improved evasion, improved knockdown, great saves and monk speed<br/>\n- Blackguard for divine might for up to 10 divine damage / hit when cha is capped, stackable bull's strength (ie empowered sorc bull strength then blackguard bull's strength will stack), weapon proficiencies, and dark blessing for saves<br/>\n<br/>\nCool theme too, with evil blackguard, sorcerer for magic and monk for robed speedy power, I dubbed this one the Kensai Spellsword of the Planes<br/>\n<br/>\nThe base HP of 340 can be buffed with empowered endurance, damage reduction buffs (ie stoneskin/greater stoneskin/premonition), and epic warding although I wish it were a little higher.<br/>\n<br/>\nBase AB of 37 is ok given 27 sorc levels, although more is desirable, the empowered strength + stackable blackguard bull's + greater magic weapon + (PnP Tensors if this is available in your environment) should make up for it as well.\u00a0<br/>\n<br/>\nSkill points are a bit scarce with these classes and the stat sacrifices required, so I have tried my best to make do.<br/>\n<br/>\nAnyway I will work on fleshing out a bit more, but appreciate if any one else has comments. I could drop sorc down to 24-25 to get +1 BAB but I didn't see how that that would be worth it, the faster one gets undispellability + CL levels the better).<br/>\n<details><summary>Spoiler</summary>Sorcerer(27), Blackguard(4), Monk(9), Human\nSTR: 16 (28)\nCON: 14\nINT: 12\n\n01: Monk(1): Power Attack, Toughness, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Sorcerer(2): Blind Fight\n05: Sorcerer(4)\n07: Monk(3)\n09: Sorcerer(6): Empower Spell\n11: Sorcerer(8)\n13: Monk(4)\n15: Monk(6): Improved Critical: Greatsword, {Knockdown, Improved Knockdown}\n17: Monk(7)\n19: Blackguard(4)\n21: Sorcerer(9): Epic Weapon Focus: Greatsword\n23: Sorcerer(11)\n25: Sorcerer(13)\n27: Sorcerer(15): Great Strength I, (STR=21)\n29: Sorcerer(17)\n31: Sorcerer(19)\n33: Sorcerer(21): Great Strength III, (STR=24)\n35: Sorcerer(23): Epic Spell: Epic Warding\n37: Sorcerer(25)\n39: Sorcerer(27): Great Strength V, (STR=27)\n\nSkillpoints: 196\nSaving Throw bonuses: Spells: +7, Mind Effects: +2\nAB (max, naked): 37 (melee), 24 (ranged)\nSpell Casting: Sorcerer(9)\n\n\n01: Concentration(4), Discipline(4), Listen(4), Open Lock(1), Tumble(4), Save(6),\u00a0\n03: Concentration(1), Spellcraft(1), Save(6),\u00a0\n05: Concentration(1), Spellcraft(1), Save(10),\u00a0\n07: Concentration(1), Discipline(2), Hide(5), Tumble(1),\u00a0\n09: Concentration(1), Spellcraft(1), Save(2),\u00a0\n11: Concentration(1), Spellcraft(1), Save(6),\u00a0\n13: Concentration(1), Discipline(1), Listen(2), Tumble(6),\u00a0\n15: Concentration(1), Discipline(1), Listen(3), Tumble(1),\u00a0\n17: Concentration(1), Discipline(1), Listen(4), Tumble(2),\u00a0\n19: Concentration(1), Discipline(1), Save(4),\u00a0\n21: Concentration(1), Spellcraft(3), Save(4),\u00a0\n23: Concentration(1), Spellcraft(3), Save(4),\u00a0\n25: Concentration(1), Spellcraft(2), Save(5),\u00a0\n27: Concentration(1), Spellcraft(1), Save(9),\u00a0\n29: Concentration(1), Spellcraft(1), Save(13),\u00a0\n31: Concentration(1), Spellcraft(1), Save(17),\u00a0\n33: Concentration(1), Save(23),\u00a0\n35: Concentration(1), Save(29),\u00a0\n37: Concentration(1), Save(35),\u00a0\n39: Concentration(1), Save(41),\u00a0\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "2:47 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Can you fit Divine Shield for those DevCrit bosses?<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:20 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Divine Shield can be added in exchange for improved critical, it will last only 10 rounds at most.<br/>\n<br/>\nDevCrit bosses ewww. Bigby them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:12 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's more like the Sorceress Fist of Doom!<br/>\n<br/>\nDivine Might on TT Fists!\u00a0 Protected with arcane dweomers, damage shields, and sheer willpower!<br/>\n<br/>\nWith Mr. Giggles as the faithful Summons!<br/>\n<br/>\nLooks pretty sweet!<br/>\n<br/>\nJust a small spasm here - wouldn't it be a bit better to go Monk first, then pick up Blackguard pre-epic, then go Sorcerer all in?<br/>\n<br/>\nBAB will be better.<br/>\n<br/>\nJust reserve that 1 level of Monk in Epic for the Tumble drop. Maybe Disc as well, depending on the environment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:53 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"18689\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18689&amp;sid=a7bba4af78014c55d70a781215ea6e72#p18689\">\u2191</a><div class=\"responsive-hide\">Jan 28, 2020</div></cite>[..]<br/>\nLooks pretty sweet!<br/>\n<br/>\nJust a small spasm here - wouldn't it be a bit better to go Monk first, then pick up Blackguard pre-epic, then go Sorcerer all in?<br/>\n<br/>\nBAB will be better.<br/>\n<br/>\nJust reserve that 1 level of Monk in Epic for the Tumble drop. Maybe Disc as well, depending on the environment.</div></blockquote>\nThanks for reading the post Web (and Zanithar)!\u00a0<br/>\n<br/>\nPre-epic split (level 20 and less) is Monk 8 / BG 4 / Sorc 8. Epic levels is Sorc 19 and 1 monk. With the current class amounts I can't increase eventual BAB any further.<br/>\n<br/>\nBAB can be increased by 1 (BAB 25) by taking Monk 8 / BG 6 / Sorc 6 pre-epic or by 2 (BAB 26, 4 APR) by taking Monk 8 / BG 8 / Sorc 4 pre-epic , but it weakens spellcasting and increases BG levels which give less than Monk (ie monk speed, ac, improved knockdown, improved evasion) and Sorc levels (faster spell progression, caster levels, bonus feats).<br/>\n<br/>\nWith a base AB of 37 I thought probably best to leave it as it is and not chase the extra fourth attack, I believed, it gets sorcerer spellcasting power faster, making it more playable, giving it more caster levels/spell pen and a useful bonus feat.<br/>\n<br/>\nGetting level 4 sorc spells pre-epic is pretty valuable for either stoneskin, improved invisibility etc etc<br/>\n<br/>\nAnd I realise I forgot to talk about craft wand -&gt; can swap empower spell or improved crit for this feat if you wish.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:27 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think I would probably go with another divine might class.  The difference between 24 and 27 Sorcerer is not much, either you got for undispellable or exceptionally deep.<br/>\n<br/>\nPerhaps consider 24 Sorc / 9 Monk / 7 Cleric.  Make sure you take Strength Domain and load up on Divine Power, also take Divine Might, of course.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:44 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cleric is a strong class but I've chosen not to go cleric here. It costs investment in wisdom, meaning lower cons str or int. DP is dispellable and lasts 7 rounds with cleric 7. Plus dark blessing/evasion synergy is lost.<br/>\n<br/>\nBut I get your point with the AB boost and APR boost from DP is very attractive. If I went sorc/cleric/monk I would just suck up the 20% exp penalty and drop monk down to 3-4 and go sorc 21 cleric 15 monk 4. Everything is dispellable though except EW or EMA. Sorc 24 cleric 12 monk 4 might be ok too!<br/>\n<br/>\nI like a few more caster levels than 24 btw it's not an all or nothing thing, more a slow gradient up to pure 40. Stuff like bonus feats, increased damage from damage shields longer durations, slightly  better mords dispels and spell pen.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "8:19 AM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fair enough, the bonus feat(s) are always the juggle on going a little deeper :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

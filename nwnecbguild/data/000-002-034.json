@@ -1,0 +1,140 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "034",
+  "name": "Silence + quicken is it a bad idea?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/silence-quicken-is-it-a-bad-idea-t2356127.html",
+  "author": "Gath",
+  "avatar": "10759592_1664210509.jpg",
+  "replies": 20,
+  "posts": [
+    {
+      "author": "Arkanis Gath",
+      "avatar": "10759592_1664210509.jpg",
+      "timestamp": "12:24 PM - Aug 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As the title implies, I wonder if that's a good idea.<br/>\nQuickened spells occupy\u00a0spell slots\u00a0four levels higher than normal. Consequentially Silence can be casted as 6th lvl spell, bypassing completely every globe.<br/>\nNow immagine it with autosilence.\u00a0<br/>\nIs there any build out there that i missed?<br/>\nThanks for the attention<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:58 PM - Aug 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm pretty sure that NWN doesn't count Quickened Silence as a 6th level spell - though it should \n<blockquote><div>Spells modified by a metamagic feat use a spell slot higher than normal. This does not change the level of the spell, so the difficulty class for saving throws against it does not go up.<br/>\n<br/>\n<strong>Effects of metamagic feats on a spell:</strong> In all ways, a metamagic spell operates at its original spell level, even though it is prepared and cast as a higher-level spell. Saving throw modifications are not changed unless stated otherwise in the feat description. </div></blockquote>\n- <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Metamagic\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Metamagic</a><br/>\n<br/>\nProbably an Engine limitation.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "5:47 PM - Aug 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">^ what he said!<br/>\nUnless your server/module has removed all haste items and spells the quicken and autoquicken feats are pretty useless.\u00a0<br/>\n<br/>\nThey aren't even useful for sorcerer spell management<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:21 PM - Aug 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">They do have one important use (though that is mostly for PvP and Dev side only) - and that is to make it almost impossible to Counterspell one's spells.<br/>\n<br/>\nAnd believe me, if the Devs of a Mod or PW have NOT done any work to prevent/counter Player Counterspelling, then ANY and all spellcasting Bosses will get absolutely wrecked by a Sorc (or specially prepared other spellcaster) in Counterspell mode.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:57 PM - Aug 01, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Case in point - I used to Counterspell a particular baddie all the time on WoG...until DM Wise \"fixed\" it...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "11:55 AM - Aug 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28305\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28305&amp;sid=7f5803d6007af42f792cca69c5a5baae#p28305\">\u2191</a><div class=\"responsive-hide\">Aug 01, 2023</div></cite>Case in point - I used to Counterspell a particular baddie all the time on WoG...until DM Wise \"fixed\" it...</div></blockquote>\nDon't think I have ever used Counterspell.\u00a0 \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:34 PM - Aug 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, it's not worth trying on WoG, anymore.<br/>\n<br/>\nBut it used to be an \"I win\" sort of deal.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "2:48 PM - Aug 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think I tried it once in the original campaigns but never tried it again after that...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "4:15 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">- What's the counterspell for maximized I'sGMS casted after hasted Mord with a high level caster, with some Time stop between the missiles ?<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n- Resurrection.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:44 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wrong.<br/>\n<br/>\nYou just click on Counterspell (radial, or, like me, use a programmable key) while being perma-hasted (cannot be Morded off).\u00a0 And all the IGMSs will be Counterspelled, as will the Mords...so will the Timestop.\u00a0 Just make sure you have enough Dispels (sorc is great for this).<br/>\n<br/>\nThe only thing that puts a damper on this is if the opponent is auto-quickened and perma-hasted, because to Counterspell it, one also has to be auto-quickened and perma-hasted. (note that one doesn't absolutely need to be perma- just hasted).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "5:57 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh yes that IS beautiful. I wasn't aware of that yet. Thank you for the knowledge !<br/>\n<br/>\nAnd how to counterspell a \"Dragon sitting on a wizard\" spell ? <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:59 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">*blinks*<br/>\n<br/>\nI think auto-quickened (Hasted) Greater Sanctuary is the counterspell...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:42 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Or you could just keep your brittle wee stick of a wizard a sane distance from fat-arse dragons, maybe?<br/>\n<br/>\nAfter all - giving it some Jungle Book - \"That's what <span style=\"text-decoration:line-through\">friends</span> tanks are for.\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:44 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">UNLESS<br/>\n<br/>\nThat fat-arsed dragon has Monk levels and perma-haste...ouch! &gt;.&lt;<br/>\n<br/>\nHasted (Auto-Quicken) GS to the rescue!<br/>\n<br/>\nOf course, if we are playing with Contingency spells...hehe.\u00a0 Teleport, DD, etc come to mind...but I disgress.\u00a0 However, the PRC does have all this...and more!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "6:48 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dragon breath + dragon fart is able to reach a wizard even at a safe distance... if the dragon is autosilent, we're all dead.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:49 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28460\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28460&amp;sid=0125904cee57ea90a80aeffeec9596f2#p28460\">\u2191</a><div class=\"responsive-hide\">Sep 02, 2023</div></cite>UNLESS<br/>\n<br/>\nThat fat-arsed dragon has Monk levels and perma-haste...ouch! &gt;.&lt;<br/>\n<br/>\nHasted (Auto-Quicken) GS to the rescue!<br/>\n<br/>\nOf course, if we are playing with Contingency spells...hehe.\u00a0 Teleport, DD, etc come to mind...but I disgress.\u00a0 However, the PRC does have all this...and more!</div></blockquote>\nAh, Contingency...an absolutely priceless spell in BG (both baby and big brother). Shite in NwN. Mind you, the one I still miss most from BG and IWD is Chromatic Orb (I'm not saying it's the only thing that keeps me away from playing casters, but...)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:53 PM - Sep 02, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>Shite in NwN</div></blockquote>\n\nYeah, more like non-existant in vanilla.<br/>\n<br/>\nThe PRC, on the other hand, has done the spell brilliantly.<br/>\n<blockquote><div>Dragon breath + dragon fart</div></blockquote>\n\nI...I am afraid to ask.\u00a0\u00a0<br/>\n<br/>\nHowever, as DB takes up a whole round...the hasted (auto-Quicken) GS goes before it does.\u00a0 Noice!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "12:59 PM - Sep 11, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Pan Draconis wrote: <a data-post-id=\"28461\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28461&amp;sid=0125904cee57ea90a80aeffeec9596f2#p28461\">\u2191</a><div class=\"responsive-hide\">Sep 02, 2023</div></cite>Dragon breath + dragon fart is able to reach a wizard even at a safe distance... if the dragon is autosilent, we're all dead.</div></blockquote>\nAutosilent but deadly....<br/>\n<br/>\nhope that dragon hadnt had any of Grom's chili....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:18 PM - Sep 11, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Grom's chili - killing gobbos since 1867.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:03 PM - Sep 11, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Don't know what on oerth you're both on about - clears dwarven sinuses (among other places) instantly. Get yourselves some decent constitution!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "5:00 PM - Sep 11, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have a couple casters that have enough Con to handle the chili aromatics...\u00a0 \u00a0even have one with EDR3..\u00a0 she don't even mind the heated wind that chili causes...<br/>\n<br/>\ncleaning the drawers after gets bit expensive...\u00a0 \u00a0even them Jello cubes that wander in Undermountain cant get the stains out...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

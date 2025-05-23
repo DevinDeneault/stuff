@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "306",
+  "name": "Either a bug or in need of clarification: Zen & Wisdom",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/either-a-bug-or-in-need-of-clarification-zen-wisdo-t515361.html",
+  "author": "HipMaestro",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "12:33 AM - Jul 15, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I'm trying to build a zen archer but have come upon a stumbling block.<br/>\n<br/>\nWhen I buff the archer with Owl's Wisdom, the modifier increases just fine to either +1 or +2 additional, but the attack bonus doesn't change.  Yet if I equip either a +2 or +4 Wis ammy, the AB bumps up as would be expected.<br/>\n<br/>\nSo what's the deal here?  Is this yet another burp on the character sheet or does zen archery treat temporary wisdom increases differently than permanent ones?  I know from experience that when I buff with Cat's Grace on a standard dexer archer, the AB changes as it should. Confusing.<br/>\n<br/>\nTemporary inconvenience, permanent improvement (I hope!).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:16 AM - Jul 15, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No worries.<br/>\n<br/>\nJust checked it with combat debugging and the Wisdom bump is being calculated properly.  So here is another gliche on the character sheet to be aware of.<br/>\n<br/>\nBack to the task at hand.  Thanks for stopping by to read my ravings.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "8:46 PM - Jul 15, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Interesting, I never noticed this glitch. One more reason not to look at the character sheet, ah!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

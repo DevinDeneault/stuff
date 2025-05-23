@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "945",
+  "name": "Tanky Healbot request",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/tanky-healbot-request-t2354930.html",
+  "author": "LtFlowbee",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "LtFlowbee",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:26 PM - Jul 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all,\u00a0 I'm looking for a cleric build that can tank, heal, and buff.\u00a0 As far as combat more melee focused than ranged.\u00a0 Really your classic battle cleric I suppose.\u00a0 The one minor catch is I want to plan Lawful Good or Neutral Good.<br/>\n<br/>\n<strong>1) PvM or PvP</strong> - PvM<br/>\n<strong>2) Level cap</strong> - 40<br/>\n<strong>3) Race preference</strong> - Prefer human, but flexible<br/>\n<strong>4) Class preference</strong> - Base class cleric, but can multi into others.<br/>\n<strong>5) Melee preference</strong> - Hammer and Shield<br/>\n<strong>6) Range preference</strong> - No preference<br/>\n<strong>7) Weapon preference</strong> - War hammer preferred, but any \"clericy\" weapon will do (mace, etc)<br/>\n<strong>8) Maximum item enhancement</strong> - Pretty much vanilla NWN stuff<br/>\n<strong>9) Spellcasting</strong> - buffs, heals and a few combat spells<br/>\n<strong>10) Custom factors</strong> - N/A- Vanilla NWN<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:47 PM - Jul 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's a Cleric 32 / Fighter 8 that seems to fit the bill. If you do not have permanent Haste items available, you might be wise to replace the Healing domain with Travel to get Haste as an available buffing spell. Trickery is there to give you Improved Invisibility, a very nice buff.<br/>\nINT is 13 to qualify for Improved Knockdown, and STR needed to start odd in order to end even. It would have been nice to have 12 DEX for more AC (drink a Cat's Grace potion to fix that), more INT for more skills, like a maxed Heal skill, and more CHA for better turning, but you can't have everything. There is always a trade-off to make.\n<details><summary>Spoiler</summary>\nHealing Tank (Cleric 32 / Fighter 8)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 8\nWIS: 16 (22)\nCHA: 10\nLeveling Guide:\n01: Cleric(1): Power Attack, Cleave, Domain Healing, Domain Trickery\n03: Cleric(2): Extend Spell\n05: Cleric(4)\n07: Cleric(6)\n09: Cleric(8): Knockdown\n11: Cleric(10)\n13: Fighter(2): Improved Critical: Warhammer\n15: Cleric(13): Empower Spell\n17: Cleric(15)\n19: Fighter(3)\n21: Fighter(4): Epic Weapon Focus: Warhammer, Weapon Specialization: Warhammer\n23: Fighter(6): Epic Weapon Specialization: Warhammer\n25: Cleric(19)\n27: Cleric(21): Great Strength II, (STR=18)\n29: Cleric(23): Armor Skin\n31: Fighter(7)\n33: Cleric(26): Great Strength IV, Great Wisdom I, (STR=22), (WIS=20)\n35: Cleric(28)\n37: Cleric(30)\n39: Cleric(32): Great Strength VI, Great Wisdom III, (STR=25), (WIS=22)\n\nHitpoints: 456\nSaving Throws (Fortitude/Will/Reflex): 25/27/15\nBAB: 25\nAC (naked/mundane armor/shield only): 15/26\nAlignment Changes: 0\nSkills:\n\n02: Concentration(1), Discipline(5), Heal(1), Save(1)\n04: Concentration(1), Spellcraft(1), Tumble(1)\n06: Concentration(1), Spellcraft(3)\n08: Concentration(1), Spellcraft(1), Save(2)\n10: Concentration(1), Spellcraft(1), Save(4)\n12: Concentration(1), Save(9)\n14: Concentration(1), Tumble(2)\n16: Concentration(1), Spellcraft(2), Save(1)\n18: Concentration(1), Save(3)\n20: Concentration(1), Tumble(1), Save(1)\n22: Concentration(1), Discipline(1), Save(2)\n24: Concentration(1), Spellcraft(5)\n26: Concentration(1), Spellcraft(2), Save(1)\n28: Concentration(1), Heal(2), Spellcraft(1)\n30: Concentration(1), Save(5)\n32: Concentration(1), Spellcraft(3)\n34: Concentration(1), Spellcraft(1), Tumble(1)\n36: Concentration(1), Spellcraft(2), Save(1)\n38: Concentration(1), Save(3)\n40: Concentration(1), Discipline(9)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "LtFlowbee",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:33 PM - Jul 30, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

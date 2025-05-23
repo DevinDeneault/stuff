@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "015",
+  "name": "Swordflight Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/swordflight-build-t2356270.html",
+  "author": "Commiades",
+  "avatar": "10759504_1633655887.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Commiades",
+      "avatar": "10759504_1633655887.jpg",
+      "timestamp": "7:04 AM - Sep 02, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I saw this build for a halfling rogue, fighter, assassin for Swordflight: <a class=\"postlink\" href=\"https://forum.neverwintervault.org/t/swordflight-builds-only/2538/22?page=2\" rel=\"noreferrer\" target=\"_blank\">https://forum.neverwintervault.org/t/sw ... /22?page=2</a><br/>\n<br/>\nIt is dual-wield and Dex, but doesn't take Weapon Focus or Weapon Specialisation. It seems somewhat scandalous, but otherwise seems intriguing. What do you think? <br/>\n<br/>\nIt uses Shortsword and Dagger, but has the option of Kukri and Whips when useful. Damaging the sneak immune is with added fire and poison (doing acid damage).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:48 AM - Sep 02, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All in all, it looks like a decent rogue build. <br/>\nAs for feats, it has no weapon focus, but has access to all weapons a small creature can use. That gives great freedom and flexibility, but the AB will be -3 lower than a build with focus on a single weapon. With weapon focus, fighter builds also have access to WS and EWS, adding +6 to damage with the chosen weapon, so flexibility comes at a cost.<br/>\nDodge has some value in itself, giving +1 AC vs the opponent you fight. Mobility has little to offer this high Tumble build, unless you really want SD. According to the poster, you get HIPS on items and don't need SD for that. That would free up both Dodge and Mobility.<br/>\nThe point of taking an assassin level is to have the Use Poison feat. The poster wants poison because in this series it can add elemental (acid) damage. Assassin can be taken earlier, but if you take it pre epic, you need 4 (or 8) levels, replacing rogue levels if you want to avoid losing BAB (the rule of 4) compared with the current build. Doing this will cost you some skill points and give you a slightly better reflex save and better save vs poison.<br/>\nThe build takes Great Dexterity x4. It helps with AB, AC, reflex saves and boosts several skills. It also enables Epic Dodge at level 27. Once you have achieved Dex 25 for ED, there is the option to drop 2 Great Dex feats for EP and AS. AC will be +1 better, AB will be the same, and dex based skills and the reflex save will suffer marginally.<br/>\nSkill wise, the build description is rather sketchy. The main skills are Appraise, Disable Trap, Heal, Hide, Move Silently, Open Lock, Search, Tumble, Use Magic Device. The poster also suggests taking a single point in Pick pocket. You have enough skill points to max out all primary skills and still have a handful of skill points to play with. There is no discussion about where to stop taking any given skill.<br/>\nThe heavy focus on Appraise is to get enough gold to buy whatever you want or need and still be rich. The problem with this approach, according to the poster, is that you empty the stores of gold. So maybe there is a point of diminishing returns here.<br/>\nTaking some points in Heal can be useful if you use healing kits to cure poisons and diseases. Maxing it shouldn't be necessary as long as potions are available.<br/>\nI would look into taking Set Trap and Listen or Spot. If True Seeing is available as an item property, Listen can still be useful.<br/>\nHere is how the build looks in the format we use here:\n<details><summary>Spoiler</summary>Rogue(29), Fighter(4), Assassin(1), Halfling\nSTR: 12\nCON: 14\nINT: 14\n\n01: Rogue(1): Dodge\n03: Rogue(2): Blind Fight, {Evasion}\n05: Rogue(4)\n07: Rogue(6)\n09: Fighter(2): Ambidexterity, Two-Weapon Fighting\n11: Rogue(9)\n13: Rogue(11)\n15: Rogue(13): Knockdown, Improved Evasion\n17: Rogue(15)\n19: Fighter(3)\n21: Assassin(1): Great Dexterity I, (DEX=24)\n23: Rogue(18)\n25: Rogue(20)\n27: Rogue(22): Epic Dodge\n29: Rogue(24): Improved Sneak Attack I\n31: Rogue(26)\n33: Rogue(28): Great Dexterity IV, Improved Sneak Attack II, (DEX=30)\n\nSaving Throws (Fortitude/Will/Reflex): 19/13/29\nBAB: 23\nAC (naked/mundane armor/shield only): 28/30\nAlignment Changes: 0\nSkillpoints: 342</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:57 AM - Sep 02, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ignoring the 2 catastrophic saves and the frankly lazy skills distribution, I think some tightening up of feats is relatively easily done pre-epic. Losing Dodge and Mobility makes sense, as Mick points out, and replacing them with Weapon Focus and Specialization is good (probably kukri, or there's no real point going for the Exotic Weapons feat). The Specialization is particularly important early on - iirc there are many sneak/crit immune undead in Part 1, so some consistent damage output would be useful. I'd therefore be taking those 4 Fighter levels good and early. I'd also be looking at getting Improved KD before going for the dual-wielding feats - especially as a shorty - otherwise you'll just end up missing, but twice as often. Hardly a plan. It would be nice to grab Improved Critical as well, but there's not much room (if any) without dropping kukris (and therefore Exotic Weapons proficiency) and going for daggers.<br/>\n<br/>\nIn epic levels my temptation would be to add 4 more levels of Fighter for EWF and EWS (making the build a Rogue 25/ Fighter 8/ Assassin 1), and, as Mick suggests, dropping 2 Great Dex feats for Epic Prowess and Armour Skin. As ED is taken as a general feat, it's still do-able at level 27 (which is the earliest possible one can take it).<br/>\n<br/>\nYes, you'd lose a little in sneak attacks, but they'll hurt more when they land. Your skill points will be fewer, but that can be accommodated with better skills management. You'd also take a minor dip in your Reflex save. You'll gain 3 AB (even more important if dual-wielding), 6 damage, 1 AC, and a few more hit points.<br/>\n<br/>\nYMMV, of course.<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: BtW, here's a different take on building without WF: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/universal-warrior-2-fighter-18-bard-12-rdd-10-t515536.html\" rel=\"noreferrer\" target=\"_blank\">Universal Warrior 2</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "CorianderCastor",
+      "avatar": "10759549_1649616341.png",
+      "timestamp": "2:55 AM - Sep 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Since RogueKnight333 loves throwing stealthers at the player, I'd wholeheartedly recommend a detection skill. Detection skills also reward occasional XP bonuses. I believe the modules employ standard toolset true sight.<br/>\n<br/>\nThe poison requires the feat to use, and can be found rather early in chapter two. Can't HiPS until enough UMD to equip the armor if not assassin. That's the problem with the monk item which casts divine power, as well.<br/>\n<br/>\nYes, chapter one is full of undead, but it also gives a magical weapon of particular types, and\u2014for characters with open locks\u2014potentially a rod of bless weapon. The rod can be save scummed. Holy darts/shuriken could help before then for a dexer. Now, naturally, WS on top would be even better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:41 AM - Sep 03, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"29635\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29635&amp;sid=2e3a852afd126381601b970890212d45#p29635\">\u2191</a><div class=\"responsive-hide\">Sep 02, 2024</div></cite>BtW, here's a different take on building without WF: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/universal-warrior-2-fighter-18-bard-12-rdd-10-t515536.html\" rel=\"noreferrer\" target=\"_blank\">Universal Warrior 2</a></div></blockquote>\nI just posted an update for that build, but optimized for Aielund, not for Swordflight.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Commiades",
+      "avatar": "10759504_1633655887.jpg",
+      "timestamp": "12:34 AM - Sep 05, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks very much for your very detailed replies. Swordflight is still on my list of mods to play. I started a long time ago, but haven't played NWN for a while. I'm playing the alazander trilogy at the moment. And have a plan to do the Prophet series at some stage.<br/>\n<br/>\nMy difficulty is I prefer not to use any companions and I end up playing low level (restartitis), so builds always end up including rogue levels and I'm reluctant to postpone classes like Shadowdancer to epic levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:01 AM - Sep 05, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I used to prefer to go solo with no henchman, but I learned that I was missing a lot of the story doing that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Commiades",
+      "avatar": "10759504_1633655887.jpg",
+      "timestamp": "4:56 AM - Sep 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I find solo I'm not having to try to keep companions alive (I should work on their instructions).<br/>\n<br/>\nI also want to be doing everything (a problem with BG too ...).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:25 PM - Sep 12, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Did anyone beat all Swordflight chapters? If yes, what build did you use?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:54 AM - Sep 27, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll admit RogueKnight's Swordflight series is perhaps the one reason I might reinstall Neverwinter Nights on my PC. There are now five chapters &amp; you can get up to the 37th(?) level, so pretty close to being one of the very rare modules that goes all the way from beginner to late epic. I don't mind brutal difficulty etc. but I've heard it becomes a bit tedious in late chapters (4th &amp; 5th) with rooms full of high HP/AC monsters. If anyone has more info, please share it here or in the thread dedicated to the module. <br/>\n<br/>\nAlso, good cleanup of the build Mick.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

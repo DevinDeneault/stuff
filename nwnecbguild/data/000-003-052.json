@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "052",
+  "name": "Elven Spellsword",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-spellsword-t2354730.html",
+  "author": "Valerionx",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Valerionx",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:11 AM - Aug 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Heya, I thought about doing a spellsword, for Arelith lv 30 cap, and uh... yeah... at first I intended to try something indifferent, but... well they beat me too it.<br/>\n<br/>\n<strong>Mechanical information</strong><br/>\nThe spellsword is a wizard path. A character can become a spellsword at character creation, turning the wizard levels into spellsword levels, as long as they have no school specialization. There is a way to become a spellsword after creation as well, though the method, and price if any, remains secret. <br/>\n<strong>Spellsword Abilities</strong>\n<ul>\n<li>Wizard Hit Die upgraded to d6</li>\n<li>They gain Martial Weapon proficiency</li>\n<li>They gain +3 CL against dispels</li>\n<li>They gain +1 <strong>melee</strong> Damage per INT modifier, capped to wizard level/2</li>\n<li>They gain +1 Discipline each 3 wizard levels</li>\n<li>If they aren't holding anything in their offhand (shield, bow, two-hander, etc), they gain +1 (Dodge) AC per int modifier, capped by wizard level/6+1 to a maximum of 7 at 30</li>\n</ul>\n<strong>If their majority of levels is Wizard, they gain increased AB and their APRs change to:</strong> <br/>\n<br/>\n<br/>\nThey gain +1 AB\u00a0 (starting at 3) every 4 levels up to 27 and 4 APR at level 22<br/>\n<ul>\n<li>One spell school of their choice (to lose, such as divination etc etc)</li>\n<li>All summoning spells and abilities (the only exception being the wizard familiar)</li>\n<li>All epic spells, including command spells like -scry, except Epic Mage Armour</li>\n</ul>\n<strong>Notes</strong>: \n<ul>\n<li>Most of these changes do not appear in the character sheet, but they will be reflected in the combat log.</li>\n<li>The bonuses (AC, AB, disc) are soft, counting toward their respective caps and not counting for feat/class requirements.</li>\n<li>The Attacks Per Round will <strong>replace</strong> the natural attack progression and will not stack in any way with the monk progression.</li>\n<li>Their summoning restriction is absolute. All spells and abilities means <strong>all</strong> of them, even abilities that are not strictly summoning, like the druid's animal companion, the shadowdancer's shadow, or Mordenkainen's Sword spell. They are prevented from using these spells even from scrolls and other sources. Domination and charm abilities, however, work normally.</li>\n<li>They cannot choose Conjuration as their forbidden school.</li>\n<li>Using the -twohand\u00a0 command counts as having the offhand occupied for the purposes of the bonus AC.</li>\n<li><strong>(You can toggle this command to activate the two-handed mode when you aren't holding anything in your left hand. When you are two-handing a weapon you receive half of your STR modifier as extra damage. Using this mode also enables the +2 Attack Bonus that comes with normal two-handed weapons, though not for bastard swords users)</strong></li>\n</ul>\n\nI thought this seemed pretty cool going nearly a pure wizard isn't such a bad thing, I think... I've never done a ...melee wizard before... I'd want to do an Elf who uses a longsword, seems to fit the theme. <br/>\n<br/>\nAssuming 18 int is started out with I can trudge and get 22 INT at level 1 by various means, but ...even if I go 27 wizard, I dunno what to do for the rest of it, I'd assume I'd want to get one spell focus and maybe a spell penetration as well.. but I need help from you guys ^^'<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:48 PM - Aug 21, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I'm sure you know, I'm not the one for advice and guidance in the arts magicka, but if you're looking at something melee based, is there anything wrong with a Wiz 25 / Fighter 5, if only for the WS/EWS? Or is that too easy?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerionx",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:28 AM - Aug 22, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's a spellblade. Part of them is their versatility, they can use magic and a blade. The problem I'm having...is the blade part xD I've rarely messed with melee, xD So, any help would be appreciated!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:06 AM - Aug 24, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm thinking the Arelith forum (there is one right?) would be a better place to ask as this is very specific to the server. \u00a0Sorry<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

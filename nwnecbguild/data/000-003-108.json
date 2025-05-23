@@ -1,0 +1,68 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "108",
+  "name": "Arelith: Assassin Build Request",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-assassin-build-request-t2354611.html",
+  "author": "Imber",
+  "avatar": "no_avatar.png",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "Imber",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:23 PM - Oct 01, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys,<br/>\n<br/>\n So I'm looking to make my first assassin. He will be pvp focused from RP value, but I also want something that won't kill me to level and is fairly versitile for PVE as well, but main focus will be RP PVP. I would prefer a human as far as race, but am flexible.<br/>\n<br/>\n A little information about Arelith;<br/>\n<br/>\n It is a level 30 capped world and one must take 3 levels consecutively of any new class. You are able to purchace gifts (Ie. +2 strength) At the cost of ECL. I do not care what my character's ECL will be so gifts are an option. Forgive me if I'm leaving anything out of here.<br/>\n<br/>\n I would like a high DA DC, but if that screws with the build too much well I'm willing to be flexible. Oh HIPs occures at level 5 with shadow dancer now instead of level one on the Arelith server if that is put into the build.<br/>\n<br/>\n (I am very flexible on this, please give me your suggestions)<br/>\n<br/>\n THANKS!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:17 PM - Oct 01, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This version is the superior AB/AC/stealth/detection design.\u00a0 It is arranged to take advantage of the monk AB progression (i.e. kama) and wearing robes/no shield.<br/>\n<br/>\n If you want to change to Human, all those elements will be reduced (re: loss of Small Stature).\u00a0 As long as you get at least DEX 25 by Level 24, Epic Dodge will be available at earliest opportunity.\u00a0 I suppose you can boost DEX enough with that gifting system to meet the prereqs using human.\u00a0 With Human you will be able to max one more skill and have a pre-epic feat as well.\u00a0 Your choice.\u00a0 But this is the optimized build requested and will be better PvP than a human or elven version.<br/>\nSpoiler [+]<br/>\n<br/>\n Monk(10), Shadowdancer(5), Assassin(15), Lawful Evil Halfling<br/>\n<br/>\n STR: 11<br/>\n DEX: 19 (26)<br/>\n CON: 13 (14)<br/>\n WIS: 8<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n 01: Mnk(1): Stealthy<br/>\n 02: Mnk(2)<br/>\n 03: Mnk(3): Wpn Finesse<br/>\n 04: Mnk(4): DEX+1 (20)<br/>\n 05: Mnk(5)<br/>\n 06: Mnk(6): WF: Kama<br/>\n 07: Mnk(7)<br/>\n 08: Mnk(8): DEX+1 (21)<br/>\n 09: Asn(1): Dodge<br/>\n 10: Asn(2)<br/>\n 11: Asn(3)<br/>\n 12: Asn(4): DEX+1 (22), ImpCrit: Kama<br/>\n 13: Asn(5)<br/>\n 14: Asn(6)<br/>\n 15: Asn(7): Mobility<br/>\n 16: Asn(8): DEX+1 (23)<br/>\n 17: SD(1)<br/>\n 18: SD(2): Blind Fight<br/>\n 19: SD(3)<br/>\n 20: SD(4): DEX+1 (24)<br/>\n 21: Asn(9): EWF: Kama<br/>\n 22: Asn(10)<br/>\n 23: Asn(11)<br/>\n 24: Asn(12): DEX+1 (25), Armor Skin<br/>\n 25: Asn(13)<br/>\n 26: SD(5)<br/>\n 27: Mnk(9): Epic Dodge<br/>\n 28: Asn(14): CON+1 (14), Grt DEX (26)<br/>\n 29: Mnk(10)<br/>\n 30: Asn(15): Epic Prowess<br/>\n<br/>\n HP: 270<br/>\n Saves F/W/R: 17/14/30\u00a0 (19/16/32 v spells)<br/>\n Add'l saves: Mind Effects: +2, Traps: +3, Poison: +6, Fear +2<br/>\n BAB: 20<br/>\n AB (max, naked): +33/+30/+27/+24/<span style=\"color:#FF0000\"><strong>+21</strong></span> (kama), +31/+26/+21 (throwing), +30/+25/+20 (all other ranged)<br/>\n AB, kama, FoB: +31/+28/+25/+22/+19/+16<br/>\n AC (naked/mundane armor/shield only): 29/29<br/>\n DA DC: 10 +15 + 2 = 27<br/>\n<br/>\n Skills: 208 - Discipline 32(32), Hide 33(47), Listen 32(37), Move Silently 33(49), Spellcraft 8(10), Spot 32(35), Tumble 30(38)<br/>\n<br/>\n<em>edit: fixed kama progression; added FoB progression</em><br/>\n<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:35 AM - Oct 02, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Shouldn't that build have 5 attacks with the kama?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:32 AM - Oct 02, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes. Quite.\u00a0 Tx for checking, Empyre <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\n Added the Flurry of Blows progression as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Imber",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:06 AM - Oct 02, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cool! That's a pretty sweet build. Think I may use that!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "JethronXaris",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:27 PM - Oct 10, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I tried something new in Aielund Saga.. Wizard (Illussion school) 6 / Ranger 4 / Assassin 20...<br/>\n<br/>\n STR 12<br/>\n DEX 16 (27) with Cat's Grace (30)<br/>\n CON 12<br/>\n WIS 8<br/>\n INT 16 with Fox Cunning (18-20)<br/>\n CHA 8<br/>\n<br/>\n The strategy is:<br/>\n a. Cast Invisibility<br/>\n b. Set Trap on Escape Route<br/>\n c. Cast True Strike<br/>\n d. Paralyze key player/monster or boss monster with death attack<br/>\n e. In case of failed death attack, run to Escape Route<br/>\n f. Re-casts invisibility<br/>\n g. Rinse and repeat<br/>\n<br/>\n Assassin Death Attack has a high DC and True Strike will make sure you hit...<br/>\n<br/>\n Wizard 1 - Blooded, Improved Initiative<br/>\n Wizard 2 <br/>\n Wizard 3 - Weapon Finesse<br/>\n Wizard 4 - +1 Dex<br/>\n Wizard 5 - Extend Spell<br/>\n Wizard 5 / Ranger 1 - Weapon Focus (Dagger or Short Sword)<br/>\n Wizard 5 / Ranger 1 / Assassin 1<br/>\n Wizard 5 / Ranger 1 / Assassin 2 - +1 Dex<br/>\n Wizard 5 / Ranger 1 / Assassin 3 - Thug<br/>\n Wizard 5 / Ranger 1 / Assassin 4 <br/>\n Wizard 5 / Ranger 1 / Assassin 5 <br/>\n Wizard 5 / Ranger 1 / Assassin 6 - +1 Dex, Toughness<br/>\n Wizard 5 / Ranger 1 / Assassin 7<br/>\n Wizard 5 / Ranger 1 / Assassin 8<br/>\n Wizard 5 / Ranger 1 / Assassin 9 - Improved Crit<br/>\n Wizard 5 / Ranger 1 / Assassin 10 - +1 Dex<br/>\n Wizard 5 / Ranger 2 / Assassin 10<br/>\n Wizard 6 / Ranger 2 / Assassin 10 - Silent Spells<br/>\n Wizard 6 / Ranger 3 / Assassin 10<br/>\n Wizard 6 / Ranger 4 / Assassin 10 - +1 Dex<br/>\n Wizard 6 / Ranger 4 / Assassin 11 - Great Dex I<br/>\n Wizard 6 / Ranger 4 / Assassin 12<br/>\n Wizard 6 / Ranger 4 / Assassin 13<br/>\n Wizard 6 / Ranger 4 / Assassin 14 - +1 Dex, Great Dex II, Epic Weapon Focus<br/>\n Wizard 6 / Ranger 4 / Assassin 15<br/>\n Wizard 6 / Ranger 4 / Assassin 16<br/>\n Wizard 6 / Ranger 4 / Assassin 17 - Great Dex II<br/>\n Wizard 6 / Ranger 4 / Assassin 18 - +1 Dex, Superior Initiative<br/>\n Wizard 6 / Ranger 4 / Assassin 19<br/>\n Wizard 6 / Ranger 4 / Assassin 20 - Great Dex III<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:08 AM - Oct 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does Aielund work in an Arelith scenario? I'm confused...sorry<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "2:47 AM - Oct 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Stagmeister wrote:</strong><hr/>Does Aielund work in an Arelith scenario? I'm confused...sorry</div></blockquote>\n<div align=\"left\">Kinda.\u00a0 You'd need to expand the build to 35-38 levels, though.<br/>\n<br/>\n @JethronXaris:<br/>\n That invisibility method is pretty much a waste of time, though.\u00a0 Buff Ultravision/cast Darkness (a Wiz 5-6 gets an extended version plus the indispellable assassin version).\u00a0 Every hit within the shroud is automatically a sneak/death attack, unless vs. a true seer, then dispel their vision buff first before casting darkness.\u00a0 If vs. a True Seeing skin (like a dragon), sneaks/DAs are impossible as they are vs. any crit immune.\u00a0 But the converse is also true.\u00a0 Any \"seer\" rogue/assassin/BG within the shroud will also get free sneaks/DAs against your assassin, so be forewarned, especially if they are attacking enmasse by range within 30 feet.\u00a0 It can be very painful.<br/>\n<br/>\n You need LOTS and LOTS of DA attempts because not every successful hit triggers a Fort save.\u00a0\u00a0 For that reason, it is best to steer away from high-CON foes else waste those rare save opportunities.<br/>\n<br/>\n Thug/initiative feats are worthless outside of PnP where sneak attacks are not based on a myriad of other more significant factors that are part of the game.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "JethronXaris",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:52 PM - Nov 04, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipRedux wrote:</strong><hr/>\n<blockquote><div><strong>Stagmeister wrote:</strong><hr/>Does Aielund work in an Arelith scenario? I'm confused...sorry</div></blockquote>\n<div align=\"left\">Kinda.\u00a0 You'd need to expand the build to 35-38 levels, though.<br/>\n<br/>\n @JethronXaris:<br/>\n That invisibility method is pretty much a waste of time, though.\u00a0 Buff Ultravision/cast Darkness (a Wiz 5-6 gets an extended version plus the indispellable assassin version).\u00a0 Every hit within the shroud is automatically a sneak/death attack, unless vs. a true seer, then dispel their vision buff first before casting darkness.\u00a0 If vs. a True Seeing skin (like a dragon), sneaks/DAs are impossible as they are vs. any crit immune.\u00a0 But the converse is also true.\u00a0 Any \"seer\" rogue/assassin/BG within the shroud will also get free sneaks/DAs against your assassin, so be forewarned, especially if they are attacking enmasse by range within 30 feet.\u00a0 It can be very painful.<br/>\n<br/>\n You need LOTS and LOTS of DA attempts because not every successful hit triggers a Fort save.\u00a0\u00a0 For that reason, it is best to steer away from high-CON foes else waste those rare save opportunities.<br/>\n<br/>\n Thug/initiative feats are worthless outside of PnP where sneak attacks are not based on a myriad of other more significant factors that are part of the game.</div>\n</div></blockquote>\n<div align=\"left\">If we're more on sneak attacks, rogues are much better than an assassin.. Get Wizard Rogue..\u00a0<br/>\n<br/>\n Assassin is for Death Attacks.. I took the Wizard route to get True Strike (massive attack boost) and Fox Cunning (extra DC on Death attacks).. To be able to paralyze a monster boss not the line and staff monsters.. With Items focused on Intelligence, there's a good chance to paralyze even Ogres and Giants bosses.. At level 16, your Death Attack DC would be 28 (10 + 10 Assassin levels + 3 Int Mod + 2\u00a0Fox Cunning + 3 if you have two +3 ring of clear thought)..</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

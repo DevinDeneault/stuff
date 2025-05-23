@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "637",
+  "name": "Thoughts on a dragon knight build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/thoughts-on-a-dragon-knight-build-t2355425.html",
+  "author": "KingofLullaby",
+  "avatar": "10758933_1548854436.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "KingofLullaby",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:08 AM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All,<br/>\n<br/>\nFairly new to the world of NWN, so I was hoping to get some thoughts/feedback on crafting a pseudo-roleplay inspired build I have been kicking around.<br/>\n<br/>\nNow, I may be trying to have my cake and eat it too, but I figured I would ask the experts before I started paring things back.<br/>\n<br/>\nThe basic gist is that I'm hoping I can achieve an elven, greatsword wielding, spellsword, who can shift into a dragon, and ideally does not crumple like tissue paper in a fight. I don't mind if it's not \"optimal\" I just hope I can find something functional. I have come across several really cool builds that do spellsword really well, or dragon form, but not a ton that combine the two.<br/>\n<br/>\nBuilds such as these have all been inspirational. Not sure if any of them can be tweaked to jive with what I'm hoping to do, or if I need to start from scratch:<br/>\n(<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build218275.html\" rel=\"noreferrer\" target=\"_blank\">Nature's Spellsword</a>)<br/>\n(<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-world-ender-druid-32-fighter-2-monk-6-t2355416.html\" rel=\"noreferrer\" target=\"_blank\">The World Ender</a>)<br/>\n(<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-1-69-t2355108.html\" rel=\"noreferrer\" target=\"_blank\">Order of Jurmungandr</a>) <br/>\n(<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/champion-of-the-wilderness-druid-28-cot-10-monk-2-t515398.html\" rel=\"noreferrer\" target=\"_blank\">Champion of the Wilds</a>)<br/>\n<br/>\nI welcome any thoughts or feedback you all might have!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:22 AM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Greetings and hello KingofLullaby!<br/>\n<br/>\nThe simple, and easy 'cop-out' answer to your question, is simply to say the Shapechange-&gt;Red Dragon level 9 spell could do the task. It is accessible to wizards, sorcerers, druids and any character with UMD.<br/>\n<br/>\nBut I believe you are looking for a build with a 'proper dragon' that is a Dragon Shape feat. Such a build is <strong>highly ambitious</strong>\u00a0with both the Wisdom 30 requirement as well as Melee AB being determined by the Strength or Dexterity statistic.<br/>\n<br/>\nFunnily enough I have attempted to build it with the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17756#p17756\" rel=\"noreferrer\" target=\"_blank\">Druid Dragon Kensai</a> build draft. It is a level 19 druid scimitar wielding character with Base 37 AB and Dragon Shape at level 39. It uses Weapon Master 19 to Boost AB up to a useful amount.\u00a0\u00a0<br/>\n<br/>\nYou could make such a build an Elf and take Martial Weapon Proficiency to access Greatsword, you might lose 1-2 BAB, blind fight and improved critical however to obtain it, it may not be as attractive as this human scimitar wielding version.<br/>\n<br/>\nIt is not a power-build by any stretch of the imagination, but it is the closest thing I can think of to your build request. I have not yet had a chance to playtest this build yet so this is purely in concept form.<br/>\n<br/>\nYou could try adjusting the other builds, but the melee AB will be atrocious ie World Ender has 26 base AB, getting base AB as close to 38 as possible would be what I would recommend for any build to be enjoyable to play.\u00a0<br/>\n<br/>\nHope that helps<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:08 AM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The biggest problem with your dragon knight concept is that the unshifted melee AB will be terrible for most builds due to the 30 WIS requirement. Assuming that this is built for a +5 EB environment, I would expect a melee build to have an absolute minimum self-buffed AB of +50 with +12 STR and a +5 EB weapon. In terms of base AB, this means +39 AB for builds without any AB-increasing buffs.<br/>\n<br/>\nDru18/Cler21/Monk1 is probably the best potential build but it has a few problems, the biggest one being dispellability. Both shifted and unshifted AB are great, but once your buffs are gone (either due to duration or dispel) it's pretty mediocre.<br/>\n<br/>\nA fully minmaxed Rang21/Dru18/Monk1 has poor (but acceptable) AB when unshifted and decent AB when shifted. Playability is the biggest issue for this build, it is designed for level 40 and reworking it will make it less effective. Choosing the right FE will be a problem, and dispellability will be a problem too.<br/>\n<br/>\nA fully minmaxed Dru28/Bard2/RDD10 barely reaches the minimum AB I consider acceptable when unshifted but it lacks any Monk abilities when shifted. The shifted AB is fairly mediocre, but the build is stuck with 3 APR (4 APR with Haste) both shifted and unshifted.<br/>\n<br/>\nA fully minmaxed Dru28/Cler10/Monk2 doesn't reach my minimum acceptable AB when unshifted and a playable version would have even less AB. The shifted AB is fairly mediocre in a low/medium magic environment, the main issue is the unshifted AB.<br/>\n<br/>\nAll of these builds have issues, however if you don't mind having low AB when unshifted then they would all work.<br/>\nPersonally I would recommend making a Dru18/Cler21/Monk1, Dru24/CoT10/Monk6, or Dru28/CoT10/Monk2.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:22 AM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is an ancient Dragon build that can work in the right environment - Puff the Mighty Dragon, v3.0<br/>\n<br/>\nI have a character based on this on WoG.<br/>\n<br/>\nIt is a Druid/Wiz/Monk - it gets Dragon Shape and it has the Epic Spell Epic Warding.\u00a0 This allows it to penetrate Epic Warding itself when active.<br/>\n<br/>\nIn any Environment that has the PnP form of Tensor's Transformation, it can be a real engine of destruction.\u00a0 <br/>\n<br/>\nIt does suffer from easy dispelling.\u00a0 Luckily, it has an enormous amount of spells - from both the Druid side and the Wizard side.<br/>\n<br/>\nIt works, and is perhaps what you are looking for.\u00a0 It matures really, really late, however, and is a horror to level.\u00a0 With TT in sequencers, it can basically remain TTed all the time in combat.<br/>\n<br/>\nI would not recommend this build to unexperienced players.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KingofLullaby",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:13 PM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Appreciate the feedback everyone! Seems like it might be trying to pull too many directions at once. I'll probably shelve it for the time being, I may end up doing the cop out route with shapehange, or try and take a stab at it from a direction doing a shifter build with focus on the humanoid shape, I'll see. <br/>\n<br/>\nRegardless, thank you for the thoughts and feedback!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "7:03 PM - Apr 03, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you\u2019re sold on elf there is one more way to approach it. Go Druid/Monk/Shifter and focus on drow warrior form. And then Dragon Shape around level 30. <br/>\n<br/>\nYour day-to-day stuff you\u2019re in drow warrior form, but when crap gets real you go Malificent on their asses. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "294",
+  "name": "Rogue17/CoT16/WM7 - Parry & Crit",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue17-cot16-wm7-parry-crit-t2354284.html",
+  "author": "NwnwhiteBoy",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:28 PM - Aug 05, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><table class=\"post_content_table\"><tbody><tr><td>\n Here is a build I whipped up. I was going for damage throguh crits and blocking with parry ending in the odd damging hits including KD and Call shots for weakening. Skills were going to make this a decent trapper and lock pick skills not optimised will hhave to look at Hips Trap and lock guide.<br/>\n<br/>\n How does it compare?<br/>\n<br/>\n TIA! :)<br/>\n \u00a0<br/>\n Rogue(17), Champion of Torm(16), Weapon Master(7), Human</td></tr><tr><td>\u00a0</td></tr><tr><td>STR: 17 (24)</td></tr><tr><td>DEX: 13 (16)</td></tr><tr><td>CON: 12</td></tr><tr><td>WIS: 10</td></tr><tr><td>INT: 14</td></tr><tr><td>CHA: 8</td></tr><tr><td>\u00a0</td></tr><tr><td>Human: (Quick to Master)</td></tr><tr><td>01: Rogue(1): dodge, mobility</td></tr><tr><td>02: Rogue(2): {Evasion}</td></tr><tr><td>03: Rogue(3): Expertise, {Uncanny Dodge I}</td></tr><tr><td>04: Rogue(4): STR+1, (STR=18)</td></tr><tr><td>05: Rogue(5)</td></tr><tr><td>06: Rogue(6): Weapon Focus: Rapier</td></tr><tr><td>07: Rogue(7)</td></tr><tr><td>08: Rogue(8): STR+1, (STR=19)</td></tr><tr><td>09: Rogue(9): Spring Attack</td></tr><tr><td>10: Rogue(10): Crippling Strike</td></tr><tr><td>11: Champion of Torm(1)</td></tr><tr><td>12: Champion of Torm(2): STR+1, Whirlwind Attack, Knockdown, (STR=20)</td></tr><tr><td>13: Champion of Torm(3): {Smite Evil}</td></tr><tr><td>14: Champion of Torm(4): Called Shot</td></tr><tr><td>15: Champion of Torm(5): Improved Critical: Rapier</td></tr><tr><td>16: Champion of Torm(6): DEX+1, Improved Parry, (DEX=14)</td></tr><tr><td>17: Rogue(11)</td></tr><tr><td>18: Weapon Master(1): Skill Focus: Parry, Weapon of Choice: Rapier</td></tr><tr><td>19: Weapon Master(2)</td></tr><tr><td>20: Rogue(12): DEX+1, (DEX=15)</td></tr><tr><td>21: Weapon Master(3): Improved Knockdown</td></tr><tr><td>22: Weapon Master(4)</td></tr><tr><td>23: Weapon Master(5)</td></tr><tr><td>24: Weapon Master(6): DEX+1, Epic Skill Focus: Parry, (DEX=16)</td></tr><tr><td>25: Weapon Master(7)</td></tr><tr><td>26: Champion of Torm(7)</td></tr><tr><td>27: Champion of Torm(8): Epic Prowess, Epic Weapon Focus: Rapier</td></tr><tr><td>28: Champion of Torm(9): STR+1, (STR=21)</td></tr><tr><td>29: Champion of Torm(10): Blind Fight</td></tr><tr><td>30: Champion of Torm(11): Power Attack</td></tr><tr><td>31: Champion of Torm(12)</td></tr><tr><td>32: Champion of Torm(13): STR+1, (STR=22)</td></tr><tr><td>33: Champion of Torm(14): Great Cleave, Cleave</td></tr><tr><td>34: Champion of Torm(15)</td></tr><tr><td>35: Rogue(13): Opportunist</td></tr><tr><td>36: Champion of Torm(16): STR+1, Overwhelming Critical: Rapier, (STR=23)</td></tr><tr><td>37: Rogue(14)</td></tr><tr><td>38: Rogue(15)</td></tr><tr><td>39: Rogue(16): Improved Sneak Attack I, Improved Evasion</td></tr><tr><td>40: Rogue(17): STR+1, (STR=24)</td></tr><tr><td>\u00a0</td></tr><tr><td>Hitpoints: 372</td></tr><tr><td>Skillpoints: 335</td></tr><tr><td>Saving Throws (Fortitude/Will/Reflex): 28/24/37</td></tr><tr><td>Saving Throw bonuses: Traps: +4</td></tr><tr><td>BAB: 27</td></tr><tr><td>AB (max, naked): 39 (melee), 31 (ranged)</td></tr><tr><td>AC (naked/mundane armor/shield only): 18/25</td></tr><tr><td>Spell Casting:\u00a0</td></tr><tr><td>Alignment Changes: 0</td></tr><tr><td>\u00a0</td></tr><tr><td>Disable Trap 3(7), Discipline 27(34), Heal 30(30), Intimidate 4(3), Listen 40(40), Open Lock 31(34), Parry 43(63), Search 30(32), Set Trap 20(23), Spot 40(40), Tumble 28(31), UMD 32(31), remaining skillpoints 7</td></tr></tbody></table><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:02 PM - Aug 05, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Neat idea Nwnwhite Boy but parry is broken in Neverwinder Nights, unfortunately.<br/>\n<br/>\n Since i am here though, let me point a couple of things,<br/>\n<br/>\n 1) DEX needs to remain at 13/14, no more is needed, yu don't want to split your stats like that and loose AB/Damage.<br/>\n 2) Your Class split is non-optimal, try Rogue 19/ WM 7/ CoT 14<br/>\n 3) Get rid of great cleave/ underwhelming critical unless you go for Devastating Critical.<br/>\n 4) Take a good look at your skills and set them at optimum ranks, for example your UMD score must be a modified 35.<br/>\n<br/>\n Hope i helped,<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:54 PM - Aug 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How's parry broken? seems like a ver important part of the game :( \u00a0If i swich the dex into Str then I can get Dev-crit after moving a rogue down on leveling list in epics. What would the benefits from being more Rogue be - more dmage from Sneak Attacks; Bouns feats?<br/>\n \u00a0For the Armor was thinking taking a 2 on my rolls for parry while waring breast plate of chainshirt - was bit of a toss up. Couldn't test it because of NwN having GL error 7. :P<br/>\n<br/>\n Thanks :)<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:14 PM - Aug 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sadly it seems that parry was reduced in effectiveness from it's original pre-game release and it's nearly useless. Here are the relevant passages from NwN Wiki,<br/>\n<br/>\n 1) Parry is a <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Combat_mode\" rel=\"noreferrer\" target=\"_blank\">combat mode</a>, so cannot be used at the same time as other combat modes<br/>\n 2) Parry only applies to using a melee weapon against melee attacks. It is useless against ranged attacks.<br/>\n 3) <strong>Parry can only deflect the first attack in each of the three</strong> <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Flurry\" rel=\"noreferrer\" target=\"_blank\">flurries</a> in a round</strong> (for example, parrying an opponent with 5 attacks per round will only attempt to block the first, third, and fifth attacks).<br/>\n 4) Automatic hits (natural 20 attack rolls) cannot be parried<br/>\n 5) Riposte attacks are made with the character's normal (descending) attack bonus, not at full bonus each time<br/>\n<br/>\n Sadly, it is not viable... Good try though!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "JimDandy",
+      "avatar": "10235455_1510287071.png",
+      "timestamp": "4:33 PM - Aug 07, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No comment on the build other than it's important to be happy with it and to always build specifically for the server you'll play on (unless it's single player mods, I suppose).<br/>\n<br/>\n I've always wondered if there were any videos or demos of NWN where parry was \"working\"; I'm just curious what it once <strong>was</strong> compared to what it ended up as.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:07 AM - Aug 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was looking forward to that working I would thought it \u00a0worked for each of the attacks you had in your own phase. \u00a0Missed the bracketed bit on the notes assumned from the one under that is was if you had 3 attacks per round and they had 5; \u00a0but neigh.<br/>\n Thank you very for clarification and time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:37 AM - Aug 12, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lot's and lot's of things are broken or irrelevant iin NwN and never corrected even after so many patches, even worse those things are often hardcoded. Parry is one of them sadly but not the last. I suspect the original version of it, was tested briefly and found broken because Parry as a skill is way easier to rise versus an attacker's attack bonus and so they left it at this stage that only works for maybe the first ten levels of the game. A pity...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

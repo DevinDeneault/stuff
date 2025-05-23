@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "381",
+  "name": "Mage Killer - Preepic (level 20)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/mage-killer-preepic-level-20-t2343959.html",
+  "author": "Kagura66",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Kagura66",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:55 PM - Oct 15, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi you guys, and welcome all! =) First post!<br/>\n<br/>\nI'm looking for a PvP anti magers build, most likely a monk but anything else is cool too.<br/>\n<br/>\nHis main focus, like I said, is to eat up mages and terrorize them.<br/>\n<br/>\nI'm not that great with builds, so I thought I could join your lovely community and ask for your help.<br/>\n<br/>\nDo consider this build is for a server with a low magic/no perm items world, something along the lines of Ravenloft, where there are no low level items and hardcore rules.<br/>\n<br/>\nThanks in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:09 AM - Oct 16, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Welcome aboard!<br/>\n<br/>\nNow to your request...<br/>\n<br/>\nIt's not what you've supplied that concerns me (low magic, no permahaste), although the phrase \"no low level items\" isn't clear to me.  Do you mean there are no magical enhancements available on items until you reach a certain level?  So clarify that first.<br/>\n<br/>\nLike I said, it's not what you've already described, but what you haven't described.  For example, are dump classes allowed and are there any leveling constraints?  Have any classes been nerfed in any way (like casters not able to use Expertise mode while casting)? Have any spells or feats been modified and if so describe in detail the changes (don't try to link us to a server site for info because we won't read it) here or in the <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/persistent-worlds-f60569.html\" rel=\"noreferrer\" target=\"_blank\">subforum dedicated to PWs</a>.<br/>\n<br/>\nUnderstand that we all build per vanilla v1.69 guidelines here unless otherwise instructed... so if there are any peculiarities or accommodations that the server has set, it must be explained clearly before exploring any build concept.<br/>\n<br/>\nMonks are not the mage killers pre-epic that they can be in epic due to their excellent saves being accumulated with each additional level and access to ImpSR feats.  Makes a huge difference!<br/>\n<br/>\nMy first inclination would be a battle cleric... a class that will be able to hit at high AB, have IKD available and be able to dispel acid sheaths which any capable mage will have up at all times along with the other two shields.  A plain monk 20 won't be able to deal with it other than waiting for it to expire (even in prone position for a round the sheath will do damage).  So dispelling is important.  <br/>\n<br/>\nThe cleric Spell Resistance spell reaches an SR around 25 to 30 (ref: Clc 15-20).  A monk 20 will reach SR 30.  Whether those values will help much against a Wiz 20 or Sorc 20 with Greater Spell Pen. will need to be worked out. It would be best to build a stealthy toon but atm I haven't estimated skill point allocation and what is possible.  Stealth costs lots of skill points and would only be available at the final dump level in many builds.  Also, depending on domain selection, stealth can be more/less effective for a cleric-focused build.<br/>\n<br/>\nI am considering something like a dwarven Cleric 15/Ftr 4/Monk 1 with a Str10/Dex15(18)/Con14/Wis16(18)/Int14/Cha6 ability spread.  It would be using Divine Power to get an additional attack at full AB along with Emp Bull, AoV &amp; Battle Master to reach Str of around 22 plus the standard cleric pre-buffs to polish AB.  This build can either use something like a scimi for more crits or a kama or unarmed to take advantage of the monk progression.  Stunning fist is another consideration but would need a variant design to accommodate that.  I expect the AC will be over 35 with or without robes.<br/>\n<br/>\nAnyway, before I expend any more neurons designing this, please expand on the issues I've raised in this reply. Tx.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:06 PM - Oct 22, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd make another mage, probably a wizard. Then it's all down to spell tactics.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:55 PM - Oct 22, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I guess a high-Wisdom Cleric could work with Implosion as long as he casts is before the wizard can stop time. <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

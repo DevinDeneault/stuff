@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "077",
+  "name": "Optimizing Builds for EE",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/optimizing-builds-for-ee-t2355787.html",
+  "author": "Fist",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:37 PM - Sep 16, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've gone back through some of my favorite builds here and on the WOG search engine.\u00a0 As I've tried to replay them, I've noticed several are no longer viable due to the differences between EE and earlier editions.\u00a0\u00a0<br/>\n<br/>\nThe two most frequent issues I see are:<br/>\n<br/>\n1) The minimum ability level if switching to a caster as a 2nd or 3rd class - e.g. if you're building a Fighter/Ranger, you cannot use Ranger as the 2nd class unless it has a minimum WIS of 11, and<br/>\n<br/>\n2) XP penalty (for humans) if highest class is Prestige and the other two base classes are not within a level of each other - e.g. FTR 7/PAL 5/WM 28 suffers XP penalty at WM 7 going forward.<br/>\n<br/>\nIs there any interest in going back and updating some of the old Epic Builds and retooling them for EE?\u00a0 \u00a0I'm going to try some, but as others have pointed out, I'm a crappy builder\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:48 PM - Sep 16, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I really have not noticed the minimum requirements at all (with Bard, for example - it just says I can't take any spells as the second class - I have a Fighter/Bard/AA for example that I am levelling).<br/>\n<br/>\nHowever, I have heard that on at least the Nintendo Switch that it is this way (I believe Paladin was mentioned).<br/>\n<br/>\nI also have not noticed the XP penalty for any of my builds, either.\u00a0 Prestige Classes should not ever give an XP penalty according to the rules of NWN.\u00a0 That is very odd.\u00a0 In my build above, my elf does get an XP penalty, of course.\u00a0 But for my human builds with two normal Classes and a Prestige Class, I do not notice an XP penalty.<br/>\n<br/>\nWhat plattform are you playing NWNEE on?<br/>\n<br/>\nEdit : Just tested on PC with A Pretty Good Character Tester Mod - everything is WAD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:59 PM - Sep 16, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">TBH, AFAIK the only thing that has changed with EE :<br/>\n<ol>\n<li>Caster Levels for Dispellability (not counting Mord's) has been increased by 1 level to 25 (used to be 24)</li>\n<li>Assassin Death Attack Para has been reduced to the very first attack instead of the first Flurry.</li>\n<li>Monk Stunning Palm is now 1 round (instead of 1d4 or so).</li>\n<li>Cleric Divine Power attacks have been somewhat nerfed. </li>\n<li>Shifter Rakasha Ice Storm can no longer be meta-magiced.</li>\n</ol><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:59 PM - Sep 16, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just to add one more to Web's list:<br/>\n<br/>\n6. Uncanny Dodge II now makes one immune to flanking attacks (ie, sneaks), much as DwD 5 does (the dwarf-hating rat-bastards - *<em>does not necessarily reflect the view of the management.</em>*)<br/>\n<br/>\nCheers (and good to see you again Theo!)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:14 AM - Sep 17, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Multiclass_penalty\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Multiclass_penalty</a><br/>\n\"Prestige classes and multiclass XP<br/>\nPrestige classes\u00a0are exempt from the multiclass XP rule and do not contribute to the multiclass penalty. For example, a character with one base class and any number of prestige classes (such as a 10th-level rogue/3rd-level shadowdancer/7th-level assassin) will not suffer any XP penalties no matter what race the character is. Similarly, a character with levels in a favored base class and at most one other base class (and possibly levels in a prestige class) will not suffer any XP penalties. However, a character with two non-favored base classes could suffer a -20% penalty; this character will not, though, suffer a -40% penalty, even if the character has levels in a prestige class. A -40% penalty can only occur when a character has three base classes (and only when those classes are not nearly the same level).<br/>\nIn version 1.69, a human or half-elf with a prestige class would never suffer a multiclass penalty, as one of the base classes would always be favored. This is no longer the case in the Enhanced Edition. For example, a human 6th-level fighter/4th-level paladin/7th-level champion of Torm will have two non-favored base classes and one favored prestige class. The non-favored base class levels differ by more than one, so there is a -20% XP penalty.\"<br/>\n<br/>\nI actually am the one who first put it on the Wiki.\u00a0 I was building a PAL9/SOR1/RDD30 for kicks and noticed as I was playing HOTU that he got an XP Penalty at RDD10.<br/>\n<br/>\n<em class=\"mention\">@webshaman1</em>\u00a0- It's the oddest thing!\u00a0 On my Windows PC running EE on Steam, leveling a Paladin or Ranger with &lt;11 WIS is not a problem.\u00a0 However, on my iPad version of EE (from the Apple Store), I can't do it.\u00a0<br/>\n<br/>\nEDIT - apparently, it's been fixed.\u00a0 Never mind on that part.<br/>\n<br/>\nWRT some builds I loved (Hammer Knight Empyreal, etc.) that were heavy on Prestige Classes, maybe the universe of people who care is too small to worry about.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:24 AM - Sep 17, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Both must be bugs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:43 PM - Sep 17, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm still not getting the XP penalty being mentioned.<br/>\n<br/>\nOf course, I only play Online (PW play) - is this perhaps a SP thing?<br/>\n<br/>\nCan someone test this, please?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:48 PM - Sep 17, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I ain't gonna be much help, I'm afraid, as I'm still working on 1.69 atm. Am contemplating EE, but every time I think I'm ready to take the plunge BD seem to balls something else up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mathaenya",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:59 PM - Sep 20, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>It's the oddest thing! \u00a0On my Windows PC running EE on Steam, leveling a Paladin or Ranger with &lt;11 WIS is not a problem. \u00a0However, on my iPad version of EE (from the Apple Store), I can't do it. <br/>\n<br/>\nEDIT - apparently, it's been fixed. \u00a0Never mind on that part.</div></blockquote>\n\nI have Nwn EE on Switch and there is the same bug: you can only multiclass into a spellcasting class if you have 11 in the casting ability (INT, WIS or CHA). God knows why this was coded!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:58 PM - Sep 20, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Apologies, I should have moved this over to the General Discussion forum earlier. Sorry, Theo.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

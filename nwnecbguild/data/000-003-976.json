@@ -1,0 +1,272 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "976",
+  "name": "Druid Shifter request by dmcgrynch",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-shifter-request-by-dmcgrynch-t2354812.html",
+  "author": "Grimnir",
+  "avatar": "10235237_1517392314.jpg",
+  "replies": 42,
+  "posts": [
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:22 PM - Jan 26, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I started a new thread here:<br/>\nHere is the first lil' draft. Quite a bugger to lvl, and gets the Rak Shape laaate.<br/>\nIt's got good SR on the end, and unlimited 25 lv\u00a0 empowered Ice -storm spams. This build is close to what -whizard once made.<br/>\nIt is immune to mind affect via monk 20 (completely undispellable.) which makes it mostly immune to Evards\u00a0 (and 15/+3 takes care of the damage) and lots of other stuff. Rak shape is immune to all lvl8 and below spells. Raks Dispel can dispel the Bigby IX (DC=12!!!)<br/>\n<br/>\nNot sure you'll need all the SR, or discipline even, all depending. If one of the items you merge has immune to death, you are safe vs the blessed bolts. That is imperative!<br/>\n<br/>\nI'll put up a few more, one w/more Druid and one other Monk without SR feats.<br/>\n<br/>\n<br/>\nOutside the Natural - Druid(5), Shifter(10), Monk(25)<br/>\nHuman, Lawful Neutral<br/>\nPvM/PvP, Level 40 Theme Build (Highest SR epic shape)<br/>\n<br/>\nSTR: 10<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 18 (28)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHitpoints: 440 Max (336 Average) (Shifts can increase the constitution and add temporary hit points)<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/33/20<br/>\nRakshasa: 28/35/28<br/>\n<br/>\nSaving Throw bonuses: +6 vs spells (spellcraft), immunity to mind spells, (+3 vs spells Rakshasa).<br/>\nBAB: 25/22/19/16/13<br/>\nRakshasa (33/28/23)<br/>\nRanged AB: 34<br/>\nAC (naked): 31, Rak: 49<br/>\n+3 to AC from barkskin<br/>\n1d4 +1 to strength with bulls strength<br/>\nSR: 49<br/>\nInfinite IceStorm: 10d6 cold, 3d6 bludgeoning, SR penetration: 29 + 1d20.<br/>\nSpeed increase: 80%<br/>\n<br/>\nSKILLS<br/>\nAnimal Empathy 43 (42)<br/>\nHeal 19(28)<br/>\nLore 43(45)<br/>\nDiscipline 43<br/>\nHide 43(42)<br/>\nMove Silently 43(42)<br/>\nSpellcraft 28(30) + 15 Rak Shape<br/>\nTumble 40(39)<br/>\n<br/>\nLEVELING GUIDE<br/>\n01: Monk(1): Expertise, Improved Expertise<br/>\n02: Monk(2):<br/>\n03: Druid(1): Spell Penetration<br/>\n04: Monk(3): Wisdom + 1 (19)<br/>\n05: Monk(4):<br/>\n06: Monk(5): Zen Archery<br/>\n07: Monk(6):<br/>\n08: Monk(7): Wisdom + 1 (20)<br/>\n09: Druid(2): Greater Spell Penetration<br/>\n10: Monk(8):<br/>\n11: Monk(9):<br/>\n12: Druid(3): Empower Spell, Wisdom +1 (21)<br/>\n13: Monk(10):<br/>\n14: Monk(11):<br/>\n15: Druid(4): Brew Potion<br/>\n16: Monk(12): Wisdom +1 (22)<br/>\n17: Monk(13):<br/>\n18: Monk(14): Alertness<br/>\n19: Monk(15):<br/>\n20: Monk(16): Wisdom +1 (23)<br/>\n21 Monk(17): Improved Spell Resistance I<br/>\n22 Monk(18):<br/>\n23 Monk(19):<br/>\n24 Monk(20): ISR II, Wisdom +1 (24)<br/>\n25 Druid(5):<br/>\n26 Shifter(1):<br/>\n27 Monk(21): ISR III<br/>\n28 Shifter(2): Wisdom + 1 (25)<br/>\n29 Shifter (3):<br/>\n30 Monk(22): ISR IV<br/>\n31 Shifter(4):<br/>\n32 Shifter(5): Wisdom +1 (26)<br/>\n33 Monk(23): ISR V<br/>\n34 Shifter(6):<br/>\n35 Shifter(7):<br/>\n36 Monk(24): ISR VI, Wisdom +1 (27)<br/>\n37 Shifter(8):<br/>\n38 Shifter(9):<br/>\n39 Shifter(10): Outsider Shape<br/>\n40 Monk(25): ISR VII, Wisdom +1 (28)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:56 PM - Jan 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There's lot of weird stuff going on with shifters.<br/>\nWhat I tell you here goes for the Rakshasa, others might have differing mechanics.<br/>\n<br/>\nCaster lvl for his Dispel Magic, Ice Storm and acid-breath is based on what clas you take on lvl 1. So always pick the class you'll get most levels of at lvl 1. This first build has 25 caster levles form monk, the second has 28 from Druid.<br/>\n<br/>\nItem merger:<br/>\nRakshasa gets the abilities from Armor, items, weapons.\u00a0<br/>\nIf you have AC bonus from differing sources, they all become Deflection. So armour +5 and shield +5 would not stack when shifted.<br/>\n<br/>\nAll abilities do work tho, if one gives you regen, one Dodge AC, one immunity to Death, Freedom of movement and immunity to mind affecting they would all go to your shifted form.<br/>\n<br/>\nThe Rakshasa has STR:17 and DEX:20. Spells and items can boost it. It uses your own CON.\u00a0<br/>\n<br/>\nDragonshape overlaps all 3 physical. Monk bonus to AC and WIS AC works when shifted.<br/>\n<br/>\nMaximise and other Metamagic works on your innate spells. So the Rakshasa ICestorm can be Cast Quickened (w/autoqucken only) AND Maximised. That means one Maximised Icestorm every 3rd second. If you have permahaste, Autoquicken does nothing.<br/>\n<br/>\nOH, Rakshasa and Dragonshape has True Seeing, always! That is good!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:00 PM - Jan 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's the build. Should be easier to level. I'll post some info about it later.<br/>\n<br/>\nDruid(28), Shifter(10), Monk(2), Human<br/>\n<br/>\nSTR: 10<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 18 (30)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Expertise, Improved Expertise<br/>\n02: Druid(2)<br/>\n03: Druid(3): Extend Spell<br/>\n04: Druid(4): WIS+1, (WIS=19)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Maximize Spell<br/>\n07: Druid(7)<br/>\n08: Druid(8): WIS+1, (WIS=20)<br/>\n09: Druid(9): Quicken Spell<br/>\n10: Druid(10)<br/>\n11: Druid(11)<br/>\n12: Druid(12): WIS+1, Alertness, (WIS=21)<br/>\n13: Shifter(1)<br/>\n14: Shifter(2)<br/>\n15: Shifter(3): Spell Penetration<br/>\n16: Shifter(4): WIS+1, (WIS=22)<br/>\n17: Shifter(5)<br/>\n18: Shifter(6): Greater Spell Penetration<br/>\n19: Shifter(7)<br/>\n20: Shifter(8): WIS+1, (WIS=23)<br/>\n21: Druid(13): Great Wisdom I, (WIS=24)<br/>\n22: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n23: Shifter(9)<br/>\n24: Shifter(10): WIS+1, Outsider Shape, (WIS=25)<br/>\n25: Druid(14)<br/>\n26: Druid(15)<br/>\n27: Druid(16): Epic Skill Focus: Discipline<br/>\n28: Druid(17): WIS+1, (WIS=26)<br/>\n29: Druid(18)<br/>\n30: Druid(19): Automatic Quicken Spell I<br/>\n31: Druid(20)<br/>\n32: Druid(21): WIS+1, (WIS=27)<br/>\n33: Druid(22): Automatic Quicken Spell II<br/>\n34: Druid(23)<br/>\n35: Druid(24): Automatic Quicken Spell III<br/>\n36: Druid(25): WIS+1, Armor Skin, (WIS=28)<br/>\n37: Druid(26)<br/>\n38: Druid(27)<br/>\n39: Monk(2): Great Wisdom II, {Deflect Arrows}, (WIS=29)<br/>\n40: Druid(28): WIS+1, Dragon Shape, (WIS=30)<br/>\n<br/>\nHitpoints: 400<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/30/19<br/>\nSaving Throw bonuses: Spells: +8, Fear: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 25 (melee), 24 (ranged)<br/>\nAC (naked/mundane armor/shield only): 29/29<br/>\nSpell Casting: Druid(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 43(45), Discipline 42(52), Hide 42(41), Listen 42(54), Move Silently 42(41), Spellcraft 38(40), Tumble 40(39), remaining skillpoints 12<br/>\n<br/>\n<br/>\n01: Concentration(4), Spellcraft(4), Save(20),\u00a0<br/>\n02: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n03: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n04: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n05: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n06: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n07: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n08: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n09: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n10: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n11: Concentration(1), Spellcraft(1), Save(70),\u00a0<br/>\n12: Concentration(1), Spellcraft(1), Save(75),\u00a0<br/>\n13: Concentration(1), Save(81),\u00a0<br/>\n14: Concentration(1), Save(87),\u00a0<br/>\n15: Concentration(1), Save(93),\u00a0<br/>\n16: Concentration(1), Save(99),\u00a0<br/>\n17: Concentration(1), Save(105),\u00a0<br/>\n18: Concentration(1), Save(111),\u00a0<br/>\n19: Concentration(1), Save(117),\u00a0<br/>\n20: Concentration(1), Save(123),\u00a0<br/>\n21: Concentration(1), Spellcraft(9), Save(120),\u00a0<br/>\n22: Concentration(1), Discipline(25), Hide(25), Listen(25), Move Silently(25), Tumble(25), Save(1),\u00a0<br/>\n23: Concentration(1), Save(7),\u00a0<br/>\n24: Concentration(1), Save(13),\u00a0<br/>\n25: Concentration(1), Spellcraft(4), Save(15),\u00a0<br/>\n26: Concentration(1), Spellcraft(1), Save(20),\u00a0<br/>\n27: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n28: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n29: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n30: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n31: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n32: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n33: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n34: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n35: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n36: Concentration(1), Save(71),\u00a0<br/>\n37: Concentration(1), Save(77),\u00a0<br/>\n38: Concentration(1), Save(83),\u00a0<br/>\n39: Concentration(1), Discipline(17), Hide(17), Listen(17), Move Silently(17), Tumble(15), Save(6),\u00a0<br/>\n40: Concentration(1), Save(12),\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:35 PM - Jan 28, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\nCaster lvl for his Dispel Magic, Ice Storm and acid-breath is based on what clas you take on lvl 1. So always pick the class you'll get most levels of at lvl 1. This first build has 25 caster levles form monk, the second has 28 from Druid.\n</div></blockquote>\nImportant point! <br/>\nBe careful what class to pick at level 1: Plan ahead and take your majority class at lvl 1!<br/>\n<br/>\n<blockquote><div><cite>Grimnir wrote:</cite>\nItem merger:<br/>\nRakshasa gets the abilities from Armor, items, weapons.\u00a0<br/>\nIf you have AC bonus from differing sources, they all become Deflection. So armour +5 and shield +5 would not stack when shifted.<br/>\n<br/>\nAll abilities do work tho, if one gives you regen, one Dodge AC, one immunity to Death, Freedom of movement and immunity to mind affecting they would all go to your shifted form.<br/>\n<br/>\nThe Rakshasa has STR:17 and DEX:20. Spells and items can boost it. It uses your own CON.\u00a0<br/>\n<br/>\nDragonshape overlaps all 3 physical. Monk bonus to AC and WIS AC works when shifted.<br/>\n<br/>\nMaximise and other Metamagic works on your innate spells. So the Rakshasa ICestorm can be Cast Quickened (w/autoqucken only) AND Maximised. That means one Maximised Icestorm every 3rd second. If you have permahaste, Autoquicken does nothing.<br/>\n<br/>\nOH, Rakshasa and Dragonshape has True Seeing, always! That is good!\n</div></blockquote>\nVery handy info on the Rakshasa. I don't play shifters a lot, so this serves as a fine reminder.<br/>\n<br/>\nI have one question though. I can understand that when you take auto-quicken, it applies to all casting. But when you want to empower or maximize, will you not need to have the meta magical version of the spell remembered in your spell-book and then quick slot it from there? And if that is the case, how can that monk build with only 5 druid levels empower Ice storm?<br/>\n<br/>\nEdit: oh, and by the way Grimnir - I love that signature! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "4:21 PM - Jan 28, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wiz/Sorc has Ice Storm at level 4 so Autoquicken 2 is enough with that as primary class.<br/>\n<br/>\nIt's been a long time, Mick, good to see you. You raise a valid point and I think you're right. You can't cast empowered Ice Storms in the monk build, just regular ones.  <br/>\nI will just have test it again. It's been a long time. Thanks.<br/>\n<br/>\nSent fra min SM-G920F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "12:31 AM - Feb 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just tested it. You can't empower in the first build. Change the feat for something <br/>\nelse. I see Toughness at least. <br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:59 AM - Feb 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Rakshasa shape in the Druid build will have a 47 AC right off the build. 12 of which are dodge.<br/>\n<br/>\nWith your spells and item merger the AC will become quite high. Let's say a +5 environ with possibility to max DEX and WIS. You can max WIS by yourelf btw.<br/>\n<br/>\n47+10 ImpExp + 6DEX + 6 WIS + 5 Dodge(you will then be 3 from cap) + 5 deflection + 5 nat AC (barkskin) = 84. Not foolproof, but very good.<br/>\n<br/>\nMaximised Ice Storm will do 66 Ice + 18 Blunt damage for a total of 84 dmg every third sec. That's no-save dmg right there.<br/>\n<br/>\nRakshasa also has DR 15/+5, but you will need Death immunity (for blessed bolts) and in the Druid build, and item with mind immunity would go a long way!<br/>\n<br/>\nYou wanna go mob cleaner or melee rampage you go Dragonmode.<br/>\nDR 40/+6, high AC, possible 60 STR Dragon with a nice Area Breath and +6 claws. IKD machine. You can do that too, when not in mage-fighting mode. If you haven't tried Dragon, just do it!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "10:46 PM - Feb 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do you mean the first built with 25 monk levels cannot have empowered ice storm? <br/>\nIs that not a good built compared to the other two built with 2 monk level?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "10:54 PM - Feb 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Do you mean the first built with 25 monk levels cannot have empowered ice storm? <br/>\nIs that not a good built compared to the other two built with 2 monk level?</div></blockquote>It has other strengths. Like 49 SR, Mind immunity, and other Monk goodies. Ice Storm still does 10d6 cold +3d6 Bludgeoning. Little better AC and faster movement.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:02 AM - Feb 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a quick question.<br/>\n<br/>\nHaving never played a Shifter before, I was wondering why you maxed Hide and MS ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:04 AM - Feb 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kalistez wrote:</cite>\nJust a quick question.<br/>\n<br/>\nHaving never played a Shifter before, I was wondering why you maxed Hide and MS ?\n</div></blockquote>\n\nThere's lots of skills that are unusable in Shifted forms,like trap setting. And with Monk speed you can run and hide, so it's possible for you to recover.<br/>\nDeath Slaad shape has regen 5, f.ex.if you need to hide in a corner and heal. Death Slaad also has a ranged touch attack doing 5d4 damage.\u00a0<br/>\nIt's also nice to give you the head start in combat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "9:07 PM - Feb 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What kind of ac will this Rak has? Self buffed. Hehe I did one and it's really hard to level up. Starting with a 0 ab at lvl 1. Currently at lvl 3<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "10:23 PM - Feb 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>What kind of ac will this Rak has? Self buffed. Hehe I did one and it's really hard to level up. Starting with a 0 ab at lvl 1. Currently at lvl 3</div></blockquote>With main monk or druid? Read my post a bit up for AC calculations.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "6:13 AM - Feb 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">also the first monk base shifter get the outsider shape only at 39? arghhhh that is too late<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:37 AM - Feb 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>also the first monk base shifter get the outsider shape only at 39? arghhhh that is too late</div></blockquote>You need monk every feat level for ISR. I think it should be possible to push it down some levels and still keep all the sr, let me check it. I made it for a good end result, which it is. The other gets it earlier and has a bit more versatility. The second build is also way easier to lvl up. At least until you get good shifts.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:31 PM - Feb 27, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">STR: 10<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 18 (28)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Monk(1): Expertise, Improved Expertise, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n02: Monk(2): {Deflect Arrows}<br/>\n03: Druid(1): Spell Penetration<br/>\n04: Monk(3): WIS+1, (WIS=19)<br/>\n05: Monk(4)<br/>\n06: Monk(5): Zen Archery<br/>\n07: Monk(6): {Knockdown, Improved Knockdown}<br/>\n08: Monk(7): WIS+1, (WIS=20)<br/>\n09: Druid(2): Greater Spell Penetration<br/>\n10: Monk(8)<br/>\n11: Monk(9): {Improved Evasion}<br/>\n12: Druid(3): WIS+1, Alertness, (WIS=21)<br/>\n13: Monk(10)<br/>\n14: Monk(11)<br/>\n15: Druid(4): Brew Potion<br/>\n16: Druid(5): WIS+1, (WIS=22)<br/>\n17: Shifter(1)<br/>\n18: Shifter(2): Toughness<br/>\n19: Shifter(3)<br/>\n20: Shifter(4): WIS+1, (WIS=23)<br/>\n21: Monk(12): Improved Spell Resistance I<br/>\n22: Shifter(5)<br/>\n23: Shifter(6)<br/>\n24: Monk(13): WIS+1, Improved Spell Resistance II, (WIS=24)<br/>\n25: Shifter(7)<br/>\n26: Shifter(8)<br/>\n27: Monk(14): Improved Spell Resistance III<br/>\n28: Monk(15): WIS+1, (WIS=25)<br/>\n29: Shifter(9)<br/>\n30: Shifter(10): Outsider Shape<br/>\n31: Monk(16)<br/>\n32: Monk(17): WIS+1, (WIS=26)<br/>\n33: Monk(18): Improved Spell Resistance IV<br/>\n34: Monk(19)<br/>\n35: Monk(20)<br/>\n36: Monk(21): WIS+1, Improved Spell Resistance V, (WIS=27)<br/>\n37: Monk(22)<br/>\n38: Monk(23)<br/>\n39: Monk(24): Improved Spell Resistance VI<br/>\n40: Monk(25): WIS+1, Improved Spell Resistance VII, (WIS=28)<br/>\n<br/>\nHitpoints: 440<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 27/31/21<br/>\nSaving Throw bonuses: Spells: +8, Mind Effects: +2, Fear: +2<br/>\nBAB: 24<br/>\nAB (max, naked): 24 (melee), 33 (ranged)<br/>\nAC (naked/mundane armor/shield only): 31/31<br/>\nSpell Casting: Druid(3)<br/>\nAlignment Changes: 0<br/>\n<br/>\n<br/>\n<br/>\nLike this, dude. I think the same end result, but earlier Outsider Shape!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "11:00 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\nHere's the build. Should be easier to level. I'll post some info about it later.<br/>\n<br/>\nDruid(28), Shifter(10), Monk(2), Human<br/>\n<br/>\nSTR: 10<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 18 (30)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Expertise, Improved Expertise<br/>\n02: Druid(2)<br/>\n03: Druid(3): Extend Spell<br/>\n04: Druid(4): WIS+1, (WIS=19)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Maximize Spell<br/>\n07: Druid(7)<br/>\n08: Druid(8): WIS+1, (WIS=20)<br/>\n09: Druid(9): Quicken Spell<br/>\n10: Druid(10)<br/>\n11: Druid(11)<br/>\n12: Druid(12): WIS+1, Alertness, (WIS=21)<br/>\n13: Shifter(1)<br/>\n14: Shifter(2)<br/>\n15: Shifter(3): Spell Penetration<br/>\n16: Shifter(4): WIS+1, (WIS=22)<br/>\n17: Shifter(5)<br/>\n18: Shifter(6): Greater Spell Penetration<br/>\n19: Shifter(7)<br/>\n20: Shifter(8): WIS+1, (WIS=23)<br/>\n21: Druid(13): Great Wisdom I, (WIS=24)<br/>\n22: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n23: Shifter(9)<br/>\n24: Shifter(10): WIS+1, Outsider Shape, (WIS=25)<br/>\n25: Druid(14)<br/>\n26: Druid(15)<br/>\n27: Druid(16): Epic Skill Focus: Discipline<br/>\n28: Druid(17): WIS+1, (WIS=26)<br/>\n29: Druid(18)<br/>\n30: Druid(19): Automatic Quicken Spell I<br/>\n31: Druid(20)<br/>\n32: Druid(21): WIS+1, (WIS=27)<br/>\n33: Druid(22): Automatic Quicken Spell II<br/>\n34: Druid(23)<br/>\n35: Druid(24): Automatic Quicken Spell III<br/>\n36: Druid(25): WIS+1, Armor Skin, (WIS=28)<br/>\n37: Druid(26)<br/>\n38: Druid(27)<br/>\n39: Monk(2): Great Wisdom II, {Deflect Arrows}, (WIS=29)<br/>\n40: Druid(28): WIS+1, Dragon Shape, (WIS=30)<br/>\n<br/>\nHitpoints: 400<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/30/19<br/>\nSaving Throw bonuses: Spells: +8, Fear: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 25 (melee), 24 (ranged)<br/>\nAC (naked/mundane armor/shield only): 29/29<br/>\nSpell Casting: Druid(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 43(45), Discipline 42(52), Hide 42(41), Listen 42(54), Move Silently 42(41), Spellcraft 38(40), Tumble 40(39), remaining skillpoints 12<br/>\n<br/>\n<br/>\n01: Concentration(4), Spellcraft(4), Save(20),\u00a0<br/>\n02: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n03: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n04: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n05: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n06: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n07: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n08: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n09: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n10: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n11: Concentration(1), Spellcraft(1), Save(70),\u00a0<br/>\n12: Concentration(1), Spellcraft(1), Save(75),\u00a0<br/>\n13: Concentration(1), Save(81),\u00a0<br/>\n14: Concentration(1), Save(87),\u00a0<br/>\n15: Concentration(1), Save(93),\u00a0<br/>\n16: Concentration(1), Save(99),\u00a0<br/>\n17: Concentration(1), Save(105),\u00a0<br/>\n18: Concentration(1), Save(111),\u00a0<br/>\n19: Concentration(1), Save(117),\u00a0<br/>\n20: Concentration(1), Save(123),\u00a0<br/>\n21: Concentration(1), Spellcraft(9), Save(120),\u00a0<br/>\n22: Concentration(1), Discipline(25), Hide(25), Listen(25), Move Silently(25), Tumble(25), Save(1),\u00a0<br/>\n23: Concentration(1), Save(7),\u00a0<br/>\n24: Concentration(1), Save(13),\u00a0<br/>\n25: Concentration(1), Spellcraft(4), Save(15),\u00a0<br/>\n26: Concentration(1), Spellcraft(1), Save(20),\u00a0<br/>\n27: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n28: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n29: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n30: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n31: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n32: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n33: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n34: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n35: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n36: Concentration(1), Save(71),\u00a0<br/>\n37: Concentration(1), Save(77),\u00a0<br/>\n38: Concentration(1), Save(83),\u00a0<br/>\n39: Concentration(1), Discipline(17), Hide(17), Listen(17), Move Silently(17), Tumble(15), Save(6),\u00a0<br/>\n40: Concentration(1), Save(12),\u00a0\n</div></blockquote>\n\nGrimnr, how does quicken spell works? Don't quite understand it. I see you took automatic quicken spell 1,2,3. How does it works? thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:27 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Grimnr, how does quicken spell works? Don't quite understand it. I see you took automatic quicken spell 1,2,3. How does it works? thanks</div></blockquote>\nA spell can be cast twice a round. It means you fire 1 Ice Storm every 3 secs instead og every 6. <br/>\n<br/>\nIf you have an iten that grants you permanent haste when shifted, then switch those feats out.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "11:33 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\n<blockquote><div><cite>phmah2408 wrote:</cite><blockquote><div><cite>Grimnir wrote:</cite>\nHere's the build. Should be easier to level. I'll post some info about it later.<br/>\n<br/>\nDruid(28), Shifter(10), Monk(2), Human<br/>\n<br/>\nSTR: 10<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 18 (30)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Expertise, Improved Expertise<br/>\n02: Druid(2)<br/>\n03: Druid(3): Extend Spell<br/>\n04: Druid(4): WIS+1, (WIS=19)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Maximize Spell<br/>\n07: Druid(7)<br/>\n08: Druid(8): WIS+1, (WIS=20)<br/>\n09: Druid(9): Quicken Spell<br/>\n10: Druid(10)<br/>\n11: Druid(11)<br/>\n12: Druid(12): WIS+1, Alertness, (WIS=21)<br/>\n13: Shifter(1)<br/>\n14: Shifter(2)<br/>\n15: Shifter(3): Spell Penetration<br/>\n16: Shifter(4): WIS+1, (WIS=22)<br/>\n17: Shifter(5)<br/>\n18: Shifter(6): Greater Spell Penetration<br/>\n19: Shifter(7)<br/>\n20: Shifter(8): WIS+1, (WIS=23)<br/>\n21: Druid(13): Great Wisdom I, (WIS=24)<br/>\n22: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n23: Shifter(9)<br/>\n24: Shifter(10): WIS+1, Outsider Shape, (WIS=25)<br/>\n25: Druid(14)<br/>\n26: Druid(15)<br/>\n27: Druid(16): Epic Skill Focus: Discipline<br/>\n28: Druid(17): WIS+1, (WIS=26)<br/>\n29: Druid(18)<br/>\n30: Druid(19): Automatic Quicken Spell I<br/>\n31: Druid(20)<br/>\n32: Druid(21): WIS+1, (WIS=27)<br/>\n33: Druid(22): Automatic Quicken Spell II<br/>\n34: Druid(23)<br/>\n35: Druid(24): Automatic Quicken Spell III<br/>\n36: Druid(25): WIS+1, Armor Skin, (WIS=28)<br/>\n37: Druid(26)<br/>\n38: Druid(27)<br/>\n39: Monk(2): Great Wisdom II, {Deflect Arrows}, (WIS=29)<br/>\n40: Druid(28): WIS+1, Dragon Shape, (WIS=30)<br/>\n<br/>\nHitpoints: 400<br/>\nSkillpoints: 301<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/30/19<br/>\nSaving Throw bonuses: Spells: +8, Fear: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 25 (melee), 24 (ranged)<br/>\nAC (naked/mundane armor/shield only): 29/29<br/>\nSpell Casting: Druid(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 43(45), Discipline 42(52), Hide 42(41), Listen 42(54), Move Silently 42(41), Spellcraft 38(40), Tumble 40(39), remaining skillpoints 12<br/>\n<br/>\n<br/>\n01: Concentration(4), Spellcraft(4), Save(20),\u00a0<br/>\n02: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n03: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n04: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n05: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n06: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n07: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n08: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n09: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n10: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n11: Concentration(1), Spellcraft(1), Save(70),\u00a0<br/>\n12: Concentration(1), Spellcraft(1), Save(75),\u00a0<br/>\n13: Concentration(1), Save(81),\u00a0<br/>\n14: Concentration(1), Save(87),\u00a0<br/>\n15: Concentration(1), Save(93),\u00a0<br/>\n16: Concentration(1), Save(99),\u00a0<br/>\n17: Concentration(1), Save(105),\u00a0<br/>\n18: Concentration(1), Save(111),\u00a0<br/>\n19: Concentration(1), Save(117),\u00a0<br/>\n20: Concentration(1), Save(123),\u00a0<br/>\n21: Concentration(1), Spellcraft(9), Save(120),\u00a0<br/>\n22: Concentration(1), Discipline(25), Hide(25), Listen(25), Move Silently(25), Tumble(25), Save(1),\u00a0<br/>\n23: Concentration(1), Save(7),\u00a0<br/>\n24: Concentration(1), Save(13),\u00a0<br/>\n25: Concentration(1), Spellcraft(4), Save(15),\u00a0<br/>\n26: Concentration(1), Spellcraft(1), Save(20),\u00a0<br/>\n27: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n28: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n29: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n30: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n31: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n32: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n33: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n34: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n35: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n36: Concentration(1), Save(71),\u00a0<br/>\n37: Concentration(1), Save(77),\u00a0<br/>\n38: Concentration(1), Save(83),\u00a0<br/>\n39: Concentration(1), Discipline(17), Hide(17), Listen(17), Move Silently(17), Tumble(15), Save(6),\u00a0<br/>\n40: Concentration(1), Save(12),\u00a0\n</div></blockquote>\n\nGrimnr, how does quicken spell works? Don't quite understand it. I see you took automatic quicken spell 1,2,3. How does it works? thanks</div></blockquote>\nA spell can be cast twice a round. It means you fire 1 Ice Storm every 3 secs instead og every 6. <br/>\n<br/>\nIf you have an iten that grants you permanent haste when shifted, then switch those feats out.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk\n</div></blockquote>\n\nthanks! It's hard to get haste in my server. Unless I have lots of Quest tokens to get one. maybe one day I will loot it. But thank you for your value feedback! it clears my mind on those. Also I realized you dont have empowered spell. Is max. spell better than empowered ice storm?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:56 PM - Mar 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can't use both. Yeah, it gives a higher value more often than not. <br/>\n<br/>\nAverage damage on 1d6 is 3.5. Empowered its 3.5 x 1.5 = 5.25. Not to big a difference from maxed, but it means about 10hp pr Ice Storm.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orlouge",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:09 AM - Mar 19, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Noob here, just a few questions:<br/>\n1) Why all that SR in a Rak build? Seems like an overkill considering Rak lvl 8 spell immunity.\u00a0<br/>\n2) Reading Max Kane druid's guide (on the comments) it seems Rak can reach crazy AC in high magic env. (which seems weird to me since bonus AC from items is merged as deflection). Could you kindly enlighten me on how to reach the highest AC possible on a Rak?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "5:48 PM - Mar 19, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">1) It's for lvl 9 spells. Even a caster with 40 caster levels and all penetration feats will miss 10% of his spells.<br/>\n2) I did some calculations on AC earlier, for the Monk build.<br/>\n47+<br/>\n10 ImpExp +\u00a0<br/>\n6DEX +\u00a0<br/>\n6 WIS +\u00a0<br/>\n5 Dodge(you will then be 3 from cap) +\u00a0<br/>\n5 deflection +\u00a0<br/>\n5 nat AC (barkskin) =\u00a0<br/>\n84. Not foolproof, but very good. Maybe you can get 3 more dodge somewhere, you're 3 from cap. A high magic environment won't help you much, actually I think a build like this will benefit more ina mid-magic environment.\u00a0<br/>\n<br/>\n84 is enough so that a combat cleric won't hit you all that much. A caster cleric never. A Weapon master with, say 54 AB, + 6 STR and +5 weapon? Not much at all. So the AC is quite good.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orlouge",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:43 PM - Mar 19, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\n1) It's for lvl 9 spells. Even a caster with 40 caster levels and all penetration feats will miss 10% of his spells.<br/>\n2) I did some calculations on AC earlier, for the Monk build.<br/>\n47+<br/>\n10 ImpExp +\u00a0<br/>\n6DEX +\u00a0<br/>\n6 WIS +\u00a0<br/>\n5 Dodge(you will then be 3 from cap) +\u00a0<br/>\n5 deflection +\u00a0<br/>\n5 nat AC (barkskin) =\u00a0<br/>\n84. Not foolproof, but very good. Maybe you can get 3 more dodge somewhere, you're 3 from cap. A high magic environment won't help you much, actually I think a build like this will benefit more ina mid-magic environment.\u00a0<br/>\n<br/>\n84 is enough so that a combat cleric won't hit you all that much. A caster cleric never. A Weapon master with, say 54 AB, + 6 STR and +5 weapon? Not much at all. So the AC is quite good.</div></blockquote>\nWhere do you get the 5 dodge and deflection from? Items? Also, how you get the base 47 AC? Afaik Rak has 27 base plus 12 polymorph dodge. Sorry for being so noob.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:49 PM - Mar 19, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orlouge wrote:</cite><blockquote><div><cite>Grimnir wrote:</cite>\n1) It's for lvl 9 spells. Even a caster with 40 caster levels and all penetration feats will miss 10% of his spells.<br/>\n2) I did some calculations on AC earlier, for the Monk build.<br/>\n47+<br/>\n10 ImpExp +\u00a0<br/>\n6DEX +\u00a0<br/>\n6 WIS +\u00a0<br/>\n5 Dodge(you will then be 3 from cap) +\u00a0<br/>\n5 deflection +\u00a0<br/>\n5 nat AC (barkskin) =\u00a0<br/>\n84. Not foolproof, but very good. Maybe you can get 3 more dodge somewhere, you're 3 from cap. A high magic environment won't help you much, actually I think a build like this will benefit more ina mid-magic environment.\u00a0<br/>\n<br/>\n84 is enough so that a combat cleric won't hit you all that much. A caster cleric never. A Weapon master with, say 54 AB, + 6 STR and +5 weapon? Not much at all. So the AC is quite good.</div></blockquote>\nWhere do you get the 5 dodge and deflection from? Items? Also, how you get the base 47 AC? Afaik Rak has 27 base plus 12 polymorph dodge. Sorry for being so noob.</div></blockquote>It's actually the Druid build that starts on 47, not the monk. <br/>\n<br/>\nI guessed a +5 environment. Where you can find a +5 item, and a dodge item. <br/>\n<br/>\nIt has +12 dodge AC from Rak shape. The rest of the AC comes from tumble, Monk levels and Wisdom to AC thanks to monk class and unarmored Rak.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orlouge",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:01 AM - Mar 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\n<blockquote><div><cite>Orlouge wrote:</cite><blockquote><div><cite>Grimnir wrote:</cite>\n1) It's for lvl 9 spells. Even a caster with 40 caster levels and all penetration feats will miss 10% of his spells.<br/>\n2) I did some calculations on AC earlier, for the Monk build.<br/>\n47+<br/>\n10 ImpExp +\u00a0<br/>\n6DEX +\u00a0<br/>\n6 WIS +\u00a0<br/>\n5 Dodge(you will then be 3 from cap) +\u00a0<br/>\n5 deflection +\u00a0<br/>\n5 nat AC (barkskin) =\u00a0<br/>\n84. Not foolproof, but very good. Maybe you can get 3 more dodge somewhere, you're 3 from cap. A high magic environment won't help you much, actually I think a build like this will benefit more ina mid-magic environment.\u00a0<br/>\n<br/>\n84 is enough so that a combat cleric won't hit you all that much. A caster cleric never. A Weapon master with, say 54 AB, + 6 STR and +5 weapon? Not much at all. So the AC is quite good.</div></blockquote>\nWhere do you get the 5 dodge and deflection from? Items? Also, how you get the base 47 AC? Afaik Rak has 27 base plus 12 polymorph dodge. Sorry for being so noob.</div></blockquote>\nIt's actually the Druid build that starts on 47, not the monk. <br/>\n<br/>\nI guessed a +5 environment. Where you can find a +5 item, and a dodge item. <br/>\n<br/>\nIt has +12 dodge AC from Rak shape. The rest of the AC comes from tumble, Monk levels and Wisdom to AC thanks to monk class and unarmored Rak.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk\n</div></blockquote>\n\nthanks for your time bro<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "5:02 PM - Apr 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This built on the monk version aren\u2019t easy to level up. No party means no experience gain. I am on level 15<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "5:12 PM - Apr 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>This built on the monk version aren\u2019t easy to level up. No party means no experience gain. I am on level 15</div></blockquote>Should be okay once you can wildshape. But yeah. Until Outsider shape it's tough. It gets better. <img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji4.png\" /><br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "6:43 PM - Apr 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah it will be rewarding and question, you mention this built does not have empowered spell right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "6:48 PM - Apr 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wondering what happen if my target is spell immune and what can this built do to take it down?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:30 PM - Apr 07, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Wondering what happen if my target is spell immune and what can this built do to take it down?</div></blockquote>Use the acid breath. Doesn't check against SR. Or another Shape if it's not a player. Like the Slaad. You got your defenses still, and your speed. The Slaad shape ain't too bad. And possibly Wildshapes.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TomRotfl",
+      "avatar": "10758895_1525336314.jpg",
+      "timestamp": "12:11 PM - Apr 20, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Guys! i am having an issue with the maximise spell feats. In my build (15 druid 19 shifter 6 monk), even if i get the maximise spells feat and put some maximised ice storms into slots, when i turn in rakshasa it won't work.<br/>\n<br/>\nIt appears the maximised ice storm icon with infinite usages, but when i try to use it game says: No uses or preparations left for that spell.<br/>\n<br/>\nAny idea?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TomRotfl",
+      "avatar": "10758895_1525336314.jpg",
+      "timestamp": "12:16 PM - Apr 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Found the issue. If you guys run NWN:EE that trick have been fixed and doesn't work anymore. Still working on old nwn. So sad.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "3:19 PM - Apr 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">????? What? So on EE, rak cannot spam ice storm anymore?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TomRotfl",
+      "avatar": "10758895_1525336314.jpg",
+      "timestamp": "4:32 PM - Apr 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>????? What? So on EE, rak cannot spam ice storm anymore?</div></blockquote>You can, but not maximised. Just standard spell. I tried same build on both versions. Old can, new cannot.<br/>\n<br/>\nTom rolling on the flooooooor<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "5:19 PM - Apr 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm. That is not fun anymore!!! I am building two atm, the monk version and the other one with rak and dragon version. Hmmmm. Oh well, as long as I can still do damage to them, I guess maybe take spell penetration and greater and maybe epic?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "5:49 PM - Apr 21, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Hmmm. That is not fun anymore!!! I am building two atm, the monk version and the other one with rak and dragon version. Hmmmm. Oh well, as long as I can still do damage to them, I guess maybe take spell penetration and greater and maybe epic?</div></blockquote>That was crap....<br/>\nYeah, well. Spell pen is at least useful. Empower not so much anymore....<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "7:19 PM - Apr 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does it varies from server to server? I questioned my DM about this issue on my current server that I played, he said it's not going to change when we switch to Enhanced Edition. What you think?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:50 PM - Apr 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>Does it varies from server to server? I questioned my DM about this issue on my current server that I played, he said it's not going to change when we switch to Enhanced Edition. What you think?</div></blockquote>Maybe hold the characters a bit, unless you have a chance to relevel later. Might be hardcoded. <br/>\n<br/>\nThat said, how is it to level the Druid version, do you thunk?<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "8:28 PM - Apr 23, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am building both versions. Which one do I give up? The Druid version is easier to level up. Lvl 20 now. The monk version is at lvl 15.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "2:06 PM - Apr 24, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>phmah2408 wrote:</cite>I am building both versions. Which one do I give up? The Druid version is easier to level up. Lvl 20 now. The monk version is at lvl 15.</div></blockquote>The monk isn't affected anyhow, right? <br/>\nAs for the Druid, just keep going and hope for the best. At 20 you already took Empowered anyhow.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "7:13 PM - May 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bummer! They said this is an exploit (empowered or Max.spell ) ice storm from the old system and was upgraded by the enhanced edition!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:17 PM - May 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Exchange the feat. They should let you. Or use Empower when Druid. On Bulls and stuff.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "7:41 PM - May 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah no problem. I will continue my built to the end. It\u2019s a challenge<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

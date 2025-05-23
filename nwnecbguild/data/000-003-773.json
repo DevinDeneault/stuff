@@ -1,0 +1,110 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "773",
+  "name": "Harper Scout Divine Cleric Archer (Cleric 32 / Harper Scout 5 / Rogue 3)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/harper-scout-divine-cleric-archer-cleric-32-harper-t2355221.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 15,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:45 AM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I want to make the Harper Scout useful, and the only way I could think of doing that was by utilising the 2 bonus feats in epic levels for Great Charisma.<br/>\n<br/>\nTherefore it made sense to me any Harper Scout build, to be useful would be to try to make some sort of Divine Damage Build. I understand the Eagle's Splendor feat from HS stacks with the Eagle's Splendor spell, providing an alternative way of seriously boosting charisma in a similar way to the Paladin's Aura of Glory<br/>\n<br/>\nAnyway this is a draft of a Harper Scout Divine Cleric Archer type build. Hope you enjoy reading it!<br/>\n<details><summary>Spoiler</summary>Cleric(32), Harper Scout(5), Rogue(3), Human\nSTR: 13\nCON: 8\nINT: 13\n\n01: Cleric(1): Point Blank Shot, Power Attack\n03: Cleric(3): Divine Might\n05: Cleric(5)\n07: Cleric(7)\n09: Cleric(9): Rapid Reload\n11: Cleric(11)\n13: Cleric(13)\n15: Cleric(15): Alertness\n17: Cleric(17)\n19: Cleric(19)\n21: Cleric(21): Epic Prowess\n23: Cleric(22)\n25: Cleric(24)\n27: Rogue(2): Great Wisdom III, {Evasion}, (WIS=25)\n29: Cleric(27)\n31: Cleric(29): Great Wisdom VI, (WIS=29)\n33: Cleric(30): Great Wisdom VII, (WIS=31)\n35: Rogue(3): {Uncanny Dodge I}\n37: Harper Scout(3)\n39: Harper Scout(5): Great Wisdom IX, Great Charisma II, (WIS=34), (CHA=18)\n\nSkillpoints: 200\nSaving Throw bonuses: Mind Effects: +2, Traps: +2\nAB (max, naked): 27 (melee), 39 (ranged)\nSpell Casting: Cleric(9)\n\n\n01: Concentration(4), Lore(4), Persuade(4), Spellcraft(1), Save(3),\u00a0\n03: Concentration(1), Lore(1), Persuade(1), Save(5),\u00a0\n05: Concentration(1), Persuade(1), Save(9),\u00a0\n07: Concentration(1), Save(15),\u00a0\n09: Concentration(1), Save(21),\u00a0\n11: Concentration(1), Save(27),\u00a0\n13: Concentration(1), Save(33),\u00a0\n15: Concentration(1), Save(39),\u00a0\n17: Concentration(1), Save(45),\u00a0\n19: Concentration(1), Save(51),\u00a0\n21: Concentration(1), Save(57),\u00a0\n23: Concentration(2), Save(2),\u00a0\n25: Concentration(1), Save(8),\u00a0\n27: Set Trap(10), Tumble(5), UMD(4), Save(2),\u00a0\n29: Concentration(1), Save(7),\u00a0\n31: Concentration(1), Discipline(4), Save(5),\u00a0\n33: Concentration(2), Save(2),\u00a0\n35: Save(15),\u00a0\n37: Discipline(1), Tumble(5),\u00a0\n39: Discipline(4), Save(2),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:13 AM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahem...<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/wulgar-ironbow-fighter-16-dwarven-defender-19-harp-t2354617.html\" rel=\"noreferrer\" target=\"_blank\">Wulgar Ironbow</a><br/>\n<br/>\nI've found this a delight to play.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:15 AM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"17509\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17509&amp;sid=510b8f1b0e05665887b7925ccbfc85f7#p17509\">\u2191</a><div class=\"responsive-hide\">Oct 30, 2019</div></cite>Ahem...<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/wulgar-ironbow-fighter-16-dwarven-defender-19-harp-t2354617.html\" rel=\"noreferrer\" target=\"_blank\">Wulgar Ironbow</a><br/>\n<br/>\nI've found this a delight to play.</div></blockquote>\nThanks Stag<br/>\nForgot HS gave great dexterity as an epic bonus feat!\u00a0<br/>\n<br/>\nDid DD defensive stance work with ranged weapons?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:30 AM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Defensive stance was largely pointless when ranged, but came in very handy when in melee with his hatchet - not that I needed to melee often. And even then, twinning Def Stance with Def Awareness II (immunity to flanking - and thereby sneaks) was more a reassuring presence than anything, as I tried to haste away and start shooting again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:05 PM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just for info, Orion, here's a thread on HS from 2016... <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/harper-scout-combos-t2354639.html\" rel=\"noreferrer\" target=\"_blank\">HS Combos</a><br/>\n<br/>\nAnd my somewhat shonky attempt to use the class... <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/harping-on-ranger-25-cot-10-hs-5-t2355056.html\" rel=\"noreferrer\" target=\"_blank\">Harping On</a><br/>\n<br/>\nAs I say, just for information.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:55 PM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for taking the effort to find those threads Stag, I gained a lot by reading them! So Harper Scout is better than I thought it was, only prestige class with Tumble and Discipline as class skills!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:28 PM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"17520\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17520&amp;sid=510b8f1b0e05665887b7925ccbfc85f7#p17520\">\u2191</a><div class=\"responsive-hide\">Oct 30, 2019</div></cite> So Harper Scout is better than I thought it was</div></blockquote>\nHS used to be the only class so powerful that it was limited to only 5 levels. <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:37 PM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">HS also makes the perfect \"tweener\" class from Paladin to Blackguard ala Black Harper build...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:41 PM - Oct 30, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yup like HS, Purple Dragon Knight was considered so powerful it was limited to only 5 levels....\u00a0<br/>\n<br/>\nhmmmmmmmm....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:12 PM - Oct 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">PDK *winces*<br/>\n<br/>\nIt's like <em>that</em> certain Uncle that everyone dreads will show up for Thanksgiving...<br/>\n<br/>\nEven with buffing (like what WoG has done) cannot save it!<br/>\n<br/>\nIt really needs some ingame love and support, from the PW/Mod itself to be a viable thing IMO.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "6:17 PM - Oct 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"17523\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17523&amp;sid=459f9b4c74a246113b4d3de0a14a8808#p17523\">\u2191</a><div class=\"responsive-hide\">Oct 30, 2019</div></cite>HS also makes the perfect \"tweener\" class from Paladin to Blackguard ala Black Harper build...</div></blockquote>\nIf only...\u00a0 :)\u00a0 \u00a0I have a sorc/pally/bg on a world and her lowest save is reflex.. at 55...\u00a0 \u00a0\u00a0<br/>\nThough now you have me curious to look to see if anyone made a pally/HS/BG build\u00a0 \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:21 PM - Oct 31, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did, way back when.<br/>\n<br/>\nOn the Bio boards - sadly, it did not survive the death of the forums there..<br/>\n<br/>\nSo now there is a Pa/HS/BG build in the Epic Guild, but it is not mine.<br/>\n<br/>\nMine was called The Black Harper.\u00a0 The HS has perfect synergy and the right skills and abilities to transition from Pally to BG.\u00a0 Almost as if it was meant to be used to do it...hehe.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:54 PM - Nov 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just as a little addition here, back in 2014 Valerfor posted this <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-harper-knight-ftr-30-pdk-5-hs-5-t2354260.html\" rel=\"noreferrer\" target=\"_blank\">The Harper Knight</a><br/>\n<br/>\nThe build incorporates both HS <em>and</em> PDK in a Fighter 30/ HS 5/ PDK 5 construction. Worth a look - and a few tips re playing it on WoG.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:01 AM - Nov 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow a useful PDK build! Well done Valerfor!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:59 PM - Nov 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's simply amazing!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "4:45 PM - Nov 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"17545\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17545&amp;sid=459f9b4c74a246113b4d3de0a14a8808#p17545\">\u2191</a><div class=\"responsive-hide\">Oct 31, 2019</div></cite>I did, way back when.<br/>\n<br/>\nOn the Bio boards - sadly, it did not survive the death of the forums there..<br/>\n<br/>\nSo now there is a Pa/HS/BG build in the Epic Guild, but it is not mine.<br/>\n<br/>\nMine was called The Black Harper.\u00a0 The HS has perfect synergy and the right skills and abilities to transition from Pally to BG.\u00a0 Almost as if it was meant to be used to do it...hehe.</div></blockquote>\nSo out of curiousity, I went to the Wayback machine and searched for \"The Black Harper\".....\u00a0 \u00a0<br/>\nGood thing I'm too smart to follow some of those links while at work....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

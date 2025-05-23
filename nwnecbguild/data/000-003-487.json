@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "487",
+  "name": "Barbarian Build lvl 30!",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/barbarian-build-lvl-30-t777838.html",
+  "author": "W1shM4k3r",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:09 AM - Nov 15, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Heya ! another build that i seek is a good barbarian build.. with Thundering rage and Terrifying rage. Perhaps Mighty rage too etc...<br/>\n<br/>\nRacial traits: +2 Strength, +2 Constitution, -2 Intelligence, -2 Charisma, +2 Natural AC, <br/>\nFavored Class: Barbarian<br/>\nLevel Adjustment: +1<br/>\n<br/>\nBuuut there are some little modification we need to think about!:<br/>\n<blockquote><div>Standard Rage<br/>\nThis is the normal Barbarian Rage. <br/>\n<br/>\n+1 Attack per 4 Barbarian levels, capped at +6.<br/>\n+1 Damage per 4 Barbarian levels, capped at +5.<br/>\n+1 Will saves per 8 Barbarian levels, capped at +3.<br/>\n+1 Fortitude save per 8 Barbarian levels, capped at +3.<br/>\n+2 Hit Points per Barbarian level.<br/>\nPenalized -2 to Armor Class. This is voided at Barbarian level 17 and above.<br/>\n<br/>\nUnyielding Rage<br/>\nA focused Barbarian rage that channels their fury into raw speed, ignoring wounds as they blitz around the battlefield. <br/>\n[OOC: Available at Level 10 Barbarian.] <br/>\n<br/>\n+1 Regeneration per 4 Barbarian levels.<br/>\n+1 Dodge AC per 6 Barbarian levels, capped at +4 AC.<br/>\n+1 Fortitude save per 8 Barbarian levels, capped at +3.<br/>\n+1 Will save per 8 Barbarian levels, capped at +3.<br/>\n+1 Reflex save per 8 Barbarian levels, capped at +3.<br/>\n+3 Hit Points per Barbarian level.<br/>\n+1 AB per 8 Barbarian levels, capped at +3.<br/>\n<br/>\nFerocity Attack<br/>\nA focused Barbarian rage that sends the barbarian into a true frenzy of whipping blades and destructive might. The price for pure offense however, is a lack of defense. <br/>\n[OOC: Available at Level 15 barbarian.]<br/>\n<br/>\n+1 Attack Per Round, stacks with Haste.<br/>\n+2 Damage per 4 Barbarian levels, capped at +12.<br/>\n+1 Fortitude save per 8 Barbarian levels, capped at +3.<br/>\n50% percent move speed increase, doesn't stack with Haste.<br/>\n-4 penalty to Dodge Armor Class.<br/>\n +1 Hit Point per Barbarian level.<br/>\n<br/>\nMighty Rage<br/>\nMighty Rage gives the following benefits:<br/>\n<br/>\n+1 Universal Saves/7 Barbarian Levels<br/>\n+5 Vampiric Regen<br/>\n+10 Bonus HP/Barbarian Level.<br/>\n<br/>\nThundering Rage<br/>\nThis rage imparts your weapon with 1d8 Sonic Damage and On Hit: Stun DC 20.<br/>\n<br/>\nTerrifying Rage<br/>\nThis rage enhances the barbarian with a fear aura, the Will save DC equal to that of their Intimidate skill.</div></blockquote>\n\nSo i dont know if its worth to take those feats. I would like to focus on Greataxe.<br/>\nand if able with dev crit... <br/>\ngot any questions? shoot them to me and i try to answer!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:37 PM - Nov 16, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Build-wise, I think 24 levels of Barb would get you to most of those caps.  The only cap you're missing is Universal Saves and it is only by 1 point.  How about a Barb 24 / Rogue 6 or Barb 26 / Rogue 4?  UMD, Tumble, Evasion and a little Sneak Attack.  Is there any conflict with using these 2 classes together?  Go 3 Rogue / 17 Barb pre-epic.  Dev Crit should be easy to fit in.<br/>\n<br/>\nDumb question:  Does the Level Adjustment +1 mean you can only grab 29 levels or is it purely for XP requirements (ie, standard progression is 1,000 xp for level 2; 3,000 xp for level 3 --&gt; now you need 3,000 xp for level 2 and 6,000 xp for level 3)?  I've never played anywhere that uses it so not quite sure what that meant.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "7:21 AM - Nov 17, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see the racial biases there, but what exactly is the race?  Is this required for the build or did you just choose it yourself?<br/>\n<br/>\nAre there any leveling prereqs we should know about?  Like minimum consecutive class levels?  Single dumps okay?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

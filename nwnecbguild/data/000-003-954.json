@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "954",
+  "name": "Which build would you suggest in this situation.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/which-build-would-you-suggest-in-this-situation-t2354910.html",
+  "author": "Mardus",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Mardus",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:06 PM - Jul 01, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello! I recently started playing nwn again(non EE version) and I came across a video of a player/DM of the server I play in. <span data-s9e-mediaembed=\"youtube\" style=\"display:inline-block;width:100%;max-width:640px\"><span style=\"display:block;overflow:hidden;position:relative;padding-bottom:56.25%\"><iframe allowfullscreen=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/sj4u2nyI0Qc\" style=\"background:url(https://i.ytimg.com/vi/sj4u2nyI0Qc/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%\"></iframe></span></span><br/>\nNow I would be interested in clearing the same area as the player in the video. I would like your take on which character would you bring to such area. Obviously you don\u00b4t know all the details about the server so I\u00b4ll try to fill you in what\u00b4s happening in the video: the person equips a 1h mace called Holy Mace of Dismissal (Ench +4, Damage bonus: Bludgeoning 1d10, On Hit: Slay Racial Group DC14 Undead, Only usable by: Cleric) and goes on to kill Greater Mohrgs hoping for enemy to roll 1 against death. Now the server doesn\u00b4t have really OP items. +5 items are pretty much the max you can get (Maybe +6 too as so called Uber items but those are available to only max level characters and I\u00b4d actually like to visit that area a bit before max level if possible). Haste and KD immunity are not hard to get however getting evocation immunity means mostly giving up one of 2 as these properties come from Helm or Armor only. I\u00b4m not really sure about enemies stats but @ 2:41 he examines one of them and challenge rating is still Impossible despite him being max level also they seem to deal atleast a portion of their damage as Magical.<br/>\nNow I think he does a great job using Darkness to his advantage. I also like how much damage he does to the enemy despite mainly relying on his onhit property. <br/>\nI\u00b4m looking for a build which would be a melee undead-killer as I\u00b4m pretty sure most endgame monsters have magic and spell immunities. HiPS and devcrit are things that would be nice for levelling but definately not required. Any thoughts or feedback would be appreciated.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:32 PM - Jul 02, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey man!<br/>\n<br/>\nWell, if you're fighting undeads, DevCrit is pretty useless. Also the guy's playing a STR-based character and still not getting hit. Maces are finesseable, so you could go with either STR or DEX to wield that weapon. A few builds come to mind that would be good there, since the guy's hardly ever even getting hit with a STR-based Bard / BG / RDD.\u00a0<br/>\n<br/>\n1- Myth's Hierophant of Velsharoon<br/>\n2- Myth's Blood &amp; Faith<br/>\n3- My Shadow Priest<br/>\n4- My Magical Master<br/>\n<br/>\nThe last two are Kama-wielding DEXers, but they could equip said weapon just for that area. They have high AC, so could tank the enemies quite easily. If you were to leave them with a Kama, they'd have 8 attacks per round hasted and with Flurry of Blows. So, if you found a Kama with nice properties, you'd have many more attacks per round than this guy ever has. But, if you want to wield that mace, you also have the option.<br/>\n<br/>\nThe first 2 are STR-based and could very well be converted to Mace-wielding toons, which is why I put them first. Myth's Hierophant would be immune to critical hits, and Blood &amp; Faith would have the highest AB / Damage.\u00a0<br/>\n<br/>\nThere are other combinations, but these 4 would probably destroy that area.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:10 PM - Jul 03, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Besides the obvious choices, for example, a cleric casting (mass heal -&gt; ice storm) to reduce these undead to a pile of ash in a single round, a good dwarven-defender can do this quite easily. I noticed that his equipment absorbs 20 points from their fists (greater brawling belt, possibly) and then another 15 or so damage pass over to him along with a small portion of magical damage. Our dwarven-defender player then would only ever be hit for the magical damage and nothing else &amp; with close to four-digit hitpoints buffed, he would probably have enough time to eat his omelette before going for one of these (I counted 110) heal potions. With full tumble, defensive stance &amp; defensive awareness, he can get almost the same AC as this fancy rdd-bard (defensive awareness negates all those flank bonuses they get) and will have double the hitpoints. He hits equally well with our friend in the video due to ews &amp; can use improved invisibility via umd. And there is no need to use another weapon, just hit them with his trusty old warhammer till they are nothing but bone &amp; ash.<br/>\n<br/>\n<span style=\"color:#073763\"><strong>The Unbreakable</strong></span> =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-unbreakable-ftr-10-rog-4-dd-26-t2354327.html#p716\" rel=\"noreferrer\" target=\"_blank\">the-unbreakable-ftr-10-rog-4-dd-26-t2354327.html#p716</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

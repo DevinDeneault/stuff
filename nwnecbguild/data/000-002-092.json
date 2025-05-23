@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "092",
+  "name": "Lore and Item IDing",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lore-and-item-iding-t2355652.html",
+  "author": "Maximillian_Kane",
+  "avatar": "10758866_1605883460.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:07 AM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail Mighty Mathematicians!<br/>\n<br/>\nYes, i'm not addressing the regular ECB folk, but those of you who understand how Lore works.<br/>\n<br/>\nHow do you determine how much Lore is needed to ID an item? What are the factors taken into account? What custom modifications impact it?<br/>\n<br/>\nThanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:21 AM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I hope this page has the answers you seek:<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Lore\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Lore</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:44 AM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Empyre!<br/>\n<br/>\nUnfortunately it doesn't help much.<br/>\n<br/>\nWhere I play, merchants typically have a cap of 150K tops, so if an item is worth anything over that, I have no way of knowing how much it's actually worth.<br/>\n<br/>\nHow do you determine the value of an item?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "3:54 AM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In general, there's no way of knowing for a specific environment. The Lore required to identify an item (and the UMD required to use a restricted item) can be altered by editing 2da files, so there's no guarantee that the default values apply to your specific environment. The cost of an item is determined by the base item type (eg. dagger, longsword, small shield) and the item properties on the item, and all of this can be customised too.<br/>\n<br/>\nFor a vanilla environment, you can use the toolset to check item value. That way you can calculate the cost of the most expensive item that you're likely to encounter and set your Lore accordingly. Bear in mind that Identify and Legend Lore also give Lore bonuses which can be useful if they're easily available.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:47 AM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This might be a bit of a faff, but (unless its customized, ie non-vanilla) you could always pop into the Halls of Advanced Training (or similar) and find out what everything costs, then cross-reference with the table Empyre helpfully provides - which should also help with how much UMD you might need to equip said gear. Much as you recently did for me, Max (thanks again)!<br/>\n<br/>\nAdmittedly, not mathematical, but maybe practical?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "12:01 PM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"23436\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23436&amp;sid=41d09ca08f5ce36b6f6386c29b203ed4#p23436\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2021</div></cite>This might be a bit of a faff, but (unless its customized, ie non-vanilla) you could always pop into the Halls of Advanced Training (or similar) and find out what everything costs, then cross-reference with the table Empyre helpfully provides - which should also help with how much UMD you might need to equip said gear. Much as you recently did for me, Max (thanks again)!<br/>\n<br/>\nAdmittedly, not mathematical, but maybe practical?<br/>\n<br/>\nCheers</div></blockquote>\nYes, that is true, but most of the stuff I'd be interested about knowing would be custom, so it doesn't help much :D<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:19 PM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Shame. Alright, with even more faffing, how about creating a character with (for example) 20 Lore, beam them into wherever you're playing and see if they can id what you want, if not, try one with 30 ranks, then 40, and so on until you can id the item(s). That gives you a 10 point Lore window, which you can then narrow further should you wish - maybe try (eg) 35 ranks if you know you need between 30 and 40, and narrow it down progressively, depending on how obsessive you're feeling.<br/>\n<br/>\nAs I say, highly faff-intensive, but hey-ho.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "1:06 PM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One thing you CAN do is to write down the WoG price of several items of differenty types. Preferably items which also COULD exist in a vanilla environment (like a weapon+1, boots of speed, swordsman's belt, shield 5% protection against electrical, like that) which have an enhancement or a magical property or three, but aren't worth more than 150K.<br/>\n<br/>\nThen you create a new, empty module with the toolset, create a 2x2 empty area (toolset forces you to create an area), save it as \"test\" and make sure you have your empty area open. You now can check all standard item blueprints or even create new items. When you \"edit\" an item or \"edit copy\", you can see the \"value\" on which item level restriction as well as Lore and UMD needed are based on.<br/>\nOR, if you tell me the exact properties of an item, I can check the vanilla value for you. Takes me just minutes, because I know where to look.<br/>\n<br/>\nBy comparing the WoG prices with what you find in the toolset you might be able to derive a pattern, using the vanilla lists.<br/>\nYou would need to know the exact Lore or UMD needed for the items whose value you noted down, of course.<br/>\n<br/>\nYou say WoG isn't high magic, so it is unlikely there will be any item with a value higher than what would be 4.2 million in vanilla (equal to item level 40), it probably is less.\u00a0<br/>\n<br/>\nOf course you could download solo WoG, open it with the toolset and check item blueprints and scripts. You also could check 2da's with a 2da editor.<br/>\nJust that this... way too much searching. For a module that size and with so many haks it also takes ages to check anything. Toolset might crash or freeze frequently, even on a fast computer.<br/>\n<br/>\nThat, and we don't know what has been changed since solo WoG was published.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "1:50 PM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote: <a data-post-id=\"23439\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23439&amp;sid=41d09ca08f5ce36b6f6386c29b203ed4#p23439\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2021</div></cite>One thing you CAN do is to write down the WoG price of several items of differenty types. Preferably items which also COULD exist in a vanilla environment (like a weapon+1, boots of speed, swordsman's belt, shield 5% protection against electrical, like that) which have an enhancement or a magical property or three, but aren't worth more than 150K.<br/>\n<br/>\nThen you create a new, empty module with the toolset, create a 2x2 empty area (toolset forces you to create an area), save it as \"test\" and make sure you have your empty area open. You now can check all standard item blueprints or even create new items. When you \"edit\" an item or \"edit copy\", you can see the \"value\" on which item level restriction as well as Lore and UMD needed are based on.<br/>\nOR, if you tell me the exact properties of an item, I can check the vanilla value for you. Takes me just minutes, because I know where to look.<br/>\n<br/>\nBy comparing the WoG prices with what you find in the toolset you might be able to derive a pattern, using the vanilla lists.<br/>\nYou would need to know the exact Lore or UMD needed for the items whose value you noted down, of course.<br/>\n<br/>\nYou say WoG isn't high magic, so it is unlikely there will be any item with a value higher than what would be 4.2 million in vanilla (equal to item level 40), it probably is less.\u00a0<br/>\n<br/>\nOf course you could download solo WoG, open it with the toolset and check item blueprints and scripts. You also could check 2da's with a 2da editor.<br/>\nJust that this... way too much searching. For a module that size and with so many haks it also takes ages to check anything. Toolset might crash or freeze frequently, even on a fast computer.<br/>\n<br/>\nThat, and we don't know what has been changed since solo WoG was published.</div></blockquote>\nThanks, FG. I won't do it because it's too much trouble, and WoG has a loot system that has different tiers of items, so it's kind of crazy. Something like this:<br/>\n<br/>\n- Green (Enchanted is the name, I think)<br/>\n- Purple (Epic)<br/>\n- Teal (Dweomic)<br/>\n- Golden (Legendary)<br/>\n- Some other color I don't know because I never found any of these, but I know they exist (Titan)<br/>\n<br/>\nThe enhancement bonus doesn't change much, it's +5 or +6 tops, but the number of properties increases and they tend to be more powerful.<br/>\n<br/>\nAnyway, thanks for letting everyone know about this. I'm sure we'll find an OCD Wogger who can do this to figure out the UMD they need to equip such items and the Lore required to ID them.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:13 PM - Jan 08, 2021",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there anything on the WoG site about this? <span style=\"text-decoration:line-through\">Or you could try offering DM Wise a bribe for some insider info</span>... *<em>Bad Stag - stop it!</em>*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

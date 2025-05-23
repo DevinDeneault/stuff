@@ -1,0 +1,44 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "046",
+  "name": "Wands",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/wands-t2178752.html",
+  "author": "foojin",
+  "avatar": "10235214_1540245864.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "foojin",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:45 PM - Dec 03, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Curious how the crafting of wand works with regards to:<br/>\n-Dispel chance on buffs from wards?<br/>\n-Difference in wards made by a high level or lower level toon? <br/>\n-Duration based on wand user or creator?<br/>\n-I guess a cleric who just got level 4 spells can make a restoration wand if he has the craft wand feat?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "1:05 AM - Dec 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>foojin wrote:</strong><br/>\n-Dispel chance on buffs from wards?\n</div></blockquote>\nWand of Lesser Dispel: 1d20 +5 vs. 12 + the spell effect's caster level <br/>\nWand of Dispel Magic: 1d20 +10 vs. 12 + the spell effect's caster level<br/>\n<br/>\nIn other words, both versions of dispel wands use the maximum caster level possible for that spell regardless of the caster level of the crafter.<br/>\n<br/>\nAs a related crafted item, Wand of Lesser Spell Breach is awesome since it can be spammed to pull down mantles and just about all magical defenses. \n<blockquote><div>\n-Difference in wards made by a high level or lower level toon? \n</div></blockquote>\nAssuming you mean \"wands\" not \"wards\"... only difference is number of resultant charges which is a d20 + caster level (not character level! game description lies).  The caster level of the spell itself is static and never based on the caster level of the crafter.\n<blockquote><div>\n-Duration based on wand user or creator?\n</div></blockquote>\nDurations of spell based on a static resultant \"caster level\" unique for each spell being attempted.  Spells common to different classes use the same caster level regardless of the spell level in the applicable spellbook.  For example, a Wand of Haste would last 1 turn (10 rounds) for every creator whether it was made by a bard, sorc, wiz or cleric with Travel Domain.<br/>\n<br/>\nHowever, beware.  A Wand of Haste made by a cleric is a divine casting wand and can only be used by classes that are biased towards divine magic like druids, pallies, rangers, etc.  The same goes in reverse for wands made by arcanists... divine users are out of luck.   <br/>\n<br/>\nUMD users, though, hold the best of both worlds in their hands and can use either version as long as they have enough ranks to reach the estimated item cost.<br/>\n<br/>\nIncidentally, metamagic versions of spells may be used to create wands (if the slots are on level 4 or lower) but the resultant spell on the wand has none of the metamagic characteristics... it's just the vanilla spell.\n<blockquote><div>\n-I guess a cleric who just got level 4 spells can make a restoration wand if he has the craft wand feat?</div></blockquote>\nIn general, any caster can make a wand of any spell level 4 or lower, either regular or granted by domain, with very few exceptions.  Some with Range=personal do not work when crafting wands... some but not all with personal range.  See the wiki page on <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Craft_wand\" rel=\"noreferrer\" target=\"_blank\">the Craft Wand feat</a> for details.<br/>\n<br/>\nAs a side note about the practice of crafting wands, except for servers who have removed the charges random calculation restriction, it's usually best to wait as long as possible before starting to craft wands so that the cost is expedient.  It's not all that significant of a gold investment, not generally, but the XP cost can really mount up especially if you are crafting wands for your friends to use.  XP can only be used to craft magical items until the toon reaches the previous level-up point and then crafting will be impossible until more XP is gained.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "foojin",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:29 AM - Dec 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the detailed post.<br/>\n<br/>\nOne last question remains: with dispel i meant chance for enemies to dispel your buffs gained from wands.<br/>\n<br/>\nOh and what do you think of wands that give aid/bless, i think they last very short but i thought perhaps it's handy to gain that +2 ab just for clearing rooms you know will be hard.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:30 AM - Dec 04, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>foojin wrote:</strong><br/>\nOne last question remains: with dispel i meant chance for enemies to dispel your buffs gained from wands.\n</div></blockquote>\nIt's still the same on the other side of the coin.  The enemy dispel is based on their caster level with d20 +5, d20 +10, d20 +15 or d20 +40 depending on their version of dispel.<br/>\n<br/>\nLet's say we choose one of the highest possible cleric wand buffs to evaluate... something like Negative Energy Protection.  Caster level is 15 so the enemy will need to beat a DC of 27 and the duration is 15 turns. \n<blockquote><div>\nOh and what do you think of wands that give aid/bless, i think they last very short but i thought perhaps it's handy to gain that +2 ab just for clearing rooms you know will be hard.</div></blockquote>\nFunny you mention those two.  One of the high magic servers I used to play, prohibited those two spells from being crafted into wands, potions and scrolls.  Seems they felt that it would give non-clerics just too much power, buffing their party, summons, etc. with extra attack potential.   Go figure.  That's one of the nice features about wands, the fast casting and being able to ignore somatic and verbal components.  Can't be silenced.  2 turns is not all that short and can be quickly regained in a round anyway.  Go for it! <br/>\n<br/>\nThat's why UMD is so awesome in coop.  A diverse party of diviners and arcanists each with a bit of rogue, bard or assassin <br/>\ncan mix and match crafted items to gain uncommon proficiencies (like a holy avenger for all!) even in high magic environments.  Some DMs frown on the potential imbalance this sort of exchanging can cause, however, so you will be subject to the rules of the specific server.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "9:21 PM - Dec 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The dispel chance depends on the caster levels associated with the spell, of course. Spells scribed, brewed or wiggled respectively on scroll, potion or wand do carry their own caster level which is fixed and due to BW implementation. With TK's <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Scripts.Detail&amp;id=3312\" rel=\"noreferrer\" target=\"_blank\">a better craft magic</a> multiple caster levels are made available for some spells. I also suggets to get TK's <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Hakpaks.Detail&amp;id=7921\" rel=\"noreferrer\" target=\"_blank\">craft magic fixes</a> so that all spells become craftable (there are a few \"broken\" issues in BW's standard implementation).<br/>\n<br/>\nYou can check <a class=\"postlink\" href=\"http://worldofgreyhawk.10.forumer.com/viewtopic.php?t=1227\" rel=\"noreferrer\" target=\"_blank\">here</a> the different caster levels available for some spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "121",
+  "name": "The HOOD (Half-Orc of Doom): Barbarian 28/Bard 2/RDD 10",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-hood-half-orc-of-doom-barbarian-28-bard-2-rdd--t515449.html",
+  "author": "Kane",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 14,
+  "posts": [
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:06 PM - Sep 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello again, my good mates. This build was posted back in the old guild and has been slightly tweaked to be a little more effective. I was having trouble with low AC when I came up with it, so I traded Greatsword and some damage for Scimitar, which has a better threat range and works best in conjunction with DevCrit. This is a well-rounded half-orc. Rather than focusing on one single aspect of Barbarian might (Terrifying Rage, EDR and DevCrit) it has all three of them, but with lower DCs, still high enough to consistently kill those who are more vulnerable. With a versatile setting, this toon can strike the enemies where they are weak:<br/>\n<br/>\nHas KD but no IKD, so heavy-strength melee types are quite hard to KD, on the other hand casters will get KDed a lot.<br/>\n<br/>\nHas Terrifying Rage and 43 Ranks in intimidate but no ESF: Intimidate, so high-will save types will mostly resist your fury. However meleers, sneakers and other low-will creatures will almost certainly flee in horror.<br/>\n<br/>\nHas DevCrit but only 32 ending Strength. Again, those more resilient with high fort saves will mostly make their saves, but casters and other low fortitude types will consistently get devastated. <br/>\n<br/>\nAs long as you know which weapons to use in which situation, this guy has enough to be a serious threat to all enemy types. Without further delay, here is the build:<br/>\n<br/>\nBarbarian(28), Bard(2), Red Dragon Disciple(10), Half-Orc<br/>\n<br/>\nAlignment: Any non-lawful<br/>\n<br/>\nPlayability: 1-40 PvM, Untested PvP<br/>\n<br/>\nSTR: 18 (32)<br/>\nDEX: 12<br/>\nCON: 16 (22)<br/>\nWIS: 8<br/>\nINT: 12 (14)<br/>\nCHA: 6 (8)<br/>\n<br/>\nHalf-Orc: (Darkvision)<br/>\n01: Barbarian(1): Armor Proficiency Heavy<br/>\n02: Barbarian(2): {Uncanny Dodge I}<br/>\n03: Barbarian(3): Power Attack<br/>\n04: Barbarian(4): STR+1, (STR=19)<br/>\n05: Barbarian(5)<br/>\n06: Barbarian(6): Cleave<br/>\n07: Barbarian(7)<br/>\n08: Barbarian(8): STR+1, (STR=20)<br/>\n09: Barbarian(9): Improved Critical: Scimitar<br/>\n10: Barbarian(10)<br/>\n11: Barbarian(11)<br/>\n12: Barbarian(12): STR+1, Knockdown, (STR=21)<br/>\n13: Barbarian(13)<br/>\n14: Barbarian(14)<br/>\n15: Barbarian(15): Great Cleave<br/>\n16: Barbarian(16): STR+1, (STR=22)<br/>\n17: Barbarian(17)<br/>\n18: Barbarian(18): Weapon Focus: Scimitar<br/>\n19: Barbarian(19)<br/>\n20: Barbarian(20): STR+1, (STR=23)<br/>\n21: Bard(1): Overwhelming Critical: Scimitar<br/>\n22: Red Dragon Disciple(1)<br/>\n23: Red Dragon Disciple(2): (STR=25)<br/>\n24: Red Dragon Disciple(3): CON+1, Devastating Critical: Scimitar, (CON=17)<br/>\n25: Red Dragon Disciple(4): (STR=27)<br/>\n26: Red Dragon Disciple(5)<br/>\n27: Red Dragon Disciple(6): Epic Weapon Focus: Scimitar<br/>\n28: Red Dragon Disciple(7): CON+1, (CON=20)<br/>\n29: Red Dragon Disciple(8)<br/>\n30: Barbarian(21): Terrifying Rage<br/>\n31: Red Dragon Disciple(9): (INT=14)<br/>\n32: Red Dragon Disciple(10): CON+1, (STR=31), (CON=21), (CHA=8)<br/>\n33: Barbarian(22): Mighty Rage<br/>\n34: Barbarian(23)<br/>\n35: Barbarian(24): Epic Damage Reduction I<br/>\n36: Barbarian(25): STR+1, Epic Damage Reduction II, (STR=32)<br/>\n37: Barbarian(26)<br/>\n38: Barbarian(27)<br/>\n39: Bard(2): Epic Damage Reduction III<br/>\n40: Barbarian(28): CON+1, Epic Prowess, (CON=22)<br/>\n<br/>\nHitpoints: 672<br/>\nSkillpoints: 204<br/>\nSaving Throws (Fortitude/Will/Reflex): 28/15/17<br/>\nSaving Throw bonuses: Spells: +5, Traps: +5<br/>\nBAB: 30<br/>\nAB (max, naked): 45 (melee), 31 (ranged)<br/>\nAC (naked/mundane armor/shield only): 23/34<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nDiscipline 43(54), Intimidate 43(42), Lore 8(12), Perform 4(3), Spellcraft 25(27), Tumble 40(41), UMD 41(40)<br/>\n<br/>\nSo, what do you think?<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:12 PM - Sep 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Skill Chart:<br/>\n<br/>\n01: Discipline(4), Intimidate(4), Lore(4), Save(8), <br/>\n02: Discipline(1), Intimidate(1), Lore(1), Save(10), <br/>\n03: Discipline(1), Intimidate(1), Lore(1), Save(12), <br/>\n04: Discipline(1), Intimidate(1), Lore(1), Save(14), <br/>\n05: Discipline(1), Intimidate(1), Lore(1), Save(16), <br/>\n06: Discipline(1), Intimidate(1), Save(19), <br/>\n07: Discipline(1), Intimidate(1), Save(22), <br/>\n08: Discipline(1), Intimidate(1), Save(25), <br/>\n09: Discipline(1), Intimidate(1), Save(28), <br/>\n10: Discipline(1), Intimidate(1), Save(31), <br/>\n11: Discipline(1), Intimidate(1), Save(34), <br/>\n12: Discipline(1), Intimidate(1), Save(37), <br/>\n13: Discipline(1), Intimidate(1), Save(40), <br/>\n14: Discipline(1), Intimidate(1), Save(43), <br/>\n15: Discipline(1), Intimidate(1), Save(46), <br/>\n16: Discipline(1), Intimidate(1), Save(49), <br/>\n17: Discipline(1), Intimidate(1), Save(52), <br/>\n18: Discipline(1), Intimidate(1), Save(55), <br/>\n19: Discipline(1), Intimidate(1), Save(58), <br/>\n20: Discipline(1), Intimidate(1), Save(61), <br/>\n21: Discipline(1), Perform(4), Spellcraft(13), Tumble(24), UMD(24), <br/>\n22: Discipline(1), Save(2), <br/>\n23: Discipline(1), Save(4), <br/>\n24: Discipline(1), Save(6), <br/>\n25: Discipline(1), Save(8), <br/>\n26: Discipline(1), Save(10), <br/>\n27: Discipline(1), Save(12), <br/>\n28: Discipline(1), Save(14), <br/>\n29: Discipline(1), Save(16), <br/>\n30: Discipline(1), Intimidate(10), Save(10), <br/>\n31: Discipline(1), Save(12), <br/>\n32: Discipline(1), Save(15), <br/>\n33: Discipline(1), Intimidate(3), Save(17), <br/>\n34: Discipline(1), Intimidate(1), Save(21), <br/>\n35: Discipline(1), Intimidate(1), Save(25), <br/>\n36: Discipline(1), Intimidate(1), Save(29), <br/>\n37: Intimidate(1), Save(34), <br/>\n38: Intimidate(1), Save(39), <br/>\n39: Spellcraft(12), Tumble(16), UMD(17), <br/>\n40: Discipline(4), Intimidate(2),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "7:43 PM - Sep 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you \"stole\" 2 pts from Spellcraft and 1 from either Disc or Intimidate you could use the level 2 bard song for the extra will save w/o losing any spell saves (if you were planning on singing at all, naturally)  without clogging up your equipment with Perform- or CHA-boosting items.<br/>\n<br/>\nWhere you are planning to play this... is the fear immunity bug fixed for TR there?  Just curious.<br/>\n<br/>\nIt's an interesting relatively skillful build for a half-orc.  Any build with UMD interests me (as you should know by now).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "7:56 PM - Sep 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong>If you \"stole\" 2 pts from Spellcraft and 1 from either Disc or Intimidate you could use the level 2 bard song for the extra will save w/o losing any spell saves (if you were planning on singing at all, naturally)  without clogging up your equipment with Perform- or CHA-boosting items.<br/>\n<br/>\nWhere you are planning to play this... is the fear immunity bug fixed for TR there?  Just curious.<br/>\n<br/>\nIt's an interesting relatively skillful build for a half-orc.  Any build with UMD interests me (as you should know by now). </div></blockquote>\n\nI didn't even know about any bugs with fear immunity, what is it? I'm currently playing him in WoG, he's lvl 18 and doing incredibly well so far, even better than expected. <br/>\n<br/>\nI could steal the 2 points from spellcraft no problem, but the other point needed is what bugs me, cuz the other skills are more important than +1 to will. I don't worry much about will save TBH, as I use Clarity scrolls and potions from early levels (potions and after taking the first bard, scrolls too). He has low Will and +1 for 10 rounds won't make him succeed at a save he'd fail often enough to be worth reducing discipline. I did consider this for a while, even dropping spellcraft and using an Intelligence Ioun Stone as this guy can cap STR and CON without gear, before deciding to keep it as is. I don't plan to clog up my inventory with any CHA or Perform items, I plan to remain without the +1 to WIll and use immunities <br/>\n<br/>\nAnd yes, I know how you work, you helpless UMD freak. UMD is to you what Clerics are to avado <br/>\n<br/>\nGlad you like it. The main problem you suffer from is the lack of UMD for the first 20 levels, but I honestly thought I would have a bigger problem than I am actually having. Perhaps I underestimated the effectiveness of an 18 starting STR half-orc barbarian. <br/>\n<br/>\nJust in case anyone is wondering, Bard cannot be delayed to 23 properly for a better skill dump without resulting in the delay of DevCrit to 27. IMO nothing is worth delaying DC.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "11:28 PM - Sep 10, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\nI didn't even know about any bugs with fear immunity, what is it? </div></blockquote>\nIf you try to use Terrifying Rage against a character with Immunity to Fear, it skips the Will check vs. fear completely... essentially an automatic success to the rager.  But perhaps WoG was smart enough to catch this. I understand they have scrubbed many of the bugs that had prevailed post-v1.69.  If not... won't those seeking security under their fear immunity be surprised? <br/>\n<br/>\nNow what would be really interesting is if two terrifying ragers both with fear immunity squared off to see who was the fastest rager.  Be sure to tell me me how it worked out, eh?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:15 AM - Sep 11, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong><br/>\nNow what would be really interesting is if two terrifying ragers both with fear immunity squared off to see who was the fastest rager.  Be sure to tell me me how it worked out, eh?</div></blockquote>\nThat would be interesting!  And while they were singing to each other, showing their manliHOOD, the cute little cleric rains down the heavens kicking some HOOD-ass... does that mean the cute little cleric is a HOODKILLA?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:55 PM - Oct 18, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey, all!<br/>\n<br/>\nWith all the Barb / Bard / RDD builds that Tyr has begun posting, I had another fresh look at this guy and found something that could improve him a bit. Since you already have Devcrit, albeit at a not-so-high DC, Thundering Rage is a questionable investment, to say the least. So I decided to get Epic Prowess instead, gaining 1 AB effectively at the cost of some critical hit damage when raging. The OP has been edited to include that option.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TyrTemplar",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:20 PM - Oct 19, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nicely done, Max. <br/>\n<br/>\nGood call on the EP vs. Thundering: a nice wholesome AB 45, makes for a good warrior. Raging barbarians are very cool, and your Dev.Crit DC (which rage brings to cap) is quite good in a low-to-mid magic setting, where uber fort save gear isn't exactly laying around for your enemies (no such thing as too much saves, I always say). Some seem to forget your standard \"GI Jane/Joe Average\" melee FTR has a STR 30, typically coming in AB 44-5 (45 is considered good melee AB around here for a straight-up melee build, and ours are high standards around here. I am personally addicted to AB/damage, like it a lot. You hit, you damage. It's quite simple, really. And at 45 (+6 Raging: 51) that is good. <br/>\n<br/>\nWhen it comes to dev.crit--If take the dev.crit path on a non-RDD/melee build, a DC 42 / Bio cap 48 is really good. Hood is 1-off from that by my calculations (i.e., 10+ 1/2 char.level + STR mod: DC 41), but you rage it up +6 to DC 47 and need no equipment to do that. (Heh, care to check some Fort saves vs. a DC like that around here? Not so bad afterall, eh? <br/>\n<br/>\nOK, not uber PG/Drake DC (pushing the 50+ cap), but then neither are the DCs of GI Jane/Joe the \"good\" melee warrior either. Perspective, perspective. Oh, and they don't have the Hps, nor can they self-buff ability stats either ... <br/>\n<br/>\nDev. Crit aside: What I love about Drake on barbarians --and based a whole series around back in the old ECB -- is that RDD gives you the STR as well as a nice boost to the AC which allows you to focus on other Barbarian things, like the CON for the Rage duration and EDR etc., so many nice synergies, and get to do so without having to give up Strength (i.e. AB/damage). Not to mention that INT makes for a smart looking and smart Half-Orc, too. Yeah, Raging RDD/Barbarians are not only cool, but rather effective, too. <br/>\n<br/>\nIn terms of IKD, would be nice but in terms of PvM/PvE only really need it for downing \"huge\" things like dragons, etc. Since you're going Sword-and-Big Board and have soak, could consider dropping the heavy armor prof. for it and wear chain or breastplate instead. (And yes, I know I said Big Barbarians carry the Big Axe or Big Knife always, but in this case, in light of the crit factor, makes sense Hood's going with the scimmy ... and if someone should laugh at a small knife of a big barbarian, well, careful: just might enrage Hood and then you'll be sorry ... heh, heh). <br/>\n<br/>\nMy Dragon Blades would be proud to stand beside and fight along-side Hood. Nicely done.<br/>\n<br/>\nRage, slash, Crit ON! ~ Tyr<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:18 PM - Oct 25, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Great build where things really come together nicely   <br/>\n<br/>\nIs there a way to get ESF Intimidate for the + 10 boost to the Terrifying rage DC?<br/>\nWill it be worth it to drop Mighty rage?<br/>\nWhat are your thoughts on this?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:07 PM - Oct 25, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Mick!<br/>\n<br/>\nIf you can cap the stats with items, then it might be, but the thing about Mighty Rage is that it gives you 3 extra and more powerful rages a day, as you only have 7 regular ones. I tend to use up almost if not all my rages before resting, so I particularly wouldn't bother. Also where I play, pretty much everyone but the very strong-willed bosses fail the saves against TR, and MR and EDR share a common requirement, so it's almost a no-brainer. That said, if you play somewhere where that ESF:Intimidate makes a difference and Mighty Rage doesn't, then I don't see why not.<br/>\n<br/>\nI was considering yet another tweak to this build. I haven't decided on anything, and it may not be worth it in some places, but I was thinking of dropping 4 DEX for 2 INT and adding Taunt to the mix, but then I would lose a bit of AC which is not exactly top-notch. Still, let it be listed as a viable alternative.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "blackfeltfedora",
+      "avatar": "10759277_1587126532.jpg",
+      "timestamp": "2:30 PM - Apr 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">9 years later: I'm playing this build right now and enjoying it. I took Barb at level 27 to get Terrifying Rage earlier.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:11 PM - Apr 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Delighted that you are! That's quality builds for you: never out of style or endurance. Just don't tell Max I said so about one of his, eh? D'oh!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Concavenator",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:36 PM - Apr 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">why pick\u00a0Scimitar over 2 handed weapons? does shield give a lot of ac?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:53 PM - Apr 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are two reasons to pick scimitar over two handed weapons. The first you touched upon, a shield will give 3 ac plus its enchantment. On many player worlds this will give 8 ac over two-handed wielders. Plus any specials that the shield has. <br/>\n<br/>\nPrimarily I suspect the build chooses the scimitar, because the build goes for devastating critical, which depends upon the threat range of the weapon. The scimitar shares the largest threat range in the game. Thus it would threaten devastating critical more, and insta kill more enemies.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "9:02 PM - Aug 18, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote: <a data-post-id=\"20538\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20538&amp;sid=1f7fe8f4a75ba41837c533e7871eb399#p20538\">\u2191</a><div class=\"responsive-hide\">Apr 26, 2020</div></cite>There are two reasons to pick scimitar over two handed weapons. The first you touched upon, a shield will give 3 ac plus its enchantment. On many player worlds this will give 8 ac over two-handed wielders. Plus any specials that the shield has. <br/>\n<br/>\nPrimarily I suspect the build chooses the scimitar, because the build goes for devastating critical, which depends upon the threat range of the weapon. The scimitar shares the largest threat range in the game. Thus it would threaten devastating critical more, and insta kill more enemies.</div></blockquote>\nWhat he said LOL<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

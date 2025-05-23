@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "005",
+  "name": "There is a new setting in the rules.2da to put a time limit on HiPS",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/there-is-a-new-setting-in-the-rules-2da-to-put-a-t-t2356317.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:16 PM - Mar 07, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Heads up, folks!<br/>\n<br/>\nThere is now an official entry in the rules.2da that causes HiPS to have a cooldown when activated.\u00a0 One can set the cooldown time limit.<br/>\n<br/>\nSo just a heads up, who knows what Mod makers might implement.<br/>\n<br/>\nIt is now active on WoG.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ant_",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:29 PM - Mar 08, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wasnt it on 6sec CD for quite a while now on WOG?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:19 PM - Mar 08, 2025",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it was done by TheKrit way back when.<br/>\n<br/>\nBut this is now a setting directly in the rules.2da that can be accessed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

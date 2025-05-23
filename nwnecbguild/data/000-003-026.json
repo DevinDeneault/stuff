@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "026",
+  "name": "Paladin/Fighter/PDK Arelith Build?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/paladin-fighter-pdk-arelith-build-t2354775.html",
+  "author": "Kazerou",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Kazerou",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:53 PM - Nov 17, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Anyone have one? or anything with paladin/fighter at least? after mainly melee power using either sword and shield or a greatsword.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:12 PM - Nov 17, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How is this for an interesting variation on a Paladin, a Bard 20 / Fighter 4 / Paladin 6 (in the spoiler)?\n<details><summary>Spoiler</summary>\nArelith Paladin Bard (Bard 20 / Fighter 4 / Paladin 6)\nPlayable 1 - 30\nOnly legal on Arelith, which allows Bards to be Lawful. Uses gifts for +2 STR and +2 CHA.\nAbilities:\nDEX: 8\nWIS: 8\nCHA: 18 (20)\nLeveling Guide:\n01: Bard(1): Power Attack, Cleave\n03: Bard(3): Extend Spell\n05: Fighter(2): Blind Fight\n07: Bard(4)\n09: Paladin(2): Improved Critical, {Smite Evil}\n11: Bard(5):\n13: Paladin(4):\n15: Paladin(5): Divine Might\n17: Bard(9)\n19: Bard(10)\n21: Bard(12): Epic Weapon Focus\n23: Bard(14)\n25: Bard(15)\n27: Bard(17): Great Charisma I, (CHA=19)\n29: Bard(19)\n\nHitpoints: 250\nSaving Throws (Fortitude/Will/Reflex): 22/19/19\nBAB: 22\nAC (naked/mundane armor/shield only): 15/26\nAlignment Changes: 8 (none on Arelith)\nSkills:\n\n\n02: Concentration(1), Discipline(1), Listen(1), Perform(1), Spellcraft(1), Tumble(1), UMD(1)\n04: Concentration(1), Discipline(1), Save(3)\n06: Discipline(1), Save(10)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(12)\n12: Discipline(1), Listen(1), Perform(1), Tumble(4)\n14: Discipline(1), Listen(2), Perform(2), UMD(5)\n16: Discipline(1), Listen(2), Perform(2), Spellcraft(5), Tumble(1)\n18: Discipline(1), Save(4)\n20: Discipline(1), Listen(1), Perform(1), Spellcraft(4)\n22: Discipline(1), Listen(1), Perform(1), Tumble(4)\n24: Discipline(1), Save(4)\n26: Concentration(3), Discipline(1), Listen(1), Perform(1), Tumble(1)\n28: Concentration(4), Discipline(1), Listen(1), Perform(1)\n30: Concentration(1), Discipline(1), Listen(1), Spellcraft(4)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kazerou",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:28 AM - Nov 18, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">that looks pretty fun to be honest, thanks. hopefully I can learn how to do some decent builds here :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

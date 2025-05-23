@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "895",
+  "name": "Kind of Assassin build request.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/kind-of-assassin-build-request-t2355010.html",
+  "author": "Ketsu",
+  "avatar": "10759038_1548721289.jpg",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "1:52 AM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello there! I'm very new in character building and this guild is best place to find advices in this question. I want to make assassin with my lovest weapon scythe so it should be STR-based build. Also, he gonna HiPS every fight exclude true seers, I know the biggest weak this type of builds (AC of course). <br/>\nOther options:<br/>\n1) PvM 1-40. <br/>\n2) Reach the HiPS as early as possible.<br/>\n3) Human or Elf (maybe halfelf). <br/>\n4) Mid-High magic environments. <br/>\n5) High death attack DC. <br/>\n6) No need spells, I can use scrolls and wands. <br/>\n<br/>\nSo I'm opened for every ideas...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:21 AM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Ketsu,<br/>\nTake a look at this, you can change the TWF feats to get Exotic Proficiency easily (there are plenty of them).<br/>\n<br/>\nAssassin King =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build212244.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 12244.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "3:00 AM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's very close to my thoughts. Actually, my character won't to wear any armor in roleplay. He just a shadow assassin with the magic dire scythe, I'm not sure how to realize that in nwn. If it not possible i would try Assassin King, he looks badass<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:59 AM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can \"craft\" your armour to look like you don't wear anything heavier than leather, for sure.<br/>\nMany PW's also support advanced crafting options with pieces other than the default ones.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:12 PM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you can reach dex 18 with buffs or items: Then your AC with a chain shirt or scale mail will be only 1 down compared with full plate. What you gain is a reduction in armor check penalty from -8 with full plate to -2 with chain shirt or scale mail, equal to a +6 to stealth skills. You also get a bonus to stealth from the extra dex you have added.<br/>\n<br/>\nIf you only change the \"robe\" of your armor, you don't need any crafting skills at all, and it's free.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "2:59 PM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for reply, guys. I found out another sad thing, assassin king have not any pre-epic stealth (penalties from plate) except invis and darkness which mean toe to toe playstyle \u00a0until lvl 22. It's not crucial but sneaking is more enjoyable. I think about ranger instead of fighter but there is less amount of feats i don't know. If you tell me to keep standing this fighter way i will do<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:35 PM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Change the feats in the following way:<br/>\n<span style=\"text-decoration:underline\">Level Guide</span><br/>\n1 Fighter1, Dodge, Mobility, <em><strong>Exotic weapon Proficiency</strong></em><br/>\n2 Fighter2, Knockdown<br/>\n3 Fighter3, Weapon Focus: <em><strong>Scythe</strong></em><br/>\n4 Fighter4, WS: <em><strong>Scythe</strong></em>, Str17<br/>\n5 Fighter5<br/>\n6 Fighter6,\u00a0<em><strong>Stealthy</strong></em>,<em> <strong>Improved Knockdown</strong></em><br/>\n7 Fighter7<br/>\n8 Fighter8, <em><strong>Improved Critical: Scythe</strong></em>, Str18<br/>\n9 Fighter9, <em><strong>Skill Focus: Hide</strong></em><br/>\n10 Fighter10, <em><strong>Blind-Fighting</strong></em><br/>\n11 Fighter11<br/>\n12 Fighter12, <em><strong>Skill Focus: Move silently</strong></em>, <strong><em>Expertise</em></strong>, Str19<br/>\n13 Fighter13, (crossclass Hide/Move Silently 8 )<br/>\n14 Assassin1<br/>\n15 Assassin2, <em><strong>Toughness</strong></em>, (Ghostly Visage)<br/>\n...<br/>\nAt level 14, without buffs whatsoever, you'll have 22(24) ranks in both Move Silently &amp; Hide. <br/>\nIf we take the worst case scenario &amp; say you'll stay in full plate that is modified to (16) Stealth which isn't exactly bad for that level.<br/>\nAt level twenty comes Invisibility &amp; at level twenty-one here comes HiPS as well, following with Improved Invisibility at level twenty-three.<br/>\nUntil level fourteen you can \"mimic\" the Assassin's play-style with potions of Invicibility, suddenly appearing from nowhere &amp; then executing an Alpha-strike with IKD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "3:41 PM - Jan 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Woah this guide is very helpful, thank you Valerfor<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

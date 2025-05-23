@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "056",
+  "name": "Godly Archer (Bard 2 / Paladin 9 / Arcane Archer 29)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/godly-archer-bard-2-paladin-9-arcane-archer-29-t2356029.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "11:25 AM - Dec 19, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Original build can be found here: <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build233821.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 33821.html</a><br/>\n\u00a0<br/>\nThis is my version, adapted to use in a vanilla environment where enemy PCs have access to the most powerful equipment, with all possible toolset item properties. They can be equally godly and immune to everything except this archer\u2019s arrows that are infused with divine damage.<br/>\n\u00a0<br/>\nB2 P9 AA29<br/>\nElf<br/>\nSTR 14<br/>\nDEX 18 (20)<br/>\nCON 8<br/>\nWIS 8<br/>\nINT 10<br/>\nCHA 16 (32)<br/>\n\u00a0<br/>\nHP: 334<br/>\nSaving Throws (Fort/Will/Ref): 29/32/38<br/>\nBAB: 29<br/>\nAB (max, naked): 32 (melee), 52 (mundane bow)<br/>\nAC (naked): 25<br/>\n\u00a0<br/>\nSkillpoints: 193<br/>\nConcentration \u00a043(42), Discipline 43(45), Heal 24(23), Open Lock 1(6), Pick Pocket 1(6), Tumble 40(45), UMD 1(12)<br/>\n\u00a0<br/>\n<br/>\n1 B1: Point Blank Shot<br/>\n2 P1<br/>\n3 P2: Power Attack<br/>\n4 P3: CHA +1(17)<br/>\n5 P4<br/>\n6 P5: Divine Might<br/>\n7 P6<br/>\n8 P7: CHA +1(18)<br/>\n9 P8: WF: Longbow<br/>\n10 AA1<br/>\n11 AA2<br/>\n12 AA3: Blind Fight, CHA +1(19)<br/>\n13 AA4<br/>\n14 AA5<br/>\n15 AA6: Called Shot<br/>\n16 AA7: CHA +1(20)<br/>\n17 AA8<br/>\n18 AA9: Toughness<br/>\n19 AA10<br/>\n20 P9: CHA +1(21)<br/>\n21 AA11: Armor Skin<br/>\n22 AA12<br/>\n23 AA13<br/>\n24 AA14: EWF: Longbow, GR CHA I, CHA +1(23)<br/>\n25 AA15<br/>\n26 AA16: <br/>\n27 AA17: GR CHA II(24)<br/>\n28 AA18: Epic Prowess, CHA +1(25)<br/>\n29 AA19<br/>\n30 AA20: GR CHA II(26)<br/>\n31 AA21<br/>\n32 AA22: GR DEX I(19), CHA +1(27)<br/>\n33 AA23: GR CHA III(28)<br/>\n34 AA24: <br/>\n35 AA25<br/>\n36 AA26: GR DEX II(20), GR CHA IV, CHA +1(30)<br/>\n37 AA27<br/>\n38 AA28: <br/>\n39 AA29: GR CHA V(31)<br/>\n40 B2: CHA +1(32)<br/>\n<br/>\n\u00a0<br/>\n<strong>Differences to the original build:</strong><br/>\n\u00a0<br/>\n1. Bard 1 vs Bard 2 pre-epic:<br/>\nOne has to choose between additional 4 HP or 2 skill points. No difference in base saves. Bard spells are almost useless in an environment teeming with gods.<br/>\n\u00a0<br/>\n2. Feat selection:<br/>\nExtra Turning and Rapid Shot are excluded from selection because one can get it from items. Improved Critical is not important if one expects opponents to be immune to critical hits.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:05 PM - Dec 19, 2022",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Darktooth. Just a couple of things to bear in mind for others wanting to play this build.<br/>\n<br/>\nThe build attracts a 20% xp penalty from level 4 until level 40. This may not be important in PWs, but could well be in module play. It's also, technically, an illegal build - alignment constraints - which may make it unplayable in certain PWs and modules.<br/>\n<br/>\nJust for compare and contrast purposes, have you seen Mick Dagger's <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a>? It uses Wizard rather than Bard, but otherwise is similar.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "216",
+  "name": "Damage - Resistance & Soak",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-resistance-soak-t2354613.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:25 PM - Oct 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Only me with another question.<br/>\n<br/>\n I understand DR in essence, I hope, but remain unclear how things like Soak Damage impact upon it. For example, I'm currently testing a build who's presently wearing armour that soaks 5 bludgeoning damage, and has a shield that gives 5/+2 DR. I appreciate that the one soaks the first 5 points of all bludgeoning damage, while the other resists the first 5 points of damage from up to +2 weapons, but does the one cancel out the other, or do they stack? And what's applied first - Resistance or Soak? I looked on the wiki, and felt no better I'm afraid.<br/>\n<br/>\n It's one of those things that's bugged me over time, but I've only just got round to asking for knowledge - soz!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:45 PM - Oct 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found the answer on this page: <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Damage_reduction\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Damage_reduction</a> and they explain it better than I would.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:58 PM - Oct 11, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Brilliant, Empyre - thanks. Don't know how that page skipped me by - I did look, I promise! It also helped with my misapprehension that (eg) DR 20/+3 included +3 weapons, whereas it's actually up to but not including +3.<br/>\n<br/>\n Feeling much better now, thanks for digging up the link.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

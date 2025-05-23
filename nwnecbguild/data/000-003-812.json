@@ -1,0 +1,104 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "812",
+  "name": "Request:  level 40 Cleric/Weapon Master/Tumble Class",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-level-40-cleric-weapon-master-tumble-class-t2355168.html",
+  "author": "emptybody",
+  "avatar": "10759144_1568841112.jpg",
+  "replies": 14,
+  "posts": [
+    {
+      "author": "emptybody",
+      "avatar": "10759144_1568841112.jpg",
+      "timestamp": "11:18 PM - Sep 18, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am looking for a level 40 Cleric/Weapon Master/Tumble Class build.\u00a0 The server uses standard rules except Dev Crit has been modified to basically work like Knockdown (so it is optional).\u00a0 I would prefer the build to prioritize AB over cleric levels.\u00a0 8th level spells is great.\u00a0 9th is optional.\u00a0 <br/>\n<br/>\nI tried searching but struggled to find or build something with solid AB (like say 40 as a base).<br/>\n<br/>\nIf anyone has a build suggestion, I would love to here about it.<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:33 PM - Sep 18, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>emptybody wrote:</cite>I am looking for a level 40 Cleric/Weapon Master/Tumble Class build.\u00a0 The server uses standard rules except Dev Crit has been modified to basically work like Knockdown (so it is optional).\u00a0 I would prefer the build to prioritize AB over cleric levels.\u00a0 8th level spells is great.\u00a0 9th is optional.\u00a0 <br/>\n<br/>\nI tried searching but struggled to find or build something with solid AB (like say 40 as a base).<br/>\n<br/>\nIf anyone has a build suggestion, I would love to here about it.<br/>\n<br/>\nThanks!</div></blockquote>\nHello, and welcome to the guild emptybody!<br/>\n<br/>\nWould this one work for you?\u00a0 \n<details><summary>Spoiler</summary>Cleric(15), Monk(3), Weapon Master(22), Human\n\nDEX: 13\nWIS: 14 (18)\nCHA: 8\n01: Cleric(1): Dodge, Expertise, Domain Travel, Domain Trickery\n03: Cleric(3): Weapon Focus: Morning Star\n05: Cleric(5)\n07: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n09: Cleric(8): Spring Attack\n11: Cleric(10)\n13: Weapon Master(1): Weapon of Choice: Morning Star\n15: Cleric(13): Extend Spell\n17: Cleric(15)\n19: Weapon Master(3)\n21: Weapon Master(5): Great Strength I, (STR=17)\n23: Weapon Master(6)\n25: Weapon Master(8)\n27: Weapon Master(10): Great Strength III, (STR=20)\n29: Weapon Master(12)\n31: Weapon Master(14)\n33: Weapon Master(16): Great Strength V, Armor Skin, (STR=24)\n35: Weapon Master(18)\n37: Monk(3)\n39: Weapon Master(21): Great Strength VII, (STR=27)\n\nSaving Throws (Fortitude/Will/Reflex): 24/26/22\nBAB: 25\nAC (naked/mundane armor/shield only): 25/32\nAlignment Changes: 0\nSkillpoints: 178\n\n01: Heal(2), Spellcraft(4), Save(10), \n03: Spellcraft(1), Save(16), \n05: Spellcraft(1), Save(22), \n07: Discipline(10), Listen(10), Tumble(10), Save(1), \n09: Spellcraft(1), Save(6), \n11: Spellcraft(1), Save(12), \n13: Discipline(6), Listen(6), \n15: Spellcraft(1), Save(5), \n17: Spellcraft(1), Save(11), \n19: Discipline(1), Listen(1), Save(7), \n21: Discipline(1), Listen(1), Save(11), \n23: Discipline(1), Heal(2), Listen(1), \n25: Discipline(1), Heal(2), Listen(1), \n27: Discipline(1), Heal(2), Listen(1), \n29: Discipline(1), Heal(2), Listen(1), \n31: Discipline(1), Heal(1), Listen(1), Save(1), \n33: Discipline(1), Listen(1), Save(5), \n35: Discipline(1), Listen(1), Save(9), \n37: Discipline(1), Listen(1), Tumble(15), \n39: Discipline(1), Heal(2), Listen(1), \n</details>\n(The domains (and skills) are not set in stone)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "emptybody",
+      "avatar": "10759144_1568841112.jpg",
+      "timestamp": "11:43 PM - Sep 18, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, this looks like it would work out great.\u00a0 It looks like I can take WM to 8 pre-epic also for +1 ab for free right? Or will that mess something up?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:57 PM - Sep 18, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Emptybody, and welcome!<br/>\n<br/>\nThe main issue with this is going to be feat starvation. You need 6 feats to qualify for WM (Dodge, Mobility, Spring Attack, Whirlwind Attack, Expertise and a Weapon Focus in a melee weapon), which leaves you with 2 other pre-epic feats (assuming you're going Human - if you're not, it's 1). That means several things: i) Dev Crit really will be impossible unless you really gimp the build; ii) if you go for even a couple of Cleric feats, then you're stuffed for Imp Crit, Blind Fight and Knockdown; iii) the earliest you'd be able to take WM at all would be at level 13, so your AB isn't going to be exactly stellar; iv) adding a Tumble class will also knock it down further if you want to make use of it pre-epic; v) your choice of weapons will be pretty restricted. There are probably more, but I think you get the idea...<br/>\n<br/>\nI'm not saying it's impossible (well, it would be for me), because some of our great and good can work absolute miracles. I am suggesting you don't hold your breath, though.<br/>\n<br/>\n(You just watch, someone will pop up with 12 variations for you now, just to make me look like an idiot.)<br/>\n<br/>\nRegardless, happy to have you on board!<br/>\n<br/>\nEDIT: Inevitable ninja-ing from Mick to prove my point!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:17 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You only want 15 BAB pre epic so as to preserve the extra full AB attack from Divine Power.<br/>\n<br/>\nTaking any extra WM pre epic would stop that<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:23 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I refer you to my aforementioned ineptitude...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:40 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I had a play round and Mick's build above is probably as good as you can get, unless you are willing to drop the tumble class for fighter.<br/>\n<br/>\nAs Stag mentioned above you are still missing Blind Fight and Knockdown which are essential for Melee toons, and I don't see the point in investing In WM if you are not going to take Improved Crit.<br/>\n<br/>\nYou could drop 2 Gr Str's for 2 of those at the cost of 1 AB but as you were looking for AB it's kind of counter intuitive.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "emptybody",
+      "avatar": "10759144_1568841112.jpg",
+      "timestamp": "1:52 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I played around with Mick's build and I think this might work:<br/>\n<br/>\nCleric (16), Mon (2), Weapon Master(22), Human\u00a0\u00a0<br/>\nSTR: 16 (26), DEX: 13, CON: 10, WIS: 15 (18), INT: 13, CHA: 8<br/>\n<br/>\n1 (C 1): Dodge, Mobility<br/>\n2 (C 2):<br/>\n3 (C 3): Exotic Weapons<br/>\n4 (C 4): Wis +1<br/>\n5 (C 5):<br/>\n6 (C 6): WF (Dwarven Waraxe)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<br/>\n7 (C 7):<br/>\n8 (C 8): Wis +1<br/>\n9 (C 9): Expertise\u00a0\u00a0<br/>\n10 (C 10):\u00a0<br/>\n11 (C 11):<br/>\n12 (C 12): Wis +1, Spring Attack\u00a0\u00a0<br/>\n13 (C 13):\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<br/>\n14 (C 14):<br/>\n15 (C 15): Whirlwind Attack<br/>\n16 (W1): Str +1<br/>\n17 (W2):<br/>\n18 (W3): IC ()\u00a0<br/>\n19 (W4):<br/>\n20 (W5): Str +1<br/>\n21 (W6): Extend Spell\u00a0<br/>\n22 (W7):<br/>\n23 (M1):<br/>\n24 (W8): Str +1, Blindfight<br/>\n25 (W9):<br/>\n26 (W10):<br/>\n27 (W11): Knockdown<br/>\n28 (W12): Str +1 (20)<br/>\n29 (W13): EWF ()<br/>\n30 (W14): Improved Knockdown<br/>\n31 (W15):<br/>\n32 (W16): Str +1, Armor Skin\u00a0<br/>\n33 (W17): GStr 1<br/>\n34 (W18):<br/>\n35 (W19): Epic Powers<br/>\n36 (W20): Str +1, G Str 2<br/>\n37 (M2):<br/>\n38 (W21):<br/>\n39 (C16): GStr 3<br/>\n40 (W22): Str +1, Epic Toughness<br/>\n<br/>\nAB 16 (bab) + 10 (epic) +8 (str) + 3 (wf/ewf) + 5 (wm) + 1 (ep) = 43 AB<br/>\nSkills: Enough for Tumble &amp; Spellcraft: 40, Discipline &amp; Spot: 43, Intimidate 4<br/>\n<br/>\nit doesn't have the divine power trick, but it looks fun.\u00a0\u00a0 Anyone see an error?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:00 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The only thing I don't like is taking 4 pre epic feats in epic levels, although you don't have a lot of choice.<br/>\n<br/>\nAlso Improved Crit would be better than IKD<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:15 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You could stop at Cleric 12 and take 28 levels of WM. That would let you stop at Wis 16 and take Str 30. BAB would then be +27 and final AB +48. AC would drop to 28 and  cleric would lose a lot of it's buffing potential. If you min/max the stats, it is even possible to squeeze Str to 34 for even +2 more to AB.  But then there would be no point in taking cleric at all.<br/>\nThe way the build is now gives in ny opinion a good balance between the classes if it is cleric you want.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:33 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Couple of things...<br/>\n<br/>\n@ Kalistez. I believe Imp Crit is taken at level 18. But I agree with you.<br/>\n<br/>\n@ Mick, so Tumble would have to be cross-classed - wouldn't that give an AC of 24 in full plate and tower shield? Happy to be wrong...<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Scrub the comment to Mick - I forgot to include Monk WIS AC bonus<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:00 AM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>@ Kalistez. I believe Imp Crit is taken at level 18. But I agree with you.<br/>\n<br/>\n@ Mick, so Tumble would have to be cross-classed - wouldn't that give an AC of 24 in full plate and tower shield? Happy to be wrong...<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Scrub the comment to Mick - I forgot to include Monk WIS AC bonus</div></blockquote>\nSo it is, damn abbreviatians !<br/>\nAlso there is no monk WIS AC with armour and shield.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:56 PM - Sep 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't think one is going to get better than Mick's build with those classes.\u00a0<br/>\n<br/>\nIf you are ok with swapping cleric for paladin, then Max's Holy Weapon Master with Cheese may interest you. Base AB 44. (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-weapon-master-with-cheese-paladin-26-wm-13-mo-t515397.html\" rel=\"noreferrer\" target=\"_blank\">holy-weapon-master-with-cheese-paladin- ... 15397.html</a>)<br/>\n<br/>\nIf you are ok with swapping weapon master for red dragon disciple, then Mithdradates's Blood and Faith may interest you. Base AB 42. Uses the divine power 'trick' for an extra full BAB attack / round with DP. (<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build243768.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 43768.html</a>). I have been examining B&amp;F for possible modifications, and the AB could be increased to 43 at the cost of some features but not playability.<br/>\n<br/>\nIf you are ok with a cleric build with a great bard song, then Mick Daggers Spirit and Steel may interest you. Base AB 35, but Self buffed effective AB: +68/ +63/ +58/ +68/ +63 with curse song and taunt used to lower enemy AC <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/spirit-and-steel-cleric-24-bard-16-t2354305.html\" rel=\"noreferrer\" target=\"_blank\">spirit-and-steel-cleric-24-bard-16-t2354305.html</a><br/>\n<br/>\nAll three will have undispellable cleric / paladin buffs apart from Mord's and Breaches if this is important to you<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:35 AM - Sep 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Been a good, long time since I ran anything through combat-debugging, so bear with me.<br/>\nBut wasn't Divine Power implemented correctly after patch 1.69? So that it comes in last now? Unless I'm wrong it doesn't matter if you go pre-epic BAB 15, higher will be better now.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:17 AM - Sep 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Grimnir<br/>\n<br/>\nI read similar and I was curious.\u00a0<br/>\n<br/>\nI tested it in the Pretty Good Character Creator Module and when I reviewed the combat log the additional attack was at full BAB.<br/>\n<br/>\nSo it is still as previous.<br/>\n<br/>\nI have NWN: EE<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

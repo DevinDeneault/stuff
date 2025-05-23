@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "110",
+  "name": "Agent of Shadow",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/agent-of-shadow-t2354615.html",
+  "author": "KidMiracleman",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:07 PM - Oct 18, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What is the purpose of having CoT in this build?\u00a0 Concidering his cha is so low<br/>\n Agent of Shadow Halfling Monk 21 /Shadowdancer 5 /Champion of Torm 14.\u00a0 Would fighter be just as good??\u00a0<br/>\n Starting Attributes<br/>\n Str 10<br/>\n Dex 18<br/>\n Con 12<br/>\n Wis 14<br/>\n Int 14<br/>\n Cha 8\u00a0<br/>\n Playable 1-40 PvM/PvP<br/>\n Alignment: Any<br/>\n \u00a0Attribute BonusesLevels 4, 8, 12, 16, 20, 24, 28, 32, 36 and 40 go to dexterity\u00a0<br/>\n Leveling01: Monk(1) Dodge<br/>\n 02: Monk(2)<br/>\n 03: Monk(3) Weapon Finesse<br/>\n 04: Monk(4)<br/>\n 05: Monk(5)<br/>\n 06: Monk(6) Mobility<br/>\n 07: Monk(7)<br/>\n 08: Shadowdancer(1)<br/>\n 09: Monk(8) Weapon Focus (Kama)<br/>\n 10: Shadowdancer(2)<br/>\n 11: Champion of Torm(1)<br/>\n 12: Shadowdancer(3) Weapon Focus (Unarmed)<br/>\n 13: Champion of Torm(2) Blind Fight<br/>\n 14: Shadowdancer(4)<br/>\n 15: Champion of Torm(3) Improved Critical (Kama)<br/>\n 16: Monk(9)<br/>\n 17: Champion of Torm(4) Improved Critical (Unarmed)<br/>\n 18: Monk(10) Expertise19: Monk(11)<br/>\n 20: Monk(12)<br/>\n 21: Monk(13) Great Dexterity I<br/>\n 22: Monk(14)<br/>\n 23: Shadowdancer(5)<br/>\n 24: Champion of Torm(5) Epic Dodge<br/>\n 25: Champion of Torm(6) Armor Skin<br/>\n 26: Champion of Torm(7)<br/>\n 27: Monk(15) Great Dexterity II<br/>\n 28: Champion of Torm(8) DEX+1, Epic Weapon Focus (Unarmed)<br/>\n 29: Champion of Torm(9)<br/>\n 30: Champion of Torm(10) Great Dexterity III, Epic Prowess<br/>\n 31: Champion of Torm(11)<br/>\n 32: Monk(16)<br/>\n 33: Champion of Torm(12) Great Dexterity IV<br/>\n 34: Champion of Torm(13)<br/>\n 35: Champion of Torm(14) Epic Weapon Focus (Kama)<br/>\n 36: Monk(17) Great Dexterity V<br/>\n 37: Monk(18)<br/>\n 38: Monk(19)<br/>\n 39: Monk(20) Great Dexterity VI<br/>\n 40: Monk(21)\u00a0<br/>\n Final Attributes:<br/>\n Str 10<br/>\n Dex 34<br/>\n Con 12<br/>\n Wis 14<br/>\n Int 14<br/>\n Cha 8\u00a0<br/>\n Final Saves (Vs. Spells)<br/>\n Fortitude 32 (36)<br/>\n Reflexes 44 (48)<br/>\n Will 30 (34)\u00a0<br/>\n AB and Damage<br/>\n (No buffs, normal kama)<br/>\n 43/40/37/34/31/28, 1d6 (19-20 x2)<br/>\n (No buffs, naked)<br/>\n 43/40/37/34/31/28, 1d12 (19-20 x2)\u00a0<br/>\n (+12 to Strength, +12 to Dexterity, +5 keen kama, haste)<br/>\n 54/51/48/45/42/39 6+1d6 (18-20 x2)<br/>\n (+12 to Strength, +12 to Dexterity, +5 gloves, haste)<br/>\n 54/51/48/45/42/39 6+1d12 (19-20 x2)\u00a0<br/>\n AC<br/>\n 39 (40) (naked)<br/>\n 75 (76) (+5 braces of armor, +5 Ring of Protection, +5 Amulet of Natural Armor, Haste, +5 Boots of the Sun Soul, +12 Dexterity, +12 Wisdom)\u00a0<br/>\n Hit Points 388 (Max Every Level)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "4:41 PM - Oct 18, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rule of thumb:\u00a0 Fighter for an extra feat or 2 plus EWS, CoT for saves (in this case, CoT 14 means +7 to universal saves).\u00a0 Also, CoT bonus offers Grt WIS so this could be built more defensively if needed.<br/>\n<br/>\n Divine Wrath is hardly a feat to build around in anything but a CHA-focused high-CoT build like a smiter or a spellsword synergy with a sorc or bard.\u00a0 A once-per-day advantage for a few rounds is good mainly for an encounter with a boss with lots of damage resistance but the duration will expire just about the time it seems to be doing some good.\u00a0<br/>\n<br/>\n Epic Dodge requires 30 allocated ranks in Tumble so the earliest it can be taken is Level 27.\u00a0 Your build needs some adjustment.<br/>\n<br/>\n A build like this usually focuses on DWing kamas because the APR can become so high (and especially since each kama can contain different OnHit properties in the same round) and the kamas can be keened either by item property or a friendly mage.\u00a0 But the bludgeoning option can come in handy so it's a trade-off.<br/>\n<br/>\n Is the bracers of armor the same one that hastes and caps DEX and STR?\u00a0 If not, you lose the +5 armor AC when you swap out for the uber gloves.\u00a0 But in Expertise mode, you'll get the AC back again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:47 PM - Oct 19, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">CoT also helps avoid a 20% XP penalty from lvl 11<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:25 AM - Oct 20, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If a Halfling dual-wields kamas, he will suffer -2 AB relative to a medium-sized player because the off-hand weapon is not one size smaller than the player, much like a Human dual-wielding longswords or another medium-sized weapon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

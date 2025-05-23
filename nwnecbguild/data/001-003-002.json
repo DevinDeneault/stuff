@@ -1,0 +1,68 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "Add ons",
+  "forum_id": "003",
+  "id": "002",
+  "name": "Craft Wand Improved - No Exp cost",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/craft-wand-improved-no-exp-cost-t2355111.html",
+  "author": "DoesntPlayAnymore",
+  "avatar": "10759108_1563558681.png",
+  "replies": 8,
+  "posts": [
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "10:15 PM - Jul 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">The original version (not by me, found here:\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/script/craft-wand-improved\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... d-improved</a>) made some cool changes to the Craft Wand feat.\n<blockquote><div>\"This script un-randomizes the number of charges and makes the wand cost a proportional fraction of the \"50 charge\" version.\u00a0 The number of charges is always 10 + Caster Level and the cost is (10 + Caster Level) / 50 times the normal cost.</div></blockquote>\nI made some changes to this:\n<ol>\n<li>Charges now rely on Character level instead of Caster level - much better for multiclassed Casters.</li>\n<li>No exp cost for Craft Wand, Brew Potion and Scribe Scroll.</li>\n<li>Gold cost at 110% for balance.</li>\n</ol>\n<strong>UPDATE V2.0, Jun 29 2019:</strong>\u00a0Variables can now be changed in iwd_conf.2da : The 10 base charges, whether to use Caster or Character level for charges, Gold Cost Ratio and XP Cost Ratio can all be edited to your liking.<br/>\n<br/>\nThat's it! All credit goes out to the original author - I just made these small tweaks. Enjoy crafting, brewing and scribing without fear of being underleveled in your single player modules!<br/>\n<br/>\nLink:\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/script/craft-wand-improved-no-exp-cost\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... o-exp-cost</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:31 AM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looks nice for single player modules where exp will be limited!<br/>\nThe exp cost was the main reason I never took these feats in single player modules<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "4:40 AM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, me too. I've never crafted a single wand in a serious play through before I found this script. Now, if only there was a (simple) way to reduce party exp penalty from associates!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:01 AM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">EXP cost makes no sense to me.\u00a0 Why would using your skills make you forget?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:39 PM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nEXP cost makes no sense to me.\u00a0 Why would using your skills make you forget?\n</div></blockquote>\nIt doesn't, from a real-world perspective.<br/>\n<br/>\nBut they had to use something as a counter-balance or else you would craft infinite wands, potions &amp; scrolls.<br/>\n<br/>\nBack in 1st &amp; 2nd edition, crafting GAVE you exp. instead, but you were pretty much at the mercy of the DM as far as ingredients go.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:52 PM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This override looks promising <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "7:05 PM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm neck deep in figuring out how to make a simple party xp penalty system so I can finally start using all my caster class features without crippling anxiety. In the meantime, if any of you guys have any suggestions to this override, please say so. Whether it be a .2da settings file to adjust things, console commands etc.\u00a0<br/>\n<br/>\nI'm just starting to learn NWScripting and it's... It's like investigating a murder through 15 year old forum posts, reading maybe-useful-scripts-but-who-really-knows and documentation for functions in unknown files with no way of easily finding what I'm looking for. But it's finally starting to make sense, somehow.<br/>\n<br/>\n<em class=\"mention\">@Valerfor</em>\u00a0I tried to balance things by increasing gold price by 10 percent. This override is meant for single player modules where being underleveled <strong>sucks </strong>(imo). If this isn't enough... I guess I should really add a way to more easily adjust the XP and Gold cost ratios.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:13 PM - Jul 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, it's totally fine with me, I just inserted a little bit of history in there for anyone interested.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DoesntPlayAnymore",
+      "avatar": "10759108_1563558681.png",
+      "timestamp": "11:31 PM - Jul 29, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@Valerfor I made the changes you deny you implied. Everything is now configurable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

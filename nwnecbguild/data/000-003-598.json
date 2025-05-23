@@ -1,0 +1,62 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "598",
+  "name": "Looking for tips to pick a build for swordflight replay",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-tips-to-pick-a-build-for-swordflight-r-t2355479.html",
+  "author": "delerion",
+  "avatar": "no_avatar.png",
+  "replies": 7,
+  "posts": [
+    {
+      "author": "delerion",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:22 PM - May 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings!<br/>\n<br/>\nI hope this is the right forum to post in, i am currently playing through swordflight with a evil arcane archer using the black arrow build, (thanks to EasternPromises)<br/>\n<br/>\nI am already planning to replay it this time as a good-aligned melee character, and as something non-elf, so as to see the campaign from a different perspective.<br/>\n<br/>\nHere is what i was thinking:<br/>\nA Dwarf Paladin, something that has some staying power in melee, maybe doable with a 'damage adept' style build using expertise and divine shield while dealing out damage with a scythe?<br/>\n<br/>\nI checked out some builds already but most of them are made with human race, i assume due to the high feat requirements of weapon-master, is this doable with a dwarf instead of human?<br/>\n<br/>\nAnother thing i worry about is my character having more levels in WM instead of paladin, locking me out of some class-specific content, to my understanding your highest level class is the one swordflight modules treats you as(though, if paladin and WM get access to the same 'fighter' style content then it doesn't matter)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:01 PM - May 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello and welcome, delerion!<br/>\n<br/>\nThis is indeed the right place for your query. Your basic problem with a Dwarf Paladin is the CHA penalty our bearded friends suffer from, so you run the risk of spreading your stats miserably thin if you want to make good use of Pally-specific attributes. Have you considered maybe a Dwarven Defender/ Fighter/ WM or a Fighter/ CoT/ WM? The first would be horribly feat starved - though not impossible, but the second should be worth a look I'd think.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "delerion",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:08 PM - May 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for your reply!<br/>\n<br/>\nYeah looks like i had a bit too many restrictions, i will have to decide between going human paladin or a dwarf melee character, perhaps i will miss on a paladin-specific quest but still playing as a good-aligned melee with no umd will be a big change of pace from my previous character.<br/>\n<br/>\nTo deal with crit immune enemies as a scythe-user i feel like having a character with divine might is very helpful, i will look into some human builds also.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:54 PM - May 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you're sure you want to go with a scythe and don't mind going with human, how about this one? It's one of Valerfor's, and is a Fighter 10/ Paladin 5/ WM 25. Have a look...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/harvester-of-souls-ftr-10-pal-5-wm-25-t2354285.html\" rel=\"noreferrer\" target=\"_blank\">Harvester of Souls</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:15 PM - May 27, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Greetings delerion!<br/>\nIt sounds like you are still deciding on what you would like to play.<br/>\nRE Paladins are a multiple-attribute dependent (MAD) class, every attribute seems to be useful.<br/>\nHuman is very helpful with the extra feat and extra 43 skill points, it allows investment in a skill such as Taunt for example.<br/>\nI also find Paladin and RDD a nice combination due to the multiple attribute boosts from RDD, I do not know Swordflight very well, however the readme on the vault seems to indicate Chapter Four gets to lvl 33.<br/>\nWeaponmaster and paladin is a tough combination unless you take fighter or perhaps CoT due to all the feat requirements of weapon master<br/>\n<br/>\nYou did mention divine damage, I did attempt a divine hammer draft using RDD which might be of interest, perhaps you could modify it to your requirements, I would probably take the Sorc/RDD stuff as soon as you hit Lvl 21 so you can experience the complete boost in stats by lvl 31, then get undispellability if there is a Swordflight Chapter Five.<br/>\n<details><summary>Spoiler</summary>Paladin(29), Sorcerer(1), Red Dragon Disciple(10), Human\nSTR: 15 (26)\nCON: 12 (14)\nINT: 14 (16)\n\n01: Paladin(1): Blind Fight, Power Attack\n03: Paladin(3): Extra Smiting\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Knockdown\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Weapon Focus: Warhammer\n17: Paladin(17)\n19: Paladin(19)\n21: Paladin(21): Great Charisma I, (CHA=17)\n23: Paladin(23): Epic Weapon Focus: Warhammer\n25: Sorcerer(1)\n27: Red Dragon Disciple(2): Great Charisma III, (STR=20), (CHA=20)\n29: Red Dragon Disciple(4): (STR=22)\n31: Red Dragon Disciple(5)\n33: Red Dragon Disciple(7): Great Charisma V, (CON=14), (CHA=24)\n35: Red Dragon Disciple(9): (INT=16)\n37: Paladin(26): Epic Prowess\n39: Paladin(28): Great Charisma VII, (CHA=29)\n\nSkillpoints: 220\nSaving Throw bonuses: Spells: +6\nAB (max, naked): 42 (melee), 30 (ranged)\nSpell Casting: Paladin(4),Sorcerer(1)\n\n\n01: Disable Trap(1), Discipline(4), Lore(4), Open Lock(1), Set Trap(1), Taunt(4), Save(2),\u00a0\n03: Discipline(1), Lore(1), Taunt(1), Save(6),\u00a0\n05: Discipline(1), Lore(1), Taunt(1), Save(10),\u00a0\n07: Discipline(1), Taunt(1), Tumble(5), Save(6),\u00a0\n09: Discipline(1), Taunt(1), Save(12),\u00a0\n11: Discipline(1), Taunt(1), Save(18),\u00a0\n13: Discipline(1), Taunt(1), Save(24),\u00a0\n15: Discipline(1), Taunt(1), Save(30),\u00a0\n17: Discipline(1), Taunt(1), Tumble(5), Save(26),\u00a0\n19: Discipline(1), Taunt(1), Save(32),\u00a0\n21: Discipline(1), Taunt(1), Save(38),\u00a0\n23: Discipline(1), Taunt(1), Save(44),\u00a0\n25: Spellcraft(9), Save(43),\u00a0\n27: Discipline(1), Spot(1), Tumble(5),\u00a0\n29: Discipline(1), Spellcraft(1), Spot(1), Save(2),\u00a0\n31: Discipline(1), Spellcraft(2), Spot(2),\u00a0\n33: Discipline(1), Spellcraft(3), Spot(1),\u00a0\n35: Discipline(1), Spellcraft(3), Spot(1),\u00a0\n37: Discipline(1), Taunt(5),\u00a0\n39: Discipline(1), Taunt(1), Save(6),\u00a0</details>\n<strong>edit: </strong>Ninja'ed by Stag this time! That Harvester of Souls looks pretty wicked with 48 AB (effective AB 54 with taunt/expertise combo), x5 crit modifier, improved threat range from WM if you want human, scythe, paladin and weaponmaster all in one go, no need to worry with spellcasting either! Maybe that will suit your needs better than my not fully playtested build draft\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "4:56 AM - May 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Delerion,<br/>\n<br/>\nI've been playing through Lord of Terror with a Fighter, DD, Cleric. I've been using Divine Power heavily but no Divine Might or Divine Shield due to the charisma issue. These guys could probably pick a lot of holes in it but it's been hacking and slashing through quite well.<br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:55 AM - May 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have not (yet) played Swordflight, but it has been my experience that NPCs will identify you as being whatever class you take at level 1.\u00a0 So, a Bard 8 / Fighter 22 / RDD 10 with Bard at level 1 will be a Bard as far as the NPCs are concerned, even though that is the class with the fewest levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "delerion",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:59 AM - May 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the help everyone!<br/>\n<br/>\nHarvester of souls build indeed seems to tick many of the boxes i was looking for, i believe i will give that one a try!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

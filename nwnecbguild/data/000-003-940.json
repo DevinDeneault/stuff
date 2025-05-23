@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "940",
+  "name": "OC Melee Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/oc-melee-build-t2354934.html",
+  "author": "Seikens",
+  "avatar": "no_avatar.png",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Seikens",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:48 PM - Aug 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi, I just bought NwN EE and it's been a long time since I played this game. I'm looking to start playing the originial campaign in HC rules (maybe very difficult, but I don't know how hard it is) and without any henchman, since I prefer playing solo. I want to play a melee character, I like charging in a pack of enemies and doing a lot of damages and tanking. I dont like to play paladin or dwarf, so I'm probably gonna be playing a barbarian, fighter or sword master. But if you have a better suggestion, I'm open to it. For weapons I like to play with a two-handed weapon, but I don't mind playing with a shield if it what I need to stay alive. If I remember, playing with weapon&amp;shield is a lot better in NwN, but I might be wrong.<br/>\n<br/>\nThank you in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:48 PM - Aug 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a pretty strong build that I played in the OC and then Mines of Twin Summits (MTS), which brings the rest of the way to level 40. If you do decide to also play MTS, you might be better off choosing longsword instead of scimitar.\n<details><summary>Spoiler</summary>\nSinging Swordsman 3 (Fighter 14 / Bard 10 / Weapon Master 16)\nPlayable 1 - 40\n\nSTR: 16 (32)\nCON: 14\nINT: 14\n\nHuman: (Quick to Master)\n02: Bard(1)\n04: Fighter(3): STR+1, (STR=17)\n06: Fighter(5): Blind Fight\n08: Fighter(6): STR+1, Spring Attack, (STR=18)\n10: Fighter(8): Whirlwind Attack\n12: Bard(3): STR+1, Knockdown, (STR=19)\n14: Weapon Master(3)\n16: Weapon Master(5): STR+1, (STR=20)\n18: Weapon Master(6): Great Cleave\n20: Fighter(9): STR+1, (STR=21)\n22: Bard(5)\n24: Bard(6): STR+1, Great Strength I, (STR=23)\n26: Fighter(13)\n28: Fighter(14): STR+1, Devastating Critical: Scimitar, (STR=25)\n30: Weapon Master(9): Great Strength III, (STR=26)\n32: Bard(8): STR+1, (STR=27)\n34: Weapon Master(12)\n36: Weapon Master(14): STR+1, Great Strength V, (STR=30)\n38: Weapon Master(15)\n40: Bard(10): STR+1, (STR=32)\nStats:\nSkillpoints: 235\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 47 (melee), 32 (ranged)\nSpell Casting: Bard(0)\n\nDiscipline 43(54), Intimidate 4(4), Listen 42(41), Lore 9(21), Perform 15(15), Spellcraft 43(45), Tumble 40(42), UMD 35(35)\n01: Discipline(4), Lore(4), Save(12)\n03: Discipline(1), Lore(2), Save(2)\n05: Discipline(1), Save(10)\n07: Discipline(1), Listen(5), Perform(5), Tumble(5), UMD(5)\n09: Discipline(1), Intimidate(2)\n11: Discipline(1), Listen(4), Save(4)\n13: Discipline(1), Listen(1), Save(3)\n15: Discipline(1), Listen(1), Save(9)\n17: Spellcraft(5), Tumble(5), UMD(10)\n19: Discipline(1), Listen(1), Lore(3)\n21: Discipline(1), Save(8)\n23: Discipline(2), Save(3)\n25: Discipline(1), Save(5)\n27: Discipline(1), Spellcraft(5), Tumble(5), UMD(5)\n29: Discipline(1), Listen(5), Save(3)\n31: Discipline(1), Save(11)\n33: Discipline(2), Listen(3)\n35: Discipline(1), Listen(1), Save(5)\n37: Discipline(1), Spellcraft(10), Tumble(5)\n39: Discipline(1), Listen(1), Save(4)</details>\nIn hindsight, I would move 5 points from Spellcraft to UMD, and the rest to Lore because MTS is a very high-magic environment. You will get enough saves boosts from gear that the saves boost from Spellcraft would be wasted (+20 total saves boost maximum).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Seikens",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:40 PM - Aug 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm actually only going to play OC with this character. Also, I don't know much about bard except they have a song that can buff, so I'm wondering what all those levels do?<br/>\nThanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:01 PM - Aug 05, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Seikens,<br/>\n<br/>\nIf you are gonna play only the O.C then maybe you should look at the level 20 builds sub-forum first? <br/>\nPlenty of good builds there for the O.C or similar modules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:41 PM - Aug 06, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Barbarian splashed with occasional Rogue for Tumble and UMD, maybe search and remove traps. <br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Seikens",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:39 AM - Aug 08, 2018",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I read a little about MTS to see what it is, and it looked pretty good. After all, I think I will play the OC+MTS. I never try a module before, so I guess I should get into that.<br/>\nThanks for sharing your build Empyre65, I will probably play it with the suggested changes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

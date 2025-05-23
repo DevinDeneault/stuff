@@ -1,0 +1,74 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "050",
+  "name": "Any use in trying a non-Arcane archer?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/any-use-in-trying-a-non-arcane-archer-t2354710.html",
+  "author": "madmocha",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 9,
+  "posts": [
+    {
+      "author": "madmocha",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:49 AM - Jun 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Simply put, I enjoy a good archer and would like to play one again, but am starting a mod that only allows for a human player-character.\u00a0 Is there any possability for powerful archers outside the AA character build mode?<br/>\n<br/>\n I know I'm not putting forward a build idea, I haven't pursued the thought far enough to start planning a build yet, mainly because I'm not sure if there's a build possability out there that would be effective.\u00a0 I believe Ranger has an archer aspect to it's build, as does monk (I think)... I've just never played either of these character 'races', and have no idea whether there's any juice behind that aspect of their build.\u00a0 If it makes a\u00a0 difference, I was looking at it for ADWR, and I know that the limitations set by the mod's requirements could trash any build idea one might come up with.(requirements in minimum levels of dex, charisma and I don't remember what else.\u00a0 I just thought it might be fun to try the mod with a good archer...again, if possible.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:14 PM - Jun 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The simple answer is yes.<br/>\n<br/>\n One build I recall that is exactly this is Valerfor's <strong>Classic Archer (Ranger 32/Fighter 4/Rogue 4)</strong>, which can be found in the Full Epic sub-forum or through Hip's database of builds, available as a download from the Rules and Tools sub-forum.<br/>\n<br/>\n Admittedly, it's an elf, but it wouldn't be hard to adapt to human. You'd lose 1AB, but you'd gain a feat, skill and hit points, and have no xp penalty.<br/>\n<br/>\n Of course, this only really works if your mod will take you into epic levels.<br/>\n<br/>\n There's nothing specific to the Ranger or Monk classes that make them better archers than anyone else (indeed, with Monk you'd need to use another feat togain access to bows). However, high WIS would be helpful if you wanted Zen Archery (which is WIS-based, rather than DEX). Ranger also benefits from being self-buffing, having a pet to tank for you, FEs and Bane.<br/>\n<br/>\n Hope this helps a bit!<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "madmocha",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:36 PM - Jun 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stagmeister, much appreciation for your quick response and excellent ideas. I'll go look up Valerfor's ranger build right away.<br/>\n<br/>\n \"Of course, this only really works if your mod will take you into epic levels.\"<br/>\n<br/>\n --\u00a0 Awe, there's the rub. This was for 'A Dance With Rogues'.\u00a0 Part One takes you from level one to ten or so, while two takes you from there to 17 to 20. So this probably would mature too slowly for that mod I'm guessing. (??)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:59 PM - Jun 11, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For an archer with only 20 levels and Human-only, my thoughts are maybe a Fighter 12 / Rogue 4 / Monk 4. Rogue and Monk would both give you Tumble as a class skill for AC, Rogue would give you some other nice skills and Uncanny Dodge to protect your DEX AC, and Monk would give you a small speed boost. However, dropping those Monk levels for 4 more Fighter would give you +1 AB.<br/>\n<br/>\n Another approach would be a Cleric with Zen Archery to use WIS instead of DEX for archery.<br/>\n<br/>\n That said, without the extra damage that an AA would add, an archer will always do a lot less damage than a melee fighter. Even with AA, the damage is a noticeably less than melee.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "madmocha",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:17 AM - Jun 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">::sigh::\u00a0 Yeah, I'm beginning to see that flow.\u00a0 Ah well, was a thought.\u00a0 I appreciate the input and helpfulness.\u00a0 Thanks Empyre, I was starting to have serious doubts, especially with the pre-epic leveling.\u00a0 I'll save archery for more suitable environs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:52 PM - Jun 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Dance with Rogues mods are primarily made with rogues in mind. You will be able to play them with a normal rogue AB. SA adds damage as well, so you depend less on strength. I made a build for the series once. I can look it up and post it when i come home from work (if I still can find it on my new computer).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:59 PM - Jun 12, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I used this build for the Dance with Rogues mods. It is not focused on ranged attacks, but will be able to use a bow with some success.<br/>\n If I recall correctly, some charisma is important for the plot to make sense and for a special erotic skill you develop. The craft trap skill is there to earn gold from selling crafted traps, and to craft traps you can set.<br/>\n Bard is there for RP reasons and to open up spellcasting. Since this mod was made for rogues<em>, </em>I saw little need to emulate other classes and dropped UMD. SD was first of all there for HIPS to be able to handle difficult combat better.<br/>\n<br/>\nSpoiler [+]<br/>\n<br/>\n Rogue(12), Bard(4), Shadowdancer(4), Human<br/>\n<br/>\n STR: 12<br/>\n DEX: 16 (19)<br/>\n CON: 12<br/>\n WIS: 8<br/>\n INT: 14<br/>\n CHA: 14<br/>\n<br/>\n Human: (Quick to Master)<br/>\n 01: Rogue(1): Stealthy, Dodge<br/>\n 02: Bard(1)<br/>\n 03: Rogue(2): Weapon Finesse, {Evasion}<br/>\n 04: Rogue(3): DEX+1, {Uncanny Dodge I}, (DEX=17)<br/>\n 05: Rogue(4)<br/>\n 06: Rogue(5): Mobility<br/>\n 07: Rogue(6)<br/>\n 08: Shadowdancer(1): DEX+1, {Hide in Plain Sight}, (DEX=18)<br/>\n 09: Rogue(7): Weapon Focus: Shortsword<br/>\n 10: Rogue(8)<br/>\n 11: Bard(2)<br/>\n 12: Rogue(9): DEX+1, Knockdown, (DEX=19)<br/>\n 13: Bard(3)<br/>\n 14: Rogue(10): Crippling Strike<br/>\n 15: Bard(4): Blind Fight<br/>\n 16: Rogue(11)<br/>\n 17: Shadowdancer(2): {Darkvision}<br/>\n 18: Shadowdancer(3): Toughness<br/>\n 19: Rogue(12)<br/>\n 20: Shadowdancer(4)<br/>\n<br/>\n Hitpoints: 168<br/>\n<br/>\n Saving Throws (Fortitude/Will/Reflex): 7/8/20<br/>\n Saving Throw bonuses: Traps: +2<br/>\n BAB: 15<br/>\n AB (max, naked): 20 (melee), 19 (ranged)<br/>\n AC (naked/mundane armor/shield only): 18/25<br/>\n Spell Casting: Bard(2)<br/>\n Alignment Changes: 0<br/>\n<br/>\n Skillpoints: 229<br/>\n Craft Trap 22(24), Disable Trap 12(16), Hide 23(29), Move Silently 23(29), Open Lock 22(26), Perform 7(9), Persuade 17(19), Pick Pocket 16(20), Search 19(21), Set Trap 9(15), Spot 23(22), Tumble 20(24), remaining skillpoints 16<br/>\n<br/>\n<br/>\n 01: Disable Trap(4), Hide(4), Move Silently(4), Open Lock(4), Persuade(4), Pick Pocket(4), Search(4), Set Trap(4), Spot(4), Tumble(4), Save(4),<br/>\n 02: Hide(1), Move Silently(1), Perform(1), Persuade(1), Pick Pocket(1), Tumble(1), Save(5),<br/>\n 03: Craft Trap(6), Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Persuade(1), Pick Pocket(1), Spot(1), Tumble(1),<br/>\n 04: Craft Trap(1), Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Spot(2), Tumble(1),<br/>\n 05: Craft Trap(1), Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Set Trap(1), Spot(1), Tumble(1),<br/>\n 06: Craft Trap(1), Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Set Trap(1), Spot(1), Tumble(1),<br/>\n 07: Craft Trap(1), Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Set Trap(1), Spot(1), Tumble(1),<br/>\n 08: Hide(1), Move Silently(1), Persuade(1), Pick Pocket(1), Search(1), Spot(1), Save(3),<br/>\n 09: Craft Trap(2), Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Persuade(1), Pick Pocket(1), Search(1), Set Trap(2), Spot(1),<br/>\n 10: Craft Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Spot(1), Save(3),<br/>\n 11: Craft Trap(1), Hide(1), Move Silently(1), Perform(3), Persuade(1), Pick Pocket(1), Save(2),<br/>\n 12: Craft Trap(1), Hide(1), Move Silently(1), Open Lock(1), Persuade(1), Pick Pocket(1), Search(1), Spot(1), Tumble(5),<br/>\n 13: Craft Trap(1), Hide(1), Move Silently(1), Perform(3), Persuade(1),<br/>\n 14: Craft Trap(1), Hide(1), Move Silently(1), Open Lock(3), Persuade(1), Pick Pocket(1), Search(1), Spot(1), Save(1),<br/>\n 15: Craft Trap(1), Hide(1), Move Silently(1), Save(5),<br/>\n 16: Craft Trap(1), Hide(1), Move Silently(1), Open Lock(2), Search(6), Spot(4), Save(1),<br/>\n 17: Hide(1), Move Silently(1), Spot(1), Tumble(5), Save(2),<br/>\n 18: Hide(1), Move Silently(1), Spot(1), Save(8),<br/>\n 19: Craft Trap(3), Hide(1), Move Silently(1), Open Lock(3), Spot(1), Save(10),<br/>\n 20: Hide(1), Move Silently(1), Spot(1), Save(16),<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n Edit: As for UMD, I checked the first mod, and there are some monk and other class specific equipment available in shops, so it might be worth it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "madmocha",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:29 AM - Sep 02, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In retrospect:\u00a0 Wow!!\u00a0 What a fun character.\u00a0 To be honest I've pretty much always been stuck on strength toons.\u00a0 So I knew going in this was going to be a different experience from the get go.\u00a0 Probably the reason I was looking at 'archer'.\u00a0 I was just a little nervous about 'face to face' combat using a dex character.\u00a0 This was a completely different kind of approach to playing for me and was a lot of fun.\u00a0 Thanks for your character Mick.\u00a0 I really appreciate your allowing me to use it...her.\u00a0 :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Drake Strongfist",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:00 AM - Sep 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wish I had been around here when the topic was still hot. I would've advocated pretty hard for the cleric archer. While it's true that the damage is negligable a fair amount of the time, you have access to divine power, divine might, and a host of other self buffing options. Now many will point out  of these things have short durations and that's true, but.....<br/>\n<br/>\nWhat ends up happening is your roll along with your party and everybody is like \"yeah we've got an archer\" *shrug* Then....<br/>\n<br/>\nA boss shows up or you notice your party is in trouble so you dump your full self buff payload and let 'er rip. Then your party mates stand in awe as suddenly, somehow their mediocre archer has transformed into some sort of mortal demi god of arrow death and machine gun murders everything in sight.<br/>\n<br/>\nIt won't last long, but it'll last plenty long enough for any single encounter you happen upon. In general the build's long term buffing ability helps ensure survivability and gives you huge \"burst\" potential of which you can get 5 or 6 times or so depending on how you build it. Of course if you're able to rest pretty freely then even better!<br/>\n<br/>\n.......my 2 cents<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:49 AM - Sep 03, 2017",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This thread inspired me to have another go at these 2 mods. They are more skill and rp driven than combat intensive. There truly are some fights. You can to some degree rely on your party. And there are items that help protect you. You get very little xp from combat. You get some xp from completing quests. You get a lot of xp from disarming traps and opening locks.<br/>\nRogue is the best class because you need a lot of skillpoints and some locs and traps have a high DC.<br/>\nYou don't have to go all rogue though,  and you can buy some items that give bonus to essential skills. <br/>\nI may post a review in the mods section. If aI find the time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "892",
+  "name": "PW-adapted complementary builds specializing in offense and defense (WM-killer & DD-tank duo team)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pw-adapted-complementary-builds-specializing-in-of-t2354975.html",
+  "author": "ADW",
+  "avatar": "no_avatar.png",
+  "replies": 30,
+  "posts": [
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:08 AM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is a follow-up to Cornflower's build requests <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/pw-adapted-special-build-needed-t2354962.html\" rel=\"noreferrer\" target=\"_blank\">here</a>\u00a0and <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/pw-adapted-monk-needed-t2354970.html\" rel=\"noreferrer\" target=\"_blank\">here</a>. In those threads, Cornflower wrote:<br/>\n<br/>\n<blockquote><div>End-game bosses have somewhere around 85AC and 100AB, as well as occasionally stuff like OnHit Harm, OnHit Dispel and are usually plentiful. Usually they are also equipped with lots of Damage Reductions, so they take all day to kill. The only way to clear up end-game areas is a team of one WM-killer and one DD-tank.</div></blockquote>\n<blockquote><div>It's not enough to just hit on 20, because the bosses will regenerate faster than you hit them. The obvious solution is to have one WM-hitter and one DD-tank working together...</div></blockquote>\nI recently started playing on the same PW, and I'm interested in these specialist builds (especially the DD-tank). In other words, this is a request for: (1) a Dwarven Defender build that specializes in defense, designed specifically to work in a party with at least one offensive character in order to defeat the endgame bosses on this PW, and (2) a Weapon Master build that specializes in offense, designed to work in the DD character in the same party. Cornflower has provided further details about this particular PW in the threads linked above (and is much more familiar with the PW than I am, since I'm new there).<br/>\n<br/>\nI'm also curious about how the characters in this party would work together in practice. For example, how does the DD-tank ensure that the boss is always hitting him instead of one-shotting the glass-cannon WM-killer? (In other games, this would be a question about how the \"threat\" or \"aggro\" mechanic works.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:45 AM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Combo: DD &amp; AA<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:11 AM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I got my DD build from a friend that doesn't want it posted, so I can't share it, but the AA I can share, even if not in the proper format (because this is the way I found it):<br/>\n<br/>\nSTR: 14<br/>\nDEX: 19 (36)<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 13<br/>\nCHA: 8<br/>\n<br/>\nElf: (Elf abilities)<br/>\n<br/>\nMax out Tumble (17) + Spellcraft (19)<br/>\nSave 8 for Disc at 18 and 27<br/>\nRest in Lore and Spot<br/>\n<br/>\n01: Fighter(1): Weapon Finesse, Weapon Focus: Rapier<br/>\n02: Fighter(2): Weapon Focus: Longbow<br/>\n03: Fighter(3): Dodge<br/>\n04: Fighter(4): DEX+1, Weapon Specialization: Longbow, (DEX=20)<br/>\n05: Fighter(5)<br/>\n06: Fighter(6): Weapon Specialization: rapier, Knockdown<br/>\n07: Fighter(7)<br/>\n08: Fighter(8): DEX+1, Point Blank Shot, (DEX=21)<br/>\n09: Fighter(9): Improved Critical: Longbow<br/>\n10: Wizard(1):\u00a0\u00a0\u00a0 (((( Take at level 4 instead )))<br/>\n11: Arcane Archer(1)<br/>\nF9/W1/AA2: Arcane Archer(2): DEX+1, Improved Critical: Rapier (DEX=22)<br/>\nF9/W1/AA3: Arcane Archer(3)<br/>\nF9/W1/AA4: Arcane Archer(4)<br/>\nF9/W1/AA5: Arcane Archer(5): Rapid Shot<br/>\nF9/W1/AA6: Arcane Archer(6): DEX+1, (DEX=23)<br/>\nF9/W1/AA7:\u00a0 Arcane Archer(7)<br/>\n<br/>\nF10/W1/AA7: Fighter(10): Mobility, Resist energy Sonic<br/>\nF11/W1/AA7: Fighter(11)<br/>\n<br/>\nF11/W1/AA8: Arcane Archer(8): DEX+1, (DEX=24)<br/>\nF11/W1/AA9: Arcane Archer(9): Epic Prowess<br/>\nF11/W1/AA10: Arcane Archer(10)<br/>\nF11/W1/AA11: Arcane Archer(11)<br/>\nF11/W1/AA12: Arcane Archer(12): DEX+1, Epic Weapon Focus: Rapier (DEX=25)<br/>\nF11/W1/AA13: Arcane Archer(13)<br/>\nF11/W1/AA14: Arcane Archer(14): Epic Weapon Focus: Longbow<br/>\n<br/>\nF12/W1/AA14: Fighter(12): Epic Weapon Specialization: Rapier, Epic Weapon Specialization: Longbow<br/>\n<br/>\nF12/W1/AA15: Arcane Archer(15): DEX+1, (DEX=26)<br/>\nF12/W1/AA16: Arcane Archer(16)<br/>\nF12/W1/AA17: Arcane Archer(17): Great Dexterity I, (DEX=27)<br/>\nF12/W1/AA18: Arcane Archer(18): Great Dexterity II, (DEX=28)<br/>\nF12/W1/AA19: Arcane Archer(19): DEX+1, (DEX=29)<br/>\nF12/W1/AA20: Arcane Archer(20): Great Dexterity III, (DEX=30)<br/>\nF12/W1/AA21: Arcane Archer(21)<br/>\nF12/W1/AA22: Arcane Archer(22): Great Dexterity IV, (DEX=31)<br/>\nF12/W1/AA23: Arcane Archer(23): DEX+1, Great Dexterity V, (DEX=33)<br/>\nF12/W1/AA24: Arcane Archer(24)<br/>\nF12/W1/AA25: Arcane Archer(25)<br/>\nF12/W1/AA26: Arcane Archer(26): Great Dexterity VI, Great Dexterity VII, (DEX=35)<br/>\nF12/W1/AA27: Arcane Archer(27): DEX+1, (DEX=36)<br/>\n<br/>\n(Note that the reason for Resist Energy Sonic, is because resistance against the other damage types are found on the typical high-level items you will find/buy on that world.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:27 AM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Solid 60AB Arcane Archer, <br/>\nWill hit with almost every attack that 85 AC.<br/>\n<br/>\nI am more interested in the DD build, at least the AB that he has.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:29 AM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:06 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nAnd yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.\n</div></blockquote>\n\nAnd let's not forget your own retooling of the Dwarven Wall. While I'm at it, I'll mention GDL's Hearth Guard (reposted in the level 40 section by Hip, which includes a link to my own humble reworking of him)<br/>\n<br/>\nEDIT: Just checked the Hearth Guard's AB, and it's 43 - sorry, I seem to have lost your Wall atm...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "3:33 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looking at the AA, I have a couple of questions:<br/>\n<br/>\n1. Why Knockdown? Seems a pointless Feat on an AA with 14 Str.<br/>\n2. Why not get 29 AA levels for the maximum bonus (or even 30 as you get a Bonus Feat)?<br/>\n3. Although you lose the extra Dex and full Elf abilities, Half-Elf allows you to take Bard, which gives you full Tumble and UMD, as well as Bard Song (which gets you back the AB you lost on Dex, plus some damage).<br/>\n<br/>\nI guess I'm thinking of something along the lines of F8/Bd3/AA29 or Bd4/F6/AA30.<br/>\n<br/>\nTBH is the Rapier stuff worth having? I mean he's not going to hurt a fly with one. Certainly not a boss with DR.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:39 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nAnd yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.\n</div></blockquote>\nAs you mentioned in the other thread, Andariel has a theoretical maximum AC of 107 on this PW, so won't she still be getting hit quite a bit by the 100 AB boss?<br/>\n<br/>\nOf course, the DD will be getting hit even more often. I'm not sure how hard the boss hits, but even with all his damage reduction/resistance, won't the DD get chipped away fairly quickly?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:20 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, your tank is going to get hit whatever. It's a question of scaling. Andariel will get hit less, but it will hurt more. A decent DwD will probably get hit more often, but can shrug more of it off. In the meantime, while the boss is wailing away on a stubborn dwarf, you've got a highly effective elven archer knocking chunks out of them. If both tank and killer are doing their job (remembering that the tank's main focus is to distract and occupy the attention of the enemy) then all is well. Haste is potentially useful, so long as you don't give the boss a clear run at your sniper while you're legging it. Alternatively, Defensive Stance and toe-to-toe might work. A DwD with a massive pool of HPs and EDRIII might just shrug and growl, \"And?\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:11 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n(remembering that the tank's main focus is to distract and occupy the attention of the enemy)\n</div></blockquote>\n\nHow does this work mechanically in NWN? Is there some way for the DwD to ensure that the boss keeps hitting him instead of turning to one-shot a fragile WM stabbing from behind (supposing it's not just the distant AA in the party)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:35 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As with many things, timing is important. (Have a look through Max's Game Guide to Playing Better for more details.) If you time your flurries right, as soon as he looks over his shoulder for where that stabbing pain's coming from he gets a smack on the kneecap and turns back, he gives the fragile one time to set up another attack. Rinse and repeat. Much easier with a ranged ally, obviously, who will have scope to give a cheery wave as s/he peppers the bad dude.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:43 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAs with many things, timing is important. (Have a look through Max's Game Guide to Playing Better for more details.) If you time your flurries right, as soon as he looks over his shoulder for where that stabbing pain's coming from he gets a smack on the kneecap and turns back, he gives the fragile one time to set up another attack. Rinse and repeat. Much easier with a ranged ally, obviously, who will have scope to give a cheery wave as s/he peppers the bad dude.\n</div></blockquote>\nAh, I see. I'm afraid Google is failing me on \"Max's Game Guide to Playing Better\". Any chance you have a link?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "7:57 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What PW are we discussing and is it nwn ee?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:00 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry, it's in the Game Guides sub-forum on this site. He's not allowed to post things anywhere else these days...<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:21 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A tactics that I have used in multiplayer is to use TWO hasted archers! The boss running in large circles after one archer while the other one shoots. If the boss starts chasing the other one, the roles are swapped.<br/>\nYou can also try the same thing with sorcerers spamming attack spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:35 PM - Jan 06, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nA tactics that I have used in multiplayer is to use TWO hasted archers! The boss running in large circles after one archer while the other one shoots. If the boss starts chasing the other one, the roles are swapped.<br/>\nYou can also try the same thing with sorcerers spamming attack spells.\n</div></blockquote>\n\nDon't know if this has a formal name as a tactic (you know, like the King's Indian in chess), but I'd call this the Wasp Attack - constantly annoying and never satisfactorily resolved.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "8:16 AM - Jan 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">on the ensuring the Dwd gets hit:<br/>\nThe player needs to be in line of the archer, making sure that his attacks are registered(not hitting), by the target before the boss has a chance to run away towards the archer.<br/>\nNext is a well earned bigbys from a caster. Honestly -10 ab and possible the forceful hand, is absolutely must have.<br/>\n<br/>\nI recently joined this PW as well and I live taking part of debates regarding endgame.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "10:02 AM - Jan 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, I was talking about BFH in the other thread. De-buffing is the only way you can bring these guys' ABs down to a manageable level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Regsa",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:10 PM - Jan 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What is the name of the PW ?<br/>\nand sorry for off topic..<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:22 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\nLooking at the AA, I have a couple of questions:<br/>\n<br/>\n1. Why Knockdown? Seems a pointless Feat on an AA with 14 Str.<br/>\n2. Why not get 29 AA levels for the maximum bonus (or even 30 as you get a Bonus Feat)?<br/>\n3. Although you lose the extra Dex and full Elf abilities, Half-Elf allows you to take Bard, which gives you full Tumble and UMD, as well as Bard Song (which gets you back the AB you lost on Dex, plus some damage).<br/>\n<br/>\nI guess I'm thinking of something along the lines of F8/Bd3/AA29 or Bd4/F6/AA30.<br/>\n<br/>\nTBH is the Rapier stuff worth having? I mean he's not going to hurt a fly with one. Certainly not a boss with DR.\n</div></blockquote>\n1. I have no idea, as I said I just got the build and tried it. I'm open to improvements if anyone would like to set it up.<br/>\n2. See above.<br/>\n3. I understand the thinking of bard, but why drop Elf? You can be an elven bard.<br/>\n<br/>\nRapier is I think more of a convenience so you can go rapier/shield when it's crowded and you can't move back and fire undisturbed. It's not a necessity I think, but so far (lvl 22) I find it useful.<br/>\n<br/>\nThinking of the suggested build... You want bard 3 for the song. Bard 4 doesn't really give you anything extra (possibly 2 lvl 2 spells, if you spend enough charisma, which you won't). You want AA29 for the max bonus. The extra D6 explosive damage you get from AA30 is probably not very useful. So, Fighter 8/Bard 3/AA29 would probably be best. (If not, please explain why).<br/>\n<br/>\nEdit: Let's not hijack this thread. Let's make a new:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/bard-3-fighter-8-arcane-archer-29-help-needed-t2354978.html\" rel=\"noreferrer\" target=\"_blank\">bard-3-fighter-8-arcane-archer-29-help- ... 54978.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:32 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Regsa wrote:</cite>\nWhat is the name of the PW ?<br/>\nand sorry for off topic..\n</div></blockquote>\n\nBlackstone keep<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:33 AM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\nWhat PW are we discussing and is it nwn ee?\n</div></blockquote>\n\nBlackstone keep. EE and no haks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:04 PM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nI understand the thinking of bard, but why drop Elf? You can be an elven bard.</div></blockquote>\nThe favored class for an Elf is Wizard, so a Elf Fighter / Bard / AA would have an experience penalty unless Fighter and Bard are kept even. The favored class for a Half-Elf is whatever class has the most levels, just like a Human, so a Half-Elf Fighter / Bard / AA would have no experience penalty. This is a very rare case of Half-Elf being the best choice of race.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valkos",
+      "avatar": "10235425_1545159776.jpg",
+      "timestamp": "8:20 PM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On this particular server, I have yet to experience the MC penalty on any character.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:26 PM - Jan 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valkos wrote:</cite>\nOn this particular server, I have yet to experience the MC penalty on any character.\n</div></blockquote>\nActually, come to think of it, me neither. I have to check that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:44 AM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>ADW wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nAnd yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.\n</div></blockquote>\nAs you mentioned in the other thread, Andariel has a theoretical maximum AC of 107 on this PW, so won't she still be getting hit quite a bit by the 100 AB boss?<br/>\n<br/>\nOf course, the DD will be getting hit even more often. I'm not sure how hard the boss hits, but even with all his damage reduction/resistance, won't the DD get chipped away fairly quickly?\n</div></blockquote>\nHere's an idea: a modified Andariel build to squeeze out a bit more AC by taking a Bard 5 / RDD 10 / PM 25 split with Armor Skin and Improved Expertise. This would get us to 120 AC fully buffed, so the 100 AB boss will only be hitting on 20s. Would this work?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:32 AM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>ADW wrote:</cite>\n<blockquote><div><cite>ADW wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nAnd yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.\n</div></blockquote>\nAs you mentioned in the other thread, Andariel has a theoretical maximum AC of 107 on this PW, so won't she still be getting hit quite a bit by the 100 AB boss?<br/>\n<br/>\nOf course, the DD will be getting hit even more often. I'm not sure how hard the boss hits, but even with all his damage reduction/resistance, won't the DD get chipped away fairly quickly?\n</div></blockquote>\nHere's an idea: a modified Andariel build to squeeze out a bit more AC by taking a Bard 5 / RDD 10 / PM 25 split with Armor Skin and Improved Expertise. This would get us to 120 AC fully buffed, so the 100 AB boss will only be hitting on 20s. Would this work?\n</div></blockquote>\nIt's definitely worth testing. Defence should be enough. I wonder if she could hit well, though?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:21 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">According to that Boss stats, she won't.<br/>\nHer natural AB is 43, that makes it 69 in your server, hasted she is gonna hit that Boss on [16+/16+/20+/20+]<br/>\nIf you take Expertise with her then she is gonna need 20+ with all her attacks,<br/>\nso that's out of the question, EXCEPT if you want to make her a pure tank, so he wastes his attacks on her while someone else is pounding that Boss from behind or afar.<br/>\nShe would normally also be able to absorb 1000 damage from her Epic Warding shield, but that +20 weapon that Boss has negates that, so you might also go for something else instead, like an epic energy resistance etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "7:44 PM - Jan 11, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nAccording to that Boss stats, she won't.<br/>\nHer natural AB is 43, that makes it 69 in your server, hasted she is gonna hit that Boss on [16+/16+/20+/20+]<br/>\nIf you take Expertise with her then she is gonna need 20+ with all her attacks,<br/>\nso that's out of the question, EXCEPT if you want to make her a pure tank, so he wastes his attacks on her while someone else is pounding that Boss from behind or afar.<br/>\nShe would normally also be able to absorb 1000 damage from her Epic Warding shield, but that +20 weapon that Boss has negates that, so you might also go for something else instead, like an epic energy resistance etc.\n</div></blockquote>\nI'm not positive the boss has 20+ weaponry. Could be just toolset-increased AB. If so, this could fly. I'll try to find out.<br/>\nEither way, it would be the perfectly annoying toon to just walk around with and let everyone hit themselves tired on.... Seems like fun, I think I have a +20 Keen Scythe laying around somewhere. :-)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:30 AM - Jan 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Andariel - the annoying maiden?<br/>\nHm, I think I like it!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "ADW",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:24 AM - Feb 01, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>ADW wrote:</cite>\n<blockquote><div><cite>ADW wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nAnd yes, as Mick said, combo any from the defensive + offensive builds and you have the key to win this way more easily.<br/>\nSay Andariel + Mick's dual-wielding wm, or an AA, or you can put Magaiti's DD in place of Andariel, whatever works.\n</div></blockquote>\nAs you mentioned in the other thread, Andariel has a theoretical maximum AC of 107 on this PW, so won't she still be getting hit quite a bit by the 100 AB boss?<br/>\n<br/>\nOf course, the DD will be getting hit even more often. I'm not sure how hard the boss hits, but even with all his damage reduction/resistance, won't the DD get chipped away fairly quickly?\n</div></blockquote>\nHere's an idea: a modified Andariel build to squeeze out a bit more AC by taking a Bard 5 / RDD 10 / PM 25 split with Armor Skin and Improved Expertise. This would get us to 120 AC fully buffed, so the 100 AB boss will only be hitting on 20s. Would this work?\n</div></blockquote>\nJust found out that +6 AC is the cap for gear AC bonuses on this server, so there's no way to AC tank endgame bosses. Bummer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

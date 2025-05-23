@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "029",
+  "name": "Flank",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/flank-t2356189.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "4:01 AM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">These are questions which I haven't found answers in the wiki:<br/>\n<br/>\n1. How many enemies can flank a PC simultaneously in melee?<br/>\n2. Is it variable depending on creature size (enemy/PC) or weapon size/reach?<br/>\n3. If answer to second question is \u2018yes\u2019, how would one calculate the number of variably sized enemies that can all together flank a PC?<br/>\n4. Is there a limit to a number of ranged attackers that can flank a PC at the same time?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:18 AM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm sorry for not having exact numbers here. But there seems to be a limit to how many creatures that can actually attack you with melee weapons when you become swarmed. They form a circle around you, and those who are outside of that circle seem to stand there doing nothing, unless they attack you with a ranged weapon. You can actively manipulate how many melee creatures that can reach you by using choke points or by standing close to a wall or in a corner.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "6:22 AM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I created a module that sets the PC start location on a flat terrain in the middle of a hostile swarm, with each creature identical to the PC in race and weapons (Of note is that PC is female, while enemies are male). Results vary each time the module is started, with attackers numbering in a range of 9 to 13. I guess results would also differ between phenotypes (different creatures in same size category, or male vs female of same creature type), and elevation of landscape.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:43 AM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know you want a concrete number here, but you won't actually get that, because as you state, it depends on phenotype differences (size vs size) and weapon reach.<br/>\n<br/>\nAll I know is that one opponent won't get the Flank bonus (the one you are currently attacking).\u00a0 As for the rest, I have seen some really wild things involving size vs size in these respects, especially with the new sizes added in with the CEP.\u00a0 Weapon reach also seems to be a factor here - I've had such directly affect my PC (I couldn't actually attack a CEP Dragon due to not being able to get \"close enough\" to it for the weapon to actually attack when using a tiny weapon on a small Pheno PC).<br/>\n<br/>\nSo I am sure that weapon reach could be a factor as well here.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:29 PM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Maybe an exact number can be determined, as suggested by these guides:<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/weapon-attack-distance-t2354532.html\" rel=\"noreferrer\" target=\"_blank\">weapon-attack-distance-t2354532.html</a><br/>\n<a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Combat+Ranges\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Combat+Ranges</a><br/>\n<a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Creature+Size\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Creature+Size</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:32 PM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think this throws a perpetual monkey wrench in things <blockquote><div>The difference to CREPERSPACE helps weapons \"hit\" the target so they \"overlap\" a bit. Noting there are some times you can be quite far away from an target and still hit <em>due to tolerances to the attack ranges</em>. </div></blockquote>\n\nFrom <a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Combat+Ranges\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Combat+Ranges</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "1:37 PM - Dec 19, 2023",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The way I understood it, is that a small creature hitting from a distance of 0.3 with weapon reach of 1.1, forms a circle with a 1.4 radius\u2014a distance that enemies of similar size and reach can maintain in order to attack the former. Since each of them occupy a space with radius of 0.25, it would take a maximum of roughly 17 creatures that can attack a single similarly sized target simultaneously. There would be overlap in each attacker\u2019s CREPERSPACE. I could be wrong though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

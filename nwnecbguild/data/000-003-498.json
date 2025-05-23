@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "498",
+  "name": "Level 30 Bard/ Rogue level split?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-30-bard-rogue-level-split-t515518.html",
+  "author": "Atypical",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Atypical",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:56 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So correct me if I'm wrong, but Bard reaches maturity at level 16, and Rogue gains access to Epic Dodge at 14, yes?<br/>\n<br/>\nSo a Halfling could grab a shortbow and give his party Bard Buffs while having a huge reflex save with Improved Evasion, 7d6 Sneak attack, have all the Trap skills and stealth skills, and kite people all day with Called Shot: Leg and a high Tumble score?<br/>\n<br/>\nAny quick 'n dirty example builds?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "6:29 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Atypical wrote:</strong>So correct me if I'm wrong, but Bard reaches maturity at level 16, and Rogue gains access to Epic Dodge at 14, yes?\n</div></blockquote>\nBard is about right.  ED at rogue 13, so you have a spare level unless it is one of those minimum consecutive level servers where you can't dump.\n<blockquote><div>\nSo a Halfling could grab a shortbow and give his party Bard Buffs while having a huge reflex save with Improved Evasion, 7d6 Sneak attack, have all the Trap skills and stealth skills, and kite people all day with Called Shot: Leg and a high Tumble score?<br/>\n<br/>\nAny quick 'n dirty example builds?</div></blockquote>\nMith made a level 40 <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build201538.html\" rel=\"noreferrer\" target=\"_blank\">generic archer build</a> for longbow elf that could be adapted for a shortbow halfling.  Naturally, the 30 cap will limit its overall effectiveness, but a decent template nonetheless.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "7:03 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Are we talking Arelith, so lvl 30 and 3 lvls in a row requirements? Or is this a more general issue?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Atypical",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:22 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KailPendragon wrote:</strong>Are we talking Arelith, so lvl 30 and 3 lvls in a row requirements? Or is this a more general issue?</div></blockquote>\nArelith-specific, but since it's a 2-class split the 3 lvl requirement shouldn't have much of an effect on anything.<br/>\n<br/>\nI'm rolling up a Goblin, which is basically a modded Halfling, because the idea of a Goblin Bard is hilarious. Always good to give yourself artificial limits and then try to exceed them, eh?<br/>\n<br/>\nGoblin stats are basically Halfling with -2 CHA and darkvision<br/>\n<br/>\nSTR -2, DEX +2, CHA -2<br/>\nListen +2, Move Silently +4, Spot +2  Darkvision <br/>\nFavored Class: Rogue <br/>\n<br/>\nCurrent build is as follows:<br/>\n<br/>\nBard(16), Rogue(14), Goblin<br/>\n<br/>\nSTR: 8<br/>\nDEX: 18 (26)<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 12<br/>\nCHA: 14<br/>\n<br/>\nGoblin: (Darkvision, Lucky, Fearless, Skill Affinity: Listen, Skill Affinity: Move Silently, Small Stature, Good Aim)<br/>\n01: Rogue(1): Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus: Shortbow, {Uncanny Dodge I}<br/>\n04: Bard(1): DEX+1, (DEX=19)<br/>\n05: Bard(2)<br/>\n06: Bard(3): Called Shot<br/>\n07: Bard(4)<br/>\n08: Bard(5): DEX+1, (DEX=20)<br/>\n09: Bard(6): Curse Song<br/>\n10: Bard(7)<br/>\n11: Bard(8)<br/>\n12: Rogue(4): DEX+1, Rapid Shot, (DEX=21)<br/>\n13: Rogue(5)<br/>\n14: Rogue(6)<br/>\n15: Rogue(7): Blind Fight<br/>\n16: Rogue(8): DEX+1, (DEX=22)<br/>\n17: Bard(9)<br/>\n18: Bard(10): Lingering Song<br/>\n19: Bard(11)<br/>\n20: Bard(12): DEX+1, (DEX=23)<br/>\n21: Rogue(9): Epic Weapon Focus: Shortbow<br/>\n22: Rogue(10): Improved Evasion<br/>\n23: Rogue(11)<br/>\n24: Bard(13): DEX+1, Epic Prowess, (DEX=24)<br/>\n25: Bard(14)<br/>\n26: Rogue(12)<br/>\n27: Bard(15): Great Dexterity I, (DEX=25)<br/>\n28: Rogue(13): DEX+1, Defensive Roll, (DEX=26)<br/>\n29: Bard(16)<br/>\n30: Rogue(14): Epic Dodge<br/>\n<br/>\nHitpoints: 210<br/>\nSkillpoints: 233<br/>\nSaving Throws (Fortitude/Will/Reflex): 13/15/28<br/>\nSaving Throw bonuses: Traps: +3, Fear: +2<br/>\nBAB: 20<br/>\nAB (max, naked): 21 (melee), 33 (ranged)<br/>\nAC (naked/mundane armor/shield only): 25/28<br/>\nSpell Casting: Bard(4)<br/>\nAlignment Changes: 0<br/>\n<br/>\n<br/>\nThe leveling order doesn't really matter; start with rogue 3 for the extra skill points then just make sure you end up with Rogue 8 / Bard 12 pre-epic (taking bard feats on bard levels). Post epic, take Imp Evasion and Defensive roll as your rogue bonus feats and Epic Dodge as your general feat at 30. Great Dex could be replaced with something if you wanted to; just makes your Dex score even. Since it's mostly a team-playing support build, you could take out Blindfight for something else as well. Also, you would have Spellcraft bonus to saves (not shown in stats).<br/>\n<br/>\nUsing Halfling instead of Goblin just means you have 2 more points in STR (to avoid the damage penalty early on) and INT or CON. For a finished build, Halfling  would obviously be the better choice, and Elf would probably be best of all for Longbows. So feel free to swap in a different race; this is just what I'm using for a Goblin.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "9:48 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Halfling means 2 more Cha which is important to a bard build. With that goblin you are giving up on lvl 5-6 bardic spells which is a pity. I'd go halfling and sling (+1 AB from good aim and +2 AC plus enchantment from large shield) and get craft wand in btw.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "11:46 PM - Oct 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Atypical wrote:</strong><br/>\nArelith-specific, but since it's a 2-class split the 3 lvl requirement shouldn't have much of an effect on anything.\n</div></blockquote>\nBut if it is for Arelith, that would rule out a single fighter class for 2 more useful feats or SD for HiPS (a few examples) while retaining all the ED goodness, which would not be the case elsewhere.  A 2-class split limitation was not clear as a prereq in your original post.<br/>\n<br/>\nI agree with Kail, though.  A slinger makes more sense to me as well.  If you are settled on the giggles of a goblin bard then you will pay the price for the amusement factor, not a max build but rather a RP one.<br/>\n<br/>\nNonetheless, by taking Grt Dex at Lvl 24 then Def Roll at Lvl 25 you can get ED at Lvl 27.  That would leave EP at Lvl 30.  <br/>\n<br/>\nAlso, I would spread the bard levels more evenly to get regular Spellcraft dumps and perhaps make it a taunter though you will again be paying for the goblin -CHA deal.  Regardless, max spell level aside, this toon will be limited to robes to use arcane casting unless via items.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

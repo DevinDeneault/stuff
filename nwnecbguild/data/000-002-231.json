@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "231",
+  "name": "CBC bug - wrong assassin poison save",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cbc-bug-wrong-assassin-poison-save-t2354419.html",
+  "author": "Kane",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:39 PM - Apr 14, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have discovered that the CBC sheet has a bug when calculating the poison saves bonus for assassins. The assassin\u2019s save bonus vs. poison increases by +1 every 2 levels from +1 at level 2 to +15 at level 30.<br/>\n For some reason it stops at +6 even if the build has more than 12 assasin levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:41 PM - Apr 15, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would never have caught this. I don't give a crap about saves LOL. Good clinical eye, Mick!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

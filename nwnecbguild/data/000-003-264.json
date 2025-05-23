@@ -1,0 +1,44 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "264",
+  "name": "Fancy Vampire - help.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/fancy-vampire-help-t2354344.html",
+  "author": "Krankui",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": 4,
+  "posts": [
+    {
+      "author": "Krankui",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:41 PM - Nov 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey its me again :) I came here to get some ideas/inspirations. So I would like to make an aristocratic vampire on my server. The character has to be evil human (+1 INT, -1WIS) and include shadowdancer. I was thinking about xxx/assasin/sd (for HIPS mainly). There are no items with constant immunities to effects such as knockdown, mind spells, death, sneak etc on my server. True seeing 'only' gives +10 to spot and listen. Vampire has to be good in pvp. Important feats are ESF: hide and ESF: move silently since most of mages/clerics and even warriors stack spot and listen from items :). For items enhancement max is +5 but its very, very rare and probably there are no guys having more then maybe two items with +5. Items with +4 are rare, but epic characters are possible to get some and +3 are common. Damage boosts are +1d10 fire/frost/acid/sonic/elec or 1d6 positive/divine/negative. Its easy to get +12 on one stat and its possible to obtain +12 in two stats. With that in mind what build would be best? Maybe monk/sd/assasin fightning with hands or kamas or maybe there is better thing out there?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:42 PM - Nov 28, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What's up wiith all this Assassin fondness lately? Are we back in 2006's golden age of NwN again?<br/>\n<br/>\n Anyway, great choice for a character especially if he has role-playing roots as you imply in your post Krankui and even better if he is gonna be played on a low-medium magic world such as yours happens to be!<br/>\n<br/>\n One question, can you live with an Elf Vampire or he/she must be a Human? As an Elf he/she can get ITWF and ED/ SC V with 7 attacks all together and that's a really powerful build for low magic worlds. Build anywas is Monk 9/ SD 5/ Assassin 26 and the Max Death attack DC will be 44.<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:21 AM - Nov 29, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can always use the <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2350791/KamaShinobi-Monk-9-Assassin-26-SD-5\" rel=\"noreferrer\" target=\"_blank\">Kama-Shinobi</a> as template, and replace two great dex feats with the stealth ESFs.<br/>\n If you go human instead of elf, the build will need some remodeling since you will qualify for epic dodge later. The extra feat you get as human can go to stealthy or blind fight, and you can pick an extra skill that fits the gameplay on the server.<br/>\n Assassins get the Improved invisibility spell like ability that gives 50% concealment and is virtually impossible to dispel/mord. So there is no need to take SCV.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Krankui",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:29 PM - Nov 29, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey thanks for your response! Sadly it has to be human. Monk 9/ SD 5/ Assasin 26 sounds great to me. As a human (+1INT, -1WIS on my server) I could start with stats like this:<br/>\n STR 8<br/>\n DEX 18<br/>\n CON 12<br/>\n WIS 12\u00a0<br/>\n INT 14<br/>\n CHA 8\u00a0<br/>\n<br/>\n What do you think? Maybe i should give up 2 points from WIS and transfer them to CON/STR? For the bonus human feat I prefer blind fight over stealthy.<br/>\n<br/>\n And about assasins i really love them but most of the time I've been playing on servers mid magic, when true seeing was common thing that everyone gets so playing hide based characters was hard or even impossible. Now I can try and play with fun and no pain. The class is cool and in my opinion full of flavour and the vampire race? Love it :)\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:58 PM - Nov 30, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can not be certain for sure but i think Mick was implying that you would have to start with 16 instead of 18 Dexterity in order to make a more balanced build so to say. You will lose 1AB/ 1AC if you do so and you will qualify for ED at 30th level instead of 27th but in your low magic world these things will not matter as the AB and AC of this build are both high to start with. Don't forget that you will be attacking flat-footed foes to begin with and most of the time a single opening salvo would be the end of the battle, unless your opponents are either immune to sneaks or can constantly make fortitude saves of forty-four (spellcraft bonuses non withstanding). But it's up to you, if you think that you can find enough bags of holding and such, or meanings to add to your strength even just a little (say to 14 strength) then you can just start with the optimized 18 Dexterity that you posted.<br/>\n<br/>\n Hope i helped a bit,<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

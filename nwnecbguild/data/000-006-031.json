@@ -1,0 +1,218 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Full Epic - Level 40 Builds",
+  "forum_id": "006",
+  "id": "031",
+  "name": "Elven Guardian - Rogue 17 / Wizard 1 / Arcane Archer 22",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-guardian-rogue-17-wizard-1-arcane-archer-22-t2355003.html",
+  "author": "Vinleboiteux",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 33,
+  "posts": [
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:28 AM - Jan 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">With the proliferation of archer builds lately, I have decided that it is high time I finally post a build that I have been sitting on for 6 years.\u00a0 Tyr Templar and I had exchanged a lot of PMs with her helping me polish this pair of builds.\u00a0 The txt files are dated mid-December 2012, so I don't even remember why every detail is exactly the way it is.\u00a0 She had written a story for it, but she said that she was planning to post an archer build, too, so my last PM to her was asking if I should use the story in my build or was she planning on using it for hers, but she never answered, so the build never got posted.<br/>\n<br/>\nThis build has a lot going for it, great AB, decent AC, Epic Dodge, Uncanny Dodge to protect the DEX AC, and nice Rogue skills, including UMD.\u00a0 It comes in 2 flavors, PvP and PvM.\u00a0 Much belatedly, here they are:<br/>\n<br/>\nElven Guardian PvP (Rogue 17 / Wizard 1 / Arcane Archer 22)<br/>\nElf, Any Alignment<br/>\nPlayable 1 - 40, PvP<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 18 (34)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Rogue(1): Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus: Longbow, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=19)<br/>\n05: Rogue(5)<br/>\n06: Rogue(6): Called Shot<br/>\n07: Rogue(7)<br/>\n08: Rogue(8): DEX+1, (DEX=20)<br/>\n09: Wizard(1): Blind Fight, {Scribe Scroll}<br/>\n10: Arcane Archer(1)<br/>\n11: Arcane Archer(2)<br/>\n12: Rogue(9): DEX+1, Improved Critical: Longbow, (DEX=21)<br/>\n13: Arcane Archer(3)<br/>\n14: Arcane Archer(4)<br/>\n15: Arcane Archer(5): Rapid Shot<br/>\n16: Arcane Archer(6): DEX+1, (DEX=22)<br/>\n17: Rogue(10): Improved Evasion<br/>\n18: Arcane Archer(7): Skill Focus: Listen<br/>\n19: Arcane Archer(8)<br/>\n20: Arcane Archer(9): DEX+1, (DEX=23)<br/>\n21: Rogue(11): Epic Weapon Focus: Longbow<br/>\n22: Arcane Archer(10)<br/>\n23: Rogue(12)<br/>\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Rogue(13): Defensive Roll<br/>\n26: Arcane Archer(12)<br/>\n27: Rogue(14): Epic Dodge<br/>\n28: Arcane Archer(13): DEX+1, (DEX=26)<br/>\n29: Arcane Archer(14): Great Dexterity II, (DEX=27)<br/>\n30: Arcane Archer(15): Epic Prowess<br/>\n31: Arcane Archer(16)<br/>\n32: Rogue(15): DEX+1, (DEX=28)<br/>\n33: Arcane Archer(17): Epic Skill Focus: Listen<br/>\n34: Arcane Archer(18): Great Dexterity III, (DEX=29)<br/>\n35: Arcane Archer(19)<br/>\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=31)<br/>\n37: Rogue(16): Skill Mastery<br/>\n38: Arcane Archer(21)<br/>\n39: Arcane Archer(22): Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n40: Rogue(17): DEX+1, (DEX=34)<br/>\n<br/>\nStats:<br/>\nHitpoints: 362<br/>\nSkillpoints: 336<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/17/35<br/>\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +4<br/>\nBAB: 26<br/>\nAB (max, naked): 28 (melee), 53 (ranged)<br/>\nAC (naked/mundane armor/shield only): 30/33<br/>\nSpell Casting: Wizard(1)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDisable Trap 1(5), Hide 43(55), Listen 43(57), Lore 7(9), Move Silently 43(55), Open Lock 1(13), Search 38(42), Set Trap 33(45), Spellcraft 8(10), Spot 43(44), Tumble 40(52), UMD 36(35)<br/>\n<br/>\n01: Disable Trap(1), Hide(4), Listen(4), Lore(1), Move Silently(4), Open Lock(1), Search(4), Set Trap(4), Spot(4), Tumble(4), UMD(4), Save(5)<br/>\n02: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(7)<br/>\n03: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(9)<br/>\n04: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(11)<br/>\n05: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(13)<br/>\n06: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(15)<br/>\n07: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(17)<br/>\n08: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(19)<br/>\n09: Spellcraft(8), Save(15)<br/>\n10: Hide(2), Listen(2), Move Silently(2), Spot(2), Save(13)<br/>\n11: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(15)<br/>\n12: Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Spot(1), Tumble(4), UMD(4), Save(5)<br/>\n13: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(7)<br/>\n14: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(9)<br/>\n15: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(11)<br/>\n16: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(13)<br/>\n17: Hide(1), Move Silently(1), Search(5), Set Trap(5), Spot(1), Tumble(5), UMD(4), Save(1)<br/>\n18: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(3)<br/>\n19: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(5)<br/>\n20: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(7)<br/>\n21: Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Spot(1), Tumble(4), UMD(1)<br/>\n22: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n23: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(2)<br/>\n24: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n25: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(2)<br/>\n26: Hide(1), Listen(1), Lore(1), Move Silently(1), Spot(1), Save(1)<br/>\n27: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(1)<br/>\n28: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n29: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(4)<br/>\n30: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(6)<br/>\n31: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(8)<br/>\n32: Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(3), Spot(1), Tumble(5), UMD(1)<br/>\n33: Hide(1), Listen(2), Lore(1), Move Silently(1), Spot(1)<br/>\n34: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n35: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(4)<br/>\n36: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(6)<br/>\n37: Hide(1), Listen(1), Move Silently(1), Search(3), Spot(1), Tumble(5), UMD(4)<br/>\n38: Hide(1), Listen(1), Lore(2), Move Silently(1), Spot(1)<br/>\n39: Hide(1), Listen(1), Lore(2), Move Silently(1), Spot(1)<br/>\n40: Hide(1), Listen(1), Move Silently(1), Spot(1), UMD(6)<br/>\n<br/>\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br/>\n<br/>\nElven Guardian PvM (Rogue 17 / Wizard 1 / Arcane Archer 22)<br/>\nElf, Any Alignment<br/>\nPlayable 1 - 40, PvM<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 18 (34)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Rogue(1): Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus: Longbow, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=19)<br/>\n05: Rogue(5)<br/>\n06: Rogue(6): Weapon Finesse<br/>\n07: Rogue(7)<br/>\n08: Rogue(8): DEX+1, (DEX=20)<br/>\n09: Wizard(1): Called Shot, {Scribe Scroll}<br/>\n10: Arcane Archer(1)<br/>\n11: Arcane Archer(2)<br/>\n12: Rogue(9): DEX+1, Improved Critical: Longbow, (DEX=21)<br/>\n13: Arcane Archer(3)<br/>\n14: Arcane Archer(4)<br/>\n15: Arcane Archer(5): Blind Fight<br/>\n16: Arcane Archer(6): DEX+1, (DEX=22)<br/>\n17: Rogue(10): Improved Evasion<br/>\n18: Arcane Archer(7): Rapid Shot<br/>\n19: Arcane Archer(8)<br/>\n20: Arcane Archer(9): DEX+1, (DEX=23)<br/>\n21: Rogue(11): Epic Weapon Focus: Longbow<br/>\n22: Arcane Archer(10)<br/>\n23: Rogue(12)<br/>\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Rogue(13): Defensive Roll<br/>\n26: Arcane Archer(12)<br/>\n27: Rogue(14): Epic Dodge<br/>\n28: Arcane Archer(13): DEX+1, (DEX=26)<br/>\n29: Arcane Archer(14): Great Dexterity II, (DEX=27)<br/>\n30: Arcane Archer(15): Epic Prowess<br/>\n31: Arcane Archer(16)<br/>\n32: Rogue(15): DEX+1, (DEX=28)<br/>\n33: Arcane Archer(17): Great Dexterity III, (DEX=29)<br/>\n34: Arcane Archer(18): Armor Skin<br/>\n35: Arcane Archer(19)<br/>\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=31)<br/>\n37: Rogue(16): Skill Mastery<br/>\n38: Arcane Archer(21)<br/>\n39: Arcane Archer(22): Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n40: Rogue(17): DEX+1, (DEX=34)<br/>\n<br/>\nStats:<br/>\nHitpoints: 362<br/>\nSkillpoints: 336<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/17/35<br/>\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +4<br/>\nBAB: 26<br/>\nAB (max, naked): 39 (melee), 53 (ranged)<br/>\nAC (naked/mundane armor/shield only): 32/35<br/>\nSpell Casting: Wizard(1)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDisable Trap 43(47), Hide 43(55), Listen 43(44), Lore 10(12), Move Silently 43(55), Open Lock 1(13), Search 38(42), Set Trap 31(45), Spellcraft 8(10), Tumble 40(52), UMD 36(35)<br/>\n<br/>\n01: Disable Trap(4), Hide(4), Listen(4), Lore(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(3)<br/>\n02: Disable Trap(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(4)<br/>\n03: Disable Trap(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(5)<br/>\n04: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(7)<br/>\n05: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(9)<br/>\n06: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(11)<br/>\n07: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(13)<br/>\n08: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(15)<br/>\n09: Spellcraft(8), Save(11)<br/>\n10: Hide(2), Listen(2), Move Silently(2), Save(11)<br/>\n11: Hide(1), Listen(1), Move Silently(1), Save(14)<br/>\n12: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(1)<br/>\n13: Hide(1), Listen(1), Move Silently(1), Save(4)<br/>\n14: Hide(1), Listen(1), Move Silently(1), Save(7)<br/>\n15: Hide(1), Listen(1), Move Silently(1), Save(10)<br/>\n16: Hide(1), Listen(1), Move Silently(1), Save(13)<br/>\n17: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(5), Tumble(5)<br/>\n18: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n19: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n20: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n21: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Tumble(4)<br/>\n22: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n23: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n24: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n25: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n26: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n27: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n28: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n29: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n30: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n31: Hide(1), Listen(1), Move Silently(1), Save(12)<br/>\n32: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(1), Tumble(5), UMD(3)<br/>\n33: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n34: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n35: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n36: Hide(1), Listen(1), Move Silently(1), Save(12)<br/>\n37: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(3), Tumble(5), UMD(6)<br/>\n38: Hide(1), Listen(1), Lore(3), Move Silently(1)<br/>\n39: Hide(1), Listen(1), Lore(1), Move Silently(1), Save(2)<br/>\n40: Disable Trap(3), Hide(1), Listen(1), Move Silently(1), UMD(6)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "4:16 AM - Jan 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's because we're all playing on BSK and can get away with it.<br/>\n<br/>\nThis is a really cool build. I assume the defensive parts are so you can maintain SA range. Are the extra rogue levels for more e damage well? I figure you can give up 3 rogue levels for 3 aa levels or something.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:40 AM - Jan 21, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is my guess, throw darkness around and begin sniping with ultra-vision or something, while the listen-focusses are taking advantage of the Elf's permanent detect mode to sense any other sneaks in the area.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:34 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The extra Rogue levels are for Epic Dodge and to be a good Rogue as well as a good archer, with stronger sneaks and more skills.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:10 PM - Feb 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A great combo this Rogue/ Wizard/ AA.<br/>\nI like the different nuances comparing the PvP and PvM builds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:07 AM - Apr 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey everyone,<br/>\n<br/>\nLooking at arcane archer builds. Stumbled on this one. Was just wondering about the Weapon finesse feat in the PvM version. Is it in case you ever have to melee something ? Just curious if its a prereq for something thats escaping me.<br/>\n<br/>\nTy<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:29 AM - Apr 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"29111\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29111&amp;sid=c0cf10bf87ab8a158d665f1a1c089af1#p29111\">\u2191</a><div class=\"responsive-hide\">Apr 07, 2024</div></cite>Hey everyone,<br/>\n<br/>\nLooking at arcane archer builds. Stumbled on this one. Was just wondering about the Weapon finesse feat in the PvM version. Is it in case you ever have to melee something ? Just curious if its a prereq for something thats escaping me.<br/>\n<br/>\nTy</div></blockquote>\nHeya!<br/>\n<br/>\nI like to take Weapon Finesse with my archers too if I can spare the feat. A lot of times there are tight hallways, small rooms, etc.. where you don't have a lot of room to maneuver. In those cases, finesse does help a lot!<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:38 AM - Apr 07, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Max is exactly right about why Weapon Finesse is there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:48 AM - Apr 10, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ty :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:04 AM - Apr 12, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Taking this guy for a spin in Aeilund :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:05 AM - Apr 13, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I remember taking an AA, similar to this one, through Aielund.\u00a0 I must say that it was challenging at times.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:30 PM - Apr 13, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><details><summary>Spoiler</summary>Playing Aielund with an archer becomes much easier once you can afford the boots of travelling \n</details>\nedit: fixed the scroller<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:30 PM - Apr 13, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"29147\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29147&amp;sid=f75412542ddc75f77d84f3c787842670#p29147\">\u2191</a><div class=\"responsive-hide\">Apr 13, 2024</div></cite>Spoiler:<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nPlaying Aielund with an archer becomes much easier once you can afford the boots of travelling</div></blockquote>\nDon't think that spoiler worked, Mick - it was more of a 'scroller'!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "9:52 PM - Apr 13, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We talking solo right ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:08 AM - Apr 14, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"29150\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29150&amp;sid=f75412542ddc75f77d84f3c787842670#p29150\">\u2191</a><div class=\"responsive-hide\">Apr 13, 2024</div></cite>We talking solo right ?</div></blockquote>\nWell that depends on how you play. For me, Aielund companions just offer too much to ignore - better AI, quality banter, possible romance, side quests, covering up for being a dumb-ass, etc. Some players are more - being nice - self-motivated. Up to you, really: it'll make no real difference to your final xp.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:42 AM - Apr 14, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes I know. Just wondering if the challenge being AA was also from being solo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:10 AM - Apr 16, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10235235&amp;sid=f75412542ddc75f77d84f3c787842670\">Mick Dagger</a> wrote: <a data-post-id=\"29147\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29147&amp;sid=f75412542ddc75f77d84f3c787842670#p29147\">\u2191</a><div class=\"responsive-hide\">Apr 13, 2024</div></cite><details><summary>Spoiler</summary>Playing Aielund with an archer becomes much easier once you can afford the boots of travelling \n</details>\nedit: fixed the scroller</div></blockquote>\n\nYou mean haste ones ? Don\u2019t remember when they start showing up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:29 AM - Apr 16, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The boots of travel are not full-fledged haste.\u00a0 They only increase your movement speed.\u00a0 That's still nice to have, and handy for an archer who wants to stay out of melee range.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:15 PM - Apr 16, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">They increase the movement speed as if they were boots of permanent Expeditious retreat. When your character equips them, they give a speed increase to the entire party.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:17 AM - Apr 17, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh don\u2019t remember coming across those.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:05 AM - Apr 17, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">They can be bought in the town where you start, from the leather and cloth merchant couple next door to the mayor, but it will be a while before and afford them.\u00a0 I remember getting them in a random drop once.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "4:14 AM - Apr 17, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just found them. The speed increase is in the description and not in the properties which lists only +1 dodge AC. Thats why I missed them. Ok ty people! Now i\u2019ll stop hijacking this build thread.<br/>\n<br/>\nIts a cool build I am enjoying the mix of rogue skill set with AA dmg. Can\u2019t wait for more AA levels :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:36 AM - Apr 17, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I also love the ranged sneak attacks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "7:42 AM - Apr 17, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I agree ! Though sometimes they are jot triggering and I\u2019m not sure why. If an enemie is hitting someone else and they are not immune to it. I should be sneak attacking. But sometimes I\u2019m not. I gave up trying to figure it out.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:16 AM - Apr 18, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For a ranged sneak attack, you have to be within 30 feet.\u00a0 Maybe you weren't.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:18 PM - Apr 21, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes maybe thats it. Trying to be closer. No clue what 30 feet actually represents in game.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:54 PM - Apr 21, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"29174\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29174&amp;sid=f2f2d0043585db91014b04ef7b48f2c5#p29174\">\u2191</a><div class=\"responsive-hide\">Apr 21, 2024</div></cite>Yes maybe thats it. Trying to be closer. No clue what 30 feet actually represents in game.</div></blockquote>\nIf you were a human character, it'd be about 5xheight, but horizontal (obvs), so maybe add another for being an elf.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "11:34 PM - Apr 24, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok distance was the issue ! Now that I\u2019m paying attention I am getting way more sneak attacks. Also dmg really picked up at level 15 with my third attack !<br/>\nOk I\u2019m not a builder, but I am curious, if at level 15 I just got my AB to 11 will I be hitting 16 at level 20 for 4 attacks per round with 4 leveks of AA and one Rogue level left ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "12:01 AM - Apr 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"29176\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29176&amp;sid=f2f2d0043585db91014b04ef7b48f2c5#p29176\">\u2191</a><div class=\"responsive-hide\">Apr 24, 2024</div></cite>Ok I\u2019m not a builder, but I am curious, if at level 15 I just got my AB to 11 will I be hitting 16 at level 20 for 4 attacks per round with 4 leveks of AA and one Rogue level left ?</div></blockquote>\nIf you are following the build plan then yes!\u00a0 It'll be the 10 LVL of rogue which will add +1 to BAB (rogue does not add to BAB on the 1st LVL of each group of 4 before character level 20) and AA will add 1 per level - Total BAB by level 20 will be 16 and therefore 4 attacks per round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:01 AM - Apr 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just not sure how its calculated. So if I go 10 x 0.75 (rogue) + 0,5 (wiz) + 9 x 1 ( AA) I get AB of 17.<br/>\n<br/>\nBut if I just add whats left 11 (current AB) + 4 x 1 (AA) + 0,75 (rogue) i get 15.75.<br/>\n<br/>\nI assume the first way is how its calculated ? I\u2019m curious how its done and not doubting the actual build here :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:32 AM - Apr 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">AA is a warrior class and gets +1BAB on every level pre epic.<br/>\n<br/>\nRogue is \"3/4 BAB class\" and gets +0 BAB on class level 1, 5, 9, 13 and 17 taken pre epic and +1 BAB on class level 2, 3, 4, 6, 7, 8, 10...etc. taken pre epic.<br/>\nSo the 10th rogue level will grant a +1BAB.<br/>\n<br/>\nIn epic levels all classes get +1BAB every second level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:20 AM - Apr 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The 1/2 AB classes, like Wizard, give you a +1 BAB on even levels of the class, so no on levels 1, 3, and 5, but yes on levels 2, 4, and 6.\u00a0 The 3/4 AB classes, like Rogue, give you +1 BAB on all levels except the first one in each group of 4, so no on levels 1, 5, 9, 13, and 17, but yes on all the others.\u00a0 Full AB classes, like AA, give you +1 BAB on all levels.\u00a0 All of this applies only up to level 20.\u00a0 Starting at level 21, all builds, no matter what classes, get +1 BAB only on even levels, so the highest BAB possible at level 40 is 30.<br/>\n<br/>\nAt level 20, this build will have 7 BAB from the 10 levels of Rogue (missing ones from the 1st, 5th, and 9th levels of Rogue), 0 BAB from the 1 level of Wizard, and 9 BAB from the 9 levels of AA, for a total of 7 + 0 + 9 = 16 BAB at level 20, and 26 BAB at level 40.\u00a0 This will give you 4 attacks, +1 if you have Haste, and another +1 if you activate Rapid Fire mode, for up to 6 attacks.<br/>\n<br/>\nAlso, you can't add levels of different classes, a mistake I made early on.\u00a0 Here's an example:\u00a0 At level 20, if you have Monk 11, Fighter 4, and SD 5, you might think that the 16 levels of 3/4 classes would give you 12 BAB and 4 levels of fighter will add 4 BAB to make 16 BAB, right?\u00a0 Wrong!\u00a0 You lose a BAB at Monk levels 1, 5, and 9, and also at SD levels 1 and 5, which lowers your BAB at level 20 to only 15, so you don't get that last attack.\u00a0 To fix this, follow the Rule of Fours, with Monk 12, Fighter 4, SD 4 at level 20, waiting until after level 20 for that 5th level of SD for Defensive Roll, to qualify for Epic Dodge.<br/>\n<br/>\nEDIT:\u00a0 I should have looked at the next page to see that Mick had already offered an explanation.<br/>\n<br/>\nFURTHER EDIT:\u00a0 It might look like this build violates the Rule of Fours, with 10 pre-epic levels of Rogue, but 2 of the AA levels, with full BAB, complete the set that started with Rogue 9 and 10, and another 3 levels of AA complete another set of 4 that started with the Wizard level, leaving 4 more AA levels for the final set of 4.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:35 AM - Apr 25, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very well explained Empyre!<br/>\n<br/>\nI often use the 8/2/10 split pre epic for Arcane archers. Eg Rogue 8 (or Monk 8), Wizard 2, AA 10 and get BAB 17 at level 20.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:59 AM - Apr 26, 2024",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That clears things up alot thanks guys :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

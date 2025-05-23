@@ -1,0 +1,134 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "289",
+  "name": "Time stop",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/time-stop-t515485.html",
+  "author": "avado",
+  "avatar": "no_avatar.png",
+  "replies": 19,
+  "posts": [
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:24 PM - Sep 17, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys.<br/>\n<br/>\nIt is a new phenomena for me!  In the \"old\" days, we rarely, if EVER mentioned the spell Time stop.  I know it is part of vanilla nwn, but it was murder on pws.  The result was, that few if any servers allowed the spell.  In fact, to this day, I dont think I could even tell you what the spell looks like, as I have never used it one time, and I have NEVER had any discussion with ANY of the \"names\" in ECB about it either...  <br/>\n<br/>\nIt seems on this new guild that Time stop is a staple spell when wiz/sorcs are mentioned.  Unfortunately, it is mentioned by folks who play a specific server (that shall remain nameless).  My wonder is, has time stop been fixed for pw's or is this just one person who likes to use this sort of thing?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:23 PM - Sep 17, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong>Hey guys.<br/>\n<br/>\nIt is a new phenomena for me!  In the \"old\" days, we rarely, if EVER mentioned the spell Time stop.  I know it is part of vanilla nwn, but it was murder on pws.  The result was, that few if any servers allowed the spell.  In fact, to this day, I dont think I could even tell you what the spell looks like, as I have never used it one time, and I have NEVER had any discussion with ANY of the \"names\" in ECB about it either...  <br/>\n<br/>\nIt seems on this new guild that Time stop is a staple spell when wiz/sorcs are mentioned.  Unfortunately, it is mentioned by folks who play a specific server (that shall remain nameless).  My wonder is, has time stop been fixed for pw's or is this just one person who likes to use this sort of thing?</div></blockquote>Most, if not all, PWs have \"fixed\" TS since a long time. It would just be foolishness not to, one cannot let one spell freeze the whole server, especially since NPCs cast it too. I've seen TS sequences that \"paralyzed\" me for enough time to go and make a sandwich   <br/>\n<br/>\nSo, aye, TS is fixed in PWs. The typical fix is to let it affect only the area the caster is in.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:47 PM - Sep 17, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, even the brazillian PW I used to play in, where DMs were worthless fixed it. It is now a very viable and EXCELLENT spell. The game does move on, if not through bioware, through people like Tony K, who made a new AI system that simply fixed many stupid glitches like undeat trying to cast healing spells and basically killing themselves, familiars / companions that you would need to keep telling not to attack so they wouldn't get killed and a whole bunch of other stuff.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:54 AM - Sep 18, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks!  I liked it better when they \"fixed\" it by not using it!   Much more efficient<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "1:24 AM - Sep 18, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong>Thanks!  I liked it better when they \"fixed\" it by not using it!   Much more efficient  </div></blockquote>\nWell some PWs have written it out entirely not to say modified a bunch of spells, removed Dev Crit and many other such amenities.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:49 AM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\"Fixed\" can be subjective depending on the designer.<br/>\n<br/>\nEach seem to have interpreted the spell's \"intent\" differently according to the balance sought, though there appears to be a standard dynamic on many servers.  <br/>\n<br/>\nFor example, one server I've played stops the entire venturing party within range except caster (along with all hostiles in the vicinity, of course) yet doesn't affect any summoned creatures.  Whether that was an intentional side-effect or just a best-case-compromise type fix, I wouldn't know.  But that server was operating that way for at least 5 years that I can recall. The effective range of effect allows any artillery attacker outside the range of the effect of the TS caster to attack all those within its effect with impunity.  But once again, that is the way the spell was scripted on that one server.  I suspect the range of effect is the problem scripting the spell, deciding what range make the most sense and produces the least lag.  It can't be infinite or it would produce a real can of worms.  Imagine what happens when 50 PCs are running around spamming Timestops on the same server, especially if items are provided that contain that spell property.<br/>\n<br/>\nI imagine that the server freeze problem would have been eliminated on any of contemporary well-managed servers today.  For PW managers new to the craft, however, who knows how they have it working?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:22 AM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KailPendragon wrote:</strong><br/>\nWell some PWs have written it out entirely not to say modified a bunch of spells, removed Dev Crit and many other such amenities.</div></blockquote>\nI guess what I was refering too wasnt so much about servers, but of the ECB itself.  I have, in my day, read a few builds of all sorts.  In all the builds I have read, I cannot recall a single mention of time stop.  It seems funny that for all that time, for hundreds and hundreds of builds, no one, until now in the ECB talked about it.  <br/>\n<br/>\nYes, Dev crit is cheap.  To get to it, you need to give up alot of other things (stats, feats).  To get time stop, you just follow the wizard path, which, as time goes on is incredibly powerful.  Yes, by taking wizard you are not open to melee or divine casting or being a shape shifter (druid, shifter), and an argument could be made for each of those being a detriment to the wizard class.  however, any moron can get to time stop!  It requires 2 thoughts, wizard and intelligence... ok, and selecting spells per level, but even then, you have the intelligence and level and it is there!  Time stop, in my mind is probably the cheapest \"skill\" in the game.  <br/>\n<br/>\nI wonder if this is the reason that it wasnt mentioned.  Or, if something infinitely worse has happened...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:59 AM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On most PWs where I have played, the effect of time stop is limited to the area where it is cast. I have also seen attempts to limit it's use by not having TS scrolls available from merchants and drops. But the spell itself has been there as part of the game all the time.<br/>\nI have not seen any builds as such focusing on TS or trying to exploit the spell in any way. <br/>\nUsing TS effectively is more a question of spell tactics, buying \"time\" for the caster to dump loads of attack spells on a victim before he can react.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "1:49 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Time stop combos (TS+maxed IGMSs or TS+Mord+Bigbys or whatever) have been the basic attack combo of mages since I can remember. It's cheap, but it's effective. And it works against the player too in PvM.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "1:51 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong>\"Fixed\" can be subjective depending on the designer.</div></blockquote>The \"usual \" fix is more a matter of being practical and not nag the whole server each time a TS is cast. BW built for SP so they didn't even think about the consequences of vanilla TS in a mp environment, I guess.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "2:36 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong> To get time stop, you just follow the wizard path, which, as time goes on is incredibly powerful.  Yes, by taking wizard you are not open to melee or divine casting or being a shape shifter (druid, shifter), and an argument could be made for each of those being a detriment to the wizard class.  however, any moron can get to time stop!  It requires 2 thoughts, wizard and intelligence... ok, and selecting spells per level, but even then, you have the intelligence and level and it is there!  Time stop, in my mind is probably the cheapest \"skill\" in the game.  \n</div></blockquote>\nI'll go you one further.  Suppose an environment built their uber bosses so that it would be impossible to kill them by any means OTHER than using Timestop.  You need not suppose too long because they are out there.<br/>\n<br/>\nThere are varying degrees of \"cheapness\" throughout NWN any of which which can render a sound build strategy as ineffective.  <br/>\n<br/>\nI am guessing that is why Timestop was set to 9 sec duration just like True Strike, another easily exploitable spell.  The game originators could anticipate the potential even then.  Take notice that throughout all the patching, both these spells have remained more-or-less the same as when they were conceived.  Eliminating the somatic component of Timestop post-v1.66 made it even more useful for armored arcanists than before.  Gotta scratch my head on why Bioware made that change. <br/>\n<br/>\nWhat I find most interesting is that PW designers seeking to balance their environment, rather than get involved making massive adjustments to balance factors like Timestop, simply eliminate them.  IMO that is a cheap solution that requires no imagination or creativity.  It's easy to get out a cleaver and start hacking out all the aspects of the game that seem inappropriate.  What remains when they do that, however, is a pale version of the original game.  For some, it must seem a reasonable tact, because many of those hacked-apart servers still have significant number of regular subscribers.  I also suspect there were many ppl who never really like the original game and its dynamics so migrated to those pseudo-NWN servers when they changed the game so drastically.<br/>\n<br/>\nIMHO you are appalled to the degree you are because clerics have no recourse against it as hard as they pray to their chosen deity to save them from it!   <br/>\n<br/>\nBTW, morons cannot Timestop.  They require high intelligence (well, at least 19, anyways)... except those half-orc UMDers who find a TS scroll laying around and wonder \"Wut dis thing do?\".  UMD, another cheapness exploitable aspect limited to only a select few classes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:34 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No, it has nothing at all to do with clerics!  Contrary to popular belief, I am not one dimensional.  <br/>\n<br/>\nI dont know if, because Time stop used to lag the shiite out of the servers I used to play on or what, it was a spell that was always \"not available\".  I honestly do not recall a discussion on it in ECB.  I dont even recall seeing the spell mentioned as a strategy in wizard/sroc builds.  THat is probably my ignorance.  Then, with the new ecb, it seems that when wiz/sorc is mentioned, it is the ONLY thing that I see!  Again, probably my misunderstanding.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:50 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong>No, it has nothing at all to do with clerics!  Contrary to popular belief, I am not one dimensional.  <br/>\n<br/>\nI dont know if, because Time stop used to lag the shiite out of the servers I used to play on or what, it was a spell that was always \"not available\".  I honestly do not recall a discussion on it in ECB.  I dont even recall seeing the spell mentioned as a strategy in wizard/sroc builds.  THat is probably my ignorance.  Then, with the new ecb, it seems that when wiz/sorc is mentioned, it is the ONLY thing that I see!  Again, probably my misunderstanding.</div></blockquote>\n\nNot quite, although it's one of 5 things:<br/>\n<br/>\n1- Time Stop<br/>\n2- IGMS<br/>\n3- Damage Shields<br/>\n4- Mordenkainen's Disjunction<br/>\n5- True Strike<br/>\n<br/>\nI've read much about the use of reciprocal damage shields on a HipMaestro build, and the rest are spread around, like True Strike in this topic.<br/>\n<br/>\nTime Stop is a very cheap spell, yes, but it's very very sweet! One thing you don't mention is that by going Wizard / Sorcerer to get it at 17th or 18th level you give up melee combat prowess, AKA BAB, unless you take a full BAB class for the first 16 levels or so, in which case you'd only get TS at 33 or 34, which is very late in the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:24 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong>No, it has nothing at all to do with clerics!  Contrary to popular belief, I am not one dimensional.  \n</div></blockquote>\nYou missed my triple poke humor, avado dear.  If you were one-dimensional you would be just a point in space and we ALL know that is simply not true! <br/>\n<br/>\nI feel that the prospect of you rejoining the ranks of the NWN actives is drawing closer by the moment! *lol*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "5:32 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><blockquote><div><strong>avado wrote:</strong>No, it has nothing at all to do with clerics!  Contrary to popular belief, I am not one dimensional.  <br/>\n<br/>\nI dont know if, because Time stop used to lag the shiite out of the servers I used to play on or what, it was a spell that was always \"not available\".  I honestly do not recall a discussion on it in ECB.  I dont even recall seeing the spell mentioned as a strategy in wizard/sroc builds.  THat is probably my ignorance.  Then, with the new ecb, it seems that when wiz/sorc is mentioned, it is the ONLY thing that I see!  Again, probably my misunderstanding.</div></blockquote>\n\nNot quite, although it's one of 5 things:<br/>\n<br/>\n1- Time Stop<br/>\n2- IGMS<br/>\n3- Damage Shields<br/>\n4- Mordenkainen's Disjunction<br/>\n5- True Strike\n</div></blockquote>\n6 - Bigbys<br/>\n7 - Wails<br/>\n8 - Dominate Person/Monster+Summons+meat shield buffing+GS<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "6:00 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Touch\u00e9, Kail.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "6:06 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And it wasn't even meant to be exhaustive ah!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:31 PM - Sep 19, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong><br/>\nI feel that the prospect of you rejoining the ranks of the NWN actives is drawing closer by the moment! *lol*</div></blockquote>\n<a class=\"postlink\" href=\"http://www.nwnprc.com/manual/index.html\" rel=\"noreferrer\" target=\"_blank\">http://www.nwnprc.com/manual/index.html</a><br/>\n<br/>\nSorry mate.  Time stop is not an epic spell that I can see    Now, I would have, not only returned, but made my own PW with PRC rules had there been a TIME STOP epic spell!  Of course, no one would want to play a server that would be designed for a lv 40 divine caster (lv 40.. you cant go over cuz it messes up the game), with Dev crit, Immune to Crits, epic mage armor (PRC is +20 ARMOR AC, not 5/5/5/5), Epic warding (absorbs 50/lvl or 2000 hp for 40 rounds), Storm Mantle, and the host of other stupid epic spells.. add Time stop... O M G!  <br/>\n<br/>\nPRC is VERY corruptable folks.  My RWOT on the mountain had a Wail with a DC of 54 or something ridiculous at lv 27 (too bad he couldnt True See a bloody thing).  Mix in the Dec critting dragon, the Tempest with Perfect two wpn fighting on kukris with DC 50 and 10 apr (how many times can you roll and not get a 1), and my favorite, the build that started it all off, the cleric/hospitaler CASTER with the inate AB of 52 for 4 apr (you should be able to ad +20 to that easily).  Maybe have some fun by adding in the DC50 Sorc I played around with, and yeah, no one would ever want to play that server.  Did I mention that, since all of these builds are casters with +21 class lvls, they ALL qualify for ALL epic spells (depending on spellcraft check and lore check), and thanks to the mountain, I would do a custom item craft system!  LOL  <br/>\n<br/>\nYeah.. not going to happen..  it would be divorce for sure, and only guys and gals like you would come to play!  LOL  Maybe not.  Like I said, PRC is ADDICTIVE!  Or maybe its just the POWER!  Muhahahahahahaahahaha<br/>\n<br/>\nbtw, I took a look at my old PRC outlines (i copied and stored them before everything went kaput).  I realized that, while they are PRC, I put in alot of what I was thinking about at the time, and the thougth process behind the builds.  I dont know if they would be at all helpful for the new players who are looking to learn (we all know that Maxi would just learn the PRC and rip apart the builds anyway   ).  There currently is no place to put them.  Maybe a new forum called \"LEARN TO BUILD\" or something (outside of Max's guide).<br/>\n<br/>\n*edit.. f&amp;ck...  Greater Time Stop...  2d4 rounds, which means that Clerics DO have time stop!  Muhahahahahahahaha  Too bad I have no interest in the building part<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "12:43 AM - Sep 20, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>avado wrote:</strong><br/>\n<a class=\"postlink\" href=\"http://www.nwnprc.com/manual/index.html\" rel=\"noreferrer\" target=\"_blank\">http://www.nwnprc.com/manual/index.html</a>\n</div></blockquote>\nPRC is like learning Pathfinder to me.  Kudos to all of you who made the quantum leap into PRC-ville.  I'm afraid it will be the next life for yurz troolie to venture into that community.  Took me 5 years to learn the basics of vanilla so, as you might deduce, my learning curve is fairly flat and degrading quickly with senility.  This is called \"holding on by one's fingernails\" in the literal sense. <br/>\n<br/>\nActually, we still play PnP 3.5 where Timestop has been modified significantly in regards to what the caster can do during the stopped period but has no effect on other members of the party if they are outside the AoE when it is cast.  IMO Teleport, though it is only a Level 5 arcane spell is far more unbalanced.  (TBH, I was somewhat disappointed that vanilla NWN didn't include Teleport as part of its standard wizard repertoire and have found no custom environment that has implemented it... but I digress... yet again).<br/>\n<br/>\nIt's virtual hell for me trying to keep NWN rules separate from 3.5 and I must constantly check the wiki to remind myself of the NWN version.  So I suspect when one plays PRC they would need to stick with only that ruleset or get caught with the wrong version in their head during gameplay.  Dunno, but it seems taunting to me trying to play PRC and non-PRC servers in parallel. <br/>\n<br/>\n@Kail (or anyone else who knows this):  Does casting Timestop break the non-detection of Greater Sanctuary or Improved Invisibility on self?  I can't recall anymore.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:21 AM - Sep 20, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">NAH!  You worry too much!  PRC is just like NWN!  You take a look at what you like and go from there.  Over time, you learn it.  Most would never implement the whole thing.  It would be stupid to try to make a playable pw or mod, there is just too many stupid combos.  I know I mentioned it, but try to make a dev crit dragon WITH storm mantle (or another spell shield from the list) and greater time stop and Epic Warding... the only way would be to put the boss in an area where you couldnt spawn a dragon shape!  Regardless, the way he is made, ANY shape gets dev crit (creature), so you could use Elemental shape or Badger for crying out loud. <br/>\n<br/>\nPRC is literally a pissing contest for players who want power.  I cant imagine a party of 4 or 5 players who knew what they were doing and the right gear...  it would be sickness.  I mean, when your caster cleric has a MUNDANE AB of 52 with 4 apr, come on!  LOL  (too bad it doesnt work, but heres to dreaming).  I am not a pw or mod builder so I wouldnt even know how to start it.  But literally, it would be \"DM, make whatever you feel you can.  We will destroy it!\"  Heck, They might even be able to take out a DM!  ok.. enough of this talk of unbalance.  You really are going to get me to put my spurs back on...  curse you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

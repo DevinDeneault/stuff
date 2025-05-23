@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "138",
+  "name": "Uncanny Dodge II v1.74+ and flanking sneaks in practice",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/uncanny-dodge-ii-v1-74-and-flanking-sneaks-in-prac-t2355430.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:43 AM - Apr 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all<br/>\nI know this is a topic I am very interested in, and Web was interested in too.<br/>\n<br/>\nv1.74 added a check where if the attacker had 4 less rogue, assassin and barbarian levels combined than the defender, then sneak attacks would not occur from flanking.<br/>\nThey will occur if the opponent is flatfooted.<br/>\nBlackguard sneak attacks do not count, neither do shadowdancer levels (shadowdancer has Uncanny Dodge)<br/>\n<br/>\nJust was curious when you are noticing when this starts to become a factor for your rogue sneaker who may start to have trouble landing sneaks on enemies with flanking.<br/>\nFor me I have noticed it around level 16-17 against pure rogue enemies, for a rogue who has some multiclass into a full BAB class like fighter (ie. She is rogue 12/Fighter 3/Paladin 2 right now)<br/>\nI am thinking, as a general guide, perhaps once your rogue/assassin/barb levels combine drop 4 levels below your class level or more this becomes an issue<br/>\n<br/>\nAlso could this see the rise of the rogue/barbarian build as the best rogue sneaker build?<br/>\nMore power for half-orcs? :)<br/>\nThe sneaker to end all sneakers? (quite literally *end* them\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />)<br/>\n<br/>\nHope you guys are having a good time during this rough time.<br/>\nAlso hope we are doing Mick proud with all this sneaker talk.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:30 PM - Apr 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>v1.74 added a check where if the attacker had 4 less rogue, assassin and barbarian levels combined than the defender, then sneak attacks would not occur from flanking.</div></blockquote>\n\nThis is not formulated correctly.\u00a0 It should be :<br/>\n<blockquote><div>As of Enhanced Edition patch 1.74, <em>uncanny dodge II</em> grants immunity to sneak attacks from a flanking attacker unless the attacker has at least four more combined class levels of rogue, assassin, and barbarian than the defender. (Shadowdancer and blackguard levels are not counted.) For example, a level 10 rogue would have this immunity when attacked by a level 13 rogue, but not when attacked by a level 14 rogue. This immunity does not apply when the defender is flat-footed. This change is undocumented in the feat description. </div></blockquote>\n\nSo it should be :<br/>\n<br/>\nv1.74 added a check where if the attacker had at least 4 <em><strong>MORE</strong></em> rogue, assassin and barbarian levels combined than the defender, then sneak attacks would occur from flanking.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:52 PM - Apr 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As to where I have noticed it - from level 2 to around level 32 or so (in the environment where I play - YMMV).\u00a0 After that, only certain builds (Barb/Rog, etc) have been resistant from SA.<br/>\n<br/>\nThe problem is that my character has to have at least a 4 level advantage in the combined classes over what I am fighting.\u00a0 In the environment where I play, being that high a level over opponents results in very little XP gained.<br/>\n<br/>\nIt only gets worse in Party play - where one can reasonably expect to be able to take on opponents well over your level.<br/>\n<br/>\nTo put this in perspective - before, only those crit immunes (like Undead, Constructs, Elementals, etc) were really safe from SA.\u00a0 Now, any opponent who has enough levels combined (that is the real hammer) of Barb/Rog/Ass, is safe at least from flanking SA.<br/>\n<br/>\nNow, it is true that one can \"manipulate\" this to one's favor with various tactics.\u00a0 But that means \"jumping through more hoops\" in most of the cases.\u00a0 Uses of KD/IKD now are more important to have, as is Stunning Fist now.\u00a0 I think HiPS is also more important now in helping generate sustained SAs.\u00a0 DA's para is now very useful for generating SAs without having any penalties.<br/>\n<br/>\nThe KD feats have the -4 attack penalty, of course, and IKD has the added \"must have 13+ Int\" attached to it.\u00a0 The same -4 attack (and damage in this case) applies to Stunning Fist (not to mention the prereqs).<br/>\n<br/>\nOf course, one can get SF, KD, IKD with Monk levels, but then sacrifices levels in one of the three classes necessary for the flanking opportunites.<br/>\n<br/>\nIn the environment where I play, where there have been many recent nerfs to UMD, this has made things more difficult for low-level Rogue builds to effectively use SA as a damage generator.\u00a0 No using Darkness scrolls+Ultravision anymore, and no Improved Invis (one will have to be content to use Invis potions or any items found).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:26 PM - Apr 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"20275\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20275&amp;sid=1001eb4db5bee9f431875ff436ff0536#p20275\">\u2191</a><div class=\"responsive-hide\">Apr 09, 2020</div></cite><blockquote><div>v1.74 added a check where if the attacker had 4 less rogue, assassin and barbarian levels combined than the defender, then sneak attacks would not occur from flanking.</div></blockquote>\n\nThis is not formulated correctly.\u00a0 It should be :<br/>\n<blockquote><div>As of Enhanced Edition patch 1.74, <em>uncanny dodge II</em> grants immunity to sneak attacks from a flanking attacker unless the attacker has at least four more combined class levels of rogue, assassin, and barbarian than the defender. (Shadowdancer and blackguard levels are not counted.) For example, a level 10 rogue would have this immunity when attacked by a level 13 rogue, but not when attacked by a level 14 rogue. This immunity does not apply when the defender is flat-footed. This change is undocumented in the feat description. </div></blockquote>\n\nSo it should be :<br/>\n<br/>\nv1.74 added a check where if the attacker had at least 4 <em><strong>MORE</strong></em> rogue, assassin and barbarian levels combined than the defender, then sneak attacks would occur from flanking.</div></blockquote>\nAmounts to the same thing Web, but different wording<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "551",
+  "name": "Green Dragon Disciple (Druid/Bard/RDD)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/green-dragon-disciple-druid-bard-rdd-t2355577.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "6:30 PM - Oct 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all<br/>\n<br/>\nmotivated by the recent\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/shapechange-and-rdd-builds-t5427.html#p71310\" rel=\"noreferrer\" target=\"_blank\">thread</a>\u00a0on the WoG forum, I thought I would share my token Druid/RDD build. The idea is to have a Dragon Shape Druid with all the goodies from Bard 11 (Song+Curse Song+Taunt) and the bonuses from RDD (notably, +8 Strength!)(EDIT: as Yunim says below, the fact that RDD bonuses work when polymorphed is actually not intended and might get fixed soon). I have not tested this because life has other priorities at the moment, but I believe it is viable. Not a power build, but viable. Probably there are a lot of improvements to be made too, so go ahead!\n<details><summary>Spoiler</summary>Druid(19), Bard(11), Red Dragon Disciple(10), Human, Non-lawful and Neutral\n\nDEX: 9 (10)\nWIS: 17 (30)\nCHA: 8 (10)\nHuman: (Quick to Master)\n02: Bard(1)\n04: Druid(3): WIS+1, (WIS=18)\n06: Red Dragon Disciple(1): Knockdown\n08: Red Dragon Disciple(3): WIS+1, (WIS=19)\n10: Red Dragon Disciple(4): (STR=20)\n12: Bard(3): WIS+1, Toughness, (WIS=20)\n14: Red Dragon Disciple(7): (CON=12)\n16: Red Dragon Disciple(8): WIS+1, (WIS=21)\n18: Druid(6): Improved Critical: Unarmed\n20: Druid(8): WIS+1, (WIS=22)\n22: Red Dragon Disciple(10): {Darkvision}, (STR=24), (CHA=10)\n24: Druid(10): WIS+1, Great Wisdom I, (WIS=24)\n26: Druid(12)\n28: Druid(13): WIS+1, (WIS=26)\n30: Druid(15): Great Wisdom III, (WIS=27)\n32: Druid(17): WIS+1, (WIS=28)\n34: Bard(7)\n36: Druid(18): WIS+1, Dragon Shape, (WIS=30)\n38: Bard(10)\n40: Druid(19): DEX+1, (DEX=10)\nHitpoints: 382\nSaving Throws (Fortitude/Will/Reflex): 24/36/18\nBAB: 25\nAC (naked/mundane items only): 22/33\nAlignment Changes: 0\nConcentration 42(43), Disable Trap 1(3), Discipline 40(47), Lore 8(21), Open Lock 1(1), Perform 18(18), Spellcraft 28(30), Taunt 42(42), Tumble 40(40), UMD 35(35)\n01: Disable Trap(1), Lore(2), Open Lock(1), Save(18),\u00a0\n03: Lore(4), Save(2),\u00a0\n05: Lore(1), Save(12),\u00a0\n07: Discipline(1), Save(15),\u00a0\n09: Perform(3), Taunt(7), Tumble(7), UMD(7),\u00a0\n11: Discipline(1), Save(6),\u00a0\n13: Discipline(1), Save(3),\u00a0\n15: Save(12),\u00a0\n17: Discipline(3), Taunt(5), Tumble(5), UMD(5), Save(4),\u00a0\n19: Concentration(3), Spellcraft(3),\u00a0\n21: Discipline(4),\u00a0\n23: Save(7),\u00a0\n25: Save(21),\u00a0\n27: Discipline(5), Taunt(10), Tumble(10), UMD(10),\u00a0\n29: Concentration(2), Spellcraft(5),\u00a0\n31: Save(10),\u00a0\n33: Discipline(6), Perform(2), Taunt(6), Tumble(5), UMD(5),\u00a0\n35: Concentration(2), Discipline(1), Perform(3), Taunt(1),\u00a0\n37: Discipline(2), Taunt(2), Tumble(5),\u00a0\n39: Concentration(2), Discipline(1), Perform(3), Taunt(1),\u00a0</details>\nStrengths:\n<ul>\n<li>Highest possible STR score (56 unbuffed) on a player character :)</li>\n<li>Full Druid spellcasting (with high WIS score)+Scribe Scrolls</li>\n<li>Decent AB (+36 ) in human shape, with 3 APR</li>\n<li>Buffs to AB: +2 outdoors, +2 song, +2 Curse song, up to +6 Taunt. All undispellable.</li>\n<li>Dragon shape AB: 25 (base) +19 (STR) + 4 (RDD bonus STR) + 6 (cap STR) +6 (enhancement on claws) -2 (size) = 58, very respectable, goes up to 70 with all the above (68 indoors)</li>\n<li>UMD anything</li>\n<li>Green Dragon shape is immune to acid AND fire, for those pesky damage shielded mages</li>\n</ul>\nWeaknesses:\n<ul>\n<li>Lowish HP</li>\n<li>Lowish Fortitude and Reflex saves</li>\n<li>Only 3 APR</li>\n<li>Matures late in both Druid and Bard (and gets Dragon Shape only at 36)</li>\n<li>No room for Song feats, but the feats are easy to tweak and suit to the environment</li>\n</ul>\n\nLet me know what you think!<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:31 PM - Oct 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Not trying to discourage this build, but it's worth mentioning that the RDD polymorph bug will probably be fixed in EE v8193.18. [<a class=\"postlink\" href=\"https://github.com/Beamdog/nwn-issues/issues/185\" rel=\"noreferrer\" target=\"_blank\">https://github.com/Beamdog/nwn-issues/issues/185</a>]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "9:01 PM - Oct 06, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote:</cite>Not trying to discourage this build, but it's worth mentioning that the RDD polymorph bug will probably be fixed in EE v8193.18. [<a class=\"postlink\" href=\"https://github.com/Beamdog/nwn-issues/issues/185\" rel=\"noreferrer\" target=\"_blank\">https://github.com/Beamdog/nwn-issues/issues/185</a>]</div></blockquote>Thanks! I was not aware, I was not even aware it was a bug.<br/>\nDefinitely worth mentioning, as the build makes little sense without the extra stats (it works, but the choice of going RDD is hard to justify). Makes me feel bad as I posted a build aimed at exploiting a bug in the game :)<br/>\n<br/>\nSent from my SM-G920F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

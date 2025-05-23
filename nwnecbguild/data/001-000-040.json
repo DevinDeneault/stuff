@@ -1,0 +1,26 @@
+{
+  "category_name": "NWN World",
+  "category_id": "001",
+  "forum_name": "General",
+  "forum_id": "000",
+  "id": "040",
+  "name": "Renaming Weapons or Importing Characters???",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/renaming-weapons-or-importing-characters-t2341851.html",
+  "author": "Bawookles",
+  "avatar": "no_avatar.png",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Bawookles",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:16 AM - Sep 06, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey, all. I remember there used to be some command or override where you could select a weapon and rename it to whatever you wanted it to be called (like changing a Kama +4 to \"Cobra's Fang\") or something. Anyone know about this?<br/>\n<br/>\n I know I can do it with the Pretty Good Character modifier module and I did that, I saved my character, but when I tried to import it via a multiplayer game using my previous single person saved game, it started me up right at the beginning of the module (HOTU) rather than in the middle where my single person saved game was. So that's not working.<br/>\n<br/>\n Argghhh. I know this is simpler than how I'm doing it. Any help?<br/>\n<br/>\n<br/>\n<br/>\nThanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Bawookles",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:27 AM - Sep 06, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found what I needed, the \"Naming Quill\"!!<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Prefabs.Detail&amp;id=978\" rel=\"noreferrer\" target=\"_blank\">http://nwvault.ign.com/View.php?view=Pr ... ail&amp;id=978</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

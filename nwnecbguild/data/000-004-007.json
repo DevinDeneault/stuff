@@ -1,0 +1,134 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Preepic - Level 20 Builds",
+  "forum_id": "004",
+  "id": "007",
+  "name": "Merciless Looter: Rogue 4/ Barbarian 12/ Fighter 4",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/merciless-looter-rogue-4-barbarian-12-fighter-4-t2355068.html",
+  "author": "eltalstro",
+  "avatar": "10758878_1582351977.jpg",
+  "replies": 19,
+  "posts": [
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "1:28 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I finally put a build through the CBC that I thought would be worth posting. This guy is a real money hungry jerk. Sorry I couldn't figure out how to paste without the cell formatting. I'm sure something like this (probably much better) has been done before but I'm soloing him through the original campaign at the moment on D&amp;D Hardcore and it is almost getting to be a bit boring as he never seems to get into trouble. Doesn't go as well against undead obviously but still slogs his way through legions of festering zombies and ghouls pretty well.<br/>\n<table class=\"post_content_table\"><tbody><tr><td><strong>Rogue(4), Barbarian(12), Fighter(4)</strong>, Half-Orc</td>\n</tr>\n<tr><td>Alignment: Neutral Evil</td>\n</tr>\n<tr><td>STR: 20 (25)</td>\n</tr>\n<tr><td>DEX: 13</td>\n</tr>\n<tr><td>CON: 14</td>\n</tr>\n<tr><td>WIS: 9</td>\n</tr>\n<tr><td>INT: 8</td>\n</tr>\n<tr><td>CHA: 6</td>\n</tr>\n<tr><td>\u00a0</td>\n</tr>\n<tr><td>Half-Orc: (Darkvision)</td>\n</tr>\n<tr><td>01: Rogue(1): Toughness</td>\n</tr>\n<tr><td>02: Fighter(1): Power Attack</td>\n</tr>\n<tr><td>03: Fighter(2): Knockdown, Cleave</td>\n</tr>\n<tr><td>04: Barbarian(1): STR+1, (STR=21)</td>\n</tr>\n<tr><td>05: Barbarian(2): {Uncanny Dodge I}</td>\n</tr>\n<tr><td>06: Barbarian(3): Weapon Focus: Scimitar</td>\n</tr>\n<tr><td>07: Rogue(2): {Evasion}</td>\n</tr>\n<tr><td>08: Fighter(3): STR+1, (STR=22)</td>\n</tr>\n<tr><td>09: Barbarian(4): Improved Critical: Scimitar</td>\n</tr>\n<tr><td>10: Barbarian(5)</td>\n</tr>\n<tr><td>11: Barbarian(6)</td>\n</tr>\n<tr><td>12: Rogue(3): STR+1, Blind Fight, (STR=23)</td>\n</tr>\n<tr><td>13: Fighter(4): Weapon Specialization: Scimitar</td>\n</tr>\n<tr><td>14: Barbarian(7)</td>\n</tr>\n<tr><td>15: Barbarian(8): Dodge</td>\n</tr>\n<tr><td>16: Barbarian(9): STR+1, (STR=24)</td>\n</tr>\n<tr><td>17: Rogue(4)</td>\n</tr>\n<tr><td>18: Barbarian(10): Mobility</td>\n</tr>\n<tr><td>19: Barbarian(11)</td>\n</tr>\n<tr><td>20: Barbarian(12): STR+1, (STR=25)</td>\n</tr>\n<tr><td>\u00a0</td>\n</tr>\n<tr><td>Hitpoints: 268</td>\n</tr>\n<tr><td>Skillpoints: 89</td>\n</tr>\n<tr><td>Saving Throws (Fortitude/Will/Reflex): 15/5/10</td>\n</tr>\n<tr><td>Saving Throw bonuses: Traps: +2</td>\n</tr>\n<tr><td>BAB: 19</td>\n</tr>\n<tr><td>AB (max, naked): 27 (melee), 20 (ranged)</td>\n</tr>\n<tr><td>AC (naked/mundane armor/shield only): 15/26</td>\n</tr>\n<tr><td>Spell Casting:\u00a0</td>\n</tr>\n<tr><td>Alignment Changes: 0</td>\n</tr>\n<tr><td></td>\n</tr>\n<tr><td>Disable Trap 13(12), Discipline 23(30), Search 10(9), Taunt 23(21), Tumble 20(21)</td>\n</tr>\n<tr><td></td>\n</tr>\n<tr><td>01: Disable Trap(4), Search(4), Tumble(4), Save(16),\u00a0</td>\n</tr>\n<tr><td>02: Discipline(5), Save(12),\u00a0</td>\n</tr>\n<tr><td>03: Discipline(1), Save(12),\u00a0</td>\n</tr>\n<tr><td>04: Discipline(1), Taunt(7), Save(7),\u00a0</td>\n</tr>\n<tr><td>05: Discipline(1), Taunt(1), Save(8),\u00a0</td>\n</tr>\n<tr><td>06: Discipline(1), Taunt(1), Save(9),\u00a0</td>\n</tr>\n<tr><td>07: Disable Trap(4), Search(6), Tumble(6),\u00a0</td>\n</tr>\n<tr><td>08: Discipline(1),\u00a0</td>\n</tr>\n<tr><td>09: Discipline(1), Taunt(2),\u00a0</td>\n</tr>\n<tr><td>10: Discipline(2), Taunt(1),\u00a0</td>\n</tr>\n<tr><td>11: Discipline(1), Taunt(1), Save(1),\u00a0</td>\n</tr>\n<tr><td>12: Disable Trap(3), Tumble(5),\u00a0</td>\n</tr>\n<tr><td>13: Discipline(1),\u00a0</td>\n</tr>\n<tr><td>14: Discipline(2), Taunt(1),\u00a0</td>\n</tr>\n<tr><td>15: Discipline(1), Taunt(2),\u00a0</td>\n</tr>\n<tr><td>16: Discipline(1), Taunt(2),\u00a0</td>\n</tr>\n<tr><td>17: Disable Trap(2), Tumble(5),\u00a0</td>\n</tr>\n<tr><td>18: Discipline(2), Taunt(1),\u00a0</td>\n</tr>\n<tr><td>19: Discipline(1), Taunt(2),\u00a0</td>\n</tr>\n<tr><td>20: Discipline(1), Taunt(2),\u00a0</td>\n</tr>\n</tbody></table><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:44 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the principle - which seems to legitimize (for want of a better word) what everyone does anyway in terms of looting (and, yes, you Pallies, I'm looking at you - what, no handing your loot in to the authorities or searching for living relatives?). And your avoidance of an xp penalty is laudable. But I've a couple of thoughts, if that's ok?<br/>\n<br/>\nA Rogue without UMD? I'd be tempted to drop Dex by 1, Con by 2 and Wis by 1 and boost Int by 2 to max the skill. <br/>\n<br/>\nNow I know that means Dodge and Mobility couldn't be taken, but I wouldn't take them anyway (and I'll come to Toughness later). Instead, I'd consider Luck of Heroes and Iron Will to help with the sucky Will save (a meleer's worst nightmare is not being able to melee, after all).<br/>\n<br/>\nI would have said bin Toughness as well and take a second WF in something blunt, but dropping the Con by 2 helps justify it, so I'd let it stand and take both it and Iron Will at levels 15 and 18 (your choice which way round, but I'd prefer Iron Will at 15).<br/>\n<br/>\nHope you don't mind.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "8:03 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Stag,<br/>\n<br/>\nAll good suggestions. Dropping the Dex is a very good point as the extra point does nothing to contribute to anything now that I look at it. I could drop Wis too as I use clarity in the early stages and immunity items later against mind-affecting. The Int set at 8 is for RP flavour. One of my favourite things about the original campaign is low Intelligence dialogue; I love it. When I was a young fella I never understood who would want to play a dumb PC but now I think it's great. I'm going to head to Ye Olde Tavern to make a full post about this very thing. That's part of the idea with no UMD as well, as although it is a charisma skill, I just can't credit a really dumb half-orc being able to use a sophisticated magical item. But you're right on that count as far as effectiveness goes.<br/>\n<br/>\nRegards,<br/>\nElTalstro\u00a0 \u00a0 \u00a0 \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:33 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As ever, enjoyment and RP trump everything, so I'm with you there. Me being me, the UMD was a suggestion more for gear (dem sexy Monk slippers, for example) than using scrolls and the like. But it seems you don't have a problem with him understanding complicated trap mechanisms? Hmm <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />.<br/>\n<br/>\nI also like the Thick Jack Clot dialogues - I first encountered it when playing Mick's interpretation of mighty Minsc himself, even though it provoked patronizing bollocks from assorted npcs (soon terminated by a swift kick in the evils). I remember being hugely disappointed when it wasn't carried through when I took the same character through SoU/ HotU.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "8:49 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahaha! I knew you'd spot that inconsistency.<br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:39 AM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, having had a look at your screenshot\u00a0 of Grogg in <span style=\"text-decoration:line-through\">Ye Olde Tavern</span> the General forum, I have every respect for your contrary nature. Yes, you knocked back Dex and Wis, but did you pop them into Int? Oh no, not you, you dropped Int by another 2 and boosted Con by 2! Keep on ploughing your own furrow! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" />.<br/>\n<br/>\nWhich skill did you drop, btw?<br/>\n<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:15 PM - Jun 02, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Apropos absolutely nothing connected to this build...<br/>\n<br/>\nHaving noticed your tagline, have you had a look at Max's \"Deekin Scalesinger\" (Bard 20/ Fighter 10/ RDD 10)? It's currently residing on page 1 of the Full Epic forum. You might enjoy it - I know I did.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "2:25 AM - Jun 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah that screenshot is actually an old one. I'm going to do a revised Grogg and run him through Infinite Dungeons if GOG sort my problem out. I can't buy anything from them at the moment and I really want to. Never played IDs before or Wyvern or Pirates. I can't believe I've been playing the game since it came out but I've never played those expansions. But I digress. I'll definitely check the Deekin build. Pity you can't do a kobold race PC. I love this game. <br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:29 AM - Jun 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Of course you can, but only as a shifter :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:01 PM - Jun 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>eltalstro wrote:</cite>\nSorry I couldn't figure out how to paste without the cell formatting.</div></blockquote>\nCopy-and-Paste into Notepad or another plain text editor, and then from there into the forums.\u00a0 Also, when you start playing the build, copy-and-paste from that txt file into the notes tab of your in-game journal.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:32 PM - Jun 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Or post it on the forum directly, like wot I do - techno-idiot that I am (why does everyone want a short-cut?)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "10:48 PM - Jun 03, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Going back and reading your original response again more carefully, Stag, reminded me of why I set dex to 13. I wanted mobility so he could sprint through quickly, and mercilessly hack down mages without their lackeys getting in too many cheap shots. Dodge I like for the extra AC and obviously it's required for mobility. I've never taken iron will or other save boost feats before; I try to use an immunity item for mind spells. I used to always take luck of heros but a number of players on my old persistent world convinced me that the extra HPs from toughness were pretty hard to pass on.<br/>\n<br/>\nRegards,<br/>\nEltalstro<br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:27 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, that's fair enough, I suppose. Except that you'll be avoiding most AoOs by the time you reach a nett Tumble score of 14 in any case, which you'll do at level 12 here, so, if you're going to take Mobility you'll want it good and early - certainly not after it effectively becomes pretty much redundant. And the Dodge AC only applies to the enemy you're currently facing, so is of little use against mobs. My thinking was that boosts to your Will save give you a much better chance of actually reaching that mage before being rendered incapacitated, and you've been with us long enough to know that we don't do builds that are item dependent, because that means they're only really viable in an environment where those items are present. Admittedly, we can't get everything we want in a build (most times, anyway), and sometimes we don't have the feats or skills available to cover all our shortcomings, but that should be addressed in the preamble before presenting the build, so other potential users of the build are aware in advance.<br/>\n<br/>\nIf you're melee-ing, and doing it well, a hit point total of over 400 (200 in a level 20 build) is perfectly respectable, so Toughness is hardly ever a must-have feat (though the tanking Dwarven Defender in me might wish to differ). I do see how it contributes here, though. But I do question taking it at level 1. Maybe that's just me.<br/>\n<br/>\nNow, popping my pedant hat on for a moment, while I fully understand your reason for designating alignment as Neutral Evil, technically the build is any non-lawful - again for others who might want to try the build out. While we're always responsible for our own builds, once they're published they become public (well, Guild) property for folk to use as they see fit. All we can do is point out our builds' fair pros and cons as we give them up for broader consumption.<br/>\n<br/>\nSorry, I seem to have my serious suit on at the moment. Don't worry, it will pass.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "4:46 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ahh, fair call re the will save issue. But, regarding the tumble skill, I thought that \"relying on this bare minimum is not advised since a character may want heavier armor at some point (increasing the armor check penalty), and a character could be hit by skill-reducing effects.\" The intention for the build is to don heavy armour. Doesn't this open it up for aoo?<br/>\n<br/>\nRegards,<br/>\nEltalstro <br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "6:05 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And then I came up against Brother Toras in the crypt on the way to Luskan. He debuffed clarity and yeah, Paralyze is my most hated spell.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:38 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As far as the Tumble situation is concerned, you'll have 20 (21) points in it by level 17, which is rather more than that minimum modified 14, and it's also 1 level before you currently take Mobility, so...Anyway, it's your build my friend!<br/>\n<br/>\nGods, that Brother Toras can be a pain. I always make sure I have a Greater Belt of Guiding Light - or something like that, the one that makes you immune to death magic - before facing him. I also try to pull as many of his henchies around the corner as possible (preferably one at a time) by playing peek-a-boo with them, so there's generally only one priest, one mage and one skelly warrior protecting him before I go barrelling in. Still a tough encounter at, what, level 11 or so.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:54 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah yes, I remember fondly the first few times that I met brother Toras <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\nBrother Toras comes &amp; Benny Hill (chase) music starts...<br/>\n<span data-s9e-mediaembed=\"youtube\" style=\"display:inline-block;width:100%;max-width:640px\"><span style=\"display:block;overflow:hidden;position:relative;padding-bottom:56.25%\"><iframe allowfullscreen=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/IDi83T4wEf8\" style=\"background:url(https://i.ytimg.com/vi/IDi83T4wEf8/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%\"></iframe></span></span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:39 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well that certainly lifted my seriousity! Thanks, Valerfor!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "11:50 AM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ha! You two have pretty well summed it up. I kept running away until he'd just about huffed and puffed himself out. Then sculled a haste potion and resorted to spamming knock down.<br/>\n<br/>\nI understand what you mean now Stag. Maths is not my strong point. I've honestly been playing this game since it came out and I still find out stuff I didn't realise all the time (mostly here). So thanks! And as others have pointed out here, building is hard.<br/>\n<br/>\n<br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:10 PM - Jun 04, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Believe me, my friend, maths is not my strong point either (nice to see someone else who spells it properly, btw!). It's this lot of <span style=\"text-decoration:line-through\">playground bullies</span> - sorry, friendly helpers, who've drummed it into me over the years.<br/>\n<br/>\nI joined the Guild in November 2014, a whole month after I first even heard about the game, and everything I've learned about building since is thanks to the great and good who populate these august halls (some currently, alas, MIA). Yes, building is hard, but it's made so much easier if you're not afraid to ask what may appear to be stupid questions. Quite how they've managed to put up with a gobby berk like me for so long is beyond me sometimes - they must have the patience of saints (just don't tell them, alright?).<br/>\n<br/>\nSorry, rambling now - didn't get much sleep last night.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "802",
+  "name": "Lord of Gruumish (Fighter 20 / Bard 4 / PM 16)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lord-of-gruumish-fighter-20-bard-4-pm-16-t2355187.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:50 AM - Oct 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have been searching for sometime to identify a build in which a half-orc would be the most optimal race for a build.\u00a0<br/>\n<br/>\nDwarves and humans seem to have a monopoly over what is most optimal.<br/>\n<br/>\nPerhaps a Fighter / Pale Master might be a build in which half-orcs are the most optimal?<br/>\n<br/>\nPale Master builds tend to struggle with AB so the extra Str would be helpful.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nThis was the best I could come up with, a 45 AB Palemaster with dev crit, epic warding and 38 AC in mundane plate / tower.\u00a0<br/>\n<br/>\nIt's got a 20% exp penalty from level 12.\u00a0<br/>\n<br/>\nIf you dont want dev crit then simply drop overwhelming and devastating critical and rearrange the feats to take two Great Strengths to push the AB to 46.<br/>\n<br/>\nIf you want Epic Mage Armor, one can swap Epic Prowess for a Great Strength Feat, and take EMA as a general feat at level 39 dropping the AB by 1.<br/>\n<br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(20), Bard(4), Pale Master(16), Half-Orc\nSTR: 20 (34)\nCON: 12\nINT: 14\n\n01: Fighter(1): Luck of Heroes, Weapon Focus: Greatsword\n03: Fighter(3): Cleave\n05: Fighter(5)\n07: Fighter(7)\n09: Fighter(9): Blind Fight\n11: Fighter(11)\n13: Fighter(12): Improved Disarm\n15: Fighter(14): Resist Energy (Fire), Improved Expertise\n17: Bard(2)\n19: Fighter(17)\n21: Fighter(18): Overwhelming Critical: Greatsword, Devastating Critical: Greatsword\n23: Fighter(19)\n25: Pale Master(2)\n27: Pale Master(4): Epic Prowess\n29: Pale Master(6)\n31: Pale Master(8)\n33: Pale Master(10): Great Strength II, (STR=30)\n35: Pale Master(12)\n37: Pale Master(14)\n39: Pale Master(16): Great Strength IV, Epic Warding, (STR=33)\n\nSkillpoints: 180\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 45 (melee), 29 (ranged)\nSpell Casting:\u00a0\n\n\n01: Discipline(4), Open Lock(1), Save(10),\u00a0\n03: Discipline(1), Save(16),\u00a0\n05: Discipline(1), Save(22),\u00a0\n07: Discipline(1), Save(28),\u00a0\n09: Discipline(1), Save(34),\u00a0\n11: Discipline(1), Save(40),\u00a0\n13: Discipline(1), Save(3),\u00a0\n15: Discipline(1), Save(9),\u00a0\n17: Discipline(1), Perform(3), Spellcraft(3), Tumble(5), UMD(5), Save(1),\u00a0\n19: Discipline(1), Save(7),\u00a0\n21: Discipline(1), Search(1), Save(1),\u00a0\n23: Discipline(2), Save(2),\u00a0\n25: Search(1), Spellcraft(5),\u00a0\n27: Spellcraft(1), Save(5),\u00a0\n29: Spellcraft(1), Save(11),\u00a0\n31: Spellcraft(1), Save(17),\u00a0\n33: Spellcraft(1), Save(23),\u00a0\n35: Spellcraft(1), Save(29),\u00a0\n37: Spellcraft(1), Save(35),\u00a0\n39: Spellcraft(1), Save(41),\u00a0</details>\n<strong>Edit 21/10/19: </strong>Changed the order to take PM slightly earlier to access bone skin for +1AC earlier, after receiving feedback from a player who was playing this build! Also tidied up the perform skill schedule<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:59 PM - Oct 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It looks solid, even with the xp penalty.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "zg1k",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:29 PM - Oct 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello!<br/>\n<blockquote><div>Orion2019:<br/>\nI have been searching for sometime to identify a build in which a half-orc would be the most optimal race for a build. </div></blockquote>\nNoble goal!<br/>\n<br/>\nSadly... this draft is illegal. Epic spells require 15+ spellcraft (Epic Mage Armor - 26; Epic Warding - 34!).<br/>\n<blockquote><div>03: Fighter(3): Weapon Proficiency (Exotic)</div></blockquote>\nI recommend LOH or Great fortitude (or start with 15 DEX and focus in Double Ax like true (half)orc! (You know... Ax good, Double Ax better)).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:33 PM - Oct 07, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello zg1k!<br/>\n<br/>\nHe is indeed a very noble half-orc, and has worked hard to be smarter than most!<br/>\n<br/>\nGreat comment on spellcraft, I forgot the spellcraft requirement.<br/>\n<br/>\nVery simple fix, increase Int to 14 and reduce Cons to 12. Use the remaining skill points to max spellcraft. Still has over 400hp so its all fine.\u00a0<br/>\n<br/>\n<br/>\nI agree taking LoH would possibly be more optimal, although being able to use any weapon in the game is also pretty useful too. I get annoyed by all those cool bastard swords that drop that I want to wield!<br/>\n<br/>\nAnyway I made the change to put LoH in because why not.\u00a0<br/>\n<br/>\nDual wielding a Double Axe would be interesting but the Dex to 15 requirement would mean finding 7 additional stat points, I viewed it as less powerful, dual wielding drops the AB by 2, also some reduced damage output against damage resistant opponents albeit offset by epic weapon specialisation and dev crit<br/>\n<br/>\nThanks for your comments on my draft!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "zg1k",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:08 AM - Oct 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nVery simple fix, increase Int to 14 and reduce Cons to 12. Use the remaining skill points to max spellcraft. Still has over 400hp so its all fine. </div></blockquote>\nI'm usually crippling builds in that way. Take 2 from STR, put it in INT, set Concentration 43 in order to protect RDD/PM AC. What is the point of additional AC when trash-mob with 5 point in taunt can lower it by 6. My Bard/RDD/PM on WOG is running with perm -6 AC! (And he doesn't care xD) (And he is wearing 'Knockdown immunity' boots although he has full Discipline.) My newer character has +6 AC from RDD and full Concentration (and full Discipline - I'm still looking for an enemy with Disarm).<br/>\n<br/>\nBut...<br/>\n<br/>\nDwarf (16/8/16+2/8/16/8) beats a human by 2 points. And Half-orc... It just doesn't seem special. Take another STR build, change the race to half orc and look - MAGIC: +1 AB / DMG / DevCrit DC, minus HP, SP.<br/>\n<br/>\nBut...<br/>\n<br/>\nMaybe I'm complaining too much. It's just easier to build a half orc half dragon.<br/>\n<br/>\nFor comparison, dirty, Dirty blueprint:<br/>\n<details><summary>Spoiler</summary>Fighter(18), Bard(2), Red Dragon Disciple(20), Half-Orc\nSTR: 18 (40)\nCON: 10 (12)\nINT: 14 (16)\n\n01:Fighter(1):Luck of Heroes, Weapon Proficiency Exotic\n03:Fighter(3):Ambidexterity\n05:Fighter(5\n07:Fighter(7\n09:Fighter(9):Improved Knockdown\n11:Fighter(11\n13:Fighter(13\n15:Fighter(15):Cleave\n17:Red Dragon Disciple(1\n19:Red Dragon Disciple(3\n21:Fighter(16): Overwhelming Critical: Two-Bladed Sword, Devastating Critical: Two-Bladed Sword\n23:Red Dragon Disciple(6)\n25:Red Dragon Disciple(8)\n27:Red Dragon Disciple(10): Great Strength I, (STR=33), (CHA=8)\n29:Fighter(18): Epic Weapon Specialization: Two-Bladed Sword\n31:Red Dragon Disciple(12)\n33:Red Dragon Disciple(14): Great Strength III, Armor Skin, (STR=37)\n35:Red Dragon Disciple(16)\n37:Bard(2)\n39:Red Dragon Disciple(19): Epic Fortitude\n\nSkillpoints: 190\nSaving Throw bonuses: \nAB (max, naked): 47 (melee), 31 (ranged)\nSpell Casting: \n</details>\nBut...<br/>\nCrit Immunity + EMA!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:42 AM - Oct 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good old fighter / bard / rdd, it is such a powerful combination. Dev crit at level 21!!!! Str 40 and Base AB 47 without trying!<br/>\n<br/>\nYes pale master gets Crit Immunity and EMA and/or Epic Warding which is the main good thing about it, its more 'tanky'. I like the fact the current build I made has 34 strength, dev crit and base 45 AB as well!<br/>\n<br/>\nI think one could drop discipline in favor of concentration in this build on WoG, but if I did it officially I might get in trouble with the ECB moderators for building for a specific environment (the builds are meant to be applicable 'in general' according to the rules I have read from the original forum) but yes just put on some knockdown immune boots (or helmet with UMD) and no need for discipline skill without any decent disarming enemies. Every third enemy on WoG seems to taunt me so that is a reasonable call. (Every second enemy and his dog casts greater dispelling on me)<br/>\n<br/>\nI wouldn't drop the strength any further. Half-orc is special for its 'high strength' and I wouldn't want to lose that special part of this build. For skill points human wins hands down sadly :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:54 AM - Oct 08, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>if I did it officially I might get in trouble with the ECB moderators for building for a specific environment\u00a0</div></blockquote>\nThe main rule here is that the builds shall be general and not specific.\u00a0<br/>\nThat being said, we sometimes get requests, and even make builds geared towards specific servers or modules. The most frequent server in that respect is the lvl 30 PW, Arelith. And it is no secret that many of our builders are heavily influenced by the challenging environment on WoG too.<br/>\nBut if you make a build or a variant of a build geared towards a specific environment, you should be explicit about it, just so there is no doubt about what the purpose of the build or tweak is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "188",
+  "name": "Pvp Caster",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pvp-caster-t2354485.html",
+  "author": "Raven923",
+  "avatar": "10577588_1510287072.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Raven923",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:26 AM - Dec 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi im looking for a strong Pvp build i dont have a preferance in class just looking for ideas Wizard or Sorc leaning toward 38sorc/1monk/1pali but if anyone has anything they would say is better im all for it. Server is High Magic lvl 40 with pvp and pvm being part of it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:11 AM - Dec 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As is usually the case for these PvP requests, you need to define what kind of opposition you intend to optimize against and their respective strengths.\u00a0<br/>\n There is no one-size-fits-all PvP build for any class.<br/>\n<br/>\n For example,<br/>\n \u00a0- an ultrahigh AC build vs. AAs.<br/>\n - a PM build where DevCrit has NOT been nerfed.<br/>\n - a high Discipline build vs. IKD meleers.<br/>\n - a high CON damage shield build vs. SR monks.<br/>\n - High CON, Epic Skill Focus:Concentration vs. taunters.<br/>\n - a strategy (usually a dispeller battle) vs. plant domain cleric or druid Creeping Doom field.<br/>\n etc, etc, etc....<br/>\n<br/>\n and ultimately, you'd need to determine what kind of mage you'd be dueling in order to log with the best tweak for that threat.<br/>\n<br/>\n I used to PvP a lot many moons ago and had at least a half dozen magicians tweaked to deal with specific builds I knew roamed each server.\u00a0 When a new, innovative one joined, many times I would need to go back to the drawing board to take care of the one or two weaknesses they would display.\u00a0 Keep in mind that all high-level casters, arcane or divine may have access to the same epic spell library (except ema &amp; epic warding being both arcane only).<br/>\n<br/>\n The main problem with high-magic PvP for casters is that there are usually equipment enhancements that confer spell resistances and immunities that completely negate the casting power, or equipment that mimics spellcasting abilities. (I recall a pair of monk gloves on one server that cast Lvl 40 IGMS OnHit so with the APR that a hasted monk possesses, could clear the screen of monsters and hostile PCs in less than a minute, just insane... an extreme example but I expect you get my drift.)<br/>\n<br/>\n In other words, we would need more details to accomplish anything more than tossing out token builds that would mostly likely flop.\u00a0 Perhaps identify the server to give prospective contributors a leg up on what you might be dealing with?\u00a0 That's a start anyway.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Raven923",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:55 PM - Dec 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">ah well as i stated its a high magic so mostly gunna be magic vs magic ac is important but not to many AA's kicking around and Discipline for IKD spam yes. Also Hellball has been buffed on the server im on so it is a must to fit somewhere in the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:49 PM - Dec 24, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In that case, go with your exalted sorc idea.\u00a0 It's one of the best caster builds still around.\u00a0 You won't be able to dump to Discipline until very late so I'd stick to PvM until you reach the level cap, but still take the epic skill immediately after that dump.\u00a0 I've seen both Autostill and robe versions so that is your judgement as to what enhancements on the server might make armor/shield combo hard to pass up.<br/>\n<br/>\n Actually, if not concerned about archers, AC is not near as important since you will be wanting to get hit by meleers while the damage shields are up.\u00a0 You'll still be getting KD'd by WMs &amp; RDDs, but not nearly as much.\u00a0 Having a decent summon around will distract an attacker until the KD'd round ends.\u00a0 Hellball is okay but a once-and-done spell like that is pretty expensive to sell a feat for.\u00a0 Make sure you get Epic Warding. EMA usually isn't worth all that much in high magic since only the dodge AC will stack with other buffs and item enhancements. Like I said, if your duelmates like to taunt you may need the epic skill in concentration as well.<br/>\n<br/>\n Exalted sorcerer(ess) is very easy to build, but if you don't have a sample handy I am sure I could dig a copy up for you.\u00a0 There are versions with a few more levels of Pally that go the Power Attack/Div Shield route IF you really feel higher AC is that important.\u00a0 In that case, you need the STR 13 starter ability.<br/>\n<br/>\n If DevCrit is nerfed you need not consider a PM build.\u00a0 Otherwise, your toon will need to remain pure artilliary or suffer the consequences.\u00a0 Unless, of course, there are Crit Immunity belts or such, which effectively nerfs DevCrit.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

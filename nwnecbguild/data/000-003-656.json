@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "656",
+  "name": "Two Handed Machine",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/two-handed-machine-t2355396.html",
+  "author": "dmcgrynch",
+  "avatar": "10758852_1517392315.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "dmcgrynch",
+      "avatar": "10758852_1517392315.jpg",
+      "timestamp": "7:22 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys. I need some help with a build that i though but dont know how to make the best of it.  I play on a Server that has a subrace that allow you two hold two handed weapons in one hand and i was thinking to build a character this way but dont know how is the best way to build this. Can vou guys help me?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "10:34 PM - Mar 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We will need a lot more information to make a build that suits your needs. Most STR melee builds can be edited to take advantage of this subrace's ability so you will need to tell us more about what you're looking for.<br/>\n<br/>\nWhat is the maximum level on your server? 40 is the default for NWN but it might be different on your server.<br/>\nWill the build mainly be for PvM or PvP?<br/>\nWhat sort of magic level is available on the server? +5EB/+5AC items? Can you reach +12 to abilities via items?<br/>\nIs there a particular class that you want to play?<br/>\nDo you want a build that is optimised for the maximum level or do you want a build that is easier to play throughout the whole lifetime of the build?<br/>\n<br/>\nWhat stats does the subrace have?<br/>\nDoes it have a particular base race (eg half orc) or is it a separate race at character creation?<br/>\nDoes it have any ability increases/decreases or receive any extra feats?<br/>\n<br/>\nDoes two-handed refer to double-sided weapons as well (eg dire mace) or just normal two-handed weapons (eg greatsword)?<br/>\nCan you dual-wield two two-handed weapons at once (eg 2x greatswords) or just use a shield in the offhand (eg dire mace + shield or greatsword + shield)?<br/>\nDo these weapons still get the 1.5x STR modifier when wielded in one hand?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "5:48 PM - Mar 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've tried dual-wielding 2h weapons before and the game engine doesn't really allow it. So unless the server has overrides I think you'll be stuck with a 2h weapon + a shield/smaller weapon. You can modify 2das to get a 2h equipped in both slots but the animations are janky. <br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:24 AM - Mar 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If that's the case for\u00a0dmcgrynch's server then you can pick almost any STR melee build on the ECB that is built to use a one-handed weapon + shield and edit it to use a two-handed weapon + shield.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

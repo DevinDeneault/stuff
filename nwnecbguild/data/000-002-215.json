@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "215",
+  "name": "An Epic Dodge Question...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/an-epic-dodge-question-t2354654.html",
+  "author": "HipRedux",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:42 PM - Dec 19, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all, me with more dumb-assery.<br/>\n<br/>\n Is it possible to take ED at the same time as either Defensive Roll or Imp Evasion? A scenario for you, to illustrate: a toon takes level 30 as Rogue 13 and takes Defensive Roll as the Rogue BF. It already has Imp Evasion at Rogue 10 and has the 30 ranks in Tumble and a DEX of 25 (all at level 27), together with a further DEX+1 at level 28. Is it then possible for said toon to take ED as the general feat at level 30? Or would it have to wait?<br/>\n<br/>\n I've looked at the wiki and the discussions thereon about ED, as well as the rest of this General Discussion sub-forum for the entries on ED, and I'm still none the wiser. Sorry.<br/>\n<br/>\n Thanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:16 PM - Dec 19, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The selection order is: Skills, Bonus Feat, General Feat.<br/>\n<br/>\nSo, yes.\u00a0 ED is possible at earliest of Level 27 but you'll need DEX 25 before that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:46 PM - Dec 19, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Hip! I suspect the point is now moot as far as my \"illustrative example\" is concerned, and it gives answer to a question I won't now feel obliged to ask, so a double hit with one short answer - splendid!<br/>\n<br/>\n Actually, a third thanks is also in order. I had assumed that the order of levelling up activities was fairly arbitrary - after all, you couldn't do it all at once, so some sort of ordering was necessary - but it's good to know exactly what that ordering is. Very useful for the future. Oh, and by the same logic, I'll therefore assume that a basic stat increase (eg CON+1, as opposed to a Great CON feat) occurs before the skills implementation. Unless you tell me otherwise.<br/>\n<br/>\n You'd think, wouldn't you, that with 40 levels to play with, things should be easier than sliding razorblades through hairs? Perversely, it's the fact that they're not that makes this game so appealing to me...well, it's one of the things.<br/>\n<br/>\n Cheers <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:59 AM - Dec 20, 2016",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, you could \"sneak\" either an HS level or Level 14 of AA and/or assassin in any time, like at Level 25 or 26 (or both) but those bonus would be in the form of Great DEX (in the case where your race/ability spread may not have been aggressive enough to reach the DEX 25 prereq early on its own merit).<br/>\n<br/>\nDidn't mean to cloud the possibilities with rarely-used permutations, but there it is, nonetheless.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

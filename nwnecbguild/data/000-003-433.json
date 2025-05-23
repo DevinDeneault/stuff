@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "433",
+  "name": "Oddity <AA(13) Ranger(11) WM(6)>",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/oddity-aa-13-ranger-11-wm-6-t2298785.html",
+  "author": "Nokteronoth",
+  "avatar": "10235276_1510287070.gif",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Nokteronoth",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:19 AM - Nov 22, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Elf, any alignment that you feel like. <br/>\n<br/>\nThis is for PvP/PvM both, but it's not very practical. <br/>\n<br/>\nSTR: 8<br/>\nDEX: 20 (30)<br/>\nCON: 6<br/>\nWIS: 11<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHitpoints: 214<br/>\nSkillpoints: 186<br/>\nSaving Throws (Fortitude/Will/Reflex): 17/11/23<br/>\nSaving Throw bonuses: Mind Effects: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 35 (melee), 41 (ranged)<br/>\nAC (naked/mundane armor/shield only): 20/24<br/>\nSpell Casting: Ranger(1)<br/>\nAlignment Changes: 0<br/>\n<br/>\nI didn't really bother with skills on this one, it's mostly an RP type of thing. <br/>\n<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Ranger(1): Point Blank Shot, Favored enemy I, {Dual Wield}<br/>\n02: Ranger(2)<br/>\n03: Ranger(3): Weapon Focus: Longbow<br/>\n04: Ranger(4): DEX+1, (DEX=21)<br/>\n05: Ranger(5): Favored enemy II<br/>\n06: Ranger(6): Rapid Shot<br/>\n07: Ranger(7)<br/>\n08: Arcane Archer(1): DEX+1, (DEX=22)<br/>\n09: Arcane Archer(2): Dodge<br/>\n10: Arcane Archer(3)<br/>\n11: Arcane Archer(4)<br/>\n12: Arcane Archer(5): DEX+1, Mobility, (DEX=23)<br/>\n13: Arcane Archer(6)<br/>\n14: Arcane Archer(7)<br/>\n15: Arcane Archer(8): Expertise<br/>\n16: Arcane Archer(9): DEX+1, (DEX=24)<br/>\n17: Arcane Archer(10)<br/>\n18: Ranger(8): Spring Attack<br/>\n19: Ranger(9): {Improved Two-Weapon Fighting}<br/>\n20: Ranger(10): DEX+1, Favored enemy III, (DEX=25)<br/>\n21: Arcane Archer(11): Whirlwind Attack<br/>\n22: Arcane Archer(12)<br/>\n23: Arcane Archer(13)<br/>\n24: Ranger(11): DEX+1, Weapon Focus: Rapier, (DEX=26)<br/>\n25: Weapon Master(1): Weapon of Choice: Rapier<br/>\n26: Weapon Master(2)<br/>\n27: Weapon Master(3): Weapon Finesse<br/>\n28: Weapon Master(4): DEX+1, (DEX=27)<br/>\n29: Weapon Master(5)<br/>\n30: Weapon Master(6): Armor Skin<br/>\n<br/>\n<br/>\n~Nok<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:16 PM - Nov 23, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The biggest reason to take WM in a build is to get a wider critical threat range, which you get at the 7th WM level. You are stopping 1 level short of the big payoff for all those prerequisites you took to get WM.<br/>\nIf you take 6 levels of Fighter instead, you would get 5 feats: Epic Weapon Focus, Armor Skin, Epic Prowess, Weapon Spec, and Epic Weapon Spec. This would allow you to use all 4 general epic feats for Great DEX. You could also replace some of those WM prerequisites with more useful feats.<br/>\n<br/>\nAnother idea would be to take an additional 6 levels of AA.<br/>\n<br/>\nOr, drop a Ranger level to get that 7th WM level. Maybe choose shortsword instead of rapier, so you can take advantage of the Ranger's dual-wield ability.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

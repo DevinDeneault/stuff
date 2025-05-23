@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "674",
+  "name": "Shadowsorcerer: So 36/ PM 1/SD 3",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/shadowsorcerer-so-36-pm-1-sd-3-t2355374.html",
+  "author": "Pura",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:28 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Different shades of sorcerer builds seem to pop up this week, so I felt inspired to look at some of my own sorcerer builds when I found this one.<br/>\nI share it here for feedback before I go ahead and play it for further testing.<br/>\nThe idea is a mage that pops in and out of stealth, showing up anywhere and unloads her spells before vanishing again.<br/>\nThe Invisibility spell could have done the trick, but spamming stealth (HIPS) with a caster has a different flavour to it.<br/>\n<br/>\nI use Palemaster as stepping stone for the stealth skills. I could have gone with rogue (and UMD) or any other stealth class, but went with PM for the spell slots (at least pre epic) and the slightly better AC. I think it is a cool and different way to use the class for its class skills. PM also fits thematically this shadow caster with her focus on necro spells.<br/>\nSD takes stealth further and offers HIPS, tumble, evasion and UD. With the epic skill feats, stealth becomes comparable to that of a dexer.<br/>\nThe sorcerer part still has 36 class levels, a charisma of 34 and the most essential feats.<br/>\nAny input and feedback is welcome.<br/>\n<details><summary>Spoiler</summary>Sorcerer(36), Pale Master(1), Shadowdancer(3), Human\nSTR: 8\nCON: 14\nINT: 14\n\n02: Sorcerer(2)\n04: Sorcerer(4): CHA+1, (CHA=18)\n06: Sorcerer(6): Empower Spell\n08: Sorcerer(7): CHA+1, (CHA=19)\n10: Sorcerer(9)\n12: Sorcerer(11): CHA+1, Dodge, (CHA=20)\n14: Sorcerer(13)\n16: Sorcerer(15): CHA+1, (CHA=21)\n18: Sorcerer(16): Maximize Spell\n20: Sorcerer(18): CHA+1, (CHA=22)\n22: Sorcerer(20)\n24: Sorcerer(22): CHA+1, Epic Skill Focus: Hide, (CHA=23)\n26: Sorcerer(24)\n28: Sorcerer(25): CHA+1, (CHA=24)\n30: Sorcerer(27): Great Charisma II, (CHA=26)\n32: Sorcerer(29): CHA+1, Epic Spell: Epic Warding, (CHA=27)\n34: Sorcerer(31)\n36: Sorcerer(33): CHA+1, Great Charisma V, (CHA=31)\n38: Sorcerer(35): Great Charisma VI, (CHA=32)\n40: Sorcerer(36): CHA+1, (CHA=34)\nHitpoints: 254\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 18 (melee), 20 (ranged)\nSpell Casting: Sorcerer(9)\nWail DC: 37 (43 with capped charisma)\nSkillpoints: 227\n\n02: Concentration(1), Save(17), \n04: Concentration(1), Save(25), \n06: Concentration(1), Save(28), \n08: Concentration(1), Save(4), \n10: Concentration(1), Spellcraft(5), Save(7), \n12: Concentration(1), Save(15), \n14: Concentration(1), Save(23), \n16: Concentration(1), Save(26), \n18: Concentration(2), Save(3), \n20: Concentration(1), Spellcraft(5), Save(6), \n22: Concentration(1), Save(14), \n24: Concentration(1), Save(22), \n26: Concentration(1), Save(25), \n28: Concentration(2), Save(3), \n30: Concentration(1), Spellcraft(5), Save(6), \n32: Concentration(1), Save(13), \n34: Concentration(1), Save(21), \n36: Concentration(1), Save(25), \n38: Concentration(1), Save(33), \n40: Concentration(2), Spellcraft(5), \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:54 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick. You more than anyone know I am far from qualified to comment on a caster build, but I'm just wondering...<br/>\n<br/>\nIf the intention is to swoop in from invisibility (via HiPS), cause mayhem and death, then zip back out again, are EMA and Epic Warding a \"safe\", belt and braces approach? Why not give her Hellball and Greater Ruin just for the sheer devilment of it?<br/>\n<br/>\nYou probably have better reasons for taking what you do, but I thought I'd ask...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:05 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick<br/>\nThis build looks pretty well optimised to me<br/>\nI would only make minor tweaks if I were to play it.<br/>\nOne would be to move the spell focus / greater spell focus: necromancy feats to a bit later pre-epic, maybe when you get access to finger of death.<br/>\nYou could also choose Gnome, or Halfling as races, you won't have multiclass penalties with your class combo. Smaller classes have better stealth capabilities. There may be RP reasons not to do this. Would I do this? I would be tempted to stick with human to be honest. The skill points are handy in Sorc/SD builds.<br/>\n<br/>\nThis is a matter of personal preference but I would fit toughness into the build by aiming for a ending Charisma score of 32 and base HP close to 300 to mitigate the Sorc d4 hit die issue. The remaining epic feat that is freed up can deal with another vulnerability, could be saves (Epic Fortitude), rest restrictions (Craft Wand/Scribe Scroll), interrupted spells (ESF: Concentration/Epic Energy Resistance, Craft Wand). But some players don't mind playing with less HP and that is fine too<br/>\n<br/>\nEdit<br/>\nOne additional thought. ranger 1 epic levels allows you to take ESF: Necromancy as a bonus feat and grants stealth skill dumping to qualify for SD? If you are willing to wait till epics for SD. You could take ranger pre epic but then you don't get that nice benefit I think. Although GSF can be taken as a bonus feat pre epic? Might be worth looking into!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:08 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you both!<br/>\n@Stag I am not a very big fan of the epic damage spells, but replacing EMA and EW with something may be an option. They come in handy though against true seers where stealth won't work.<br/>\n<br/>\n@Orion Allocating pre epic feats may possibly improve playability, so I will look into it. I have tried to make it a gnome, but it fell a bit short on skill points. As for Toughness I cringe at the thought of swapping an epic feat for it. (Edit: I don't see d4 as an issue.) Taking a single level of ranger for the great/epic spell focus feat grants synerergy as it also gives the stealth skills. I may look into that as well. <br/>\n<br/>\nMy priority if I could free up epic feats would be a second school focus or simply more charisma.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "7:14 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's hard to make a bad sorcerer.\u00a0 I know because I tried.\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:25 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>grizzled_dwarflord wrote: <a data-post-id=\"19361\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19361&amp;sid=82b840248746c940074d30da6ee86c52#p19361\">\u2191</a><div class=\"responsive-hide\">Feb 25, 2020</div></cite>It's hard to make a bad sorcerer.\u00a0 I know because I tried.\u00a0\u00a0</div></blockquote>\nI could give you some tips, if you're interested <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:32 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"19362\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19362&amp;sid=82b840248746c940074d30da6ee86c52#p19362\">\u2191</a><div class=\"responsive-hide\">Feb 25, 2020</div></cite><blockquote><div><cite>grizzled_dwarflord wrote: <a data-post-id=\"19361\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19361&amp;sid=82b840248746c940074d30da6ee86c52#p19361\">\u2191</a><div class=\"responsive-hide\">Feb 25, 2020</div></cite>It's hard to make a bad sorcerer.\u00a0 I know because I tried.\u00a0\u00a0</div></blockquote>\nI could give you some tips, if you're interested <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /></div></blockquote>\nStag, kind of like me trying to make a basher....\u00a0 \u00a0:)\u00a0 \u00a0 I can always make a bad fighter..\u00a0 \u00a0might even be one of those like Mick's April Fools toon...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:49 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"19359\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19359&amp;sid=82b840248746c940074d30da6ee86c52#p19359\">\u2191</a><div class=\"responsive-hide\">Feb 25, 2020</div></cite>Thank you both!<br/>\n@Stag I am not a very big fan of the epic damage spells, but replacing EMA and EW with something may be an option. They come in handy though against true seers where stealth won't work.<br/>\n<br/>\n@Orion Allocating pre epic feats may possibly improve playability, so I will look into it. I have tried to make it a gnome, but it fell a bit short on skill points. As for Toughness I cringe at the thought of swapping an epic feat for it. (Edit: I don't see d4 as an issue.) Taking a single level of ranger for the great/epic spell focus feat grants synerergy as it also gives the stealth skills. I may look into that as well. <br/>\n<br/>\nMy priority if I could free up epic feats would be a second school focus or simply more charisma.</div></blockquote>\nFair enough on the d4 hit die. I certainly party with low HP mages but they don't have HiPS and they are not speed casters either so I have to keep an eye on em.<br/>\n<br/>\nIf one searches the ECB archives one will see that the Sorcerer / Shadowdancer combo has been pretty much ignored, which is extraordinary. Not even one build.<br/>\nMaybe 6 months ago I wrote my <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/hips-ing-speed-caster-sorcerer-35-monk-3-sd-2-t2355198.html#p17294\" rel=\"noreferrer\" target=\"_blank\">HiPSing Speedcaster</a> build draft. I'm at level 24 with her.<br/>\nIt is great Mick that you are exploring it with your experience with DC sorcerer spell-casting and stealth builds.<br/>\nRanger 1 would potentially allow a dual spell focus, perhaps dual epic spell focus even.\u00a0<br/>\nA dual epic spell focus HiPSing sorc with 32 base Cha?\u00a0\u00a0<br/>\nPerhaps evocation for Firebrand 0 +1 +2 +3 for lvl 5-8 then Wail or Max IGMS for lvl 9?\u00a0<br/>\nSpells per day for each being 10 - 9 - 9 - 9 - 9 (<strong>46 total/day</strong>) if you can cap Cha at 44.\u00a0<br/>\nPlus you are sneaking around HiPS'ed too.\u00a0Now that would be something that sounds pretty fun for a solo stealther.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "11:09 PM - Feb 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've played wizard/pm/sds before and they're a ton of fun. It feels incredibly powerful to be able to drop ice storms then HiPS away. You can easily maneuver such that your enemies form a huge clump then rain hell upon them from a safe distance. Never tried a sorcerer version. Cool build!<br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:49 PM - Feb 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>wildleaf wrote: <a data-post-id=\"19371\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19371&amp;sid=82b840248746c940074d30da6ee86c52#p19371\">\u2191</a><div class=\"responsive-hide\">Feb 25, 2020</div></cite>I've played wizard/pm/sds before and they're a ton of fun. It feels incredibly powerful to be able to drop ice storms then HiPS away. You can easily maneuver such that your enemies form a huge clump then rain hell upon them from a safe distance. Never tried a sorcerer version. Cool build!<br/>\n<br/>\nSent from my SM-G955U using Tapatalk</div></blockquote>\nThis is really encouraging, wildleaf!<br/>\nI would think that it is easier to fit enough skill points into a wizard build than a sorcerer one, and perhaps that would make it feasible even with a gnome or halfling.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "4:35 PM - Feb 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My old build had 10 levels of pm, I'll scrounge it up later. I like the concept of taking 1 level to dump stealth skills for SD though.<br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "7:36 PM - Feb 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@wildleaf</em>\u00a0The 1 level PM also is great for the +2 AC, and if taken pre-epic, +2 Fort/Will! What a bargain! I use the same trick for Wizard builds that would otherwise only have 2 classes. Wiz 36/Rog 3/PM1 comes to mind.<br/>\n<br/>\n<em class=\"mention\">@Mick Dagger</em>\u00a0Great build! I bet it would pair well with <em class=\"mention\">@webshaman1</em>\u00a0's Nightshade.\u00a0<img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "281",
+  "name": "Lich",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lich-t2354315.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:19 AM - Sep 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What build would you make with this subrace??<br/>\n Lich<br/>\n Restrictions: Human<br/>\n Required Class: Wizard or Sorc<br/>\n Benefits: +4 Int, +4 Charisma, +2 Con, 15% Immunity to Piercing, Slashing, Cold, Electrical, +5 regen per round<br/>\n Robes of the undead :Quest item robes with crit immunity<br/>\n Feats: Combat Casting, Greater Spell Penetration<br/>\n Negatives: 100 Divine Vul -2 str, -2 Dex<br/>\n ECL 4<br/>\n<br/>\n Thank you<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thell",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:17 PM - Sep 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think it goes without saying you probably want to consider putting that immense CHA or INT bonus to work. I could reccomened a few different builds, but it would help to know what the limits and restrictions are on your server in question (Can you have Evil Paladins or are classes restricted?).<br/>\n<br/>\n Something like a Sorc/Monk/Paladin or Blackguard is a long held solid standard which may or may not work on your server and with the immunities provided by the Undead race could be quite formiddable with a few recipro-shields stacked (possibly even Divine Shield too if you'd like a decent AC, but the penalty to STR for power attack may put you off that). <br/>\n<br/>\n I can imagine something like this would make quite a scary DC Wizard too if you took plenty of Great Intelligence and Epic Spell Foci (Spam Wail of the Banshee!) if in all truth I'd be morely likely to take that with a Monk/PM and SD dip with Epic Stealth Skill Foci for an extra escape route.<br/>\n<br/>\n More information would really help. I wouldn't be too worried about the divine vulnerability though, short of Paladins (who will likely OHKO you anyway if they're a dedicated smiter and you're evil) you won't see it too often. Even a Cleric with the Sun Domain who spams searing light will really just be poking your spell mantles. UtD and Heal will naturally rape you though<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:35 PM - Sep 13, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes We can have Evil paladins but I guess I should have stated that I would want a pure build.  Either a pure sorc or pure wizard.<br/>\n There or focus items one that can get that boosts ones spells.  The most powerful one needs 40 levels of wiz or sorc<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Thell",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:06 AM - Sep 14, 2014",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok well, it's pretty hard to do a pure arcanist wrong Kidmiracleman. Are you going for quality of spells (Wizard) or quantity (Sorc)?<br/>\n<br/>\n Is there a list of changes for your server? A lot will depend on what spells if any have been modified which spell foci you should choose or if you need Epic Penetration or not (unlikely pure admittedly, but you never know).<br/>\n<br/>\n Generally for a DC caster you're going to want Spell Foci in Necromancy for the death spells and as many Greater Int/Cha feats as you cna work in alongisde any epic spells you want, I only really advocate Hellball for the KD effect if it's a high magic server, otherwise you may want some others. Evocation is nice for pure damage, as is Enchantment especially for PvM if you're non evil (Protection from evil makes it a crap choice if you are) but I'm rather partial to Conjuration to get better DC's on my Flame Arrows. Don't bother with the others unless they've been buffed, in vanilla they suck.<br/>\n<br/>\n Oh yes, Flame arrow. Take Empower and/or Maximize spell and spam that on enemies you can't reliably kill with Wail of the Banshee. It's the highest single target damage dealer in the game, even moreso than Issac's Greater Missile Storm.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

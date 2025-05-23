@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "712",
+  "name": "The Arcane Dagger-Master (Wizard 26 / Rogue 13 / Ranger 1)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-arcane-dagger-master-wizard-26-rogue-13-ranger-t2355319.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:12 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">The Arcane Dagger-Master</span></strong><br/>\n<strong><span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202001/10759084_b51a35983dc33206a7f384da87ced84e.jpg\" />\n</dl>\n</span></strong><br/>\n<span style=\"font-size:50%;line-height:normal\">Image source:\u00a0<a class=\"postlink\" href=\"http://blackmarches.wdfiles.com/local--files/caddus/Caddus\" rel=\"noreferrer\" target=\"_blank\">http://blackmarches.wdfiles.com/local-- ... dus/Caddus</a></span><br/>\n<br/>\nThis was a cool concept I came up with.<br/>\n<br/>\nDex Halfling Wizard / Rogue, with all the good stuff:<br/>\n- Level 9 'undispellable' wizard spell book with Extend, Empower, Craft Wand, Scribe Scroll<br/>\n- Epic Warding / Epic Mage Armor<br/>\n- Base melee AB 38 and ranged AB 36 (despite a BAB of 23), 7d6 sneak attack with\u00a0Improved Knockdown<br/>\n- 300+ skill points to max stealth, detect, concentration, disable trap, Tumble 40 / UMD 30, set deadly traps<br/>\n- Evasion/Improved Evasion, Uncanny Dodge, Epic Dodge (eventually)<br/>\n- 350+ hp (with 39 hit die of d4 and d6, not bad at all), top it off with an empowered endurance and you should be able to front line ok (I think), not dwarven defender style, but enough<br/>\n<br/>\nPlus an ending topping of Ranger Cheese for free dual wielding (by which time he should have the AB to use this properly), free bonus epic feat for epic prowess, and the ability to further skill dump stealth and detect.<br/>\n<br/>\nHeaps of ways he can utilise his sneak attack, with summons, with a sling, with stealth, with traps, with improved knockdown, with invisibility, and of course, our favorite spell, Bigby's.<br/>\n<br/>\nWith extended haste he can start off sneaks with a two hit flurry, then stealth away.<br/>\n<br/>\nChose school of illusion for the extra spells / day. Essentially no multiclass penalties (only at level 40 when the ranger level is taken).<br/>\n<br/>\nAnd of course its a halfling, one of the coolest races in the game!\u00a0<br/>\n<br/>\nOnly one sort of similar build in the archives (<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build315872.html\" rel=\"noreferrer\" target=\"_blank\">Shadow of Magic Wizard 26/Rogue 13/SD 1</a>), here I've decided the costs of SD are too much with the pre-requisite feats, and chose to use ranger instead for the bonus feat, I also like builds with str 10+ due to encumbrance.<br/>\n<br/>\nAnyway this one looked nice so I thought I would put this one up for review, maybe there is stuff you guys would do differently, love to hear it.<br/>\n<details><summary>Spoiler</summary>Illusionist(26), Ranger(1), Rogue(13), Halfling\nSTR: 10\nCON: 16\nINT: 16 (19)\n\n01: Rogue(1): Blind Fight\n03: Illusionist(2): Weapon Finesse\n05: Rogue(2): {Evasion}\n07: Illusionist(4)\n09: Illusionist(6): Weapon Focus: Dagger\n11: Rogue(4)\n13: Rogue(6)\n15: Illusionist(8): Improved Knockdown\n17: Rogue(9)\n19: Rogue(11)\n21: Illusionist(9): Epic Weapon Focus: Dagger\n23: Illusionist(11)\n25: Illusionist(13)\n27: Illusionist(15): Great Dexterity II, Great Intelligence II, (DEX=23), (INT=19)\n29: Illusionist(17)\n31: Illusionist(19)\n33: Illusionist(21): Great Dexterity IV, (DEX=27)\n35: Illusionist(23): Epic Spell: Epic Warding\n37: Rogue(13): Defensive Roll\n39: Illusionist(26): Epic Dodge, Epic Spell: Epic Mage Armor\n\nSkillpoints: 331\nSaving Throw bonuses: Spells: +8, Traps: +2, Fear: +2\nAB (max, naked): 38 (melee), 36 (ranged)\nSpell Casting: Wizard(9)\n\n\n\n01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(1), Spot(4), Tumble(4), UMD(4), Save(10),\u00a0\n03: Concentration(1), Save(11),\u00a0\n05: Disable Trap(3), Hide(4), Listen(3), Move Silently(4), Search(1), Spot(3), Tumble(4), UMD(4),\u00a0\n07: Concentration(3), Save(7),\u00a0\n09: Concentration(1), Save(15),\u00a0\n11: Disable Trap(2), Hide(5), Listen(4), Move Silently(5), Search(2), Spot(2), Tumble(5), UMD(5),\u00a0\n13: Disable Trap(2), Hide(1), Listen(2), Move Silently(1), Spot(4), UMD(1),\u00a0\n15: Concentration(5), Save(4),\u00a0\n17: Disable Trap(2), Hide(1), Move Silently(1), Spot(1), Tumble(5), UMD(1), Save(5),\u00a0\n19: Disable Trap(1), Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(1), Save(15),\u00a0\n21: Concentration(6), Spellcraft(19),\u00a0\n23: Concentration(1), Spellcraft(1), Save(5),\u00a0\n25: Concentration(1), Spellcraft(1), Save(13),\u00a0\n27: Concentration(1), Spellcraft(1), Save(21),\u00a0\n29: Concentration(1), Spellcraft(1), Save(29),\u00a0\n31: Concentration(1), Spellcraft(1), Save(37),\u00a0\n33: Concentration(1), Spellcraft(1), Save(45),\u00a0\n35: Concentration(1), Save(55),\u00a0\n37: Disable Trap(3), Hide(17), Move Silently(17), Spot(10), Tumble(17), UMD(8),\u00a0\n39: Concentration(1), Save(9),\u00a0</details>\n<strong>Edit:</strong>\u00a0minor edit to leveling order and attribute gains<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:55 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's almost Belkar Bitterleaf!<br/>\n<br/>\nMinus the magic.<br/>\n<br/>\n*ahem*<br/>\n<br/>\nI just...hate the daggers.<br/>\n<br/>\nI do.<br/>\n<br/>\nI know, I shouldn't.<br/>\n<br/>\nBut I do.<br/>\n<br/>\nCan we get Double Kukris on a stick, please?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:41 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Daggers are fine!\u00a0\n<details><summary>Spoiler</summary>In no way is my opinion biased\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "4:18 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Could be that I just play too many casters... but I detest that 19 Int.\u00a0 Especially in a build that needs more skill points.\u00a0 1 more Int nets you what.. 40 more skill points that lets you bump up set trap and search/open lock.<br/>\n<br/>\nI'd even be willing to drop dex to 28 just to get that extra point, though not sure what I'd use the extra great dex feat for.<br/>\n<br/>\nOther then that looks like one I'd like to try.\u00a0 \u00a0Though I've played one similar before but I think I stopped dex at 26 after getting Epic Dodge.<br/>\n<br/>\nDang it Orion.. I already have 7-8 other toons stacked up to try out...\u00a0 :)\u00a0 \u00a0<br/>\n<br/>\nLOL.. back to that PW that hosts the 12 Step Toon Builders Support Group....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:12 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><span style=\"color:#131513\">Thanks for the suggested tweaks!</span><br/>\n<em class=\"mention\">@webshaman1</em>\u00a0- for kukris you can swap toughness for exotic weapon proficiency, then the weapon foci to kukri's if you wish. Will cost 40hp in exchange for a wider crit range (which can be buffed with Keen Edge). Not a bad trade, I personally wanted a little more HP, but with empowered Endurance + Summons to tank for you, one could do fine.\u00a0<br/>\n<br/>\nThanks for the tip on\u00a0Belkar Bitterleaf, what an interesting character! Halfling Rogue/Barbarian with a +20 ring of jumping.\u00a0<br/>\n<br/>\n<em class=\"mention\">@conlaoch</em>\u00a0- for int 20, you can drop starting cons to 14, starting dex to 14 and increase starting int to 18 for +43 skill points at the cost of -1AB/-1AC/-1fort/-40hp, plus you can trade one great intelligence feat at level 27 for an epic skill focus: concentration or disable trap, epic energy resistance or armor skin. Bit expensive, but probably ok with Base AB 37 given the buffs in the build.<br/>\n<br/>\nMy WoG account is currently like a conveyor belt with all the build drafts I am trying to churn through btw to play test. <em class=\"mention\">@BlackCobra</em>\u00a0tells me if he sees a new toon on the server, he'll just assume its me and /tp Orion \"Another Toon???\" :)<br/>\n<br/>\n<em class=\"mention\">@Mick Dagger</em>\u00a0- Agree with you on Daggers there. Underrated weapon. I wanted to build more with such a weapon. No real bias I can see.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:26 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18701\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18701&amp;sid=4dbc8a24bbed3a1bae0a188a3c2ea2c6#p18701\">\u2191</a><div class=\"responsive-hide\">Jan 28, 2020</div></cite>My WoG account is currently like a conveyor belt with all the build drafts I am trying to churn through btw to play test. <em class=\"mention\">@BlackCobra</em>\u00a0tells me if he sees a new toon on the server, he'll just assume its me and /tp Orion \"Another Toon???\" :)</div></blockquote>\nYour in good company then... that's the first thing he asks me as well.\u00a0 I'm assuming he has a filled Steno pad by the puter with all the toon names... either that or he has an eidetic memory...\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:28 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You could simply boost INT instead of DEX at level 4, and replace one of the Great DEX feats with Armor Skin.\u00a0 You would suffer -1 AB and -1 Reflex saves, but gain +1 AC and +37 skill points and a few more spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:44 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"18703\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18703&amp;sid=4dbc8a24bbed3a1bae0a188a3c2ea2c6#p18703\">\u2191</a><div class=\"responsive-hide\">Jan 28, 2020</div></cite>You could simply boost INT instead of DEX at level 4, and replace one of the Great DEX feats with Armor Skin.\u00a0 You would suffer -1 AB and -1 Reflex saves, but gain +1 AC and +37 skill points and a few more spells.</div></blockquote>\nThat is another method I didn't consider !!!\u00a0<br/>\nGreat suggestion Empyre65!\u00a0<br/>\n<br/>\nAlthough thats a lot more skill points than I expected.\u00a0<br/>\nCBC says 326 -&gt; 344 skill points for me using the Int instead of dex at Level 4.<br/>\nBoosting Int instead of Dex at Lvl 4 &amp; 8 gives 326 -&gt; 359 skill points (extra 33 skill points), plus one can swap the great int feat for a cool epic feat.\u00a0<br/>\n<br/>\nI think I would want to take a leaf out of Grizzled_Dwarflord's book here on casters, and take Epic Skill Focus: Concentration, for a bit of crazy casting in the middle of combat.\u00a0<br/>\n<br/>\nA very nice tweak to trade that -1AB/-1AC/-1 reflex/-1 stealth for the skill points and a few more spells.\u00a0<br/>\n<br/>\n<br/>\n<strong>Edit: </strong>also on that note.\u00a0<br/>\n<br/>\nWithout changing the ending attribute scores of the original build design, I realised if I increase Int instead of Dex at level 20 and swap the great int feat for great dexterity at 27 I increase total skill points from 326 -&gt; 331.\u00a0<br/>\n<br/>\nI'll edit it in when I get a chance. Appreciate your thoughts Empyre<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "8:04 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As an option for the INT/DEX split, an INT+1 could be taken at level 20 (instead of DEX+1) and take Great Dexterity at level 27 (Sorc 15) as a general feat. This would garner an additional 5 skill points without delaying Epic Dodge nor changing starting point distribution.<br/>\n<br/>\nIf one desired MORE skill points, I would drop starting CON to 14, take INT 17, and STR 11 (for carry). Then, take INT+1 at level 4, and swap the level 27 Great Intelligence feat for a Great Dexterity. It will slightly delay the AB progression, but catches up at level 27. It trades 40 HP for 36 skill points and 8 lbs carry.<br/>\n<br/>\nOn another note, I like the daggers in this build, and would like to add in Empower Spell, but I can't have everything, and don't know that it would be worth trading Toughness for it.<br/>\n<br/>\nEdit: Some info ninja'd by Orion.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:06 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Ten Pura. Thought I put empower spell in the build albeit at Wiz level 20 (character level 32). Is a bit late I know :(<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "8:08 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Totally missed seeing Empower at level 32.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:09 PM - Jan 28, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ten Pura wrote: <a data-post-id=\"18707\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18707&amp;sid=6c4e336f400ccaceb72705c2c52da491#p18707\">\u2191</a><div class=\"responsive-hide\">Jan 28, 2020</div></cite>Totally missed seeing Empower at level 32.</div></blockquote>\n<br/>\nAs a very stealthy build, I would have missed it too!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

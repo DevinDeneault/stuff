@@ -1,0 +1,86 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "641",
+  "name": "The Cleric of Clanggedin (Cleric 32 / Fighter 6 / Rogue 2)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-cleric-of-clanggedin-cleric-32-fighter-6-rogue-t2355407.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 11,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:22 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong>The Cleric of Clanggedin</strong><br/>\n<br/>\n<br/>\nClerics get huge AB boosts.<br/>\n<br/>\nHere I attempt to make use of this flexibility by incorporating:<br/>\n- Epic Damage Reduction III<br/>\n- Auto-Silent III<br/>\n- Combat prowess (WF/EWF/EP, Blind Fight, Knockdown/Improved Knockdown, near max discipline, Armor Skin)<br/>\n<br/>\nIt was originally designed as a healer tank however due to Deity restrictions the Healing domain options were not great. Clanggedin fit the cleric design better as a result.<br/>\n<br/>\n<em class=\"mention\">@Aquarius 233</em>\u00a0and I had a discussion already and one idea was to skip the Con requirements of EDR III would be to take a Cleric 28/F2/DD10 or Cleric 26/DD14 split, it does mean Dex will have to be 13+<br/>\n<br/>\nAnyway here it is<br/>\n<br/>\nBuffed AB -&gt; base AB 34 +5 (GMW) +2 (bless/aid) +5 (divine power) +5 (divine favor) = 50\u00a0Can add empowered bulls for +2-3 so AB 52-53<br/>\nCan add aura of vitality, prayer, battletide but one will not always have them active<br/>\n<details><summary>Spoiler</summary>Cleric(32), Rogue(2), Fighter(6), Dwarf\nSTR: 14 (20)\nCON: 17 (21)\nINT: 14\n\n01: Fighter(1): Blind Fight, Knockdown\n03: Cleric(2): Weapon Focus: Warhammer\n05: Cleric(4)\n07: Cleric(6)\n09: Cleric(8): Empower Spell\n11: Cleric(10)\n13: Cleric(12)\n15: Cleric(14): Silent Spell\n17: Cleric(16)\n19: Cleric(18)\n21: Fighter(2): Great Constitution I, Epic Weapon Focus: Warhammer, (CON=20)\n23: Cleric(20)\n25: Cleric(22)\n27: Cleric(24): Epic Damage Reduction II\n29: Cleric(26): Armor Skin\n31: Cleric(28)\n33: Fighter(4): Weapon Specialization: Warhammer, Epic Weapon Specialization: Warhammer\n35: Cleric(30)\n37: Rogue(2): {Evasion}\n39: Fighter(5): Great Strength I, (STR=19)\n\nSkillpoints: 184\nSaving Throw bonuses: Spells: +7, Poison: +2\nAB (max, naked): 34 (melee), 25 (ranged)\nSpell Casting: Cleric(9)\n\n\n01: Concentration(4), Discipline(4), Save(8),\u00a0\n03: Concentration(1), Spellcraft(1), Save(8),\u00a0\n05: Concentration(1), Spellcraft(1), Save(12),\u00a0\n07: Concentration(1), Save(18),\u00a0\n09: Concentration(1), Save(24),\u00a0\n11: Concentration(1), Save(30),\u00a0\n13: Concentration(1), Save(36),\u00a0\n15: Concentration(1), Save(42),\u00a0\n17: Concentration(1), Save(48),\u00a0\n19: Concentration(1), Save(54),\u00a0\n21: Concentration(1), Discipline(20), Save(40),\u00a0\n23: Concentration(2), Spellcraft(2),\u00a0\n25: Concentration(1), Spellcraft(3),\u00a0\n27: Concentration(1), Spellcraft(3),\u00a0\n29: Concentration(1), Save(4),\u00a0\n31: Concentration(1), Save(10),\u00a0\n33: Concentration(1), Discipline(1), Save(4),\u00a0\n35: Save(11),\u00a0\n37: Tumble(15), UMD(10),\u00a0\n39: Discipline(6),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:41 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a little something on the skills allotment. You can get Discipline maxed from dropping Spellcraft by 1 - 26 modified ranks is the same (essentially) as 25: it works in modified batches of 5.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:44 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Stag<br/>\nI wish I could but Auto Silent requires Spellcraft 24 ranks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:12 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh bum - another typical sneaky caster annoyance. Never mind, then.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:19 PM - Mar 21, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The only thing I would change would be to swap Knockdown with Weapon Focus, or maybe this (although i don't<br/>\n\u00a0reccomend using Knockdown when your AB is that low):<br/>\n<br/>\n01: Fighter(1): Knockdown, Weapon Focus: Warhammer<br/>\n 02: Cleric(1): Domain War, Domain Strength<br/>\n03: Cleric(2): Blind Fight<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "fallander69",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:38 PM - Mar 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Pretty great battle cleric and it is a dwarf, yup!\u00a0<br/>\nMulti class penalty from level 22 onward can be a pain tho. Also, why silent spell on cleric?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:22 PM - Mar 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>fallander69 wrote: <a data-post-id=\"20074\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20074&amp;sid=edc69779a2ccc8c8fd0dec150d18b2a6#p20074\">\u2191</a><div class=\"responsive-hide\">Mar 30, 2020</div></cite>Pretty great battle cleric and it is a dwarf, yup!\u00a0<br/>\nMulti class penalty from level 22 onward can be a pain tho. Also, why silent spell on cleric?\u00a0</div></blockquote>\nThis is one of Grizzled_Dwarflord's ideas, the self-silent aura killer cleric.<br/>\nHe has written about it in <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/vicar-of-the-void-cleric-35-monk-4-ranger-1-t2355317.html\" rel=\"noreferrer\" target=\"_blank\">Vicar of the Void</a> which is a implosion killer cleric with self-silence auras.<br/>\nHere I take Auto-Silent III, you can cast extended silence on yourself for up to 60+ rounds, then go invisible/haste, stand next to mages, cast divine favor/divine power/word of faith (to blind them) etc etc, use harm, they will hate you and they can't cast against you without auto-silent themselves, hopefully you can make them blind and then they wont be able to target you either<br/>\nI haven't got a good screenshot to demonstrate it, but this is <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-techno-trance-half-orc-barbarian-4-bard-26-rdd-t2355344.html#p18968\" rel=\"noreferrer\" target=\"_blank\">the best I have</a>, using UMD + Self silence targeted scroll<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "fallander69",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:24 PM - Mar 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is brilliant! Thx for this tip with silent casting.<br/>\nOne thing, is it possible to have SD insted rouge levels?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:48 PM - Mar 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it would be possible to have SD instead of Rogue.<br/>\n<br/>\nYou'll have to take the pre-reqs (dodge, mobility, hide 10 ranks, move silently 8 ranks, tumble 5 ranks), however.\u00a0 And you would be sacrificing UMD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:03 PM - Mar 30, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>fallander69 wrote: <a data-post-id=\"20076\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20076&amp;sid=edc69779a2ccc8c8fd0dec150d18b2a6#p20076\">\u2191</a><div class=\"responsive-hide\">Mar 30, 2020</div></cite>This is brilliant! Thx for this tip with silent casting.<br/>\nOne thing, is it possible to have SD insted rouge levels?</div></blockquote>\nYou'll need to increase dex to 13<br/>\nTake Dodge and Mobility as feats<br/>\nThe build as it stands may struggle with skill points so you may want to drop EDR III too<br/>\nI wouldn't recommend using SD in this build.\u00a0<br/>\nNo point having 500-700+HP EDR III, Full plate/Tower and HiPS there isn't a lot of synergy<br/>\n<br/>\nThere are dex cleric builds designed with SD<br/>\n<br/>\nSome that may be of interest include:\u00a0<br/>\n'<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-shadow-priest-cleric-26-monk-9-sd5-t515430.html\" rel=\"noreferrer\" target=\"_blank\">The Shadow Priest</a>' by Maximillan Kane<br/>\n'<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18117#p18117\" rel=\"noreferrer\" target=\"_blank\">The Rogue Immaculate</a>' by Grizzled_Dwarflord<br/>\n<br/>\nThese look like the best SD Dex Cleric builds I can find<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "fallander69",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:59 AM - Mar 31, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another option to avoid XP penalty is to make the guy NE, taking Assassin instead. Obtaining\u00a08\u00a0ranks in hide and move silently shouldn't be a problem, but if we talking WoG then it would be loosing Strength domain and picking up\u00a0trickery and war Erythnul follower, which changes then concept slightly. Then i would dump Discipline entirely, use some Knockdown immunity gear and trade KD/ IKD for Expertise/ IE. Not saying it is better, just as an option :)\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:33 AM - Mar 31, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks fallander69, its certainly a good option to avoid 20% XP penalties to go Assassin<br/>\nIt would grant Tumble 40, UMD and uncanny dodge which is fabulous and the purpose of those classes.<br/>\nDownside is losing evasion, less skill points (8) and spending 16 crossclassed skill points (32 skill points).\u00a0<br/>\nWith\u00a0184 skill points in the build, the 40 skill points can make a difference.<br/>\n<br/>\nXP penalties are a problem for some environments, especially single player modules where experience and gold are finite.<br/>\nI always like to get the most value from my exp-gains when I play characters!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

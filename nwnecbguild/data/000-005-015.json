@@ -1,0 +1,92 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Mid Epic - Level 30 Builds",
+  "forum_id": "005",
+  "id": "015",
+  "name": "Arelith Barbarian18/Fighter12",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-barbarian18-fighter12-t515484.html",
+  "author": "Templar",
+  "avatar": "10235261_1528181864.jpg",
+  "replies": 12,
+  "posts": [
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "8:01 AM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So this is based off of Grimnir77's Battlerager V2(Barbarian18/Fighter10) expanded to do 30 lvl's AND get overwhelming crit. I'd like to get help tweeking it for all its worth<br/>\n<br/>\n Grimnir77's intro:<br/>\n \"My second version of the infamous Battleragers of Faerun, called Kuldjargh's (axe-idiots) by the Dwarves.<br/>\n It's a fitting name, all-out offense, with little thought for defense. Fury fueling their spirit and battle prowess, attacking without regards to own safety, they are battle-hardened and can deal massive damage, but also withstand extreme punishment. Their only mission is to wade into opponents, scaring them witless while hacking them to pieces. If they loose a pint or two of blood, so be it. Their passion is for battle, and that at least, they are good at.\"<br/>\n<br/>\n Barbarian18/Fighter12, Dwarf<br/>\n Alignment, any non-lawful, but the battleragers are mainly CG.<br/>\n<br/>\n STR: 16 (23)<br/>\n DEX: 10<br/>\n CON: 20 (21)<br/>\n WIS: 8<br/>\n INT: 10<br/>\n CHA: 6<br/>\n<br/>\n 01:Barb1: Knockdown<br/>\n 02:Barbarian2<br/>\n 03:Barbarian3: Weapon Focus: Greataxe<br/>\n 04:Fighter1: STR+1, Power Attack, (STR=17)<br/>\n 05:Fighter2: Cleave<br/>\n 06:Fighter3: Great Cleave<br/>\n 07:Fighter4: WS: Greataxe<br/>\n 08:Barb4: STR+1, , (STR=18)<br/>\n 09:Barb5: Blind Fighting<br/>\n 10:Barb6<br/>\n 11:Barb7<br/>\n 12:Barb8: STR+1, improved crit:greataxe, (STR=19)<br/>\n 13:Barb9<br/>\n 14:Barb10<br/>\n 15:Barb11: Toughness<br/>\n 16:Barb12: STR+1, (STR=20)<br/>\n 17:Barb13<br/>\n 18:Barb14: Called Shot<br/>\n 19:Barb15<br/>\n 20:Barb16: CON+1, (CON=21)<br/>\n 21:Fighter5: Epic Damage Reduction I<br/>\n 22:Fighter6: Epic Weapon Focus: Greataxe<br/>\n 23:Fighter7<br/>\n 24:Barb17: STR+1, Terrifying Rage, (STR=21)<br/>\n 25:Fighter8: EWS: Greataxe<br/>\n 26:Fighter9<br/>\n 27:Fighter10: Epic Damage Reduction II, <strong><span style=\"color:#FF0000\">Great</span></strong> Strength 1 (STR=22)<br/>\n 28:Barb18: STR+1, (STR=23)<br/>\n 29:Fighter11<br/>\n 30:Fighter12: Epic Damage Reduction III, Overwhelming Critical:greataxe<br/>\n<br/>\n HP - 450(rolled) 516(max i think) <span style=\"color:#FF0000\"><strong>(516, confirmed}</strong></span><br/>\n DR 12/-<br/>\n<br/>\n Saving throws<br/>\n Fort - 24<br/>\n Reflex - 11<br/>\n Will - 10<br/>\n<span style=\"color:#FF0000\"><strong>(+2 saves vs spells)</strong></span><br/>\n<strong><span style=\"color:#FF0000\">Add'l saves: Traps: +4, Poison: +2</span></strong><br/>\n<br/>\n BAB: 25<br/>\n<br/>\n AB normal greataxe: 34<br/>\n damage, normal greataxe: 1d12+15 (19-20/x3)(add 2d6 on crit)<br/>\n<strong><span style=\"color:#FF0000\">AB, ranged: 25</span></strong><br/>\n<br/>\n AC naked/mundane Full plate: 10/18 <strong><span style=\"color:#FF0000\">[(1H wpn) armor/shield: 21]</span></strong><br/>\n<br/>\n Skillpoints: 108<br/>\n Discipline 33<strong><span style=\"color:#FF0000\"> (39)</span></strong><br/>\n Intimidate 25 <strong><span style=\"color:#FF0000\">(23)</span></strong><br/>\n Taunt 31<strong><span style=\"color:#FF0000\"> (29)</span></strong><br/>\n 19 left to put in heal or listen probably.<br/>\n<br/>\n<span style=\"color:#FF0000\"><strong>Skill Schedule</strong><br/>\n 01: Discipline(4), Intimidate(4), Taunt(4), Save(4)<br/>\n 02: Discipline(1), Intimidate(1), Taunt(1), Save(5)<br/>\n 03: Discipline(1), Intimidate(1), Taunt(1), Save(6)<br/>\n 04: Discipline(1), Save(7)<br/>\n 05: Discipline(1), Save(8)<br/>\n 06: Discipline(1), Save(9)<br/>\n 07: Discipline(1), Save(10)<br/>\n 08: Discipline(1), Intimidate(5), Taunt(5), Save(3)<br/>\n 09: Discipline(1), Intimidate(1), Taunt(1), Save(4)<br/>\n 10: Discipline(1), Intimidate(1), Taunt(1), Save(5)<br/>\n 11: Discipline(1), Intimidate(1), Taunt(1), Save(6)<br/>\n 12: Discipline(1), Intimidate(1), Taunt(1), Save(7)<br/>\n 13: Discipline(1), Intimidate(1), Taunt(1), Save(8)<br/>\n 14: Discipline(1), Intimidate(1), Taunt(1), Save(9)<br/>\n 15: Discipline(1), Intimidate(1), Taunt(1), Save(10)<br/>\n 16: Discipline(1), Intimidate(1), Taunt(1), Save(11)<br/>\n 17: Discipline(1), Intimidate(1), Taunt(1), Save(12)<br/>\n 18: Discipline(1), Intimidate(1), Taunt(1), Save(13)<br/>\n 19: Discipline(1), Intimidate(1), Taunt(1), Save(14)<br/>\n 20: Discipline(1), Intimidate(1), Taunt(1), Save(15)<br/>\n 21: Discipline(1), Save(16)<br/>\n 22: Discipline(1), Save(17)<br/>\n 23: Discipline(1), Save(18)<br/>\n 24: Discipline(1), Intimidate(2), Taunt(4), Save(15)<br/>\n 25: Discipline(1), Save(16)<br/>\n 26: Discipline(1), Save(17)<br/>\n 27: Discipline(1), Save(18)<br/>\n 28: Discipline(1), Taunt(4), Save(17)<br/>\n 29: Discipline(1), Save(18)<br/>\n 30: Discipline(1), Remaining ----&gt; 19</span><br/>\n<br/>\n Grimnir77's end comments:<br/>\n \"Let's face it, the AC is crap. You have good hitpoints and DR 12 to help you last long enough for your offensive powers to finish the opposition. Your offensive power is fueled by terrifying Rage, the greataxe and great cleave to kill as quickly as possible.<br/>\n This build reflects the battlerager in a fine way, all-out reckless offensive with little or no defensive capabilities, except your ability to withstand damage.\"<br/>\n<br/>\n so I saw this build and was wanting a build that maxed HP as and damage as much as possible. any tips are welcome, I've been a shadow stalker of the epic builders guild for years having joined before nwn forums died and moved to the failure of a social bioware network and now here which looks good and I'm looking forward to working wonderfully!<br/>\n<br/>\n<em><span style=\"color:#000000\">edit: per Hip 20160616 (corrections/additions of missing info, in</span></em><span style=\"color:#FF0000\"><strong> red</strong></span><em><span style=\"color:#000000\">)</span></em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "9:31 AM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">so someone pointed out that perhaps overwhelming crit isn't as useful to this build because it already does a lot of damage and I should end with Barb. This would change just the end I believe<br/>\n<br/>\n27:Fighter10: Epic Damage Reduction II, Epic Damage Reduction III<br/>\n28:Barb18: STR+1, (STR=22)<br/>\n29:Barb19<br/>\n30:Barb20: Mighty rage<br/>\n<br/>\nThat will give me: - a total of 4 more rage uses(1 at barb 20 and 3 more rage uses with mighty)<br/>\n - a DR of 13/- instead of 12/-<br/>\n - a few more skill points which would just move my heal or listen up a bit more<br/>\n - and increase my health by ... 4 to a max of 520<br/>\n<br/>\nEdit: Oh and because things tend to have lots of health i'll not be one shot killing too much so i can drop great cleave for a fort save feat and possibly even normal cleave to increase saves further or to get some other feat.(despite that I'm semi reluctant to drop normal cleave despite the terrifying rage should mean things don't gather around me to well)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "6:11 PM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there something you are not telling us about this server that prevents you from taking CoT instead of fighter from Level 21 on to help with those abominable saves?<br/>\n<br/>\nAnd yes, 516 HP is max with this split &amp; ability spread, mundane without rage.<br/>\n<br/>\nAlso, I agree that MR is a better choice than OC in this build seeing as how you are depending on DR &amp; CON to sustain your toon in combat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "8:49 PM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No reason CoT couldn't be swapped out, was going fighter to get specialization. What changes where you thinking?<br/>\n<br/>\nP.s. I'll get a semi collective list of server changes/requirements up on the persistent world page.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "9:46 PM - Sep 24, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Templar wrote:</strong>No reason CoT couldn't be swapped out, was going fighter to get specialization. What changes where you thinking?<br/>\n<br/>\nP.s. I'll get a semi collective list of server changes/requirements up on the persistent world page.</div></blockquote>\nAs long as you take WS with fighter (pre-epic in this build), you can take EWS with CoT.  Just sub in CoT for all the fighter levels after 20 and you'll gain the sacred defense saves with the exact same number of feats available.  You'll get Smite Evil &amp; Divine Wrath as well but their usage is rather limited in this situation.  Which reminds me... I'd recommend setting your alignment to CN or True Neutral to avoid smites.<br/>\n<br/>\nI've read about some servers requiring some sort of DM approval for Prestige classes and didn't know if Arelith was one of those.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "2:23 AM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">dm approval sorta. all prestige classes require a token that a dm has to give you once you complete a quest to take the class. its usually fairly easy. Example For Arcane archer you need to make or have made for you a bow that you give a custom description. dm checks if you did and then you get the token. Easy sauce<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "2:57 AM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One other thing, when sufficiently drunk (below 0% sobriety) the Barbarian gains a boost to his strength. <br/>\n1. At first you get a +8 STR bonus and a moderate DEX penalty (5-6 ish?). Upon a second tick, it goes to a +12 STR bonus and a large DEX penalty (-8-10 ish). How bad the DEX penalty is scales with how drunk you are.<br/>\n2. This DOES count towards the +12 Stat modifier. Meaning while your completely drunk, you won't gain any STR benefits from items, barbarian rage, potions, etc.<br/>\nOther bits of info... -Depending on how drunk you are, you'll also laugh, fall over, or otherwise flatfoot yourself in the middle of combat. It gets worse/more frequent as you get drunker, but it still happens VERY often even when mildly drunk. <br/>\n<br/>\nso ya honestly I'm a bit open to other classes or builds. My goals here I'd like to keep to are:<br/>\n1. Barbarian<br/>\n2. Ton of Health<br/>\n3. Ton of damage (with a 2hander of some sort preferred)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:48 AM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you check out Grimnir's Viking Berzerker you'll notice he came to same conclusion about his Brb 28/Ftr 12 build (done at the end  ) that I did glancing at this one.  <br/>\n<br/>\nThe only issue I've ever had with ragers is that on anything but low-magic servers, the ability cap is easily reached and without AC penalty so then all you have left is exploiting Terrifying Rage against Fear immunes (unless your server fixed the bug) and poor will saves (like other non-CoT ragers  ).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "6:19 AM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">ya arelith is a low magic server. items with +3 are expensive. the only way to get better is with caster spells<br/>\n<br/>\nmost items you can do your own enchanting with +1 to a stat and a few skills or +1 to two stats and if your lucky only one skill bonus.<br/>\n<br/>\nDo you have a link to grims other build? or one with the CoT levels put in?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:45 PM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Grim had another, it think the name was the Grim Ripper or something: Ranger 25 WM 7 Fighter 8. It was a scythe wielding juggernaut with amazing crits and lots of damage against favored enemies, sadly I don't think it translates well to 30 lvl cap because of BoE. <br/>\n<br/>\nYou could go Barbarian 16 Fighter 10 Bard 4 to get UMD and buff yourself through scrolls, if the server allows you to buy from casters and such.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Templar",
+      "avatar": "10235261_1528181864.jpg",
+      "timestamp": "10:21 PM - Sep 25, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>Grim had another, it think the name was the Grim Ripper or something: Ranger 25 WM 7 Fighter 8. It was a scythe wielding juggernaut with amazing crits and lots of damage against favored enemies, sadly I don't think it translates well to 30 lvl cap because of BoE. <br/>\n<br/>\nYou could go Barbarian 16 Fighter 10 Bard 4 to get UMD and buff yourself through scrolls, if the server allows you to buy from casters and such.</div></blockquote>\n\nOoooo two questions max!<br/>\n<br/>\n1. What is BoE?  (edit: OHHHH bane of enimies, understand now)<br/>\n2. I like the thought of barb 16, fighter 10, 4 bard!<br/>\n<br/>\nwhat kind of order would you suggest? I'm thinking like 12 barb, 4 fighter, 4 bard(or maybe 4 rogue? since its a UMD dump sorta) pre-epic then 6 fighter and 4 more barb? I'll start playing with options but if you or one of the really good builders can help that would rock!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:53 AM - Sep 26, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That sounds good, but don't forget to take Epic Weapon Focus at 21 so that you can take Epic Weapon Specialization. The advantage of Bard over Rogue is that Bards, like Barbarians, also get Taunt as a class skill, so you can make that skill keep updated, but Rogue does get Sneak Attack and Evasion. So if you go Rogue, I suggest Barbarian 15 Fighter 10 Rogue 5 or Fighter 12 Rogue 3, depending on how many feats you want on epics. I also advise you to take 15 barb levels as soon as you can to get Greater Rage. You can go Barb 15 Fighter 5 pre-epic not to lose any BAB, but you will need to survive till lvl 22 without Tumble and UMD dumps, which I don't know if is doable where you play. Also I heard Arelith has a restriction of 3 straight levels of a class, otherwise you could go Barb 16 Fighter 12 Bard 2. You can take bard on levels 21, 22 and 23 and then at 30 to round up the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "johnbonmovi",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:54 PM - Jan 31, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">UMD is a necessity for high end play on arelith, if you can't use scrolls or wands you aren't flexible and will be totally dependent on party members to survive.  Consumables are everywhere as arelith has lowered the costs of xp and gold to produce them, thus they are quite necessary.  Without UMD this build is going to get obliterated by every single epic mob.  Can't deathward, can't protect its mind, its dead.  Also in pvp you're going to get obliterated by melees who pop true strike wands and kd you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

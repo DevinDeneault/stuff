@@ -1,0 +1,32 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "481",
+  "name": "Assassin Build (Arelith)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/assassin-build-arelith-t2184847.html",
+  "author": "DeadZombie",
+  "avatar": "no_avatar.png",
+  "replies": 2,
+  "posts": [
+    {
+      "author": "DeadZombie",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:46 AM - Dec 26, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">No real big nerfs on clerics or mage classes. Infact they get a lot of boons. I myself being the underdog fellow I am trying to think of a way to take some of them down. <br/>\n<br/>\nArelith Rules: Level 30 cap. Low Magic Item Server. With major buffs to caster classes. Must take 3 levels of class.<br/>\n<br/>\nAlso, now you in pre making a character you can choose up to 3 character gifts.( cant stack them)<br/>\nThese do not count toward the +12 cap.<br/>\nGift of Might (+2 STR)<br/>\nGift of Grace (+2 DEX<br/>\nGift of Endurance (+2 CON<br/>\nGift of Learning (+2 INT<br/>\nGift of Insight (+2 WIS<br/>\nGift of Confidence (+2 CHA<br/>\n<br/>\nThe rest of the gifts are gold boons, invis, darkness, and 32 SR at level 1 things like that.<br/>\n<br/>\nI am of course going to take the Intel and Dex one.<br/>\n<br/>\nIdea is either a Ranger/Assassin with a high death attack DC.<br/>\n<br/>\nOr some sort of Rogue, Fighter, Assassin build.<br/>\n<br/>\nElf or Human<br/>\n<br/>\nDuel wielding I guess?<br/>\n<br/>\nHelp would be appreciated .<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:08 PM - Dec 26, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For comparison metric vs. whatever else floats by... a 30-level DA monk assassin (mage killer type):<br/>\n<br/>\nMonk 9/Fighter 6/Assassin 15, Human (Monk8/Ftr4/Asn8 pre-epic)<br/>\n<br/>\nSTR: 11<br/>\nDEX: 17 (26)<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 16<br/>\nCHA: 8<br/>\n<br/>\nHitpoints: 282<br/>\nSaves (F/W/R): 18/13/26 (21/16/29 vs. spells)<br/>\nOther save boni: Mind Effects: +2, Traps: +2, Poison: +6<br/>\nBAB: 21<br/>\nAB (max, naked): 33 (melee)/31 (TWF), 30 (ranged)<br/>\nAC (naked/mundane armor/shield only): 27/30<br/>\n<br/>\nHide 33(41), Move Silently 33(41), Spellcraft 12(15), Tumble 33(41), UMD 31(30), remaining --&gt; 98<br/>\n<br/>\nCombat: KD/IKD. Cleave, ITWF w/kamas, DA DC 28 for 15 rounds, 8 APR (10 w/hasted flurry), speed +130%, <br/>\ndmg (mundane kamas) 7-12 (crit 19-20 x2) <br/>\n<br/>\nDefense:  Evasion/Imp Evasion, Dodge, Mobility<br/>\n<br/>\nComments:  Base DA DC is relatively low so APR is crucial to succeeding enough checks.  Closing speed important against casters.  Monk save &amp; attack progression assures some stability when subjected to diverse attacks.  IMO a modest investment into trap skills with a portion of the remaining skill points (depending on trap availability on the server) would increase the overall playability.  If you are willing to live without the +1AB &amp; +2AC from prowess &amp; amorskin resp. (i.e. 32 melee AB &amp; 25/28 AC), you can take Epic Skill Focus in Hide &amp; Move Sil to raise the base level to 51 on each.  Your choice.  Against damage shields, swap in an xbow or sling after the DA does its thing<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "DeadZombie",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:55 AM - Dec 27, 2011",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nice build man. Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

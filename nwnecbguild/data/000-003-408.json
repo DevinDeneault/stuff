@@ -1,0 +1,26 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "408",
+  "name": "Angry Midget (BB 20/Rogue 4/CoT 6) <Arelith>",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/angry-midget-bb-20-rogue-4-cot-6-arelith-t2304525.html",
+  "author": "Nokteronoth",
+  "avatar": "10235244_1510287070.jpg",
+  "replies": 1,
+  "posts": [
+    {
+      "author": "Nokteronoth",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:25 AM - Dec 22, 2012",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've been trying out Dwarven Barbs lately, if you all couldn't tell. So here's another.<br/>\n<br/>\nArelith, so this one takes Gifts. (+2 STR +2 CON +2 DEX) for 2.5 ECL. This means it gets XP as if it were 2 and a half levels above what it is. <br/>\n<br/>\nPvM, will probably do terribly in PVP except for that massive HP. Even then, I added Improved Disarm just for it.<br/>\n<br/>\nAny Non-Lawful Alignment<br/>\n1-30<br/>\n<br/>\nSTR: 17 (24)<br/>\nDEX: 10<br/>\nCON: 22<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 6<br/>\n<br/>\nDwarf: (Darkvision, Defensive Training vs. Giants, Stonecunning, Hardiness vs. Poison, Hardiness vs. Spells, Offensive Training vs. Goblinoids, Offensive Training vs. Orcs, Skill Affinity: Lore)<br/>\n01: Barbarian(1): Weapon Focus: Greataxe<br/>\n02: Barbarian(2): {Uncanny Dodge I}<br/>\n03: Barbarian(3): Knockdown<br/>\n04: Barbarian(4): STR+1, (STR=18)<br/>\n05: Barbarian(5)<br/>\n06: Barbarian(6): Blind fight<br/>\n07: Barbarian(7)<br/>\n08: Barbarian(8): STR+1, (STR=19)<br/>\n09: Barbarian(9): Improved Knockdown<br/>\n10: Barbarian(10)<br/>\n11: Barbarian(11)<br/>\n12: Barbarian(12): STR+1, Improved Critical: Greataxe, (STR=20)<br/>\n13: Barbarian(13)<br/>\n14: Barbarian(14)<br/>\n15: Barbarian(15): Disarm<br/>\n16: Barbarian(16): STR+1, (STR=21)<br/>\n17: Barbarian(17)<br/>\n18: Rogue(1): Improved Disarm<br/>\n19: Rogue(2): {Evasion}<br/>\n20: Rogue(3): STR+1, (STR=22)<br/>\n21: Champion of Torm(1): Epic Damage Reduction I<br/>\n22: Champion of Torm(2): Epic Damage Reduction II<br/>\n23: Champion of Torm(3): {Smite Evil}<br/>\n24: Barbarian(18): STR+1, Terrifying Rage, (STR=23)<br/>\n25: Barbarian(19)<br/>\n26: Champion of Torm(4): Epic Damage Reduction III<br/>\n27: Barbarian(20): Mighty Rage<br/>\n28: Rogue(4): STR+1, (STR=24)<br/>\n29: Champion of Torm(5)<br/>\n30: Champion of Torm(6): Armor skin, Epic Weapon Focus: Greataxe<br/>\n<br/>\nAppraise 12(14), Discipline 33(40), Heal 10(9), Intimidate 31(29), Listen 31(30), Open Lock 5(5), Set Trap 5(5), Taunt 30(28), Tumble 30(30), UMD 15(13)<br/>\n<br/>\nHitpoints: 504<br/>\nSkillpoints: 202<br/>\nSaving Throws (Fortitude/Will/Reflex): 25/13/16<br/>\nSaving Throw bonuses: Spells: +2, Traps: +5, Poison: +2<br/>\nBAB: 24<br/>\nAB (max, naked): 34 (melee), 24 (ranged)<br/>\nAC (naked/mundane armor/shield only): 18/26<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nLike the other build, this abuses that you can get drunk on Arelith, for the first hour you get +6 STR at -4 DEX, and after that hour, +12 STR and no dex penalty until the drunkenness wears off. (Another hour)<br/>\n<br/>\nAC should be pretty lame- 10 nat + 2 AS + 6 Tumble + 6 DEX(If you're wearing leather/padded, whichever's best) + 1 ammy + 1 boots + 4 armor(Assumed +3 padded) = 30. No shield, so it's kind-of hurting, but the HP should help some. Especially since they can carry hundreds of healing kits with that massive STR.<br/>\n<br/>\nAB should be 24+13+3+3 = 43/38/33/28<br/>\n<br/>\nUMD for using scrolls and the like. You all know the drill.<br/>\n<br/>\n~Nok<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "7:35 PM - Apr 22, 2013",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey.<br/>\n<br/>\nI'm not familiar with Arelith, but I reckon if you are going to have that much DR, you could consider going Epic Prowess instead of Armor Skin. You can soak up the damage and get another AB point, since your AC isn't going to be all that special with or without Armor Skin. Other than that, nice build!<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

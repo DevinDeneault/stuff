@@ -1,0 +1,50 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "General Discussion",
+  "forum_id": "002",
+  "id": "173",
+  "name": "Epic Skill Focus: Discipline, Underrated Feat?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-skill-focus-discipline-underrated-feat-t2355080.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 5,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:19 PM - Jun 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all ECBers!<br/>\n<br/>\n\u00a0I've googled it, and searched this forum, and just curious that this particular feat doesn't draw a lot of love, for any build that skills Discipline.\u00a0\u00a0Builds that I have found that use this feat (I am sure there are more if I search harder) are\u00a0Mick Dagger's Exalted Sorceress Minor Lvl 30 cap and Valefor's The Halberdier\u00a0<br/>\n<br/>\nTo me it seems +10 to Discipline is like a 50% reduction in the enemy's ability to knock you down or disarm you, unless there is a huge discrepancy (like 15+) in your opponents attack score and your discipline score (which could range between 41 in a Gnome with 6 Str, to 58 in a RDD build with 40 strength).\u00a0<br/>\n<br/>\nOr you have a huge AC like 80-90 AC and they can't hit you to begin with.<br/>\n<br/>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:24 PM - Jun 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There has been much debate over this, especially if you go back to the old forums. <br/>\nA strength build with a strength of 30 has a +10 modifier. A dexterity build would need the ESF feat to get approximately the same modifier. The same goes for any build based on other abilities.<br/>\nSince the Attack roll against you is the DC, you must compare your skill with your AC and see if the skill is worth taking at all. In high magic environments, the different sources of AC (Deflection, Natural...etc) add far more to AC than what is possible to add to AB, and you may end up with a \"battle of 20s\" where you only hit on a 20 roll, and it becomes impossible to spam Knockdowns. But even before that the AC will \"outclass\" the Discipline check.<br/>\nIn the case of dexterity builds, it is often easier to get a higher AC than what you get with a strength build. Dexterity builds also often have Epic dodge, that avoids the first melee attack in the round. That attack is also likely to have the highest AB. For these reasons many/most dex builds don't take Discipline at all, even if it is a class skill.<br/>\nBut to get the exact answer, you must know what you are up against and look at the numbers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:10 PM - Jun 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Best explanation I've seen to date, Mick - it even made sense to me!<br/>\n<br/>\nOn a more mundane level, and more in relation to PvM builds than at least some PvP ones, it will also depend upon how many feats or bonus feats you have \"spare\" after taking your must-haves.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:32 PM - Jun 19, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?</div></blockquote>\nNo, this isn't enough to protect you from everything becasuse the PWs are based on that level of discipline.<br/>\nWhen you wan to be \"immune\" or close to it, you have to go above &amp; beyond what they have based their calculations &amp; that's where the esf:discipline or the rdd humongus strength comes into play.<br/>\nIn high-magic PWs or modules though, this doesn't matter as there are knockdown immunity gear that has this as one of the properties of the item so you don't even need to sacrifice a slot or anything.<br/>\nOf course there is still disarm to worry about but this is so rare anymore that it doesn't matter so much as to base your build on this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:07 AM - Jun 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Orion2019 wrote:</cite>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?</div></blockquote>\nNo, this isn't enough to protect you from everything becasuse the PWs are based on that level of discipline.<br/>\nWhen you wan to be \"immune\" or close to it, you have to go above &amp; beyond what they have based their calculations &amp; that's where the esf:discipline or the rdd humongus strength comes into play.<br/>\nIn high-magic PWs or modules though, this doesn't matter as there are knockdown immunity gear that has this as one of the properties of the item so you don't even need to sacrifice a slot or anything.<br/>\nOf course there is still disarm to worry about but this is so rare anymore that it doesn't matter so much as to base your build on this.\n</div></blockquote>\n<blockquote><div><cite>Mick Dagger wrote:</cite>\nThere has been much debate over this, especially if you go back to the old forums.\u00a0<br/>\nA strength build with a strength of 30 has a +10 modifier. A dexterity build would need the ESF feat to get approximately the same modifier. The same goes for any build based on other abilities.<br/>\nSince the Attack roll against you is the DC, you must compare your skill with your AC and see if the skill is worth taking at all. In high magic environments, the different sources of AC (Deflection, Natural...etc) add far more to AC than what is possible to add to AB, and you may end up with a \"battle of 20s\" where you only hit on a 20 roll, and it becomes impossible to spam Knockdowns. But even before that the AC will \"outclass\" the Discipline check.<br/>\nIn the case of dexterity builds, it is often easier to get a higher AC than what you get with a strength build. Dexterity builds also often have Epic dodge, that avoids the first melee attack in the round. That attack is also likely to have the highest AB. For these reasons many/most dex builds don't take Discipline at all, even if it is a class skill.<br/>\nBut to get the exact answer, you must know what you are up against and look at the numbers.\n</div></blockquote>\nThese are really lovely responses. So to summarise, in high Magic environments<br/>\n- your AC is going to likely be so much higher (at least 20) than attack rolls, especially for dexterity builds, that any knockdown attempt will fail 95% of the time by missing you anyway, and this is because AC has more than 6 potential sources (Deflection, Natural, Armor, Shield, Dodge, other such as dexterity/monk AC/monk wisdom/draconic armor/armor skin etc...) whereas there are much more limited sources of attack bonus. ie how is a +6 melee weapon going to hit an opponent with +6 deflection +6 natural, +6 armor +6 shield +6 dodge and other bonuses (ie +6 attack weapon vs cumulative more than +30 AC bonus already)<br/>\n- there will be knockdown immunity gear available meaning you could use this instead of investing 43 points +/- a feat into discipline<br/>\n<br/>\nSo I take it ESF:Discipline is only useful if you:<br/>\n- have enemies with knockdown or disarm\u00a0<br/>\n- you have low AC meaning the enemy can hit you (ie in a low magic environment)<br/>\n- there are no knockdown immune boots<br/>\n- you aren't playing a super high strength hero such as a RDD with multiple Great Strength levels with maxed discipline skill<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:32 AM - Jun 20, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, and a couple of special cases like a charisma-based paladin/wm with str:18/cha:30 that gets his dmg mainly by multiplying that divine dmg but only has 47 discipline otherwise.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

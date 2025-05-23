@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "807",
+  "name": "Dwarven Thug Lord (Rogue 13 / Assassin 1 / Dwarven Defender 26)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarven-thug-lord-rogue-13-assassin-1-dwarven-defe-t2355174.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:26 AM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">Dwarven Thug Lord</span></strong><br/>\n<br/>\n<br/>\nThe concept is pretty simple.<br/>\n<br/>\nKnock em down and kill em. And be tanky enough to survive doing it.<br/>\n<br/>\nTwo handed weapon for added strength damage, and added sneak attack (up to 8d6).<br/>\n<br/>\nDwarven defender to access proficiencies galore, damage reduction (up to 18/-), bonus feats and huge HP boosts, 550hp without trying<br/>\n<br/>\nRogue for improved evasion and epic skill focus (I chose discipline, but listen might be another good choice) or Opportunist for more sneak damage (not that you need more)<br/>\n<br/>\nAssassin 1 level for value 1d6 sneak attack and skill dumps in UMD/tumble.<br/>\n<br/>\nMade a Greataxe version who gets added epic energy resistance to fire and acid and an AB of 43, and a Dev Crit version wielding a greatsword with an AB of 42, who loses two strength, these energy resistances and improved knockdown.<br/>\n<br/>\nWhat do you think?<br/>\n<br/>\n<br/>\n<br/>\n<strong>Greataxe version</strong><br/>\n<details><summary>Spoiler</summary>\nRogue(13), Assassin(1), Dwarven Defender(26), Dwarf\nSTR: 17 (34)\nCON: 16\nINT: 14\n\n01: Rogue(1): Dodge\n03: Rogue(3): Toughness, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Knockdown\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Improved Critical (Greataxe)\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Dwarven Defender(11): Great Strength I, (STR=23)\n23: Dwarven Defender(12)\n25: Dwarven Defender(14): Epic Weapon Focus (Greataxe)\n27: Rogue(12): Great Strength III, (STR=26)\n29: Dwarven Defender(17)\n31: Dwarven Defender(19)\n33: Dwarven Defender(20): Great Strength V, (STR=30)\n35: Dwarven Defender(22): Epic Energy Resistance (Fire)\n37: Assassin(1)\n39: Dwarven Defender(25): Great Strength VII, (STR=33)\n\nSkillpoints: 270\nSaving Throw bonuses: Spells: +6, Traps: +3, Poison: +2\nAB (max, naked): 43 (melee), 29 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Listen(4), Move Silently(4), Open Lock(1), Search(4), UMD(4), Save(19),\u00a0\n03: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(24),\u00a0\n05: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(34),\u00a0\n07: Listen(1), Spellcraft(5), Tumble(5), UMD(1), Save(34),\u00a0\n09: Listen(1), UMD(1), Save(50),\u00a0\n11: Concentration(14), Discipline(14), Listen(1), Save(33),\u00a0\n13: Concentration(1), Discipline(1), Listen(1), Save(35),\u00a0\n15: Concentration(1), Discipline(1), Listen(1), Save(37),\u00a0\n17: Concentration(1), Discipline(1), Listen(1), Spellcraft(5), Save(29),\u00a0\n19: Concentration(1), Discipline(1), Listen(1), Save(31),\u00a0\n21: Concentration(1), Discipline(1), Listen(1), Save(33),\u00a0\n23: Concentration(2), Discipline(2), Listen(1), Save(14),\u00a0\n25: Concentration(1), Discipline(1), Listen(1), Save(16),\u00a0\n27: Listen(1), Spellcraft(5), Tumble(5), UMD(5), Save(6),\u00a0\n29: Concentration(1), Discipline(1), Listen(1), Save(6),\u00a0\n31: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n33: Concentration(2), Discipline(2), Listen(1), Save(6),\u00a0\n35: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n37: Listen(1), Spellcraft(4), Tumble(5), Save(1),\u00a0\n39: Concentration(1), Discipline(1), Listen(1), Save(1),\u00a0</details>\n<br/>\n<strong>Dev crit version</strong><br/>\n<details><summary>Spoiler</summary>Rogue(13), Assassin(1), Dwarven Defender(26), Dwarf\nSTR: 17 (32)\nCON: 16\nINT: 14\n\n01: Rogue(1): Dodge\n03: Rogue(3): Toughness, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Knockdown\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Improved Critical (Greatsword)\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Dwarven Defender(11): Cleave\n23: Dwarven Defender(12)\n25: Dwarven Defender(14): Overwhelming Critical (Greatsword)\n27: Rogue(12): Great Cleave\n29: Dwarven Defender(17)\n31: Dwarven Defender(19)\n33: Dwarven Defender(20): Great Strength III, (STR=28)\n35: Dwarven Defender(22): Epic Weapon Focus (Greatsword)\n37: Assassin(1)\n39: Dwarven Defender(25): Great Strength V, (STR=31)\n\nSkillpoints: 270\nSaving Throw bonuses: Spells: +6, Traps: +3, Poison: +2\nAB (max, naked): 42 (melee), 29 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Listen(4), Move Silently(4), Open Lock(1), Search(4), UMD(4), Save(19),\u00a0\n03: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(24),\u00a0\n05: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(34),\u00a0\n07: Listen(1), Spellcraft(5), Tumble(5), UMD(1), Save(34),\u00a0\n09: Listen(1), UMD(1), Save(50),\u00a0\n11: Concentration(14), Discipline(14), Listen(1), Save(33),\u00a0\n13: Concentration(1), Discipline(1), Listen(1), Save(35),\u00a0\n15: Concentration(1), Discipline(1), Listen(1), Save(37),\u00a0\n17: Concentration(1), Discipline(1), Listen(1), Spellcraft(5), Save(29),\u00a0\n19: Concentration(1), Discipline(1), Listen(1), Save(31),\u00a0\n21: Concentration(1), Discipline(1), Listen(1), Save(33),\u00a0\n23: Concentration(2), Discipline(2), Listen(1), Save(14),\u00a0\n25: Concentration(1), Discipline(1), Listen(1), Save(16),\u00a0\n27: Listen(1), Spellcraft(5), Tumble(5), UMD(5), Save(6),\u00a0\n29: Concentration(1), Discipline(1), Listen(1), Save(6),\u00a0\n31: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n33: Concentration(2), Discipline(2), Listen(1), Save(6),\u00a0\n35: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n37: Listen(1), Spellcraft(4), Tumble(5), Save(1),\u00a0\n39: Concentration(1), Discipline(1), Listen(1), Save(1),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:57 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Dev Crit version is the stronger one, doesn't matter if it has lower AB &amp; no (I)KD. <br/>\n<br/>\nBut, I have to say that the most \"complete build\", is the first one.<br/>\nTake Crippling strike with it, btw, on the first flurry, your opponent is already -4Str down &amp; then becomes worse.<br/>\n<br/>\nI like them Orion, offensive but with many defensive properties, the \"balance\" is strong with this one.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:59 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I love crippling strike.\u00a0 It is hard to squeeze in often, but wow do I love to play builds with it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:14 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good call on Crippling Strike!<br/>\n<br/>\nI have just read about it in the NWN Wiki and it seems very strong!<br/>\n<br/>\nThankfully it is pretty simple to fit it in, swap ESF: Discipline for it.\u00a0<br/>\n<br/>\nNot sure whether it should be before or after Improved Evasion though, what do you think?<br/>\n<br/>\nThank you for the comments. Have learnt a bit about the Rogue class now!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:02 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In this case, it should be <strong>after</strong>, &amp; the reason is that you don't have enough attacks (and neither twf)\u00a0 to take advantage of it, yet. <br/>\nWhen you have 4+ attacks/round it should always be your first choice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:44 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>In this case, it should be <strong>after</strong>, &amp; the reason is that you don't have enough attacks (and neither twf)\u00a0 to take advantage of it, yet. <br/>\nWhen you have 4+ attacks/round it should always be your first choice.</div></blockquote>\nThanks so much!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:34 PM - Sep 27, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A possible improvement if you think it's worth it, would be to replace Ass1 with Ftr1 here &amp; take AS.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

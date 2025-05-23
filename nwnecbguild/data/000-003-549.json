@@ -1,0 +1,374 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "549",
+  "name": "\"This is Sparta!\" (Rogue 14/ CoT 10/ WM 16)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/this-is-sparta-rogue-14-cot-10-wm-16-t2355259.html",
+  "author": "webshaman1",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 59,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:18 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This comes on the back of Mental Dekay's thread about combining these classes: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/rogue-cot-wm-t2355183.html\" rel=\"noreferrer\" target=\"_blank\">Rogue/ CoT/ WM</a><br/>\n<br/>\nAnd then I watched the 300 again, and thought maybe...<br/>\n<br/>\nOne thing that annoys me (yes, another one) with NwN rules is that spear is incompatible with shield, which is clearly out of whack with history (hoplites, anyone?), and renders the AC pretty nasty - though it could be worse, and shortsword and shield is available to give a boost if needed. I've kept all the saves at 20+, which isn't bad for a straight melee build. I haven't worked through the skills points yet, but there's plenty to cover Discipline, Tumble, UMD, cross-classed Spellcraft and a detect skill (Spot/Listen) with spares. He's also got an AB of 46, which is nice.<br/>\n<br/>\nThere are a few things in particular I'd like advice on (though please feel free to come up with your own nuggets). I wonder about what to take as one of the\u00a0 pre-epic feats: Toughness, Great Fortitude, Martial Weapons Proficiency, or Heavy Armour Proficiency (though that last one would go against the concept). I'm also not sure whether that +1AB from WM 16 is better than a +2 to saves from a Rogue 13/ CoT 14/ WM 13.<br/>\n<br/>\nAnyway, your thoughts would be appreciated on this first draft. <span style=\"color:#FF0000\">Now second draft - changes in red.</span> <br/>\n<br/>\n<strong>LEONIDAS (Rogue 14/ CoT 10/ WM 16)</strong><br/>\nHuman, any non-evil<br/>\nL1-40 PvM<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 17 (34)<br/>\nDEX 14<br/>\nCON 14<br/>\nWIS 8<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHit Points: 424 <span style=\"text-decoration:line-through\">[464 if Toughness taken]</span><br/>\nAC: (naked) 22, (med armour - breastplate/ chain mail) 27, <span style=\"color:#FF0000\">with shortsword + tower shield 30, with Expertise 32/ 35</span> <span style=\"color:#FF0000\">(+1 Dodge, +4 vs AoO)</span><br/>\nSaves: Fort 26 <span style=\"text-decoration:line-through\">[28 if Great Fort taken]</span>, Will <span style=\"text-decoration:line-through\">20</span> <span style=\"color:#FF0000\">22</span>, Reflex 30 <span style=\"color:#FF0000\">(all +4 vs spells, +3 Reflex vs traps)</span><br/>\nBAB: 27<br/>\nAB: (spear) 46/ 41/ 36/ 31: <span style=\"color:#FF0000\">(shortsword) 41/ 36/ 31/ 26: (ranged) 30/ 25/ 20/ 15</span><br/>\nSneak Attack: 7d6<br/>\nSkills: <span style=\"text-decoration:line-through\">[a little vague atm, but around 230 and around 200 for Disc, Spellcraft, Spot or Listen, Tumble and UMD]</span> <span style=\"color:#FF0000\">274. Discipline 43 (55), Intimidate (cc) 4 (3), Listen 43 (42) OR Spot 43 (42), Spellcraft (cc) 19 (20), Tumble 40 (42), UMD 36 (35), 66 spare for social, stealth, trapping skills, or Lore or Heal, depending on environment/ preference.</span><br/>\n<br/>\n<strong>Levelling</strong><br/>\n1 R1 - Dodge/ Expertise<br/>\n2 R2 - {Evasion}<br/>\n3 R3 - Mobility/ {UD1}<br/>\n4 R4 - STR+1 (18)<br/>\n5 R5<br/>\n6 R6 - KD<br/>\n7 R7<br/>\n8 R8 - STR+1 (19)<br/>\n9 R9 - WF: <span style=\"text-decoration:line-through\">Spear</span> <span style=\"color:#FF0000\">Shortsword (could be swapped with Mobility at L3)</span><br/>\n10 R10 - {Crippling Strike}<br/>\n11 CoT1<br/>\n12 CoT2 - STR+1 (20)/ <span style=\"text-decoration:line-through\">Blind Fight OR second WF (see above)</span> <span style=\"color:#FF0000\">WF: Spear/ Blind Fight</span><br/>\n13 CoT3<br/>\n14 CoT4 - ICrit: Spear<br/>\n15 CoT5 - <span style=\"text-decoration:line-through\">IKD</span> <span style=\"color:#FF0000\">Iron Will</span><br/>\n16 CoT6 - STR+1 (21)/ <span style=\"text-decoration:line-through\">Spring Attack</span> <span style=\"color:#FF0000\">IKD</span><br/>\n17 CoT7<br/>\n18 R11 - <span style=\"text-decoration:line-through\">Toughness OR Great Fort OR Heavy Armour OR Blind Fight (if taking a second WF at L12)</span> <span style=\"color:#FF0000\">Spring Attack</span><br/>\n19 CoT8 - WW Attack<br/>\n20 CoT9 - STR+1 (22)<br/>\n21 CoT10 - Grt Str I (23)/ EWF: Spear<br/>\n22 WM1 - {WoC: Spear}<br/>\n23 WM2<br/>\n24 WM3 - STR+1 (24)/ Grt Str II (25)<br/>\n25 WM4<br/>\n26 WM5<br/>\n27 WM6 - Grt Str III (26)<br/>\n28 R12 - STR+1 (27)<br/>\n29 WM7<br/>\n30 WM8 - Grt Str IV (28)<br/>\n31 WM9<br/>\n32 R13 - STR+1 (29)/ <span style=\"text-decoration:line-through\">{Imp Evasion OR Slippery Mind}</span> <span style=\"color:#FF0000\">{Slippery Mind}</span><br/>\n33 WM10 - Grt Str V (30)<br/>\n34 WM11<br/>\n35 WM12<br/>\n36 WM13 - STR+1 (31)/ Grt Str VI (32)/ Armour Skin<br/>\n37 R14<br/>\n38 WM14<br/>\n39 WM15 - Grt Str VII (33)<br/>\n40 WM16 - STR+1 (34)/ Epic Prowess<br/>\n<br/>\nCheers<br/>\n<br/>\n<span style=\"color:#FF0000\">Made a few more amendments (11/12/19) following MD's input.</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:50 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would suggest switching from Rog11/CoT9 pre-epic to Rog12/CoT8 since it gives +1 Fortitude and +1 Reflex. The only downside is that you'll have fewer epic rogue levels for skill dumps.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:30 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Yunim. The saves would always be welcome (I really hate failing Will saves as a meleer - it stops you doing the one thing you're supposed to do - but it's an occupational hazard much of the time, which is why I tend towards CoT rather then Fighter a fair bit. And I appreciate there's no Will bump in your suggestion).<br/>\n<br/>\nThere is one more downside (which probably makes more difference in modules than on PWs), though, and that's the delay of EWF by at least one level. It's one for me to mull on.<br/>\n<br/>\nI'd also thought about delaying the final 3 levels of CoT into epic levels and bringing the first 2 WM levels in pre-epic (taking WW Attack at level 18 and negating my quandary over which feat to take then and maybe grabbing something else as my \"floating\" CoT bonus feat in epic levels).<br/>\n<br/>\nHmm...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:36 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Stag<br/>\n<br/>\nDelighted to read through your build as always and learn from what you are doing!<br/>\n<br/>\nLots of nice things in your build, including taking seven great strength feats plus 7d6 sneak attack (which can be triggered by flanking with summons from UMD, or improved knockdown) with a very good 46 base AB with potentially two weapon foci and 34 strength<br/>\n<br/>\nFirstly I do not think you can take Weapon Focus: Spear with Weapon Proficiency (Rogue), hence I would encourage you to go the dual foci route for your build in terms of achieving your CoT requirements then take the WF: Spear once you get CoT<br/>\n<br/>\nI personally like the idea of dual foci to wield a\u00a0xiphos (greek shortsword)\u00a0and large shield (gotta be a round shield if you are Spartan, sorry tower shields) and dropping heavy armor proficiency (I don't recall many spartans clad in heavy plate, they are meant to intimidate with their biceps), and I like the idea of blind fight in the build over toughness. I don't think you would lose a lot of AC by equipping a chain shirt then boosting dex a little with items / UMD / cats grace potions.<br/>\n<br/>\nI can see Yunim's suggestion would be best for a max power level 40 build, but the extra skill dumps are better in a build which plays along its lifetime with termination near 40 (I'm thinking Aielund), losing one skill dump epic might mean 5 levels where your rogue skills are not effective enough. All depends on the environment<br/>\n<br/>\nIn terms of skill points I would ensure there is 4 ranks in intimidate during your rogue levels (Weapon Master Prerequisite), Tumble 40.\u00a0<br/>\n<br/>\nBeyond that you have a lot of choices. Here are some suggestions. I'm sure you know a lot about this but I put it up there, just in case<br/>\n<br/>\nUMD: I would take this simply because it is so good, if you dont want to cast spells then use it so you can use any equipment you need to, like a brutal survivor a Spartan is, you can use those Monk Boots if needed<br/>\nDetection: Agree with either Listen or Spot, I would choose Listen if you go stealth based<br/>\nStealth: Potentially a good choice with a two handed and medium armor, with your dex score but will use up a lot of your skill points<br/>\nDiscipline: A good choice in some modules, particularly if there are opponents who use disarm / called shot. Essential if knockdown immunity is not available or difficult to obtain.<br/>\nTraps: Set trap 15 modified is handy to set all deadly traps except gas traps, disable trap is also handy to get some bonus exp or retrieve traps to use against your enemies<br/>\nSocial skills: Persuade is handy in a few modules, Appraise is also handy in environments which are cash strapped<br/>\nSpellcraft: is ok for + saves against spells, particularly if you dont want to use buffs from UMD or dont have access to them<br/>\n<br/>\nHope that helps!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:42 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Stag, noted you posted whilst I was typing my suggestions, I think the saves would be better with three classes pre-epic (ie Rogue / WM / CoT) but am not 100% sure, my understanding is the first 1-2 levels one gets large benefits for the primary saves of the class<br/>\n<br/>\nBy the way the shortsword early -&gt; large spear later can be incorporated into a nice way from an RP point of view, its kind of like the young spartan, scrounging around for any advantage with a borrowed or stolen shortsword, surviving at all costs, finally earning his stripes, becoming a champion of Sparta and getting that huge powerful spear to smite the enemy, with such a high base Str that is very strong<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:00 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, balls, you're right about spear, Orion - it's a simple weapon not a Rogue weapon. And that's right about the saves - WM2 would give a nice +3 to Reflex, but I'd lose 1 in both Fort and Will, which would then kind of reinforce my Rogue 13/ CoT 14/ WM 13 thought.<br/>\n<br/>\nAlright, time for a bit of a rethink. Nurse!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:29 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I only have one thing to nitpick!<br/>\n<br/>\nLeonides was a Spartan King!<br/>\n<br/>\nHis Cha is waaaaay too low!<br/>\n<br/>\nJust sayin'!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:11 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A Rogue/CoT/WM build screams for the Rapier. But that's not Sparta!!! <br/>\nThe CEP Goad may look like a one handed spear, but you cannot take any feats in it. Another solution would be if you were able to trick the game into treating your character as one size bigger so you could wield the spear in one hand. (I don't know if it's even possible)<br/>\n-<br/>\nI found two almost identical builds with these classes in my folders. They were both Rogue 13/ CoT 8/ WM 19 with Rogue 10/ CoT 6/ WM4 pre epic, and ended up with AB +47 and a will save bonus of 19. But they were Rapier builds with Armor proficiency heavy, so no Spatra there. (So I dont even know if this is helpful) The stats were STR: 17 (34), DEX: 13, CON: 14, WIS: 8, INT: 14, CHA: 8.<br/>\nI took Crippling strike like you did, but chose Defensive roll for the second rogue feat. Slippery mind may be better and suits your attempt to avoid mind spells.<br/>\nI list the skills for comparison. With INT 14 I could pick one more skill and had room for a little extra:<br/>\nBuild 1: Appraise 13(15), Craft Trap 19(21), Disable Trap 12(16), Discipline 43(55), Intimidate 4(3), Listen 43(42), Lore 8(10), Open Lock 28(29), Persuade 13(12), Search 40(42), Set Trap 12(15), Tumble 40(41), UMD 36(35)<br/>\nBuild 2: Appraise 13(15), Craft Trap 19(21), Disable Trap 12(16), Discipline 43(55), Intimidate 4(3), Listen 43(42), Open Lock 13(14), Persuade 13(12), Search 40(42), Set Trap 12(15), Tumble 40(41), UMD 36(35), remaining skillpoints 23. <br/>\nI could have x-classed Spellcraft here for better saves vs spells.<br/>\n-<br/>\nLevelling up such a build may be a challenge early on when you have a strength based rogue with only light armor and no shield. But I guess you can write that off as \"Spartan hardship\".<br/>\n-<br/>\nOrion brought up Aielund.<br/>\nThat sparked some thoughts and questions about how such a character would have acted throughout that campaign. How would a Spartan lost in Aielund have interacted with the different NPCs? What path would it take and who would he choose to party up with? <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:14 AM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm...the trick with the \"one size bigger\" brings back memories...<br/>\n<br/>\nI had a Troll Character that dualwielded Greatswords! (using the \"one size bigger\" trick).<br/>\n<br/>\nI rather suspect, as Mick says, that it would be possible to wield the Spear this way one-handedly, and use a Shield!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:39 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is a CEP 'Shortspear' weapon which can be wielded in one hand, and one can equip a shield in the other.<br/>\nI have seen a few of these floating around in WoG.<br/>\n<br/>\nThe main problem with using this is that one cannot weapon focus / epic weapon focus it, which is why I haven't suggested it but Mick has brought up the Goad CEP weapon so I thought I would mention it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:12 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks All - invaluable input! I'll edit the OP shortly to accommodate what I can (I'll do it in red so it shouldn't be too confusing).<br/>\n<br/>\nI will be going for the two weapon foci (shortsword - as Mick says, rapier is probably the \"better\" choice, but RP must play its part, and even then a shortsword should really be both piercing and slashing, much as a greatsword should be both slashing and bludgeoning, but I digress - then spear). With the same class split, I'll still have a reasonable 41 AB with shortsword.<br/>\n<br/>\nThe skills breakdown from Mick is very helpful. First, it makes it easier for me to do the sums, which is always nice. Second, again given the RP nature of the build, I'm not really looking for trapping skills (maybe a few points in Disable), so an INT of 13 seems right in this instance, giving me an albeit teeny bump to DEX.<br/>\n<br/>\nAs to the \"one size bigger\" thought, I like it, but suspect it will remain just that, a nice thought (and as a side-effect it would also seriously boost IKD).<br/>\n<br/>\nMick is right that early levels will be challenging, particularly if soloing, but that should help hone my playing skills, looking on the sunny side!<br/>\n<br/>\nAnd the Aielund question is an interesting one, and I'll try running the build around there to see how it fares (though I don't recall seeing many quality spears there, but then I haven't been looking for them before. It's also a non-Dev Crit environment, so might suit this build). I don't see him getting on terribly well with Robert Black or Terinus, but he'd probably really like Valennia and maybe Maggie (for her passion), and have a love-hate relationship with Dante. The other henchies I'm thinking he'd have no really strong feelings about either way (so maybe no romance with Criosa).<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:56 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Edit now done and ready for dissection...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "9:54 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As an <a class=\"postlink\" href=\"http://msu.edu\" rel=\"noreferrer\" target=\"_blank\">MSU Spartan</a>, I endorse this build. I'm glad to be an inspiration. :)\u00a0<br/>\n<br/>\nAs warriors, I believe they trained in both spears and shortswords (a wikipedia tangent show it was called a\u00a0<a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/Xiphos\" rel=\"noreferrer\" target=\"_blank\">xiphos</a>). So the dual weapon focus is nice touch. Alas, if only there was a way around the shield problem. :'(<br/>\n<details><summary>Spoiler</summary><a class=\"postlink\" href=\"https://www.youtube.com/watch?v=gI6sARmxEuc\" rel=\"noreferrer\" target=\"_blank\">\"Spartans! What is you profession?\"</a></details>\n\nAs a builder, I'm finding myself super fond of CoT builds. Failing saves can ruin my play time. For pure offense though, it seems like R/F/CoT comes out on top.<br/>\n<br/>\nI put this into the CBC spreadsheet (being a math/stat geek, I'm always curious how builds compare in CR and ECL ratings. Even if it's an imperfect measurement like bWAR or fWAR). It seems like you were off a couple points as Intimidate isn't cross-classed. Plus, I think you missed a feat at level 15.<br/>\n<details><summary>Spoiler</summary>\nRogue(14), Champion of Torm(10), Weapon Master(16), Human\nSTR: 17 (34)\nCON: 14\nINT: 13\n\n01: Rogue(1): Dodge, Expertise\n03: Rogue(3): Mobility, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Weapon Focus: Shortsword\n11: Champion of Torm(1)\n13: Champion of Torm(3): {Smite Evil}\n15: Champion of Torm(5): Iron Will\n17: Champion of Torm(7)\n19: Champion of Torm(8): Whirlwind Attack\n21: Champion of Torm(10): Great Strength I, Epic Weapon Focus: Spear, (STR=23)\n23: Weapon Master(2)\n25: Weapon Master(4)\n27: Weapon Master(6): Great Strength III, (STR=26)\n29: Weapon Master(7)\n31: Weapon Master(9)\n33: Weapon Master(10): Great Strength V, (STR=30)\n35: Weapon Master(12)\n37: Rogue(14)\n39: Weapon Master(15): Great Strength VII, (STR=33)\n\nSkillpoints: 274\nSaving Throw bonuses: Spells: +4, Traps: +3\nAB (max, naked): 46 (melee), 30 (ranged)\nSpell Casting:\u00a0\n\n\n01: Intimidate(4), Listen(4), Spellcraft(2), Tumble(4), UMD(4), Save(20),\u00a0\n03: Listen(1), Spellcraft(1), Tumble(1), UMD(1), Save(32),\u00a0\n05: Listen(1), Spellcraft(1), Tumble(1), UMD(1), Save(44),\u00a0\n07: Listen(1), Spellcraft(1), Tumble(1), UMD(1), Save(56),\u00a0\n09: Listen(1), Spellcraft(1), Tumble(1), UMD(1), Save(68),\u00a0\n11: Discipline(14), Spellcraft(1), Save(63),\u00a0\n13: Discipline(1), Spellcraft(1), Save(67),\u00a0\n15: Discipline(1), Spellcraft(1), Save(71),\u00a0\n17: Discipline(1), Spellcraft(1), Save(75),\u00a0\n19: Discipline(2), Spellcraft(1), Save(61),\u00a0\n21: Discipline(1), Spellcraft(1), Save(65),\u00a0\n23: Discipline(1), Listen(1), Spellcraft(1), Save(64),\u00a0\n25: Discipline(1), Listen(1), Spellcraft(1), Save(66),\u00a0\n27: Discipline(1), Listen(1), Spellcraft(1), Save(68),\u00a0\n29: Discipline(2), Listen(1), Spellcraft(1), Save(56),\u00a0\n31: Discipline(1), Listen(1), Spellcraft(1), Save(58),\u00a0\n33: Discipline(2), Listen(1), Spellcraft(1), Save(58),\u00a0\n35: Discipline(1), Listen(1), Spellcraft(1), Save(60),\u00a0\n37: Listen(1), Spellcraft(1), Tumble(5), UMD(1), Save(63),\u00a0\n39: Discipline(1), Listen(1), Save(66),\u00a0</details>\nAlso, I'd think any of the rogue skills (traps, Hide, MS, OL) would completely fit with their warrior upbringings/training.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:29 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I still do all my calculations with pencil and paper, so please forgive the odd error, such as Intimidate, which I should have remembered was a Rogue skill and thus yes, having four more points to allocate (making 70). I find the time simply staring at a piece of paper helps my thinking, that's all. I'll then run it through the Halls of Advanced Training to see how it works there, and then give it some actual play-time.<br/>\n<br/>\nIron Will is a good thought, but I believe I went for Improved Knockdown - I'll have to check whether I made that clear in my edit. Oh, and which Skill Mastery did you have in mind instead of Slippery Mind?<br/>\n<br/>\nMany thanks for the input, MD!<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Apologies - I mistook Skill Mastery for Skill Focus, so please ignore my final question. Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "10:42 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Skill Mastery was an Excel goof on my part. I agree that Slippery Mind is a better feat. Tho, ESF: Discipline....? That could be a good fit from an RP perspective.<br/>\n<br/>\nI think editting in the original post might have led you to drop one of the level 12 feats.<br/>\n<br/>\n12: Champion of Torm(2): STR+1, Weapon Focus: Spear, Improved Knockdown, (STR=20)<br/>\n13: Champion of Torm(3): {Smite Evil}<br/>\n14: Champion of Torm(4): Improved Critical: Spear<br/>\n15: Champion of Torm(5): Iron Will<br/>\n16: Champion of Torm(6): STR+1, Blind Fight, (STR=21)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:46 PM - Dec 10, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ha - you're right! Thank you.<br/>\n<br/>\nAnd here's your reward...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.youtube.com/watch?v=4Prc1UfuokY\" rel=\"noreferrer\" target=\"_blank\">This is Sparta!</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:19 AM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the link Stag. I haven't watched 300 (not my usual film choice), but that was a pretty good scene, great props, filmography etc<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:29 AM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"17912\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17912&amp;sid=e01a524bb5c39968340486007183e059#p17912\">\u2191</a><div class=\"responsive-hide\">Dec 12, 2019</div></cite>Thanks for the link Stag. I haven't watched 300 (not my usual film choice), but that was a pretty good scene, great props, filmography etc</div></blockquote>\nGasp!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:53 AM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm shocked! [insert Kevin Alone face]<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:00 PM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><img class=\"post-image\" loading=\"lazy\" src=\"https://m.media-amazon.com/images/M/MV5BMjQ2NjIwNjg2Ml5BMl5BanBnXkFtZTgwODQxOTU3NjM@._V1_.jpg\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:55 PM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now give that man a spear!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "2:58 PM - Dec 12, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"17912\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17912&amp;sid=f7a4215dd242dacd4443c30827423af8#p17912\">\u2191</a><div class=\"responsive-hide\">Dec 12, 2019</div></cite>Thanks for the link Stag. I haven't watched 300 (not my usual film choice), but that was a pretty good scene, great props, filmography etc</div></blockquote>\nWhile I am slightly shocked by this, goes to show ya cant judge a person by the toons they make/play...<br/>\n<br/>\nSo guess I need to give all you cleric players another chance\u00a0 :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:45 AM - Dec 13, 2019",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hehe I get my 300 type fighter/warrior kick out of playing NWN<br/>\nMovies I watch tend to cover other areas<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:19 PM - Jan 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just by way of an update...<br/>\n<br/>\nThis is damned hard work up to level 14 or so, and the AC remains a challenge throughout - you <em>will</em> take punishment. On this basis, I don't propose to shift it to the finalized builds forum. It does, however, help hone your playing skills, which is never a bad thing.<br/>\n<br/>\nA shame, but an enjoyable play!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:36 PM - Jan 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found pure rogue challenging to play when I started. In this build the player has to play pure rogue for 10 or so levels.<br/>\n<br/>\nRogue has as you recall, d6 hit die, 3/4 BAB, restricted to light armor and no shield proficiency.\u00a0<br/>\nFighter has d10 hit die, full BAB, heavy armor, shield and martial weapon proficiency, concentration/discipline as a class skill<br/>\n<br/>\nMan - o - Mano, 1v1 melee fair duel combat wise -&gt; Fighter will always have a significant advantage over Rogue.\u00a0<br/>\n<br/>\nThis is assuming no usage of stealth, traps, UMD, cheesy ranged kiting tricks with tumble, or using summons/companions to flank your opponent (or sneak attacks with a shortbow).<br/>\n<br/>\nI obtained a lot of advice from other players to improve my rogue gameplay.\u00a0<br/>\n<br/>\nIn summary I believe rogue has three advantages over fighters:<br/>\n- sneak attack<br/>\n- skills (8 skill points / level vs 2 skill points / level), most of them class skills, exception of discipline/concentration<br/>\n- evasion / uncanny dodge etc..<br/>\n<br/>\nCombat relevant skills are broken down into<br/>\n-&gt; stealth / detection<br/>\n-&gt; traps<br/>\n-&gt; UMD<br/>\n-&gt; tumble<br/>\n<br/>\nI'm still learning rogue stuff all the time from other players. Gkorjax for example, was kind enough to party with me the other day, and taught me the power of the humble 'wand of sleep'. Enemies with limited hit die who are asleep can be assassinated very easily with coup de grace.<br/>\n<br/>\nAC wise thankfully this build has Dex 14. I've played pure rogue builds with Dex 8 and they are awful to level.\u00a0<br/>\n<br/>\nOverall I think you are being somewhat harsh on judging your build which a lot of people have contributed towards to make it optimal and I would encourage you to reconsider, it might just be in the hands of a skilled rogue player those early levels one might do fine...<br/>\n<br/>\nFor example in the original campaign, if you have a suitable melee companion tank for you, you will be doing a lot of sneak damage. Level 10 rogue is 5d6 sneak damage, that is more than two greatswords in a single hit.\u00a0<br/>\n<br/>\nIf they target you, use tumble and get away from them, kite them until they retarget your companion, then sneak again. Maybe you could even use a shortbow in that situation to make it easier, although if they do get into melee range you will suffer -4 to AB, but I think if you are within 15 feet the sneak attack will activate without the AB penalty (?anyone can confirm)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:40 PM - Jan 08, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's kind of you to say so, Orion, but I'm aware I'm still first and foremost a player, a critic second (just because I've digested so many builds, I guess), and a builder third. And when I do build, they tend to be more conceptual in nature, rather than optimized, and as a module rather than PW player, I appreciate playability throughout more than max level 40 power. And that's fine: we all have our stengths and weaknesses, after all.<br/>\n<br/>\nI have learned to play in many contrasting styles depending on build and environment - more often than not because this lot provide so many builds I want to play. Normally, somewhere around level 10 I know if it's \"my kind of thing\" or not, but sometimes I keep ploughing on anyway because I can be a stubborn bugger (I know, scarcely believable!), and those will end up as being the most valuable ones, as I learn new ways of playing. Casters still bring me out in hives, but hey, we can't have everything.<br/>\n<br/>\nI still don't think this particular beastie warrants a place in the pantheon, though. And I do try to respect the level 40 forum as the best of the best.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:22 AM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18324\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18324&amp;sid=f7a4215dd242dacd4443c30827423af8#p18324\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2020</div></cite>\n\u00a0I've played pure rogue builds with Dex 8 and they are awful to level. </div></blockquote>\nThat makes me wonder why you would do such a thing<br/>\nI like my rogues much better when they start out with Dex 18 or thereabout without neglecting Intelligence.<br/>\n<br/>\nWith Sneak attack you can kill a giant with a finessed toothpick or a sling<br/>\nSneak immunes you kill with traps or contraptions you can use with your UMD skill<br/>\nThe same goes for True seers<br/>\nVersatility and creativity is key. What you call tactics, less open-minded players call cheesy.<br/>\n<br/>\nBut c'mon - Fighters do what fighters do. Playing a pure rogue is a different game altogether.<br/>\nFighter rogues like the Spartan one posted here pick a little from both worlds - versatility once more. But I still don't like playing in the undies with a dexterity of 14.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "3:15 AM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know some know this already but it bears repeating... \u00a0 Traps are great.. but take time to \u00a0put into place... \u00a0remember this...<br/>\n<br/>\ntanglefoot bag is a reflex save versus held for 2 rounds<br/>\nchoking powder is a fort save against dazed for 2 rounds...<br/>\ncaltrops - 1 damage every rounds.. 25 max. \u00a0<br/>\n<br/>\nso if you don't use them to make traps... \u00a0a caltrop bag following by whichever is their weaker save then reposition and sneak...<br/>\n<br/>\nor skip the caltrops and get 2 rounds of sneaks in....<br/>\n<br/>\nand sleep wands.. \u00a0and wands of entangle... \u00a0and wands of stinking cloud.... and you have UMD \u00a0:) \u00a0 \u00a0 use it... \u00a0 \u00a0<br/>\n<br/>\nthe only reason you play fair is cause your Ma or Da gave you a hangup about being a paladin....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:26 AM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"18327\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18327&amp;sid=f7a4215dd242dacd4443c30827423af8#p18327\">\u2191</a><div class=\"responsive-hide\">Jan 09, 2020</div></cite><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18324\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18324&amp;sid=f7a4215dd242dacd4443c30827423af8#p18324\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2020</div></cite>\n\u00a0I've played pure rogue builds with Dex 8 and they are awful to level. </div></blockquote>\nThat makes me wonder why you would do such a thing<br/>\nI like my rogues much better when they start out with Dex 18 or thereabout without neglecting Intelligence.</div></blockquote>\nMick if you remember, I wrote a Blackguard Executioner build some months back. It had a starting strength of 16-17 and dex of 8, con 16, in 14 something like that. Originally I designed it with 8 levels of rogue before the first level of blackguard, however I learned 8 levels of pure rogue, strength based, dex 8 is just too painful in light armor and no shield proficiency, the only way to win fights was with UMD. This was my first proper rogue build, and just part of the learning process called experience. It was funny, I had a chat to BlackCobra whilst playing WoG the other day, and he had a similar experience too, he had to expend extreme effort just to buff up that AC.\u00a0<br/>\n<br/>\nAnd thus through similar experiences we share common ground :)<br/>\n<br/>\nMick and conlaoch's comments do echo my own except with a lot more experience behind them. I only learned about the power of caltrops recently, particularly against opponents such as animals (rust monsters for example) who can't open doors! There are multiple parts of the roguish toolkit and to get the most of the class they should be utilised, otherwise any fighter/paladin build is going to be superior.\u00a0<br/>\n<br/>\nRegarding the dex 14 score, I believe that score is good for a human strength rogue that will eventually multiclass to a combat class, any higher and you are likely compromising your potential with strength, constitution or intelligence. Its nice too. Equip scale mail/chain shirt, drink a cats grace potion and/or equip a +2-4 dex item, and your AC is almost the same as wearing full plate, with a lot less encumberance and you can use tumble effectively early levels.<br/>\n<br/>\nStrength rogues multiclassed with combat classes (which is Stag's build) can be absolute monsters.\u00a0<br/>\n<br/>\nYou can equip that medium/heavy armor, tower shield even, pack a punch with a huge amount of strength damage, weapon buffs from UMD (ie flame weapon/keen weapon), defensive buffs from UMD (ie improved invisibility), deal 10d6-15d6 sneak attack (which you can trigger with invisibility/flanking from companions or summons from UMD/improved knockdown or even attacking around a corner!), carry mountains of loot, devastating critical, plus you can detect and disable all the traps, open all the locks, set deadly traps (just unequip that tower), detect every stealther approaching you with listen/spot, plus you get evasion/uncanny dodge/crippling strike/improved evasion. Tank for your party etc etc. It feels like you can do everything.<br/>\n<br/>\nStealth is a little weaker (which rogue has bonus epic skill foci in hide and move silently if you want to use this seriously as a strength rogue) and epic dodge is generally out of the equation (I believe there are some dev crit/epic dodge builds in the ECB archives but they are rare) but these are only a few parts of the overall rogue toolkit one is missing and what is gained covers so many weaknesses of the rogue class.<br/>\n<br/>\nNot only that its super fun to rogue up in a party with that keen weapon'ed greatsword equipped and start dishing out huge numbers from big sneak attacks &amp; critical hits &amp; strength damage :) Greatsword rogue! :)<br/>\n<br/>\nOverall I think Stag build should be fine, and whilst I will always try to temper any comment with kindness, honesty and objectivity are also important to me as well. I would just treat it as part of the RP experience of the build. Suffering as a lowly spartan midget of society, and you gotta earn your space as a warrior through cunning, versatility and brutality. Perhaps princes were not excluded from the process either?<br/>\n<br/>\nIt's not easy being Spartan! :)<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.history.com/news/8-reasons-it-wasnt-easy-being-spartan\" rel=\"noreferrer\" target=\"_blank\">https://www.history.com/news/8-reasons- ... ng-spartan</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "7:49 AM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nStrength rogues multiclassed with combat classes (which is Stag's build) can be absolute monsters.\u00a0\n</div></blockquote>\n\nI call them ... Blackguards :). Seriously though, there are some solid combat rogue builds.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:46 PM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18333\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18333&amp;sid=c659d2912cdf055fefe6c2158d16433f#p18333\">\u2191</a><div class=\"responsive-hide\">Jan 09, 2020</div></cite>\nStrength rogues multiclassed with combat classes (which is Stag's build) can be absolute monsters.\u00a0</div></blockquote>\nI agree with you on that. But it is much easier to level them up if you can multiclass early with a class that gives heavy armor and shield.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:44 PM - Jan 09, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">True true, that is my experience as well Mick<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:36 AM - Jan 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">New Patch coming from BeamDog gonna make this Total Sparta!<br/>\n<br/>\nShort Spear with all that goodness (wf, impr. crit, etc) AND Shield!<br/>\n<br/>\nWoooooohoooo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "9:58 AM - Jan 14, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It still needs to be server customised to work :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:47 AM - Sep 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just refreshing this.<br/>\n<br/>\nWoG now supports this build!<br/>\n<br/>\nAwoo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:36 AM - Sep 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Web!<br/>\n<br/>\n*<em>Stag feels\u00a0 the pressure to play WoG suddenly intensify</em>*<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:25 AM - Sep 25, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm going to use a short spear and shield, with the short sword as a secondary weapon!<br/>\n<br/>\nHoist that spear arm!<br/>\n<br/>\nAroo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:14 PM - Sep 26, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do please keep us posted of the results, Web!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:24 PM - Oct 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok, I am going to be running this build on WoG.<br/>\n<br/>\nStay posted for updates.<br/>\n<br/>\nAroo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:42 PM - Oct 13, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Return with your shield, or on your shield!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:20 AM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22278\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22278&amp;sid=1a9a8160ee16b76ffa22e7858f66a9b2#p22278\">\u2191</a><div class=\"responsive-hide\">Oct 13, 2020</div></cite>Return with your shield, or on your shield!</div></blockquote>\nFunny.\u00a0 The build can't use a Shield, Stag! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nAt least, not until it gets CoT levels (and that is a looooong time coming!)<br/>\n<br/>\nAt least I have not dirtnapped yet.<br/>\n<br/>\nThis build cannot use a spear, either \n<blockquote><div>\u00a0This feat allows the character to use the club, dagger, dart, handaxe, light crossbow, heavy crossbow, quarterstaff, mace, shortsword, rapier, shortbow, morningstar, and sling.<br/>\n<br/>\nThis proficiency includes all simple weapons except the sickle and <em><strong>SPEAR</strong></em> plus some martial weapons: handaxe, rapier, shortsword, and shortbow.</div></blockquote>\n\nuntil CoT levels.<br/>\n<br/>\nYeah, I know, it was pointed out already.\u00a0 <br/>\n<br/>\nStill, that really breaks the immersion imo.\u00a0 We all know the young Leonidas hunted that wolf with a spear.\u00a0 But even assuming that Spear and Shield is taught much later (when the necessary muscle strength is there ;) ), that leaves a shortsword and...nothing.\u00a0 Talk about Sparta hard!<br/>\n<br/>\nWouldn't be so bad, but it comes later.<br/>\n<br/>\nATM, at level 5, almost level 6 on WoG.\u00a0 These are the things I am currently encountering as I level up.\u00a0 UMD is now high enough to use Crafted Wands. Time to go Buggie hunting in Critwall and get in some power levelling!\u00a0 Hopefully, enough to get that CoT level!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:18 AM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"22281\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22281&amp;sid=1a9a8160ee16b76ffa22e7858f66a9b2#p22281\">\u2191</a><div class=\"responsive-hide\">Oct 15, 2020</div></cite><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22278\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22278&amp;sid=1a9a8160ee16b76ffa22e7858f66a9b2#p22278\">\u2191</a><div class=\"responsive-hide\">Oct 13, 2020</div></cite>Return with your shield, or on your shield!</div></blockquote>\nFunny.\u00a0 The build can't use a Shield, Stag! <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><br/>\n<br/>\nIt would have been possible to take simple weapon proficiency earlier, but I couldn't think what to drop, and as I knew it was coming anyway, I left it. Sorry. I do take CoT asap!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:38 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 7 now.<br/>\n<br/>\nTook on some street gangs in the alley ways of Greyhawk City.\u00a0 They kept Taunting me (lack of Concentration here is a serious flaw in this build!).\u00a0 Dropped my AC to meh, and then were sneak attacking me (I guess they have more than enough levels of Rogue to do it).<br/>\n<br/>\nDue to my very fast and quick reflexes (no, nope, no dexer here, dammit!), I ran away, tried hiding around corners...not very successful.<br/>\n<br/>\nDowned many a curing potion, as the fight dragged on.\u00a0 Couldn't land one KD due to low AB (another really meh part of this build).<br/>\n<br/>\nNot very Sparta-like at all.\u00a0 More like totally desperate, try anything to survive stuff. Nice XP tho.<br/>\n<br/>\nFinally got some Crafted Wands (Impr. Invis, Flame Arrow, and Lesser Missile Storm).\u00a0 Giddy with my newfound powah!<br/>\n<br/>\nGonna wreck some buggies in Critwall!\u00a0 <br/>\n<br/>\nAll your XP belong to us! Aroo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:06 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know what you mean about Concentration - I like to take it when I can - but it is very environment-specific for non-casters. Not everywhere taunts (WoG does, and so does Aielund, to a lesser extent).<br/>\n<br/>\nAll woes could be solved by taking Fighter instead of CoT, I know, but I'm a bit addicted to decent saves (or at least less crappy ones, anyway).<br/>\n<br/>\nKeep going, Web - and think of all that current frustration you can vent on baddies later on!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:36 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 12!\u00a0 CoT levels, bay-be!<br/>\n<br/>\nAROO!<br/>\n<br/>\nWhy in the HELL does CoT not get Concentration for a Class skill? O_o<br/>\n<br/>\nDammit!<br/>\n<br/>\nTime to go to the Rift, and hunt some Stone Giants!\u00a0 The bigger they are, the harder they fall...and even a God can bleed!<br/>\n<br/>\nAroo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:47 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 20.<br/>\n<br/>\nAroo!<br/>\n<br/>\nUnfortunately, both Shortsword and Spear are both Piercing type weapons.\u00a0 That is kind of meh.\u00a0 Would be better to have two different types.\u00a0 I will look into this (maybe CEP Weapons have a solution here?).<br/>\n<br/>\nNope, no CEP weapon substitute <img class=\"emoji-placeholder\" src=\"/emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:46 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I feel your pain, Web. It's a long-standing beef of mine. Both shortsword and spear could historically be used as stabbing (piercing) and slashing weapons. Much as the greatsword was initially introduced to knock cavalry from their horses - thus bludgeoning and slashing. It's a bummer when you're trying to design a build that's as \"true\" to the character as possible, then having the game rules bite you on the arse.<br/>\n<br/>\nStill, level 20!<br/>\n<br/>\nAROO!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "6:37 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It\u2019s a longshot, a real long longshot, but it is possible to find one of those weapons with an \u201cextra damage type: slashing\u201d property. But I wouldn\u2019t bank on it. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:00 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">^ He's more Spartan than Lionidas!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:20 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 22.\u00a0 No dirtnaps yet.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:43 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">After playing this build now for half of it's levels, it really seems like this build wants to be two different types of characters.<br/>\n<br/>\nIt starts out roguey, but never gets enough skills to really be roguey, then switches to beat'em up.\u00a0 I am wondering if having a level of Rogue near level 20 might be a good idea (to top off some roguey skills).\u00a0 22 does seem like a good spot (I mean, Tumble to 25, yadda yadda yadda).<br/>\n<br/>\nI can't sneak up on anyone (sneak is too low, even with maxed out skills at Rogue 11) now, because most creatures at Epic levels spot me easily, me creeping along, they chuckling softly and elbowing each other as I try to sneak up on them, only for them to smack me hard to remind me that I am being like Drax in Avengers Infinity War - no, I am not invisible, yes, they can see me.\u00a0 So right now I am depending on my Wand of Impr. Invis.<br/>\n<br/>\nSame thing goes for opening locks and disarming traps.\u00a0 Often now, ranges are a tick out of my standard range, and I have to rely on boosts to open locks and disarm traps (not to mention recover the traps, which is what I actually want to do). Meh.<br/>\n<br/>\nI am REALLY missing Concentration on WoG!\u00a0 I get taunted all the time now - well, there goes our AC, guys!\u00a0 But beat'em up has prevented me from dirtnapping so far, so...yeah.\u00a0 I am dreading higher levels.<br/>\n<br/>\nATM, I am trying to find out if the Short Spear is Finesseable.\u00a0 If it is, it might be smarter to go the Dex route here (Shortsword is also Finesseable).\u00a0 Better AC (and I am pretty sure Spartans didn't have any heavy armor, and at one period of time they wore none).\u00a0 It would make sense if a Short Spear was Finesseable (it is almost the same as a Rapier, only a Rapier has a much better crit range).<br/>\n<br/>\nNow, I know I still have 3 more levels of Rogue to go.\u00a0 But getting to one to do a skill dump is showing areas in the build that are slumps, like valleys.\u00a0 <br/>\n<br/>\nAnyway, onwards!<br/>\n<br/>\nArroo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:50 PM - Oct 15, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, looking very kewl, oh shaman of webs!<br/>\n<br/>\nWM coming up - and a fair dollop of it. Enjoy!<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd! I understand what you say about Rogue levels, but remember, this is meant to be a RP PC, and I don't recall much in Greek myth or history about sneaky Spartans. Also, please refer to the first line of the OP, this is kind of two challenges in one. One, to build a Rogue/ CoT/ WM. Two, build a Spartan (not the small, recruitable dragon in Aielund). It was never going to be a walk in the park. A DEX version might work, though, and ED becomes an option then, with some juggling.<br/>\n<br/>\nOh, and I assume you know the looking kewl line refers to the screenshot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:13 AM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, Short Spear is not Finessable (because that weapon feat is still hardcoded).<br/>\n<br/>\nDrats.<br/>\n<br/>\nOh, and just because it is an RP build, doesn't mean that it can't be optimized.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:34 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"22293\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22293&amp;sid=ffcf63fd07b2e75da4664889a905d99b#p22293\">\u2191</a><div class=\"responsive-hide\">Oct 16, 2020</div></cite>\nOh, and just because it is an RP build, doesn't mean that it can't be optimized.</div></blockquote>\nFair point, Web. I've been engaged in a similar discussion with Max lately, so now I have the collected wisdom of two of the big boys bearing down on me. Much as I hate admitting it, it appears Max was right (*sighs* yes, again). And yourself, of course.<br/>\n<br/>\nI have been looking at a more \"hardcore\" Spartan, dropping CoT for Fighter. It's currently at F14/ R7/ WM19. The saves are pretty diabolical, and I've swapped Shortsword for Scimitar, but it's got EWF and EWS in both weapons, along with Imp Crits and 2 WoCs, giving an AB of 48 with both. It also has access to Concentration. Obviously, the number of skill points suffers, but I'm working things through as I speak (well, you know what I mean). If it's worth a look, I'll drop it in here for your thoughts.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:42 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, here's the different version I mention above. It's only a first (rough) draft, but it would seem to answer at least some of Web's concerns (though I daresay it will raise others). I lose Crippling Strike and have a pretty catastrophic Will save, but I gain in weapon capability, damage, and diversity. The skills take a hit, but can still incorporate Concentration alongside Discipline, Tumble, UMD, a detect skill, and a bundle of other useful stuff (still can't make him sneaky, even if I wanted to).<br/>\n<br/>\nThe ordering of feats is still malleable (such as whether to take spear or scimitar first), but see what you think...<br/>\n<br/>\n<strong>Leonidas II - The More Focused One</strong><br/>\nFighter 14/ Rogue 7/ WM 19<br/>\nHuman - Any (L1-40, PvM)<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 17 (32)<br/>\nDEX 14*<br/>\nCON 14<br/>\nWIS 8<br/>\nINT 13*<br/>\nCHA 8<br/>\n<br/>\n(* if opting for heavy armour, drop DEX to 13 and bump INT to 14)<br/>\n<br/>\nHPs: 452<br/>\nSaves: Fort 22, Will 15, Reflex 24 (+4 v spells if opting for (cc) Spellcraft)<br/>\nAC: 22 (naked), +3 (tower shield), +7 (heavy armour) [+5 if opting for just breastplate]<br/>\nBAB: 29<br/>\nAB: (only done melee) (max, WoC, both spear and scimitar) 48/ 43/ 38/ 33<br/>\nSPs: 232. Max Discipline, Concentration (as far as Fighter allows), Tumble 40 (42), UMD 34 (33), Intimidate 4 (3). Plenty more to distribute between detect skills, Spellcraft (cc), trapping, locks, and stealth, according to taste.<br/>\n<br/>\n<strong>Levelling</strong><br/>\n<br/>\n1 R1: Expertise/ Dodge<br/>\n2 F1: WF: Spear<br/>\n3 F2: WF: Scimitar/ Blind Fight<br/>\n4 F3: STR+1 (18)<br/>\n5 F4: WS: Spear<br/>\n6 F5: Knockdown<br/>\n7 F6: WS: Scimitar<br/>\n8 R2: STR+1 (19)<br/>\n9 F7: Mobility<br/>\n10 F8: Imp Crit: Spear<br/>\n11 F9<br/>\n12 F10: STR+1 (20)/ Spring Attack/ Whirlwind Attack<br/>\n13 R3<br/>\n14 WM1: {WoC: Spear}<br/>\n15 WM2: Imp Crit: Scimitar<br/>\n16 WM3: STR+1 (21)<br/>\n17 WM4<br/>\n18 R4: Imp Knockdown<br/>\n19 WM5<br/>\n20 WM6: STR+1 (22)<br/>\n21 WM7: EWF: Spear<br/>\n22 WM8<br/>\n23 R5<br/>\n24 WM9: STR+1 (23)/ EWF: Scimitar<br/>\n25 WM10<br/>\n26 WM11<br/>\n27 WM12: Great Strength I (24)<br/>\n28 WM13: STR+1 (25)/ WoC: Scimitar<br/>\n29 F11<br/>\n30 F12: Great Strength II (26)/ EWS: Spear<br/>\n31 F13<br/>\n32 R6: STR+1 (27)<br/>\n33 F14: Great Strength III (28)/ EWS: Scimitar<br/>\n34 WM14<br/>\n35 WM15<br/>\n36 WM16: STR+1 (29)/ Great Strength IV (30)/ Armor Skin<br/>\n37 R7<br/>\n38 WM17<br/>\n39 WM18: Great Strength V (31)<br/>\n40 WM19: STR+1 (32)/ Epic Prowess<br/>\n<br/>\nAny thoughts?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:36 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why is Rogue in the build?\u00a0 What I mean by this is, what role is it really serving?\u00a0 Before it at least gained Crippling Strike (a nice combat bonus!) which really made sense in a Spartan (imo).<br/>\n<br/>\nIn this case...I am wondering, why Rogue?\u00a0 No reason to have UD as Dex is...not an issue.\u00a0 If for Tumble, perhaps a different Tumble class might fit the bill better.<br/>\n<br/>\nIf it is for UMD, well, that is not really RP at all if we are talking about a professional, focused Warrior.<br/>\n<br/>\nI kind of like the inclusion of Fighter here.\u00a0 It's an obvious choice that leads to WM (which is also an obvious choice).\u00a0 Scimi is just...I know, I know.\u00a0 It is frustrating.\u00a0 Just seems like it is the better weapon all ways around.\u00a0 I would still stay with the Shortsword (it is not as bad as it seems...well, it is because of AAs).\u00a0 I really like the idea of WoC in both types of weapons.<br/>\n<br/>\nI am thinking more Fighter, more WM.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:07 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is interesting!<br/>\n<blockquote><div>The Kopis \u2013 The Nasty Spartan Weapon<br/>\n<br/>\n As an alternative to the xiphos some Spartans selected the dreaded Kopis as their secondary weapon. This was a vicious hacking weapon in the form of a thick, curved iron sword. Warriors would use this weapon more as an axe then a sword, inflicting nasty wounds compared to the cleaner holes made by the spear and xiphos. This weapon was seen as the quintessential \"bad guys\" weapon in ancient Greece. Athenian art frequently depicted Spartan warriors with this weapon for that reason.</div></blockquote>\n\nSo perhaps a Scimi or a Kukri!\u00a0 After all, most Spartan weapons were very short (well, not the speer, of course) - typically shorter than most Greek shortswords (and when a greek asked a Spartan why his sword was so short, the Spartan replied \"it's long enough to reach your heart!\")\u00a0 The blade does have a lot in common with a Kukri as well, with that large curve in it.\u00a0 This would be the reason for having a slashing and a piercing weapon (short spear).<br/>\n<br/>\nMuch better.\u00a0 Also, Spartans did wear Armor (and although this is not the full plate armor of medieval knights) it was more than just a breastplate.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:29 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll confess, Rogue is really there for skill points (though a little sneak attack doesn't hurt) to try to accommodate a panoply of the buggers for you. I actually started off with a Fighter 16/ Rogue 2/ WM 22, which allowed for a final STR of 34 because I could take both general feats used for EWF as bonus feats, freeing the pair up for Great Strength feats. If I didn't take any Rogue levels until epic levels, that would also give me +3 AB (1 GS, 1 pre-epic BAB, and 1 WM bonus feat), making 51.<br/>\n<br/>\nBut it's a bit of a bastard to level-up through the ranks, and you've already complained about Tumble dumps.<br/>\n<br/>\nI also considered grabbing Epic Will as a general feat to help with the horrible Will save, which would mean lowering my final Strength back to 32 (starting with 16), but allowing for upping the starting INT to 14 and putting the WIS to 10 (meaning a Will save of 20, which is always a target for me), thus grabbing a further full skill while still having 50 AB.<br/>\n<br/>\nWould that suit you better? I can't honestly say SD, Bard, Monk, HS, or Ass seem to make more sense than Rogue here. Maybe SD for HiPS, but the stealth skills would be crappy, and I still don't see Spartans as sneakers.<br/>\n<br/>\nGlad you like the 2 WoCs. I thought scimitar was acceptable, as Spartan shortswords were curved and single-edged, as well as being shorter than longswords (no shit, Sherlock), so more slashing in nature anyway. But anyhoo...<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Ninja'd again! (It's that bloody Nightshade, isn't it?). The only problem with kukri is the necessity to take Exotic Weapon Proficiency, thus having to bin something else.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:44 PM - Oct 16, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Btw, I don't know if you can get this link, but it's an interesting and fun history audio podcast called \"You're Dead to Me.\" This one's all about the Spartans, so I hope you can hear it...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.bbc.co.uk/sounds/play/p07n8p9m\" rel=\"noreferrer\" target=\"_blank\">You're Dead To Me</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:12 AM - Oct 17, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, umm...yeah.\u00a0 Podcast.\u00a0 Kinda dry, really.\u00a0 But...Spartan.\u00a0 Yeah.<br/>\n<br/>\nBloody long windbags!<br/>\n<br/>\nAnyway, this looks interesting - Fighter 16/ Rogue 2/ WM 22.\u00a0 Anyway to fit Rogue 3 in there (probably going to have to go Ass 2).\u00a0 Not that I mind, really.\u00a0 Bump Int to 14, Dex down to 13.\u00a0 I might try this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

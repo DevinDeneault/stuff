@@ -1,0 +1,56 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "612",
+  "name": "The Infused Ranger (Ranger 35 / Bard 1 / RDD 4)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-infused-ranger-ranger-35-bard-1-rdd-4-t2355463.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": 6,
+  "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:05 AM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">The Infused Ranger</span></strong><br/>\n<br/>\nRe-did the build draft after suggestions.<br/>\nWith Bard at level 33 this build can be elf or dwarf, 20% exp penalties from level 33 - 40.<br/>\nOr human for a bonus feat (Luck of Heroes / Great Fortitude)<br/>\nDwarf or human are probably the strongest, but elf is awesome with the keen senses, detection bonuses, dual sword look and extra dex to help with wearing light armor.<br/>\nI put skill schedules for rangers getting 6 skill points / level (ie WoG), but if you plan to play it where rangers get the standard 4 / lvl, suggest going human subtract 33 (+43 - 76) skill points and drop Taunt, put spot to 43. Dev crit was done in previous drafts but I decided to drop it.\u00a0<br/>\n<br/>\nAB 46 (-2 when dual wielding) with scimitar.<br/>\nAB is 43 with other weapons. Add 2 AB against favored enemies.\u00a0<br/>\n<br/>\n<br/>\n<details><summary>Spoiler</summary>Ranger(35), Bard(1), Red Dragon Disciple(4), Dwarf\nPlayable 1-40, PvM, low to mid magic\nSTR: 14 (34)\nCON: 16\nINT: 14\n\n01: Ranger(1): Expertise, Favored Enemy: Humans, {Dual Wield}\n03: Ranger(3): Weapon Focus: Scimitar\n05: Ranger(5): Favored Enemy: Goblinoids\n07: Ranger(7)\n09: Ranger(9): Improved Critical: Scimitar, {Improved Two-Weapon Fighting}\n11: Ranger(11)\n13: Ranger(13)\n15: Ranger(15): Blind Fight, Favored Enemy: Giants\n17: Ranger(17)\n19: Ranger(19)\n21: Ranger(21): Armor Skin\n23: Ranger(23): Bane of Enemies\n25: Ranger(25): Epic Weapon Focus: Scimitar\n27: Ranger(27): Great Strength II, (STR=22)\n29: Ranger(29): Favored Enemy: Dragons\n31: Ranger(31)\n33: Bard(1): Great Strength IV, (STR=26)\n35: Red Dragon Disciple(2): (STR=28)\n37: Red Dragon Disciple(4): (STR=32)\n39: Ranger(34): Great Strength VI, (STR=33)\n\nSkillpoints: 326\nSaving Throw bonuses: Spells: +9, Poison: +2\nAB (max, naked): 46 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Disable Trap(1), Discipline(4), Hide(4), Lore(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(1), Spot(4), Save(3),\u00a0\n03: Discipline(1), Hide(1), Lore(1), Move Silently(1), Search(1), Spot(1), Save(7),\u00a0\n05: Discipline(1), Hide(1), Lore(1), Move Silently(1), Search(1), Spot(1), Save(11),\u00a0\n07: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(19),\u00a0\n09: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(27),\u00a0\n11: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(35),\u00a0\n13: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(43),\u00a0\n15: Discipline(1), Hide(1), Move Silently(1), Save(52),\u00a0\n17: Discipline(1), Hide(1), Move Silently(1), Save(62),\u00a0\n19: Discipline(1), Hide(1), Move Silently(1), Save(72),\u00a0\n21: Discipline(1), Hide(1), Move Silently(1), Save(82),\u00a0\n23: Discipline(1), Hide(1), Move Silently(1), Save(92),\u00a0\n25: Discipline(1), Hide(1), Move Silently(1), Save(102),\u00a0\n27: Discipline(1), Hide(1), Move Silently(1), Save(112),\u00a0\n29: Discipline(1), Hide(1), Move Silently(1), Save(122),\u00a0\n31: Discipline(1), Hide(1), Move Silently(1), Save(132),\u00a0\n33: Discipline(1), Hide(1), Move Silently(1), Perform(1), Spellcraft(33), Taunt(36), Tumble(35), UMD(35),\u00a0\n35: Discipline(1), Spot(3),\u00a0\n37: Discipline(1), Save(3),\u00a0\n39: Discipline(1), Hide(1), Move Silently(1), Spot(5),\u00a0</details>\n<details><summary>Spoiler</summary>Ranger(35), Bard(1), Red Dragon Disciple(4), Elf\nPlayable 1-40, PvM, low to mid magic\nSTR: 14 (34)\nCON: 12\nINT: 14\n\n01: Ranger(1): Expertise, Favored Enemy: Humans, {Dual Wield}\n03: Ranger(3): Weapon Focus: Scimitar\n05: Ranger(5): Favored Enemy: Goblinoids\n07: Ranger(7)\n09: Ranger(9): Improved Critical: Scimitar, {Improved Two-Weapon Fighting}\n11: Ranger(11)\n13: Ranger(13)\n15: Ranger(15): Blind Fight, Favored Enemy: Giants\n17: Ranger(17)\n19: Ranger(19)\n21: Ranger(21): Armor Skin\n23: Ranger(23): Bane of Enemies\n25: Ranger(25): Epic Weapon Focus: Scimitar\n27: Ranger(27): Great Strength II, (STR=22)\n29: Ranger(29): Favored Enemy: Dragons\n31: Ranger(31)\n33: Bard(1): Great Strength IV, (STR=26)\n35: Red Dragon Disciple(2): (STR=28)\n37: Red Dragon Disciple(4): (STR=32)\n39: Ranger(34): Great Strength VI, (STR=33)\n\nSkillpoints: 326\nSaving Throw bonuses: Spells: +7, Mind Effects: +2\nAB (max, naked): 46 (melee), 34 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Disable Trap(1), Discipline(4), Hide(4), Lore(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(1), Spot(4), Save(3),\u00a0\n03: Discipline(1), Hide(1), Lore(1), Move Silently(1), Search(1), Spot(1), Save(7),\u00a0\n05: Discipline(1), Hide(1), Lore(1), Move Silently(1), Search(1), Spot(1), Save(11),\u00a0\n07: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(19),\u00a0\n09: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(27),\u00a0\n11: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(35),\u00a0\n13: Discipline(1), Hide(1), Move Silently(1), Spot(1), Save(43),\u00a0\n15: Discipline(1), Hide(1), Move Silently(1), Save(52),\u00a0\n17: Discipline(1), Hide(1), Move Silently(1), Save(62),\u00a0\n19: Discipline(1), Hide(1), Move Silently(1), Save(72),\u00a0\n21: Discipline(1), Hide(1), Move Silently(1), Save(82),\u00a0\n23: Discipline(1), Hide(1), Move Silently(1), Save(92),\u00a0\n25: Discipline(1), Hide(1), Move Silently(1), Save(102),\u00a0\n27: Discipline(1), Hide(1), Move Silently(1), Save(112),\u00a0\n29: Discipline(1), Hide(1), Move Silently(1), Save(122),\u00a0\n31: Discipline(1), Hide(1), Move Silently(1), Save(132),\u00a0\n33: Discipline(1), Hide(1), Move Silently(1), Perform(1), Spellcraft(33), Taunt(36), Tumble(35), UMD(35),\u00a0\n35: Discipline(1), Spot(3),\u00a0\n37: Discipline(1), Save(3),\u00a0\n39: Discipline(1), Hide(1), Move Silently(1), Spot(5),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:25 AM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First of all, since I really like Rangers, I like this way of thinking, and it looks interesting.\u00a0 Certainly combining Ranger and RDD is interesting.\u00a0 There is even a bit of synergy with the Cha boost and Animal Empathy (if one goes all 10 levels of RDD) and some extra Int for more skill points (always useful for a Ranger build, that has so many skill areas that can be covered - I like to call Rangers skill point starved).<br/>\n<br/>\nPerhaps for the Dev Crit version, take RDD to 10 levels.\u00a0 That would probably help mightily with the reqs for Dev Crit.<br/>\n<br/>\nI understand the need for lots of Ranger levels for FEs, but I do strongly feel that one can get more out of having two Bard levels - one to get some UMD, Tumble and RDD earlier, and the last level around 37 or so to top off Tumble and and last dabs to UMD, etc.<br/>\n<br/>\nI know, it's like \"I just need some more levels here!\u00a0 We need more than 40 darnit!\"\u00a0 I really think that Bioware missed a clever synergy with Harper Scout not being able to combine the FEs with the Ranger stuff.\u00a0 Just thinking of the possibilities...*sigh*<br/>\n<br/>\nAnyway, I really like this idea.\u00a0 Ranger I think is really a \"lost class\" so often...so much potential and promise, crippled with design decisions.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:27 AM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why aren't you showing off your damage?<br/>\nMain hand unbuffed:<br/>\n1d8+12STR+10+2D6FEs for a decent totalt of: 25-42. That's unbuffed with a normal blade. Add 6 more from Strength and 5 from a magic weapon you're at 36-53. Off- hand is lower by 9, but that's sweeeet damage. I have played High level ranger Weapon Masters and it's fun. Defenses are crap, but offensively you carve through anything in no-time.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:36 AM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think the two-bladed sword idea with improved disarm costs too many feats.<br/>\nIt looks better with scimitar. Plus can use a shield. Wary of tiny/small weapons here because of disarm<br/>\nWill edit into the main post<br/>\n<br/>\n<strong>Edit:</strong>\u00a0Thanks for your comment Grimnir :) Damage looks great. Thanks as well web for your thoughts!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:21 PM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One quick thought on Disarm - if you use Cursed marked weapons, it is listed in the NWN Wiki as protecting against Disarm.<br/>\n<br/>\nI am currently testing this in WoG.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:47 PM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Like the concept, Orion!<br/>\n<br/>\nI think, like you, I prefer the non-Dev Crit version. Just one thought on the somewhat lacklustre AC: would it be worth dropping Epic Fort for Armour Skin (not necessarily at level 21, of course)?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:51 PM - May 10, 2020",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Stag I like the armor skin idea!<br/>\nI think I would make the change by dropping toughness for armor skin, swap epic fort for great fortitude (or luck of heroes)<br/>\n460hp and fort 25-26 +6 against spells might be ok<br/>\n<br/>\n<strong>Edit:</strong>\u00a0edited changes into the main post, also made the build a dwarf or elf by default in environments where rangers get 6 skill points / lvl<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}

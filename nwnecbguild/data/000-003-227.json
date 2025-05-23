@@ -1,0 +1,38 @@
+{
+  "category_name": "Character Building",
+  "category_id": "000",
+  "forum_name": "Build Request/Unfinalized Builds",
+  "forum_id": "003",
+  "id": "227",
+  "name": "Myopic Mazzy",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/myopic-mazzy-t2354425.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": 3,
+  "posts": [
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:08 PM - May 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Dear All,<br/>\n<br/>\n Some of you will remember I did a build for Mazzy Fentan (erstwhile Halfling of Baldur's Gate II) a few months ago (Fighter16/Rogue14/CoT10), in which I gave her all available pluses to shortbow as well as shortsword. I've recently started running her around in the game and confirmed that I'm really no fan of ranged weapons at all. So I wondered about tweaking her - ie, removing the 8 feats dedicated to shortbow (including Rapid Shot, Point-Blank Shot and Called Shot) and replacing them with, well, something else.<br/>\n<br/>\n My first thought was nice and simple - so probably very defective - what about a dual-wield with shortsword and dagger (would be kukri, but exotic, so eats up one more feat)? Then I realised that I didn't know whether dual-wielding acknowledges finesse, or whether I would need it to be strength based? The Wiki wasn't too helpful, so I thought I'd ask you good people.<br/>\n<br/>\n My other thought was to make her a kukri dual-wielder (though the same question still applies), which would free up considerably more feats for things like Knockdown / Imp Knockdown (which I know Valerfor loves ; )), and Luck of Heroes for even more luck!<br/>\n<br/>\n I'm not looking to do a complete re-write, but would be grateful for your knowledge on the applicabilty of dual-wielding in a finesse build. Ta!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:06 PM - May 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Weapon finesse works with all small and tiny melee weapons, including unarmed. It also works with the rapier, a medium sized weapon. For small creatures the rapier becomes a two hander and cannot be finessed.<br/>\n Two weapon fighting has a huge AB penalty. You can reduce that to -2 on both hands if you have the TWF and ambi feats, and the off hand weapon in \"light\". Light in this context means one size category smaller than the race of the wielder. For medium sized creatures (humans, elves, dwarves etc), small weapons are considered light. For small creatures (halflings, gnomes), tiny weapons are considered light.<br/>\n<br/>\n So your halfling will be able to finesse all small and tiny melee weapons, but will need a tiny weapon offhand to get the best TWF AB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:24 PM - May 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@ Mick Dagger - Cheers, Mick - it's as I thought, but I needed confirmation. I suspect I'll go shortsword and dagger, but I'll be sword and board 'til level 18 or 20 - when Dex hits 22 (for the AC bonus in lighter armour) and I'll have Imp 2 weapon fighting as well as WS in both sword and dagger.<br/>\n<br/>\n Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:38 PM - May 05, 2015",
+      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you went for only kukri, you wouldn't need to have Weapon Focus / Spec / Improved Critical for a second weapon, so even after taking Weapon Proficiency: Exotic, you still come out ahead in number of feats spent. It is perfectly acceptable to use a kukri and a shield, and when you start dual-wielding, you should continue carrying around a shield anyway, in case you find yourself needing more AC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+    }
+  ]
+}
