@@ -156,7 +156,7 @@ async function load(data_name, event) {
 function openLinkInNewTab(page) {
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
-  window.open('url', '_blank');
+  window.open(url, '_blank');
 }
 
 function setUrlParam(page) {
