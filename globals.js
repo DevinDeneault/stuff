@@ -1,9 +1,9 @@
 
 function gebi(name) { return document.getElementById(name); };
 
-document.addEventListener('keydown', event => {
-  if (event.ctrlKey && event.key === 'h') {
-    event.preventDefault();
-    window.location.href = '/stuff';
-  }
+window.addEventListener('load', function() {
+  const homeButton = document.createElement('div');
+  homeButton.style = "position:fixed; right:0; bottom:0; height:2rem; width:2rem; background-color:rgba(255,255,255,0.3); z-index:1000; cursor:pointer;";
+  homeButton.onclick = () => { window.location.href = '/stuff'; };
+  this.document.appendChild(homeButton);
 });
