@@ -24,8 +24,8 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     breadcrumb['forumArrow'].classList.remove('hidden');
     breadcrumb['thread'].classList = 'crumb';
 
-    breadcrumb['home'].onclick = () => load();
-    breadcrumb['forum'].onclick = () => load(forumLink);
+    breadcrumb['home'].onclick = (e) => load(null, e);
+    breadcrumb['forum'].onclick = (e) => load(forumLink, e);
     breadcrumb['forum'].innerText = forumName;
     breadcrumb['thread'].innerText = threadName;
   }
@@ -36,7 +36,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     breadcrumb['forumArrow'].classList.add('hidden');
     breadcrumb['thread'].classList = 'crumb hidden';
 
-    breadcrumb['home'].onclick = () => load();
+    breadcrumb['home'].onclick = (e) => load(null, e);
     breadcrumb['forum'].onclick = undefined;
     breadcrumb['forum'].innerText = forumName;
   }
@@ -67,7 +67,7 @@ function loadHomePage() {
 
       category['forums'].forEach(forum => {
         const clone = templateCategory.content.cloneNode(true);
-        clone.querySelector('.category').onclick = () => load(`${category['id']}-${forum['id']}`);
+        clone.querySelector('.category').onclick = (e) => load(`${category['id']}-${forum['id']}`, e);
         clone.querySelector('.title').textContent = forum['name'];
         clone.querySelector('.description').textContent = forum['description'];
         content.appendChild(clone);
@@ -95,7 +95,7 @@ function loadForum(data) {
       clone.querySelector('.title').textContent = thread['name'];
       clone.querySelector('.user').textContent = thread['author'];
       clone.querySelector('.replies').textContent = thread['replies'];
-      clone.querySelector('.forum-thread').onclick = () => load(`${thread['category_id']}-${thread['forum_id']}-${thread['id']}`);
+      clone.querySelector('.forum-thread').onclick = (e) => load(`${thread['category_id']}-${thread['forum_id']}-${thread['id']}`, e);
       content.appendChild(clone);
     });
 
@@ -126,7 +126,12 @@ function loadThread(data) {
   });
 }
 
-async function load(data_name) {
+async function load(data_name, event) {
+  if (event.ctrlKey) {
+    openLinkInNewTab(data_name)
+    return;
+  }
+
   if (!data_name) {
     loadHomePage();
     return;
@@ -147,6 +152,12 @@ async function load(data_name) {
 }
 
 // ============================================================================
+
+function openLinkInNewTab(page) {
+  const url = new URL(window.location.href);
+  url.searchParams.set('page', page);
+  window.open('url', '_blank');
+}
 
 function setUrlParam(page) {
   const url = new URL(window.location.href);
