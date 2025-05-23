@@ -58,6 +58,7 @@ function loadHomePage() {
 
     setPageTitle(null);
     content.innerHTML = '';
+    window.scrollTo(0,0);
     setBreadcrumb(null, null, null);
 
     homePageData.forEach(category => {
@@ -74,7 +75,6 @@ function loadHomePage() {
       });
     });
 
-    window.scrollTo(0,0);
   });
 }
 
@@ -83,6 +83,7 @@ function loadForum(data) {
 
     setPageTitle(data['name']);
     content.innerHTML = '';
+    window.scrollTo(0,0);
     setBreadcrumb(null, data['name'], null);
 
     const clone = templateForumHeader.content.cloneNode(true);
@@ -100,7 +101,6 @@ function loadForum(data) {
       content.appendChild(clone);
     });
 
-    window.scrollTo(0,0);
   });
 }
 
@@ -109,6 +109,7 @@ function loadThread(data) {
 
     setPageTitle(data['name']);
     content.innerHTML = '';
+    window.scrollTo(0,0);
     setBreadcrumb(`${data['category_id']}-${data['forum_id']}`, data['forum_name'], data['name']);
 
     const clone = templateThreadHeader.content.cloneNode(true);
@@ -124,7 +125,6 @@ function loadThread(data) {
       content.appendChild(clone);
     });
 
-    window.scrollTo(0,0);
   });
 }
 
