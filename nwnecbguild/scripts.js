@@ -174,8 +174,18 @@ function setPageTitle(title) {
 function setUrlParam(page) {
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
-  window.history.replaceState({}, '', url);
+  // window.history.replaceState({}, '', url);
+  window.history.pushState({ page }, '', url);
 }
+
+window.addEventListener('popstate', (event) => {
+  const page = new URL(window.location.href).searchParams.get('page');
+  if (page) {
+    loadPage(page);
+  } else {
+    loadHomePage();
+  }
+});
 
 function removeUrlParam() {
   const url = window.location.protocol + "//" + window.location.host + window.location.pathname;
