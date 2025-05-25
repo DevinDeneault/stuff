@@ -16,13 +16,13 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.innerText = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = (e) => load('home', e);
+    homeCrumbLink.onclick = () => setUrlParam('home');
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.innerText = '>';
     const forumCrumbLink = document.createElement('a');
     forumCrumbLink.innerText = forumName;
     forumCrumbLink.href = '#';
-    forumCrumbLink.onclick = (e) => load(forumLink, e);
+    forumCrumbLink.onclick = () => setUrlParam(forumLink);
     const crumbArrow2 = document.createElement('div');
     crumbArrow2.innerText = '>';
     const threadCrumb = document.createElement('div');
@@ -38,7 +38,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.innerText = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = (e) => load('home', e);
+    homeCrumbLink.onclick = () => setUrlParam('home');
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.innerText = '>';
     const forumCrumb = document.createElement('div');
@@ -133,23 +133,21 @@ function loadThread(data) {
   });
 }
 
-async function load(data_name, event) {
-  setUrlParam(data_name);
-
-  if (!data_name || data_name === 'home') {
+async function load(page) {
+  if (!page || page === 'home') {
     loadHomePage();
     return false;
   }
 
   try {
-    const res = await fetch(`data/${data_name}.json`);
+    const res = await fetch(`data/${page}.json`);
     if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
     const json = await res.json();
 
-    if (data_name.length === 7) loadForum(json);
-    if (data_name.length === 11) loadThread(json);
+    if (page.length === 7) loadForum(json);
+    if (page.length === 11) loadThread(json);
   } catch (err) {
-    console.error(`Failed to load or parse ${data_name}:`, err);
+    console.error(`Failed to load or parse ${page}:`, err);
     // error page?
   }
 
@@ -178,11 +176,12 @@ function setUrlParam(page) {
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
   window.history.pushState({ page }, '', url);
+  load(page);
 }
 
 window.addEventListener('popstate', (event) => {
   const page = new URL(window.location.href).searchParams.get('page');
-  load(page, null);
+  load(page);
 });
 
 function getUrlParam() {
