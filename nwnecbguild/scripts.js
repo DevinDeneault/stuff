@@ -139,8 +139,9 @@ async function load(data_name, event) {
     return false;
   }
 
+  setUrlParam(data_name);
+
   if (!data_name) {
-    removeUrlParam();
     loadHomePage();
     return false;
   }
@@ -150,7 +151,6 @@ async function load(data_name, event) {
     if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
     const json = await res.json();
 
-    setUrlParam(data_name);
     if (data_name.length === 7) loadForum(json);
     if (data_name.length === 11) loadThread(json);
   } catch (err) {
@@ -189,12 +189,6 @@ window.addEventListener('popstate', (event) => {
   const page = new URL(window.location.href).searchParams.get('page');
   load(page, null);
 });
-
-function removeUrlParam() {
-  const url = window.location.protocol + "//" + window.location.host + window.location.pathname;
-  // window.history.replaceState({}, document.title, url);
-  window.history.pushState({}, '', url);
-}
 
 function getUrlParam() {
   return new URLSearchParams(window.location.search).get('page');
