@@ -14,19 +14,19 @@ function setBreadcrumb(forumLink, forumName, threadName) {
 
   if (threadName) {
     const homeCrumbLink = document.createElement('a');
-    homeCrumbLink.innerText = 'nwnecbguild.44';
+    homeCrumbLink.textContent = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
     homeCrumbLink.onclick = () => setUrlParam('home');
     const crumbArrow1 = document.createElement('div');
-    crumbArrow1.innerText = '>';
+    crumbArrow1.textContent = '>';
     const forumCrumbLink = document.createElement('a');
-    forumCrumbLink.innerText = forumName;
+    forumCrumbLink.textContent = forumName;
     forumCrumbLink.href = '#';
     forumCrumbLink.onclick = () => setUrlParam(forumLink);
     const crumbArrow2 = document.createElement('div');
-    crumbArrow2.innerText = '>';
+    crumbArrow2.textContent = '>';
     const threadCrumb = document.createElement('div');
-    threadCrumb.innerText = threadName;
+    threadCrumb.textContent = threadName;
 
     breadcrumb.appendChild(homeCrumbLink);
     breadcrumb.appendChild(crumbArrow1);
@@ -36,13 +36,13 @@ function setBreadcrumb(forumLink, forumName, threadName) {
   }
   else if (forumName) {
     const homeCrumbLink = document.createElement('a');
-    homeCrumbLink.innerText = 'nwnecbguild.44';
+    homeCrumbLink.textContent = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
     homeCrumbLink.onclick = () => setUrlParam('home');
     const crumbArrow1 = document.createElement('div');
-    crumbArrow1.innerText = '>';
+    crumbArrow1.textContent = '>';
     const forumCrumb = document.createElement('div');
-    forumCrumb.innerText = forumName;
+    forumCrumb.textContent = forumName;
 
     breadcrumb.appendChild(homeCrumbLink);
     breadcrumb.appendChild(crumbArrow1);
@@ -50,7 +50,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
   }
   else {
     const homeCrumb = document.createElement('div');
-    homeCrumb.innerText = 'nwnecbguild.44';
+    homeCrumb.textContent = 'nwnecbguild.44';
 
     breadcrumb.appendChild(homeCrumb);
   }
@@ -73,8 +73,9 @@ function loadHomePage() {
 
       category['forums'].forEach(forum => {
         const clone = templateCategory.content.cloneNode(true);
-        clone.querySelector('.category').onclick = (e) => load(`${category['id']}-${forum['id']}`, e);
-        clone.querySelector('.title').textContent = forum['name'];
+        const cloneTitle = clone.querySelector('.title');
+        cloneTitle.onclick = () => setUrlParam(`${category['id']}-${forum['id']}`);
+        cloneTitle.textContent = forum['name'];
         clone.querySelector('.description').textContent = forum['description'];
         content.appendChild(clone);
       });
@@ -98,11 +99,12 @@ function loadForum(data) {
 
     data['threads'].forEach(thread => {
       const clone = templateForumThread.content.cloneNode(true);
+      const cloneTitle = clone.querySelector('.title');
+      cloneTitle.textContent = thread['name'];
+      cloneTitle.onclick = () => setUrlParam(`${thread['category_id']}-${thread['forum_id']}-${thread['id']}`);
       clone.querySelector('.avatar').style = `background-image:url('avatar/${thread['avatar']}');`;
-      clone.querySelector('.title').textContent = thread['name'];
       clone.querySelector('.user').textContent = thread['author'];
       clone.querySelector('.replies').textContent = thread['replies'];
-      clone.querySelector('.forum-thread').onclick = (e) => load(`${thread['category_id']}-${thread['forum_id']}-${thread['id']}`, e);
       content.appendChild(clone);
     });
 
