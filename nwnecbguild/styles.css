@@ -236,6 +236,7 @@ a {
     .post-content {
       line-height: 1.5rem;
       flex-grow: 1;
+      overflow-wrap: break-word;
 
       .post-image {
         display: inline-block;
