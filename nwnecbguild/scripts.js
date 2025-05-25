@@ -21,7 +21,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     crumbArrow1.textContent = '>';
     const forumCrumbLink = document.createElement('a');
     forumCrumbLink.textContent = forumName;
-    forumCrumbLink.href = `?page=home${forumLink}`;
+    forumCrumbLink.href = `?page=${forumLink}`;
     forumCrumbLink.onclick = (e) => linkClick(e, forumLink);
     const crumbArrow2 = document.createElement('div');
     crumbArrow2.textContent = '>';
@@ -75,6 +75,7 @@ function loadHomePage() {
         const clone = templateCategory.content.cloneNode(true);
         const cloneTitle = clone.querySelector('.title');
         cloneTitle.onclick = (e) => linkClick(e, `${category['id']}-${forum['id']}`);
+        cloneTitle.href = `?page=${category['id']}-${forum['id']}`;
         cloneTitle.textContent = forum['name'];
         clone.querySelector('.description').textContent = forum['description'];
         content.appendChild(clone);
@@ -100,8 +101,9 @@ function loadForum(data) {
     data['threads'].forEach(thread => {
       const clone = templateForumThread.content.cloneNode(true);
       const cloneTitle = clone.querySelector('.title');
-      cloneTitle.textContent = thread['name'];
       cloneTitle.onclick = (e) => linkClick(e, `${thread['category_id']}-${thread['forum_id']}-${thread['id']}`);
+      cloneTitle.href = `?page=${thread['category_id']}-${thread['forum_id']}-${thread['id']}`;
+      cloneTitle.textContent = thread['name'];
       clone.querySelector('.avatar').style = `background-image:url('avatar/${thread['avatar']}');`;
       clone.querySelector('.user').textContent = thread['author'];
       clone.querySelector('.replies').textContent = thread['replies'];
