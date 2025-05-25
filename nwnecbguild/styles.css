@@ -33,6 +33,11 @@ body {
 
 a {
   all: unset;
+
+  &:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
 }
 
 #content {
@@ -291,23 +296,11 @@ a {
     justify-content: center;
     column-gap: 0.5rem;
     user-select: none;
-    color: var(--color-neutral-50);
+    color: var(--color-neutral-400);
     margin-top: 1rem;
 
-    .hidden {
-      display: none;
-    }
-
-    .crumb {
-      color: var(--color-neutral-400);
-    }
-
-    .crumb-link {
-      cursor: pointer;
-    }
-
-    .crumb-link:hover {
-      text-decoration: underline;
+    .a {
+      color: var(--color-neutral-50);
     }
   }
 }

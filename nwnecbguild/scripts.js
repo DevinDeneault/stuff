@@ -1,12 +1,5 @@
 
-const breadcrumb = {
-  'home': document.querySelector('#breadcrumb > #home'),
-  'homeArrow': document.querySelector('#breadcrumb > #home-arrow'),
-  'forum': document.querySelector('#breadcrumb > #forum'),
-  'forumArrow': document.querySelector('#breadcrumb > #forum-arrow'),
-  'thread': document.querySelector('#breadcrumb > #thread'),
-};
-
+const breadcrumb = document.getElementById('breadcrumb');
 const content = document.getElementById('content');
 
 const templateCategoryHeader = document.getElementById('t-category-header');
@@ -17,37 +10,49 @@ const templateThreadHeader = document.getElementById('t-thread-header');
 const templatePost = document.getElementById('t-post');
 
 function setBreadcrumb(forumLink, forumName, threadName) {
-  if (threadName) {
-    breadcrumb['home'].classList = 'crumb-link';
-    breadcrumb['homeArrow'].classList.remove('hidden');
-    breadcrumb['forum'].classList = 'crumb-link';
-    breadcrumb['forumArrow'].classList.remove('hidden');
-    breadcrumb['thread'].classList = 'crumb';
+  breadcrumb.innerHTML = '';
 
-    breadcrumb['home'].onclick = (e) => load(null, e);
-    breadcrumb['forum'].onclick = (e) => load(forumLink, e);
-    breadcrumb['forum'].innerText = forumName;
-    breadcrumb['thread'].innerText = threadName;
+  if (threadName) {
+    const homeCrumbLink = document.createElement('a');
+    homeCrumbLink.innerText = 'nwnecbguild.44';
+    homeCrumbLink.href = '#';
+    homeCrumbLink.onclick = (e) => load(null, e);
+    const crumbArrow1 = document.createElement('div');
+    crumbArrow1.innerText = '>';
+    const forumCrumbLink = document.createElement('a');
+    forumCrumbLink.innerText = forumName;
+    forumCrumbLink.href = '#';
+    forumCrumbLink.onclick = (e) => load(forumLink, e);
+    const crumbArrow2 = document.createElement('div');
+    crumbArrow2.innerText = '>';
+    const threadCrumb = document.createElement('div');
+    threadCrumb.innerText = threadName;
+
+    breadcrumb.appendChild(homeCrumbLink);
+    breadcrumb.appendChild(crumbArrow1);
+    breadcrumb.appendChild(forumCrumbLink);
+    breadcrumb.appendChild(crumbArrow2);
+    breadcrumb.appendChild(threadCrumb);
   }
   else if (forumName) {
-    breadcrumb['home'].classList = 'crumb-link';
-    breadcrumb['homeArrow'].classList.remove('hidden');
-    breadcrumb['forum'].classList = 'crumb';
-    breadcrumb['forumArrow'].classList.add('hidden');
-    breadcrumb['thread'].classList = 'crumb hidden';
+    const homeCrumbLink = document.createElement('a');
+    homeCrumbLink.innerText = 'nwnecbguild.44';
+    homeCrumbLink.href = '#';
+    homeCrumbLink.onclick = (e) => load(null, e);
+    const crumbArrow1 = document.createElement('div');
+    crumbArrow1.innerText = '>';
+    const forumCrumb = document.createElement('div');
+    forumCrumb.innerText = forumName;
 
-    breadcrumb['home'].onclick = (e) => load(null, e);
-    breadcrumb['forum'].onclick = undefined;
-    breadcrumb['forum'].innerText = forumName;
+    breadcrumb.appendChild(homeCrumbLink);
+    breadcrumb.appendChild(crumbArrow1);
+    breadcrumb.appendChild(forumCrumb);
   }
   else {
-    breadcrumb['home'].classList = 'crumb';
-    breadcrumb['homeArrow'].classList.add('hidden');
-    breadcrumb['forum'].classList = 'crumb hidden';
-    breadcrumb['forumArrow'].classList.add('hidden');
-    breadcrumb['thread'].classList = 'crumb hidden';
+    const homeCrumb = document.createElement('div');
+    homeCrumb.innerText = 'nwnecbguild.44';
 
-    breadcrumb['home'].onclick = undefined;
+    breadcrumb.appendChild(homeCrumb);
   }
 }
 
