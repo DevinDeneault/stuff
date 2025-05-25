@@ -1,7 +1,6 @@
 
 :root {
-  --content-width: 50%;
-  --content-min-width: 70rem;
+  --content-width: 70rem;
   --content-max-width: 98%;
 
   --color-neutral-50: oklch(98.5% 0 0);
@@ -55,7 +54,6 @@ a {
 
 .category {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   display: flex;
   flex-direction: column;
   padding: 1.2rem 0.8rem 1.2rem 0.8rem;
@@ -77,7 +75,6 @@ a {
 
 .category-header {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   max-width: var(--content-max-width);
   margin: 0.25rem 0 0.25rem 0;
   font-weight: 500;
@@ -88,7 +85,6 @@ a {
 
 .forum-header {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   max-width: var(--content-max-width);
   display: flex;
   flex-direction: column;
@@ -102,7 +98,6 @@ a {
 
 .forum-thread {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   max-width: var(--content-max-width);
   display: flex;
   column-gap: 1rem;
@@ -160,7 +155,6 @@ a {
 
 .thread-header {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   max-width: var(--content-max-width);
   margin-bottom: 0.5rem;
   font-size: 1.7rem;
@@ -168,7 +162,6 @@ a {
 
 .post {
   width: var(--content-width);
-  min-width: var(--content-min-width);
   max-width: var(--content-max-width);
   display: flex;
 
