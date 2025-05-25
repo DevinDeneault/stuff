@@ -179,6 +179,7 @@ function setPageTitle(title) {
 }
 
 function setUrlParam(page) {
+  if (!page) page = '';
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
   // window.history.replaceState({}, '', url);
