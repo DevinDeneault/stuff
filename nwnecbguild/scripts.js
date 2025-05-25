@@ -15,14 +15,14 @@ function setBreadcrumb(forumLink, forumName, threadName) {
   if (threadName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.textContent = 'nwnecbguild.44';
-    homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = () => setUrlParam('home');
+    homeCrumbLink.href = '?page=home';
+    homeCrumbLink.onclick = (e) => linkClick(e, 'home');
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.textContent = '>';
     const forumCrumbLink = document.createElement('a');
     forumCrumbLink.textContent = forumName;
-    forumCrumbLink.href = '#';
-    forumCrumbLink.onclick = () => setUrlParam(forumLink);
+    forumCrumbLink.href = `?page=home${forumLink}`;
+    forumCrumbLink.onclick = (e) => linkClick(e, forumLink);
     const crumbArrow2 = document.createElement('div');
     crumbArrow2.textContent = '>';
     const threadCrumb = document.createElement('div');
@@ -37,8 +37,8 @@ function setBreadcrumb(forumLink, forumName, threadName) {
   else if (forumName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.textContent = 'nwnecbguild.44';
-    homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = () => setUrlParam('home');
+    homeCrumbLink.href = '?page=home';
+    homeCrumbLink.onclick = (e) => linkClick(e, 'home');
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.textContent = '>';
     const forumCrumb = document.createElement('div');
@@ -74,7 +74,7 @@ function loadHomePage() {
       category['forums'].forEach(forum => {
         const clone = templateCategory.content.cloneNode(true);
         const cloneTitle = clone.querySelector('.title');
-        cloneTitle.onclick = () => setUrlParam(`${category['id']}-${forum['id']}`);
+        cloneTitle.onclick = (e) => linkClick(e, `${category['id']}-${forum['id']}`);
         cloneTitle.textContent = forum['name'];
         clone.querySelector('.description').textContent = forum['description'];
         content.appendChild(clone);
@@ -101,7 +101,7 @@ function loadForum(data) {
       const clone = templateForumThread.content.cloneNode(true);
       const cloneTitle = clone.querySelector('.title');
       cloneTitle.textContent = thread['name'];
-      cloneTitle.onclick = () => setUrlParam(`${thread['category_id']}-${thread['forum_id']}-${thread['id']}`);
+      cloneTitle.onclick = (e) => linkClick(e, `${thread['category_id']}-${thread['forum_id']}-${thread['id']}`);
       clone.querySelector('.avatar').style = `background-image:url('avatar/${thread['avatar']}');`;
       clone.querySelector('.user').textContent = thread['author'];
       clone.querySelector('.replies').textContent = thread['replies'];
@@ -171,6 +171,17 @@ function setPageTitle(title) {
   else {
     document.title = 'nwnecbguild.44 archive';
   }
+}
+
+function linkClick(event, page) {
+  if (
+    event.ctrlKey || event.metaKey || event.shiftKey || event.altKey || // modifier keys
+    event.button !== 0 || // not a left-click
+    event.defaultPrevented // already handled
+  ) return;
+
+  event.preventDefault();
+  setUrlParam(page);
 }
 
 function setUrlParam(page) {
