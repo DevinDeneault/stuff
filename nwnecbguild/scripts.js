@@ -177,6 +177,7 @@ function setUrlParam(page) {
   url.searchParams.set('page', page);
   window.history.pushState({ page }, '', url);
   load(page);
+  return false;
 }
 
 window.addEventListener('popstate', (event) => {
