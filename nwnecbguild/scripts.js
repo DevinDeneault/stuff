@@ -136,13 +136,13 @@ function loadThread(data) {
 async function load(data_name, event) {
   if (event && event.ctrlKey) {
     openLinkInNewTab(data_name)
-    return;
+    return false;
   }
 
   if (!data_name) {
     removeUrlParam();
     loadHomePage();
-    return;
+    return false;
   }
 
   try {
@@ -157,6 +157,8 @@ async function load(data_name, event) {
     console.error(`Failed to load or parse ${data_name}:`, err);
     // error page?
   }
+
+  return false;
 }
 
 // ============================================================================
