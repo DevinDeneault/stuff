@@ -134,11 +134,6 @@ function loadThread(data) {
 }
 
 async function load(data_name, event) {
-  if (event && event.ctrlKey) {
-    openLinkInNewTab(data_name)
-    return false;
-  }
-
   setUrlParam(data_name);
 
   if (!data_name || data_name === 'home') {
@@ -182,7 +177,6 @@ function setUrlParam(page) {
   if (!page) page = 'home';
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
-  // window.history.replaceState({}, '', url);
   window.history.pushState({ page }, '', url);
 }
 
@@ -272,4 +266,4 @@ const homePageData = [
   }
 ]
 
-load(getUrlParam(), null);
+load(new URL(window.location.href).searchParams.get('page'), null);
