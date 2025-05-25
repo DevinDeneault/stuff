@@ -163,14 +163,13 @@ a {
 .post {
   width: var(--content-width);
   max-width: var(--content-max-width);
-  position: relative;
+  display: flex;
 
   .user-pane {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 11rem;
+    position: relative;
+    flex-basis: 11rem;
+    flex-shrink: 0;
+    flex-grow: 0;
     padding-top: 1rem;
     display: flex;
 
@@ -210,11 +209,8 @@ a {
   }
 
   .content-pane {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 11rem;
+    flex-grow: 1;
+    min-width: 0;
     display: flex;
     flex-direction: column;
     row-gap: 0.5rem;
