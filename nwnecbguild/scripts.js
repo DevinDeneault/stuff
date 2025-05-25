@@ -16,7 +16,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.innerText = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = (e) => load(null, e);
+    homeCrumbLink.onclick = (e) => load('home', e);
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.innerText = '>';
     const forumCrumbLink = document.createElement('a');
@@ -38,7 +38,7 @@ function setBreadcrumb(forumLink, forumName, threadName) {
     const homeCrumbLink = document.createElement('a');
     homeCrumbLink.innerText = 'nwnecbguild.44';
     homeCrumbLink.href = '#';
-    homeCrumbLink.onclick = (e) => load(null, e);
+    homeCrumbLink.onclick = (e) => load('home', e);
     const crumbArrow1 = document.createElement('div');
     crumbArrow1.innerText = '>';
     const forumCrumb = document.createElement('div');
@@ -141,7 +141,7 @@ async function load(data_name, event) {
 
   setUrlParam(data_name);
 
-  if (!data_name) {
+  if (!data_name || data_name === 'home') {
     loadHomePage();
     return false;
   }
@@ -179,7 +179,7 @@ function setPageTitle(title) {
 }
 
 function setUrlParam(page) {
-  if (!page) page = '';
+  if (!page) page = 'home';
   const url = new URL(window.location.href);
   url.searchParams.set('page', page);
   // window.history.replaceState({}, '', url);
