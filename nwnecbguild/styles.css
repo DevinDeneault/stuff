@@ -131,6 +131,10 @@ a {
 
   .user-line {
     color: var(--color-neutral-400);
+
+    .user {
+      color: var(--color-neutral-50);
+    }
   }
 
   .info-line {
