@@ -143,14 +143,14 @@ a {
       height: 1rem;
     }
 
+    .icon:not(:first-child) {
+      margin-left: 0.4rem;
+    }
+
     .replies, .views {
       font-size: 0.75rem;
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
-    }
-
-    .views {
-      margin-left: 0.4rem;
     }
   }
 }
