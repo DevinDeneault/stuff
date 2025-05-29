@@ -141,20 +141,17 @@ a {
     display: flex;
     column-gap: 0.2rem;
     align-self: self-start;
-
-    .icon {
-      width: 1rem;
-      height: 1rem;
-    }
-
-    .icon:not(:first-child) {
-      margin-left: 0.4rem;
-    }
+    color: var(--color-neutral-400);
 
     .replies, .views {
       font-size: 0.75rem;
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
+      color: var(--color-neutral-50);
+    }
+
+    .views {
+      margin-left: 0.4rem;
     }
   }
 }
