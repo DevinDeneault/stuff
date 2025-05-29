@@ -137,13 +137,13 @@ a {
     }
   }
 
-  .info-line {
+  .interactions-line {
     display: flex;
     column-gap: 0.2rem;
     align-self: self-start;
     color: var(--color-neutral-400);
 
-    .info {
+    .bubble {
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
     }
