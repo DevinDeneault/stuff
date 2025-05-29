@@ -4,83 +4,149 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "836",
-  "name": "2-weapon weapon master, help needed",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/2-weapon-weapon-master-help-needed-t2355131.html",
-  "author": "Cornflower",
-  "avatar": "10759006_1545641562.jpg",
-  "replies": 11,
+  "name": "A bodyguard paladin COT",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-bodyguard-paladin-cot-t2355133.html",
+  "author": "Kaymon24",
+  "avatar": "10759125_1565567642.jpg",
+  "replies": "20",
+  "views": "323",
   "posts": [
     {
+      "author": "Kaymon24",
+      "avatar": "10759125_1565567642.jpg",
+      "timestamp": "1:56 AM - Aug 12, 2019",
+      "content": "<div>I tried building a paladin COT smiter for arelith, but it\u2019s impractical and would be difficult to hone down. Every other paladin build I\u2019ve made requires too many battle wards before it\u2019s useful. A good bodyguard build meant to have good ac, and good damage would be nice. But nobody can have their cake and eat it too, open to any suggestions for paladin or COT please help!</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:26 PM - Aug 12, 2019",
+      "content": "<div>Hello and welcome Kaymon!<br/>\n<br/>\nAfraid I'm going to be no use helping with a smiter - let alone an Arelith one, but thought a greeting might be nice.<br/>\n<br/>\nOh, and I hope you don't mind, but I'm moving this into the Build Request forum - you'll get more attention there.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
       "author": "Cornflower",
       "avatar": "10759006_1545641562.jpg",
-      "timestamp": "10:51 AM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings mortals!<br/>\n<br/>\nI'm trying to set up a new build that is not necessarily the optimized build, but fits my playing style and preferences, also considering I play on Blackstone, where you can get +12 CON, +12 STR, +10 Damage resistance against averything and weapons with +20AB/+10EB and a shitload of damages. What I would wish for is that you guys take a look and point out any obvious mistakes (that are not a matter of taste). Please?<br/>\n<br/>\nI've probably messed up the feats and one might discuss the weapon of choice, but Twin Katanas are so cool. (The best loot-weapon you can find on Blackstone is a Battleaxe with +2d10 Magical and +2d10 somethingelse, but it gets boring lugging around battleaxes on all your toons after a while....) I'm going to lug around a shield for low-level survivability and also for those extra +9AC that is useful on mid-high level. The high-level bosses is gonna hit me regardless, so that's where DPS comes in.<br/>\n<br/>\nWhen it comes to skills, I need Discipline, UMD (for the wands that my Cleric makes me) and Tumble, but I want Lore/Heal/Search/Spot for playability (makes certain quests easier), that's why I waste 16 on INT instead of going for +1AB.<br/>\n<details><summary>Spoiler</summary>Fighter(15), Rogue(3), Weapon Master(22), Human\nSTR: 16 (32)\nCON: 10\nINT: 16\n\n01: Fighter(1): Dodge, Mobility, Weapon Proficiency Exotic\n03: Fighter(3): Expertise\n05: Fighter(5)\n07: Weapon Master(1): Weapon of Choice: Katana\n09: Weapon Master(3): Improved Critical: Katana\n11: Weapon Master(5)\n13: Weapon Master(7)\n15: Fighter(7): Two-Weapon Fighting\n17: Fighter(9)\n19: Fighter(11)\n21: Weapon Master(8): Blind Fight\n23: Rogue(2): {Evasion}\n25: Weapon Master(11)\n27: Weapon Master(13): Great Strength II, Overwhelming Critical: Katana, (STR=24)\n29: Weapon Master(15)\n31: Weapon Master(17)\n33: Weapon Master(19): Great Strength IV, Epic Weapon Focus: Katana, (STR=28)\n35: Weapon Master(21)\n37: Fighter(13)\n39: Rogue(3): Great Strength VI, {Uncanny Dodge I}, (STR=31)\n\nSkillpoints: 276\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 49 (melee), 32 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Heal(4), Intimidate(2), Lore(4), Spellcraft(2), Save(4), \n03: Discipline(1), Heal(1), Intimidate(1), Lore(1), Spellcraft(1), Save(6), \n05: Discipline(1), Heal(1), Intimidate(1), Lore(1), Spellcraft(1), Save(8), \n07: Discipline(1), Spellcraft(1), Save(14), \n09: Discipline(1), Spellcraft(1), Save(22), \n11: Discipline(1), Spellcraft(1), Save(30), \n13: Discipline(1), Spellcraft(1), Save(38), \n15: Discipline(2), Heal(1), Lore(1), Spellcraft(1), \n17: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(4), \n19: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(8), \n21: Discipline(1), Spellcraft(1), Save(16), \n23: Search(5), Spellcraft(1), Spot(5), Tumble(10), UMD(10), Save(1), \n25: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(4), \n27: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(8), \n29: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(12), \n31: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(16), \n33: Discipline(1), Save(24), \n35: Discipline(1), Save(34), \n37: Discipline(1), Save(44), \n39: Search(12), Spot(16), Tumble(15), UMD(17), Save(1), \n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:49 PM - Aug 12, 2019",
+      "content": "<div>There are lots of Paladin builds in the level 40 forum, have you read through the entire thing?</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "6:49 PM - Aug 12, 2019",
+      "content": "<div>Not that I do.... I usually just ask, so I take that back.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:31 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Cornflower<br/>\nYour build looks strong.\u00a0<br/>\nCon 10 looks perhaps a bit weak, but since you can max it out with items, that helps a lot.<br/>\nI don't know if Fighter 15 gives you anything specific on Blackstone keep. Normally it doesn't. If you go Fighter 14/Rogue 4 instead of Fighter15/ Rogue 3 and takes Rogue on character level 1, you will gain 24 skill points, more than half way to be able to start out with Int 14 and still keep your skills. It will not affect BAB or AB since you already have a rogue level pre epic.<br/>\nDiscipline, Intimidate, Spellcraft and Tumble are as they should ( take 18 x-classed ranks in Spellcraft if you try Int 14)<br/>\nYou can save one! skill point on UMD and end it on 41 (40).\u00a0<br/>\nSo it boils down to how many ranks you want - or need - in Heal, Lore, Search and Spot.\u00a0<br/>\n<br/>\nAs for feats, the build is feat-starved even with 14 or 15 fighter levels, and you still have room for Armor skin in your build. You can solve that by dropping the exotic WP ( I know the dual Katanas look cool and everything, but even so...)<br/>\n<br/>\nPre epic I like to take Expertise before Mobility, and Weapon Specialization and Blind fight before Great Cleave. Much is dictated by the feats you need to qualify for Weapon master. But you don't necessarily need to take WM asap. That let you wait a bit with feats like Spring attack and WWA and adds some freedom when deciding when to take the different feats.\u00a0<br/>\nAs for Epic feats, your strength dictates when you can take Dev crit. I would add AS as a WM bonus feat. I would take EWF on the general feat at lvl 21( freed up from not going with WP Exotic), and I would give it some thought if I should take EWS before EP. It depends on what use +1 AB is compared with +4 damage in a WM build in a high magic PW.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:17 PM - Aug 12, 2019",
+      "content": "<div>Arelith is level 30, and there are many custom features and rules. One rule is that once you start with a new class, you have to take at least 3 consecutive levels of that class before you can switch to taking one of the other classes in the build. And your final build has to have at least 3 levels in any class you use, so no new class at level 29 or 30 and no single monk-cheese level at all.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:52 PM - Aug 12, 2019",
+      "content": "<div>Kaymon, have you seen the level-thirty builds? I feel there are at least two of them there that will fit nicely with what you want from your character.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-brawler-champion-fighter-16-monk-4-divine--t2355008.html#p13956\" rel=\"noreferrer\" target=\"_blank\">arelith-brawler-champion-fighter-16-mon ... tml#p13956</a><br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-sword-master-fighter-10-rogue-4-weapon-mas-t2354396.html#p785\" rel=\"noreferrer\" target=\"_blank\">arelith-sword-master-fighter-10-rogue-4 ... .html#p785</a></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:57 PM - Aug 12, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nKaymon, have you seen the level-thirty builds? I feel there are at least two of them there that will fit nicely with what you want from your character.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-brawler-champion-fighter-16-monk-4-divine--t2355008.html#p13956\" rel=\"noreferrer\" target=\"_blank\">arelith-brawler-champion-fighter-16-mon ... tml#p13956</a><br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-sword-master-fighter-10-rogue-4-weapon-mas-t2354396.html#p785\" rel=\"noreferrer\" target=\"_blank\">arelith-sword-master-fighter-10-rogue-4 ... .html#p785</a>\n</div></blockquote>\nI would have pointed Kaymon in the same direction (or even tried a variant of your own Knight of the Throne to accommodate Arelith conditions), but he says he's after a smiter, so...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:24 PM - Aug 12, 2019",
+      "content": "<div>A smiter? In just 30 levels &amp; with the restrictions on RDD that Arelith has? (Not to mention the other quirks of that server). <br/>\n<br/>\nWhere is my \"300\" quote? <em>This is madness!</em></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:55 PM - Aug 12, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nA smiter? In just 30 levels &amp; with the restrictions on RDD that Arelith has? (Not to mention the other quirks of that server). <br/>\n<br/>\nWhere is my \"300\" quote? <em>This is madness!</em>\n</div></blockquote>\nHave I missed something? Who mentioned RDD? I'd thought a CoT/ Pally (admittedly smiter) build would be right up your street - level 30 and Arelith just adding a little more challenge for you!<br/>\n<br/>\n<em>We are Spartans!</em></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:00 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>The high-level bosses is gonna hit me regardless, so that's where DPS comes in.\n</div></blockquote>\n\nCornflower<br/>\nDo you know how dexterity builds fare at BSK?<br/>\nI ask because they have better defence than strength builds, with a high dex based AC, access to Epic Dodge, and the Self concealment feats.<br/>\nIn a high magic setting you can load a lot of damage bonus on a simple dagger or any other finesse weapon, so the strength based damage becomes less important.<br/>\n<br/>\nAnother question is how important is AB? I ask because in high magic settings the different AC sources often pile up to a total AC that makes it almost impossible to hit anything unless you roll a 20.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:58 PM - Aug 12, 2019",
+      "content": "<div>Even with gifts, starting to take Great smiting is a stretch in 30 levels.<br/>\n<br/>\nBut perhaps Valerfor can pull it off?</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "5:14 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well... Some thoughts from playing on BSK for years.<br/>\n<br/>\nAC is not relevant in the high-end game unless you get somewhere around 75-85, since bosses are gonna hit you anyway. Basically, if you can win the war of attrition through high damage and some relevant Damage Resistance, AC is not something to focus on. AC is relevant up to the high-level bosses and some high-level critters. I recently got creamed in three hits despite AC 77 when I stuck my nose in the wrong place. (100 physical damage + various elemental damages per hit.)<br/>\n<br/>\nAB is somewhat relevant since some high-end critters have high AC, but it's not that important with one or two points.<br/>\n<br/>\nI have a dex-based AA that actually works rather well. In general dex-based builds work nicely, but even so, most people go for STR builds due to damage per second being more valuable than AC.<br/>\n<br/>\nThe latest fad right now is Fighter/Paladin/WM with three to five levels of Paladin just to get divine might and access to HA that will cut through boss resistances. Also various DD builds with high DR are fashionable.<br/>\n<br/>\nBasically, that's the bad things about BSK, you can't win against the high-end bosses unless you have a team with the perfect set-up of powerbuilds. It's very frustrating for me, since most other people are playing when I'm asleep, so I mostly solo, which gets me nowhere. So, what I'm trying to do is find builds that work well up to a certain point, but most importantly are FUN to play. Hence the somewhat unorthodox skill set in this case.<br/>\n<br/>\nAnyway, I think your comments and suggestions were very well thought out. I'll try to figure out what all the mysterious acronyms are and then apply it to my build. Thank you!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:38 PM - Aug 12, 2019",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nEven with gifts, starting to take Great smiting is a stretch in 30 levels.<br/>\n<br/>\nBut perhaps Valerfor can pull it off?\n</div></blockquote>\nWell it's about time he had a challenge, isn't it?<br/>\n<br/>\n<em>Shh</em> - don't tell him I said anything!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "5:17 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, I really want to go Exotic, because if I go with more mundane choices, I could just as well go with the Fighter/Paladin/WM build with Bytor Battleaxes that everone else is using. Since I can't solo bosses or end quests regardless of build, I might as well go with \"cool\" and \"fun\" rather than optimize.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:56 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Unless your PW has a modified rule for dual katanas, dual-wielding katanas will hurt your AB because the off-hand weapon is too big.\u00a0 To avoid a 2-point AB \"penalty\", a medium-sized character needs a small (or tiny) weapon off-hand, or a small character needs a tiny weapon off-hand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Kaymon24",
+      "avatar": "10759125_1565567642.jpg",
+      "timestamp": "12:15 AM - Aug 13, 2019",
+      "content": "<div>I ended up testing a build that gets 60 ac without expertise and 54 first attack bonus, thank you for helping. I did realize that playing the smiter would be very difficult, but damn. Divine might kicks butt lol</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "8:45 PM - Aug 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cornflower, one question: What is the expected/maximum (realistically) enchantment bonus that you can have in your items apart from the weapons side?<br/>\n<br/>\nI'm asking because I have heard both +10 &amp; +6 from you &amp; for defence, this plays a very important role.<br/>\n<br/>\nCan you have +10 dodge/deflection/natural/armor/shield bonuses or is it +6 instead? <br/>\n<br/>\nI also have heard that the Big Bads have 100AB, or is it lower actually &amp; only one such Boss have that?<br/>\n<br/>\nGive us as much info as you can.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:15 AM - Aug 13, 2019",
+      "content": "<div>@ Stag, the Rdd was one way to \"cheat\" high ability attributes for a divine smiter. I have done this before with \"Holy Smiting Dragon\", albeit this was a level-forty build.<br/>\nAlso, I would be grateful if somebody took the time &amp; passed this through the CBC.<br/>\nThis was a tough one, for the amount of time I had.\u00a0 Obviously, he cannot ALSO have a great AB, this is simply the case with great smiters. <br/>\nThis is all about the smiting aspect of him, because when he lands one it's gonna hurt, a lot.<br/>\nOn a non-critical, totally mundane, improved-wrathful-smite he hits for 1d10+11+10+7+5+120 dmg, double that on crits, so make the smites count!<br/>\nHis defenses are good despite the lack of armor skin &amp; full tumble because of divine shield. His saving throws are, simply put, amazing.<br/>\n<br/>\n<strong>ARELITH DIVINE SMITER</strong><br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/O7s6Fqs.jpg\"/><br/>\n<strong>FTR 10/ PAL 6/ COT 14</strong><br/>\nRACE: Human<br/>\nALIGNMENT: Lawful Good<br/>\nPLAYABILITY: PvM 1-30 level<br/>\n<br/>\nSTARTING/ ENDING STATS: (GIFT's +2 STR/ +2 CHA)<br/>\nSTR \u2013 18 (<strong>20</strong>)<br/>\nDEX \u2013 08<br/>\nCON \u201310<br/>\nINT \u2013\u00a0 13<br/>\nWIS \u2013 08<br/>\nCHA \u201319 (<strong>25</strong>)<br/>\n<br/>\nHit Points: 330<br/>\n<br/>\nSkill Points: 132<br/>\nConcentration/ Heal: 33 (33)<br/>\nDiscipline: 33 (38) <br/>\nSpot: 33 (32) <br/>\nTumble: 15 (14) cc <br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 34/ 27/ 24<br/>\nw/ Max-Charisma (Fort/Ref/Will): 40/ 33/ 30<br/>\n<br/>\nNaked/ Armoured AC: 12/ 23 (Full Plate &amp; Shield)<br/>\n<br/>\nBAB: 25 (Four Attacks)<br/>\nAB: +34/ +29/ +24/ +19 (Bastard Sword)<br/>\nDMG: 1d10 +11/ 17-20 x2 (Bastard Sword)<br/>\n<br/>\nImmunity to Disease &amp; Fear<br/>\nLay On Hands: 140 Hit-Points <br/>\nDivine Smite: +7AB/ +120 Dmg <br/>\nDivine Might: +7 Divine Dmg/ 7 Rounds<br/>\nDivine Shield: +7 Dodge AC/ 7 Rounds<br/>\nDivine Wrath: +5 AB/ +5 Dmg/ +5 all Saves/ 7 Rounds<br/>\n<br/>\nLEVELING GUIDE: <br/>\n01) Fighter (01): Exotic Weapons, WF: Bastard Sword, Power Attack<br/>\n02) Fighter (02): Cleave<br/>\n03) Fighter (03): Knockdown<br/>\n04) Paladin (01): {+1 CHA}<br/>\n05) Paladin (02): <br/>\n06) Paladin (03): Divine Might<br/>\n07) Fighter (04): WS: Bastard Sword<br/>\n08) Fighter (05): {+1 CHA}<br/>\n09) Paladin (04): Divine Shield<br/>\n10) Champion Of Torm (01): <br/>\n11) Champion Of Torm (02): Blind-Fight<br/>\n12) Champion Of Torm (03): Toughness, {+1 CHA}<br/>\n13) Champion Of Torm (04): Improved Critical: Bastard Sword<br/>\n14) Champion Of Torm (05): <br/>\n15) Paladin (05): Extra Turning <br/>\n16) Fighter (06): Improved Knockdown, {+1 CHA}<br/>\n17) Fighter (07): <br/>\n18) Paladin (06): Extra Smiting <br/>\n19) Fighter (08): Improved Power Attack<br/>\n20) Fighter (09): {+1 CHA}<br/>\n21) Fighter (10): EWF: Bastard Sword, Great Charisma I<br/>\n22) Champion Of Torm (06): EWS: Bastard Sword<br/>\n23) Champion Of Torm (07): <br/>\n24) Champion Of Torm (08): Great Smiting I, Epic Prowess, {+1 STR}<br/>\n25) Champion Of Torm (09): <br/>\n26) Champion Of Torm (10): Great Smiting II<br/>\n27) Champion Of Torm (11): Great Smiting III<br/>\n28) Champion Of Torm (12): {+1 STR}<br/>\n29) Champion Of Torm (13): <br/>\n30) Champion Of Torm (14): Great Smiting IV, Great Smiting V</div>"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "1:33 PM - Aug 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nUnless your PW has a modified rule for dual katanas, dual-wielding katanas will hurt your AB because the off-hand weapon is too big.\u00a0 To avoid a 2-point AB \"penalty\", a medium-sized character needs a small (or tiny) weapon off-hand, or a small character needs a tiny weapon off-hand.\n</div></blockquote>\nWell... The cost of coolness. Also, one could go the classic Longsword+dagger, or Bastardsword-Shortsword. Or maybe something with 3x crit (Battleaxe) and high crit probability (Kukri)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:26 AM - Aug 13, 2019",
+      "content": "<div>@Kaymon: Care to share it with the rest of us?<br/>\n<br/>\n@Valerfor: He shoots - he scores!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "1:42 PM - Aug 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nCornflower, one question: What is the expected/maximum (realistically) enchantment bonus that you can have in your items apart from the weapons side?<br/>\n<br/>\nI'm asking because I have heard both +10 &amp; +6 from you &amp; for defence, this plays a very important role.<br/>\n<br/>\nCan you have +10 dodge/deflection/natural/armor/shield bonuses or is it +6 instead? <br/>\n<br/>\nI also have heard that the Big Bads have 100AB, or is it lower actually &amp; only one such Boss have that?<br/>\n<br/>\nGive us as much info as you can.\n</div></blockquote>\nWell.... Starting with bonuses (bonii?):<br/>\n<br/>\nTypical weapons can have +20 AB, +10 EB, +5-1 EB depending on how good you are at crafting.<br/>\nMost items you can find or craft have +6AC as maximum. There are some few exceptions, but with around 20 toons and several years of play I have only ever seen one of those (if you manage to open the secret portal, you can visit a rural area where there are very high-level Attack Chickens, yes..., where there's a 1 in 1000 that they will drop a +10AC armor. I've never managed to kill more than a handful of those chickens, also I have forgotten which items you need to open the portal, so I won't get my hands on that armor anytime soon).<br/>\n<br/>\nYou can craft items with 5% immunities (shield/helm) or 25% immunities (armor) against bludgeoning/piercing/slashing.<br/>\nYou can find items with 10 or 15 Damage reduction against various damages. Gloves with 15 Damage Resistance agasint slashing + piercing + bludgeoning comes to mind. Or a shield with 10 Damage Resistance against sonic+acid+electrical+fire.<br/>\n<br/>\nYou can add abilities to any objects, so if you find a good cloak of protections, you can add a Forge Stone to it and give it INT+6 (only trouble is that which ability bonus you get is random) or something. You can add various things like Haste, Regen, Freedom, Holy Avenger, Divine Damage, Knockdown immunity, etc, etc, etc if you're good enough at crafting (80+). In any case, you can almost always max out 2 or 3 abilities on your toon if you can afford it. My Bard/BG/RDD at level 37 has AB47/AC67 and STR 49/DEX 10/CON 28/INT 12/CHA28 due to good items.<br/>\n<br/>\nThere are variations of the big bads. Some have very high immunities, some score ridiculous damages, some have silly AB/AC. Those that I have most trouble with are those with really high AC and AB. There are several high-level critters with 80-85 AB or 80-85 AC. Occasional bosses have (or so I've heard) even higher. I'm not sure about 100 AB/AC, though. I've never gotten so close to those bosses that they left an imprint in my logs.... There are a couple of critters that have really bad damages, like: 100 physical damages + several d10 elemental damages / OnHit Harm / 100 magical damages per \"look\" (beholder mages).<br/>\n<br/>\nIn general the only successful builds that can solo high-end areas are various DwDefenders, some dex-based Fighter/Monk and possibly the occasional well-played Wizard. Right now the forums are down, otherwise I could have linked the popular builds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:07 AM - Aug 13, 2019",
+      "content": "<div>@Val: It is just amazing to see what you have been able to cram into that lvl 30 build! Even GS5!<br/>\nI can double check it in a CBC sheet tomorrow if nobody else has done it by then.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "6:54 PM - Aug 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Latest edition, modified for Dwarven Waraxe (since apparently there is a Godly Dwarven Waraxe for sale in a hidden merchant that gives 2d12 magical damage bonus, only 30 million gold...). Also, I didn't take that extra Rogue, because it didnt' really make that big a difference and I didnt' have the energy go remake the entire build...\u00a0 Took most of the other advice I got so far, though (again, not the advice that required me to remake too much. Yes, I'm lazy.)<br/>\n<details><summary>Spoiler</summary>Fighter(15), Rogue(3), Weapon Master(22), Human\nSTR: 16 (32)\nCON: 14\nINT: 14\n\n01: Fighter(1): Dodge, Mobility, Weapon Proficiency Exotic\n03: Fighter(3): Expertise\n05: Fighter(5)\n07: Weapon Master(1): Weapon of Choice: Dwarven Waraxe\n09: Weapon Master(3): Improved Critical: Dwarven Waraxe\n11: Weapon Master(5)\n13: Weapon Master(7)\n15: Fighter(7): Two-Weapon Fighting\n17: Fighter(9)\n19: Fighter(11)\n21: Weapon Master(8): Great Cleave\n23: Rogue(2): {Evasion}\n25: Weapon Master(11)\n27: Weapon Master(13): Great Strength II, Overwhelming Critical: Dwarven Waraxe, (STR=24)\n29: Weapon Master(15)\n31: Weapon Master(17)\n33: Weapon Master(19): Great Strength IV, Epic Weapon Focus: Dwarven Waraxe, (STR=28)\n35: Fighter(13)\n37: Fighter(14): Epic Weapon Specialization: Dwarven Waraxe\n39: Rogue(3): Great Strength VI, {Uncanny Dodge I}, (STR=31)\n\nSkillpoints: 233\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 49 (melee), 32 (ranged)\nSpell Casting: \n\n\n01: Discipline(4), Heal(4), Intimidate(2), Lore(4), Spellcraft(2), \n03: Discipline(1), Heal(1), Intimidate(1), Lore(1), Spellcraft(1), \n05: Discipline(1), Heal(1), Intimidate(1), Lore(1), Spellcraft(1), \n07: Discipline(1), Spellcraft(1), Save(6), \n09: Discipline(1), Spellcraft(1), Save(12), \n11: Discipline(1), Spellcraft(1), Save(18), \n13: Discipline(1), Spellcraft(1), Save(24), \n15: Discipline(2), Spellcraft(1), Save(1), \n17: Discipline(1), Spellcraft(1), Save(5), \n19: Discipline(1), Spellcraft(1), Save(11), \n21: Discipline(1), Spellcraft(1), Save(17), \n23: Search(10), Spellcraft(1), Tumble(10), UMD(10), \n25: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(1), \n27: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(3), \n29: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(5), \n31: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(7), \n33: Discipline(1), Heal(1), Lore(1), Spellcraft(1), Save(9), \n35: Discipline(1), Save(15), \n37: Discipline(1), Save(23), \n39: Search(3), Spot(3), Tumble(15), UMD(16), Save(1), \n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Kaymon24",
+      "avatar": "10759125_1565567642.jpg",
+      "timestamp": "8:42 AM - Aug 13, 2019",
+      "content": "<div>@Val thank you so much! I might tweak for scim instead of bastard sword but this build is awesome!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:17 AM - Aug 13, 2019",
+      "content": "<div>I put it in the CBC, and it looks good!\n<details><summary>Spoiler</summary>Paladin(6), Fighter(10), Champion of Torm(14), \nSTR: 18 (20)\nCON: 10\nINT: 13\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword, Power Attack\n03: Fighter(3): Knockdown\n05: Paladin(2): {Smite Evil}\n07: Fighter(4): Weapon Specialization: Bastard Sword\n09: Paladin(4): Divine Shield\n11: Champion of Torm(2): Blind Fight\n13: Champion of Torm(4): Improved Critical: Bastard Sword\n15: Paladin(5): Extra Turning\n17: Fighter(7)\n19: Fighter(8): Improved Power Attack\n21: Fighter(10): Great Charisma I, Epic Weapon Focus: Bastard Sword, (CHA=25)\n23: Champion of Torm(7)\n25: Champion of Torm(9)\n27: Champion of Torm(11): Great Smite III\n29: Champion of Torm(13)\n\nSaving Throws (Fortitude/Will/Reflex): 34/24/27\nBAB: 25\nAC (naked/mundane armor/shield only): 12/23\nSkillpoints: 132\n\n02: Concentration(1), Discipline(1), Save(5), \n04: Concentration(1), Discipline(1), Save(7), \n06: Concentration(1), Discipline(1), Save(9), \n08: Concentration(1), Discipline(1), Save(11), \n10: Discipline(1), Spot(13), Save(1), \n12: Discipline(1), Spot(1), Save(3), \n14: Discipline(1), Spot(1), Save(5), \n16: Concentration(1), Discipline(1), Heal(1), Save(1), \n18: Concentration(1), Discipline(1), Save(3), \n20: Concentration(1), Discipline(1), Save(5), \n22: Discipline(1), Spot(8), \n24: Discipline(1), Heal(2), Spot(1), \n26: Discipline(1), Heal(2), Spot(1), \n28: Discipline(1), Heal(2), Spot(1), \n30: Discipline(1), Heal(2), Spot(1), \n</details>\n\nThe only tiny thing I saw is that Concentration only can go to 24, because it is not a class skill for CoT.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:48 AM - Aug 10, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see, the +6 isn't enough to go defensive, so stay on offense instead. <br/>\n<br/>\nBuild looks fun to play.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:08 PM - Aug 13, 2019",
+      "content": "<div>Thanks Mick! <br/>\nThe result of having the concentration skill higher was because I was experimenting with more fighter levels but then it's counter-productive because smite &amp; LoH both use the pally &amp; cot levels only. <br/>\nHeh, now that was a badly written sentence, I barely understood what I wrote myself! <br/>\n<br/>\n@ Kaymon, glad you liked it!</div>"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "6:34 PM - Aug 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK, thank you all for the assistance. I'm gonna playtest it soon. Or maybe not soon, but later.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:16 PM - Aug 13, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nThanks Mick! <br/>\nThe result of having the concentration skill higher was because I was experimenting with more fighter levels but then it's counter-productive because smite &amp; LoH both use the pally &amp; cot levels only. <br/>\nHeh, now that was a badly written sentence, I barely understood what I wrote myself! <br/>\n<br/>\n@ Kaymon, glad you liked it!\n</div></blockquote>\nDo you fancy this going into the Level 30 forum, Valerfor? It's do-able if we edit in Mick's observation about Concentration and skills schedule, but it's entirely up to you.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:58 PM - Aug 13, 2019",
+      "content": "<div>That would be nice Stag, can we also incorporate the skill-chart that Mick generously made for it as well?<br/>\n<br/>\nI guess the more clearly labeled builds for popular PW's we have the better.\u00a0</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:50 PM - Aug 13, 2019",
+      "content": "<div>Quite right on the labelling, sir.<br/>\n<br/>\nAs far as this one in particular is concerned, if you would like to initiate the thread then at least your name would be on it as \"owner\", and I could then simply shift things across into it. Otherwise it would look like it was mine, which no one would believe.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

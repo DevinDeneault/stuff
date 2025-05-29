@@ -4,77 +4,37 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "225",
-  "name": "Cleric/Rogue RP Build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/cleric-rogue-rp-build-t2354424.html",
-  "author": "Apocrypha",
-  "avatar": "10235244_1510287070.jpg",
-  "replies": 10,
+  "name": "What would make a good Sneak/Anti-sneak?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/what-would-make-a-good-sneak-anti-sneak-t2354432.html",
+  "author": "campgod",
+  "avatar": "no_avatar.png",
+  "replies": "3",
+  "views": "519",
   "posts": [
     {
-      "author": "Apocrypha",
+      "author": "campgod",
       "avatar": "no_avatar.png",
-      "timestamp": "7:40 AM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey all! I was trying to think up of another character for an RP server, and I had the bright idea of a cleric of Mask. My goal is to be a melee \"scrapper\" who can heal,\u00a0stealth, scout, and handle locks/traps if need be. Essentially a \"jack of all trades\". It'll be great if I build it right, and fall flat on its face if I don't.<br/>\n<br/>\n Cleric is going to be the primary class for the build, with Rogue a second for the loads of skillpoints and fitting Mask flavor-wise. I'm struggling somewhat between Shadowdancer and Assassin for the third classes-- Assassin brings neat Invisibility and death attacks\u00a0to the table,\u00a0but\u00a0Shadowdancer has HiPS. Something to note is that my server restricts single-level dips--I\u00a0have to take at least three levels of a class, so I can't just take one level of SD and call it a build.\u00a0Alternately, if there's another possibility I'm overlooking for a third class, please tell me! Since Darkness and Luck didn't make it into the game, Trickery and Evil will be the domains chosen for proper roleplay purposes. I'm happy about Trickery, not so thrilled about Evil, but ce la vie.<br/>\n<br/>\n I'll be going DEX-based and foregoing heavy armor, though I'm not sure whether I'll do dual-wielding or use a light shield, because\u00a0I don't know if I prefer the extra attack over the extra AC yet. The weapon needs to be finessable, obviously, and I don't really have a preference as to what it is. No DM/DS, since I have to dump CHA for DEX/INT/WIS.<br/>\n<br/>\n A (very) rough sketch:<br/>\n<br/>\n Human or Half-Elf, NE<br/>\n (Cleric/Rogue/???) (Level cap 40)<br/>\n PvM<br/>\n<br/>\n STR: 10<br/>\n DEX: 16<br/>\n CON: 12<br/>\n INT: 14<br/>\n WIS: 15<br/>\n CHA: 8<br/>\n<br/>\n Skills: Bluff, Concentration, Disable Devices, Hide, Move Silently,\u00a0Open Locks, Search, Tumble<br/>\n Feats: Weapon Finesse is the only one I require.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:02 AM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want undispellability and Epic Dodge, you have to go Cleric 24/25. Rogue 10, SD 5. Oddly enough I do not see that level split in the database.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:43 PM - May 11, 2015",
+      "content": "<div>For a lvl 40 PvP setting. I was kinda looking for something that didnt rely on using scrolls or potions 100 times a battle lol. I have no preference on\u00a0weapons, melee or range nor playability. TY for your time.<br/>\n Here are the changes they did to these spells.<br/>\n<strong>Clairaudience/Clairvoyance:</strong>Grants +5 to spot AND listen.<br/>\n Amplify: Grants +10 listen.<br/>\n True Seeing: The duration is set to 3 rounds.<br/>\n \u00a0</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:52 AM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found this one on my hard drive. I wonder if\u00a0it fits your purpose?<br/>\n<br/>\n Cleric(24), Rogue(16), Human<br/>\n \u00a0<br/>\n STR: 10<br/>\n DEX: 16 (26)<br/>\n CON: 12<br/>\n WIS: 15 (19)<br/>\n INT: 14<br/>\n CHA: 8<br/>\n \u00a0<br/>\n Human: (Quick to Master)<br/>\n 01: Rogue(1): Two-Weapon Fighting, Ambidexterity<br/>\n 02: Cleric(1): Domain Trickery, Domain Travel<br/>\n 03: Cleric(2): Weapon Finesse<br/>\n 04: Cleric(3): WIS+1, (WIS=16)<br/>\n 05: Cleric(4)<br/>\n 06: Cleric(5): Weapon Focus: Shortsword<br/>\n 07: Rogue(2): {Evasion}<br/>\n 08: Cleric(6): WIS+1, (WIS=17)<br/>\n 09: Cleric(7): Extend Spell<br/>\n 10: Cleric(8)<br/>\n 11: Cleric(9)<br/>\n 12: Rogue(3): WIS+1, Knockdown, {Uncanny Dodge I}, (WIS=18)<br/>\n 13: Cleric(10)<br/>\n 14: Cleric(11)<br/>\n 15: Cleric(12): Improved Two-Weapon Fighting<br/>\n 16: Cleric(13): WIS+1, (WIS=19)<br/>\n 17: Rogue(4)<br/>\n 18: Cleric(14): Blind Fight<br/>\n 19: Cleric(15)<br/>\n 20: Cleric(16): DEX+1, (DEX=17)<br/>\n 21: Cleric(17): Epic Weapon Focus: Shortsword<br/>\n 22: Rogue(5)<br/>\n 23: Cleric(18)<br/>\n 24: Cleric(19): DEX+1, Great Dexterity I, (DEX=19)<br/>\n 25: Cleric(20)<br/>\n 26: Cleric(21)<br/>\n 27: Rogue(6): Great Dexterity II, (DEX=20)<br/>\n 28: Cleric(22): DEX+1, (DEX=21)<br/>\n 29: Cleric(23): Armor Skin<br/>\n 30: Rogue(7): Great Dexterity III, (DEX=22)<br/>\n 31: Rogue(8)<br/>\n 32: Rogue(9): DEX+1, (DEX=23)<br/>\n 33: Rogue(10): Great Dexterity IV, Improved Evasion, (DEX=24)<br/>\n 34: Rogue(11)<br/>\n 35: Rogue(12)<br/>\n 36: Rogue(13): DEX+1, Epic Dodge, Defensive Roll, (DEX=25)<br/>\n 37: Rogue(14)<br/>\n 38: Rogue(15)<br/>\n 39: Rogue(16): Epic Prowess, Crippling Strike<br/>\n 40: Cleric(24): DEX+1, (DEX=26)<br/>\n<br/>\n Hitpoints: 328<br/>\n Saving Throws (Fortitude/Will/Reflex): 22/25/27<br/>\n Saving Throw bonuses: Spells: +9, Traps: +3<br/>\n<br/>\n BAB: 25<br/>\n AB (max, naked): 37 (melee), 34 (ranged)<br/>\n<br/>\n AC (naked/mundane armor/shield only): 28/32<br/>\n<br/>\n Spell Casting: Cleric(9)<br/>\n Alignment Changes: 0<br/>\n<br/>\n Skillpoints: 329<br/>\n Disable Trap 21(25), Hide 42(50), Move Silently 42(50), Open Lock 1(9), Search 27(29), Set Trap 35(45), Spellcraft 43(45), Spot 42(46), Tumble 40(48), UMD 36(35)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Apocrypha",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:29 PM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That looks almost exactly like what I want, Mick! I'd still like to play around with the skills and classes, but that's a really good base. Thanks!<br/>\n<br/>\n So what I'm looking at, as build options, are Mick's suggested Cleric 24/Rogue 16, Cleric 24/Rogue 11/Assassin 5, or Cleric 24/Rogue 11/Shadowdancer 5.<br/>\n<br/>\n Going off the class progression tables (ie, without laying everything out, ie going by an estimate), Cleric 24/Rogue 11/Assassin 5 gets me 3d6 death attack, Darkness, Ghostly Visage, Use Poison, and costs me 20 skillpoints, 2d6 sneak attack, two bonus feats, and 1 BAB.\u00a0Cleric 24/Rogue 11/Shadowdancer 5 gets me HiPS, darkvision, and the shadow daze/summon shadow/shadow evade abilities, while costing me 10 skillpoints, 2d6 sneak attack, 1 BAB, and a bonus feat. Shadowdancer 5 gets Defensive Roll, which negates the loss of one of the bonus feats.<br/>\n<br/>\n Thoughts?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:53 PM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">SD also needs two feats that my build doesn't have. It will probably cost you the two weapon fighting.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:30 PM - May 05, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are those that say that if a build doesn't have three classes, it isn't optimal, but I say that is nonsense. This build would weakened by adding a third class.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:31 PM - May 11, 2015",
+      "content": "<div>How to make a sneak: High stealth skills and skill enhancing feats including trackless step, small stature, ranger spells like camouflage and one with the land. HIPS for a quick escape. Invisibility spells as a backup.<br/>\n How to make an anti-sneak: High detect skills (spot/listen) and skill enhancing feats. Elf with keen senses. Spells that break invisibility. Permanent true seeing from skin properties e.g. wyrmling or dragon shape.<br/>\n Many builds will be able to have both high stealth skills and detect skills.<br/>\n Shifter has both TS (wyrmling shape) and HIPS (kobold kommando shape).<br/>\n I hope this answers your question.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "12:27 AM - May 06, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not nonsense, Empyre, it's 100% true. But the claim doesn't preclude any restrictions (such as taking a minimum of 3 levels of each class). \u00a0Cleric 23 Rogue 13 Fighter 4 is better than this build, but since it's RP, Mick's build is quite good.<br/>\n<br/>\n Apocrypha, look for a topic called Black Flame Zealot in this section. I posted a Cleric 15 / Fighter 6 / Rogue 19, which is also a very good option for you to consider. Both spreads that you spoke about are bad. No reason for Rogue 11, no reason for Assassin 5. You can either take Mick's build, which is very good for RP, even if it has only 2 classes, or put 4 levels of Fighter for 3 extra feats and access to Epic Weapon Specialization to help with damage at the expense of 5% dispellability, one Rogue bonus feat, 1d6 SA damage and a few skill points (but free weapon proficiencies).<br/>\n<br/>\n Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Apocrypha",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:48 AM - May 06, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@ Mick: D'oh! *forehead slap* Can't believe I forgot about Dodge and Mobility. Probably not worth it then.<br/>\n<br/>\n @Empyre and Max: Yeah, I'm gonna agree with y'all here, the build works better without Assassin/Shadowdancer. Fighter 4 is a neat suggestion, but I'm gonna pass because a) it doesn't quite fit RP, and b) it'll give me an XP penalty, but I'll make a note about the possibility when I post the build proper (which should be either tonight or tomorrow morning).<br/>\n<br/>\n Thanks for the help, everyone!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:21 AM - May 12, 2015",
+      "content": "<div>Good suggestion, Mick. However, Druid Shifters will rely heavily on Dodge AC, which goes away with flat-footedness, so if you can't see them, you're toast. I would suggest a few other possibilities. Dwarven Defenders with Flanking Immunities or any PM combo with EDR will surely get the job done against them. My Versatile Tank build, for example, an EDR Epic Dodger, would be an AWESOME Sneaker and Anti-sneaker. He won't see them, but it won't matter. Another good build is my Underdark Expeditioner as well, Fighter / Rogue / DD who specializes in being the lone sneaker in the room.<br/>\n<br/>\n Take it EZ!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:43 AM - May 06, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will side with Mick &amp; Empyre here, not all builds are stronger with three classes, sometimes you must have less to gain more. Mick's (cleric 24/bard 16) build was a recent perfect example of a two-class combo that a third class would probably weaken.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:23 PM - May 06, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When I made the cleric/rogue build above, I tried with both fighter and SD as a third class, but decided against it. <br/>\n With 1-3 SD I would lose two weapon fighting and crippling strike, but would gain HIPS and a  pre epic feat to take improved critical (or something else). <br/>\n With 4 fighter levels I would gain 3 feats, 2 of which would be reserved for WS &amp; EWS. The price would be later cleric development, dispellable buffs, no crippling strike, and 20% xp penalty throughout many levels. It was also a factor that clerics are able to generate a lot of damage when they buff up.<br/>\n Those different builds have their uses, and what is stronger depends to a great extent on the environment. But that has nothing to do with RP or not.<br/>\n<br/>\n On a side note; The Divine tickery ability adds +13 to the relevant skills and enables epic trap handling.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "12:49 AM - May 07, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong><hr/>I will side with Mick &amp; Empyre here, not all builds are stronger with three classes, sometimes you must have less to gain more. Mick's (cleric 24/bard 16) build was a recent perfect example of a two-class combo that a third class would probably weaken.</div></blockquote>\n<div align=\"left\">Cleric 23 Bard 16 Monk 1 would be absolutely stronger.\u00a0You can't argue with facts. All builds will benefit from a 3rd class, but some concepts can be more important than the additional power you gain. That's exactly the case here.<br/>\n<br/>\n Mick, if you feel you can forego WS and EWS, you can take EWF, AS and EP with the Fighter feats,\u00a0which would free 3 feats for Great Dexterities and higher AB and AC <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />.<br/>\n<br/>\n Anyway, build looks good, but I would start with 8 STR\u00a0and 14 CON.<br/>\n<br/>\n Take it EZ!</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:09 AM - May 12, 2015",
+      "content": "<div>Any cleric/druid can have huge spot/listen skills, if you change their race to Elf can also become perma-detect machines campgod.<br/>\n<br/>\n Otherwise take a look at one of my first builds here, i think it will serve you well. Just change his race to Elf and perhaps go for sword &amp; board if you want more ac. This is one of the builds that not only can spot his enemies but also withstand a potential death attack.<br/>\n<br/>\n<span style=\"color:#0000FF\"><strong>The Halberdier\u00a0</strong></span> ---&gt;\u00a0 <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2350309/THE-HALBERDIER-FTR-12-HS-5-CoT-23#.VVFuCZNS2r9\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.forumer.com/topic/23 ... VFuCZNS2r9</a></div>"
     }
   ]
 }

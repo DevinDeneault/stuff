@@ -4,23 +4,73 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "117",
-  "name": "EMA for pure casters (yardsticks) and rounds counting",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/ema-for-pure-casters-yardsticks-and-rounds-countin-t2355546.html",
-  "author": "233",
-  "avatar": "10714033_1519247364.jpg",
-  "replies": 1,
+  "name": "WASD vs Click and Run",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/wasd-vs-click-and-run-t2355549.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "9",
+  "views": "378",
   "posts": [
     {
-      "author": "Aquarius 233",
-      "avatar": "10714033_1519247364.jpg",
-      "timestamp": "10:15 PM - Aug 19, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all! Just two thoughts from a pure sorcerer (yardstick) build player:<br/>\n<br/>\n1<br/>\nTaking epic mage armor seemed almost automatic to increase the build's AC: just take the epic spell for an AC increase, and many inventory slots are freed to other precious items (for main stat capping, immunities, and so on); however, considering that (as in Wog server expertise does not work when casting) there are no other methods to increase AC other than cross-class tumble (e.g. divine shield and armor+auto still, taken from paladin/blackguards/sorcerers) and that, as even with it AC will be low for high level foes, I am wondering if to not to take it and replace it with a epic focus or CHA increase.<br/>\nWhat do you think?<br/>\n<br/>\n2.<br/>\nI have used, sometimes, the Bigby strategy to defeat enemies (6 for casters, 7 for pure meelers) + Evards instead of IGMS (to save it); however, watching enemies dying due to tentacles without casting any other spell (although sadist) didn't allow me to understand whow many rounds have required to defeat the enemy.<br/>\nI was sorcerer 32 when one of these fights occurred, so (considering that there are not changes in WoG server for this spell, and extend spell has not been used) Evards' spell duration is 16 rounds; for sure the gnome casted 5 spells (no. 1 Bigby 7 + no. 4 Evards), so maybe it is not easy to understand if some of the four Evards' were faded before the enemy became dead.<br/>\nIs there something in the combat log that could help me understand how many rounds have required to kill the foe?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:59 PM - Aug 22, 2020",
+      "content": "<div>Just found out today (I know, I know, amazing right) that using the WASD keys to move leaves you flatfooted <span class=\"text-emoji\">\ud83e\udd14</span><br/>\n<br/>\nWTHF??!!!<br/>\n<br/>\nAnd if you Click and Run, obviously you are not Flatfooted while moving.<br/>\n<br/>\nSo why is this a thing?\u00a0 Well, if you Click and Run, and engage in Combat, you provoke an AoO and you will go last in combat (at least, that seems to be the case with last in combat).\u00a0 Engaging in Combat with WASD with the walk option active seems to prevent this.<br/>\n<br/>\nDoes anyone have a better way to do movement?<br/>\n<br/>\nBecause it seems all these ways give PCs a huge disadvantage.<br/>\n<br/>\nI know one can Click and Run while holding Shift and one will walk...but that is soooo slow.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "3:31 AM - Aug 20, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">1. EMA<br/>\nI can understand how you are thinking, similar questions did go through my mind at some stage. Enemies who only use melee attacks can be dodged with good strategy such as disables, traps, positioning, haste in a number of situations.\u00a0<br/>\n<br/>\nWith EMA, I found the extra AC is useful against ranged attacks,and ranged touch attack spells and abilities which are a little harder to manage. A greater archers belt and premonition can help against arrows, however there isn't any good answers to Bigby's 7 and 9 grasping effect, which will likely always hit with low AC. The worries is then getting mobbed by the meleers that might be around -&gt; invisibility / greater sanctuary are the best spells to cast if that happens, AoE effects will still target you and greater sanctuary has some bugs on occasions.\u00a0\u00a0<br/>\n<br/>\nI noticed the difference on my sorceress (HiPSing speed caster) when I leveled her to mid epics with EMA and without EMA, and she is avoiding melee. I think you can live without it, if you want to put another feature in the build. I chose to take it where possible, dodge +5 AC for 24 hrs is pretty good compared with tumble 20/40 for +4 to +8 AC, armor skin for +2 AC, or dodge for +1 AC against one opponent. The exception being low AC damage shield builds like Mestil's Pale Emissary where one wishes for low AC. Or some very high magic environment where the dodge cap is easily reached and there are more than +5 AC items.<br/>\n<br/>\n2. Round counting<br/>\nThis is what I use:<br/>\n- if not hasted, 1 spell = 1 round, bioware potion usage = ?1 flurry or ?2-3 seconds, wand/scroll/other item usage = 1 round<br/>\n- if hasted, 2 spells = 1 round,\u00a0bioware potion usage = ?1 flurry or ?2-3 seconds,\u00a0wand/scroll/other item usage = 1 round<br/>\n- crossbow attacks 1 attack = 1 round if not hasted and no rapid reload feat, 2 attacks = 1 round if hasted and no rapid reload feat<br/>\n- usual attacks -&gt; usually I count the flurries<br/>\n<br/>\nHope that helps<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:48 PM - Aug 22, 2020",
+      "content": "<div>It has never occurred to me to try using WASD during combat.\u00a0 I only ever use it to fine-tune my position and orientation before saving the game, or to take a step back while looting close-together corpses.<br/>\n<br/>\nThis could be useful for somebody with damage shields who <strong>wants </strong>to get hit.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:34 PM - Aug 22, 2020",
+      "content": "<div>That's a good observation!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:44 PM - Aug 22, 2020",
+      "content": "<div>FML !<br/>\n<br/>\nAll I ever use is WASD, point and click is annoying as hell !</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:20 PM - Aug 22, 2020",
+      "content": "<div><blockquote><div><cite>Kalistez wrote: <div class=\"responsive-hide\">Aug 22, 2020</div></cite>FML !<br/>\n<br/>\nAll I ever use is WASD, point and click is annoying as hell !</div></blockquote>\nSo how do you deal with the flatfooted movement?\u00a0 Any Range opponents get to have a hayday.</div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:22 AM - Aug 23, 2020",
+      "content": "<div>I have tried Point &amp; Click before and to be fair it's not too bad in combat as you actually run to your target.<br/>\n<br/>\nThe rest of the time I get annoyed at having to click near the edge of the screen to run, otherwise I end up walking everywhere</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:46 PM - Aug 23, 2020",
+      "content": "<div>WASD only makes you flatfooted if you're not moving much, but that applies to clicking as well. The problem is that WASD doesn't have the automatic pathfinding that clicking does, so your character can get stuck on mobs during combat and become flatfooted. Running into or away from combat with WASD works exactly the same as clicking.<br/>\n<br/>\nPersonally I use WASD outside of combat and clicking during combat if I need to reposition.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:55 PM - Aug 23, 2020",
+      "content": "<div>From what I can see (and have been told) while moving with WASD, there is no \"active\" action queue (check it when moving) - that leaves you flatfooted to any attack, apparently, until you \"click\" on an opponent.<br/>\n<br/>\nSo apparently, it is not the same as if you click on an opponent and move towards them (then there is something in the action queue).<br/>\n<br/>\nSo my question then is, if there is nothing in the Action Queue, are you saying that WASD movement is not \"flatfooted\" to a ranged attack?</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:06 PM - Aug 23, 2020",
+      "content": "<div>I tested before posting to make sure that my experience matched up with reality. WASD works the same as clicking provided that you're actually moving. Even running into a wall at an angle can cause your character to avoid becoming flatfooted, although if you run directly into a wall then your character doesn't move enough and becomes flatfooted.<br/>\n<details><summary>Spoiler</summary>Flatfooted\nECB Mindless Archer Attack Roll: 13 + 21 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC)\nECB Mindless Archer Attack Roll: 20 + 16 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC)\n\nECB Mindless Archer Attack Roll: 6 + 16 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) + -2 (Moving Target) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 9 + 26 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) + -2 (Moving Target) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nDrive Mode Forward\nECB Mindless Archer Attack Roll: 15 + 16 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) + 1 (Point Blank Shot Attack Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 13 + 26 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\n\nECB Mindless Archer Attack Roll: 19 + 11 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 4 + 26 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 7 + 21 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 10 + 16 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\n\nECB Mindless Archer Attack Roll: 19 + 16 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) + -2 (Moving Target) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 17 + 26 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) + -2 (Moving Target) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nShift Click\nECB Mindless Archer Attack Roll: 16 + 11 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)\nECB Mindless Archer Attack Roll: 5 + 26 (Base Attack Bonus) + 1 (Epic Prowess Feat) + 10 (Enchant Arrow Bonus) + 16 (Dex Modifier) + 1 (Weapon Focus Bonus) + 2 (Epic Weapon Focus Bonus) Versus AC 10 + 1 (Size Modifier) + 17 (Natural AC) + 8 (Tumble Bonus) + 11 (Dex Mod) + 4 (Dodge Mod)</details></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:59 PM - Aug 23, 2020",
+      "content": "<div>Thank you for testing this, Yunim!</div>"
     }
   ]
 }

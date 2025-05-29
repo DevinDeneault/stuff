@@ -4,23 +4,80 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "178",
-  "name": "Expertise/Whirlwind question",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/expertise-whirlwind-question-t2355035.html",
+  "name": "How do Recipro-Damage Caster Builds work?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-do-recipro-damage-caster-builds-work-t2355032.html",
   "author": "blksabbath74",
-  "avatar": "10235276_1510287070.gif",
-  "replies": 1,
+  "avatar": "no_avatar.png",
+  "replies": "10",
+  "views": "602",
   "posts": [
     {
       "author": "blksabbath74",
       "avatar": "no_avatar.png",
-      "timestamp": "12:24 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">If you are in Expertise mode and do a Whirlwind attack, is it at full BAB or at -5/-10?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:09 AM - Feb 16, 2019",
+      "content": "<div>I saw on of these scrolling through, and wanted to better understand how they work.<br/>\n<br/>\nThanks in advance.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:38 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">While you are in Expertise or Power Attack mode, -5/-10 <span style=\"text-decoration:underline\"><em><strong>becomes</strong></em></span> your new temporary full BAB until you exit that mode.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:26 AM - Feb 16, 2019",
+      "content": "<div>Also, in general, what spells are effective for a sub-optimal caster level?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:51 AM - Feb 16, 2019",
+      "content": "<div>Wizards, in general, have two spells that are doing heavy damage (120 plus, if both are active) against those who strike them in melee.<br/>\nThese spells are a flame-shield (like fire shield-red/blue from ad&amp;d) and an acid-shield respectively.<br/>\nBut wait, aren't wizards in general fragile with low constitution &amp; hit points?<br/>\nSo, there comes the \"optimized\" part. You can do it in two ways, one requires a spell, the other a class.<br/>\nThe spell is shapechange into an Iron Golem which makes you immune to a ton of stuff, including criticals &amp; sneaks plus giving you hundreds of temporary hit points.<br/>\nThe class is Pale Master and it does the same thing basically, but constantly.<br/>\nOf course, a wise warrior would never engage the wizard in melee when the shields are up, which in turn suits the wizard just fine cause he now has all the time in the world to fry the poor warrior with his spells.<br/>\nOf course, things are more complicated than that, with counters &amp; anti-counters for both sides, but those are the basics so you can understand how this works in general.<br/>\n<br/>\nHere is an example, a build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a></div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:47 PM - Feb 18, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nWizards, in general, have two spells that are doing heavy damage (120 plus, if both are active) against those who strike them in melee.<br/>\nThese spells are a flame-shield (like fire shield-red/blue from ad&amp;d) and an acid-shield respectively.<br/>\nBut wait, aren't wizards in general fragile with low constitution &amp; hit points?<br/>\nSo, there comes the \"optimized\" part. You can do it in two ways, one requires a spell, the other a class.<br/>\nThe spell is shapechange into an Iron Golem which makes you immune to a ton of stuff, including criticals &amp; sneaks plus giving you hundreds of temporary hit points.<br/>\nThe class is Pale Master and it does the same thing basically, but constantly.<br/>\nOf course, a wise warrior would never engage the wizard in melee when the shields are up, which in turn suits the wizard just fine cause he now has all the time in the world to fry the poor warrior with his spells.<br/>\nOf course, things are more complicated than that, with counters &amp; anti-counters for both sides, but those are the basics so you can understand how this works in general.<br/>\n<br/>\nHere is an example, a build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a>\n</div></blockquote>\n\nThanks for posting, I just spent a long weekend looking through all (well, not all) those archived builds. Amazing resource!<br/>\n<br/>\nSo what happened to World of Greyhawk?<br/>\n<br/>\nThe only one I see on EE is a 1-20 server, and frankly, I'd still play there on pre-epic builds if they had their hacks set up to download automatically to mobile devices.<br/>\n<br/>\nGhost Tower of Inverness and White Plume Mountain are my #1 &amp; 2 favorite modules.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:28 PM - Feb 18, 2019",
+      "content": "<div>All I know is that WoG's still up and running 1-40, though I can't promise EE compatibility. It's also available as a solo module (Max posted about it in this section last year, I think).<br/>\n<br/>\nBut I can almost hear the rumblings of the waking behemoth who shall be nameless now to give you more details...<br/>\n<br/>\nThat said, I know others have/do play there (including Valerfor).<br/>\n<br/>\nBtw, I'm trying so hard to either deliberately include or exclude the words \"paranoid\", \"war\", \"pigs\", \"iron\" and \"man\" in responses to your good self, blksabbath. And I think I've just failed in both, damn it.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:20 AM - Feb 19, 2019",
+      "content": "<div>World of Greyhawk is primarily running on it's EE server. I believe the player counts are higher there.<br/>\nSort by module name and scroll all the way down to World of Greyhawk. Levels 1-40</div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:52 AM - Feb 19, 2019",
+      "content": "<div><blockquote><div><cite>gkorjax wrote:</cite>\nWorld of Greyhawk is primarily running on it's EE server. I believe the player counts are higher there.<br/>\nSort by module name and scroll all the way down to World of Greyhawk. Levels 1-40\n</div></blockquote>\n\nFound it. I thought they were 1-20, but that must have been a different server.<br/>\n<br/>\nUnfortunately, regardless, the mobile version of EE doesn't allow manual manipulation of the hacks, so unless it is set up to automatically d/l through EE, mobile users can't play...which is sad...because I'm Straight Outta' Hommlet.</div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:53 AM - Feb 19, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\nAll I know is that WoG's still up and running 1-40, though I can't promise EE compatibility. It's also available as a solo module (Max posted about it in this section last year, I think).<br/>\n<br/>\nBut I can almost hear the rumblings of the waking behemoth who shall be nameless now to give you more details...<br/>\n<br/>\nThat said, I know others have/do play there (including Valerfor).<br/>\n<br/>\nBtw, I'm trying so hard to either deliberately include or exclude the words \"paranoid\", \"war\", \"pigs\", \"iron\" and \"man\" in responses to your good self, blksabbath. And I think I've just failed in both, damn it.<br/>\n<br/>\nCheers\n</div></blockquote>\n\nAt least you avoided mentioning the footwear choices of faeries...</div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:17 AM - Feb 19, 2019",
+      "content": "<div>You can also download a solo version from the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/gameworld/world-greyhawk-persistent-world-ee\" rel=\"noreferrer\" target=\"_blank\">NWN Vault</a>, if you want to experiment.</div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:34 PM - Feb 19, 2019",
+      "content": "<div><blockquote><div><cite>Mirnaia wrote:</cite>\nYou can also download a solo version from the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/gameworld/world-greyhawk-persistent-world-ee\" rel=\"noreferrer\" target=\"_blank\">NWN Vault</a>, if you want to experiment.\n</div></blockquote>\n\nSame thing, I can't access d/l modules on EE. Not sure if that will change when it gets out of beta, but currently you can't manually mess with your files...</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:01 AM - Feb 21, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\na build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a>\n</div></blockquote>\nSorry, didn't check the cited build before posting earlier, but now I have and I absolutely bloody love it! The pacifist juggernaut - just a shame PM means it can't be good aligned (but no point reopening a long-running sore). A stunning take, the like of which I have not seen before. Thanks for finding it - and Grizz, come on, step up to the mark and play with us again - we know you're out there!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

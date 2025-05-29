@@ -4,47 +4,92 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "158",
-  "name": "A thought for future builds",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-thought-for-future-builds-t2355197.html",
-  "author": "Valerfor",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 5,
+  "name": "A question regarding Critical Hits",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-question-regarding-critical-hits-t2355236.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "12",
+  "views": "591",
   "posts": [
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:36 PM - Oct 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all, <br/>\nI'm gonna be super-brief, because my time is limited, so, straight to the point. <br/>\n<br/>\nI was thinking lately that we are having a lack of \"desire\" for lack of a better word, to build towards expanding our level-20 &amp; level-30 sections of the forum. <br/>\nI know for a fact, that I had plans to make at least half-a-dozen builds for the level-20 sub-forum, including a Ranger 15/ Fighter4/ Rogue 1 &amp; a half-orcish Fighter 6/ Bard 4/ Pale-Master 10, to name a few. <br/>\nBuilding for the level-20 &amp; level-30 sub-forums can be a really rewarding experience since so many spots have been left untouched &amp; there is so much room for innovation. <br/>\nBesides, there are many folks around that play on RP-oriented servers &amp; almost all of them are level 20/30 capped &amp; could really use our help. <br/>\n<br/>\nThat's all, feel free to agree or disagree with this, I'm interested in hearing your thoughts.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:22 AM - Nov 15, 2019",
+      "content": "<div>A short question regarding critical hits :<br/>\n<br/>\nIs the Crit Roll (when a crit is actually threatened) done from the highest AB, or from the current AB where the threatened crit has occured?<br/>\n<br/>\nThe Wiki is not concise here :<br/>\n<blockquote><div>This threat roll is made the same way as the original attack roll (with the same modifiers)</div></blockquote>\n\nWhat I mean is, say a particular character has perfect BAB - 30.\u00a0 That means that (without having Monk progression here) this character has 4 Attacks/Round, each further attack at -5 AB (not considering extra attacks here from Haste, TWF, ITWF, etc).<br/>\n<br/>\nSo if a Crit is threatened, say, on the 3rd attack here, does it use the AB from the highest AB, or from the AB of the 3rd attack (meaning in this case, a malus of -15 to the highest AB)?</div>"
     },
     {
-      "author": "Aquarius 233",
-      "avatar": "10714033_1519247364.jpg",
-      "timestamp": "10:01 PM - Oct 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's a great proposal from my point of view, lv 20 is sometimes the cap in offline modules, so this will surely give some ideas and proposals for new characters!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:12 PM - Oct 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm with you all the way on this, Valerfor.<br/>\n<br/>\nMany PWs and most modules won't allow you the luxury of playing at level 40, and many players either don't have the inclination or facility to do so, and we would be remiss in our mission to assist in building to <em>all</em> levels unless we gave those level 20 and 30 builds some love.<br/>\n<br/>\nAnd apart from helping players, it's surely a good discipline for the builder to squeeze what they can into the levels available. I've seen several putative builds lately that take pre-epic feats in epic levels - and that's a luxury only afforded by builds that will reach those glorified heights. How quickly we forget...<br/>\n<br/>\nSo yes, an excellent idea. Builders get to hone their skills, players get to benefit - win /win!<br/>\n<br/>\n(And Mick started up something similar back in November 2017 about quality low-level - below 10 builds which we may sadly have let rot on the vine... <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/what-makes-a-strong-low-level-1-10-build-t2354767.html\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/nwnecbguild/what-makes-a-strong-low-level-1-10-build-t2354767.html</a>)<br/>\n<br/>\nStill, what can we do but do better?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:41 AM - Oct 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Agree\u00a0<br/>\n<br/>\nMmm I made the last lvl 20 build :) Maybe a few months ago. Then I started playing WoG with its Epic Challenges etc.<br/>\n<br/>\nSuggest 20, 30 (Arelith) and 28 (for HoTU) -&gt; we can run a challenge perhaps.<br/>\n<br/>\nMaybe Level 28 can be a subsection forum to acknowledge that is essentially the Lvl cap for HoTU<br/>\n<br/>\n'Highest AB' playble warrior for HoTU challenge or something like that\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "12:58 AM - Nov 15, 2019",
+      "content": "<div>It has the same AB as the third attack. For example if the attack has 40 AB after all modifiers (original AB, flanking bonus, combat mode penalties, etc) then the threat roll will also have 40 AB.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:14 AM - Oct 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't see why a \"challenge\" would - or should - be necessary. If we agree other areas need more attention, let's just attend to them, eh?<br/>\n<br/>\nI'm also averse to making something like a level 28 sub-forum, or the floodgates open and we have a level 36-38 Aielund build sub-forum, and so on. Just know it's a good general build or where the build will be played and construct accordingly.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:45 AM - Nov 15, 2019",
+      "content": "<div>It's all a matter of sequencing. First, you have to hit your target (the BAB/AB element). Then you get the crit threat applied. So in theory you stand a better chance of landing one on your first attack in a round, as that's the one most likely to hit. However, as we all know, dice are bastards. Thus, you may roll a 1 or 2 in your first two attacks and miss. Then you roll an 18 and a hit ensues - hoorah! The chance of that being a critical one is the same as if you'd hit with your first two attacks. The chances of landing a critical hit are not reduced once you have actually landed a hit, regardless of when it falls in the flurry.<br/>\n<br/>\nHope that makes some sense.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:34 AM - Nov 15, 2019",
+      "content": "<div>No, it is not making sense, or I am not understanding it!<br/>\n<br/>\nLet us go back to my example :<br/>\n<br/>\nThis character ONLY has 30 AB - no bonuses, whatsoever other than 1/1 BAB Class (like Fighter).<br/>\n<br/>\nSo the 3rd attack (from 4, right?) is at -10 here (30, 25, 20) so is AB 20.\u00a0 If it is a natural 20 (crit, roll a crit threat roll), what does the crit threat roll ADD to it's chance to crit here?\u00a0 is it 30 from the highest AB, or is it 20 from the 3rd hit?<br/>\n<br/>\nIf 20, then the chance of the crit actually taking place is lower, right?\u00a0 Because it still needs to reach target AC to actually do crit damage (successful crit threat roll).</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "5:34 AM - Nov 15, 2019",
+      "content": "<div>Using your example, let's say that your AB progression is +30 / +25 / +20, including BAB, STR, feats, other modifiers, etc. To simplify things let's also assume that your threat range is just 20.<br/>\nOn your third attack (20 AB) if you roll a 20 for your attack roll then you will threaten a critical. This happens even if your natural 20 attack misses due to Epic Dodge or if your opponent is immune to critical hits, but it does not happen if you miss due to concealment.<br/>\nImmediately after rolling a 20 on your attack roll you will then make a threat roll using the same AB as your attack roll (20 AB). Your threat roll must match or beat the target's AC in order to confirm a critical hit. For the threat roll a 1 is not automatically a non-crit and a 20 is not automatically a critical hit.<br/>\n<br/>\nLet's assume that you roll a\u00a0 1 on your threat roll but your target has 21 AC or less. Your combat log will read:<br/>\nwebshaman1 attacks Enemy : *critical hit* : (20 + 20 = 40 : Threat Roll: 1 + 20 = 21)<br/>\nWe can break this down as (ATTACK DIE + AB = X : Threat Roll: THREAT DIE + AB = Y), where the AB is the same in both cases which I believe answers your original question.<br/>\n<br/>\nNote that in this example if your opponent had 41 AC then you would not be able to land a critical hit with your third attack, since even a 20 on your threat roll would not match the 41 needed to confirm the critical hit.<br/>\nSo unless your AB is either significantly higher or significantly lower than your target's AC, the chance of landing a critical hit is not the same for all of your attacks.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:46 AM - Nov 15, 2019",
+      "content": "<div>Ok, that was also my understanding, but I wanted to make certain I was understanding this.<br/>\n<br/>\nSo in the above example, with 30 AB, but with 1 level of Monk(in Epic), and using Unarmed Strike (no flurry here), then the chance of a successful crit threat roll on the 3rd attack is actually higher, right, due to the Monk Unarmed Attack progressen?<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "5:51 AM - Nov 15, 2019",
+      "content": "<div>That's right, your attack progression for the first three attacks would be +30 / +27 / +24 rather than +30 / +25 / +20.<br/>\nAlthough obviously once we start to include different weapons and other modifiers things get more complicated.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:09 AM - Nov 15, 2019",
+      "content": "<div>Thanks for the help!<br/>\n<br/>\nI'm just wrapping my head around my Kama Master build.<br/>\n<br/>\nYou know, when to ITWF, when to then Flurry as well (#attacks vs crit chance for dev crit and damage output).<br/>\n<br/>\nOnce again, thanks.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "6:10 AM - Oct 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well challenge is not in a literal sense, but more where people put up ideas on what constitutes a strong build in a certain circumstance.<br/>\n<br/>\nThat thread you linked of Mick's for example. I think there were two ideas for the strongest lvl 1 build, a 18 Str fighter and a Druid level 1 with improved expertise<br/>\n<br/>\nOr the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/concept-yardstick-builds-t2293896.html\" rel=\"noreferrer\" target=\"_blank\">yardstick builds thread by TyrTemplar</a><br/>\n<br/>\nMight be a bit of fun you know<br/>\n<br/>\nAielund sub-forum... hmmm... good idea... but its pretty close to level 40... &gt;:)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:45 AM - Nov 15, 2019",
+      "content": "<div>Might be good to look at a combat log where there are a few crits to confirm, perhaps a scimitar weapon master with improved critical and a keen scimitar? :)</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:44 AM - Nov 16, 2019",
+      "content": "<div>No, this is really about the difference between Monk AB and normal AB, and which weapon to use in each case.<br/>\n<br/>\nA Fighter/WM/Monk has options, ones that allow him to switch not only weapons (from two-weapon fighting in my character build case - 2 Kamas), but also when to go single weapon, kama&amp;shield with full armor, as well as when to Flurry!<br/>\n<br/>\nIn this case, there is only a choice of either Fists or Kamas as weapons - and Fists have a really poor crit range, and can't be used well with a Shield and full armor.<br/>\n<br/>\nWhich leaves Kamas.<br/>\n<br/>\nSo I was just looking for info here, which I got.<br/>\n<br/>\nMy thanks to all.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:37 AM - Nov 17, 2019",
+      "content": "<div>Well I got a screenshot of a combat log whilst logged into the WoG server which displays what Yunim said. Maybe we can update the NWN Wiki whilst we are at it to make sure it is clear.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201911/10759084_cdba40485cd90c074161681d518ab620_t.jpg\"/>This is a Kama wielding Monk with an AB of 11 / 8 with critical 20/x2 attacking an indestructible object in WoG.<br/>\n<br/>\nAt the top of the log displayed is a 20 roll with the 11 AB attack. The threat roll is 1d20 + 11.<br/>\n<br/>\nAt the bottom of the log displayed is a 20 roll with the 8 AB attack. The threat roll is 1d20 + 8.<br/>\n<br/>\nAnyway, here's objective solid game-testing evidence to answer your question Web, that the threat roll is the 1d20 + AB of the attack that rolled into the critical range!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:19 AM - Nov 17, 2019",
+      "content": "<div>That is in line with what I found as well when testing a Paladin with a longsword.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:59 PM - Nov 17, 2019",
+      "content": "<div>Once again, thanks everyone!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     }
   ]
 }

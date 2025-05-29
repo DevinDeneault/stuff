@@ -4,29 +4,48 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "057",
-  "name": "Pure class Bard build for Prisoners of the Mist pw server",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/pure-class-bard-build-for-prisoners-of-the-mist-pw-t2354725.html",
-  "author": "blastmaster",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 2,
+  "name": "Help with a wizard for World of Greyhawk",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/help-with-a-wizard-for-world-of-greyhawk-t2354728.html",
+  "author": "Skeleton Pope",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "724",
   "posts": [
     {
-      "author": "blastmaster",
+      "author": "Skeleton Pope",
       "avatar": "no_avatar.png",
-      "timestamp": "11:40 AM - Aug 02, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi, everyone.<br/>\n<br/>\nThat's my first request for an ain with character building. So as name of this topic says - I'd liek to try out pure class bard for Ravenloft based pw server.<br/>\n<br/>\n1) build should be designed for pwm rather then pvp<br/>\n2) lvl cap on the server is 20lvl<br/>\n3) I prefer to play humans, though subraces are implimented on this server (there are +2 cha subraces like star elf and golden dwarf)<br/>\n4) I would like it to be non multiclassed bard. (all prestige classes require to write application on that server, which may be a bit tedious and difficult, also sever have specific multiclassing rules... for example build 16bard/4 fighter - is not viable combination. You can only go with 15bard/5 figher class, which hurts to bard's song progress)<br/>\n5) character should use one handed weapon and shield combined with heavy armor. Also, all characters get knockdown and disarm feats for free on 2nd lvl.<br/>\n6) may situationally use a bow<br/>\n7) as melee weapon, I'd like to use scimitar<br/>\n8) maximum item enchantment on that server is +3 and it becomes available for a later part of character progression (lvl 14+)<br/>\n9) magic would be used primarily for buffing.<br/>\n10) main modification on the server is increased amount of feats gained during lvl ups. Here's feat progression for bards:<br/>\n<table class=\"post_content_table\"><tbody><tr>[th]Level[/th]\n[th]1[/th]\n2[th]3[/th]\n[th]4[/th]\n[th]5[/th]\n[th]6[/th]\n[th]7[/th]\n[th]8[/th]\n[th]9[/th]\n[th]10[/th]\n[th]11[/th]\n[th]12[/th]\n[th]13[/th]\n[th]14[/th]\n[th]15[/th]\n[th]16[/th]\n[th]17[/th]\n[th]18[/th]\n[th]19[/th]\n[th]20[/th]\n</tr>\n<tr><td>Feats</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n</tr>\n</tbody></table>\nbesides bonus feats you also get feats on usual lvls like 3,6,9th, etc.<br/>\n<br/>\nThank you in advance for your help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:39 AM - Aug 08, 2017",
+      "content": "<div>Greetings, after fiddling with my last wizard/bard I decided that the combination was a bit to much work to get going and it lacked the staying power a extremely rest restricted server like world of greyhawk needs.<br/>\n<br/>\nSo currently I am trying to figure out a wizard build that can solo the entire server, if its even possible. I know the bosses are nasty but I think it might be feasible with the proper split.<br/>\n<br/>\nI know many of the folks here are World of Greyhawk veterans, and I have no idea the extent of the defensive stats these legendary epic bosses have on the server. Whether I need spell penetration, crit immunity etc.<br/>\n<br/>\nWoG is decidedly low magic, with a +6 weapon being a legendary item of great power. Im unsure if items like crit immunity exist, but I do know that haste is a property one can gm buy at higher levels.<br/>\n<br/>\nDevastating critical is around, so I would like to include 10 Pale master if possible to stop that in its tracks. Polymorphs are great but sometimes you just need to stay in caster form. Again I don't know what kind of spell pen is needed against some of the stronger mobs, but it seems that WoG doesn't like to 'cheat' stats. So I think beating toolset sr might be enough.\u00a0<br/>\n<br/>\nExpertise has been fixed to no longer work while casting, so its not as much of an autoinclude.<br/>\n<br/>\nCraft wand is a necessity as it is really good on the server and helps with longevity. I would like to include armor in there, but that would probably mean sacking tumble (or maybe not). Traps don't seem super important as a wizard can rely on the pixie to deal with them or just feeding summons onto them with a wand if I spot them. UMD seems like a necesity, as the server is low magic but has an abundance of varied items for its magic level and that would let me keep my gear diverse.<br/>\n<br/>\nThus I think, assuming that its not to feat intensive, a Wizard/palemaster/bard might be my best option, but its the feat intensity might not make it feasible. Im open to dropping palemaster entirely, and relying on golem form to stop dev criticals but the safety net of palemaster is hard to give up.<br/>\n<br/>\nSo a gnome or dwarf Wizard 26/bard 4/palemaster 10 with spell penetration feats would be capable of beating the sr levels I need, achieve heavy armor, and have discipline/tumble/UMD. I think the AC could become very respectable with this setup and WOG tensers or damage shield/polymorphs would allow it to conserve spells. I don't know if the palemaster crit immunity persists through shapechanges, but if it does death slaad form is an interesting grab. Dwarf could reach a more comfortable early str but gnome has alot of interesting strengths to it. The shield bracers on the server make shields less attractive. I believe Elven chain exists on the server to so that could be a good way to pick up some extra AC with UMD before autostill comes into play.<br/>\n<br/>\nAnother interesting split is Wizard 29/bard 3/champion of torm 8<br/>\n<br/>\nAnyway, this is my ramblings on where I should go with this character. I hope you guys aren't to confused and can help me make something capable of soloing the toughest server I've found.<br/>\n<br/>\nRequirements:<br/>\nCraft Wand<br/>\nHigh AC<br/>\nSaves<br/>\nWizard<br/>\nMust use casting to deal with tough battles.<br/>\n<br/>\nIf anyone has experience with the toughest fights on this server, I know its considered bad form to spoil things but a little nudging in the right direction build wise would be extremely appreciated. I'll start posting builds I come up with when I have them fully mathed out, feedback is always appreciated.</div>"
     },
     {
-      "author": "blastmaster",
+      "author": "Kalistez",
       "avatar": "no_avatar.png",
-      "timestamp": "11:41 AM - Aug 02, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Seems copy paste didn't work properly. Here's link to feats progression:\u00a0<a class=\"postlink\" href=\"http://nwnravenloft.wikia.com/wiki/Bard\" rel=\"noreferrer\" target=\"_blank\">http://nwnravenloft.wikia.com/wiki/Bard</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:26 AM - Aug 08, 2017",
+      "content": "<div>I assume you want a fully fledged caster and not a spellsword.<br/>\n<br/>\nIf so the 2 builds that instantly spring to mind are both by GDL, \u00a0The War Wizard (W35F2Ro3) and Mestil's Pale Emmisary W26F4PM10)<br/>\n<br/>\nTyr also has a sorcerer/bg/pm if memory serves (also in the old ecb builds) im pretty sure its called the Sorceror King, and Mick has hia Evil Speed Caster (So35/BG2/Mo3) that can be found in the level 40 builds section <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/evil-speed-caster-sorc-35-monk-3-bg-2-t2319013.html\" rel=\"noreferrer\" target=\"_blank\">here</a><br/>\n<br/>\nI'm posting from my phone so I can't link the older builds but if you download the old ECB search from Neverwintervault.org you should have no trouble finding them.<br/>\n<br/>\nIf not I'll post them when I get home.<br/>\n<br/>\nHave fun !</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:12 PM - Aug 02, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Blastmaster, and welcome on board! Afraid I neither play Ravenloft nor arcane types. However, I believe Mick Dagger has done both, so you might want to wait for him to come along.<br/>\n<br/>\nIn the meantime, have you seen the self-same Mr Dagger's Guide to building Bards? It's in the Guides sub-forum, and well worth a read.<br/>\n<br/>\nAgain, good to have you with us!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:20 AM - Aug 08, 2017",
+      "content": "<div>WoG doesn't have many Dev. Critters but the ones it has they are nasty... What it does have (in spades) are Weapon Masters, and they hit hard, very hard. Tyr's build is nice but he gets his first auto-still feat in 33rd level and that kind of hurts for WoG. Anyway, take a look at my Abjurant Champion Pope, you might like him.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-abjurant-champion-wizard-26-ftr-6-cot-8-t2354353.html\" rel=\"noreferrer\" target=\"_blank\">the-abjurant-champion-wizard-26-ftr-6-c ... 54353.html</a></div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:29 AM - Aug 08, 2017",
+      "content": "<div>I was going to suggest that one along with your <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/battle-sorceress-sorcerer-26-pal-4-cot-10-t2354359.html#unread\" rel=\"noreferrer\" target=\"_blank\">Battle Sorceress</a>\u00a0but I wasn't sure if he was looking for a spellsword or a pure caster.</div>"
+    },
+    {
+      "author": "Skeleton Pope",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:06 PM - Aug 08, 2017",
+      "content": "<div>Hey guys, thank you for the suggestions! Yeah Valerfor those weapon masters even without dev crit are really nasty customers. I wanted to do a pure caster which made me consider sorc for the ammo but in an environment where xp and gold is infinite i feel wizard is a better choice.</div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:56 PM - Aug 18, 2017",
+      "content": "<div><blockquote><div><cite>Skeleton Pope wrote:</cite>\nHey guys, thank you for the suggestions! Yeah Valerfor those weapon masters even without dev crit are really nasty customers. I wanted to do a pure caster which made me consider sorc for the ammo but in an environment where xp and gold is infinite i feel wizard is a better choice.\n</div></blockquote>\n\nBoth are good on WoG - just depends on playstyle. \u00a0Don't forget about the Craft Wand / Potion / Scroll enhancements there that help make up for the rest restrictions (if you have the gold and xp to spare).</div>"
     }
   ]
 }

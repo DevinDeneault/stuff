@@ -4,143 +4,98 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "768",
-  "name": "Terrifying Bane (Ranger 22/ Barbarian 16/ SD 2)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/terrifying-bane-ranger-22-barbarian-16-sd-2-t2355227.html",
+  "name": "KISS - Champion of Mother War (Fighter 8/ WM 22/ CoT 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/kiss-champion-of-mother-war-fighter-8-wm-22-cot-10-t2355233.html",
   "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 21,
+  "replies": "12",
+  "views": "1.4K",
   "posts": [
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:39 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I think I've overextended my reach here, though it may be that I've simply made some poor choices (yes, again).<br/>\n<br/>\nI wondered if there was a viable way bring together those two great outdoorsmen, Ranger and Barbarian, and make use of their respective specialities - Bane of Enemies and Terrifying Rage. Turns out you can, but my results so far have been pretty ugly - the AC and saves make for particularly grim reading. It could be that going for a STR build rather than a DEX one was my first dumb idea. Maybe a DEX/CON tank would have been a better way forward. Or maybe I'm just looking for too much in a feat-starved build (no bonus feats at all - I'm not counting FEs, as they're kind of necessary for Bane to work). Oh, and SD is used rather than Rogue because I don't like xp penalties. And yes, I sacrificed Ranger spells, perhaps misguidedly.<br/>\n<br/>\nAny advice would be welcome - including \"Bin it, it'll never fly\".<br/>\n<br/>\nAnyway, this is where I currently am...<br/>\n<br/>\nRANGER 22/ BARBARIAN 16/ SD 2<br/>\nHuman, non-lawful<br/>\n<br/>\nSTR 16 (28)<br/>\nDEX 13<br/>\nCON 16<br/>\nWIS 8<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\n1 B1 - Expertise/ WF: Hand-axe/ (Rage1/ Barb Speed)<br/>\n2 R1 - (Dual-Wield/ FE I/ Trackless Step)<br/>\n3 R2 - Dodge<br/>\n4 R3 - STR+1 (17)<br/>\n5 R4<br/>\n6 R5 - KD/ (FE II)<br/>\n7 R6 - (Animal Companion)<br/>\n8 R7 - STR+1 (18)<br/>\n9 R8 - Blind Fight<br/>\n10 R9 - (ITWF)<br/>\n11 B2 - (UD I)<br/>\n12 B3 - IKD/ STR+1 (19)<br/>\n13 B4 - (Rage2)<br/>\n14 B5<br/>\n15 R10 - ICrit/ (FE III)<br/>\n16 R11 - STR+1 (20)<br/>\n17 R12<br/>\n18 R13 - Mobility<br/>\n19 R14<br/>\n20 R15 - STR+1 (21)/ (FE IV)<br/>\n21 R16 - EWF: Hand-axe<br/>\n22 SD1 - (HiPS)<br/>\n23 R17<br/>\n24 R18 - STR+1 (22)/ ASkin<br/>\n25 R19<br/>\n26 R20 - (FE V)<br/>\n27 R21 - BoE <br/>\n28 B6 - STR+1 (23)<br/>\n29 B7<br/>\n30 B8 - GStr I (24)<br/>\n31 B9<br/>\n32 B10 - STR+1 (25)<br/>\n33 B11 - GStr II (26)/ (DR 1/-)<br/>\n34 B12<br/>\n35 B13<br/>\n36 B14 - STR+1 (27)/ Epic Prowess/ DR 2/-)<br/>\n37 SD2<br/>\n38 R22<br/>\n39 B15 - Terrifying Rage/ (GRage4)<br/>\n40 B16 - STR+1 (28)/ (GRage5)<br/>\n<br/>\nHPs - 548<br/>\nAC - 21 (naked)<br/>\nSaves - F 26/ W 15/ R 17<br/>\nBAB - 30<br/>\nAB (melee) - (max) 43/ (D-W) 41<br/>\nSkill points - 262. Disc 43 (52), Hide 41 (42), Int 43 (42), MS 41 (42), Tum 40 (41). Plus one of Listen 43, Spot 41, Taunt 43. If Spot is taken, can cc 4 (5) points in Spellcraft. If not, 6 spare. Note that the Tumble actually needs to input 45 points, as the 5 required for SD are cross-classed.<br/>\n<br/>\nTerrifying Rage has a DC of 42+d10.<br/>\nGreater Rage lasts 12 rounds and gives +6 Str+Con, +3 Will, -2 AC.<br/>\nFE V gives +5 damage and +5 Listen/Spot/Taunt.<br/>\nBane of Enemies gives +2AB and +2d6 damage.<br/>\n<br/>\nPlease feel free to laugh...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:49 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Could be interesting!<br/>\n<br/>\nI'll take it for a spin!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:27 PM - Nov 12, 2019",
+      "content": "<div>I've gone back to basics here (Keep It Simple, Stupid). No messing about trying to be clever, no tricks up its sleeve. It's a straight-up grunt build designed to hit things often and hard. No bells and whistles. I have, however, tried to mitigate horrid saves with the use of CoT, and the AC isn't absolutely disastrous, which I'd feared. It's still far from stellar, but liveable with, hopefully. (And sorry, GDL, I'm still wedded to my Disciplinary whore - make of that what you will...).<br/>\n<br/>\nI would, however, appreciate any thoughts from the Guild (else I wouldn't have posted it).<br/>\n<br/>\n<em><strong>EDIT:</strong> Amended to incorporate helpful suggestions and corrections as at 13/11/2019</em><br/>\n<br/>\n<strong>Champion of Mother War</strong><br/>\nFighter 8/ WM 22/ CoT 10<br/>\nHuman, non-evil<br/>\nPvM 1-40 (not tested yet)<br/>\n<br/>\n<strong>Stats</strong><br/>\nSTR 17 (34)<br/>\nDEX 13<br/>\nCON 14<br/>\nWIS 8<br/>\nINT 14<br/>\nCHA 8<br/>\n<br/>\n<strong>Levelling</strong><br/>\n1 F1 - Luck of Heroes/ Power Attack/ Cleave<br/>\n2 F2 - Weapon Focus: Scimitar<br/>\n3 F3 - Dodge<br/>\n4 F4 - STR+1 (18)/ Weapon Specialization: Scimitar<br/>\n5 F5<br/>\n6 F6 - Expertise/ Knockdown<br/>\n7 F7<br/>\n8 CoT1 - STR+1 (19)<br/>\n9 CoT2 - Mobility/ Spring Attack<br/>\n10 CoT3<br/>\n11 CoT4 - Whirlwind Attack<br/>\n12 WM1 - STR+1 (20)/ Blind Fight/ (WoC: Scimitar)<br/>\n13 WM2<br/>\n14 WM3<br/>\n15 WM4 - Imp Crit: Scimitar<br/>\n16 WM5 - STR+1 (21)<br/>\n17 CoT5<br/>\n18 CoT6 - Great Cleave/ Imp Knockdown<br/>\n19 WM6<br/>\n20 CoT7 - STR+1 (22)<br/>\n21 WM7 - GStrI (23)<br/>\n22 CoT8 - Overwhelming Critical: Scimitar<br/>\n23 WM8<br/>\n24 WM9 - STR+1 (24)/ GStrII (25)<br/>\n25 F8 - Devastating Critical: Scimitar<br/>\n26 WM10<br/>\n27 WM11- GStrIII (26)<br/>\n28 WM12 - STR+1 (27)<br/>\n29 WM13 - Epic WF: Scimitar<br/>\n30 WM14 - GStrIV (28)<br/>\n31 WM15<br/>\n32 CoT9 - STR+1 (29)<br/>\n33 CoT10 - GStrV (30)/ Epic WS: Scimitar<br/>\n34 WM16 - Armour Skin<br/>\n35 WM17<br/>\n36 WM18 - STR+1 (31)/ GStrVI (32)<br/>\n37 WM19 - Epic Prowess<br/>\n38 WM20<br/>\n39 WM21 - GStrVII (33)<br/>\n40 WM22 - STR+1 (34)/ Epic Toughness I<br/>\n<br/>\nHit Points: 500<br/>\nAC: (naked) 17, (full plate + tower shield) 28<br/>\nSaves: Fortitude 30, Will 21, Reflex 29. +4 vs spells<br/>\nBAB: 30<br/>\nAB: (max) (melee) 50/45/40/35, (ranged 32)<br/>\nDamage: (scimitar) 1-6 + 18 (Crit 13-20, 10-20 with keen, x3)<br/>\nDev Crit DC: 42 (unbuffed)<br/>\nSkill Points: 215. Discipline 43 (55), Intimidate (cc) 4 (3), Listen 43 (42), Open Lock 1 (2), Search (cc) 19 (21), Spellcraft (cc) 18 (20), Tumble (cc) 20 (21), 5 points in either Heal (4) or Lore (7).<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:20 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, thank you very much Web!<br/>\n<br/>\n\"Interesting\" was pretty much what I thought, too. Just a cautionary note/disclaimer about taking it for a spin: please bear in mind that the build only exists currently as paper and pencil on my desk (and as typed out above, obviously). I'm pretty old skool. Hence my asking for thoughts. And atm, who knows, my sums might also not add up (wouldn't be the first time). Still, any feedback would be welcome!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:36 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok, my first \"impression\" - I think this build may be better as a Dexer.<br/>\n<br/>\nI mean, Rage pumps Str for those times one needs damage output (important for a Dexer), and all that Str is not really being utilized here optimally imo.<br/>\n<br/>\nFor example, a two-hander would output a lot more damage, and as the build is not a dev crit build, and uses two-weapon fighting, it seems to me that DeX would be better (esp. for HiPS).<br/>\n<br/>\nBesides, BoE also gives a good damage boost as well.<br/>\n<br/>\nI don't know, it just seems like this build wants to go DeX.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:02 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Web. I was coming to a similar conclusion, and was about to embark on a first draft when I took a look here first. Clearly, I'd have to get Finesse in there somewhere, so I expect either Expertise or IKD would have to go. I'm also considering dropping the final level of Barb for another one of Ranger. It's balancing the loss of 1 Greater Rage with gaining 1 more Favoured Enemy, but given Terrifying Rage comes so late it might be worth it.<br/>\n<br/>\nThanks again for giving it a look, though!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:45 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just threw out Armored Skin.<br/>\n<br/>\nThis build has Dex, so the AC is already good (grab some +12 Dex stuff and party on, dude!).<br/>\n<br/>\nI'm now testing the Dex build on WoG (offline).<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:24 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, the build performs well as Dexer. <br/>\n<br/>\nWhat I miss are more Rages - why can't one get a feat like \"extra rages\" like clerics, pallys and BGs get with extra turning?<br/>\n<br/>\nI can say that for the most part, those terrifying rages do their part!<br/>\n<br/>\nI do miss the Ranger Spells :(<br/>\n<br/>\nOtherwise, a nice build, as dexer really sneaky.<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:41 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You work fast, my man!<br/>\n<br/>\nI thought I'd have my dinner before coming back to it. Sorry!<br/>\n<br/>\nAs far as Ranger spells go, it's quite ok to drop Con down to 14 and start Str at 12 (with Dex staring at 16) and taking 14 in Wis. It's only a dispensation for you, though, as a friendly helper. None of the rest of you can use it, alright? (Just me digging my heels in on casting again <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />)<br/>\n<br/>\nI'll do some polishing and refining and come up with something better than the OP...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:47 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"17619\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=17619&amp;sid=72ebca0c30ab9b1d1fbdf490496e9444#p17619\">\u2191</a><div class=\"responsive-hide\">Nov 07, 2019</div></cite>\nWhat I miss are more Rages - why can't one get a feat like \"extra rages\" like clerics, pallys and BGs get with extra turning?\n</div></blockquote>\nLike the thought! Maybe call them \"more crossness\". In fact, make greater rage into \"very cross\", and mighty rage into \"now you're just showing off\" while we're at it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "9:40 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would recommend changing the level spread to either Rang23/Barb15/SD2 or Rang21/Barb17/SD2.<br/>\nRang23 gives an extra feat at the cost of a rage use, Barb17 gives 1 DR at no cost.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:10 PM - Nov 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Yunim. I agree. I think, particularly with only getting Terrifying Rage so late and now taking it down a Dex direction, a 6th FE would be of greater merit. So I am indeed looking at Rgr23/Barb15/SD2.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "6:21 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Stag!<br/>\nGreat to see another build from you again!<br/>\nI like the concept of these two underutilised classes being put together into a build<br/>\nI like the usage of shadowdancer to help with crowd control management against opponents who do not have true sight, and to access tumble as a class skill for extra AC<br/>\nThe HP over 500 seems very high for a stealthy build, it certainly helps with survivability<br/>\nThe will save is a bit tricky. Without UMD for scrolls of lesser mind blank / mind blank, mind affecting spells and abilities would be quite effective against this build. one will either be reliant on an item to manage this (such as the lesser belt of guiding light, or the fabled golden circlet) or clarities. In environments where such items exist the will save is less of an issue and in a party situation this won't matter if a mage can buff you up<br/>\nGoing dex would free up a lot more starting stat points and help with stealth skills, whether or not it is optimal I do not know<br/>\nI have a few suggestions, purely based on personal preferences, and are minor tweaks at most, and one must note both ranger and barbarian are my least played classes, an ending base AB of 43 (41 dual wielding) should be more than satisfactory to do what is needed, along with improved knockdown and blind fight\u00a0<br/>\n<details><summary>Spoiler</summary>This is what it might look like with half-orc, strength based, with wis 14 for ranger spells like camoflage. I suspect you may want more skill points...\nBarbarian(15), Ranger(23), Shadowdancer(2), Half-Orc\nSTR: 18 (30)\nCON: 10\nINT: 12 (13)\n\n01: Barbarian(1): Weapon Focus: Handaxe\n03: Ranger(2): Dodge\n05: Ranger(4)\n07: Ranger(6)\n09: Ranger(8): Blind Fight\n11: Barbarian(2): {Uncanny Dodge I}\n13: Ranger(11)\n15: Ranger(13): Expertise\n17: Barbarian(3)\n19: Barbarian(5)\n21: Ranger(15): Toughness, Epic Weapon Focus: Handaxe\n23: Ranger(16)\n25: Ranger(18)\n27: Ranger(20): Great Strength I, Favored Enemy IV, (STR=24)\n29: Barbarian(8)\n31: Barbarian(9)\n33: Barbarian(11): Great Strength II, (STR=27)\n35: Barbarian(13)\n37: Shadowdancer(2): {Evasion}\n39: Barbarian(15): Terrifying Rage\n\nSkillpoints: 219\nSaving Throw bonuses: Traps: +3\nAB (max, naked): 44 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Intimidate(4), Save(16),\u00a0\n03: Save(26),\u00a0\n05: Save(36),\u00a0\n07: Save(46),\u00a0\n09: Save(56),\u00a0\n11: Intimidate(10), Save(56),\u00a0\n13: Save(66),\u00a0\n15: Save(76),\u00a0\n17: Intimidate(6), Save(80),\u00a0\n19: Intimidate(1), Save(88),\u00a0\n21: Hide(10), Move Silently(10), Tumble(5), Save(68),\u00a0\n23: Save(60),\u00a0\n25: Save(70),\u00a0\n27: Save(80),\u00a0\n29: Intimidate(1), Save(80),\u00a0\n31: Intimidate(1), Save(89),\u00a0\n33: Intimidate(1), Save(97),\u00a0\n35: Intimidate(1), Save(105),\u00a0\n37: Hide(30), Move Silently(30), Tumble(15), Save(41),\u00a0\n39: Intimidate(4), Save(45),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:23 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A Half-Orc sneaker? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nIncredible!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "6:45 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Such a terrifying build has to be ugly, so half-orc has to have style points here from an RP perspective, tall, muscular and ugly is how we like it...<br/>\nIn addition I realised getting Exotic Weapon Proficiency and taking either Two Bladed Sword or Double Axe might be nice here.<br/>\nNot only from a half-orc RP perspective but also one can take Improved Disarm and disarm opponents with impunity with a large weapon, whilst dual wielding. 6 improved disarm attempts per round with\u00a0 large weapon means any non-large weapon wielder is more than likely not going to be holding a weapon<br/>\nSadly the feat is a little feat starved but I did find room for toughness so it could be done<br/>\nIf Stag's build has the ranger spell cats grace and a dex of 14 it should be able to hit the Dex Attribute Modifier of 8 when capped (26), allowing usage of padded armor (1+8) with maximum effectiveness combined with Barbarian's uncanny dodge to protect the Dex AC<br/>\nThe only thing I dont like about the half-orc verion is the lack of skill points so no trapsetting skills or taunt with such a large investment into stealth skills already<br/>\nHuman might be more optimal overall for the skill points, if one went human I wouldn't mind dropping some Cons for Wis though for the ranger spells and to pump the will save a little, 400hp+ would be more than enough I reckon for a HiPSer (perhaps the more experienced HiPSers out there might comment)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:50 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On WoG Rangers get extra skill points.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "7:03 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good point Web! Allowing one to max both taunt and add a whole bunch of trapping skills to the build with no effort!<br/>\n<br/>\nNot a bad idea to try out WoG !\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:06 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So a Half-Orc sneaker, dexer, trapper, taunter!<br/>\n<br/>\nTalk about turning the world on it's head!<br/>\n<br/>\nAnd with Wis based spells! O_0<br/>\n<br/>\nYeah, that's me blubbering over there in the corner!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:47 AM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Interestingly enough, I'd had a look at a STR-based Half-Orc before posting the OP. The opening stats I worked from were STR 18 (30), DEX 14, CON 14, WIS 8, INT 13, CHA 6. The AB was the same as yours, Orion, but obviously no spells. The reason I pumped CON (as in the OP) was mostly for the duration of raging (CON modifier + 7 rounds + 2 more rounds in greater rage).<br/>\n<br/>\nThe biggest problems I had were 1. Skills - as you mention in your build, and 2. Even greater feat-starvation. You got around that by using Ranger bonus feats for EWF and EP, as well as losing Imp Crit. However, I wanted to use as many FEs as possible to maximise Bane and the FE bonuses. A bit swings and roundabouts, really.<br/>\n<br/>\nIt's kind of reassuring that folk can walk similar paths, though!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:28 PM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm made adjustments for extra cons and extra favored enemies what do you think about Half-orc Str 16(26) dex 14 con 14 wis 14 int 12(13) cha 6 version<br/>\n<br/>\nI put in improved disarm because I like it but if you don't, then drop disarm and improved disarm for\u00a0 improved knockdown and armor skin or two great strengths<br/>\nOr drop exotic weapon proficiency for something else if you don't like two-bladed sword<br/>\n<br/>\nby the way, is terrifying rage good? I wouldn't mind being educated here<br/>\n<br/>\nby the way my skill schedule is a bit trashy right now and not quite up to ECB standards I will edit it when I have time<br/>\n<details><summary>Spoiler</summary>Barbarian(15), Ranger(23), Shadowdancer(2), Half-Orc\nSTR: 16 (26)\nCON: 14\nINT: 12 (13)\n\n01: Barbarian(1): Weapon Proficiency Exotic\n03: Ranger(2): Weapon Focus: Two-bladed sword\n05: Ranger(4)\n07: Ranger(6)\n09: Ranger(8): Blind Fight\n11: Barbarian(2): {Uncanny Dodge I}\n13: Ranger(11)\n15: Ranger(13): Dodge\n17: Barbarian(3)\n19: Barbarian(5)\n21: Ranger(15): Disarm, Favored Enemy IV\n23: Ranger(16)\n25: Ranger(18)\n27: Ranger(20): Epic Weapon Focus: Two-bladed sword, Favored Enemy V\n29: Barbarian(8)\n31: Barbarian(9)\n33: Barbarian(11): Epic Prowess\n35: Barbarian(13)\n37: Shadowdancer(2): {Evasion}\n39: Barbarian(15): Terrifying Rage\n\nSkillpoints: 219\nSaving Throw bonuses: Traps: +3\nAB (max, naked): 42 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Intimidate(4), Save(16),\u00a0\n03: Save(26),\u00a0\n05: Save(36),\u00a0\n07: Save(46),\u00a0\n09: Save(56),\u00a0\n11: Intimidate(10), Save(56),\u00a0\n13: Save(66),\u00a0\n15: Save(76),\u00a0\n17: Intimidate(6), Save(80),\u00a0\n19: Intimidate(1), Save(88),\u00a0\n21: Hide(10), Move Silently(10), Tumble(5), Save(68),\u00a0\n23: Save(60),\u00a0\n25: Save(70),\u00a0\n27: Save(80),\u00a0\n29: Intimidate(1), Save(80),\u00a0\n31: Intimidate(1), Save(89),\u00a0\n33: Intimidate(1), Save(97),\u00a0\n35: Intimidate(1), Save(105),\u00a0\n37: Hide(30), Move Silently(30), Tumble(15), Save(41),\u00a0\n39: Intimidate(4), Save(45),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:54 PM - Nov 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On WoG, Terrifying Rage is <em>HELLA</em> good!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:36 PM - Nov 12, 2019",
+      "content": "<div>Been having a little think, and maybe a F8/WM22/CoT10 split might work better. If I took Fighter 8 at level 20, I could take Great Cleave then, and IKD at level 18. It would then mean delaying EWF, EWS, AS, EP, OCrit and DCrit by one level each, then taking WM from level 32 until the end. That would nett me +1 AB and IKD, at the cost of -3 to Will, -5 to Reflex and -1 to Fortitude saves. Does that sound better?</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Grimnir",
       "avatar": "10235237_1517392314.jpg",
-      "timestamp": "10:41 PM - Nov 12, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How can you NOT like a character with both Terrifying Rage and BoE? Actually, dual-wielding might not be so bad, even in a STR build. BoE will put your damage really high. HiPS will assure that you always get attacks on flat-footed if you time it right. I would try to get better WISDOM. There are som nice spells in there. I might check out this build a little, see what an old-timer ranger can get out of it. It appeals to me!<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:37 PM - Nov 12, 2019",
+      "content": "<div>Sometimes it's good to just put on your Heavy Metal and deliver the punishment without bullshit. It just feels sooo good. A little effort to mitigate some weaknesses and you're good. Everyone has at some point played a guy like this. And it's fun. That crit range is awesome. Just wish there was way to switch between using the scimmy with shield and twohanded like in later editions, and it would be really great. Good fun. Not much to add, it's pretty straight forward for what you want!<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:51 PM - Nov 12, 2019",
+      "content": "<div>Hi Stag!<br/>\n<br/>\nAnother build to read from the ECB, hooray!<br/>\nA great start to the day for me, not only is there a new GDL build, GDL build commentary but now Stag has created a dev critting monster for us to review.<br/>\n<br/>\nI like the concept, I like the use of three classes pre-epic to maximise on saves, which CoT enhances further. I like the use of the bonus feats epic to obtain seven great strength feats. I like pumping WM levels sky high to get a very high melee AB.<br/>\nI agree the Fighter 8/WM 22 /CoT 10 split is probably better, as you gain an extra feat and +AB getting up to that magic 50 AB number, which will also help with crit threat rolls and hitting with your fourth attack, also allowing you to have expertise or power attack constantly active if desired depending on the situation.\u00a0<br/>\nOne of the challenges with WM is trying to minimise the number of epic toughness feats which I think you do well.\u00a0<br/>\nI have a tendency to take Epic Prowess and Armor Skin (if I take armor skin) pretty late in builds which probably reflects WoG influence on me, in builds such as Aielund etc taking those feats earlier as you do, is solid.<br/>\n<br/>\nI have some small comments to make which are purely minor tweaks and make little difference to the overall power in this build but I have listed them here in case you were interested<br/>\n<details><summary>Spoiler</summary>With two prestige classes in your build plus a whole bunch of bonus fighter/CoT feats to obtain weapon master pre-epic, you do have the option of choosing any race you wish without worrying about multiclass penalties. I guess there are a few choices depending if you want to stick with sword and shield (which is good here as some extra AC is very much desirable, also protects against knockdown and crits) or to go two handed (which is also good here for extra strength damage in case dev crit doesn't proc or is nerfed/disabled in modules)\nChoices include Gnome to wield that scimitar in two hands, for extra +1AC, extra HP (or another stat for you to choose as you wish), or Halfling for two handed scimitar usage, extra AC and +1 extra saves (at the cost of some HP).\u00a0Dwarf is another nice choice here for extra HP, and to boost saves against spells, Cha would be dropped to 6, not sure if this affects your CoT abilities, you probably will know the answer to that, also sometimes dwarf is not always the best RP wise. Elf would grant Keen Senses to make the most out of your Spot skill, one would lose a little HP which can be worked around.\nSmall races are very cute and very fun to play from an RP perspective, even if there are penalties to knockdown checks and being unable to wield large weapons. I was partying with BlackCobra in WoG the other day with a dex halfling fighter/rogue and it was super cute for a little pretty halfling lass to be tanking for a big bad tall human cleric standing at the back shooting with a crossbow. I remember Cornflower recently posting it was funny to watch a small gnome improved knockdown larger opponents with an ultra high AB score when he was playing a Fighter RDD. Mick has taught me with such small races it is important to get improved knockdown which I will need to game test one day.\nIf you want to stay human and have extra skill points you could always drop Int to 13 and put Dex to 14, to give the character some ranged AB and a little flexibility in equipping a chain shirt with an appropriate Dex bonus, also helps with the reflex save\n</details>\n\nAnyway nice one!<br/>\n<br/>\nFinally if the readers need some music whilst reading Stag's build...\u00a0<br/>\n<br/>\n<span data-s9e-mediaembed=\"youtube\" style=\"display:inline-block;width:100%;max-width:640px\"><span style=\"display:block;overflow:hidden;position:relative;padding-bottom:56.25%\"><iframe allowfullscreen=\"\" scrolling=\"no\" src=\"https://www.youtube.com/embed/?list=PLg6tYYDm8NjlQFe0FyHhVnit2Im-tRe_c\" style=\"background:url(https://i.ytimg.com/vi//hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%\"></iframe></span></span></div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:05 PM - Nov 12, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Grimnir, I would be delighted if you'd take a look, thank you.<br/>\n<br/>\nI've now had a look at the way-back-when files, and your own\u00a0<a class=\"postlink\" href=\"http://file///F:/Neverwinter%20Nights/builds/data/build249743.html\" rel=\"noreferrer\" target=\"_blank\">Bloodred Vengeance</a>\u00a0 stands at grand heights. Assassin would indeed be a sensible choice, but I'm crap at evil - and I have tried (just ask my friends and family), so anything you can bring would be hugely appreciated.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:56 PM - Nov 12, 2019",
+      "content": "<div>Thanks a lot Orion! I think I'm now settled on the F8/WM22/CoT10 (I still get to keep Will saves at 20 - it's one of those landmarks for me). I have been thinking about dwarf instead of human, because, well, why wouldn't you? But it comes down to that extra feat (and the same is true of other races). So, loath or despise it, human seems optimal. I do quite like the Dex/Int changeover, though (and it would save me having to work out where to put those extra skill points - like in cross-classing Search/ OLock/ DTrap and so on). Oh, and if I'm going late-end WM, I'd go Listen rather than Spot. Personal preference.<br/>\n<br/>\nAnd thanks for the vid - I remember it well! Always felt sorry for Peter Criss as the Catman behind the drums. The successors to The Sweet and Mott The Hoople in my book.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:49 AM - Nov 13, 2019",
+      "content": "<div>You are missing the Mobility feat required for WM (and required for Spring Attack).</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:18 AM - Nov 13, 2019",
+      "content": "<div>Yup, I would say drop LoH and go with another feat, so that Mobility can be picked up.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:14 PM - Nov 13, 2019",
+      "content": "<div>Oh, for goodness' sake - thanks Empyre! Don't know how that one slipped by me (though my guess would be incompetence).<br/>\n<br/>\nRather than drop LoH, I've re-jigged the split so it's now Fighter 7/ CoT 7/ WM 6 pre-epic and Fighter 1/ CoT 3/ WM 16 in epic levels. Nett result: a slight dip in the saves and the loss of 20 hps, but +1 to AB, so hoorah!<br/>\n<br/>\nRather than type the lot out again, I'm going to edit the OP. See if it works for you. Sorry if it makes the discussion to date look a bit weird, but I'll credit the <span style=\"text-decoration:line-through\">guilty</span> helpful suggestions and amend the title.<br/>\n<br/>\nOh, and I'm not terribly up to speed with my open locks, search, and disable traps targets, so any advice is welcome there.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:12 PM - Nov 13, 2019",
+      "content": "<div>Man dont be so hard on yourself I've read plenty of builders make simple errors but hehe thats the purpose of peer review!<br/>\n<br/>\nWith the remaining 45 skills points I think it depends on the environment and whether you have a rogue or even a wizard in your party<br/>\n<br/>\nIf the knock spell and find traps work like in vanilla NWN, and you have items that can cast this that don't require UMD then there is no real need to invest in this, unless one gains exp from disarming traps (like in Aielund). Likewise if there are no penalties for bashing open doors or chests with power attack open lock becomes less useful, however there are modules where the contents of chests gets degraded when bashed...<br/>\n<br/>\nSearch is useful for finding hidden doors and identifying the traps in the first place. For an environment like WoG I was told by Knight of Limbo to aim for a modified search score of 10 and I've just stuck with this out of habit. It seems to work in WoG for what I need at least, although a little more search I think would be handy<br/>\n<br/>\nIf it was up to me I would probably put a few points in search to get a modified score of 10 and put some points in heal.<br/>\n<br/>\nYou could also put a few more crossclassed points into spellcraft 21(23) if you wanted for better saves provided you have an item with either +int (ie fox's cunning) or +spellcraft (ie bard song) but I'm not sure that is necessarily the best choice.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:42 PM - Nov 13, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Nov 13, 2019</div></cite>Oh, and I'm not terribly up to speed with my open locks, search, and disable traps targets, so any advice is welcome there.</div></blockquote>\nAs for Open locks: There are few if any standards here. The module designer makes the locks as hard as he wants.<br/>\nOpen lock is a \"take 20\" skill. If you only take <strong>one single rank</strong> (and have a dex of 13), you will be able to open locks with a DC of 22. If you use dex buffs and thieves' tools you can reach the high 30's. You have no spellcaster- or UMD class in this build, but there are still standard items that let every class use the Knock spell.<br/>\nAn alternative \"target\" for opening locks is to bash them. A large weapon with high base damage, a high strength and the Power attack feat are helpful here.\u00a0 So is also elemental weapon damage if the damage resistance of the container is high.<br/>\n<br/>\nThe target for search depends on several factors. If the trap is set by a player, the Set trap skill of that player is added to the DC, and the traps soon become impossible to detect. If you play a module, the DC of the traps may be altered by the module builder.<br/>\nBut most often you encounter standard traps with standard DCs.\u00a0<br/>\nThe Search skill is not a \"take 20\" skill, so you roll a d20 and the result may be anything from 1 to 20 (+ your skill rank). You roll once every round, twice if in active detect mode.<br/>\nThe DC of the most difficult standard deadly traps is 22. If your modified skill rank is 2, you will need to roll a 20 to detect the trap. It may take a while. If your modified rank is 21, you will always detect the trap on your first attempt, even when you roll a 1.\u00a0 So there is no need to go any higher than a modified rank of 21.<br/>\nThe DC for epic traps is 43. Only rogues can detect traps with a DC higher than 35, so you don't need to bother with this build.<br/>\n<br/>\nDisable traps is a \"take 20\" skill. If the trap is set by a player, the Set trap skill of that player is added to the DC. If you play a module, the DC of the traps may be altered by the module builder.\u00a0<br/>\nThe most difficult standard deadly traps have a disarm DC of 36. You only need a modified rank of 16 to disarm them (because of the \"take 20\"). Now only rogues can disarm traps with a DC above 35. So if you have no rogue levels and want to \"disarm\" the traps with a DC of 36, you have to recover them instead. Recover has (for some odd reason) no DC limit for non rogue characters. To be able to recover traps with a disarm DC of 36, you have to deal with a DC of 46. So you will need 26 modified ranks to recover them.<br/>\nOf course you can use a Find traps spell instead if you have it available. You can also \"disarm\" floor traps by stepping on them and hoping for a successful save, or spawning a summoned creature on them.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:23 PM - Nov 13, 2019",
+      "content": "<div>Many thanks for clearing that up for me, Mick.<br/>\n<br/>\nAnnoyingly for this build, I've enough \"spare\" skill points to get a modified Search of 21 and then have only 7 points left (3 cross-classed, with 1 spare) to try and do anything about what I've found. It's good ol' fashioned \"find trap, save, pray for a save, blow up, reload, repeat until not dead\" time again! Or have a friendly rogue nearby, of course.<br/>\n<br/>\nSo (and I'll edit the OP now) I'll go for Search (cc) 19 (21), Open Lock (cc) 1 (2), then 5 left for either Heal (4) or Lore (7).<br/>\n<br/>\nOh, and @Orion, you mentioned Aielund earlier. It's a non-Dev Crit module, so this build would need a fair few changes before venturing there. One of those changes would involve taking some Concentration, as there are a fair few baddies who use Taunt.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:11 PM - Nov 13, 2019",
+      "content": "<div>Hmm Stag just wondering what your thoughts were on a Fighter 8 CoT 4 WM 28 split. Fighter 7 CoT 3 WM 10 pre-epic. Take 1 fighter level and 1 CoT epic whenever you want a bonus combat epic feat. It has a base AB of 53 now.\u00a0<br/>\n<br/>\nThe will save is dropped to 17 which you might not like. Maybe you might find a way around it? One could drop a little AB to get like an epic will feat for +4 + another feat of your choice, could be a skill focus, toughness, epic energy resistance....\u00a0<br/>\n<br/>\nHeh I'd also like improved knockdown earlier but I've gotta go to work now I've finished my cup of coffee in the morning lol, I have no doubt you can make adjustments to make it work<br/>\n<br/>\nAnyway this is what I came up with. Very crude draft<br/>\n<details><summary>Spoiler</summary>Fighter(8), Champion of Torm(4), Weapon Master(28), Human\nSTR: 17 (34)\nCON: 14\nINT: 14\n\n01: Fighter(1): Dodge, Expertise, Mobility\n03: Fighter(3): Weapon Focus: Scimitar\n05: Fighter(5)\n07: Weapon Master(1): Weapon of Choice: Scimitar\n09: Champion of Torm(2): Knockdown, Improved Critical: Scimitar\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Cleave\n17: Weapon Master(9)\n19: Fighter(7)\n21: Weapon Master(11): Great Strength I, (STR=23)\n23: Weapon Master(13): Overwhelming Critical: Scimitar\n25: Weapon Master(15)\n27: Weapon Master(17): Great Strength III, (STR=26)\n29: Weapon Master(19): Epic Weapon Focus: Scimitar\n31: Champion of Torm(4): Improved Knockdown\n33: Weapon Master(21): Great Strength V, (STR=30)\n35: Weapon Master(23)\n37: Weapon Master(25): Armor Skin\n39: Weapon Master(27): Great Strength VII, (STR=33)\n\nSkillpoints: 215\nSaving Throw bonuses:\u00a0\nAB (max, naked): 53 (melee), 32 (ranged)\nSpell Casting:\u00a0\n\n</details></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:46 AM - Nov 14, 2019",
+      "content": "<div>Actually a Fighter 6 /CoT 6 / WM 28 split would be more optimal in terms of saves (F6CoT4WM10 pre epic), you don't need any more bonus epic feats and it allows for improved knockdown pre epic.<br/>\n<br/>\nAnyway just posting in the spirit of a suggestion that might improve your build!</div>"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

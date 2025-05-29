@@ -8,19 +8,20 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/sands-of-fate-bugged-on-me-need-help-t2356321.html",
   "author": "wanderei",
   "avatar": "no_avatar.png",
-  "replies": 1,
+  "replies": "1",
+  "views": "140",
   "posts": [
     {
       "author": "wanderei",
       "avatar": "no_avatar.png",
       "timestamp": "7:45 PM - Mar 18, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So recently I have been playing my imported character from Lord of Terror module into Sands of Fate. I have arived to the point when I exposed Merchant Guildmaster and killed him. After killing him I went stairs down and killed guards.. then went lower level and killed guards but not merchants - they were neutral towards me. I then went into stables and for some reason Ox'es in the pen were hostile and my henchman killed them (not sure why Ox'es were hostile..). I made stupid mistake and quicksaved only to discover that entire town is hostile towards me..<br/>\n<br/>\nI would like to fix it with console command. But I had no luck, im not sure what to type.<br/>\nI guess its dm_setfactionreputation &lt;faction1&gt; &lt;faction2&gt; &lt;x&gt; command. But Im lost what to really type there.<br/>\n<br/>\nAny help would be nice!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>So recently I have been playing my imported character from Lord of Terror module into Sands of Fate. I have arived to the point when I exposed Merchant Guildmaster and killed him. After killing him I went stairs down and killed guards.. then went lower level and killed guards but not merchants - they were neutral towards me. I then went into stables and for some reason Ox'es in the pen were hostile and my henchman killed them (not sure why Ox'es were hostile..). I made stupid mistake and quicksaved only to discover that entire town is hostile towards me..<br/>\n<br/>\nI would like to fix it with console command. But I had no luck, im not sure what to type.<br/>\nI guess its dm_setfactionreputation &lt;faction1&gt; &lt;faction2&gt; &lt;x&gt; command. But Im lost what to really type there.<br/>\n<br/>\nAny help would be nice!</div>"
     },
     {
       "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
       "timestamp": "4:30 PM - Mar 22, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I know nothing about the console, but\u00a0\n<details><summary>Spoiler</summary>The Merchant Guildmaster is supposed to die there.\u00a0 He has to escape.\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I know nothing about the console, but\u00a0\n<details><summary>Spoiler</summary>The Merchant Guildmaster is supposed to die there.\u00a0 He has to escape.\n</details></div>"
     }
   ]
 }

@@ -4,23 +4,126 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "088",
-  "name": "Refresh my memory please - Deathless Vigor HP gain.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/refresh-my-memory-please-deathless-vigor-hp-gain-t2355701.html",
-  "author": "Maximillian_Kane",
-  "avatar": "10758866_1605883460.jpg",
-  "replies": 1,
+  "name": "Gauging interest in a Shifter Guide",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/gauging-interest-in-a-shifter-guide-t2355718.html",
+  "author": "Skeleton Pope",
+  "avatar": "no_avatar.png",
+  "replies": "17",
+  "views": "848",
   "posts": [
     {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "1:55 AM - Apr 03, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">When you level up a PM, you get Deathless Vigor, which adds +3 to your HP. I played a PM to level 38 a long time ago and I don't remember.<br/>\n<br/>\nMy question is: like Toughness, does it also appear at level up? Meaning, if I'm trying to roll max HP, do I need to include them or do they get applied afterwards?<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Skeleton Pope",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:09 PM - May 07, 2021",
+      "content": "<div>Greetings ECBer's,<br/>\n<br/>\nI've been somewhat of a lurker for a long time but do to long days at the office and a recent renewed interest in the game I figured I would start interacting more with you fine folks.<br/>\n<br/>\nI'm currently thinking about putting my notes and knowledge on shifter builds into a small guide as I've noticed quite a few people lamenting the lack of one. I don't think I could make something on the level of Max's or Mick daggers but I'm happy to share what I know. The focus on the guide will be more on styles of shifter builds, how they are played, what environment to play which shifter build in and the various quirks and oddities of merging. We already have excellent resources for what shifter forms do and how they do it, im more interested in the application of said tools.<br/>\n<br/>\nI've been playing NWN off and on for 15 years and the majority of my characters have been shifters of various types. I recently have been enjoying swordflight and I am a rabid fan of WoG alongside many others. I have successfully finished Aielund saga, OC, OC extension modules, Blackguard, and many others all with shifters. I even did some extensive pvp with them on a few arena servers for a few months. I currently have 1 level 40 Shifter/druid/monk, 1 level 35 shifter/druid/barbarian, and a low 20's shifter/druid/assasin on world of greyhawk that I have leveled with a combination of soloing and duoing. Plus a few characters lost to time on the 1.69 version of the server.<br/>\n<br/>\nI'm making this post as a general introduction and invitation to anyone with questions or insight into the shifter class or its various builds to join in.<br/>\n<br/>\nOnce the full guide is typed I will be submitting it for approval and critique in the appropriate forum.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:46 PM - May 07, 2021",
+      "content": "<div>Iirc, there is a Shifter Guide - <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/zelle-s-shifter-guide-version-v-revisited-t2209096.html\" rel=\"noreferrer\" target=\"_blank\">zelle-s-shifter-guide-version-v-revisited-t2209096.html</a><br/>\n<br/>\nI use it all the time.<br/>\n<br/>\nBut I am not sure how \"up to date\" it is.</div>"
+    },
+    {
+      "author": "Skeleton Pope",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:36 PM - May 07, 2021",
+      "content": "<div>Zelles guide is more a repository of shifter form stats than a true guide imo.<br/>\n<br/>\nVery useful for builders and absolute newbies in understanding the forms, but doesn't provide much in the way of applying said forms to builds, and playing them in modules/pws</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:04 PM - May 07, 2021",
+      "content": "<div>Yes, Zelles has a lot of info for forms.<br/>\n<br/>\nHipMaestro, who revisited it, has a lot of Shifter builds, including Lord of Terror (one of my Favs - I have one for WoG) which contains a lot of info!<br/>\n<br/>\nMick Dagger has his very good Kobold Commando (which I changed to do the Epic Kobold Commando for fun stuff on WoG).<br/>\n<br/>\nBut if you wish to do a guide, a full guide...I'm all for it.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:26 AM - Apr 03, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Max.<br/>\n<br/>\nMy understanding is that the +3 is applied as soon as you choose the class, in the same way as Toughness (though without applying retrospectively, of course!). I wonder if you could send the game into meltdown if you take a PM level and Toughness as a feat at the same level - even more so if you get a CON boost at the same time!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:50 PM - May 07, 2021",
+      "content": "<div>Playing a Shifter would indeed be a welcome addition to our canon of Guides, Skeleton Pope. As I'm sure you appreciate, it will have to be a fully rounded guide, rather than a \"do this, click that, take this\" sort of thing. It's hard work getting one right - I know I'm still struggling over a CoT Guide after 2 years of trying.<br/>\n<br/>\nBut I wish you well with it!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:28 PM - May 07, 2021",
+      "content": "<div>I, for one, WANT the practicalities and intricacies behind the raw data unveiled.</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:37 PM - May 07, 2021",
+      "content": "<div>Hey Skeleton Pope!<br/>\n<br/>\nGlad to see you finally popping your head out of the rabbithole :D (joking).<br/>\n<br/>\nThank you for your complimentary words to my guides. I do tend to devote a lot of effort into writing them and sometimes they take a LONG time. The Arcane Caster guide took over 6 months of on-and-off writing and I still learned more stuff afterwards that I wish it contained.<br/>\n<br/>\nA guide to Shifters would be an AMAZING addition to the guild, especially coming from one as experienced as yourself. I have built ONE shifter and played him to level 25 on Old WoG, but he's a Druid 20 / Monk 3 / Shifter 17 who starts as a Druid and then gets Shifter just for the Epic shapes. It's Cernd from the BG saga. I'm certainly not qualified enough to write anything myself, but I'd gladly comment on your guide once you have something cooked up.<br/>\n<br/>\nThanks for the offer. I say YES!<br/>\n<br/>\nCheers!</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:39 PM - May 07, 2021",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">May 07, 2021</div></cite>Playing a Shifter would indeed be a welcome addition to our canon of Guides, Skeleton Pope. As I'm sure you appreciate, it will have to be a fully rounded guide, rather than a \"do this, click that, take this\" sort of thing. It's hard work getting one right - I know I'm still struggling over a CoT Guide after 2 years of trying.<br/>\n<br/>\nBut I wish you well with it!<br/>\n<br/>\nCheers</div></blockquote>\nLet me help you with that CoT guide:<br/>\n<br/>\nStart: You need Weapon Focus<br/>\n<br/>\nMiddle: You get BONUS FEATS and SAVES.<br/>\n<br/>\nThe end!<br/>\n<br/>\nThere you go! LMFAO</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:22 AM - May 08, 2021",
+      "content": "<div><blockquote><div><cite>Maximillian_Kane wrote: <div class=\"responsive-hide\">May 07, 2021</div></cite>Let me help you with that CoT guide:<br/>\n<br/>\nStart: You need Weapon Focus<br/>\n<br/>\nMiddle: You get BONUS FEATS and SAVES.<br/>\n<br/>\nThe end!<br/>\n<br/>\nThere you go! LMFAO</div></blockquote>\nAnd I suppose a Barbarian Guide should read: get cross, hit stuff? Oh and have a beard and/or demonstrate remarkably inappropriate and revealing clothing.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:54 AM - May 08, 2021",
+      "content": "<div><em>*gets mad*</em><br/>\n<br/>\n<strong><em>SMASH!!!</em></strong><br/>\n<br/>\n<strong><em><span class=\"text-emoji\">\ud83d\ude06</span></em></strong></div>"
+    },
+    {
+      "author": "Tehoneth",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:26 AM - May 08, 2021",
+      "content": "<div>Yes please.   Any guidance would be greatly appreciated.</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:58 AM - May 08, 2021",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">May 08, 2021</div></cite><blockquote><div><cite>Maximillian_Kane wrote: <div class=\"responsive-hide\">May 07, 2021</div></cite>Let me help you with that CoT guide:<br/>\n<br/>\nStart: You need Weapon Focus<br/>\n<br/>\nMiddle: You get BONUS FEATS and SAVES.<br/>\n<br/>\nThe end!<br/>\n<br/>\nThere you go! LMFAO</div></blockquote>\nAnd I suppose a Barbarian Guide should read: get cross, hit stuff? Oh and have a beard and/or demonstrate remarkably inappropriate and revealing clothing.<br/>\n<br/>\nCheers</div></blockquote>\nEpic guide to Barbarian:<br/>\n<br/>\nGet Mad / Scare enemies<br/>\n<br/>\nSMASH!<br/>\n<br/>\nNow the cycle is complete!</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:02 AM - May 08, 2021",
+      "content": "<div>\"To crush your enemies, to see them driven before you, and to hear the <strong>lamentations</strong> of their women\"</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:08 AM - May 08, 2021",
+      "content": "<div>A shifter guide will be a great addition to  our collection!<br/>\nIt will be particularly valuable when/if the guide can have focus on playing tips, like how and when to use the different shapes and why.<br/>\nThere are some builds that focus on one shape, eg. the risen lord, the commando and the rakshasa. It would be great if you also can put such builds in perspective, compared with a more general shifter.<br/>\nYour contribution will be very welcome Skeleton Pope!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:26 PM - May 08, 2021",
+      "content": "<div>Oh yeah, and with the recent BeamDog nerfs, I would be very interested in Rak stuff!</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "10:51 AM - May 09, 2021",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">May 08, 2021</div></cite>\"To crush your enemies, to see them driven before you, and to hear the <strong>lamentations</strong> of their women\"</div></blockquote>\n\"That is good! That is good.\"</div>"
+    },
+    {
+      "author": "Skeleton Pope",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:34 AM - May 12, 2021",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">May 08, 2021</div></cite>Oh yeah, and with the recent BeamDog nerfs, I would be very interested in Rak stuff!</div></blockquote>\nMan, I understand it was a BUG but that one is a change I wish BeamDog had just not bothered with. It really did destroy the forms offense to the point that I have a hard time justifying Outsider shape in ANY of my shifter builds anymore.<br/>\n<br/>\nI miss my maximized ice storms!</div>"
+    },
+    {
+      "author": "Skeleton Pope",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:47 AM - May 12, 2021",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">May 08, 2021</div></cite>A shifter guide will be a great addition to \u00a0our collection!<br/>\nIt will be particularly valuable when/if the guide can have focus on playing tips, like how and when to use the different shapes and why.<br/>\nThere are some builds that focus on one shape, eg. the risen lord, the commando and the rakshasa. It would be great if you also can put such builds in perspective, compared with a more general shifter.<br/>\nYour contribution will be very welcome Skeleton Pope!</div></blockquote>\nMy current draft has sections on both focused shifters and general shifters, but In my opinion I find most \"focus on one shape builds\" (usually risen lord) actually benefit from more shifter levels than just the 10 for undead shape. For example, I have a variant your Graveyard Shifter that ends up as a rogue 19/Shifter16/Druid5. <br/>\n<br/>\nThat said I am going to include only ECB submitted builds with their creators credited in my sections, with my personal notes on how I tweak them and why. I supposed I should get around to posting my Mighty Rage+EDR Barb 24/shifter10/druid6 for feedback and approval into the level 40 builds section before I finish this up now that its reached early epics in World of Greyhawk</div>"
     }
   ]
 }

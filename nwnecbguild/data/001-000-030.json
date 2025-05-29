@@ -8,25 +8,27 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/getting-other-classes-to-use-monks-unarmed-animati-t2354771.html",
   "author": "samurainostalgique",
   "avatar": "no_avatar.png",
-  "replies": 2,
+  "replies": "2",
+  "views": "204",
   "posts": [
     {
       "author": "samurainostalgique",
       "avatar": "no_avatar.png",
       "timestamp": "4:31 PM - Nov 11, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello ecbguilders!<br/>\n<br/>\nI wonder if someone here has the technical know-how to answer this question:<br/>\n<br/>\nYou know, besides the usual punches and front kicks that every character uses when unarmed, monks have unique round kicks and side kicks animations; well, I happen to be currently playing in Athas reborn, which uses the PRC, and has removed the monk class and replaced it with the brawler, sacred fist and enlightened fist classes. However, these classes don't use the monk's unarmed animations. So while you can be just as good at unarmed combat as a real monk there, it doesn't look as cool. The one guy who's trying to revive the server says he isn't too good at scripting and doesn't have access to the server's haks, so he will only modify that if it's simple.<br/>\n<br/>\nSo, is it actually possible to make non-monks use monks' unarmed animations?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Hello ecbguilders!<br/>\n<br/>\nI wonder if someone here has the technical know-how to answer this question:<br/>\n<br/>\nYou know, besides the usual punches and front kicks that every character uses when unarmed, monks have unique round kicks and side kicks animations; well, I happen to be currently playing in Athas reborn, which uses the PRC, and has removed the monk class and replaced it with the brawler, sacred fist and enlightened fist classes. However, these classes don't use the monk's unarmed animations. So while you can be just as good at unarmed combat as a real monk there, it doesn't look as cool. The one guy who's trying to revive the server says he isn't too good at scripting and doesn't have access to the server's haks, so he will only modify that if it's simple.<br/>\n<br/>\nSo, is it actually possible to make non-monks use monks' unarmed animations?</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
       "timestamp": "5:49 AM - Nov 12, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This isn't the best place to ask that kind of question. You have a better chance for a useful answer here: <a class=\"postlink\" href=\"https://neverwintervault.org/forum\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/forum</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>This isn't the best place to ask that kind of question. You have a better chance for a useful answer here: <a class=\"postlink\" href=\"https://neverwintervault.org/forum\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/forum</a></div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "samurainostalgique",
       "avatar": "no_avatar.png",
       "timestamp": "12:04 PM - Nov 12, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nThis isn't the best place to ask that kind of question. You have a better chance for a useful answer here: <a class=\"postlink\" href=\"https://neverwintervault.org/forum\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/forum</a>\n</div></blockquote>\nThank you, I'll try asking there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\nThis isn't the best place to ask that kind of question. You have a better chance for a useful answer here: <a class=\"postlink\" href=\"https://neverwintervault.org/forum\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/forum</a>\n</div></blockquote>\nThank you, I'll try asking there.</div>"
     }
   ]
 }

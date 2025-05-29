@@ -4,65 +4,31 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "973",
-  "name": "(Arelith) Rogue or Barbarian build help",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-rogue-or-barbarian-build-help-t2354849.html",
-  "author": "wthNick",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 8,
+  "name": "WM with PDK?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/wm-with-pdk-t2354871.html",
+  "author": "Waylaid",
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "222",
   "posts": [
     {
-      "author": "wthNick",
+      "author": "Waylaid",
       "avatar": "no_avatar.png",
-      "timestamp": "6:19 PM - Apr 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just coming back to Nwn after about 10 years. With the release of NWN on steam, I figured I'd jump back in! Problem is I've never been that great at creating characters.<br/>\n<br/>\nMy main concern is PvM.\u00a0I'm not too concerned about PvP (RP wise if my character gets into a conflict with another player, I'm just gonna assume I'll lose lol)<br/>\n<br/>\n<br/>\nI'd like to do either Rogue or Barbarian. Please no gifts, I don't want leveling to be much harder with the added ECL (Does the +ECL leveling speed start to even out at higher levels? Cause +2-3 ECL is not fun at lower levels). But I may be wrong about the ECL. I'd also like to keep split-classing to a minimum, so I don't suffer an exp penalty for that either.. But I'm always open for suggestions!<br/>\n<br/>\nI'd like to play as human, but I might go Halfling for the rogue-centric build or Dwarf for the barbarian-centric build. Chaotic Neutral alignment pref.<br/>\n<br/>\nWas thinking something along the lines of rogue/SD or barbarian/rogue. But I really have no idea what I'm doing build wise.<br/>\n<br/>\nThank You guys! I've viewed a few of the other builds you've made up on these forums &amp; it has been very helpful. It makes the game more enjoyable for those of us that aren't good at building characters!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:18 PM - Apr 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about a human Rogue 19 / Fighter 6 / SD 5? I usually rely on Knockdown to generate sneak attacks, but I can max the stealth skills for you.<br/>\n<br/>\nI could make a human Barbarian 20 / Rogue 10.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "wthNick",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:08 PM - Apr 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nHow about a human Rogue 19 / Fighter 6 / SD 5? I usually rely on Knockdown to generate sneak attacks, but I can max the stealth skills for you.<br/>\n<br/>\nI could make a human Barbarian 20 / Rogue 10.\n</div></blockquote>\n\nThe rogue/fighter/SD sounds very interesting. Could you build that for me? Using KD for sneak attacks sounds great, but would max/good sneak also be possible?<br/>\n<br/>\nThanks for your time, Empyre!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "12:55 AM - Apr 14, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here you go:\n<details><summary>Spoiler</summary>\nArelith Shadow Rogue (Rogue 19 / Fighter 6 / Shadowdancer 5)\nPlayable 1 - 30\nAbilities:\nDEX: 16 (26)\nWIS: 8\nCHA: 10\nLeveling Guide:\n01: Rogue(1): Dodge, Mobility\n03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}\n05: Fighter(2): Knockdown\n07: Rogue(4)\n09: Rogue(5): Two-Weapon Fighting\n11: Shadowdancer(2): {Darkvision}\n13: Rogue(6)\n15: Rogue(8): Improved Two-Weapon Fighting\n17: Rogue(10): Crippling Strike\n19: Shadowdancer(4)\n21: Fighter(5): Epic Weapon Focus: Shortsword\n23: Fighter(6): Epic Weapon Specialization: Shortsword\n25: Rogue(15)\n27: Rogue(17): Great Dexterity II, (DEX=24)\n29: Shadowdancer(5): {Defensive Roll}\n\nHitpoints: 274\nSaving Throws (Fortitude/Will/Reflex): 16/10/26\nBAB: 21\nAC (naked/mundane armor/shield only): 24/28\nAlignment Changes: 0\nSkills:\n\n02: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(8)\n04: Save(15)\n06: Save(25)\n08: Save(6)\n10: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(2), Save(3)\n12: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), Save(11)\n14: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(2), Spot(1), Tumble(1)\n16: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1)\n18: Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(1)\n20: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(2), Set Trap(2), Spot(1), Tumble(1), UMD(2), Save(3)\n22: Disable Trap(2), Hide(2), Move Silently(2), Open Lock(2), Search(2), Set Trap(2), Spot(2), Tumble(2), UMD(2), Save(1)\n24: Disable Trap(2), Hide(2), Move Silently(2), Open Lock(2), Search(2), Set Trap(2), Spot(2), Tumble(1)\n26: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(2), UMD(2)\n28: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(2), Spot(1)\n30: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spellcraft(1), Spot(1)\n</details>\nYou only need 25 points in Set Trap to set all deadly traps (but not epic), but I went ahead and maxed Set Trap so that the traps you set will have higher DCs. I also maxed Search and Disarm Trap because of other players' high-DC traps.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:39 PM - May 04, 2018",
+      "content": "<div>With level 30 as a max, and currently Fighter/WM would it be a good idea to pick up some PDK levels?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:41 AM - Apr 14, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I may be wrong here, but I don't think Shadow Dancer gets HiPs until level 5 in Arelith - sorry<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:57 AM - Apr 14, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nI may be wrong here, but I don't think Shadow Dancer gets HiPs until level 5 in Arelith - sorry\n</div></blockquote>\n\nOK, here it is tweaked with that in mind:\n<details><summary>Spoiler</summary>\nArelith Shadow Rogue (Rogue 19 / Fighter 6 / Shadowdancer 5)\nPlayable 1 - 40\nAbilities:\nDEX: 16 (26)\nWIS: 8\nCHA: 10\nLeveling Guide:\n01: Rogue(1): Dodge, Mobility\n03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}\n05: Fighter(2): Knockdown\n07: Rogue(4)\n09: Rogue(5): Two-Weapon Fighting\n11: Shadowdancer(2): {Darkvision}\n13: Rogue(6)\n15: Rogue(8): Improved Two-Weapon Fighting\n17: Rogue(10): Crippling Strike\n19: Shadowdancer(4)\n21: Shadowdancer(5): Epic Weapon Focus: Shortsword, {Defensive Roll}\n23: Fighter(5)\n25: Rogue(14)\n27: Rogue(16): Great Dexterity II, Improved Sneak Attack I, (DEX=24)\n29: Rogue(18)\n\nHitpoints: 274\nSaving Throws (Fortitude/Will/Reflex): 16/10/26\nBAB: 21\nAC (naked/mundane armor/shield only): 24/28\nAlignment Changes: 0\nSkills:\n\n02: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(8)\n04: Save(15)\n06: Save(25)\n08: Save(5)\n10: Hide(1), Move Silently(1), Search(1), Spellcraft(1), Spot(1), Tumble(2), Save(1)\n12: Hide(1), Move Silently(1), Search(1), Tumble(1), Save(8)\n14: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(3), Tumble(2)\n16: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1)\n18: Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(1)\n20: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spot(1), Tumble(1), UMD(1)\n22: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spot(1), Tumble(1), UMD(3), Save(1)\n24: Save(11)\n26: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(2), UMD(2)\n28: Disable Trap(1), Hide(1), Lore(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(2)\n30: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(2), Spot(1)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Lucas1980",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:56 AM - May 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div><cite>Empyre65 wrote:</cite>Here you go:\n<details><summary>Spoiler</summary>\nArelith Shadow Rogue (Rogue 19 / Fighter 6 / Shadowdancer 5)\nPlayable 1 - 30\nAbilities:\nDEX: 16 (26)\nWIS: 8\nCHA: 10\nLeveling Guide:\n01: Rogue(1): Dodge, Mobility\n03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}\n05: Fighter(2): Knockdown\n07: Rogue(4)\n09: Rogue(5): Two-Weapon Fighting\n11: Shadowdancer(2): {Darkvision}\n13: Rogue(6)\n15: Rogue(8): Improved Two-Weapon Fighting\n17: Rogue(10): Crippling Strike\n19: Shadowdancer(4)\n21: Fighter(5): Epic Weapon Focus: Shortsword\n23: Fighter(6): Epic Weapon Specialization: Shortsword\n25: Rogue(15)\n27: Rogue(17): Great Dexterity II, (DEX=24)\n29: Shadowdancer(5): {Defensive Roll}\n\nHitpoints: 274\nSaving Throws (Fortitude/Will/Reflex): 16/10/26\nBAB: 21\nAC (naked/mundane armor/shield only): 24/28\nAlignment Changes: 0\nSkills:\n\n02: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(8)\n04: Save(15)\n06: Save(25)\n08: Save(6)\n10: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(2), Save(3)\n12: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), Save(11)\n14: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(2), Spot(1), Tumble(1)\n16: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1)\n18: Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(1), Spot(1), Tumble(1), UMD(1), Save(1)\n20: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(2), Set Trap(2), Spot(1), Tumble(1), UMD(2), Save(3)\n22: Disable Trap(2), Hide(2), Move Silently(2), Open Lock(2), Search(2), Set Trap(2), Spot(2), Tumble(2), UMD(2), Save(1)\n24: Disable Trap(2), Hide(2), Move Silently(2), Open Lock(2), Search(2), Set Trap(2), Spot(2), Tumble(1)\n26: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(2), UMD(2)\n28: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spellcraft(2), Spot(1)\n30: Disable Trap(2), Hide(1), Move Silently(1), Open Lock(2), Search(1), Set Trap(2), Spellcraft(1), Spot(1)\n</details>\nYou only need 25 points in Set Trap to set all deadly traps (but not epic), but I went ahead and maxed Set Trap so that the traps you set will have higher DCs. I also maxed Search and Disarm Trap because of other players' high-DC traps.</div></blockquote>\n\nIt's possible to adapt this build for NWN2  server?<br/>\n<br/>\nInviato dal mio Moto G (5S) Plus utilizzando Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:27 PM - May 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">NWN2 is one of those games that I have had for years (along with both Skyrim and Oblivion), and I have always intended to play, and I still do, but I haven't yet.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:14 AM - May 05, 2018",
+      "content": "<div>Hi Waylaid, and welcome!<br/>\n<br/>\nI suspect we're likely to need more info than that. The 30 level max - is that for Arelith or somewhere else? Are there any changes/restrictions implemented where you play? How do you like to play? What do you think PDK would bring to the build? And so on...<br/>\n<br/>\nHave a read of the Build Request Guidelines - that should help.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:52 AM - May 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nah, NwN 2 uses 4 classes with 30 levels limit and the D&amp;D 3.5 rules, so it is completely different from the original.<br/>\n<br/>\nSearch \"Kaze no Kama\" and play that if you want, 17 attacks/round ought to be enough.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:09 AM - May 16, 2018",
+      "content": "<div>Waylaid, unless your server has strengthened PDK's or you know exactly what you are doing, I would skip the class totally. Take instead one of the full tumble classes that also have UMD in their skill-set, such as rogue/ bard.</div>"
     }
   ]
 }

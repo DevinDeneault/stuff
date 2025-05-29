@@ -4,305 +4,235 @@
   "forum_name": "Full Epic - Level 40 Builds",
   "forum_id": "006",
   "id": "032",
-  "name": "MOGHEDIEN \u2013 Melody of the Dark (BARD 26/ BG 4/ RDD 10)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/moghedien-melody-of-the-dark-bard-26-bg-4-rdd-10-t2350150.html",
-  "author": "Valerfor",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 48,
+  "name": "Elven Guardian - Rogue 17 / Wizard 1 / Arcane Archer 22",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-guardian-rogue-17-wizard-1-arcane-archer-22-t2355003.html",
+  "author": "Empyre65",
+  "avatar": "10235276_1510287070.gif",
+  "replies": "33",
+  "views": "9.0K",
   "posts": [
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:39 PM - Feb 17, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Time for another disgustingly powerful build.<br/>\n<br/>\nI wrote this build for a character that i liked - one of the great dark lords in the Wheel of Time series, this build combines the Dragonic and Unholy powers and finishes off with a Destructive Bard Song.<br/>\n<br/>\nThere is one build that resembles this one, The Song of Despair by Revenant Mattlov --&gt;  <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build306842.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 06842.html</a><br/>\n<br/>\nBut with Curse Song at 40th lvl and with no Divine Might or any combat options and lower AB &amp; DMG than this one.<br/>\n<br/>\nI won't write down what this build can do when fully buffed casue we all know i will need two pages more, so i will rather direct you to the build itself and i will just include (in some cases) <br/>\n<br/>\nthe benefits of the unbuffed Bard Song which is rather permanent on her.<br/>\n<br/>\n<br/>\n<br/>\n<strong>MOGHEDIEN \u2013 Melody of the Dark</strong><br/>\n<br/>\n<strong>(BARD 26/ BG 4/ RDD 10)</strong><br/>\n<br/>\n RACE: Human Female<br/>\n<br/>\n ALIGNMENT: Neutral Evil<br/>\n<br/>\n PLAYABILITY: PvM 1-40<br/>\n<br/>\n STARTING STATS:<br/>\n STR  - 18<br/>\n DEX -  08<br/>\n CON - 14<br/>\n INT  - 10<br/>\n WIS - 08<br/>\n CHA - 14<br/>\n<br/>\n ENDING STATS:<br/>\n STR  -  40<br/>\n DEX  -  08<br/>\n CON  - 16<br/>\n INT   - 12<br/>\n WIS  - 08<br/>\n CHA - 16<br/>\n<br/>\n<strong>BASIC STATS</strong>:<br/>\n<br/>\n Hit Points: 400<br/>\n<br/>\n Skill Points: 206<br/>\n<br/>\n Hide: 5 (4) \u2192 {13}<br/>\n Lore: 8 (35) \u2192 {43}<br/>\n Perform: 43 (56) \u2192 {65}<br/>\n Tumble: 40 (39) \u2192 {48}<br/>\n Spellcraft: 40 (41) \u2192 {50}<br/>\n Discipline: 43 (58) \u2192 {67} OR Taunt: 43 (46) {55}<br/>\n UMD: 27 (30) \u2192 {39}<br/>\n<br/>\n Saving Throws (Fort/Ref/Will):  28/ 21/ 25 \u2192 40/ 34/ 38 (saves Vs spells with Bard Song)<br/>\n<br/>\n Naked AC:  23/ 31/ 38  (Naked/ Plate Mail/ Plate Mail &amp; Song &amp; Cat's) \u2013 {still no shield}<br/>\n<br/>\n BAB: 26  (Four Attacks/ Round)<br/>\n<br/>\n AB: +45/ +40/ +35/ +30  \u2192  +47/ +42/ +37/ +32  (Bard Song) \u2013 (Greatsword)<br/>\n<br/>\n DMG: 2D6 + 22 / 17-20 x2  \u2192  2D6 +25 / 17-20 x2  (Bard Song) \u2013 (Greatsword)<br/>\n<br/>\n Spellcasting: Bard 6th Circle level of spells plus full UMD<br/>\n<br/>\n Bard Song 26 uses/ Day each one lasts for 100 Rounds \u2013 Same goes for Curse Song<br/>\n<br/>\n<strong>LEVELING GUIDE</strong>:<br/>\n<br/>\n01) BARD (01): Power Attack, Curse Song<br/>\n02) BARD (02): <br/>\n03) BARD (03): Blind Fighting<br/>\n04) BARD (04): <br/>\n05) BARD (05): <br/>\n06) BARD (06): Still Spell<br/>\n07) BARD (07): <br/>\n08) BARD (08): <br/>\n09) BG (01): Knockdown<br/>\n10) BG (02): <br/>\n11) BG (03): <br/>\n12) BG (04): Divine Might<br/>\n13) RDD (01): <br/>\n14) RDD (02): <br/>\n15) RDD (03): WF: Greatsword<br/>\n16) RDD (04): <br/>\n17) RDD (05): <br/>\n18) RDD (06): IC: Greatsword<br/>\n19) RDD (07): <br/>\n20) RDD (08): <br/>\n21) RDD (09): EWF: Greatsword<br/>\n22) RDD (10): <br/>\n23) BARD (09): <br/>\n24) BARD (10): Epic Prowess<br/>\n25) BARD (11): <br/>\n26) BARD (12): <br/>\n27) BARD (13): Armor Skin<br/>\n28) BARD (14): <br/>\n29) BARD (15): <br/>\n30) BARD (16): Great Strength I<br/>\n31) BARD (17): <br/>\n32) BARD (18): <br/>\n33) BARD (19): Great Strength II<br/>\n34) BARD (20): <br/>\n35) BARD (21): <br/>\n36) BARD (22): Great Strength III<br/>\n37) BARD (23): Lasting Inspiration<br/>\n38) BARD (24): <br/>\n39) BARD (25): Great Strength IV<br/>\n40) BARD (26): ESF: Perform<br/>\n<br/>\n<strong> SPECIAL NOTES</strong>: <br/>\n<br/>\nBard Song at 21st level gives 2 AB/ 3 DMG/ 2 Fort/ 3 Ref/ 3 Will/ 5 AC/ 30 HP's / 9 to all Skills<br/>\n<br/>\nBard Song at 26th level gives 2AB/ 3DMG/ 2 Fort/ 3 Ref/ 3 Will / 6AC/ 40 HP's / 15 to all skills<br/>\n<br/>\nBard Curse Song subtracts all these from your opponents<br/>\n<br/>\nDivine Might gives 3 DMG/ 3 Rounds  \u2192  9 DMG/ 9 Rounds (Buffed CHA)<br/>\n<br/>\nMoghedien is immune to Fire, Paralysis, Sleep and has Darkvision<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:28 AM - Jan 21, 2019",
+      "content": "<div>With the proliferation of archer builds lately, I have decided that it is high time I finally post a build that I have been sitting on for 6 years.\u00a0 Tyr Templar and I had exchanged a lot of PMs with her helping me polish this pair of builds.\u00a0 The txt files are dated mid-December 2012, so I don't even remember why every detail is exactly the way it is.\u00a0 She had written a story for it, but she said that she was planning to post an archer build, too, so my last PM to her was asking if I should use the story in my build or was she planning on using it for hers, but she never answered, so the build never got posted.<br/>\n<br/>\nThis build has a lot going for it, great AB, decent AC, Epic Dodge, Uncanny Dodge to protect the DEX AC, and nice Rogue skills, including UMD.\u00a0 It comes in 2 flavors, PvP and PvM.\u00a0 Much belatedly, here they are:<br/>\n<br/>\nElven Guardian PvP (Rogue 17 / Wizard 1 / Arcane Archer 22)<br/>\nElf, Any Alignment<br/>\nPlayable 1 - 40, PvP<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 18 (34)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Rogue(1): Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus: Longbow, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=19)<br/>\n05: Rogue(5)<br/>\n06: Rogue(6): Called Shot<br/>\n07: Rogue(7)<br/>\n08: Rogue(8): DEX+1, (DEX=20)<br/>\n09: Wizard(1): Blind Fight, {Scribe Scroll}<br/>\n10: Arcane Archer(1)<br/>\n11: Arcane Archer(2)<br/>\n12: Rogue(9): DEX+1, Improved Critical: Longbow, (DEX=21)<br/>\n13: Arcane Archer(3)<br/>\n14: Arcane Archer(4)<br/>\n15: Arcane Archer(5): Rapid Shot<br/>\n16: Arcane Archer(6): DEX+1, (DEX=22)<br/>\n17: Rogue(10): Improved Evasion<br/>\n18: Arcane Archer(7): Skill Focus: Listen<br/>\n19: Arcane Archer(8)<br/>\n20: Arcane Archer(9): DEX+1, (DEX=23)<br/>\n21: Rogue(11): Epic Weapon Focus: Longbow<br/>\n22: Arcane Archer(10)<br/>\n23: Rogue(12)<br/>\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Rogue(13): Defensive Roll<br/>\n26: Arcane Archer(12)<br/>\n27: Rogue(14): Epic Dodge<br/>\n28: Arcane Archer(13): DEX+1, (DEX=26)<br/>\n29: Arcane Archer(14): Great Dexterity II, (DEX=27)<br/>\n30: Arcane Archer(15): Epic Prowess<br/>\n31: Arcane Archer(16)<br/>\n32: Rogue(15): DEX+1, (DEX=28)<br/>\n33: Arcane Archer(17): Epic Skill Focus: Listen<br/>\n34: Arcane Archer(18): Great Dexterity III, (DEX=29)<br/>\n35: Arcane Archer(19)<br/>\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=31)<br/>\n37: Rogue(16): Skill Mastery<br/>\n38: Arcane Archer(21)<br/>\n39: Arcane Archer(22): Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n40: Rogue(17): DEX+1, (DEX=34)<br/>\n<br/>\nStats:<br/>\nHitpoints: 362<br/>\nSkillpoints: 336<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/17/35<br/>\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +4<br/>\nBAB: 26<br/>\nAB (max, naked): 28 (melee), 53 (ranged)<br/>\nAC (naked/mundane armor/shield only): 30/33<br/>\nSpell Casting: Wizard(1)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDisable Trap 1(5), Hide 43(55), Listen 43(57), Lore 7(9), Move Silently 43(55), Open Lock 1(13), Search 38(42), Set Trap 33(45), Spellcraft 8(10), Spot 43(44), Tumble 40(52), UMD 36(35)<br/>\n<br/>\n01: Disable Trap(1), Hide(4), Listen(4), Lore(1), Move Silently(4), Open Lock(1), Search(4), Set Trap(4), Spot(4), Tumble(4), UMD(4), Save(5)<br/>\n02: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(7)<br/>\n03: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(9)<br/>\n04: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(11)<br/>\n05: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(13)<br/>\n06: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(15)<br/>\n07: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(17)<br/>\n08: Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), Save(19)<br/>\n09: Spellcraft(8), Save(15)<br/>\n10: Hide(2), Listen(2), Move Silently(2), Spot(2), Save(13)<br/>\n11: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(15)<br/>\n12: Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Spot(1), Tumble(4), UMD(4), Save(5)<br/>\n13: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(7)<br/>\n14: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(9)<br/>\n15: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(11)<br/>\n16: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(13)<br/>\n17: Hide(1), Move Silently(1), Search(5), Set Trap(5), Spot(1), Tumble(5), UMD(4), Save(1)<br/>\n18: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(3)<br/>\n19: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(5)<br/>\n20: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(7)<br/>\n21: Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Spot(1), Tumble(4), UMD(1)<br/>\n22: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n23: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(2)<br/>\n24: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n25: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(2)<br/>\n26: Hide(1), Listen(1), Lore(1), Move Silently(1), Spot(1), Save(1)<br/>\n27: Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Spot(1), Tumble(2), UMD(1)<br/>\n28: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n29: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(4)<br/>\n30: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(6)<br/>\n31: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(8)<br/>\n32: Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(3), Spot(1), Tumble(5), UMD(1)<br/>\n33: Hide(1), Listen(2), Lore(1), Move Silently(1), Spot(1)<br/>\n34: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(2)<br/>\n35: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(4)<br/>\n36: Hide(1), Listen(1), Move Silently(1), Spot(1), Save(6)<br/>\n37: Hide(1), Listen(1), Move Silently(1), Search(3), Spot(1), Tumble(5), UMD(4)<br/>\n38: Hide(1), Listen(1), Lore(2), Move Silently(1), Spot(1)<br/>\n39: Hide(1), Listen(1), Lore(2), Move Silently(1), Spot(1)<br/>\n40: Hide(1), Listen(1), Move Silently(1), Spot(1), UMD(6)<br/>\n<br/>\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br/>\n<br/>\nElven Guardian PvM (Rogue 17 / Wizard 1 / Arcane Archer 22)<br/>\nElf, Any Alignment<br/>\nPlayable 1 - 40, PvM<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 18 (34)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Rogue(1): Point Blank Shot<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus: Longbow, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=19)<br/>\n05: Rogue(5)<br/>\n06: Rogue(6): Weapon Finesse<br/>\n07: Rogue(7)<br/>\n08: Rogue(8): DEX+1, (DEX=20)<br/>\n09: Wizard(1): Called Shot, {Scribe Scroll}<br/>\n10: Arcane Archer(1)<br/>\n11: Arcane Archer(2)<br/>\n12: Rogue(9): DEX+1, Improved Critical: Longbow, (DEX=21)<br/>\n13: Arcane Archer(3)<br/>\n14: Arcane Archer(4)<br/>\n15: Arcane Archer(5): Blind Fight<br/>\n16: Arcane Archer(6): DEX+1, (DEX=22)<br/>\n17: Rogue(10): Improved Evasion<br/>\n18: Arcane Archer(7): Rapid Shot<br/>\n19: Arcane Archer(8)<br/>\n20: Arcane Archer(9): DEX+1, (DEX=23)<br/>\n21: Rogue(11): Epic Weapon Focus: Longbow<br/>\n22: Arcane Archer(10)<br/>\n23: Rogue(12)<br/>\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Rogue(13): Defensive Roll<br/>\n26: Arcane Archer(12)<br/>\n27: Rogue(14): Epic Dodge<br/>\n28: Arcane Archer(13): DEX+1, (DEX=26)<br/>\n29: Arcane Archer(14): Great Dexterity II, (DEX=27)<br/>\n30: Arcane Archer(15): Epic Prowess<br/>\n31: Arcane Archer(16)<br/>\n32: Rogue(15): DEX+1, (DEX=28)<br/>\n33: Arcane Archer(17): Great Dexterity III, (DEX=29)<br/>\n34: Arcane Archer(18): Armor Skin<br/>\n35: Arcane Archer(19)<br/>\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=31)<br/>\n37: Rogue(16): Skill Mastery<br/>\n38: Arcane Archer(21)<br/>\n39: Arcane Archer(22): Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n40: Rogue(17): DEX+1, (DEX=34)<br/>\n<br/>\nStats:<br/>\nHitpoints: 362<br/>\nSkillpoints: 336<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/17/35<br/>\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +4<br/>\nBAB: 26<br/>\nAB (max, naked): 39 (melee), 53 (ranged)<br/>\nAC (naked/mundane armor/shield only): 32/35<br/>\nSpell Casting: Wizard(1)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDisable Trap 43(47), Hide 43(55), Listen 43(44), Lore 10(12), Move Silently 43(55), Open Lock 1(13), Search 38(42), Set Trap 31(45), Spellcraft 8(10), Tumble 40(52), UMD 36(35)<br/>\n<br/>\n01: Disable Trap(4), Hide(4), Listen(4), Lore(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(3)<br/>\n02: Disable Trap(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(4)<br/>\n03: Disable Trap(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(5)<br/>\n04: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(7)<br/>\n05: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(9)<br/>\n06: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(11)<br/>\n07: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(13)<br/>\n08: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(1), Tumble(1), UMD(1), Save(15)<br/>\n09: Spellcraft(8), Save(11)<br/>\n10: Hide(2), Listen(2), Move Silently(2), Save(11)<br/>\n11: Hide(1), Listen(1), Move Silently(1), Save(14)<br/>\n12: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(1)<br/>\n13: Hide(1), Listen(1), Move Silently(1), Save(4)<br/>\n14: Hide(1), Listen(1), Move Silently(1), Save(7)<br/>\n15: Hide(1), Listen(1), Move Silently(1), Save(10)<br/>\n16: Hide(1), Listen(1), Move Silently(1), Save(13)<br/>\n17: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(5), Tumble(5)<br/>\n18: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n19: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n20: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n21: Disable Trap(4), Hide(1), Listen(1), Move Silently(1), Search(4), Set Trap(4), Tumble(4)<br/>\n22: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n23: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n24: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n25: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n26: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n27: Disable Trap(2), Hide(1), Listen(1), Move Silently(1), Search(2), Set Trap(2), Tumble(2), UMD(2)<br/>\n28: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n29: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n30: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n31: Hide(1), Listen(1), Move Silently(1), Save(12)<br/>\n32: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(5), Set Trap(1), Tumble(5), UMD(3)<br/>\n33: Hide(1), Listen(1), Move Silently(1), Save(3)<br/>\n34: Hide(1), Listen(1), Move Silently(1), Save(6)<br/>\n35: Hide(1), Listen(1), Move Silently(1), Save(9)<br/>\n36: Hide(1), Listen(1), Move Silently(1), Save(12)<br/>\n37: Disable Trap(5), Hide(1), Listen(1), Move Silently(1), Search(3), Tumble(5), UMD(6)<br/>\n38: Hide(1), Listen(1), Lore(3), Move Silently(1)<br/>\n39: Hide(1), Listen(1), Lore(1), Move Silently(1), Save(2)<br/>\n40: Disable Trap(3), Hide(1), Listen(1), Move Silently(1), UMD(6)</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "1:11 AM - Feb 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey dude!<br/>\n<br/>\nThis build is illegal. BG requires Cleave. It's workable in there, but you do need to take it before you take the first level of BG. I suppose Still Spell goes down the hill in this case, right?<br/>\n<br/>\nI'd also swap Armor Skin with EWF and EWF with EP. At that level you'll hardly be needing AB as much as you'll need AC. Basically, I'd take AS first, then EWF, then EP. I would also go for a 1-handed weapon in this toon. I know 2-handed does A LOT more damage, but you don't have PM levels to be immune to crits, nor do you have any means of increasing your AC except Bard Song (you don't take Divine Shield), which doesn't kick in until much later in the build. Maybe you can take WF in a weapon like Warhammer (bludgeoning), and carry a very welcome shield to increase your survivability and carry around a Greatsword as a backup weapon. Then you could drop Improved Critical for IKD or Expertise. I'd go with Expertise for the combo with Taunt. Last, I'd keep Discipline over Taunt and drop Spellcraft. IMO for this build, Taunting is more useful than saves vs spells.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "4:16 AM - Jan 21, 2019",
+      "content": "<div>That's because we're all playing on BSK and can get away with it.<br/>\n<br/>\nThis is a really cool build. I assume the defensive parts are so you can maintain SA range. Are the extra rogue levels for more e damage well? I figure you can give up 3 rogue levels for 3 aa levels or something.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:44 PM - Feb 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And i was happy with my newfounded bonus feat :/<br/>\n<br/>\nLet me fix that and take upon some of your suggestions as well Max.<br/>\n<br/>\n<br/>\nMoghedien is now focused in Scimitars which allows her the use of a T. Shield and thus advancing even more her already incredible AC. <br/>\n<br/>\nShe retains her KD and Still Spell feats so she can cast while in combat and don't have to undress each time she wants to cast a spell.<br/>\n<br/>\nShe retains the order of the Epic Feats (offensive first) because the T. Shield gave her the additional AC she might needed.<br/>\n<br/>\nWith her ability to keen her Scimitar all day long the critical threat range is now 15-20 equal to a keen Greatsword with the Improved Critical feat, that's enough.<br/>\n<br/>\nDivin Shield and Expertise feats are not needed. The reason for that is that Moghedien with a very conservative +5 equipment can reach an incredible 74 AC.<br/>\n<br/>\nMoreover the use of Divine Shield would easily make her hit the Dodge Cap and thus not utilising the extra AC to the fullest.<br/>\n<br/>\nTaunt skill can and should be selected in place of Discipline, she will probably be clad in KD immune gear (UMD) or her AC will be so high that the enemies won't use KD on her at all, (I have seen that in multiple occasions).<br/>\n<br/>\nDropping Spellcraft which offers her a massive (+10 bonus to all her saves Vs spells) in favor of Taunt though is not an option.<br/>\n<br/>\nIf nothing else her AB is so sky high that she doesn't need Taunt at all, these tricks are best suited to less powerful toons. Her, with an operational 68 AB won't need it, but if you want to have it then take it in place of Discipline.<br/>\n<br/>\n<br/>\nMany people (not the vet's) will hear me talking about all these massive numbers and wondering how is that possible with this character, she is just a Bard, right? <br/>\n<br/>\nJust three examples to see what i am talking about in a modest +5 environment.<br/>\n<br/>\n<br/>\nMoghedien AC: 10 (base) + 8 (tumble) + 2 (AS) + 4 (RDD) + 4 (haste) + 13 (plate +5) + 8 (T. shield +5) + 1 (cat's) + 6 (26th lvl song) + 2 (curse song) + 1 (m. armour) + 5 (amulet +5) + 5 (ring +5) + 5 (sun soul +5 via umd) =<strong> 74 AC</strong><br/>\n<br/>\nMoghedien AB: 26 (base) + 21 (buffed STR) + 4 (focusses) + 2 (Bard Song) + 6 (Curse Song) + 2 (War Cry) + 2 (aid+bless potions) + 5 (Scimitar +5) + 6 (Taunt - if taken) = <strong>74 AB</strong><br/>\n<br/>\nMoghedien Taunt Skill: 43 Ranks + 9 (buffed CHA) + 15 (26th lvl Bard Song) + 15 (26th lvl Curse Song) = <strong>82 Taunt</strong><br/>\n<br/>\nMost impressive is the fact that for these numbers you won't even need special equipment or massive buffing. Almost everything comes from herself and is undispellable except from Mord's, and Bard Song isn't dispellable at all.<br/>\n<br/>\n<br/>\nHere is the <strong>Final Version </strong>of the build.<br/>\n<br/>\n<br/>\n<strong>MOGHEDIEN \u2013 Melody of the Dark</strong><br/>\n<br/>\n<strong>(BARD 26/ BG 4/ RDD 10)</strong> <br/>\n<br/>\nRACE: Human Female<br/>\n<br/>\nALIGNMENT: Neutral Evil<br/>\n<br/>\nPLAYABILITY: PvM 1-40<br/>\n<br/>\nSTARTING STATS:<br/>\nSTR - 18<br/>\nDEX - 08<br/>\nCON - 14<br/>\nINT - 10<br/>\nWIS - 08<br/>\nCHA - 14<br/>\n<br/>\nENDING STATS:<br/>\nSTR - 40<br/>\nDEX - 08<br/>\nCON - 16<br/>\nINT - 12<br/>\nWIS - 08<br/>\nCHA - 16<br/>\n<br/>\nBASIC STATS:<br/>\n<br/>\nHit Points: 400<br/>\n<br/>\nSkill Points: 206<br/>\n<br/>\nHide: 5 (4) \u2192 {13}<br/>\nLore: 8 (35) \u2192 {43}<br/>\nPerform: 43 (56) \u2192 {65}<br/>\nTumble: 40 (39) \u2192 {48}<br/>\nSpellcraft: 40 (41) \u2192 {50}<br/>\nTaunt: 43 (46) {55} OR Discipline: 43 (58) \u2192 {67}<br/>\nUMD: 27 (30) \u2192 {39}<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 28/ 21/ 25 \u2192 40/ 34/ 38 (saves Vs spells with Bard Song)<br/>\n<br/>\nNaked AC: 23/ 34/ 41 (Naked/ Plate Mail/ Plate Mail &amp; Song &amp; Cat's)<br/>\n<br/>\n<br/>\nBAB: 26 (Four Attacks/ Round)<br/>\n<br/>\nAB: +45/ +40/ +35/ +30 \u2192  +47/ +42/ +37/ +32 (Bard Song) \u2013 (Scimitar)<br/>\n<br/>\nDMG: 1D6 + 15 / 18-20 x2 \u2192 1D6 +18 / 18-20 x2 (Bard Song) \u2013 (Scimitar)<br/>\n<br/>\n<br/>\nSpellcasting: Bard 6th Circle level of spells plus full UMD<br/>\n<br/>\nBlackguard Bull's Strength 1/Day (stack-able)<br/>\n<br/>\nBard Song 26 uses/ Day each one lasts for 100 Rounds \u2013 Same goes for Curse Song<br/>\n<br/>\n<br/>\nLEVELING GUIDE:<br/>\n<br/>\n01) BARD (01): Power Attack, Cleave<br/>\n02) BARD (02):<br/>\n03) BARD (03): Curse Song<br/>\n04) BARD (04):<br/>\n05) BARD (05):<br/>\n06) BARD (06): Still Spell<br/>\n07) BARD (07):<br/>\n08) BARD (08):<br/>\n09) BG (01): Knockdown<br/>\n10) BG (02):<br/>\n11) BG (03):<br/>\n12) BG (04): Divine Might<br/>\n13) RDD (01):<br/>\n14) RDD (02):<br/>\n15) RDD (03): Blind Fighting<br/>\n16) RDD (04):<br/>\n17) RDD (05):<br/>\n18) RDD (06): WF: Scimitar<br/>\n19) RDD (07):<br/>\n20) RDD (08):<br/>\n21) RDD (09): EWF: Scimitar<br/>\n22) RDD (10):<br/>\n23) BARD (09):<br/>\n24) BARD (10): Epic Prowess<br/>\n25) BARD (11):<br/>\n26) BARD (12):<br/>\n27) BARD (13): Armor Skin<br/>\n28) BARD (14):<br/>\n29) BARD (15):<br/>\n30) BARD (16): Great Strength I<br/>\n31) BARD (17):<br/>\n32) BARD (18):<br/>\n33) BARD (19): Great Strength II<br/>\n34) BARD (20):<br/>\n35) BARD (21):<br/>\n36) BARD (22): Great Strength III<br/>\n37) BARD (23): Lasting Inspiration<br/>\n38) BARD (24):<br/>\n39) BARD (25): Great Strength IV<br/>\n40) BARD (26): ESF: Perform<br/>\n<br/>\nSPECIAL NOTES:<br/>\n<br/>\nBard Song at 21st level gives 2 AB/ 3 DMG/ 2 Fort/ 3 Ref/ 3 Will/ 5 AC/ 30 HP's / 9 to all Skills<br/>\n<br/>\nBard Song at 26th level gives 2AB/ 3DMG/ 2 Fort/ 3 Ref/ 3 Will / 6AC/ 40 HP's / 15 to all skills<br/>\n<br/>\nBard Curse Song subtracts  all these from your opponents<br/>\n<br/>\nDivine Might gives 3 DMG/ 3 Rounds \u2192 9 DMG/ 9 Rounds (Buffed CHA)<br/>\n<br/>\nMoghedien is immune to Fire, Paralysis, Sleep and has Darkvision<br/>\n<br/>\n<br/>\n*Thanks for your input and constructive critisism Max, this is exactly how it should be done and i feel that Moghedien is stronger by a lot now!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:40 AM - Jan 21, 2019",
+      "content": "<div>That is my guess, throw darkness around and begin sniping with ultra-vision or something, while the listen-focusses are taking advantage of the Elf's permanent detect mode to sense any other sneaks in the area.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:34 PM - Feb 10, 2019",
+      "content": "<div>The extra Rogue levels are for Epic Dodge and to be a good Rogue as well as a good archer, with stronger sneaks and more skills.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "5:45 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong><br/>\nENDING STATS:<br/>\nSTR - 40\n</div></blockquote>\nI like it<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:10 PM - Feb 10, 2019",
+      "content": "<div>A great combo this Rogue/ Wizard/ AA.<br/>\nI like the different nuances comparing the PvP and PvM builds.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "C1QP0X",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:53 AM - May 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><blockquote><div><strong>Valerfor wrote:</strong><br/>\nENDING STATS:<br/>\nSTR - 40\n</div></blockquote>\nI like it  </div></blockquote>\n\nHell yes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:07 AM - Apr 07, 2024",
+      "content": "<div>Hey everyone,<br/>\n<br/>\nLooking at arcane archer builds. Stumbled on this one. Was just wondering about the Weapon finesse feat in the PvM version. Is it in case you ever have to melee something ? Just curious if its a prereq for something thats escaping me.<br/>\n<br/>\nTy</div>"
     },
     {
-      "author": "HipRedux",
-      "avatar": "10577588_1510287072.jpg",
-      "timestamp": "9:14 PM - Mar 24, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A resourceful concept for sure.\u00a0 Using BG to solve the saves problem characteristic with RDDs... nice touch.\u00a0 And deferring to a Taunt allocation also a smart choice.<br/>\n<br/>\n A few minor points for those keeping score...<br/>\n<br/>\n Alignment restriction is actually <strong>NE/CE</strong>.\u00a0 Neither will protect against pally smites.<br/>\n<br/>\n Bard 26 will result in awesome penetration for offensive spells even without support feats and indispellable buffs except for Mords.\u00a0 The only issue is that casting attempts of those sweet 10d6 AoE ice storms will force this toon to either go robed w/o shield or use the Level 6 castings exclusively for stilled Level 5 spells, else suffer the 95% somatic failure (assuming fullplate/tower, of course).\u00a0 Alas, no Autostill available for bardic casting (not this build, anyway).<br/>\n<br/>\n Just think how easy it would be to level this toon with a skill schedule displayed!\u00a0 Super easy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:29 AM - Apr 07, 2024",
+      "content": "<div><blockquote><div><cite>Vinleboiteux wrote: <div class=\"responsive-hide\">Apr 07, 2024</div></cite>Hey everyone,<br/>\n<br/>\nLooking at arcane archer builds. Stumbled on this one. Was just wondering about the Weapon finesse feat in the PvM version. Is it in case you ever have to melee something ? Just curious if its a prereq for something thats escaping me.<br/>\n<br/>\nTy</div></blockquote>\nHeya!<br/>\n<br/>\nI like to take Weapon Finesse with my archers too if I can spare the feat. A lot of times there are tight hallways, small rooms, etc.. where you don't have a lot of room to maneuver. In those cases, finesse does help a lot!<br/>\n<br/>\nTake it EZ!</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Dante2377",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:52 PM - Jul 06, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a comment about a comment - you can't still Ice Storm; it's a level 6 Bard spell. \u00a0(well technically you could if you had custom gear that added level 7 slot, but that's highly unlikely). \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:38 AM - Apr 07, 2024",
+      "content": "<div>Max is exactly right about why Weapon Finesse is there.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "HipRedux",
-      "avatar": "10577588_1510287072.jpg",
-      "timestamp": "11:14 PM - Jul 06, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Dante2377 wrote:</strong><hr/>Just a comment about a comment - you can't still Ice Storm; it's a level 6 Bard spell. \u00a0(well technically you could if you had custom gear that added level 7 slot, but that's highly unlikely). \u00a0</div></blockquote>\n<div align=\"left\">Yes, I know.\u00a0 That was exactly my point. Once you've used all your Level 6 casts for Ice Storms, it doesn't leave any room for Stilled Healing Circle, Greater Dispelling and other somatic spells if you planned to toggle between robed and armored gear.<br/>\n<br/>\n The only way to avoid this conundrum is via comboing with another casting class that reaches the epic prereq for Autostill.\u00a0 And that is not an option in this build.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:48 AM - Apr 10, 2024",
+      "content": "<div>Ty :)</div>"
     },
     {
-      "author": "theflyingrodent",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:51 AM - Nov 03, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see a level split I know and love, good to see one of these here!\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:04 AM - Apr 12, 2024",
+      "content": "<div>Taking this guy for a spin in Aeilund :)</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:03 PM - Nov 04, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The only problem i ever had with these types of toons, much like with \"Andariel\", was that i got bored.. It really is that powerful, especially in the hands of one that can play her properly. You will also notice that i purposely avoided going the dev crit route there, although i already was forced to take two of the pre-requisite feats, cause that would make her totaly ridiculous, at least in an environment that the feat is allowed as is. For that modification, i would probably take out AS and two great STR's and fit in there IC/OW/DEV critical. Then with a buffed 50 Str plus Curse song i would proceed to deliver DC 52 Dev Crits from 12-20 all over the place... But it gets boring after a while, that's why i try many times to do something without it, much like i don't use (TS/2X Max IGMS + TS/ 3X Emp IGMS) to instant-kill every Boss.<br/>\n<br/>\n I pretty much agree with you with the split of this build, mostly because in PW's at some point it stops to be about yourself and becomes more about the \"party\", and that's why we play in PW's right? To play with other people as well, so a Bard's awesome all-day-long song boosts everyone's abilities and for that you need an epic Bard. That's why Bard 24/26 is always a \"must\" in my book, when design a toon like that. The other two classes can differ as much as they want, but as long as you have the epic song/curse, you are doing it right.<br/>\n<br/>\n Thanks for your comments, much appreciated ;)<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:24 PM - Nov 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nThe only problem i ever had with these types of toons, much like with \"Andariel\", was that i got bored.. It really is that powerful, especially in the hands of one that can play her properly. You will also notice that i purposely avoided going the dev crit route there, although i already was forced to take two of the pre-requisite feats, cause that would make her totaly ridiculous, at least in an environment that the feat is allowed as is. For that modification, i would probably take out AS and two great STR's and fit in there IC/OW/DEV critical. Then with a buffed 50 Str plus Curse song i would proceed to deliver DC 52 Dev Crits from 12-20 all over the place... But it gets boring after a while, that's why i try many times to do something without it, much like i don't use (TS/2X Max IGMS + TS/ 3X Emp IGMS) to instant-kill every Boss.<br/>\n<br/>\n<br/>\n \u00a0\n</div></blockquote>\n\nYou also need to drop a pre epic feat to pick up Great Cleave, which would have to be Divine Might<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Horri",
-      "avatar": "10759002_1544207915.jpg",
-      "timestamp": "3:31 PM - Dec 18, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does it matter what order to put ability points in? The build did not mention about this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Thorsson",
-      "avatar": "10758835_1513245773.jpg",
-      "timestamp": "3:37 PM - Dec 18, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Horri wrote:</cite>\nDoes it matter what order to put ability points in? The build did not mention about this.</div></blockquote>\nMaybe because they all go into Strength? The others all come from RDD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Horri",
-      "avatar": "10759002_1544207915.jpg",
-      "timestamp": "3:41 PM - Dec 18, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\n<blockquote><div><cite>Horri wrote:</cite>\nDoes it matter what order to put ability points in? The build did not mention about this.</div></blockquote>\nMaybe because they all go into Strength? The others all come from RDD.\n</div></blockquote>\n\nAh, I did not know this! Good to know. I thought you have to put points into the others. Thanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "11:31 AM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What's the trade-off if you go Bard 21/BG4/RDD15 instead? If you don't use extra feats for perform, you're not going to get more effects from bards song since you'll not get 80 perform (unless you use gear for it, but you won't be able to max out CON/STR/CHA then).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:40 AM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nope.<br/>\nYou get almost nothing for it, 1AC?<br/>\nThe feat you gain from RDD 14 you lose it from Bard 23 so its the same but you also lose undispellable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "11:57 AM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm convinced, but confused. Where can I read about undispellable? I haven't found anything that says bard/paladin of a certain level is undispellable?<br/>\n(Actually, you don't get 1AC, since you lose it on tumble if you want Lasting Inspiration, which you do. So you're even more right than you thought....)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:01 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nI'm convinced, but confused. Where can I read about undispellable? I haven't found anything that says bard/paladin of a certain level is undispellable?\n</div></blockquote>\nHave a look at Mick Dagger's Guide to Bards in the Game Guides section for the info.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "12:02 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, I dropped some STR (-2AB) in exchange for CHA, DevCrit and Divine Might AND Divine Shield in my Blackstone adaptation of Moghedien. With the +20AB battleaxe I already have, I think it will work. I'm gonna try her out now. I have already gathered all gear I need to max out both CON/STR/CHA and add +4DEX. I hope it works as well as advertised. Now a slow week of levelling up awaits.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "12:04 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Cornflower wrote:</cite>\nI'm convinced, but confused. Where can I read about undispellable? I haven't found anything that says bard/paladin of a certain level is undispellable?\n</div></blockquote>\nHave a look at Mick Dagger's Guide to Bards in the Game Guides section for the info.<br/>\n<br/>\nCheers\n</div></blockquote>\nI'm probably blind, but I can't see it....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:11 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Cornflower wrote:</cite>\nI'm convinced, but confused. Where can I read about undispellable? I haven't found anything that says bard/paladin of a certain level is undispellable?\n</div></blockquote>\nHave a look at Mick Dagger's Guide to Bards in the Game Guides section for the info.<br/>\n<br/>\nCheers\n</div></blockquote>\nI'm probably blind, but I can't see it....\n</div></blockquote>\nIt's in the section \"How many bard levels do I want\" under the Master of Multiclassing heading. 24 caster levels makes you undispellable<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:20 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Quick tip: 24 casting levels make you immune to dispelling from any source other than Mord's. <br/>\nStag played the ninja &amp; wrote it sooner than myself, you're really looking like Mick's disciple lately...<br/>\nJokes aside, go read the Bard guide, it's great.<br/>\n<br/>\nAn observation about where you play (BSK): You don't need DS, it is a wasted feat for Moghedien. <br/>\n10 dodge AC from boots+10, 4 dodge AC from haste, 5-6 dodge AC from Bard's song plus 1 more for mage armour, boom! you hit the cap already.<br/>\nSee what I mean? Be carefull for things like these in high-magic worlds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:36 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nQuick tip: 24 casting levels make you immune to dispelling from any source other than Mord's. <br/>\nStag played the ninja &amp; wrote it sooner than myself, you're really looking like Mick's disciple lately...<br/>\nJokes aside, go read the Bard guide, it's great.\n</div></blockquote>\nOh, don't get me wrong - I'm just trying to understand things better. I'll be back to normal before long. And as we all know, Mick walks alone<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:05 AM - Apr 13, 2024",
+      "content": "<div>I remember taking an AA, similar to this one, through Aielund.\u00a0 I must say that it was challenging at times.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:56 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Greater_dispelling\" rel=\"noreferrer\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>Greater dispelling</strong></span></a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "9:39 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nQuick tip: 24 casting levels make you immune to dispelling from any source other than Mord's. <br/>\nStag played the ninja &amp; wrote it sooner than myself, you're really looking like Mick's disciple lately...<br/>\nJokes aside, go read the Bard guide, it's great.<br/>\n<br/>\nAn observation about where you play (BSK): You don't need DS, it is a wasted feat for Moghedien. <br/>\n10 dodge AC from boots+10, 4 dodge AC from haste, 5-6 dodge AC from Bard's song plus 1 more for mage armour, boom! you hit the cap already.<br/>\nSee what I mean? Be carefull for things like these in high-magic worlds.\n</div></blockquote>\nIt's max 6AC per category, but I see your point.<br/>\n6 for boots, 4, for haste, 6 from bards song, 1 for mage armor (shadow), 1 for mage armor (regular), that's 18. So basically you only use 2 of your CHA-bonus-AC from Divine Shield. Did I get that right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:07 PM - Mar 09, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yup. Focus on damage instead but careful not to lower her strength too much in favour of charisma because strength also offers more AB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "9:10 AM - Mar 10, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I went with this:<br/>\nSTR: 18 (38)<br/>\nDEX: 8<br/>\nCON: 14 (16)<br/>\nWIS: 8<br/>\nINT: 10 (12)<br/>\nCHA: 14 (16)<br/>\n<br/>\nI dropped two Great STR (and some pre-epic feats) for Dev Crit.<br/>\n<br/>\nAlso, no Divine Shield. Used both Still Spell and Blind fight instead.<br/>\n<br/>\nDon't worry, I'll take good care of Moghedien for you. Thank you for the awesome build and all the help!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Goshozal",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:02 AM - Jun 18, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This build is a monster. It has taught me to love UMD, and I really love the effect that it can have on a group. I fired it up for Aielund act 3 and was amazed. You get a few party members together, buff everyone's AC + improved invis, debuff the enemies and just go to town. I turned Robert Black into an unstoppable IKD machine. I kinda want to roll it on a PW now just to be that guy that everyone wants to in their group.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:07 PM - Jun 18, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Goshozal wrote:</cite>\nThis build is a monster. It has taught me to love UMD, and I really love the effect that it can have on a group. I fired it up for Aielund act 3 and was amazed. You get a few party members together, buff everyone's AC + improved invis, debuff the enemies and just go to town. I turned Robert Black into an unstoppable IKD machine. I kinda want to roll it on a PW now just to be that guy that everyone wants to in their group.\n</div></blockquote>\nWelcome to the Bard class <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:31 AM - Jun 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bard class or else \"the rock star of Neverwinter Nights\".<br/>\n<br/>\n-- Party: How much love do you want from us?<br/>\n<br/>\n-- Bard class: YES!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "9:58 AM - Jun 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>HipRedux wrote:</cite>\nA resourceful concept for sure.\u00a0 Using BG to solve the saves problem characteristic with RDDs... nice touch.\u00a0 And deferring to a Taunt allocation also a smart choice.<br/>\n<br/>\n A few minor points for those keeping score...<br/>\n<br/>\n Alignment restriction is actually <strong>NE/CE</strong>.\u00a0 Neither will protect against pally smites.<br/>\n<br/>\n Bard 26 will result in awesome penetration for offensive spells even without support feats and indispellable buffs except for Mords.\u00a0 The only issue is that casting attempts of those sweet 10d6 AoE ice storms will force this toon to either go robed w/o shield or use the Level 6 castings exclusively for stilled Level 5 spells, else suffer the 95% somatic failure (assuming fullplate/tower, of course).\u00a0 Alas, no Autostill available for bardic casting (not this build, anyway).<br/>\n<br/>\n Just think how easy it would be to level this toon with a skill schedule displayed!\u00a0 Super easy.\n</div></blockquote>\n\nHi Valerfor, HipRedux and ECBers<br/>\n<br/>\nI love this build and I've got to try it.<br/>\n<br/>\nJust thought I would comment regarding potential paladin smites. In modules which allow alignment change it could be pretty simple to shift from NE to TN once you have done with your Blackguard levels, at level 12. I've recently done a bit of research and posted in our game guides section of the forum into the practical aspects of alignment changes.<br/>\n<br/>\nFirstly Valerfor's build allows the player 12 levels (Bard 8, Blackguard 4) to make your alignment borderline NE (ie Neutral (50) Evil (29)), which is like, one and a half whole modules. You might achieve this goal early, you can just then\u00a0then just hover there at that alignment getting ready to shift once you have done with Blackguard. You could very feasibly achieve this in a popular module such as Aielund Act 1 and Act 2.\u00a0<br/>\n<br/>\nOnce you get Blackguard 4 you can just have a Good shifting conversational option and suddenly your alignment has shifted from Neutral (50) Evil (29) to True Neutral (50, 50). And now Moghedien is 'Smite proof'.<br/>\n<br/>\nMoghedien could even go on to be 'reformed' to be a good character as the modules progress as you retain your blackguard abilities with this shift (just not the ability to further level BG, which you no longer need after you get Bull's Strength, Divine Might and Dark Blessing!)<br/>\n<br/>\nI guess the only issue would be if certain servers or module dont allow such alignment changes in characters to load into them. Then you could just simply disregard what I've written<br/>\n<br/>\nAnyway just in case you wanted to make this overpowered\u00a0build even stronger to make yourself 'smite' proof.\u00a0Feel free to check the\u00a0NWN Wiki on alignment and/or my post if this is confusing.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Revik",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:00 PM - Apr 07, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Can someone post a Dev Crit version of this build, preferably with either a skill progression, or just highlights of the skill progression?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "7:22 PM - Apr 07, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Revik wrote: <a data-post-id=\"20242\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20242&amp;sid=339cf1a4669b2ea3fceccb957248f2d8#p20242\">\u2191</a><div class=\"responsive-hide\">Apr 07, 2020</div></cite>Can someone post a Dev Crit version of this build, preferably with either a skill progression, or just highlights of the skill progression?</div></blockquote>\nIn post #10 Valefor tells you how to easily get dev crit.<br/>\n<br/>\nAs for the skill progression, skills don't have to be taken at any one level unless you play on a Persistent World that requires it.\u00a0 So just think of it more as what do you need at the moment.\u00a0 \u00a0 Hide and Lore are pre-reqs for BG and RDD, so go for those first.\u00a0\u00a0<br/>\n<br/>\nIf you world has a lot of Knockdown/Disarm then also max Discipline every level.\u00a0 Umd helps with everything you want to use but normally cant.. so keep that filled.\u00a0 Perform handles your Bard Songs/Curses.. so max that every Bard level.\u00a0 \u00a0Tumble is only really useful in blocks of 5, so when you can add 5 points at a time, do so....<br/>\n<br/>\nSo while a skill sheet is nice, it isn't that difficult to let the flow of the game dictate which ones need boosting at each level...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Revik",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:09 PM - Apr 07, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Looking at Valefors answer in #10, it looks like he forgets to mention Great Cleave.\u00a0 What do you guys recommend I substitute that in for in this build?\u00a0 It looks like it comes down to either Knockdown, Divine Might, or Blind Fighting.\u00a0 And I know there was some discussion about Taunt vs Discipline for this build, but can someone direct me to a link discussing the pros of Taunt?\u00a0 It seems pretty niche to me compared to resisting knockdowns, but then again, I'm pretty new to all of this.<br/>\n<br/>\nThanks for the help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Revik",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:13 PM - Apr 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I ended up dropping Divine Might.\u00a0 I'll let you know how it goes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "CZero",
-      "avatar": "10759266_1585974228.jpg",
-      "timestamp": "6:54 AM - Apr 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm trying this build out now, though leveling is a bit painful. Doesn't seem like you can swap until melee until you hit BG at lvl 9, correct?<br/>\nAfter that I think it makes perfect sense and I'm looking forward to trying this build out.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cenerae",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:44 PM - Apr 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can handle the early levels with a rapier/morningstar and tower shield, from my own personal experience with this. Helps make up for being stuck in medium armor until the first blackguard level in the AC department.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Pan Draconis",
-      "avatar": "10759307_1674117984.jpg",
-      "timestamp": "8:55 AM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One (maybe the one) of my favourite builds because I like his raw power and the infinite bard song for lazy palyers as me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vinleboiteux",
-      "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "5:41 PM - Jan 07, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Once again performing some major thread necromancy.<br/>\n<br/>\nWould this build go all str ? Or take some cha as well while leveling ?<br/>\n<br/>\nWas thinking of using it for Swordflight. Though first few levels might be hard\u2026.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:21 PM - Jan 07, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"28961\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28961&amp;sid=339cf1a4669b2ea3fceccb957248f2d8#p28961\">\u2191</a><div class=\"responsive-hide\">Jan 07, 2024</div></cite>Once again performing some major thread necromancy.<br/>\n<br/>\nWould this build go all str ? Or take some cha as well while leveling ?<br/>\n<br/>\nWas thinking of using it for Swordflight. Though first few levels might be hard\u2026.</div></blockquote>\nThis build is one of the greats, though yes at the beginning it's hard in some environments. <br/>\nIt takes pure strength, only gaining 2 points of charisma via red dragon disciple levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vinleboiteux",
-      "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "1:24 AM - Jan 17, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Going through Aeilund with this. Went with Greatsword just cause I can\u2019t imagine the original character using a shield :) The whole dreamwalker, manipulating aspect works well with bard though. Good job, I really like the idea of playing this character.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:50 AM - Jan 17, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"28966\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28966&amp;sid=271cff51b55d649f47fc879fb00f4088#p28966\">\u2191</a><div class=\"responsive-hide\">Jan 17, 2024</div></cite>Going through Aeilund with this. Went with Greatsword just cause I can\u2019t imagine the original character using a shield :) The whole dreamwalker, manipulating aspect works well with bard though. Good job, I really like the idea of playing this character.</div></blockquote>\n<details><summary>Spoiler</summary>If you play Aielund (or any other module) with EMS there are several changes to the Bard class:\nYou get Weapon Proficiency Rogue.\nYou get 6 skill points per level + int bonus (x4 at lvl 1)\nYou have the following extra spells to choose from:\nBanishment as C5\nDominate Monster as C6\nEndurance as C2\nFreedom Of Movement as C4\nGreater Shadow Conjuration as C5\nMass Charm as C6\nRay Of Frost as C0\nShadow Conjuration as C4\nStoneskin as C4\nThe Bard song and Curse song\u00a0 are changed:\nEvery 6 levels starting at Bard 1: +1 AB, +1 Damage (Bard 1, 7, 13, 19, 25 etc)\nEvery 6 levels starting at Bard 3: +1 Fort\nEvery 6 levels starting at Bard 5: +1 Reflex\nThere is no level 30 song cap\nAt lvl 16 the bonus is: +3 AB, +3 Damage, +3 AC, +3 Fort, +3 Will, +2 Refl, +2 skills, +12 HP, and there is not a clearly defined \"Sweet spot\" at lvl 16 anymore.\nLasting Impression is only 2x normal song duration (i.e. 20 rounds)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vinleboiteux",
-      "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "10:33 AM - Jan 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 23<br/>\nMissing 9 divine dmg from Divine might<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vinleboiteux",
-      "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "5:41 PM - Feb 06, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Me again!<br/>\n<br/>\nApproaching the end of Aielund with my Moghedien :) figured I would share how it all played out. Level 28 right now. I ended up not using still spell all that much. Mostly took off armor for buffs before fights. Then both songs/ divine might. Sometimes a stilled wounding whispers or amplify. Always felt I din\u2019t have enough spell slots and would miss out. Now that I feel i got enough to use still spell, I find a bard armor with permahaste and -% spell failure :/<br/>\n<br/>\nThe only fight that was pretty hard was the early wyvern fight. Really enjoying this build!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:30 PM - Apr 13, 2024",
+      "content": "<div><details><summary>Spoiler</summary>Playing Aielund with an archer becomes much easier once you can afford the boots of travelling \n</details>\nedit: fixed the scroller</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:27 PM - Feb 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vinleboiteux wrote: <a data-post-id=\"28991\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28991&amp;sid=271cff51b55d649f47fc879fb00f4088#p28991\">\u2191</a><div class=\"responsive-hide\">Feb 06, 2024</div></cite>\nThe only fight that was pretty hard was the early wyvern fight. Really enjoying this build!</div></blockquote>\nThis is my poor old brain forgetting stuff, but I can't remember for the life of me that wyvern fight - where/when is it? (Stick it in a spoiler, please.)<br/>\n<br/>\nHe couldn't half build a character, our Valerfor - glad you're enjoying her!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:30 PM - Apr 13, 2024",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Apr 13, 2024</div></cite>Spoiler:<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nPlaying Aielund with an archer becomes much easier once you can afford the boots of travelling</div></blockquote>\nDon't think that spoiler worked, Mick - it was more of a 'scroller'!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Vinleboiteux",
       "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "9:54 PM - Feb 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The wyvern is pretty early \n<details><summary>Spoiler</summary>\nIn a cave that you explore in the calespur ranges. In act1. Its two young wyverns with one adult.\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:52 PM - Apr 13, 2024",
+      "content": "<div>We talking solo right ?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:26 PM - Feb 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "soulfullmusikk",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:14 PM - Mar 31, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi . . ., I was wondering if someone can post the skill point lvl progression :)\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:08 AM - Apr 14, 2024",
+      "content": "<div><blockquote><div><cite>Vinleboiteux wrote: <div class=\"responsive-hide\">Apr 13, 2024</div></cite>We talking solo right ?</div></blockquote>\nWell that depends on how you play. For me, Aielund companions just offer too much to ignore - better AI, quality banter, possible romance, side quests, covering up for being a dumb-ass, etc. Some players are more - being nice - self-motivated. Up to you, really: it'll make no real difference to your final xp.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Vinleboiteux",
       "avatar": "10759636_1701929568.jpeg",
-      "timestamp": "1:40 AM - Apr 07, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did for aeilund:<br/>\n<br/>\nBard levels:<br/>\nHide, lore (min values for BG)<br/>\nDisc, perform, persuade ( stopped at 10), spellcraft, tumble and umd. Multiples of fives for the last two.<br/>\n<br/>\nBg levels:<br/>\nDisc and persuade<br/>\n<br/>\nRDD levels:<br/>\nDisc and craft weapon<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:42 AM - Apr 14, 2024",
+      "content": "<div>Yes I know. Just wondering if the challenge being AA was also from being solo.</div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:10 AM - Apr 16, 2024",
+      "content": "<div><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10235235&amp;sid=9c1417bf86fa4079afe5388ad2fb3407\">Mick Dagger</a> wrote: <div class=\"responsive-hide\">Apr 13, 2024</div></cite><details><summary>Spoiler</summary>Playing Aielund with an archer becomes much easier once you can afford the boots of travelling \n</details>\nedit: fixed the scroller</div></blockquote>\n\nYou mean haste ones ? Don\u2019t remember when they start showing up.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:29 AM - Apr 16, 2024",
+      "content": "<div>The boots of travel are not full-fledged haste.\u00a0 They only increase your movement speed.\u00a0 That's still nice to have, and handy for an archer who wants to stay out of melee range.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:15 PM - Apr 16, 2024",
+      "content": "<div>They increase the movement speed as if they were boots of permanent Expeditious retreat. When your character equips them, they give a speed increase to the entire party.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:17 AM - Apr 17, 2024",
+      "content": "<div>Oh don\u2019t remember coming across those.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:05 AM - Apr 17, 2024",
+      "content": "<div>They can be bought in the town where you start, from the leather and cloth merchant couple next door to the mayor, but it will be a while before and afford them.\u00a0 I remember getting them in a random drop once.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "4:14 AM - Apr 17, 2024",
+      "content": "<div>Just found them. The speed increase is in the description and not in the properties which lists only +1 dodge AC. Thats why I missed them. Ok ty people! Now i\u2019ll stop hijacking this build thread.<br/>\n<br/>\nIts a cool build I am enjoying the mix of rogue skill set with AA dmg. Can\u2019t wait for more AA levels :)</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:36 AM - Apr 17, 2024",
+      "content": "<div>I also love the ranged sneak attacks.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "7:42 AM - Apr 17, 2024",
+      "content": "<div>I agree ! Though sometimes they are jot triggering and I\u2019m not sure why. If an enemie is hitting someone else and they are not immune to it. I should be sneak attacking. But sometimes I\u2019m not. I gave up trying to figure it out.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:16 AM - Apr 18, 2024",
+      "content": "<div>For a ranged sneak attack, you have to be within 30 feet.\u00a0 Maybe you weren't.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:18 PM - Apr 21, 2024",
+      "content": "<div>Yes maybe thats it. Trying to be closer. No clue what 30 feet actually represents in game.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:54 PM - Apr 21, 2024",
+      "content": "<div><blockquote><div><cite>Vinleboiteux wrote: <div class=\"responsive-hide\">Apr 21, 2024</div></cite>Yes maybe thats it. Trying to be closer. No clue what 30 feet actually represents in game.</div></blockquote>\nIf you were a human character, it'd be about 5xheight, but horizontal (obvs), so maybe add another for being an elf.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "11:34 PM - Apr 24, 2024",
+      "content": "<div>Ok distance was the issue ! Now that I\u2019m paying attention I am getting way more sneak attacks. Also dmg really picked up at level 15 with my third attack !<br/>\nOk I\u2019m not a builder, but I am curious, if at level 15 I just got my AB to 11 will I be hitting 16 at level 20 for 4 attacks per round with 4 leveks of AA and one Rogue level left ?</div>"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "12:01 AM - Apr 25, 2024",
+      "content": "<div><blockquote><div><cite>Vinleboiteux wrote: <div class=\"responsive-hide\">Apr 24, 2024</div></cite>Ok I\u2019m not a builder, but I am curious, if at level 15 I just got my AB to 11 will I be hitting 16 at level 20 for 4 attacks per round with 4 leveks of AA and one Rogue level left ?</div></blockquote>\nIf you are following the build plan then yes!\u00a0 It'll be the 10 LVL of rogue which will add +1 to BAB (rogue does not add to BAB on the 1st LVL of each group of 4 before character level 20) and AA will add 1 per level - Total BAB by level 20 will be 16 and therefore 4 attacks per round.</div>"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "12:01 AM - Apr 25, 2024",
+      "content": "<div>Just not sure how its calculated. So if I go 10 x 0.75 (rogue) + 0,5 (wiz) + 9 x 1 ( AA) I get AB of 17.<br/>\n<br/>\nBut if I just add whats left 11 (current AB) + 4 x 1 (AA) + 0,75 (rogue) i get 15.75.<br/>\n<br/>\nI assume the first way is how its calculated ? I\u2019m curious how its done and not doubting the actual build here :)</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:32 AM - Apr 25, 2024",
+      "content": "<div>AA is a warrior class and gets +1BAB on every level pre epic.<br/>\n<br/>\nRogue is \"3/4 BAB class\" and gets +0 BAB on class level 1, 5, 9, 13 and 17 taken pre epic and +1 BAB on class level 2, 3, 4, 6, 7, 8, 10...etc. taken pre epic.<br/>\nSo the 10th rogue level will grant a +1BAB.<br/>\n<br/>\nIn epic levels all classes get +1BAB every second level.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:20 AM - Apr 25, 2024",
+      "content": "<div>The 1/2 AB classes, like Wizard, give you a +1 BAB on even levels of the class, so no on levels 1, 3, and 5, but yes on levels 2, 4, and 6.\u00a0 The 3/4 AB classes, like Rogue, give you +1 BAB on all levels except the first one in each group of 4, so no on levels 1, 5, 9, 13, and 17, but yes on all the others.\u00a0 Full AB classes, like AA, give you +1 BAB on all levels.\u00a0 All of this applies only up to level 20.\u00a0 Starting at level 21, all builds, no matter what classes, get +1 BAB only on even levels, so the highest BAB possible at level 40 is 30.<br/>\n<br/>\nAt level 20, this build will have 7 BAB from the 10 levels of Rogue (missing ones from the 1st, 5th, and 9th levels of Rogue), 0 BAB from the 1 level of Wizard, and 9 BAB from the 9 levels of AA, for a total of 7 + 0 + 9 = 16 BAB at level 20, and 26 BAB at level 40.\u00a0 This will give you 4 attacks, +1 if you have Haste, and another +1 if you activate Rapid Fire mode, for up to 6 attacks.<br/>\n<br/>\nAlso, you can't add levels of different classes, a mistake I made early on.\u00a0 Here's an example:\u00a0 At level 20, if you have Monk 11, Fighter 4, and SD 5, you might think that the 16 levels of 3/4 classes would give you 12 BAB and 4 levels of fighter will add 4 BAB to make 16 BAB, right?\u00a0 Wrong!\u00a0 You lose a BAB at Monk levels 1, 5, and 9, and also at SD levels 1 and 5, which lowers your BAB at level 20 to only 15, so you don't get that last attack.\u00a0 To fix this, follow the Rule of Fours, with Monk 12, Fighter 4, SD 4 at level 20, waiting until after level 20 for that 5th level of SD for Defensive Roll, to qualify for Epic Dodge.<br/>\n<br/>\nEDIT:\u00a0 I should have looked at the next page to see that Mick had already offered an explanation.<br/>\n<br/>\nFURTHER EDIT:\u00a0 It might look like this build violates the Rule of Fours, with 10 pre-epic levels of Rogue, but 2 of the AA levels, with full BAB, complete the set that started with Rogue 9 and 10, and another 3 levels of AA complete another set of 4 that started with the Wizard level, leaving 4 more AA levels for the final set of 4.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:35 AM - Apr 25, 2024",
+      "content": "<div>Very well explained Empyre!<br/>\n<br/>\nI often use the 8/2/10 split pre epic for Arcane archers. Eg Rogue 8 (or Monk 8), Wizard 2, AA 10 and get BAB 17 at level 20.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "1:59 AM - Apr 26, 2024",
+      "content": "<div>That clears things up alot thanks guys :)</div>"
     }
-  ]
+  ],
+  "author-color": "#00AA00"
 }

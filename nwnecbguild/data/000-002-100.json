@@ -4,113 +4,44 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "100",
-  "name": "Divine Power and Monk UBAB",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-power-and-monk-ubab-t2355608.html",
-  "author": "Stagmeister",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 16,
+  "name": "Monk UBAB and extra attacks - Dragon version",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-ubab-and-extra-attacks-dragon-version-t2355612.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": "4",
+  "views": "360",
   "posts": [
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:51 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hopefully this is a quickie, and I've just missed something.<br/>\n<br/>\nHow does the extra attack at full AB granted by DP impact on the Monk attack progression when using either fist or kama, if at all?<br/>\n<br/>\nI ask because, yes, I'm having a serious mull about combining the two classes (without using Monk as cheese) in a meaningful way (meaningful in my terms, that is). Also because, assuming a pre-epic BAB of no more than 15 (equating to 3 APR), Monk UBAB progression means you'll still get more than 3 APR pre-epic. So...?<br/>\n<br/>\nConfused cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "7:29 PM - Nov 19, 2020",
+      "content": "<div>I am trying to understand how Monk UBAB and extra attacks work when shapeshifted, in particular in relation to the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-1-69-t2355108.html\" rel=\"noreferrer\" target=\"_blank\">Order of Jormungandr</a>\u00a0build.<br/>\n<br/>\nSuppose that I have a Druid/Monk/Cleric build, at level 40. In Dragon shape, my AB is 25 (base) + 19 (STR) + 6 (claws enhancement) -2 (size) +1 (EP) = 49.<br/>\nGiven Monk attack progression, I have 5 attacks/round, at 49/ 46/ 43/ 40/ 37 AB (assuming all are claw attacks).<br/>\n<br/>\nNow according to the\u00a0<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Free_attack\" rel=\"noreferrer\" target=\"_blank\">wiki</a>, free attacks for those who use creature weapons follow the normal attack progression, which is -3 per attack for a Monk. So assuming Divine Power (counting the extra attack but not yet the bonus AB), Flurry of Blows, and Haste, my attack progression should look like 47/ 44/ 41/ 38/ 35/ 32/ 29/ 26 (in practice in my case it looks like this +10, with DP adding 5 to AB and 10 to STR).<br/>\n<br/>\nBeing a Cleric, I can buff AB with Divine Favor (5) + Divine Power (5) + Battletide, Bless, Aid, Prayer (5), plus buff STR to cap for an extra 6 AB. Now, this hits the AB bonus cap on claw attacks, so in practice I end up with 67 AB on the first attack (and not 68). The schedule would be 67/ 64/ 61/ 58/ 55/ 52/ 49/ 46 using only claw attacks. Notice that the bite attacks happen at -5 AB when fully buffed instead of -6, and correctly so.<br/>\n<br/>\nI have tested this in the PGCC (I know the character sheet lies, I looked at the logs), and it seems to work the way I described so far, up to some possible difficulties distinguishing bite and claw attacks.<br/>\n<br/>\nOn the other hand, in the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-1-69-t2355108.html\" rel=\"noreferrer\" target=\"_blank\">OoJ</a>\u00a0post* it seems that the claimed schedule is<br/>\n+66/ +66/ +66/ +63/ +60/ +57/ +54/ +68 (Fully Buffed in Dragon Shape &amp; Flurry of Blows)<br/>\n*Notice that the OoJ has 24 BAB, so claw attacks should indeed have 1 less AB than my character.<br/>\n<br/>\nThis seems to assume that some of the free attacks happen at max AB? I think I am missing something, what am I missing?<br/>\nThanks to the community, for everything!</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "5:15 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Most of the time you should aim for 15 BAB. Effectively you end up with -1 AB on all attacks but your lowest AB attack gets a boost.<br/>\nFocusing purely on BAB and the Flurry AB penalty (ignoring STR/DEX/Feats/AB bonuses/etc) you have the following AB progressions.<br/>\n<br/>\n15 BAB + Monk APR: +15/+12/+9/+6/+3<br/>\n15 BAB + Monk APR + Divine Power: +15/+12/+9/+6/+3/+15<br/>\n16 BAB + Monk APR: +16/+13/+10/+7/+4/+1<br/>\n<br/>\n15 BAB + Monk APR + Divine Power + Flurry: +13/+10/+7/+4/+1/+13/+8<br/>\n16 BAB + Monk APR + Flurry: +14/+11/+8/+5/+2/-1/+14<br/>\n<br/>\n15 BAB + Monk APR + Divine Power + Haste: +15/+12/+9/+6/+3/+15/+10<br/>\n16 BAB + Monk APR + Haste:\u00a0 +16/+13/+10/+7/+4/+1/+16<br/>\n<br/>\n15 BAB + Monk APR + Divine Power + Flurry + Haste:\u00a0+13/+10/+7/+4/+1/+13/+8/+3<br/>\n16 BAB + Monk APR + Flurry + Haste: +14/+11/+8/+5/+2/-1/+14/+9<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:39 PM - Nov 19, 2020",
+      "content": "<div>Free attacks changed at some point (well before 1.69) from always using full BAB to following a descending progression. It's possible that that was the correct AB progression when that build was first posted, but your +67/.../+46 progression is the correct one for 1.69 / EE.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:35 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's really helpful, Yunim. Thank you<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "8:25 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, Divine Power also bumps you to Fighter BAB which works for monk UBAB as welI.  I put something together on this thread awhile back:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18460#p18460\" rel=\"noreferrer\" target=\"_blank\">viewtopic.php?p=18460#p18460</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:30 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also very good stuff, thanks, Zanithar!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "8:48 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is also worth noting, there are further nuances with dual wield and monk flurry of blows not explored in that thread and that I do not fully remember off the top of my head.  The -2 malus for using those abilities does not apply in all situations.<br/>\n<br/>\nIf you are curious, I can review it again and offer a more complete view,<br/>\n<br/>\nAlso, the attack sequence is actually Main -&gt; Free -&gt; Secondary.  I have it represented in that thread as Main -&gt; Secondary -&gt; Free.  A small thing, but worth noting.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:01 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's kind of you to offer, Zanithar, and, while it probably won't impact on the particular build I have in mind, this is the General Discussion forum, after all, and I'd be a special kind of idiot to turn down offered knowledge!<br/>\n<br/>\nAnd I'm only a bog-standard idiot, so will happily say, \"Yes please - if it's not too much trouble!\"<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "11:31 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10404082&amp;sid=c65b4b4a7ed7a2e3e677a020e90c1398\">Stagmeister</a> wrote: <a data-post-id=\"22668\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22668&amp;sid=c65b4b4a7ed7a2e3e677a020e90c1398#p22668\">\u2191</a><div class=\"responsive-hide\">Nov 15, 2020</div></cite>... this is the General Discussion forum, after all, and I'd be a special kind of idiot to turn down offered knowledge!<br/>\n<br/>\nAnd I'm only a bog-standard idiot, so will happily say, \"Yes please - if it's not too much trouble!\"\n</div></blockquote>\nThe rest of us (other than Yumin and Zanithar) are of the \"village\" variety; just watching what's going on and cheering for the winner.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:35 PM - Nov 15, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm curious about what kind of build you have in mind Stag.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:07 AM - Nov 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em><em class=\"mention\">@MentalDekay</em></em> : Winner? Not a competition, my friend!<br/>\n<br/>\n<em><em class=\"mention\">@Mick Dagger</em></em> : As ever, you see to the core of things. I'd rather give my particular build thoughts in the Build Requests forum (should they amount to anything), but as it's you...<br/>\n<br/>\nI'm looking at a really solid AC defence, using the Monk/ Cleric Wisdom synergy - thus negating the need for UD. However, I haven't yet formalized whether to go for Dexterity or Strength as another strong stat. If DEX, I'd probably be looking at SD5 to get both ED and UD (at SD2). If STR, probably CoT, but only in small levels for an extra feat or two.<br/>\n<br/>\nFor the main two classes - Cleric and Monk - I was looking at between 15 and 16 levels of Cleric and 20+ of Monk. That said, in an ideal world I'd like an undispellable Cleric of 25+ and more than 20 Monk, as well as a 3rd class. So 50 levels, really. But ignoring that impossibility, and knowing my preferred play-style, a self-buffing (if easily dispelled) meleer with loads of Monk goodies.<br/>\n<br/>\nI'm kind of building the character before building the character...if that makes any sense?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:46 AM - Nov 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It makes perfectly sense, Stag.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "3:17 AM - Nov 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22672\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22672&amp;sid=bea84df2fbb1f2ab55daeb1e95646b44#p22672\">\u2191</a><div class=\"responsive-hide\">Nov 16, 2020</div></cite><em><em class=\"mention\">@MentalDekay</em></em> : Winner? Not a competition, my friend!</div></blockquote>\nSure sure.. But a good debate is fun for the audience. And educational when someone like Yumin can drop that attack schedule from memory... <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<blockquote><div>So 50 levels, really. </div></blockquote>\nYou and me buddy. Where's our Oompa Loompa's?! I want it now!!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:36 AM - Nov 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm pretty sure you will need SD5 for Defensive Roll, a requirement for ED.<br/>\n<br/>\nI had this same conundrum when I was making Deadly Nightshade.\u00a0 I believe it is the \"quickest\" way to ED, level-wise.\u00a0 Otherwise one needs lots of Rogue <blockquote><div>The <em>defensive roll</em> and <em>improved evasion</em> requirements imply a PC must have one of the following class level combinations in order to qualify for <em>epic dodge</em>:\n<ul>\n<li>13 rogue levels,</li>\n<li>10 shadowdancer levels,</li>\n<li>10 rogue and 5 shadowdancer levels,</li>\n<li>9 monk and 10 rogue levels, or</li>\n<li>9 monk and 5 shadowdancer levels.</li>\n</ul>\n</div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:40 AM - Nov 20, 2020",
+      "content": "<div><blockquote><div><cite>Yunim wrote: <div class=\"responsive-hide\">Nov 19, 2020</div></cite>Free attacks changed at some point (well before 1.69) from always using full BAB to following a descending progression. It's possible that that was the correct AB progression when that build was first posted, but your +67/.../+46 progression is the correct one for 1.69 / EE.</div></blockquote>\nSo, has this been changed again? Because I remember I tested this a long time ago, and the extra attacks didn't follow the Ubab progression when I tested it. How is that possible? I'm confused!</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "5:51 AM - Nov 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The dual-wielding AB penalty doesn't apply to free attacks but other AB penalties (Curse Song, Flurry, Expertise, etc) do.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:43 AM - Nov 20, 2020",
+      "content": "<div>Free attacks work differently with normal weapons and creature weapons.<br/>\nFor normal weapons, the free attacks start at full BAB and descend at -5 AB, regardless of Monk APR.<br/>\nFor creature weapons, the free attacks continue after normal attacks and descend at -5 AB without Monk APR or -3 AB with Monk APR.</div>"
     },
     {
       "author": "Maximillian_Kane",
       "avatar": "10758866_1605883460.jpg",
-      "timestamp": "1:26 PM - Nov 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22672\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22672&amp;sid=bea84df2fbb1f2ab55daeb1e95646b44#p22672\">\u2191</a><div class=\"responsive-hide\">Nov 16, 2020</div></cite><em><em class=\"mention\">@MentalDekay</em></em> : Winner? Not a competition, my friend!<br/>\n<br/>\n<em><em class=\"mention\">@Mick Dagger</em></em> : As ever, you see to the core of things. I'd rather give my particular build thoughts in the Build Requests forum (should they amount to anything), but as it's you...<br/>\n<br/>\nI'm looking at a really solid AC defence, using the Monk/ Cleric Wisdom synergy - thus negating the need for UD. However, I haven't yet formalized whether to go for Dexterity or Strength as another strong stat. If DEX, I'd probably be looking at SD5 to get both ED and UD (at SD2). If STR, probably CoT, but only in small levels for an extra feat or two.<br/>\n<br/>\nFor the main two classes - Cleric and Monk - I was looking at between 15 and 16 levels of Cleric and 20+ of Monk. That said, in an ideal world I'd like an undispellable Cleric of 25+ and more than 20 Monk, as well as a 3rd class. So 50 levels, really. But ignoring that impossibility, and knowing my preferred play-style, a self-buffing (if easily dispelled) meleer with loads of Monk goodies.<br/>\n<br/>\nI'm kind of building the character before building the character...if that makes any sense?<br/>\n<br/>\nCheers</div></blockquote>\nHey Stag!<br/>\n<br/>\nAs the \"self-proclaimed\" expert on Cleric / Monks, allow me to pitch in.<br/>\n<br/>\nYunim provided the numbers, which might work for some. For me, I provide the logic of how it works. All regular attacks are done at Monk Ubab protection normally (you'll just gain 5 or more AB on each of them), so take a regular monk progression and add 5 (or rather, the difference between your character's pre-epic BAB and 20, and you'll have the new attack schedule). You should NEVER EVER EVER (as Yunim demonstrated) aim for a BAB 16 or more on a Cleric, as I've already emphasized in my guide.<br/>\n<br/>\nThe EXTRA attack provided by Divine Power will be dealt with separately, as well as extra attacks from other sources (Haste, Flurry of Blows, etc..). Each of the new extra attacks will come at -5 from each other, not following UBAB progression.\u00a0<br/>\n<br/>\nLet's take my Magical Master, for example. Fully buffed at level 40, you should have 61 AB, 59 with FoB active.<br/>\n<br/>\nHis Attack Schedule with Haste, FoB and Divine Power will be:<br/>\n<br/>\nRegular: 59/56/53/50/47 + Extra: 59/54/49 (extra attacks from DP, Haste and FoB respectively)<br/>\n<br/>\nI hope this clarifies how it works.<br/>\n<br/>\nAs for the build you're trying to reach, the DEX version I have already made. Please look at <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=2659#p2659\" rel=\"noreferrer\" target=\"_blank\">Bigby's Small Hand Complex</a> for inspiration / reference.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:58 PM - Nov 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Max, as ever.<br/>\n<br/>\nLooks like I'd already virtually duplicated your build (don't know how I missed it while searching, but I did), albeit unwittingly, so I reckon I'll see if I can do anything worthwhile with a STR version, which might involve more cleric and less monk (the d20 fists become less important in a STR build, even though they're always welcome, and mind spell immunity is always sweet, but can be covered by gear). Back to the old drawing board!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "3:46 PM - Nov 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"22690\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22690&amp;sid=bea84df2fbb1f2ab55daeb1e95646b44#p22690\">\u2191</a><div class=\"responsive-hide\">Nov 17, 2020</div></cite>Thanks Max, as ever.<br/>\n<br/>\nLooks like I'd already virtually duplicated your build (don't know how I missed it while searching, but I did), albeit unwittingly, so I reckon I'll see if I can do anything worthwhile with a STR version, which might involve more cleric and less monk (the d20 fists become less important in a STR build, even though they're always welcome, and mind spell immunity is always sweet, but can be covered by gear). Back to the old drawing board!<br/>\n<br/>\nCheers</div></blockquote>\nAlthough it would definitely be doable, there is a problem with this concept in that Monks are required to be wearing Robes and no Shield for their \"goodies\" to apply, so a STR version would probably suffer tremendously defensively, as it would have sub-par AC even with Monk Wisdom bonus. And if you do wear Armor + Shield, you lose all your stuff. There might be something there, but I reckon it's unlikely.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:36 AM - Nov 20, 2020",
+      "content": "<div>Thanks for clarifying, Yunim. I wasn't aware of this dfference!<br/>\n<br/>\nEDIT: And thank you, TheSquid for bringing it up! I learned something new today! After about 14 years we're still learning new stuff! What an amazing game this is!</div>",
+      "author-color": "#00AA00"
     }
   ]
 }

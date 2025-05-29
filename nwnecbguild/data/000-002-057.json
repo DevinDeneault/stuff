@@ -4,35 +4,36 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "057",
-  "name": "Evocation vs Conjuration",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/evocation-vs-conjuration-t2355952.html",
+  "name": "Overcoming arcane spell failure",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/overcoming-arcane-spell-failure-t2355957.html",
   "author": "darktooth",
   "avatar": "10759000_1542893921.jpg",
-  "replies": 3,
+  "replies": "3",
+  "views": "357",
   "posts": [
     {
       "author": "darktooth",
       "avatar": "10759000_1542893921.jpg",
-      "timestamp": "1:27 AM - May 30, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">A lvl 23 sorcerer, aside from having IGMS, Ice Storm, and Evard's Black Tentacles (no save spells), Wail of the Banshee and Finger of Death (death magic), Empower and Maximize metamagic, and Evocation and Conjuration Greater Spell Focus feats, has the following spells:<br/>\n\u00a0<br/>\nEvocation:<br/>\nIncendiary Cloud, Chain Lightning, Firebrand/Cone of Cold, Scintillating Sphere, Combust<br/>\n\u00a0<br/>\nConjuration:<br/>\nAcid Fog, Evard\u2019s Black Tentacles, Flame Arrow, Melf\u2019s Acid Arrow<br/>\n\u00a0<br/>\nShe now has to choose between Epic Spell Focus: Evocation and Epic Spell Focus: Conjuration. At first glance, and even comparing the damage potential of these spells against a single target, Evocation seems to be better:<br/>\n\u00a0\n<table class=\"post_content_table\"><tbody><tr><td><strong>Level</strong></td>\n<td><strong>Evocation*</strong></td>\n<td><strong>Conjuration*</strong></td>\n<td><strong>Difference (+ Evocation, - Conjuration)</strong></td>\n</tr>\n<tr><td>9</td>\n<td>Maximized Chain Lightning (120 x 7)<sup>a</sup></td>\n<td>Maximized Acid Fog (300 x 7)<sup>a</sup></td>\n<td>0</td>\n</tr>\n<tr><td>8</td>\n<td>Incendiary Cloud (322 x 8)</td>\n<td>Empowered Acid Fog (262.5 x 8)</td>\n<td>+476</td>\n</tr>\n<tr><td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr><td>5</td>\n<td>Maximized Combust (220 x 8)</td>\n<td>Empowered Flame Arrow (105 x 8)</td>\n<td>+920</td>\n</tr>\n<tr><td>4</td>\n<td>Empowered Combust (198.75 x 9)</td>\n<td>EBT (84.375 x 9)</td>\n<td>+1029.375</td>\n</tr>\n<tr><td>3</td>\n<td>Scintillating Sphere (35 x 9)</td>\n<td>Flame Arrow (70 x 9)</td>\n<td>-315</td>\n</tr>\n<tr><td>2</td>\n<td>Combust (129 x 9)</td>\n<td>Melf\u2019s Acid Arrow (35 x 9)</td>\n<td>+846</td>\n</tr>\n</tbody></table>\n*Spell School (average damage x number of spells per day)<br/>\n<sup>a</sup> Wail of the Banshee (instant death) tops these spells in damage<br/>\n<sup>b</sup> Finger of Death (instant death) surpasses these spells<br/>\n<br/>\n\u00a0<br/>\nHowever, when I looked at the representative spells, it still has me wondering, which is the better spell school?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:35 AM - Jun 04, 2022",
+      "content": "<div>The following are questions which I haven\u2019t found an answer in the nwnwiki:<br/>\n<br/>\n1. Does the spell failure from deafness stack with spell failure from taunt?<br/>\n<br/>\n2. A PC equips a small shield (+5% spell failure) but with this property (-50% reduced spell failure). In the character sheet, the chance of spell failure shows 0%. If the PC is taunted and struck deaf, what would be the total chance of spell failure?</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:11 AM - May 30, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Umm...what kind of enemies will you normally be facing?<br/>\n<br/>\nAssuming a bit, Evard\u2019s Black Tentacles can be hella good!\u00a0 Is it the vanilla version? Will you be playing a gnome?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "3:06 AM - May 30, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is my breakdown for spell schools:<br/>\n<br/>\nArcane: Necro<br/>\nClerics: Evo<br/>\nDruids: Conjo<br/>\n<br/>\nThe above are the premium schools for that class. Doesn\u2019t mean they can\u2019t make the others work. <br/>\n<br/>\nAs an aside, EBT doesn\u2019t use your foci, it\u2019s a grapple check that bypasses SR. <br/>\n<br/>\nAnd if you are arcane and it comes down to either/or between evo and conjo at level 23, maybe there\u2019s a third option you\u2019ve overlooked. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:39 AM - Jun 04, 2022",
+      "content": "<div>1. Afaik, it stacks negatively.<br/>\n<br/>\n2. It \"stacks\", meaning that the \"-45\" that is nor being shown on the character sheet (re: it lies) is still present - if one equips, for example, armor with spell failure, that spell failure will be reduced up to -45.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "darktooth",
       "avatar": "10759000_1542893921.jpg",
-      "timestamp": "3:51 AM - May 30, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@webshaman1</em>\u00a0, I am playtesting a human in the first area of the module, Pirates of the Sword Coast, where enemy NPCs are the same level as the PC<br/>\n<br/>\n<em class=\"mention\">@grizzled_dwarflord , Indeed, and Acid Fog has saves versus movement speed decrease only. I edited my first post to make it less confusing. So I think Evocation is the school more reliant on saves. Also yes, I have chosen Necromancy as the primary option.</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:44 AM - Jun 04, 2022",
+      "content": "<div>So in the case above, does spell failure from deafness (20%) stack with taunt (30%) and if it does, does the PC with small shield have a total chance of 5%? If he equips armor with the same property, will it nullify the spell failure?</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:47 AM - Jun 04, 2022",
+      "content": "<div>AFAIK, that would seem to be the case.<br/>\n<br/>\nI don't think that the source of the spell failure is relevant to the game engine - just the end result (meaning there are not different kinds of spell failure).</div>"
     }
   ]
 }

@@ -7,26 +7,28 @@
   "name": "Do I need CEP for high level mods?",
   "link": "https://www.tapatalk.com/groups/nwnecbguild/do-i-need-cep-for-high-level-mods-t2355586.html",
   "author": "Theophilus Fist",
-  "avatar": "10758890_1523693739.jpg",
-  "replies": 2,
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "231",
   "posts": [
     {
       "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
       "timestamp": "6:39 PM - Oct 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">In the 4-5 months that I've been back playing NWN (DE), I have 8-9 toons that I want to take to level 40.\u00a0 In the past, I would go through the Sands of Fate trilogy.\u00a0 SoF requires the CEP and I haven't reinstalled it yet, because I vaguely remember CEP (or something that went along with it) being buggy.\u00a0 So my questions are:<br/>\n<br/>\n1 - are their mods for Diamond Edition that will get me to level 40 (or the high 30s) that don't need CEP?<br/>\n2 - if I switch to EE, will I need CEP to run SoF and other mods?<br/>\n3 - Do I still have to worry about bugs from CEP or whatever that other companion thing was?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>In the 4-5 months that I've been back playing NWN (DE), I have 8-9 toons that I want to take to level 40.\u00a0 In the past, I would go through the Sands of Fate trilogy.\u00a0 SoF requires the CEP and I haven't reinstalled it yet, because I vaguely remember CEP (or something that went along with it) being buggy.\u00a0 So my questions are:<br/>\n<br/>\n1 - are their mods for Diamond Edition that will get me to level 40 (or the high 30s) that don't need CEP?<br/>\n2 - if I switch to EE, will I need CEP to run SoF and other mods?<br/>\n3 - Do I still have to worry about bugs from CEP or whatever that other companion thing was?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
       "timestamp": "7:12 PM - Oct 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">From the outset, let me say that I'm rubbish at the techy side of things.<br/>\n<br/>\nHowever, for what it's worth, I haven't had any problems with various incarnations of CEP. I currently have a CEP 2.something installed, along with a version or two of 1.somethings. The 1 stuff depends on when the module was released - unhelpfully described as necessary for \"older modules\", \"older than when?\" comes my frustrated wail. Generally speaking, it will tell you in either the Vault of in our own module threads. The more recent CEP I just load because it seems sensible. They don't fight each other, and so far all are working fine.<br/>\n<br/>\nSorry, should have said, I currently play on the 1.69 version (Diamond Edition).<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>From the outset, let me say that I'm rubbish at the techy side of things.<br/>\n<br/>\nHowever, for what it's worth, I haven't had any problems with various incarnations of CEP. I currently have a CEP 2.something installed, along with a version or two of 1.somethings. The 1 stuff depends on when the module was released - unhelpfully described as necessary for \"older modules\", \"older than when?\" comes my frustrated wail. Generally speaking, it will tell you in either the Vault of in our own module threads. The more recent CEP I just load because it seems sensible. They don't fight each other, and so far all are working fine.<br/>\n<br/>\nSorry, should have said, I currently play on the 1.69 version (Diamond Edition).<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Freaky Grandma",
       "avatar": "10758890_1523693739.jpg",
       "timestamp": "8:18 PM - Oct 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When playing EE, you still need the required haks to play a module that uses them.<br/>\n<br/>\nMaybe there is a module or module series that can get you to or close to level 40 that doesn't require CEP (or Project Q or other custom content), but if so, I'm not aware of it.<br/>\n<br/>\nThe latest version of CEP 2 seems to work fine (I remember some trouble with CEP 2.6) for me. I also didn't have any problems with CEP 1 when I played through Lord of Terror. Hostile NPCs or Henchies might not be a result of CEP anyway, sometimes the builder overlooked something (the \"faction\" system can be tricky). You also should be careful with what you have in your override folder when playing mods from the community. Some modules require that you leave your override folder empty (didn't have any problems with Lord of Terror which requires CEP 1 when I was using a few overrides). And bugs just happen. You wouldn't be the first player who runs into a bug that rarely occurs. If you have any trouble playing a module, you can always ask at the vault.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>When playing EE, you still need the required haks to play a module that uses them.<br/>\n<br/>\nMaybe there is a module or module series that can get you to or close to level 40 that doesn't require CEP (or Project Q or other custom content), but if so, I'm not aware of it.<br/>\n<br/>\nThe latest version of CEP 2 seems to work fine (I remember some trouble with CEP 2.6) for me. I also didn't have any problems with CEP 1 when I played through Lord of Terror. Hostile NPCs or Henchies might not be a result of CEP anyway, sometimes the builder overlooked something (the \"faction\" system can be tricky). You also should be careful with what you have in your override folder when playing mods from the community. Some modules require that you leave your override folder empty (didn't have any problems with Lord of Terror which requires CEP 1 when I was using a few overrides). And bugs just happen. You wouldn't be the first player who runs into a bug that rarely occurs. If you have any trouble playing a module, you can always ask at the vault.</div>"
     }
   ]
 }

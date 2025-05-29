@@ -8,73 +8,79 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/how-and-where-to-access-legacy-ecb-archives-t2354480.html",
   "author": "HipRedux",
   "avatar": "10577588_1510287072.jpg",
-  "replies": 10,
+  "replies": "10",
+  "views": "3.9K",
   "posts": [
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
       "timestamp": "2:18 AM - Dec 03, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I figured it appropriate to place the two links together away from the main activity for safe-keeping.\u00a0 These are the respective locations of The Krit's archive of both the Epic and Pre-epic Character Build submissions from the now-defunct Bioware Guild and Registry:<br/>\n<br/>\n<strong><a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">Epic Character Builds</a></strong><br/>\n<br/>\n<strong><a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/pre-epic-character-builds\" rel=\"noreferrer\" target=\"_blank\">Pre-epic Character Builds</a></strong><br/>\n<br/>\n In both cases, decompressing the associated zip will create 3 folders.\u00a0 By navigating to the applicable search html in the <em>buildsearch </em>folder and opening it in a browser with javascript enabled, the familiar search screen will appear matching the server-side utility (currently unhosted).\u00a0 Filenames: Epic - <strong>ECB_search.html</strong>, Pre-epic - <strong>PECB_search.html\u00a0</strong>\u00a0\u00a0\u00a0<br/>\n<br/>\n There are also some other interesting html lists you may want to access within the <em>builds</em> folder that contain links to general discussions and guides. You will notice that the <em>data (</em>or<em> data0) </em>subfolder contains all the individual topics in html (the main data storage folder) but the files in the <em>builds </em>section contain the list of topics as an index making it easy to navigate.<br/>\n<br/>\n<strong>Final Note</strong>:\u00a0 Until the search utility has been rehosted, I suggest that if builders would like to reference one of the legacy builds they simply furnish enough of a description that would make it easy for any member to find using their local copy of the archive search.\u00a0 Towards that end... please supply the build's<strong> title</strong>, <strong>class split</strong> and <strong>author</strong>.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I figured it appropriate to place the two links together away from the main activity for safe-keeping.\u00a0 These are the respective locations of The Krit's archive of both the Epic and Pre-epic Character Build submissions from the now-defunct Bioware Guild and Registry:<br/>\n<br/>\n<strong><a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">Epic Character Builds</a></strong><br/>\n<br/>\n<strong><a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/pre-epic-character-builds\" rel=\"noreferrer\" target=\"_blank\">Pre-epic Character Builds</a></strong><br/>\n<br/>\n In both cases, decompressing the associated zip will create 3 folders.\u00a0 By navigating to the applicable search html in the <em>buildsearch </em>folder and opening it in a browser with javascript enabled, the familiar search screen will appear matching the server-side utility (currently unhosted).\u00a0 Filenames: Epic - <strong>ECB_search.html</strong>, Pre-epic - <strong>PECB_search.html\u00a0</strong>\u00a0\u00a0\u00a0<br/>\n<br/>\n There are also some other interesting html lists you may want to access within the <em>builds</em> folder that contain links to general discussions and guides. You will notice that the <em>data (</em>or<em> data0) </em>subfolder contains all the individual topics in html (the main data storage folder) but the files in the <em>builds </em>section contain the list of topics as an index making it easy to navigate.<br/>\n<br/>\n<strong>Final Note</strong>:\u00a0 Until the search utility has been rehosted, I suggest that if builders would like to reference one of the legacy builds they simply furnish enough of a description that would make it easy for any member to find using their local copy of the archive search.\u00a0 Towards that end... please supply the build's<strong> title</strong>, <strong>class split</strong> and <strong>author</strong>.<br/>\n \u00a0</div>"
     },
     {
       "author": "conlaoch",
       "avatar": "10235240_1510287070.jpg",
       "timestamp": "8:06 PM - Jun 13, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was able to get the search page to work, but I had to open it in Firefox.<br/>\n<br/>\n Both Safari and Chrome failed to work correctly with the search engine form.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I was able to get the search page to work, but I had to open it in Firefox.<br/>\n<br/>\n Both Safari and Chrome failed to work correctly with the search engine form.</div>"
     },
     {
       "author": "hunearo",
       "avatar": "10572442_1552585393.jpg",
       "timestamp": "10:13 AM - Jun 14, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Usually I use IE for this, although I didn't try it with FF.<br/>\n Yep, it does not work with chrome, and iirc with opera neither, but I will check it when I get back home.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Usually I use IE for this, although I didn't try it with FF.<br/>\n Yep, it does not work with chrome, and iirc with opera neither, but I will check it when I get back home.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
       "timestamp": "10:06 PM - Mar 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You may try at <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">Greyhawk</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>You may try at <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">Greyhawk</a></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "7:48 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">+1 On Greyhawk. For some mysterious reason the local ECB archive\u00a0on my computer just stopped working a few days ago - it just says \"Archive not found\" or similar, both with FF and Chrome. I tried (lazily) to fix it, but Greyhawk works just as well, so now I just use that. Also easier to link builds that way.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>+1 On Greyhawk. For some mysterious reason the local ECB archive\u00a0on my computer just stopped working a few days ago - it just says \"Archive not found\" or similar, both with FF and Chrome. I tried (lazily) to fix it, but Greyhawk works just as well, so now I just use that. Also easier to link builds that way.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
       "timestamp": "8:24 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>DoesntPlayAnymore wrote:</cite>\n+1 On Greyhawk. For some mysterious reason the local ECB archive\u00a0on my computer just stopped working a few days ago - it just says \"Archive not found\" or similar, both with FF and Chrome. I tried (lazily) to fix it, but Greyhawk works just as well, so now I just use that. Also easier to link builds that way.\n</div></blockquote>\nApparently it was a problem with many Tapatalk sites around the globe. Their admin folk assure us all is fine again, but please let me know if it persists, becuase they've been known to tell porkies.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><blockquote><div><cite>DoesntPlayAnymore wrote:</cite>\n+1 On Greyhawk. For some mysterious reason the local ECB archive\u00a0on my computer just stopped working a few days ago - it just says \"Archive not found\" or similar, both with FF and Chrome. I tried (lazily) to fix it, but Greyhawk works just as well, so now I just use that. Also easier to link builds that way.\n</div></blockquote>\nApparently it was a problem with many Tapatalk sites around the globe. Their admin folk assure us all is fine again, but please let me know if it persists, becuase they've been known to tell porkies.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "8:43 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just tested:\u00a0<span style=\"background-color:#000000\"><span style=\"background-color:#000000\"><span style=\"color:#ff0000\"><strong>No database found.</strong></span></span></span><br/>\n<br/>\nVery dramatic!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Just tested:\u00a0<span style=\"background-color:#000000\"><span style=\"background-color:#000000\"><span style=\"color:#ff0000\"><strong>No database found.</strong></span></span></span><br/>\n<br/>\nVery dramatic!</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
       "timestamp": "8:54 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm. I just clicked on Hip's link and it took me straight to the Vault. Reading through the comments section, it appears several people had the same issue, and it was solved by activating javascript - someone also posted a workaround solution if there are problems with Chrome, as Firefox should use javascript already. Can you get to the Vault alright?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Hmm. I just clicked on Hip's link and it took me straight to the Vault. Reading through the comments section, it appears several people had the same issue, and it was solved by activating javascript - someone also posted a workaround solution if there are problems with Chrome, as Firefox should use javascript already. Can you get to the Vault alright?</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "10:17 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yep, no problem. Just uploaded a project, actually!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Yep, no problem. Just uploaded a project, actually!</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
       "timestamp": "1:26 AM - Jul 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, I've done some more fumbling around and, essentially Mick's link to the Greyhawk site above is the only one that actually takes you to the relevant Legacy Build Archives - other than Empyre's link in another thread here, but that's the same one, it transpires. Hip's lead post was back in 2015, before the Greyhawk site became available elsewhere, and was meant as a stop-gap. It's now defunkt, unless you'd already downloaded it, which I had, and it still works, so I missed the change when tidying things up. Sorry DPA, and anyone else who's been struggling of late.<br/>\n<br/>\nMarvellous - more housekeeping!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Okay, I've done some more fumbling around and, essentially Mick's link to the Greyhawk site above is the only one that actually takes you to the relevant Legacy Build Archives - other than Empyre's link in another thread here, but that's the same one, it transpires. Hip's lead post was back in 2015, before the Greyhawk site became available elsewhere, and was meant as a stop-gap. It's now defunkt, unless you'd already downloaded it, which I had, and it still works, so I missed the change when tidying things up. Sorry DPA, and anyone else who's been struggling of late.<br/>\n<br/>\nMarvellous - more housekeeping!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
       "timestamp": "2:11 AM - Jul 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>DoesntPlayAnymore wrote:</cite>\nYep, no problem. Just uploaded a project, actually!\n</div></blockquote>\n\nIt looks promising. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><blockquote><div><cite>DoesntPlayAnymore wrote:</cite>\nYep, no problem. Just uploaded a project, actually!\n</div></blockquote>\n\nIt looks promising. <span class=\"text-emoji\">\ud83d\ude0a</span></div>",
+      "author-color": "#AA0000"
     }
   ]
 }

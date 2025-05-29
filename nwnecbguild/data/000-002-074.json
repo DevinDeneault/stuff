@@ -4,47 +4,88 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "074",
-  "name": "Druid Questions",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-questions-t2355797.html",
-  "author": "webshaman1",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 5,
+  "name": "Search Question for Non-Rogues",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/search-question-for-non-rogues-t2355804.html",
+  "author": "Roxiee",
+  "avatar": "10759502_1634104825.jpg",
+  "replies": "11",
+  "views": "439",
   "posts": [
     {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "7:09 AM - Oct 13, 2021",
+      "content": "<div>Hello!<br/>\n<br/>\nI found this in the NWNWiki:<br/>\n<br/>\n<em>\"Check: Detecting a trap is an opposed test, pitting the character's search check against a difficulty class equal to the set trap skill check, plus the strength of the trap. Only rogues may detect traps with a DC greater than 35.\"</em><br/>\n<br/>\nIf I'm understanding this correctly, does this mean the most efficient skill point allocation for a non-rogue SCOUT is 35?<br/>\n<br/>\nFor more context on the build, here it is (Ba26/ SD13/ Ra1):<br/>\n<details><summary>Spoiler</summary>\nJinn\n20% exp penalty lvl 39-40\nSTR: 8\nCON: 10\nINT: 16\n\n01: Bard(1): Dodge\n03: Bard(3): Weapon Finesse\n05: Bard(5)\n07: Bard(7)\n09: Shadowdancer(2): Blind Fight, {Darkvision, Evasion, Uncanny Dodge I}\n11: Bard(9)\n13: Bard(11)\n15: Bard(13): Toughness\n17: Bard(15)\n19: Shadowdancer(4)\n21: Shadowdancer(5): Great Dexterity I, {Defensive Roll}, (DEX=23)\n23: Shadowdancer(7): {Slippery Mind}\n25: Bard(18)\n27: Bard(20): Lasting Inspiration\n29: Shadowdancer(9)\n31: Bard(21)\n33: Bard(23): Epic Weapon Focus: Rapier, Epic Skill Focus: Perform\n35: Shadowdancer(12)\n37: Bard(24)\n39: Ranger(1): Armor Skin, Epic Prowess, {Dual Wield}\n\nSkillpoints: 327\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +2\nAB (max, naked): 38 (melee), 35 (ranged)\nSpell Casting: Bard(6)\n\n\n01: Hide(4), Listen(1), Move Silently(4), Perform(4), Spellcraft(4), Taunt(2), Tumble(4), UMD(4), Save(1), \n03: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), Save(1), \n05: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), Save(1), \n07: Hide(1), Lore(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n09: Hide(1), Move Silently(1), Tumble(1), Save(10), \n11: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n13: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n15: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n17: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n19: Hide(1), Move Silently(1), Tumble(1), Save(10), \n21: Hide(1), Listen(6), Move Silently(1), Tumble(1), Save(2), \n23: Hide(1), Move Silently(1), Tumble(1), Save(12), \n25: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n27: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n29: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(6), \n31: Hide(1), Move Silently(1), Perform(4), Spellcraft(4), Taunt(4), Tumble(1), UMD(4), \n33: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n35: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(5), \n37: Hide(1), Listen(1), Move Silently(1), Perform(4), Spellcraft(4), Taunt(4), Tumble(1), UMD(1), \n39: Hide(1), Listen(3), Move Silently(1), Save(2), \n</details>\n<br/>\nAnd for more explanation -- I'm a scout/support in my party and we're at level 6, currently running through SoU (then HotU, then SoF).\u00a0 I will most likely take my first Shadowdancer level in our next Friday session and that's where Search opens up.\u00a0 I'd like to get your advice if it's worth it to cannibalize Spellcraft to get 35 Search.<br/>\n<br/>\n<br/>\nThanks!</div>"
+    },
+    {
+      "author": "DzmitryB",
+      "avatar": "10759489_1631608138.jpg",
+      "timestamp": "7:40 AM - Oct 13, 2021",
+      "content": "<div><blockquote><div>Search<br/>\n<br/>\nModified skill ranks needed to:<br/>\n<br/>\nDETECT non-epic traps, all classes<br/>\nEventual: 22 - 20 = 2 <br/>\nImmediate: 22 - 1 = 21 <br/>\n<br/>\nDETECT epic traps, rogue only<br/>\nEventual: 43 - 20 = 23 <br/>\nImmediate: 43 - 1 = 42 </div></blockquote></div>"
+    },
+    {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "7:43 AM - Oct 13, 2021",
+      "content": "<div>Thank you for that.\u00a0 Just curious, what is the -1 for?<br/>\n<br/>\nAnd modified means I can just put 17 points in Search and a level 16 bard song can take it to Immediate detection right?</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:34 AM - Oct 13, 2021",
+      "content": "<div>The -1 means that you succeed with a roll of a 1 on the d20 skill check.\u00a0 If you use -20 instead, you get the Search skill need to eventually detect the trap when you finally get a roll of 20.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "9:15 AM - Oct 13, 2021",
+      "content": "<div>I won't pretend that I fully understand those <span class=\"text-emoji\">\ud83d\ude2c</span>, but I kinda get the notion that it takes into consideration the minimum roll you can get.<br/>\n<br/>\nThanks Empyre!</div>"
+    },
+    {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "10:25 AM - Oct 13, 2021",
+      "content": "<div>Found DzmitryB's reference:\u00a0 <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/unravelling-the-world-of-nwn-traps-a-primer-t2176824.html\" rel=\"noreferrer\" target=\"_blank\">unravelling-the-world-of-nwn-traps-a-pr ... 76824.html</a><br/>\n<br/>\nThis is another helpful bit from that guide:<br/>\n<br/>\n<em>DISARM traps DC &lt; 36, all classes (See Note 3)<br/>\n<br/>\n 31 - 20 = 11 (9 w/synergy); XCL</em><br/>\n<br/>\n---<br/>\nBased on those info, here's what I came up with:<br/>\n<br/>\nAppraise 1(4), Bluff 1(4), <span style=\"color:#FF0000\">Disable Trap 4(7)</span>, Hide 43(52), Listen 20(31), Lore 1(30), Move Silently 43(52), Perform 43(56), Persuade 1(4), <span style=\"color:#FF0000\">Search 12(17)</span>, Spellcraft 38(41), Taunt 43(56), Tumble 40(49), UMD 33(36)<br/>\n<br/>\nAre those correct? <br/>\n<br/>\nI put those ranks in pre-epic with Bard Song 16 in mind (+4 skills) since I want to enjoy those perks for majority of our adventure rather than just dumping them randomly (my INT bonus is at +3 for my entire career btw).<br/>\n<br/>\nI eventually get Bard Song 21 (+9 skills) but that's at level 40 so I don't want to build around that.<br/>\n<br/>\nThank you again!</div>"
+    },
+    {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:23 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All, me again.<br/>\n<br/>\nMy final couple of Malazan builds should (I think) be druidic in nature (pardon the pun), and my experience is more than a little lacking in the field. So, before I embark on anything too ridiculous I thought I would consult with Guild members, who can tell me whether I'm barking up the wrong tree (yeah, now the nature puns are on purpose, sorry), or there might be something I could use.<br/>\n<br/>\nBoth builds are Imass Bonecasters - the Imass being ancestors of humanity from hundreds of thousands years ago, and Bonecasters being shamans of the clans, who are also Soletaken - the term used for shapechanging into their totem animal form - hence my thought of Druid for them.<br/>\n<br/>\nOne of these is, like most of the present-day Imass, now undead, and indeed initiated the Ritual of Tellan, triggering their immortality, such that they are now known as the T'lan Imass. This is Olar Ethil, and her totem animal is a (now undead) dragon. So I wondered about a Druid/ Pale Master mix (obviously with a few levels of an arcanist thrown in). Worth pursuing, do we think?<br/>\n<br/>\nThe other is possibly more problematic. This is Kilava. She denied the Ritual and has existed for all this time as a living Imass: a very powerful one who has also birthed gods. So far, so good. However, her totem animal is a black panther, but one powerful enough to take on and beat dragons with scarcely a thought, and that doesn't seem to chime well with druidic progression - unless panther-form scales beyond infinite wildshape levels. I considered whether Shifter - dire tiger shape would be better, but frankly have no idea, so am a bit stumped. One way around it would be to make a build that doesn't go to level 40 so I can maximize wildshape usage without deliberately gimping the build, but might that just be an easy option? Is there anything else I could do, or should I simply put this one in the too difficult pile?<br/>\n<br/>\nAny and all advice welcome (within the bounds of decency, of course).<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:55 AM - Oct 13, 2021",
+      "content": "<div>It's up to you, of course, but I'd be tempted to get Search up to 16 (21). I'd do this by dropping the Spellcraft by 1 point to 37 (40) (it works in multiples of 5 modified ranks, unlike Tumble which relies on inputted ranks), and either UMD to 30 (33) (though as a Bard you don't really need that many ranks in any case) or lose Appraise, Bluff and Persuade completely.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:30 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A Druid/Shifter with Undead form would be better than a Palemaster mix, IMO.\u00a0 There is no NWN equivalent of the Undead Dragon thingie outside of the Cult of the Dragon and Dracoliches (though there is also Kyuss and Dragotha, from Greyhawk), and there is no playable alternative for this without using CC.<br/>\n<br/>\nFor the other one, I would go Druid/Shifter and go Rak - it's a big tiger-like Outsider (which is about as close as you can get to the whole Panther thing in NWN, because the other options are NOT going to be anything near epic).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:01 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Web - good food for thought! And at least I hadn't missed anything blindingly obvious.<br/>\n<br/>\nRak is an interesting call, but didn't they get their Ice Storms nerfed with EE? And without that, aren't they a bit poo?<br/>\n<br/>\nFor the first build, I could live without an undead dragon (oh, the wit, I kill myself! And again!), but I get what you say about undead form. The only problem really is that if that's where the build's concentration lies, it could bugger up the potency of later dragon form. And I'm not sure whether Druid or Shifter dragon would be better, either.<br/>\n<br/>\nOh good, more problems!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:05 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, yes and no.<br/>\n<br/>\nYes, Ice Storm no longer can be meta-magiced (the nerf).<br/>\n<br/>\nHowever, as it scales with level, having lots of levels of the first class will make it stronger (because that is how Shifter stuff works).<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "11:07 AM - Oct 13, 2021",
+      "content": "<div>Oh Search to 21 so I don't need to have Bard Song active to detect right?\u00a0 Which makes me think now that I'm getting too caught up with these song bonuses that I forgot to consider the practicality of it.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:47 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Interestingly enough, my initial thought of a Druid/PM build have been done a couple of times before. Alas, the original Puff the Magic Dragon wouldn't work these days, but <em class=\"mention\">@grizzled_dwarflord</em> came up with one that would: <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build251344.html\" rel=\"noreferrer\" target=\"_blank\">Draco-lich of the Autumn Mist</a><br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Apologies to the Dwarflord - it should read Dracolich of Autumn Twilight. Oh, and given it was apparently his first Druid build, he seems to have concocted one or two since!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:38 AM - Oct 13, 2021",
+      "content": "<div>Exactly so. After all, if you're off scouting, you'll be on your own and stealthy, so why waste a song? I know you'll have lots of them by the end - and when LI kicks in you can basically sing all day every day - but still...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:56 PM - Sep 27, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm...yes, I suppose that would work for a pseudo-undead Dragon!\u00a0 That's thinking outside of the box!\u00a0 Well done.<br/>\n<br/>\nAnd yes, Puff the Magic Dragon v 3.5 does work these days!\u00a0 It is a real PITA to do, tho (I have levelled it to 40 on WoG...and it was PAINAL to do!)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "12:07 PM - Oct 13, 2021",
+      "content": "<div>No, you are very right.\u00a0 It's not very practical to use my song while scouting especially at lower levels.\u00a0 And I \"heard\" that resting in Sands of Fate can affect quests so it's probably wise not to waste songs.<br/>\n<br/>\nI removed the social skills and 1 Spellcraft in favor of Search 16 (21), so I can keep UMD 33 (36).\u00a0 <br/>\n<br/>\n--<br/>\nDon't wanna veer off topic but UMD 36 + 4 from song 16 will allow me to access certain class items of specific cost right?\u00a0 I'm just thinking of investing in case we get some goodies that are worth using.<br/>\n<br/>\nAnd the reason I think highly of UMD can be illustrated in this example (item spoiler for SoU ahead):<br/>\n<details><summary>Spoiler</summary>\nIn the Tomb of Kel-Garas mission, we happened upon a treasure room and we got:\n\n\n\n</details></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:30 PM - Oct 13, 2021",
+      "content": "<div>Good stuff!<br/>\n<br/>\nOh, and I don't know whether you've seen this Guide yet: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/a-mini-guide-to-designing-with-the-umd-skill-t2354638.html\" rel=\"noreferrer\" target=\"_blank\">UMD Guide</a>. It's from Hip Maestro, who was an inveterate UMD addict, and is well worth a look.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "12:33 PM - Oct 13, 2021",
+      "content": "<div>That looks like a good read - I will definitely be looking at that.\u00a0 Thanks Stag!</div>"
     }
   ]
 }

@@ -4,17 +4,88 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "006",
-  "name": "Ranger-General",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/ranger-general-t2354822.html",
-  "author": "Illusion",
+  "name": "Paladin Challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/paladin-challenge-t2354804.html",
+  "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 0,
+  "replies": "11",
+  "views": "492",
   "posts": [
     {
-      "author": "Illusion",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "10:02 PM - Feb 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">All right, so I'm getting back into the game (EE is coming eventually, woo!). I thought about making an Elven Ranger, but.. here's the problem I have. I wanted to do a pure honest to good, ranger. I have no idea if that's viable or not. (As I never\u00a0 got them to do beyond 3-4 dmg with a bow or melee even at 40.)<br/>\n<br/>\nAnyway, I was going to do one for Arelith (30 cap.) I haven't gotten far and I need some help. My intentions were a ranger that dual wielded (Dual Katanas at close) and a longbow at range. I think I got... sorta some levels in, but I need help. Trying to sorta go PvE, but avoiding being totally thrashed in Pvp.<br/>\n<br/>\n<br/>\nElf, Ranger (30, but can bend) Katana/Longbow<br/>\nSTR 12<br/>\nDEX 17 +2 Dex Gift<br/>\nCON 12<br/>\nWIS 14<br/>\nINT 14 (16) (+2 Int Gift)<br/>\nCHA 8<br/>\n<br/>\nRanger 1: Weapon Finesse, FE; Human<br/>\nRanger 2: ...<br/>\nRanger 3: Exotic Weapon<br/>\nRanger 4: +1 dex<br/>\nRanger: 5 SFE: Undead<br/>\nRanger 6: Expertise<br/>\nRanger 7:<br/>\nRanger 8: +1 dex<br/>\nRanger 9: Imp Crit Katana<br/>\n<br/>\n<br/>\nBeyond this point I don't have much idea. For skills, I'm not sure beyond 'Spot', Lore, Hide relating skills and maybe listen (if I can even take more than that.). I'll list the Ranger changes below so you might also have a better idea.<br/>\n<br/>\nFeats and Abilities\n<ul>\n<li>At level 4, receives Defensive Dual Wielding\n<ul>\n<li>This increases their AC when dual wielding (or wielding a double-sided weapon) by 1, and increases by 1 every 8 levels afterward</li>\n</ul>\n</li>\n<li>At level 5, first Studied Enemy (Essentially Favored Enemy, but I gotta kill like 100 of them, etc)</li>\n<li>At level 7, Woodland Stride feat.</li>\n<li>At level 7, Uncanny Dodge I feat.</li>\n<li>At level 9, Evasion feat.</li>\n<li>At level 16, they gain Hide in Plain Sight in \"natural\" areas.</li>\n</ul>\n\nOther Features\n<ul>\n<li>Skillpoints per level increased to 6.\n<ul>\n<li>They gain the skillpoints <strong>after</strong> taking the level, so they get to actually use the extra 2 that they get the next level. This is due to a mechanical limitation of the engine.</li>\n</ul>\n</li>\n<li>Rangers count toward one of the required classes to become Arcane archers. They still need to fill the other requirements (feats and race), but do not require a magic capable class (Bard, Wizard, Sorcerer).</li>\n<li>Characters with at least 3/4 of their character levels as Ranger will turn animals into Companions when successfully using the Animal Empathy skill. This allows a Ranger to have up to three followers (2 Companions and 1 Summon/Empathy Animal). Companions will not be released upon rest, but normal Empathy animals still will be.</li>\n</ul>\n<br/>\nSpell Changes included:<br/>\n<br/>\nFirst Circle<br/>\n<strong>Grease</strong>: Affected by Persistent Area spells changes. Has no spell resistance check.<strong><br/>\nEntangle</strong>: Affected by Persistent Area spells changes. Has no spell resistance check. <strong><br/>\nSummon Creature I (to IV)</strong>: Will summon creature one tier higher with Greater Spell Focus: Conjuration.<br/>\n<br/>\nSecond Circle<br/>\n<strong>Sleep</strong>: Works with any target with equal/lower level than caster's class level and affects (caster level + 1d4) hit dice worth of creatures. Empower Spell increases affected hit dice by 50%.<br/>\n<br/>\nThird Circle<br/>\n<strong>Blade Thirst</strong>: Duration increased to 1 Turn / Level. Enhancement Bonus has been changed to 2 + 1 / 5 levels beyond the 11th (i.e. +2 at level 11, +3 at level 16, +4 at level 21, +5 at level 26). Additionally, the enchanted weapon gains an equivalent amount of Vampiric Regeneration. Can be applied to magic/enchanted weapons. <strong><br/>\nGreater Magic Fang</strong>: Continues to scale past level 14. (+6 6/+6 at 17, +7 7/+7 at 20...)<br/>\n<br/>\nFourth Circle<br/>\n<strong>Freedom of Movement</strong>: Can be removed with spell breaches.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:36 AM - Dec 31, 2017",
+      "content": "<div>I am looking for ways to save a build.\u00a0 I really do not care What the build is exactly as long it is a strength build.<br/>\nI have a Githyanki Paladin with the starting stats of<br/>\nStr 14<br/>\nDex 10<br/>\nInt 12<br/>\nWisdom 10<br/>\nCharisma 16<br/>\n<br/>\nWhat are possible builds for this one.\u00a0 I would not care but she has enough experience point for level 52<br/>\n<br/>\nI would like her to have a str of 30 at level 40<br/>\n<br/>\nIdeas??<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:50 PM - Dec 31, 2017",
+      "content": "<div>You forgot the Constitution.<br/>\n<br/>\nWe need more information before we can help you. What are the bonuses and penalties of the Githyanki on your PW, and what is the favored class?<br/>\n<br/>\nWhat changes does the PW make for classes, especially Paladins?<br/>\n<br/>\nDo you want a little bit of Paladin for flavor, or do you want moistly Paladin for indispellability?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:52 PM - Dec 31, 2017",
+      "content": "<div>You are correct.\u00a0 Sorry.\u00a0 Not sure I missed Constitution.\u00a0 It is 16<br/>\n<br/>\ngithyanki<br/>\nRestrictions: Race - Human<br/>\nFavored Class: Fighter<br/>\nNo Druid or Shifter levels Permitted. No Mage shifting.<br/>\nBenefits: +2 Dex, +2 Con, Base 5 SR +2 SR/lvl (does not stack with monk SR)<br/>\nFeats:<br/>\nDarkvision<br/>\nWeapon Proficiency Exotic<br/>\nNegatives: -2 Wis<br/>\nECL: 2<br/>\n<br/>\nNo changes to Paladin that I am aware of<br/>\nCould be a little could be a lot.\u00a0 I am really not picky.\u00a0 Though would be nice to have 25 levels of Paladin for the\u00a0<br/>\nPaladin quest longsword<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:35 AM - Jan 01, 2018",
+      "content": "<div>There are a couple of ways you can do that, fortunately for your paladin, you are within the limit of having Str30 by level 40. Why that low a wisdom though for a high-level paladin? Paladins have very useful buffs and it is a shame not to have them by virtue of insufficient wisdom...Anyway, paladin 26/ fighter 4/ Cot 10 is a good &amp; reliable build and you can take 6 great strengths in epic levels in order to get to Str30 that you want. You will also have ews &amp; divine wrath along with the standard paladin abilities. The charisma of 16 is a bit low but you can still use it if you buff it to max 28. The other solution is to make her a dragon, paladin 28/ bard 2/ Rdd 10, that will give you lots of ability points, you already have the template for that I believe.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:52 PM - Jan 01, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nThere are a couple of ways you can do that, fortunately for your paladin, you are within the limit of having Str30 by level 40. Why that low a wisdom though for a high-level paladin? Paladins have very useful buffs and it is a shame not to have them by virtue of insufficient wisdom...Anyway, paladin 26/ fighter 4/ Cot 10 is a good &amp; reliable build and you can take 6 great strengths in epic levels in order to get to Str30 that you want. You will also have ews &amp; divine wrath along with the standard paladin abilities. The charisma of 16 is a bit low but you can still use it if you buff it to max 28. The other solution is to make her a dragon, paladin 28/ bard 2/ Rdd 10, that will give you lots of ability points, you already have the template for that I believe.\n</div></blockquote>\n\nI might do the dragon<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:52 PM - Jan 01, 2018",
+      "content": "<div>Yeah, just keep in mind that if you want to have spells (needs wisdom of fourteen) then paladin 26/ fighter 4/ Cot 10 is the best way to do it. You can go paladin 16/ fighter 4 pre-epic, then take all your Cot levels in epic. Cot has great wisdom as an epic bonus feat, same as ews, so you can have four great wisdom &amp; ews as Cot epic feats, paladin's ewf &amp; armour skin and six great strength from general feats, last one you get epic prowess. Not a bad solution in my opinion, just keep it as an alternative.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:19 PM - Jan 01, 2018",
+      "content": "<div>Paladins are required to be Lawful Good, but Bards are forbidden from being Lawful. Unless your PW changes Bards to be allowed to be Lawful (which has been done elsewhere), that combination is out. Even if you can change alignment at will, if a Paladin is ever not lawful Good, he becomes a fallen Paladin, with no Paladin abilities, and not allowed to take more levels of Paladin, even if he becomes once again Lawful Good (Somebody please speak up if this is not true in NWN.).<br/>\n<br/>\nSo, for a dragon Paladin, I suggest Paladin 28, Sorcerer 2, RDD 10. The 2 Paladin bonus feats can be Epic Prowess and Armor Skin, and the one general epic feat not used by Great Strength can be Epic Weapon Focus. If you divert 4 ability increases from STR to WIS, you can cast all the spells, and still end up with 34 STR. Take the 2nd Sorcerer level late for a Spellcraft skill dump. The +4 AC from RDD will make up for Tumble being only a cross-class skill. The +2 to CON, INT, and CHA are nice, too.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:43 PM - Jan 01, 2018",
+      "content": "<div>Erm...David, is this the same Paladin Challenge you posted back in October? If so, did you try either the Wing Commander or the Grizzled Dwarflord build (can't recall it's name atm, I'm afraid - Master of the Quest, maybe? - it's all on page 2 of this sub-forum)? If you did, did neither work for you? If not, why not, what was missing from them? That would be some useful feedback, I'd imagine.<br/>\n<br/>\nOf course, if you didn't try them, why not try them now?<br/>\n<br/>\nOh, and happy new year to you!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:36 PM - Jan 02, 2018",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\nErm...David, is this the same Paladin Challenge you posted back in October? If so, did you try either the Wing Commander or the Grizzled Dwarflord build (can't recall it's name atm, I'm afraid - Master of the Quest, maybe? - it's all on page 2 of this sub-forum)? If you did, did neither work for you? If not, why not, what was missing from them? That would be some useful feedback, I'd imagine.<br/>\n<br/>\nOf course, if you didn't try them, why not try them now?<br/>\n<br/>\nOh, and happy new year to you!\n</div></blockquote>\n\nIt is and would you believe I could not find it?<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:24 PM - Jan 02, 2018",
+      "content": "<div>Ah, I see. Tyr Templar's Wing Commander (The Aviator) is on page 6 of the Full Epic sub-forum, and I'd imagine you'd be after the Sorcerer variant she also presents there. GDL's Knight of the Quest is in the Legacy Archive, which you can grab from Hip's handy link in the Rules and Tools sub-forum (iirc).</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:31 AM - Jan 18, 2018",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>Ah, I see. Tyr Templar's Wing Commander (The Aviator) is on page 6 of the Full Epic sub-forum, and I'd imagine you'd be after the Sorcerer variant she also presents there. GDL's Knight of the Quest is in the Legacy Archive, which you can grab from Hip's handy link in the Rules and Tools sub-forum (iirc).</div></blockquote>How about a Paladin16/F2/WM22? Worked a lot better when Holysword could dispel everything, but still excellent AB. And your sr will be 85?<br/>\n<br/>\n<br/>\nSent fra min SM-G920F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:48 PM - Feb 20, 2018",
+      "content": "<div>WM Will be an issue since Dex is only 10 and int is 12</div>"
     }
   ]
 }

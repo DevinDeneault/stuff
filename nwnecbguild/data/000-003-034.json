@@ -4,29 +4,37 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "034",
-  "name": "Knight Challenge",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/knight-challenge-t2354759.html",
+  "name": "Fighter Dwarven Defender Harper Scout Challange",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/fighter-dwarven-defender-harper-scout-challange-t2354762.html",
   "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 2,
+  "replies": "3",
+  "views": "188",
   "posts": [
     {
       "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "12:26 PM - Oct 18, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What would you do with this subrace/subclass<br/>\n<br/>\nKnight<br/>\n\u00a0<br/>\n\u00a0\u00a0\u00a0 Syntax: Knight<br/>\n\u00a0\u00a0\u00a0 Stats: +4 Strength, +2 Wisdom<br/>\n\u00a0\u00a0\u00a0 Feat Bonus: Power Attack<br/>\n<br/>\nI was thinking a 10 Fighter 30 WM but can't find a good build<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:48 PM - Oct 22, 2017",
+      "content": "<div>I can't find this build anywhere. Please help<br/>\nThanks<br/>\n<br/>\nDavid</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:25 AM - Oct 19, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Unless you are required to have 10/30 to qualify for the the subrace/subclass, you would be better off with 12 Fighter / 28 WM. Those last 2 levels of WM don't really give you anything.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:15 PM - Oct 22, 2017",
+      "content": "<div>And that is because there no great synergy between the classes, Harper Scout abilities do not help a Dwarven Defender, David.</div>"
     },
     {
       "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "6:43 AM - Oct 19, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oops!\u00a0 Your right.\u00a0 I forgot this subrace does not have to be a pure build so one could have three classes<br/>\n<br/>\nDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:04 AM - Oct 23, 2017",
+      "content": "<div>Maybe but Harper Scout gets a really nice helm in Tornado of Souls plus it get better the more quests you do. <br/>\nPlus they have the ability to temp give a weapon 2d12 Positive damage assuming it does not already have it.\u00a0 It does not stack. but it does add to your AB</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:31 AM - Oct 23, 2017",
+      "content": "<div>Alright, David, there is an excellent build (I know 'cos I've played him up to the mid-30s in Aielund) that is indeed a Fighter (16)/ Dwarven Defender (19)/ Harper Scout (5). But you might want to be aware that it's a ranged attack focus. The build is Hip's very own Wulgar Ironbow - and is on the first page of the Full Epic sub-forum. At least you'll be able to see how he weaves the build together.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

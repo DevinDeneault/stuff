@@ -4,29 +4,83 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "991",
-  "name": "Assassin build help request",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/assassin-build-help-request-t2354834.html",
-  "author": "Niu7",
-  "avatar": "10758869_1521841378.jpg",
-  "replies": 2,
+  "name": "New player, need help",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/new-player-need-help-t2354841.html",
+  "author": "christian88.j",
+  "avatar": "no_avatar.png",
+  "replies": "10",
+  "views": "345",
   "posts": [
     {
-      "author": "Niu7",
-      "avatar": "10758869_1521841378.jpg",
-      "timestamp": "10:59 PM - Mar 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Salut! Since \"Enchanted Edition\" coming out tomorrow I want to play NwN again and, perhaps, get involved in some online actions. I was thinking about Arcane Archer build but I understand that I am stuck with it because I've played with it so much previously. <br/>\n<br/>\nSo I decided to try something new, namely, the assassin. <br/>\n<br/>\nI want to build something easy: ranger 9/fighter 4/assassin 27.<br/>\n<br/>\nI read this manual, began to plan the character and ... got stuck :-( <br/>\n<br/>\nNow I need your help :-)<br/>\n<ul>\n<li>So, first: do I need to increase the constitution by more than 10 points? Given that I'm considering PvP. Also, do I need to consider to take Toughness feat for more health or I can skip it?</li>\n<li>Second: do I need to get Dodge/Mobility/Spring attack feats or I can skip them?</li>\n<li>Third: is it enough to get 27 levels of the assassin or better to get 30?</li>\n<li>Fourth: do I need to take Discipline skill or no?</li>\n<li>Fifth: how critical it is for an assassin to get Improved critical feat?</li>\n</ul><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "christian88.j",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:13 AM - Apr 03, 2018",
+      "content": "<div>Hello!<br/>\n<br/>\nJust got hold of this old gem (for the first time!) And im not really good at this so far, and could use some help. I am playing at a server called Salvation on the enhanced edition. And i would love it if someone here could help me get something going until i learn more. I am looking for something that involves high crits with a two handed weapon, and fairly durable aswell, and a few nice buffs. Thanks in advance! :)</div>"
     },
     {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:36 AM - Mar 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think you should spend some time looking at the discussions of the builds posted in the various build forums. Such as the level 40 build forum and the level 20 build forum.\u00a0<br/>\n<br/>\nIf you're asking whether you should increase your con for that class breakdown, the general answer is no. You want to put the stat increases into either something that is going to increase your hitting, or decrease your chance of getting hit. Unless you are doing a build that has damage reduction, or is planning on being a tank. An assassin is not generally a tank.<br/>\n<br/>\nIs this assassin a strength build or a dex build?<br/>\n<br/>\nIn general, assassins, with all the sneak attack damage, won't generally be missing improved critical that much, because if things are immune to sneaks, they're generally immune to critical hits....<br/>\n<br/>\nYour third question is ambiguous....better for what? At what cost. 3 more assassin levels generally nets you 3 more dc on your death attack paralyze dc...<br/>\n<br/>\nLook for an assassin build .\u00a0 If you have questions on what is going on with that build, make a post and start a discussion about that build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:19 PM - Apr 03, 2018",
+      "content": "<div>Hello and welcome christian88.j! A quick question, if I may...Does Salvation have any specific changes to the standard D&amp;D 3 rules, and how far along will it take you in terms of levels?</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:39 AM - Mar 29, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Take a look at this one Niu, he is an unusual one but uses the three classes you mentioned and still generates a high dc \"death attack\" even though he doesn't really need it to get the job done. He has about (50) hide/move silently in full plate armour should you wish to play peek-a-boo. And you don't need to concern yourself with taking a feat or not since he probably has everything you ask for and more, same with skills. If i was doing him again now i would probably eschew the shield for a two-handed weapon as well but this is something that can be very easily changed.<br/>\n<br/>\n<strong><span style=\"color:#CC0000\">Night Raider</span></strong> =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-night-raider-ftr-10-asn-25-rng-5-t2354423.html#p7048\" rel=\"noreferrer\" target=\"_blank\">the-night-raider-ftr-10-asn-25-rng-5-t2 ... html#p7048</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:21 PM - Apr 03, 2018",
+      "content": "<div>Yup, as Stagmeister said Chris, give us info, the more we have the better our suggestions will be.</div>"
+    },
+    {
+      "author": "christian88.j",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:27 AM - Apr 05, 2018",
+      "content": "<div>There is so much they have done, this is the link to all changes, tell me if you want more spesifica :D\u00a0<a class=\"postlink\" href=\"http://redemption4salvation.proboards.com/board/19/server-changes\" rel=\"noreferrer\" target=\"_blank\">http://redemption4salvation.proboards.c ... er-changes</a></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:10 PM - Apr 05, 2018",
+      "content": "<div>Okay, thanks for the link - lots to take in. However, if you're saying you want a big-critting, durable type with a few buffs, perhaps something along the lines of a Fighter/Rogue (or Bard)/Weapon Master might suit you? Any racial preferences?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:04 PM - Apr 05, 2018",
+      "content": "<div>Err...wow with the changes. With all those changes, it makes one wonder what the server environment, enemy wise is...Divine might and Divine shield..30 seconds per charisma bonus...I believe that is 5 times the duration of standard...and it turns on instant...just wow.<br/>\n<br/>\nI'm not sure what to suggest there...</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:09 PM - Apr 05, 2018",
+      "content": "<div><blockquote><div><cite>gkorjax wrote:</cite>\nErr...wow with the changes. With all those changes, it makes one wonder what the server environment, enemy wise is...Divine might and Divine shield..30 seconds per charisma bonus...I believe that is 5 times the duration of standard...and it turns on instant...just wow.<br/>\n<br/>\nI'm not sure what to suggest there...\n</div></blockquote>\n\nIndeed. There's another part of me that - given the lack of alignment restrictions - wonders whether a Pally/Bard/CoT might not be a bad idea. Potentially very frightening...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:38 AM - Apr 06, 2018",
+      "content": "<div>Yes, I have done such a build for another player Stag, it was the one with the picture of Solare of Astora but don't remember the thread's name...Anyway his server has a lot of modifications, I noticed the same thing for the divine feats &amp; some good things for the barbarians along with some nerfings for the dev. critical builds but there were also many spell changes as well, it definitely needs time to let all those sink-in. What i recommend in those cases is to play a weapon master if you want something with big damage that never gets nerfed. Of course, wm's tend to have very bad saves with very few exceptions so one has to decide what he wants from his character before I actually recommend such a build.<br/>\n<br/>\nEdit: Or you can play a dwarven (ftr/rog/cot) till you learn the ropes and having nothing to worry about...<br/>\n<br/>\nEdit 2: A melee cleric is another strong possibility of course. I think that also gets the vote of Empyre as well.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:06 AM - Apr 06, 2018",
+      "content": "<div>Speaking personally - and against conventional wisdom - I'm still not great with Weapon Masters. I know, I know, I'm a knuckle-runner who doesn't do anything much outside melee, so that should be my go-to type of build, but it just isn't. However, I do try to pay attention to you clever buggers, so I wonder, then...what about a Barb/WM/CoT? CoT should mitigate against the otherwise crappy saves, regardless of CHA, and also brings bonus feats by the truckload. Admittedly you won't have anything with plate armour, but, hey, \"come and have a go if you think you're hard enough\", seems a relatively reasonable attitude to take. You probably wouldn't need many levels of WM, so what about a Barb 15, WM 7, CoT 18? Does that make any sense?<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Ninja'd\u00a0 by Velerfor - which probably says something in itself...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:13 AM - Apr 06, 2018",
+      "content": "<div>The first ever NWN build I played was a melee Cleric. An RDD might also be a good choice, or you could combine the two, something like the classic Faith and Blood build.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "christian88.j",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:16 AM - Apr 06, 2018",
+      "content": "<div>I'm currently trying out a sorc/paladin/monk (36/3/1) and it's pretty neat :)</div>"
     }
   ]
 }

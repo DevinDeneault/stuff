@@ -4,101 +4,110 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "330",
-  "name": "Battle Priest for Amia",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/battle-priest-for-amia-t2323448.html",
-  "author": "Bloodedblade",
+  "name": "Pale Master Challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pale-master-challenge-t2352410.html",
+  "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 14,
+  "replies": "15",
+  "views": "1.8K",
   "posts": [
     {
-      "author": "Bloodedblade",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "11:23 PM - Mar 06, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just started playing again after a long time away and found out how much I missed this game.  I've started on Amia and it seems its a fairly magical world but with a top level restriction of 30.  I tend to play my clerics like fighters more then healbots which I find boring.  I have read a few builds in here but just  can't get into the whole monk/cleric I prefer to play more fighter/cleric with a hammer or even a bastard sword something with a shield for the ac.  I know its not the optimal build it would seem but its what I like.  I have been leaning towards Tempus for the Deity so at least the strength domain for the divine powers the other domain I'm flexible on.  I would appreciate any help from those willing as I find myself rather rusty on game mechanics as it is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:05 AM - Apr 04, 2014",
+      "content": "<div>On my server I play on one needs 20 levels of Sorcerer before they can take one level of Pale Master.  Who can make a build of<br/>\nSorcerer Pale Master and Dwarven Defender with that is mind??<br/>\n<br/>\nDavid</div>"
     },
     {
-      "author": "Dante2377",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:40 AM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">At first pass, if you just want straight Fighter/Cleric with no monk or trickery, I'd do something like this<br/>\n<br/>\nCleric(24), Fighter(6), Human<br/>\n<br/>\nSTR: 16 (22)<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 15 (19)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Fighter(1): Luck of Heroes, Blind Fight, Weapon Focus: Warhammer<br/>\n02: Fighter(2): Knockdown<br/>\n03: Fighter(3): Expertise<br/>\n04: Cleric(1): STR+1, Domain Strength, Domain Trickery, (STR=17)<br/>\n05: Cleric(2)<br/>\n06: Cleric(3): Lightning Reflexes<br/>\n07: Cleric(4)<br/>\n08: Cleric(5): WIS+1, (WIS=16)<br/>\n09: Cleric(6): Improved Knockdown<br/>\n10: Cleric(7)<br/>\n11: Cleric(8)<br/>\n12: Cleric(9): WIS+1, Extend Spell, (WIS=17)<br/>\n13: Cleric(10)<br/>\n14: Cleric(11)<br/>\n15: Cleric(12): Improved Critical: Warhammer<br/>\n16: Cleric(13): WIS+1, (WIS=18)<br/>\n17: Cleric(14)<br/>\n18: Cleric(15): Toughness<br/>\n19: Cleric(16)<br/>\n20: Cleric(17): WIS+1, (WIS=19)<br/>\n21: Fighter(4): Epic Weapon Focus: Warhammer, Weapon Specialization: Warhammer<br/>\n22: Fighter(5)<br/>\n23: Cleric(18)<br/>\n24: Cleric(19): STR+1, Great Strength I, (STR=19)<br/>\n25: Cleric(20)<br/>\n26: Cleric(21)<br/>\n27: Cleric(22): Great Strength II, (STR=20)<br/>\n28: Cleric(23): STR+1, Armor Skin, (STR=21)<br/>\n29: Cleric(24)<br/>\n30: Fighter(6): Great Strength III, Epic Weapon Specialization: Warhammer, (STR=22)<br/>\n<br/>\nHitpoints: 342<br/>\nSkillpoints: 165<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/21/13<br/>\nSaving Throw bonuses: Spells: +6<br/>\nBAB: 20<br/>\nAB (max, naked): 29 (melee), 19 (ranged)<br/>\nAC (naked/mundane armor/shield only): 14/25<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 33(35), Disable Trap 1(3), Discipline 33(39), Open Lock 1(0), Spellcraft 32(34), Tumble 15(14), remaining skillpoints 33<br/>\n<br/>\n01: Concentration(4), Disable Trap(1), Discipline(4), Open Lock(1), Tumble(2), Save(4), <br/>\n02: Concentration(1), Discipline(1), Save(7), <br/>\n03: Concentration(1), Discipline(1), Tumble(1), Save(8), <br/>\n04: Concentration(1), Spellcraft(7), Save(5), <br/>\n05: Concentration(1), Spellcraft(1), Tumble(1), Save(6), <br/>\n06: Concentration(1), Spellcraft(1), Save(9), <br/>\n07: Concentration(1), Spellcraft(1), Tumble(1), Save(10), <br/>\n08: Concentration(1), Spellcraft(1), Save(13), <br/>\n09: Concentration(1), Spellcraft(1), Tumble(1), Save(14), <br/>\n10: Concentration(1), Spellcraft(1), Save(17), <br/>\n11: Concentration(1), Spellcraft(1), Tumble(1), Save(18), <br/>\n12: Concentration(1), Spellcraft(1), Save(21), <br/>\n13: Concentration(1), Spellcraft(1), Tumble(1), Save(22), <br/>\n14: Concentration(1), Spellcraft(1), Save(25), <br/>\n15: Concentration(1), Spellcraft(1), Tumble(1), Save(26), <br/>\n16: Concentration(1), Spellcraft(1), Save(29), <br/>\n17: Concentration(1), Spellcraft(1), Tumble(1), Save(30), <br/>\n18: Concentration(1), Spellcraft(1), Save(33), <br/>\n19: Concentration(1), Spellcraft(1), Tumble(1), Save(34), <br/>\n20: Concentration(1), Spellcraft(1), Save(37), <br/>\n21: Concentration(1), Discipline(18), Tumble(1), Save(21), <br/>\n22: Concentration(1), Discipline(1), Save(24), <br/>\n23: Concentration(1), Spellcraft(3), Tumble(1), Save(23), <br/>\n24: Concentration(1), Spellcraft(1), Save(26), <br/>\n25: Concentration(1), Spellcraft(1), Tumble(1), Save(27), <br/>\n26: Concentration(1), Spellcraft(1), Save(30), <br/>\n27: Concentration(1), Spellcraft(1), Tumble(1), Save(31), <br/>\n28: Concentration(1), Spellcraft(1), Save(34), <br/>\n29: Concentration(1), Spellcraft(1), Save(37), <br/>\n30: Concentration(1), Discipline(8), Save(33), <br/>\n<br/>\nTake Strength Domain for Divine Power on 2 levels, and either Trickery or Travel depending whether Haste or Imp Invis is easier to come by.<br/>\n<br/>\nAny of the non-essential feats (luck of heros, toughness, etc) could be swapped for craft wand if that's more helpful (or scribe scroll if you find yourself running out of Divine Favor/Ext DF) or if you want Weapon Prof: Exotic for Bastard Sword.<br/>\n<br/>\nKept 3 FTR levels pre-epic to take advantage of Divine Power and for extra bonus feat in epic while still keeping undispellability for 24 Cleric levels.<br/>\n<br/>\nThere might be a more efficient stat distribution, not quite sure, but if you gimp INT lower than 13, you'll lose expertise and Imp knockdown.  <br/>\n<br/>\nYou'll easily be able to reach the AB cap with just self buffing spells (+5 DP, +5 DF, +1 bless, +1 AID, +2 battletide, +1 Prayer, +5 GMW), so you'll prob be able to afford 5 AB if you just want to permanently go around in expertise mode for some extra defense.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Bloodedblade",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:21 PM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks alot I really appreiate the quick response.  I just wish I was better at this myself.  I'm just glad there are folks out there willing to help the building disabled. : )<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:37 PM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's my slightly different aproach. Any change from the other build is for a reason, but that doesn't neccesarily make this build better.<br/>\n<br/>\nLevel 30 Melee Cleric (Cleric 24 / Fighter 6)<br/>\nHuman , Any Alignment<br/>\nPlayable 1 - 30<br/>\n<br/>\nAbilities:<br/>\nSTR: 16 (22)<br/>\nDEX: 8<br/>\nCON: 12<br/>\nWIS: 16 (19)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Power Attack, Cleave, Domain Strength, Domain Trickery<br/>\n02: Fighter(1): Weapon Focus: Warhammer<br/>\n03: Cleric(2): Blind Fight<br/>\n04: Cleric(3): STR+1, (STR=17)<br/>\n05: Cleric(4)<br/>\n06: Cleric(5): Extend Spell<br/>\n07: Cleric(6)<br/>\n08: Cleric(7): STR+1, (STR=18)<br/>\n09: Cleric(8): Knockdown<br/>\n10: Cleric(9)<br/>\n11: Cleric(10)<br/>\n12: Cleric(11): WIS+1, Toughness, (WIS=17)<br/>\n13: Fighter(2): Expertise<br/>\n14: Cleric(12)<br/>\n15: Cleric(13): Improved Knockdown<br/>\n16: Cleric(14): WIS+1, (WIS=18)<br/>\n17: Cleric(15)<br/>\n18: Cleric(16): Improved Critical: Warhammer<br/>\n19: Fighter(3)<br/>\n20: Cleric(17): WIS+1, (WIS=19)<br/>\n21: Fighter(4): Epic Weapon Focus: Warhammer, Weapon Specialization: Warhammer<br/>\n22: Cleric(18)<br/>\n23: Cleric(19)<br/>\n24: Cleric(20): STR+1, Great Strength I, (STR=20)<br/>\n25: Cleric(21)<br/>\n26: Fighter(5)<br/>\n27: Cleric(22): Great Strength II, (STR=21)<br/>\n28: Cleric(23): STR+1, Armor Skin, (STR=22)<br/>\n29: Cleric(24)<br/>\n30: Fighter(6): Epic Prowess, Epic Weapon Specialization: Warhammer<br/>\n<br/>\nStats:<br/>\nHitpoints: 312<br/>\nSkillpoints: 165<br/>\nSaving Throws (Fortitude/Will/Reflex): 19/20/10<br/>\nSaving Throw bonuses: Spells: +6<br/>\nBAB: 20<br/>\nAB (max, naked): 30 (melee), 20 (ranged)<br/>\nAC (naked/mundane armor/shield only): 14/25<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nConcentration 33(34), Disable Trap 1(3), Discipline 33(39), Heal 29(33), Lore 4(6), Open Lock 1(0), Spellcraft 32(34), Tumble 15(14)<br/>\n<br/>\n01: Concentration(4), Disable Trap(1), Heal(4), Lore(4), Open Lock(1), Spellcraft(3), Save(1)<br/>\n02: Concentration(1), Discipline(5)<br/>\n03: Concentration(1), Heal(2), Tumble(1)<br/>\n04: Concentration(1), Heal(1), Spellcraft(3)<br/>\n05: Concentration(1), Heal(1), Spellcraft(2), Save(1)<br/>\n06: Concentration(1), Tumble(2), Save(1)<br/>\n07: Concentration(1), Heal(1), Tumble(2)<br/>\n08: Concentration(1), Heal(2), Spellcraft(2)<br/>\n09: Concentration(1), Heal(1), Spellcraft(2), Save(1)<br/>\n10: Concentration(1), Heal(1), Spellcraft(1), Save(3)<br/>\n11: Concentration(1), Heal(1), Spellcraft(1), Save(5)<br/>\n12: Concentration(1), Heal(1), Save(8)<br/>\n13: Concentration(1), Discipline(11), Heal(1)<br/>\n14: Concentration(1), Heal(1), Spellcraft(1), Tumble(1)<br/>\n15: Concentration(1), Heal(1), Spellcraft(3)<br/>\n16: Concentration(1), Tumble(2)<br/>\n17: Concentration(1), Tumble(2)<br/>\n18: Concentration(1), Heal(1), Spellcraft(1), Save(2)<br/>\n19: Concentration(1), Discipline(6)<br/>\n20: Concentration(1), Spellcraft(4)<br/>\n21: Concentration(1), Discipline(2), Heal(2)<br/>\n22: Concentration(1), Heal(2), Tumble(1)<br/>\n23: Concentration(1), Tumble(2)<br/>\n24: Concentration(1), Spellcraft(4)<br/>\n25: Concentration(1), Spellcraft(1), Tumble(1), Save(1)<br/>\n26: Concentration(1), Discipline(5)<br/>\n27: Concentration(1), Spellcraft(2), Tumble(1)<br/>\n28: Concentration(1), Heal(3), Spellcraft(1)<br/>\n29: Concentration(1), Heal(3), Spellcraft(1)<br/>\n30: Concentration(1), Discipline(4)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Chaozrulez",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:59 PM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Put the 4th Fighter level pre-epic so you can get 4 attacks!<br/>\nI would splash Monk anyway to skill dump tumble at level 27.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:41 PM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Chaozrulez wrote:</strong>Put the 4th Fighter level pre-epic so you can get 4 attacks!</div></blockquote>\nWe are leaving it at 3 attacks on purpose. With the Divine Power spell, you will gain that 4th attack at the highest AB, but only if you don't already have a 4th attack. That's a difference of 15 AB on that 4th attack.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Bloodedblade",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:48 PM - Mar 07, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Damn you guys are fast thanks for the input all.  I just saw that Amia has changed the divine power spell to no longer add extra attacks will that change the build at all for maximum attacks?  Sorry I didn't notice this before I apologize for not giving you the info on that before you did all this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Dante2377",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:32 AM - Mar 08, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, that definitely changes it - pull the 4th level of fighter into pre-epic.  Doesn't matter where as long as you take Weapon Spec with it.<br/>\n<br/>\nEmpyre's suggestions for Cleave (replaces the saving throw feats in my build) on lvl 1 is a good one if it's slow leveling - that extra attack early on after killing a monster is really effective  early game. <br/>\n<br/>\nUnless a lot of early mobs have HIS or use darkness/blind, I'd take Knockdown before Blind Fight every time.  I'd also take improved crit before toughness as well - the extra crit on a warhammer is worth a lot more to me at lvl 11 than 11 HP.  <br/>\n<br/>\nI also generally find that other feats like expertise, improved crit, etc are more effective earlier than Extend Spell (bc it's really only extending your rd/lvl  buff a few rounds) and that Cleric level 9 really starts to make Extend Spell effective enough to be worth the feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Bloodedblade",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:36 AM - Mar 08, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">thanks for the quick answer its greatly apreciated<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Dante2377",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:26 AM - Mar 08, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, on my first post, I just stuck the 3 fighter levels first because it was easy on the spreadsheet.  I'd prob start with cleric at level 1 so you have a summon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "10:12 AM - Mar 08, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, an NPC will identify as the class you had at level 1, so they would call you a Fighter, even though you have 4 times as many Cleric levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Dante2377",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:43 PM - Mar 08, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On a PW like Amia though rather than the OC or other module, that's probably not an issue.  Almost every PW that I know of that looks for class looks for the highest level amongst your classes, not what you took first.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Bloodedblade",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:48 PM - Mar 22, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've been trying this out and I was wondering about adding a lvl of something with tumble such as rogue like you mentioned for a skill dump.  If I take out a lvl of fighter to add it in can I still lvl it up like written above?  It seems like I would lose a feat by doing this.  I won't get the monk ac bonus for wisdom in Amia unless I take 3 lvls so that is out  but the tumble dump and evasion would help I would think.  Thanks for any input.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:00 AM - Apr 04, 2014",
+      "content": "<div>Dwarf has a cha penalty which is bad for sorcerers. Charisma does nothing for a DD and DD does nothing important for a sorcerer.<br/>\nDD needs BAB +7 to qualify. That means 14 levels of sorcerer before you can take DD. Max BAB will then be 23 with max 3 attacks. On top of that you will not be able to focus heavily on strength to build AB if the caster part of the build is to be taken seriously.<br/>\nIt is possible to build such a character, but it will be weak, both as a caster and warrior.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:57 AM - Mar 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">At first pass, i think the wisest thing you can do is put a single lvl of Monk at 27th level at the cost of 1 Cleric and not Fighter lvl. You retain all bonus feats from both Cleric &amp; Fighter and you loose only 1 caster lvl.<br/>\n<br/>\nKeep in mind that this will make you dispellable by Greater dispel magic but meh, it is only a 5% chance and anyway is way better than losing EWS or something else.<br/>\n<br/>\nThis will work better in the first build since it will add also Cleave to your repertoire apart from +3 AC &amp; evasion.<br/>\n<br/>\n<br/>\nAlso, do not worry about \"losing\" the Monk WIS bonus to your AC since the maximum you can get from that with this amount is only 10 Ac (WIS 31).<br/>\n<br/>\nYou better keep your full plate &amp; Tower Shield and cast magic vestment on both for a total of 21 AC (+5 full plate &amp; +5 tower shield).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:42 PM - Apr 04, 2014",
+      "content": "<div>It is as Mick said unfortunately, some times we think of cool concepts but  for one or the other reason they cannot possibly made into workable builds, especially when we have such huge lvl restrictions. The good thing though is that in this game with it's thousands of possible combinations and feats, there is always some way to get what we want, maybe with another method, but definitely can be done   <br/>\n<br/>\nFor example you thought about a Sorcerer/ PM/ DD with the hope you could make a really tough caster, am i right? A sorcerer 26/ PAL 4/ COT 10 or the equivalent would make a much stronger combination, with Epic Warding, Divine Shield &amp; Might, plus Unreal saves and still retain a good spellcasting power, being undispellable and all. Or you could try perhaps a Sorcerer 26/ BG 4/ PM 10 if you want a superb defense. The thing here is that BG is way more powerful than a DD in this build.<br/>\n<br/>\nI will give you some examples or really strong Spellswords, and you can tell me if you like them.<br/>\n<br/>\nSPELLSWORD OF BAHAMUT =&gt; <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/spellsword-of-bahamut-sorc-26-paladin-4-rdd-10-t515415.html\" rel=\"noreferrer\" target=\"_blank\">spellsword-of-bahamut-sorc-26-paladin-4-rdd-10-t515415.html</a><br/>\nDRAGONIC ARCANIST =&gt; <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/draconic-arcanist-wizard-26-bard-4-rdd-10-t2344104.html\" rel=\"noreferrer\" target=\"_blank\">draconic-arcanist-wizard-26-bard-4-rdd-10-t2344104.html</a><br/>\nTHE AUGUST SPELL-BLADE =&gt; <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build300792.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 00792.html</a><br/>\nSORCERER KING =&gt; <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build272583.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 72583.html</a><br/>\n<br/>\nAll of them are fully armoured/ Undispellable Casters with a strong melee presence, the last one has PM in it as well.</div>"
     },
     {
-      "author": "Bloodedblade",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "3:38 PM - Mar 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks I appreciate the input immensely.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:57 PM - Apr 04, 2014",
+      "content": "<div>I forgot to mention the derro subclass gets bonuses to CHA.  I was thinking of the damage reduction so yes</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:28 AM - Apr 05, 2014",
+      "content": "<div>Even better then, Mick's Spellsword of Bahamut for example can trade spell penentration &amp; greater spell penentration for Power attack &amp; Divine shield and with the Derro sub-class have an even 22 (34) CHA. Now he is claded already in full plate armour &amp; has Epic Warding too for 1300 Dmg absorption along with Dragonic armour (+4 AC) and RDD immunities. Add the +12 AC from Divine shield plus Shadow shield e.t.c. you see where i am going? A DD defenses pale before those things. And unlike some others Spellswords, Mick gets a clear 40 AB before things like buffs, Divine Power and others get in the mix. And he is an undispellable caster (escept Mords of course, use spell shields for them) btw.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:52 AM - Apr 07, 2014",
+      "content": "<div>There some bosses who do major critical damage.  I wanted a build that would give me crit immunity and some nice AB that would let me use a warhammer<br/>\nor long sword or some other nice one handed weapon.<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:04 AM - Apr 07, 2014",
+      "content": "<div>Check the builds i linked to you, the last one Has Pale master Immunities and Blackguard there too. You can use any one handed weapon you like with it. It is a very nice build IMO.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:10 AM - Apr 08, 2014",
+      "content": "<div>How about Sorc 20 / RDD 10 / PM 10???</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:52 PM - Apr 08, 2014",
+      "content": "<div>I will answer to your question, but something tells me that you still haven't taken a good look at the builds i linked to you. Cause i linked to you what's best of the best already, builds that can tear apart a server. Anyway, let's move to your question and let me show you why sometimes just throwing 3 powerful classes together won't work.<br/>\n<br/>\n1) Charisma is your best stat in this build, it is luckily to be well over 42 buffed at lvl forty. Yet, there is no class from these three to take real advantage of it. Neither Paladin nor Blackguard to transfer this massive Charisma as a bonus to your saves or make it Divine damage or Armour Class via DM/DS.<br/>\n<br/>\n2) The weird restriction of 20 Sorcerer lvls before a single lvl of Pale Master along with the RDD, make for a build that almost never mature but to the last possible lvls. It is like a carrot dangling in front of a rabbit that is trying to catch it but never quite succeed in doing so. If you attempt to build such a character all the good things will come amongst 35-40 lvls. Before that you will be a sad imitation of a caster with an undead dragonic heritage.<br/>\n<br/>\n3) In this class split there is absolutely no epic bonus feats whatsoever. Moreover, the luck of epic Sorcerer lvls means that you cannot qualify for epic spells at all, so no epic mage armour or epic warding for you. And these are amongst the best epic feats a Sorcerer can take. Furthermore you will have difficulty even acquiring base feats for your class with so few epic feats available.<br/>\n<br/>\n4) With just 20 Sorcerer lvls you will be dispellable even from greater dispels that every single epic mob will have and throw at you. A couple of them and you are suddenly without all those juicy buffs you just spend 10 minutes casting. And then you will die, horribly so. Furthermore you will have too low a penetration to affect any serious opponent with your spells, so again you will be left with a caster that is forced to resort in melee combat most of the time.<br/>\n<br/>\n5) With no full BAB classes at all and with so many 1/2 BAB classes thowed in you will be left with a very low AB compared to other spellswords. And you will have to spend general feats to take even the most basics, like martial weapon proficiency.<br/>\n<br/>\n<br/>\nThere are more actually but i feel that i illustrated my point about this class mixture,fairly well. The point is, that unless you are looking for an RP character, power-gaiming wise this combo simply won't work for you. You are better off, if you simply choose something from the builds i linked to you before or another possible combo that actually works. Both of your suggestions although they sound like interesting characters are simply non-viable for a competitive environment.<br/>\n<br/>\n<br/>\nI hope i helped you,</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:01 AM - Apr 09, 2014",
+      "content": "<div>Yes you did and I actually did check out the builds in the links.  Only the last one has the 10 PMs levels that I need but in the build it takes a PM level too soon<br/>\nI need 20 sorcerer levels first.  How about 20 Sorcerer 10 PM and 10 Champion of Torm??<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:56 AM - Apr 09, 2014",
+      "content": "<div>Unless something is eluding me, there is simply no need for him to take that Palmaster lvl pre-epic, in fact it is way more beneficial to keep adding Sorcerer lvls instead. You can move that Palemaster lvl in epics along with the rest of them. Perhaps he took that lvl for saving some skill points and not forced to cross-class Hide for the Blackguard requirements. I do know why he took the fourth BG lvl at forty, but i cannot see why he took the first Pale master lvl so early except for the saving of five skill points and the early boost of +2 AC. My suggestion would simply move that PM lvl at Epics along with the rest of them. Sorcerer 26/ BG 4/ PM 10 is a very nice build, although i would change some things if i did it myself, but anyway it will cover you nicely for what you want.<br/>\n<br/>\nYou third suggestion, has an alignment confilct, does your server allow these kind of builds? <br/>\n<br/>\nAlso keep something in mind for future reference. If the build you have in mind does not have any Charisma synergy between it's classes, then you are simply much better to make this with a Wizard instead of a Sorcerer. Wizard will give you way more skills, five more feats and loose nothing. Sorcerers are only used when we want a Charisma synergy between the classes. Instead of Sorcerer 20/ Pm 10/ XX 10 you should go with Wizard 26/ PM 10/ XX 4, that is much, much better. For example Wizard 26/ Fighter 4/ PM 10 would make a nice build perhaps for what you want, which is a Caster that has PM immunities &amp; AC and can carry with some efficiency a longsword. Another possibility that also get Epic spells, is Wizard 20/ Fighter 4/ PM 16 for +4 AC more, but he will be dispellable.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:05 AM - Apr 09, 2014",
+      "content": "<div>We can change alignment on the server I play on.<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:03 AM - Apr 09, 2014",
+      "content": "<div>Does it have to be Sorcerer? Using Bard instead would help a lot.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:22 PM - Apr 10, 2014",
+      "content": "<div>It would help but it can only be 20 levels of sorcerer or wizard.<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:31 PM - Apr 10, 2014",
+      "content": "<div>Kharindale eh?<br/>\n<br/>\nDavid, what would you like for us to do, build a more optimized version like Wizard 26/ PM 10/ Fighter 4 OR you are set in your proposed build of Sorcerer 20/ PM 10/ CoT 10? And could we replace Sorcerer with the better Wizard OR you are set on using that Dwarf sub-class that gives +2 CHA as you have said before? I reccommend not to play something like those, but if you have set your mind on them (like with your Pally / WM) then i will build you one such, Concept above all</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:28 PM - Apr 10, 2014",
+      "content": "<div>I am not really set on anything.  It just needs to have 20 levels of wizard or sorcerer first before one level of pale master can be taken.  <br/>\nI would prefer the dwarf sub class just because of the good spell resistance it gives but it could be any race and any other class.  I <br/>\nam open for anything at this point.  Not even sure what a difference a shield would make.</div>"
     }
   ]
 }

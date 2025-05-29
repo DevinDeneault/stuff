@@ -4,47 +4,45 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "106",
-  "name": "Initiative Feats",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/initiative-feats-t2355575.html",
-  "author": "Fist",
+  "name": "Dual Wielding",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dual-wielding-t2355579.html",
+  "author": "Theophilus Fist",
   "avatar": "no_avatar.png",
-  "replies": 5,
+  "replies": "4",
+  "views": "432",
   "posts": [
     {
       "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
-      "timestamp": "5:20 PM - Oct 03, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I seem to recall that the Initiative Feats didn't work in early releases of the game.\u00a0 Has that been addressed in DE or EE?\u00a0 Also, I recall once reading that Initiative is tied to DEX - is that true?<br/>\n<br/>\nAll of which leads to - is there a way to make a build that almost always gets in the 1st strike?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:49 PM - Oct 03, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've not tested this in NWN:EE, but I also don't recall ever hearing that Beamdog fixed anything with initiative. I wish they did...I'd most likely be actually investing in initiative improving feats...<br/>\n<br/>\nThe wiki link<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Initiative\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Initiative</a><br/>\n<br/>\nshows all the modifiers.<br/>\n<br/>\nI actually think it is more broken than that wiki suggests. My thoughts stem from playing on a perma death modern zombie survival server, where even when I attacked out of stealth a dex 8 zombie, one shotting it, they would often enough actually hit me before they died...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:49 PM - Oct 03, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think there is a bit of confusion here.<br/>\n<br/>\nInitiative allows you to go first - but in NWN, it does not mean that others do not get their attacks in that flurry.<br/>\n<br/>\nThe exception to this could be Death Attack - I am pretty sure it paralyzes instantly (seem that way to me).<br/>\n<br/>\nI am not sure about the rest of the attacks (flurries) in the round (if, for example, a dev crit occurs, or death, etc).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:04 AM - Oct 10, 2020",
+      "content": "<div>I do not see a lot of dual-wield builds (except, of course, Kama Monks). What are the inherent weaknesses to dual wielding (besides the feat investment &amp; loss of shield?<br/>\n<br/>\nAlso, if a PC has Two Weapon Fighting with a light weapon in the off-hand and the Ambidexterity feat, is the AB penalty -2/+2?<br/>\n<br/>\nIs there value to ITWF at low levels?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:41 PM - Oct 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know if this has any relevance or not (and certainly not as far as EE goes), but I remember having an albeit brief discussion with Hip on the subject back in 2016. I'll pop it here for such relevance as it may have.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/improved-initiative-where-d-it-go-t2354592.html\" rel=\"noreferrer\" target=\"_blank\">Initiative - where'd it go?</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:40 AM - Oct 10, 2020",
+      "content": "<div>Hi Theophilus.<br/>\n<br/>\nPerhaps this link will help in your quest for d-w answers: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/best-weapon-style-shield-2handed-dual-t2355304.html\" rel=\"noreferrer\" target=\"_blank\">1/2-handed/d-w weapons</a><br/>\n<br/>\nAs to AB penalties, you're right about the AB penalty with both TWF and Ambidexterity. You will, of course need a DEX of 15+ in order to take Ambidexterity (unless you take Ranger and its inherent D-W feat/s).<br/>\n<br/>\nWhen you take ITWF is a matter of personal taste, by and large (provided you have BAB of 9+). For myself, I prefer to wait until my AB is higher before grabbing that extra off-hand attack. After all, if you take it when it first becomes available, you'll be making the attack at -7 from your optimal AB (-5 if a kama Monk), and you're not going to hit much then without a 20 roll. There are probably more beneficial feats that could be taken earlier instead. But then, I tend to take all d-w feats later than many here do anyway.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Ten Pura",
-      "avatar": "10759105_1562697297.png",
-      "timestamp": "12:40 PM - Oct 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail Theophilus Fist!<br/>\nI believe that when you're seeking a character that strikes first, you'll find a ranged sneaker.<br/>\n<br/>\nAnother option, break your (extended) Improved Invisibility with Time Stop. Follow with Bigby's. Summon something. Pitch tent, sip chilled drinks and relax.<br/>\n<br/>\nIn all seriousness, if I want to strike first, I don't melee.<br/>\n<br/>\nI don't always melee, but when I do, I prefer Mestil's.<br/>\n<br/>\nI'll show myself out now...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:48 AM - Oct 10, 2020",
+      "content": "<div>Oh, and here are just a couple of examples of non-kama dual-wielders - one DEX and one STR based. There are plenty more...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/kukri-saint-fighter-12-wm-25-rogue-3-t2353598.html\" rel=\"noreferrer\" target=\"_blank\">Kukri Saint</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/aielund-sword-champion-fighter-14-cot-20-rogue-6-t2354534.html\" rel=\"noreferrer\" target=\"_blank\">Aielund Sword Champion</a><br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:51 AM - Oct 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ten Pura wrote: <a data-post-id=\"22204\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22204&amp;sid=47d048077319705390b91fffba8337a1#p22204\">\u2191</a><div class=\"responsive-hide\">Oct 05, 2020</div></cite>Hail Theophilus Fist!<br/>\nI believe that when you're seeking a character that strikes first, you'll find a ranged sneaker.<br/>\n<br/>\nAnother option, break your (extended) Improved Invisibility with Time Stop. Follow with Bigby's. Summon something. Pitch tent, sip chilled drinks and relax.<br/>\n<br/>\nIn all seriousness, if I want to strike first, I don't melee.<br/>\n<br/>\nI don't always melee, but when I do, I prefer Mestil's.<br/>\n<br/>\nI'll show myself out now...</div></blockquote>\nYou mean use that stick that pushes out out other pointy sticks?\u00a0 No thanks.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:53 AM - Oct 11, 2020",
+      "content": "<div>Aargh! Because I am an idiot, and it was very early when I posted the above, I now see I've presented two STR builds. I actually meant to present you with this DEX one: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/halfling-champion-rogue-20-fighter-6-cot-14-t2354370.html\" rel=\"noreferrer\" target=\"_blank\">Halfling Champion</a><br/>\n<br/>\nSorry!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:29 PM - Oct 11, 2020",
+      "content": "<div>This is my favorite two-weapon build - <strong>Gloom Razor by GDL</strong> <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/gloom-razor-of-the-hin-rogue-24-divine-champion-10-t2355280.html\" rel=\"noreferrer\" target=\"_blank\">gloom-razor-of-the-hin-rogue-24-divine- ... 55280.html</a></div>"
     }
   ]
 }

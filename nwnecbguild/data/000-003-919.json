@@ -4,41 +4,251 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "919",
-  "name": "Build Request: Level 20 evil sorc build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-request-level-20-evil-sorc-build-t2354971.html",
-  "author": "Eijji",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 4,
+  "name": "Zaknafein, the drowish weapon master",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/zaknafein-the-drowish-weapon-master-t2354972.html",
+  "author": "Aquarius 233",
+  "avatar": "10714033_1519247364.jpg",
+  "replies": "35",
+  "views": "900",
   "posts": [
     {
-      "author": "Eijji",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:35 PM - Jan 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Looking for help making a level 20 evil sorc for PVM and light PVP on a level 20 server. Does not have to be fully sorc but would like to focus on pure offensive spell casting. I would like to somehow mix in a level of shadow dancer for HIPS if it cannot facetank. Has to be an elf. Has to be evil. Server is a low magic server with +5 rare drops. Any help with this would be appreciated, thank you!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "8:52 PM - Jan 03, 2019",
+      "content": "<div>Hi all!<br/>\nAfter having read R.A. Salvatore's \"The Dark Elf Trilogy\" (with great pleasure), and taking into account that I have played a weapon master years ago, I have decided to create my own Zaknafein.<br/>\nThis weapon master's aim is to be a master with many weapons, one for each damage type.<br/>\n<br/>\nHere is the build, for your review:<br/>\n<br/>\nFighter(10), Weapon Master(22), Champion of Torm(8), Elf<br/>\n<br/>\nSTR: 17 (30)<br/>\nDEX: 13<br/>\nCON: 13 (14)<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Fighter(1): Weapon Focus: Longsword, Expertise<br/>\n02: Fighter(2): Dodge<br/>\n03: Fighter(3): Mobility<br/>\n04: Fighter(4): CON+1, Spring Attack, (CON=14)<br/>\n05: Fighter(5)<br/>\n06: Fighter(6): Weapon Specialization: Longsword, Whirlwind Attack<br/>\n07: Weapon Master(1): Weapon of Choice: Longsword<br/>\n08: Weapon Master(2): STR+1, (STR=18)<br/>\n09: Weapon Master(3): Knockdown<br/>\n10: Weapon Master(4)<br/>\n11: Weapon Master(5)<br/>\n12: Champion of Torm(1): STR+1, Blind Fight, (STR=19)<br/>\n13: Champion of Torm(2): Power Attack<br/>\n14: Champion of Torm(3): {Smite Evil}<br/>\n15: Champion of Torm(4): Weapon Focus: Shortsword, Cleave<br/>\n16: Champion of Torm(5): STR+1, (STR=20)<br/>\n17: Champion of Torm(6): Improved Critical: Longsword<br/>\n18: Fighter(7): Weapon Focus: Mace<br/>\n19: Fighter(8): Weapon Specialization: Shortsword<br/>\n20: Weapon Master(6): STR+1, (STR=21)<br/>\n21: Champion of Torm(7): Epic Weapon Focus: Longsword<br/>\n22: Champion of Torm(8): Epic Weapon Focus: Shortsword<br/>\n23: Fighter(9)<br/>\n24: Fighter(10): STR+1, Epic Weapon Specialization: Longsword, Epic Weapon Specialization: Shortsword, (STR=22)<br/>\n25: Weapon Master(7)<br/>\n26: Weapon Master(8)<br/>\n27: Weapon Master(9): Great Strength I, (STR=23)<br/>\n28: Weapon Master(10): STR+1, (STR=24)<br/>\n29: Weapon Master(11)<br/>\n30: Weapon Master(12): Great Strength II, (STR=25)<br/>\n31: Weapon Master(13): Epic Weapon Focus: Mace<br/>\n32: Weapon Master(14): STR+1, (STR=26)<br/>\n33: Weapon Master(15): Great Strength III, (STR=27)<br/>\n34: Weapon Master(16): Armor Skin<br/>\n35: Weapon Master(17)<br/>\n36: Weapon Master(18): STR+1, Great Strength IV, (STR=29)<br/>\n37: Weapon Master(19): Epic Prowess<br/>\n38: Weapon Master(20)<br/>\n39: Weapon Master(21): Epic Fortitude<br/>\n40: Weapon Master(22): STR+1, Epic Toughness I, (STR=30)<br/>\n<br/>\nHitpoints: 500<br/>\nSkillpoints: 172<br/>\nSaving Throws (Fortitude/Will/Reflex): 33/19/27<br/>\nSaving Throw bonuses: Spells: +4, Mind Effects: +2<br/>\nBAB: 30<br/>\nAB (max, naked): 49 (melee), 32 (ranged)<br/>\nAC (naked/mundane armor/shield only): 17/28<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nDiscipline 43(53), Heal 2(1), Intimidate 4(3), Listen 43(44), Spellcraft 18(20), Tumble 20(21)<br/>\n<br/>\n<br/>\n01: Discipline(4), Intimidate(2), Save(8), <br/>\n02: Discipline(1), Spellcraft(1), Tumble(1), Save(7), <br/>\n03: Discipline(1), Intimidate(1), Save(8), <br/>\n04: Discipline(1), Spellcraft(1), Tumble(1), Save(7), <br/>\n05: Discipline(1), Intimidate(1), Save(8), <br/>\n06: Discipline(1), Spellcraft(1), Tumble(1), Save(7), <br/>\n07: Discipline(1), Listen(10), <br/>\n08: Discipline(1), Listen(1), Tumble(1), <br/>\n09: Discipline(1), Listen(1), Save(2), <br/>\n10: Discipline(1), Listen(1), Spellcraft(1), Tumble(1), <br/>\n11: Discipline(1), Listen(1), Tumble(1), <br/>\n12: Discipline(1), Save(3), <br/>\n13: Discipline(1), Spellcraft(1), Tumble(1), Save(2), <br/>\n14: Discipline(1), Save(5), <br/>\n15: Discipline(1), Spellcraft(1), Tumble(1), Save(4), <br/>\n16: Discipline(1), Spellcraft(1), Tumble(1), Save(3), <br/>\n17: Discipline(1), Spellcraft(1), Tumble(1), Save(2), <br/>\n18: Discipline(1), Spellcraft(1), Save(3), <br/>\n19: Discipline(1), Save(6), <br/>\n20: Discipline(1), Listen(9), <br/>\n21: Discipline(1), Tumble(1), Save(1), <br/>\n22: Discipline(1), Spellcraft(1), Save(2), <br/>\n23: Discipline(1), Tumble(1), Save(3), <br/>\n24: Discipline(1), Spellcraft(1), Tumble(1), Save(2), <br/>\n25: Discipline(1), Listen(5), <br/>\n26: Discipline(1), Listen(1), Tumble(1), <br/>\n27: Discipline(1), Listen(1), Tumble(1), <br/>\n28: Discipline(1), Listen(1), Spellcraft(1), <br/>\n29: Discipline(1), Listen(1), Tumble(1), <br/>\n30: Discipline(1), Listen(1), Spellcraft(1), <br/>\n31: Discipline(1), Listen(1), Save(2), <br/>\n32: Discipline(1), Listen(1), Spellcraft(1), Tumble(1), <br/>\n33: Discipline(1), Listen(1), Spellcraft(1), <br/>\n34: Discipline(1), Listen(1), Tumble(1), <br/>\n35: Discipline(1), Listen(1), Tumble(1), <br/>\n36: Discipline(1), Listen(1), Spellcraft(1), <br/>\n37: Discipline(1), Listen(1), Tumble(1), <br/>\n38: Discipline(1), Listen(1), Spellcraft(1), <br/>\n39: Discipline(1), Listen(1), Spellcraft(1), <br/>\n40: Discipline(1), Heal(2), Listen(1), <br/>\n<br/>\nI would like to obtain weapon specialization for mace, as bludgeoning damage is less resisted, maybe it can be obtained by replacing the ws:shortsword feat.<br/>\nBesides, I haven't aimed for \"dev crit\", as with it I cannot enjoy a play.<br/>\n<br/>\nNow, your turn!</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:10 PM - Jan 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can't call that server \"low magic\", <br/>\nIn fact, I would argue that this is a fairly standard magic level having +5 items at all.<br/>\n<br/>\nAnyway, Elf &amp; Evil makes it tougher than it should be, Sorcerer 18/ Cleric 1/ Paladin 1, Human/Gnome is so much better.<br/>\nSorcerer 19/ Cleric 1 for Divine Shield is okay &amp; can be done Evil &amp; Elf as you want.<br/>\nCharisma 17 -&gt; 22, Greater Spell Focus on 2 different schools and that's it.<br/>\nI assume your PW has changed some things for casters/spells for PvP or else it is ridiculous as you can go Timestop -&gt; 3x Isaac's Greater missile storms and obliterate anything that's 20 level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Eijji",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:01 PM - Jan 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How would you build Sorc 19/Cleric 1?\u00a0<br/>\n<br/>\n1st level: Power Attack<br/>\n3rd (cleric) Divine Shield<br/>\nrest of the levels greater spell focuses and empower spell<br/>\n<br/>\nStarting Stats (Elf):<br/>\n<br/>\nStr: 8<br/>\nDex: 15<br/>\nCon: 14<br/>\nWis: 8<br/>\nInt: 10<br/>\nCha: 17<br/>\n<br/>\nIs this good?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:15 PM - Jan 03, 2019",
+      "content": "<div>Why not use one-handed: Morningstar: Bludgeoning and piercing damage. Two-handed: Scythe/halberd: Slashing and Piercing. You can get all three damage types with just two weapons. That would also seem more logical for a Weaponmaster, to use one \"big\" weapon and one \"medium+shield-combo\". Also, it would make the build much easier to set up.<br/>\n<br/>\nI know, it's not Zaknafein if you don't have those specific weapons, but still.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:11 PM - Jan 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ignorant but genuine question. If Pally is out of the equation, would Blackguard be worth it? Again, I'm thinking Charisma synergy. However, it does seem mean to shove an elf into Sorcerer rather than Wizard, regardless of alignment<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:36 PM - Jan 03, 2019",
+      "content": "<div>Love it, Aquarius! It's a sort of (Mick's) Epic Brawler Champion for elves. On first look, just two or three things, if you don't mind...<br/>\n<br/>\nFirst, drop Fighter to 8 and raise CoT to 10. CoT can take EWS (though not WS). That will bump your saves by 1 (not that they're rubbish anyway) and you lose nothing. You also gain something else at CoT10, but it's CHA-related so won't really impact here.<br/>\n<br/>\nSecond, take your first WS at Fighter level 4. Hit the weaklings early and hard. You can take both Spring Attack and Whirlwind at level 6.<br/>\n<br/>\nThird, and this is more a personal take - though I understand why you would do it this way, and given the restrictions of WM - I'm not keen on Epic Fort and Epic Toughness at 39 and 40. Maybe another couple of Fighter levels (brought back later) could give you that E/WS in mace you were after?<br/>\n<br/>\nI'm going to try this one!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "8:33 PM - Jan 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He would be worth it if it was a level 40 build but at level 20 you need at least 3 levels to take that Divine Shield so you lose all 9th level spell-casting. <br/>\nAt level 40 however, Sorceress 35/ BG 3/ Monk 2, for example, would be a really good combo.<br/>\n<br/>\nEijji, try this instead: Str: 09 Dex: 16 Con: 12 Int: 12 Wis: 08 Cha 17(22)<br/>\nPA, DS, GSF 1/GSF 2, Empower OR Extend Spell. <br/>\nAnd here is why Human is so good, he allows you to take Both of them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:40 AM - Jan 04, 2019",
+      "content": "<div>\u201cTwo-hands,\u201d Zak said to Malice. \u201cThis one is a fighter. He belongs in Melee-Magthere.\u201d</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:10 AM - Jan 04, 2019",
+      "content": "<div>Must read some of Salvatore's work!<br/>\n<br/>\n@ Cornflower: I'm a huge Morningstar fan too, but designers seem to hate us (the bastards).<br/>\n<br/>\n@ Valerfor: Sorry, no idea what you're saying here. The best I can come up with is: \"Yes, Boo - this dark elf is our friend - we need not bring justice's boot down onto his pointy head.\" Or something like that.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:11 AM - Jan 04, 2019",
+      "content": "<div>For effectiveness, I would choose scimitar, rapier, and warhammer.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:01 AM - Jan 04, 2019",
+      "content": "<div>R. A. Salvatore<br/>\nThe Dark Elf Trilogy =&gt; <a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/The_Dark_Elf_Trilogy\" rel=\"noreferrer\" target=\"_blank\">https://en.wikipedia.org/wiki/The_Dark_Elf_Trilogy</a><br/>\n<br/>\nIt still reads quite nicely even after all these years, and frankly, any Dungeons &amp; Dragons fun should read these books alongside Dragonlance.<br/>\n<br/>\n\u201cCatch them all, Secondboy.\u201d he said in all seriousness. \u201cCatch them all, or you will land in<br/>\nSorcere, the school of magic. That is not where you belong!\u201d<br/>\n<br/>\nDrizzt still had only a vague idea of what Zak was talking about, but he could tell from the<br/>\nweapon master\u2019s intensity that it must be important. He took a deep breath to steady himself, then<br/>\nsnapped the coins up. He sorted their glow quickly, discerning each individual item. The first two<br/>\nfell easily into his hands, but Drizzt saw that the scattering pattern of the rest would not drop them<br/>\nso readily in line.<br/>\n<br/>\nDrizzt exploded into action, spinning a complete circle, his hands an indecipherable blur of<br/>\nmotion. Then he straightened suddenly and stood before Zak. His hands were in fists at his sides<br/>\nand a grim look lay on his face.<br/>\nZak and Matron Malice exchanged glances, neither quite sure of what had happened.<br/>\nDrizzt held his fists out to Zak and slowly opened them, a confident smile widening across his<br/>\nchildish face. Five coins in each hand.<br/>\n<br/>\nZak blew a silent whistle. It had taken him, the weapon master of the house, a dozen tries to<br/>\ncomplete that maneuver with ten coins. He walked over to Matron Malice.<br/>\n\u201cTwo-hands,\u201d he said a third time. \u201cHe is a fighter, and I am out of coins.\u201d<br/>\n\u201cHow many could he do?\u201d Malice breathed, obviously impressed in spite of herself.<br/>\n\u201cHow many could we stack?\u201d Zaknafein shot back with a triumphant smile.<br/>\nMatron Malice chuckled out loud and shook her head. She had wanted Drizzt to replace<br/>\nNalfein as the house wizard, but her stubborn weapon master had, as always, deflected her course.<br/>\n\u201cVery well, Zaknafein.\u201d she said, admitting her defeat. \u201cThe secondboy is a fighter.\u201d<br/>\nZak nodded and started back to Drizzt.<br/>\n<br/>\n\u201cPerhaps one day soon to be the weapon master of House Do\u2019Urden.\u201d Matron Malice added<br/>\nto Zak\u2019s back. Her sarcasm stopped Zak short, and he eyed her over his shoulder.<br/>\n\u201cWith this one.\u201d Matron Malice continued wryly, wrenching back the upper hand with her<br/>\nusual lack of shame, \u201ccould we expect anything less?\u201d<br/>\nRizzen, the present patron of the family shifted uncomfortably. He knew, and so did everyone<br/>\n\u2015even the slaves of House Do\u2019Urden\u2015that Drizzt was not his child.</div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:38 AM - Jan 04, 2019",
+      "content": "<div>I don't see how he can be a Zak build if he doesn't dual wield.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:12 PM - Jan 04, 2019",
+      "content": "<div>I could not resist posting a build with these classes as a tripple WM with 3 Weapons of Choice. I picked Scimitar, Morningstar and Rapier. I chose one handed weapons since Tumble is cross classed and you want a shield to improve AC. But feel free to change weapons according to taste.<br/>\n<details><summary>Spoiler</summary>\nFighter(10), Weapon Master(22), Champion of Torm(8), Elf\nSTR: 17 (34)\nCON: 12\nINT: 14\n\n02: Fighter(2): Weapon Focus: Scimitar\n04: Fighter(4): STR+1, Weapon Specialization: Scimitar, (STR=18)\n06: Fighter(6): Spring Attack, Whirlwind Attack,\u00a0\n08: Weapon Master(2): STR+1, (STR=19)\n10: Weapon Master(4)\n12: Fighter(7): STR+1, Weapon Specialization: Morning Star, (STR=20)\n14: Weapon Master(7)\n16: Weapon Master(8): STR+1, (STR=21)\n18: Weapon Master(10): Knockdown\n20: Champion of Torm(1): STR+1, (STR=22)\n22: Weapon Master(12)\n24: Weapon Master(14): STR+1, Great Strength II, (STR=25)\n26: Weapon Master(16): Weapon of Choice: Rapier\n28: Weapon Master(18): STR+1, (STR=27)\n30: Champion of Torm(2): Great Strength IV, Epic Weapon Specialization: Morning Star, (STR=28)\n32: Weapon Master(21): STR+1, (STR=29)\n34: Fighter(10): Epic Weapon Specialization: Rapier\n36: Champion of Torm(4): STR+1, Great Strength VI, Armor Skin, (STR=32)\n38: Champion of Torm(6): Improved Knockdown\n40: Champion of Torm(8): STR+1, Epic Prowess, (STR=34)\nHitpoints: 440\nSaving Throw bonuses: Mind Effects: +2\nBAB: 30\nAC (naked/mundane armor/shield only): 17/28\nSpell Casting: 0\n\nConcentration 37(38), Discipline 43(55), Intimidate 4(3), Spot 43(45), Tumble 20(21), remaining skillpoints 1\n01: Concentration(4), Discipline(4), Intimidate(2), Tumble(2), \n03: Concentration(1), Discipline(1), Intimidate(1), Tumble(1), \n05: Concentration(1), Discipline(1), Intimidate(1), Tumble(1), \n07: Discipline(1), Spot(3), Tumble(1), \n09: Discipline(1), Spot(1), Tumble(1), \n11: Discipline(1), Tumble(1), Save(3), \n13: Discipline(1), Spot(1), Tumble(1), \n15: Concentration(3), Discipline(1), Tumble(1), \n17: Discipline(1), Spot(1), Tumble(1), Save(1), \n19: Concentration(4), Discipline(1), Tumble(1), \n21: Discipline(1), Spot(1), Tumble(1), \n23: Discipline(1), Spot(1), Tumble(1), \n25: Discipline(1), Spot(1), Tumble(1), \n27: Discipline(1), Spot(1), Tumble(1), \n29: Discipline(1), Tumble(1), Save(4), \n31: Discipline(1), Tumble(1), Save(8), \n33: Discipline(1), Tumble(1), Save(12), \n35: Discipline(1), Spot(1), Tumble(1), \n37: Discipline(1), Spot(1), Tumble(1), \n39: Discipline(1), Spot(3), \n</details></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:56 PM - Jan 04, 2019",
+      "content": "<div>Far be it from me to critique Mick's work, but if I may offer a few comments on an exciting build...<br/>\n<br/>\nScimitar appears to be lost in epic levels, which seems a shame. IKD could go for EWF:Scimitar, at least.<br/>\n<br/>\nHowever, and this might be missing the spirit of the thing, but with just 2 WoCs - Scimitar and Morning Star (which iirc is both blunt and piercing), you can cover all 3 attack types. This would free up some feats for things like Blind Fighting and Imp Crit - or even some dual-wielding (I know you can't d-w Flail, but I think you can Morning Star).<br/>\n<br/>\nAnd, again, is there something badly wrong with having 10 levels of CoT? Either with 22 WM and 8 Fighter, or 20 WM and retaining 10 Fighter?<br/>\n<br/>\nAnyway, just a few thoughts...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:23 PM - Jan 04, 2019",
+      "content": "<div>Stag, this is a crazy build concept, based more on a fictional character than practical NWN play. And my build is by no means \"polished\". It only serves to demonstrate that you can build with 3 WoCs. And you are right about Morningstar (my favourite simple weapon that is better than it's martial counterpart, the light flail.) I would not dual wield it though.<br/>\nAs for 10 CoT levels: It might work and give better saves in more than one way. (more CoT and better pre epic class spread saves wise)<br/>\nYou need 6 fighter levels to qualify for WM. You then need at least 2 more fighter levels for the 2 remaining WSs.<br/>\nIf you take F8 CoT2 pre epic you get one more pre epic feat and one less epic feats compared with F9 CoT1.This means that you can move IKD to pre epic.\u00a0<br/>\nThe epic feats will be delayed some but the build should work fine.<br/>\n<br/>\nEdit: I don't quite understand what you mean by \"scimitars lost in epic levels\" so it is hard for me to comment on that.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:13 PM - Jan 04, 2019",
+      "content": "<div>Thanks, Mick. I like crazy build concepts! It's all about enjoyment, after all. And I'm pleased to see another Morningstar fan - flashy variants (sorry, enhanced versions) of the weapon are sadly under-used by most game designers.<br/>\n<br/>\nMy point about Scimitar was that you don't take EWF or EWS in it - unlike Rapier and Morningstar. Sorry if I was unclear. That formed part of my thinking about maybe dropping WM to 20 and having both Fighter and CoT at 10 (so you'd lose IKD but be able to take both EWF and EWS in Scimitar with that one extra feat).<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:22 PM - Jan 04, 2019",
+      "content": "<div>Ah, *slaps head* that is a glitch on my part. Maybe I stretched it too far this time... <span class=\"text-emoji\">\ud83d\ude02</span><br/>\nEdit: By removing 6 WM levels for Fighter/CoT you win 1 feat slot at the cost of 2 AB. But you cannot go lower than WM16 because you need 2 bonus feats for the 2 remaining WoCs.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:40 PM - Jan 04, 2019",
+      "content": "<div>There is an alternative that allows the same class split but only drops the AB by 1, and that's to remove 2 of the Great Strengths, so you could grab the EWF/S in Scimitar (which would, of course, bump Scim AB anyway)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:46 PM - Jan 04, 2019",
+      "content": "<div>Good point Stag. <span class=\"text-emoji\">\ud83d\ude0a</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:24 PM - Jan 04, 2019",
+      "content": "<div>Why does my printer not work (I suspect sneaky halflings or irascible gnomes mucking about)? I want that one from Mick pinned on my wall!<br/>\n<br/>\nSee - sometimes the lessons work!<br/>\n<br/>\n(Oh, and I believe Mick is currently emoji-king over the past few months.)<br/>\n<br/>\nProbably better hand this thread back to Aquarius now...<span class=\"text-emoji\">\ud83d\ude17</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:41 PM - Jan 04, 2019",
+      "content": "<div><details><summary>Spoiler</summary>Just have to add (before the printer starts working) that you have proven your worth as an epic character builder here Stag. </details></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:35 PM - Jan 04, 2019",
+      "content": "<div>Sorry, can't find a humble bow and thank you emoji.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "10:22 PM - Jan 04, 2019",
+      "content": "<div>Three weapons seems overkill; doing it because you can. Would much, much rather have BF and other Feats. Any sort of Hero should have BF!</div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "10:39 PM - Jan 04, 2019",
+      "content": "<div>Thank you for your advices: I have learned some aspects useful for WMs!<br/>\nI understand that, even if the proposed build was a quick draft, this sort of character is not buildable, as the general outcome has been an elf/drow WM, and not a Zaknafein build.<br/>\nJust a quick question: why do in many builds you (almost always) tend to avoid the \"Epic/non-epic saves\" feats (except for luck of heroes when human)?</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:21 PM - Jan 04, 2019",
+      "content": "<div><blockquote><div><cite>Thorsson wrote:</cite>\nThree weapons seems overkill; doing it because you can. Would much, much rather have BF and other Feats. Any sort of Hero should have BF!\n</div></blockquote>\n\nIn practical terms, you're perfectly right. But shouldn't we be having fun with builds as well? As Mick himself says, this is a crazy build, but I bet you could play it if you get your tactics right. I'll certainly be trying either tweaks on Aquarius's or Mick's sometime soon. If nothing else, I'll get to be a better player.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:43 PM - Jan 04, 2019",
+      "content": "<div><blockquote><div><cite>Aquarius 233 wrote:</cite>\nThank you for your advices: I have learned some aspects useful for WMs!<br/>\nI understand that, even if the proposed build was a quick draft, this sort of character is not buildable, as the general outcome has been an elf/drow WM, and not a Zaknafein build.<br/>\nJust a quick question: why do in many builds you (almost always) tend to avoid the \"Epic/non-epic saves\" feats (except for luck of heroes when human)?\n</div></blockquote>\n\nFirst thing: no! This is a splendidly different build, which is great! Now I'm going to make things worse...Surely this should be a Ranger/WM? Happy new year! (He's going to call me rude names now, isn't he...)<br/>\n<br/>\nSecond: certainly for me, it's simply a question of priorities. If I've got room after taking \"mandatory\" feats as a meleer - WF/ BF/ KD/ Imp Crit - then \"would like to have\" ones, like IKD/ Dodge/ Expertise - and anything you might need for secondary classes, then things like Iron Will (which I'd personally whack right up there, because I hate failing a Will throw as a meleer) and so on would be the next port of call. There's certainly nothing against them. (They can be annoying though, you have to take them as general feats.)<br/>\n<br/>\nHope this helps!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:41 AM - Jan 05, 2019",
+      "content": "<div><blockquote><div><cite>Aquarius 233 wrote:</cite>\nI understand that, even if the proposed build was a quick draft, this sort of character is not buildable, as the general outcome has been an elf/drow WM, and not a Zaknafein build.</div></blockquote>\nAs for me, I have not read the novels you refer to. (Probably shoud though). So, I'm sorry, it is hard to target the charater concept precicely. But I have to admit I had fun building an \"over the top\" weaponmaster.\n<blockquote><div>Just a quick question: why do in many builds you (almost always) tend to avoid the \"Epic/non-epic saves\" feats (except for luck of heroes when human)?</div></blockquote>\nI sometimes use the saves feat extensively. Take a look at my thread \"The Kukrimaster revisited\" or my take on Minsc in the \"Minsc and other BG characters\" thread here in this build request forum. I am especially fond of boosting the fort saves in builds made for Dev crit environments. But sometimes I also try to make builds with a fortified will save to compensate for the low will saves of fighter/rogue builds. In general I try to use CoT in builds where I want good saves. I also look at the level spread at 20 and try to give every class the number of levels that give the best saves combination if feasible.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:02 AM - Jan 05, 2019",
+      "content": "<div>I prefer warhammer over morningstar because of the x3 critical hits. Since the build is already not Zak, you might as well make him human and use the added feat to get Blind Fight. If the build is to have WM, then Dodge and Expertise are mandatory, not just nice-to-have.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:17 AM - Jan 05, 2019",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div>Just a quick question: why do in many builds you (almost always) tend to avoid the \"Epic/non-epic saves\" feats (except for luck of heroes when human)?</div></blockquote>\nI sometimes use the saves feat extensively. Take a look at my thread \"The Kukrimaster revisited\" or my take on Minsc in the \"Minsc and other BG characters\" thread here in this build request forum. I am especially fond of boosting the fort saves in builds made for Dev crit environments. But sometimes I also try to make builds with a fortified will save to compensate for the low will saves of fighter/rogue builds. In general I try to use CoT in builds where I want good saves. I also look at the level spread at 20 and try to give every class the number of levels that give the best saves combination if feasible.\n</div></blockquote>\n\nOoh, I remember that Minsc build - and I had a great time getting him to level 27! (Though it was upsetting to lose the voice/concept after the OC).<br/>\n<br/>\nThere you go, Aquarius, some clever stuff to sit beside my waffle - everyone's a winner!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:29 AM - Jan 05, 2019",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\nI prefer warhammer over morningstar because of the x3 critical hits. Since the build is already not Zak, you might as well make him human and use the added feat to get Blind Fight. If the build is to have WM, then Dodge and Expertise are mandatory, not just nice-to-have.\n</div></blockquote>\n\nWell yes, but I did mention feats necessary for a secondary class, to be fair...<br/>\n<br/>\nNow, I don't know Zak, other than what I've read here, but he's definitely an elf, and he's definitely a master of weapons. Drizzt, of course, dual-wields scimitars, and is a Ranger. So, picturing his tutor...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:45 AM - Jan 05, 2019",
+      "content": "<div>\"picturing his tutor...\"<br/>\n<br/>\nHe was a 24th level fighter Drow with dual-longswords.<br/>\nOfficial stats for 2nd edition btw,<br/>\nHe also had abnormally high hit points (178) but Salvatore's characters were always breaking some rule here &amp; there for being exceptional at what they do,<br/>\nWulfgar, for example, had 19 strength (18/100 was the maximum).</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:33 AM - Jan 05, 2019",
+      "content": "<div>Right - and thank you Valerfor (I would say arbiter of sense and reason, but we have our parameters).<br/>\n<br/>\nSo, dual longswords. That will hit AB, but hey, it's thematic, right? And Aquarius was bang on the money there - just a bit chicken in going one-handed. CoT's a really nice idea, but this guy needs to flex and move, from what I'm getting, so (and you'll hate me for this, Valerfor) light armoured ranger works better (and you don't need the 3 d-w feats). It also seems to fit with Drizzt himself.<br/>\n<br/>\nI think I'm leaning towards a Fighter or Ranger/ CoT/ Rogue (with manageable levels to mitigate xp penalties) and leaving WM behind.<br/>\n<br/>\nBut then I've been known to talk out of my ass before...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:51 AM - Jan 05, 2019",
+      "content": "<div>MUSASHI<br/>\n(FTR 30/ ROG 3/ WM 7)<br/>\n<br/>\n RACE: Human<br/>\n Alignment: LN<br/>\n Playability: PvE 1-40 lvl<br/>\n<br/>\n STARTING/ ENDING STATS:<br/>\n STR:  17 (34)<br/>\n DEX: 15<br/>\n CON: 12<br/>\n INT:   13<br/>\n WIS:  08<br/>\n CHA: 08<br/>\n<br/>\n Hit Points: 428<br/>\n<br/>\n Skill Points: 190<br/>\n<br/>\n Discipline: 43 (55)<br/>\n Intimidate: 4 (3) cc<br/>\n Listen: 20 (19)<br/>\n Spellcraft: 19 (20) cc<br/>\n Tumble: 40 (42)<br/>\n UMD: 41 (40)<br/>\n<br/>\n Saving Throws (Fort/Ref/Will): 22/ 21/ 15 (Unadjusted)<br/>\n Saving Throws (Fort/Ref/Will): 26/ 25/ 19 (Saves Vs Spells)<br/>\n<br/>\n BAB: 30 (Six Attacks Dual-Wielding)<br/>\n AB: 47 (Single Katana) OR +43/ +43/ +38/ +38/ +33/ +28 (Dual-Wielding Katanas)<br/>\n CRIT: 15-20 X3 (Katana)<br/>\n DMG: 1D10 +18/ 1D10 +12 (Main-Hand/ Off-Hand)<br/>\n<br/>\n Devastating Critical DC: 42 (48)<br/>\n<br/>\n Spellcasting: UMD any Scroll or Wand<br/>\n<br/>\n LEVELING GUIDE:<br/>\n 01) Fighter (01): Exotic Weapons, WF: Katana, Expertise<br/>\n 02) Fighter (02): Power Attack<br/>\n 03) Fighter (03): Cleave<br/>\n 04) Fighter (04): WS: Katana<br/>\n 05) Fighter (05): <br/>\n 06) Fighter (06): Blind Fighting, Knockdown<br/>\n 07) Fighter (07): <br/>\n 08) Fighter (08): IC: Katana<br/>\n 09) Fighter (09): Improved Knockdown<br/>\n 10) Fighter (10): Ambidexterity<br/>\n 11) Fighter (11): <br/>\n 12) Fighter (12): TWF, ITWF<br/>\n 13) Fighter (13): <br/>\n 14) Fighter (14): Dodge<br/>\n 15) Fighter (15): Mobility<br/>\n 16) Fighter (16): Spring Attack<br/>\n 17) Fighter (17): <br/>\n 18) Fighter (18): Whirlwind Attack, Great Cleave<br/>\n 19) Weapon Master (01): <br/>\n 20) Weapon Master (02): <br/>\n 21) Weapon Master (03): Great Strength I<br/>\n 22) Weapon Master (04): <br/>\n 23) Weapon Master (05): <br/>\n 24) Weapon Master (06): Great Strength II<br/>\n 25) Weapon Master (07): <br/>\n 26) Fighter (19): <br/>\n 27) Rogue (01): Great Strength III<br/>\n 28) Fighter (20): Overwhelming Critical<br/>\n 29) Fighter (21): <br/>\n 30) Fighter (22): Devastating Critical, Great Strength IV<br/>\n 31) Fighter (23): <br/>\n 32) Rogue (02): <br/>\n 33) Fighter (24): EWF: Katana, Great Strength V<br/>\n 34) Fighter (25):<br/>\n 35) Fighter (26): EWS: Katana<br/>\n 36) Fighter (27): Great Strength VI<br/>\n 37) Fighter (28): Armour Skin<br/>\n 38) Rogue (03): <br/>\n 39) Fighter (29): Great Strength VII<br/>\n 40) Fighter (30): Epic Prowess</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:52 AM - Jan 05, 2019",
+      "content": "<div>Just because we are talking about dual-wielding weapon-masters.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:30 AM - Jan 05, 2019",
+      "content": "<div>If you make him an Elf who dual wields longswords to match Zak, the feat you lose at level 1 would be Exotic Weapons. You would need 3 fewer points to reach the same DEX, and 2 more for the same CON, leaving 1 point left, to bring INT to 14, so you lose no skill points compared to the Human version.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:14 AM - Jan 05, 2019",
+      "content": "<div>You referring to \"Musashi\" Empyre?<br/>\n<br/>\nAh, the intention wasn't to make a build for Zaknafein at all, this was just sitting in my vault for years, a build that I haven't posted in the 40's section.<br/>\nIt was a build that incorporated everything I wanted into one weapon-master build, but one needs a butt-load of feats if he wants to do that.<br/>\nImproved two-weapon fighting with devastating-critical &amp; still blind-fighting &amp; improved knockdown.<br/>\nAnd that is why he has this weird (30/3/7) split for his classes.<br/>\n<br/>\nYou could change his weapons to kukris which is far more logical...<br/>\nBut I just posted him as he was because we were talking about Zaknafein &amp; his dual-longswords.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:35 AM - Jan 05, 2019",
+      "content": "<div>Yes, I was referring to the post above mine, not realizing that my post would go to the top of the next page.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "2:34 PM - Jan 05, 2019",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Aquarius 233 wrote:</cite>\nI understand that, even if the proposed build was a quick draft, this sort of character is not buildable, as the general outcome has been an elf/drow WM, and not a Zaknafein build.</div></blockquote>\nAs for me, I have not read the novels you refer to. (Probably shoud though). So, I'm sorry, it is hard to target the charater concept precicely. But I have to admit I had fun building an \"over the top\" weaponmaster.\n<blockquote><div>Just a quick question: why do in many builds you (almost always) tend to avoid the \"Epic/non-epic saves\" feats (except for luck of heroes when human)?</div></blockquote>\nI sometimes use the saves feat extensively. Take a look at my thread \"The Kukrimaster revisited\" or my take on Minsc in the \"Minsc and other BG characters\" thread here in this build request forum. I am especially fond of boosting the fort saves in builds made for Dev crit environments. But sometimes I also try to make builds with a fortified will save to compensate for the low will saves of fighter/rogue builds. In general I try to use CoT in builds where I want good saves. I also look at the level spread at 20 and try to give every class the number of levels that give the best saves combination if feasible.</div></blockquote>\nNot a problem Mick, I am just a little disappointed as I truly believed that a Zak build was viable, however I understand that \"you cannot have everything\" and I truly <span style=\"text-decoration:underline\">thank you all</span> for your suggestions: I think l will have a good time playing your proposed build (\"Musashi\"/\"Elf weapon master with specialization in two/three weapons\"/elf WM dual-wielding longswords), and I will surely take a look to the \"Minsc\" post and treasure your opinions and notes.\u00a0 <span class=\"text-emoji\">\ud83d\ude00</span><br/>\n<br/>\nEdit: if someone wants to make suggestions, feel free to post ;)</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:18 PM - Jan 05, 2019",
+      "content": "<div>Oh crap. I've banged on too long here without offering anything up - so I fear I have to moisten the towels for my brow and sharpen the old stubby pencil and see if I can come up with anything worthwhile. Can't leave a comrade down, can I?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:23 PM - Jan 05, 2019",
+      "content": "<div>In my experience so far, you can almost have everything in a build - but not in the way that most of you think when you read this,<br/>\nYou see, there are types of builds out there that do not have a weak point - at all, I will name just one but you get the point, Ftr/Rog/CoT,<br/>\nThat type of build has strong AB (if you build it correctly), average AC, very strong saves (depending on how much CoT you put into this), loads of feats, etc.<br/>\nWhat it doesn't have is any kind of explosive power, it doesn't have the humongous strength of a dragon, the jaw-dropping AB of a weapon-master OR the raw magical power of a sorceress,<br/>\nWhat it does have is consistency.<br/>\nSo, in essence, you CAN have almost everything, as long as you don't also ask for the sky itself ;)<br/>\n<br/>\nSpecialized builds that offer some very strong points will always have some things that are mediocre at, even after all these years that we have them optimized again &amp; again...<br/>\nCase in point, \"Musashi-Zaknafein\" build even though he has everything from combat feats, he still has mediocre (at best) saving throws.<br/>\nAnd I guess it would also be boring if we could do anything with a single build, right?<br/>\n<br/>\nEdit: Stag, some old-school pen &amp; paper drawing of a build can be incredibly relaxing &amp; rewarding as well, this is how Tracy Hickman designed Dragonlance in the first place after all (in a traffic jam, on some tissue paper).<br/>\nSo take your pencil once again &amp; give it a try ;)<br/>\n<br/>\nHave fun.</div>"
     }
   ]
 }

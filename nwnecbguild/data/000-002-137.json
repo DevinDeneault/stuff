@@ -4,29 +4,56 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "137",
-  "name": "[PvM] Epic Dodge on a ranged Rogue?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/pvm-epic-dodge-on-a-ranged-rogue-t2355432.html",
-  "author": "Luj1",
-  "avatar": "10759190_1575525433.jpg",
-  "replies": 2,
+  "name": "Spot, Listen, Blind Fight, and AB",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spot-listen-blind-fight-and-ab-t2355285.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "6",
+  "views": "1.7K",
   "posts": [
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:02 PM - Jan 10, 2020",
+      "content": "<div>Hello all ECBers<br/>\n<br/>\nThis may be of interest to you as builders. I hope my observation is understandable to you.<br/>\n<br/>\n<strong>Background</strong><br/>\nI am playtesting the spell-resistant kensai draft I recently wrote, in WoG. I took him to the Moathouse. Used my lovely stealth skills to great effect.<br/>\n<br/>\nNow to give you context, pretty much every enemy on WoG uses stealth. My main detection skill is Listen, as it is a class skill for Monks, and I had pumped that to max.<br/>\n<br/>\nI had zero ranks in spot, and a Wisdom score of 8. No items to boost either listen or spot. Listen was going to be the way I could detect a stealthed opponent, essentially with a modified spot score of -1 vs modified listen score of 7.<br/>\n<br/>\nMy AB at the time was +9 wielding a scimitar +1.\u00a0<br/>\n<br/>\n<strong>The event</strong><br/>\nI attempted to attack a bugbear from stealth.\u00a0<br/>\n<br/>\nThe bugbear was attempting to use stealth but I detected him, almost certainly through the listen skill.<br/>\n<br/>\nI noted the AB on my combat roll was +5.<br/>\n<br/>\nI also noted the AB on the bugbear's combat rolls to attack me was also 4 lower than expected.<br/>\n<br/>\nSubsequent combat AB was normal.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202001/10759084_65509fe46e8bf4160b3ba24c40d93d81_t.jpg\"/><br/>\n<br/>\n<strong>Aftermath</strong><br/>\nI was puzzled by this occurrence. I had a gut feeling, for some reason, that taking the Blind Fight feat might resolve this issue. I had gained level 6 so I could do so with a general feat.<br/>\n<br/>\nAnd with Blind Fight taken, my AB now behaved as normal (ie +10 from the extra level).<br/>\n<br/>\n<strong>Hypothesis</strong><br/>\nI believe that because the bugbear was in stealth mode, detected by the listen skill and I did not have blind fight, I suffered a -4AB penalty.<br/>\n<br/>\nThen when I did have blind fight, that penalty no longer is suffered.<br/>\n<br/>\nAs per the NWN Wiki: Attack Bonus (dot point number 3)<br/>\n<blockquote><div>Both melee and ranged\n<ul>\n<li>Attacker's\u00a0size modifier. -2 to +2 AB</li>\n<li>Attacker is\u00a0invisible\u00a0or target is\u00a0blind. +2AB (unless negated by the target's\u00a0blind fighting)</li>\n<li><em>Target cannot be seen (hidden, invisible, or out of visual range). -4AB</em></li>\n<li>Target is\u00a0flanked. +2AB (unless negated by the target's\u00a0defensive awareness)</li>\n<li>Target is\u00a0stunned. +2AB</li>\n</ul>\n</div></blockquote>\n<strong>Discussion</strong><br/>\nI am curious to what your thoughts are. Do you think my hypothesis is correct, or is there an alternative explanation?<br/>\n<br/>\nMy thoughts are that in modules where enemies use stealth and listen is chosen as the detection skill (for the advantage of detection behind objects and around walls), that the addition of Blind Fight should be considered mandatory.\u00a0<br/>\n<br/>\nI try to incorporate Blind Fight in all my combat builds, but this could be an argument in such conditions where stealthy opponents are going to be encountered early, that Blind Fight be taken as soon as practical, particularly in builds which aim to attack from invisibility or stealth against similarly stealthed opponents.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:20 PM - Jan 10, 2020",
+      "content": "<div>I agree with your hypothesis: remembering that Listen opposes Move Silently while Spot opposes Hide. Thus Blind Fight is even more useful in Listen-based builds, essentially compensating for the lack of Spot. Obviously, True Seeing is also damned useful, but items/scrolls of it aren't exactly common early on. I confess that given the option of Spot or Listen, I would generally choose Listen (although it depends on the purpose of the particular build) - effectively enabling you to \"see\" enemies who aren't stationary around corners and through doors/walls - because more stuff seems available to enhance Spot: starting with Blind Fight.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
     {
       "author": "Luj1",
       "avatar": "no_avatar.png",
-      "timestamp": "11:56 PM - Apr 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Do you guys think Epic Dodge is worth it on a ranged Rogue?<br/>\n<br/>\nThe reason I'm asking this, is that I don't think Improved Evasion and Defensive Roll are usually worth it. Your reflex save is so insane that you will rarely fail Evasion. Meanwhile, succeeding in Defensive Roll would mean you are one step away from dying anyway (which you shouldn't be). So that's potentially 3 epic feats which could be used differently.\u00a0<br/>\n<br/>\nDidn't want to post in the other thread as that one is more about the early game.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:27 AM - Apr 12, 2020",
+      "content": "<div>Forgive me for intruding, but hypothetically speaking if one doesn't have Blind Fight which should be favored, Spot or Listen?</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:04 AM - Apr 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail Luj1<br/>\nThese are interesting thoughts<br/>\nA rogue archer does tries to stays out of the melee so Epic Dodge can be of lesser yield than a dedicated dex rogue meleer<br/>\nTheir AC is also excellent protected by uncanny dodge I and UMD (ie improved invisibility 50% concealment, premonition 30/5+) is available too in case they are hit by melee or ranged attacks<br/>\nI also agree improved evasion and defensive roll are not quite as nice as other options, crippling strike being one, slippery mind (re-roll will save) or skill mastery (setting traps in combat) being a few others<br/>\nI think Epic Dodge is a very powerful ability however. I would lean towards taking it if possible on the off chance I do have to melee with a single handed with possible shield (or dual if I have the proficiencies)\u00a0<br/>\nInterested to hear what others think!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:46 AM - Apr 12, 2020",
+      "content": "<div>With no Blind Fight, Spot allows for no AB penalties against stealthers, can detect enemies from a distance and avoids sneak attacks from stealth (listen does not),\u00a0<br/>\nI would choose that if true seeing is not available<br/>\nFine print though, in practice it only makes a small difference perhaps<br/>\nIf listen is a class skill for your build and spot is not, then choose listen for sure</div>"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "12:07 AM - Apr 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Luj1 wrote:</cite>Do you guys think Epic Dodge is worth it on a ranged Rogue?<br/>\n<br/>\nThe reason I'm asking this, is that I don't think Improved Evasion and Defensive Roll are usually worth it. Your reflex save is so insane that you will rarely fail Evasion. Meanwhile, succeeding in Defensive Roll would mean you are one step away from dying anyway (which you shouldn't be). So that's potentially 3 feats which could be used differently.\u00a0<br/>\n<br/>\nDidn't want to post in the other thread as that one is more about the early game.</div></blockquote>\n\nEpic Dodge is one of the most powerful things in the game but worth it is a subjective thing.  In my opinion, it is the least worth it on a ranged build assuming the build has the capability of staying at / maintaining range and surviving ranged hits.<br/>\n<br/>\nThat all said, it is hard to offer useful/viable advice without understanding the module.  If everything has a ranged dev crit attack it would be very worth it for example :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:45 AM - Apr 23, 2020",
+      "content": "<div>Here is something else about Listen and Blindfighting :<br/>\n<blockquote><div>A character will be considered flat-footed if attacked by an unseen creature, unless the attacker is heard and the character has the blind fight feat.</div></blockquote>\n\nThis I find to be even more interesting - one can prevent being flat-footed with Listen and Blind Fighting from many of the \"normal\" methods used to produce that state (attacking from stealth, invis, darkness, blind, etc).</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:09 PM - Apr 23, 2020",
+      "content": "<div>Oh, I do like that, Web! From a purely selfish perspective, that is, as the vast majority of builds I play are melee-based, and I always take Blind Fight. I also play a lot of Monk-based builds, where Listen is a class skill but Spot isn't, so every bit of your post's a winner!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:11 PM - Apr 23, 2020",
+      "content": "<div>Yeah, in the environment where I play, TS has been \"nerfed\" AND everything tends to sneak resulting in lots of situations where one can be flatfooted...<br/>\n<br/>\nNot to mention all the \"cheese\" tactics of course!<br/>\n<br/>\nSo I was looking for ways to \"nullify\" that - and came across that little gem of information.<br/>\n<br/>\nSo as long as one has something in the Action Queue and has high Listen and Blindfighting, one will not be caught flatfooted (of course, getting hit with some sort of spell or effect that causes flatfootedness is something else).\u00a0 Loosing Tumble and Dodge AC can really hurt.</div>"
     }
   ]
 }

@@ -4,413 +4,60 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "968",
-  "name": "Dear gentlemen, I could need your guidance here (Pally build with some extra cheese for the Lord of Terror)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dear-gentlemen-i-could-need-your-guidance-here-pal-t2354864.html",
-  "author": "Grandma",
-  "avatar": "10758890_1523693739.jpg",
-  "replies": 66,
+  "name": "Need Help with a build for an Arelith Beginner",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/need-help-with-a-build-for-an-arelith-beginner-t2354894.html",
+  "author": "TychoVelius",
+  "avatar": "10758924_1537379651.jpg",
+  "replies": "7",
+  "views": "1.2K",
   "posts": [
     {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "3:12 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">EDIT: Might update this post in the future, for now I leave it more or less empty, as the responses below more or less speak for themselves.<br/>\n<br/>\nThanks to everyone who gave me advice. Each input is highly appreciated.<br/>\n<br/>\nThe discussion below hopefully will help others who are new to more serious building, too.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:11 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This might be stupid, because I've never built a Pally so I don't know its sensible cut-off points, but one thought might be getting 12 levels of Monk, with at least 6 pre-epic (so you get free Knockdown and IKD). 9 levels also gives you free Improved Evasion, and 12 gives undispellable spell resistance of 10+class level). You'd also have +40% speed (in robes) and +2AC (at level 10). You could always swap to the romantically named \"fister\" against the undead, if you so choose.<br/>\n<br/>\nNow, avoiding the xp penalty, you might consider sacrificing WS and EWS and going for 10 levels of CoT, which also has a nice synergy with Paladin anyway. It also attracts bonus feats every other level, like Fighter, so you wouldn't be feat-starved, and your saves would also be improved. This would leave you 18 levels of Pally.<br/>\n<br/>\nOn the feats themselves: I would think you'd also want at least Blind Fight and Improved Critical pre-epic, with Armor Skin and Epic Prowess in epic levels. I don't know whether Lord of Terror allows Devastating Critical or not (I know SoF does), but if so, that might be a path worth exploring. If not, dual-wielding those kamas might work.<br/>\n<br/>\nLike I said, though, I could be spouting absolute bollocks here...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "5:27 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks a lot, Stagmeister. <br/>\nThinking about your suggestions cannot hurt after all.<br/>\nI never played a lawful stup..., I mean: Pally type either, other than as part of a group in Icewind Dale and old SSI stuff. And unlike you, I never made a build worth mentioning.<br/>\nWill get back to it later, have some other things to do this evening.<br/>\n<br/>\nEDIT: Just did a quick check with that spreadsheet. Provided it was upgraded not too long ago, no builds with PAL and more than 3 MK levels exist so far (and now I wonder why that is...) so your suggestion still would be something new. Forgive me when I still would like to have more opinions.<br/>\n(Should I end up using an already existing build, because nothing too different would work, so be it. My main purpose is learning. Should I, with your help, be able to play a new, unique build, that would be a great bonus, though. Does not have to be perfect, I just want to have a chance in the modules without too many tedious reloadings.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:07 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip's spreadsheet (or Fantabulous Contrapulator, as I prefer to call it) went \"live\" just over a year ago, so is pretty current, as there haven't been many new builds since, and the Legacy Archive is just that, so won't and can't have anything new added.<br/>\n<br/>\nKnowing next to nothing about paladins (like you, the last time I used one was in Icewind Dale), I went and had a read of Max Kane's Guide to the class in the Game Guides sub-forum, which you might also want to give a once-over. What does strike me is that Expertise would be a nigh-essential feat to take, and Taunt (and probably Concentration) would be good skills. Another possibility might be to go for only a few levels of pally and lots more monkishness, but that's probably because Monk is my absolute favourite class.<br/>\n<br/>\nYou do right to await input from others, btw, because I could unintentionally be leading you down a blind alley here. But I do like the idea of a brand new type of build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "4:06 AM - Jun 12, 2018",
+      "content": "<div>1) PvM\u00a0<br/>\n<br/>\n2) Level cap - 30<br/>\n<br/>\n3) Race preference - Human, Wild Elf, or Wood Elf<br/>\n<br/>\n4) Class preference - Fighter and Druid came to mind, but I think Druid tends to be best with more levels, sooo.... Also, no RDD. It takes special permission, and I hate it.<br/>\n<br/>\n5) Melee preference - Two-handed sustained damage<br/>\n<br/>\n6) Range preference - Probably Zen, based on other factors. If I do ranged combat.<br/>\n<br/>\n7) Weapon preference - Greatsword or Halberd, because reach.<br/>\n<br/>\n8) Maximum item enhancement - This is the information I was able to dredge up.\u00a0<a class=\"postlink\" href=\"http://wiki.arelith.com/Enchantment_basin\" rel=\"noreferrer\" target=\"_blank\">http://wiki.arelith.com/Enchantment_basin</a><br/>\n<br/>\n9) Spellcasting - I don't know enough about Arelith to really have a strong idea here. My thought is that since they cap certain buffs, I should probably want a bit more of a mix of offense and buff spells. I'd like an elemental or naturalistic focus.<br/>\n<br/>\n10) Custom factors - Arelith, and everything that entails.<br/>\n<br/>\n<br/>\nLooking for a woodsy reach fighter with some spellcasting for versatility. Playable from 3+, since Arelith does at least start you at 3, it just takes hours to get to 4.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:16 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Let me just throw some ideas here, one at a time, slowly, so that we can have some interaction here &amp; build this all together. How about instead of fighter we replace him with CoT instead? No Exp penalty then &amp; instead of gaining ws/ews you gain divine wrath that synergizes very well with your potentially high charisma? You will also advance your saving throws that way, to the point you will be practically immune to anything that requires a saving throw unless you roll an \"ace\". Besides, ws/ews is not essential in a strength-build like yours, I do recommend building up some muscle though, just the base strength won't cut it.<br/>\n<br/>\nEdit: Forgot to mention that \"Lord of Terror\" will start you at 3rd level if you go there with a 1st level character. Basically whenever you talk first time with an NPC in town, will give you 250 Exp so that when you are done talking to everyone you will have just enough Exp to make level 3, so take that into consideration.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:23 AM - Jun 12, 2018",
+      "content": "<div>Hey man, did you look at out sub-forum for 30th level builds yet? With just a glance I spotted seven different builds there with the \"Arelith\" keyword in front of them. And if you actually use the search function you will find a lot more threads with builds in them for that PW. If you want something out of the box though, we will be glad to help you.<br/>\n<br/>\n<strong>level 30 builds</strong> =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mid-epic-level-30-builds-f7/\" rel=\"noreferrer\" target=\"_blank\">mid-epic-level-30-builds-f7/</a></div>"
     },
     {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "9:47 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks a lot Valerfor!<br/>\nI have seen some Pally/CoT builds here, with either Fighter or WM as third class.<br/>\nI do not necessarily need WS and EWS, just got the idea from you mentioning it in the thread about Lord of Terror.<br/>\nI will look up CoT and all the special features this Prestige Class gets in the wiki, then try again. Hopefully, will make this puzzle game a little easier, as I won't have to consider the XP penalty.<br/>\nGood to know that I won't have to fight before 3rd level.<br/>\n(Edit: Also good to know that I still can edit my first post so that the latest version of my future character always will appear in the first post)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "4:30 AM - Jun 12, 2018",
+      "content": "<div>I did look there, nothing seemed quite what I was looking for. I might be interpreting builds wrong, or I might be too picky, or I might be looking for an archetype that doesn't really play well in NWN, but searching didn't bring me anything that seemed to fit the concept.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:06 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hang on, I mentioned taking CoT rather than Fighter in my first post! I don't get much right, but when I do...<br/>\n<br/>\nAnyway, I am now formally sulking and looking for small animals to kick (because the wall hurts a lot, believe me) <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:14 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nHang on, I mentioned taking CoT rather than Fighter in my first post! I don't get much right, but when I do...<br/>\n<br/>\nAnyway, I am now formally sulking and looking for small animals to kick (because the wall hurts a lot, believe me) <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\n</div></blockquote>\n\nI was responding directly to Valerfor. I never meant to ignore your input. In an Edit in my first post I mentioned you both. In fact, I am looking into CoT now because two people said the same thing (I know that you were first), and when two experienced ECBlers agree about something, it can't be that wrong.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:45 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Worry not, my friend, I was merely having a (very) little fun. Believe me, like my head, my skin is thick!<br/>\n<br/>\nSeriously, though, CoT is a great class (unless you're planning on being evil, which is not allowed). It's a full BAB fighter-type class, with few prerequisites. You need to have a BAB of +7, be non-evil, and have a weapon focus in a melee weapon (and Unarmed doesn't count). It receives a bonus feat every other level (like Fighter does) and has Fortitude and Reflex as primary saves. You will also get +1 to all 3 basic saves (Sacred Defense) on every other level (2, 4, 6, etc). And then there's Divine Wrath, which is CHA-based, and means for every 5 levels (starting at level 5) attack and damage and save bonuses increase by a further +2 (selected, short-term). CoT levels also stack with Pally levels for Smiting purposes (the only class that does). The only downside as opposed to Fighter is the lack of WS/EWS - although if you were to take it with Fighter up to level 4 (the first time you can get WS), you can take EWS as a CoT level. Oh, and you get Lay on Hands at level 1, and can take Great Smite and Great Wisdom in epic levels as bonus feats.<br/>\n<br/>\nHope this helps - though you might get more from the wiki.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:17 PM - Apr 23, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nLet me just throw some ideas here, one at a time, slowly, so that we can have some interaction here &amp; build this all together. How about instead of fighter we replace him with CoT instead? No Exp penalty then &amp; instead of gaining ws/ews you gain divine wrath that synergizes very well with your potentially high charisma? You will also advance your saving throws that way, to the point you will be practically immune to anything that requires a saving throw unless you roll an \"ace\". Besides, ws/ews is not essential in a strength-build like yours, I do recommend building up some muscle though, just the base strength won't cut it.<br/>\n<br/>\nEdit: Forgot to mention that \"Lord of Terror\" will start you at 3rd level if you go there with a 1st level character. Basically whenever you talk first time with an NPC in town, will give you 250 Exp so that when you are done talking to everyone you will have just enough Exp to make level 3, so take that into consideration.\n</div></blockquote>\n\nQuick question, my friend, is Lord of Terror Dev Crit enabled? You didn't mention in your write-up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "4:52 AM - Jun 12, 2018",
+      "content": "<div>Barbarian is an acceptable substitute for Fighter. Might fit the theme better, as well.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:13 AM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh yes...If you have a very \"stronk\" character you could play a good portion of it with Dev Crit, which also makes it a perfect candidate for one of the empyre's rdd builds. Given the theme of the module though I would stick to the pally solution. Ahem...technically a pally/sorc/rdd is still both of these, but I am afraid we might be going too far-off here.<br/>\n<br/>\nEdit: I am still laughing with the dodo in Scotland.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:21 AM - Jun 12, 2018",
+      "content": "<div>What exactly is not to your style in this build?<br/>\n<br/>\nArelith Weapon-Master =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-sword-master-fighter-10-rogue-4-weapon-mas-t2354396.html#p785\" rel=\"noreferrer\" target=\"_blank\">arelith-sword-master-fighter-10-rogue-4 ... .html#p785</a><br/>\n<br/>\nHe is a human, with big, sustained damage, a fighter-weapon-master (the ideal form of a fighter) and you can change his weapon to whatever you like, take a greatsword and you will hit even harder. He even has UMD so he can use magical scrolls &amp; other devices. More than that, rogue also provide him with evasion &amp; full tumble for better armour class. Making him a barbarian is more a matter of how you present him rather that of the build. This build has absolutely top-notch AB &amp; Damage, it is designed specifically for that. Perhaps if you could explain us better why this isn't to your liking then we should be able to help you more.</div>"
     },
     {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:32 AM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Problem with Dev Crit is, that I would need STR 25+...<br/>\n<br/>\nStill puzzling.<br/>\nI am not sure how many Monk levels to take. KD and IKD for free is nice, of course. As is Improved Evasion and the Spell Resistance. On the other hand, Monk has lower HP and BAB. Then again, more skill points...<br/>\nI am also not sure when to take what. Both the Monk bonus feats and some feats I can only get as a Pally would be great to have as early as possible. Decisions, decisions...<br/>\n<br/>\nStill on it. I also shouldn't forget that my main goal is learning. This includes patience (as it will take awhile until I have a playable character).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "2:01 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey man! <br/>\n<br/>\nLet me give you some advice in the form of questions. I know you've read my guide to the basics of building, so I'll use it as reference to guide your thinking process: <br/>\n<br/>\n1- what is your character concept?<br/>\n2- what do you want from each class? What is Paladin doing in the build? What is Fighter doing in the build? What is Monk doing in the build?<br/>\n<br/>\nI already see a conceptual problem here. CoT and Fighter would, although appearing to be similar, complement the build in VERY DIFFERENT ways. Fighter would grant you more damage with EWS and one more feat than CoT, but would incur an XP penalty, which is a HUGE deal in finite XP settings (AKA non-PW play). CoT, on the other hand, would grant you a boost to saves and possibly extra Great Smite feats, if you decide to go down that road. <br/>\n<br/>\nAs I mentioned, you need to decide what each class is bringing to the build. You CAN'T use Kamas and get the Monk attack progression unless in Robes and no shield, and STR builds don't go well with robes. So, if you're taking Monk to wield Kamas, then DEX is the way to go. However, if Monk is there just for the feats and Evasion, then you really don't need that many levels.<br/>\n<br/>\nIf Pally is there for the buffs, then indispellability is desirable, and that's attained with 24 levels in the class. However, if it's there just for immunities and DM/DS, you don't need more than 4 levels of it. <br/>\n<br/>\nIf you want damage, then Fighter is the way to go for the 3rd class. If you want better saves and access to some of the divine feats, then CoT is better for that purpose.<br/>\n<br/>\nLet me end this message by suggesting a few different spreads for you to toy with:<br/>\n<br/>\nPally 26 Monk 6 CoT 8 - full pally spellbook, indispellable, bonus feats from CoT and Monk. If made a STR build, better not to go for Kamas.<br/>\n<br/>\nMonk 20 / Paladin 4 / Fighter 16<br/>\n<br/>\nCould attack unarmed or with Kamas (Unarmed would likely do more damage) and be focused on DEX / CHA. You can trash Wisdom, and go Fighter 8 / Monk 8 / Pal 4. <br/>\n<br/>\nPal 17 / Monk 9 / CoT 14 <br/>\n<br/>\nThis guy would have better saves, and 4 pally spell levels, but would be easily dispellable and Monk would only give Improved Evasion. This could be tricky, stat-wise, but that's the challenge with pallies anyway.<br/>\n<br/>\nAlso, you could read my guide on Paladins, to get a better understanding of the class and the diverse ways to use it in a build.<br/>\n<br/>\nI didn't say it was going to be easy, but it's doable, with some thinking involved.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "2:25 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you very much, Maximilian_Kane.<br/>\nI will check the guide and your suggestions.<br/>\nI am new to this way of building (do not ask how I \"built\" my characters in the past... I now see the reason why I never played hardcore difficulty), and I have to start *somewhere*.<br/>\nSo your fist suggestion would have high STR, but not so much CHA? And why exactly 26/6/8 levels and not, let's say, 24/6/10? I just want to understand (or maybe I can find it out somehow).<br/>\nOK, going to do some reading and testing now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "5:28 AM - Jun 12, 2018",
+      "content": "<div>Ah, I was overlooking UMD as a casting alternative.<br/>\n<br/>\nYeah, that should work.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:57 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Let me answer that one right now, 26/6/8 &amp; 24/6/10 has the same number of bonus feats but the first is better because it also gives you 2 more caster levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:49 AM - Jun 12, 2018",
+      "content": "<div>Glad you like it!<br/>\n<br/>\nThis character armed with a halberd will be devastating to his opponents (X4 criticals).</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:05 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also a suggestion for your first serious build FG,<br/>\n<br/>\nDO NOT get overly complicated, start simple and stay effective, that's the key.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "3:39 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, already thought that it might have to do with spells.<br/>\nYeah, I see why I shouldn't make it too complicated... (\"first serious build\", that's what it is). (Is is only me or was character building much easier with the old ADnD 2E, even when using extended rules?)<br/>\nI wonder how to keep it as simple as possible, but still effective?<br/>\nI'll check that 26/6/8 build in the Halls of Training to see myself what it does. For now, I give her the name \"Goody Twoshoes\". No kamas, but I still want high enough CHA to benefit from all that holy stuff.<br/>\nI'll also look up some more Pally builds from here, to see what others did and how. (And why, that would be interesting, too.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:01 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One thing you might consider with the 26/6/8 build is that in all likelihood you'll be taking your last level of Monk late (probably level 37) if you want to max the +8 AC from Tumble. Unfortunately, that means you won't be getting the free Knockdown twins until then. That was what first got me thinking about bumping up the levels of Monk and taking the first 6 pre-epic. Of course, you could take KD (and Imp KD, for that matter, but you'd need to ensure you have an INT of 13+, which you don't need for the Monk version) as a feat in its own right, but in that case you really don't need the 6 levels at all, and 3 or 4 would give you all the cheese you need.<br/>\n<br/>\nIf you're aiming for perfection at level 40, then all is well and good, but if you want playability throughout, it might be an issue. Again, as Max said, it depends largely on your concept.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "5:31 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Perfection at level 40? Won't help me when I can't survive the lower levels.<br/>\nPlayability from level 3 on is what is most important.<br/>\nFound this here: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/divine-generalist-rogue-5-paladin-7-champion-of-to-t2343426.html\" rel=\"noreferrer\" target=\"_blank\">divine-generalist-rogue-5-paladin-7-cha ... 43426.html</a><br/>\nUses Rogue instead of Monk to get Evasion, Tumble and Listen. Takes KD and IKD on CoT levels. Not exactly what I wanted, but has most of the feats I wanted pre-epic. Just a bit low on spells. (And somehow, WIS 8 looks a bit strange to me, as well as DEX 8 for a Rogue... )<br/>\nInteresting how many different ways there are...<br/>\nOff for awhile (I really do not feel like having cat food for dinner, so...), I will look around a bit more later.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:45 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I put together a Paladin 18 / Monk 12 / CoT 10. I had to make some compromises because you can't have everything. Because you said you don't want complete builds, I won't post it, unless you ask me to.<br/>\n<br/>\nI just thought of another idea: Paladin 20 / Monk 20, DEX-based and unarmed. That is 16 levels of Monk pre-epic for the d20 damage, and 4 more in epic levels for Tumble skill dumps. The main downside would be a low AB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:20 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nI put together a Paladin 18 / Monk 12 / CoT 10. I had to make some compromises because you can't have everything. Because you said you don't want complete builds, I won't post it, unless you ask me to.<br/>\n<br/>\nI just thought of another idea: Paladin 20 / Monk 20, DEX-based and unarmed. That is 16 levels of Monk pre-epic for the d20 damage, and 4 more in epic levels for Tumble skill dumps. The main downside would be a low AB.\n</div></blockquote>\nCan<em> I </em>ask you to post it, please? You could stick it in a spoiler with a \"not to be opened by Freaky Grandma except in the case of dire curiosity\" tag on it. I ask because I've been trying to have a go at that 18/12/10 split, but keep tying myself in knots (you know I still do it all with pencil and paper, and I'm afraid I've already used one tree's worth).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "8:33 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Depends a bit on the setting. Taunt might help, and Pally buffs for sure. Especially Divine Favor. If you can rest a lot, or the mobs are manageable without heavy buffing, it might be okay. See what mileage you can get from it.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "8:42 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, Empire.<br/>\n<br/>\nI don't mind you posting your build. No one says I will have to play that character exactly as he or she is. And when Stagmeister is curious about it, too, why not? Also gives me an opportunity to ask questions about the build to learn from it.<br/>\nFor me, most important is that I can learn something from this discussion here. While it would be great to play a build to which I contributed something, that is secondary. I have a lot yet to learn. There is so much to consider, and I always forget the half, lol... and many things I have to look up, especially when it is a class I haven't played yet.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "10:17 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here it is:\n<details><summary>Spoiler</summary>\nKama Knight 2 (Paladin 18 / Monk 12 / Champion of Torm 10)\nPlayable 1 - 40\nAbilities:\nDEX: 14 (15)\nWIS: 14\nCHA: 14 (16)\nLeveling Guide:\n01: Paladin(1): Power Attack, Blind Fight\n03: Monk(2): Weapon Focus: Kama, {Deflect Arrows}\n05: Paladin(3)\n07: Monk(3)\n09: Paladin(6): Two-Weapon Fighting\n11: Champion of Torm(1)\n13: Champion of Torm(2): Improved Two-Weapon Fighting\n15: Champion of Torm(3): Toughness\n17: Monk(7)\n19: Paladin(8)\n21: Champion of Torm(5): Great Strength I, (STR=19)\n23: Champion of Torm(6): Epic Weapon Focus: Kama\n25: Paladin(10)\n27: Monk(10): Great Strength III, (STR=22)\n29: Champion of Torm(8): Epic Prowess\n31: Champion of Torm(10): Armor Skin\n33: Paladin(12): Great Strength V, (STR=26)\n35: Paladin(14)\n37: Monk(12)\n39: Paladin(17): Great Strength VI, (STR=27)\n\nHitpoints: 456\nSaving Throws (Fortitude/Will/Reflex): 35/29/32\nBAB: 28\nAC (naked/mundane armor/shield only): 26/32\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Tumble(5)\n04: Concentration(1), Discipline(1), Taunt(2)\n06: Concentration(1), Discipline(1), Save(1)\n08: Concentration(1), Discipline(1), Taunt(1)\n10: Concentration(3), Discipline(1), Tumble(1)\n12: Concentration(2), Discipline(1), Tumble(4)\n14: Concentration(2), Discipline(1), Save(4)\n16: Discipline(1), Save(8)\n18: Discipline(1), Taunt(6)\n20: Concentration(3), Discipline(1), Tumble(1)\n22: Concentration(1), Discipline(1), Tumble(4), Save(1)\n24: Discipline(1), Taunt(5)\n26: Discipline(1), Taunt(1), Save(1)\n28: Discipline(1), Save(2)\n30: Discipline(1), Save(6)\n32: Concentration(5), Discipline(1), Tumble(5), Save(2)\n34: Concentration(1), Discipline(1), Taunt(1)\n36: Concentration(1), Discipline(1), Save(1)\n38: Concentration(1), Discipline(1), Taunt(1)\n40: Concentration(1), Discipline(1), Taunt(1)\n</details>\nWould you like me to make the Paladin / Monk 20, too?<br/>\n<br/>\nYou mentioned earlier that you used HipMaestro's spreadsheet to search for builds. Since you can use spreadsheets, you might find <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc\" rel=\"noreferrer\" target=\"_blank\">Kamiryn's Character Build Calculator</a> useful.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "10:58 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">FG. If I may suggest something, have a look at the guide FIRST. That'll help you understand the main class of the build. Then, SECOND, have a look at a few existing builds and try to figure out the whys of each one. Why did he/she take so many/so few levels of the class. What synergies are there within the class combo?<br/>\n<br/>\nI'll exemplify here: what are the synergies between CoT and Paladin?<br/>\n<br/>\nPaladin has Divine Grace, adding CHA to saves, CoT gives save bonuses and even Monk synergizes here, having 3 strong saves.<br/>\n<br/>\nPaladins who get Divine Shield and Might will be tight on feats, and CoT gives bonus feats to make up for that. <br/>\n<br/>\nMonk and Pally also have some nice synergies. Pally casts from Wisdom, Monk uses Wisdom to add to AC and for Stunning Fists. Monk attack progression with Kamas and Pally buffs / Divine damage makes up for a REALLY HIGH DPR (Damage Per Round). But that only works on robes with no shield.<br/>\n<br/>\nSo you should try to get some kind of reasoning going before you sit down to make your own build. Once you understand the classes, then you can go back to the guide for the Basics to optimize the build.<br/>\n<br/>\nI do have to say that Empyre and I are very different builders in style. He builds for playability, whereas I go for POWER! I have NEVER not been able to level any build, but I am a very experienced player, and I've been playing on World of Greyhawk (WoG), which is one of the most if not the most challenging environment out there, for over 10 years. My builds will generally be stronger, but harder to play. Empyre's builds will have a lot more playability, but be weaker at 40. Also, he builds for Single Player modules, which I never play. I build for PWs, where XP is infinite, and there's a big difference when you build for these settings. XP penalty is nothing more than a nuisance in PWs, but for Single Player modules, it can be a huge deal!<br/>\n<br/>\nI'd also refer you to my \"Playing Better\" guide. Where I discuss in-game things that'll make you a better player. <br/>\n<br/>\nHave fun!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "11:24 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@Empyre: With Open Office, I can open Hip's spreadsheet, but not the calculator. And when I use a test version of Excel, I can select classes, but nothing else. Would be really helpful indeed! Probably much easier than pen, paper and the Halls of Advanced Training.<br/>\n<br/>\nInteresting build you have. Not what I had in mind (wanted Monk mostly for Evasion, gear, a few more skill points and a few points in Tumble and Listen), but might try it just for fun. A dual-wielding Pally, not what you see everyday. I like the idea.<br/>\nMight I ask why you don't start with Monk? Would give 8 more skill points. Does it make any difference I am not aware of? Couldn't a first level Monk take the same feats?<br/>\nMisread something in the wiki, by the way, which is why I got the idea of using a kama. Already wondered why the Monk extra attack still should work in full plate and with a tower shield, but yeah... in that case, it would have been really worth it.<br/>\n<br/>\n@Maximilian Kane: Already read your guide about how to play better and had a look at the Pally guide.<br/>\nI want to build better characters for single player modules mostly. They should be playable. So that I have a chance in hardcore and more fun. Not always at all levels (sometimes the first 2 or 3 or 15 can be ignored), but definitely long before level 40. Super powerful level 40 characters are nice, but skill dumps at level 37 don't help me much when I could need the skills (or extra feats) at levels 3-8 or so.<br/>\nWhen I take something like this here: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/divine-generalist-rogue-5-paladin-7-champion-of-to-t2343426.html\" rel=\"noreferrer\" target=\"_blank\">divine-generalist-rogue-5-paladin-7-cha ... 43426.html</a> and go a bit into the direction you suggested in your comment to this build, this will be relatively close to what I had in mind at the beginning.<br/>\n<br/>\nYou guys are all so great!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:58 PM - Apr 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>I just thought of another idea: Paladin 20 / Monk 20, DEX-based and unarmed. That is 16 levels of Monk pre-epic for the d20 damage, and 4 more in epic levels for Tumble skill dumps. The main downside would be a low AB.</div></blockquote>\nFunny that you came up with this class and level combo Empyre! <br/>\nEarlier today I found an experimental build from 2015 with the same level split on my hard drive. The main idea was a stealthy paladin; a rare bird indeed. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nThe build is strength based: Str 16(30), Dex 14, Con 10, Wis 14, Int, 14, Cha 8. It has Greataxe as main weapon and a Pa 16/ M 4 level split at lvl 20. Unarmed only comes up as an alternative, but unfocused weapon late in the build. The character has AB +43 with the axe, AC 28 in robes, (with a possible AC 40 with capped Dex and Wis) and AC 29 in metal (without shield). Monk enables high speed in robes and full stealth ranks for surprise attacks.<br/>\nNo shield (two-hander) and Con 10 makes it a bit risky to play, even with toughness, taunt and expertise.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:15 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ooh, all interesting stuff (he says as his pizza arrives it's a big one, so plenty for everyone).<br/>\n<br/>\nIf I might take this in an odd order:<br/>\n<br/>\n@ Max: as ever, you encourage and bring people on. Sadly, very few have read your \"Building Style x In-game Decisions\" thread in the General Discussions sub-forum. I have, and others should. I'm only sorry I haven't got back to you again on it). I'm sure you would be the first to acknowledge - going back to your Aielund days - that things are very different in modules from how they are in PWs, and we're currently looking at SP modules.<br/>\n<br/>\n@ Empyre: oh, that's clever, I like it - suitable hat-doffing, sir - just a shame we can't squeeze Listen or Spot in there. But I'm interested in why you went for kama rather than unarmed in a STR-build? I know the number of attacks increases because of the D-W, but you could swap that for a Dev Crit unarmed build (recognising you'd need a WF in a melee weapon for CoT). Should be do-able when you lose 3 feats (2 with that WF) and take Great Cleave, which then actually gives you one more feat for something else. Help me Obi-Wan Kenobi!<br/>\n<br/>\n@ Freaky Grandma (btw, what can we call you for short? Freaky? Grandma? Strange childhood remembrances?) Ah, so you did only want Monk for the cheese, and Pally was your main goal. That's fair enough. Given Valeror's assertion that you won't have to commit to combat until after you hit level 3, Monk at level 1 shouldn't be a problem, except (iirc) you can't take Power Attack until you have a BAB of 1, which you wouldn't have, so you'd be doing some trading-off.<br/>\n<br/>\nThis is all good, innit? I know I'm enjoying it - and look, all the great and good (apart from Mick, who apparently is on a dodo hunt) are involved - and me, too! Good call Freaky Grandma!<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Bloody hell, Mick's here too, now! And, true to form, he's ninja'd me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "6:29 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Call me what ever you wish. Granny or FG or what ever you see fit.<br/>\n(This doesn't really belong here, but I AM a grandmother, albeit not by blood, just by marriage. I am not the oldest here, but old enough to remember a time without mobile phones. And sometimes I can be a bit crazy.)<br/>\n<br/>\nYes, Monk was for some extra cheese mostly.<br/>\n<br/>\nI still want to try that dual-wielder one day. Ki damage is a nice thing, too. Have seen it from the \"wrong\" end. The dual-wielding monk probably would be much nastier when combined with something else, though. But that is not for now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:30 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Let me throw another idea here, open for discussion of course.<br/>\n<br/>\nWhat you need FG is not a full forty level build, but a thirty level one and your build ideally must be front-loaded as much as possible.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "8:32 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">...unless I want to try SoF afterwards.<br/>\nBy \"front-loaded\" you mean melee I would assume.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:08 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You have a point about getting more skill points if you take Monk at 1. I didn't think of that.\u00a0 I was thinking about having 1 BAB at level 1, and about the NPCs identifying you as a Paladin. To the NPCs, you are whatever you took at level 1, even if you have 10 times as many levels in another class.<br/>\n<br/>\nBefore you start editing the spreadsheet, save-as into the native ods format. If it still won't work for you, I can email you an old version of the CBC that does work in Open Office, which is what I use.<br/>\n<blockquote><div>wanted Monk mostly for Evasion, gear, a few more skill points and a few points in Tumble and Listen</div></blockquote>\nRogue would get you all those things, including gear via UMD, plus sneak attack.<br/>\n<br/>\nBy \"front-loaded\", he means getting as much of the good stuff as early as possible, in the front of the build. I generally try to do that because I build for single-player, which is what you are wanting at this time.<br/>\n<br/>\nOne more thing, the Paladin / Sorcerer / RDD idea would be a real hard-hitter, and the +4 AC from RDD would make up for having to cross-train Tumble (4 Tumble AC instead of 8).<br/>\n<br/>\n@Stagmeister, if I went with unarmed instead of kamas, I would need at least 16 levels of Monk for the d20 damage, and then I would need more Monk than that, or else I would be forced to either get that d20 damage really late or get the last Tumble skill dump really early, which is what brought me to the Monk 20 / Paladin 20 idea.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:11 AM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am grateful for any suggestions here, as I can only learn from them.<br/>\nI will try to save the calculator as .odt and will contact you if this doesn't work.<br/>\nAlready realized that Rogue would get me all these things. Oh... yeah... I want the \"good stuff\" as early as possible, of course. All the live-saving feats and skills.<br/>\nHaven't thought of Pally/Sorc/RDD yet, definitely will be worth some research.<br/>\n(I still wonder what would be a good module to test that dual-wielder... I love DEX builds and dual-wielders, just wanted something else now. Like a lawful stupid char with stuff like DS, DM, Smite... and other things I haven't tried yet.)<br/>\n<br/>\nEDIT:\n<blockquote><div><cite>Empyre65 wrote:</cite>\nand about the NPCs identifying you as a Paladin. To the NPCs, you are whatever you took at level 1, even if you have 10 times as many levels in another class.\n</div></blockquote>\nDarn it, didn't know that. That is bad, indeed. If I start with Rogue, people will see me as Rogue. Meh... will have to re-think everything. Loads of RL stuff to do anyway (and I SOOOO do not feel like it), but I will return to this here later.<br/>\n(Also got some stupid ideas, again, on how to challenge you guys here. With something not-so-serious that is not an actual build request, but a challenge for you expert guys just for the fun of it. Might make a post at the Tavern in the near future.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "10:29 PM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\"I will try to save the calculator as .odt and will contact you if this doesn't work.\"<br/>\nIt is ods, the top one in the list.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:40 PM - Apr 25, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\n\"I will try to save the calculator as .odt and will contact you if this doesn't work.\"<br/>\nIt is ods, the top one in the list.\n</div></blockquote>\nI meant .ods, of course...<br/>\nSent you a PM already, as saving is disabled in my unlicensed Excel...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:04 AM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Use Open Office FG, I have it for years now and I never encountered any problems with it.<br/>\n<br/>\nAs for the character, a level 30 build will get you through 99% of the modules out there since only three (Aielund, MTS &amp; SoF) can reach higher levels.<br/>\n<br/>\nI will prepare a level 30 character using your initial recommendation of classes and post it here later so that you can see what I am talking about.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "9:01 AM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am using Open Office, too. Cannot open the calculator with Open Office calc.<br/>\n<br/>\nTrue, there aren't many modules that can get you to over level 30. Wish there were more.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:03 PM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><span style=\"text-decoration:underline\">SILVER FLAME OF ANDOR</span><br/>\n\u00a0(PAL 17/ MNK 3/ COT 10)<br/>\n<br/>\nRACE: Human<br/>\nALIGNMENT: Lawful Good<br/>\nPLAYABILITY: PvM 1-30 level<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR \u2013\u00a0 16 (<strong>22</strong>)<br/>\nDEX \u2013\u00a0 08<br/>\nCON \u2013 12<br/>\nINT \u2013\u00a0\u00a0 10<br/>\nWIS \u2013\u00a0 14<br/>\nCHA \u2013 15 (<strong>20</strong>)<br/>\n<br/>\n<br/>\nHit Points: 324<br/>\n<br/>\nSkill Points: 105<br/>\n<br/>\nConcentration: 9 (10)<br/>\nDiscipline: 33 (38)<br/>\nTaunt: 33 (38)<br/>\nTumble: 30 (29)<br/>\n<br/>\nFortitude - (vs Spells): 31<br/>\nReflex - (vs Spells): 25<br/>\nWill - (vs Spells): 25<br/>\n<br/>\nNaked AC: 17 (Clothes)<br/>\nArmoured AC: 28 (Full plate &amp; Tower shield)<br/>\n<br/>\nBAB: 24 (Four Attacks)<br/>\nAB: +34/ +29/ +24/ +19 (Longsword)<br/>\nDMG: 1d8 +6/ 17-20 x2 (Longsword)<br/>\n<br/>\nSpellcasting: Paladin 4<sup>th</sup> Circle of spells<br/>\nSmite Evil 3/Day: +5 AB, +27 Damage<br/>\nImmunity to fear and disease, lay on hands: 135 hp's<br/>\n<br/>\nDivine Wrath: +5 Attack Bonus, +5 Divine Damage, +5 Saving Throws, 5 Rounds Duration<br/>\nDivine Might: +5 Divine Damage, 5 Rounds Duration<br/>\nDivine Shield: +5 Dodge Armour Class, 5 Rounds Duration<br/>\n<br/>\nLEVELING GUIDE:<br/>\n1) Paladin (1): Power attack, Weapon Focus: Longsword<br/>\n2) Paladin (2): <br/>\n3) Paladin (3): Blind-Fighting<br/>\n4) Paladin (4): {CHA+1}<br/>\n5) Paladin (5): <br/>\n6) Paladin (6): Divine Shield<br/>\n7) Monk (1): Evasion, Cleave<br/>\n8) Paladin (7): <br/>\n9) Paladin (8): Divine Might, {CHA +1}<br/>\n10) Champion of Torm (1): <br/>\n11) Champion of Torm (2): Improved Critical: Longsword <br/>\n12) Paladin (9): Extend Spell, {CHA +1}<br/>\n13) Champion of Torm (3): <br/>\n14) Champion of Torm (4): Knockdown<br/>\n15) Paladin (10): Extra Turning<br/>\n16) Paladin (11): {STR +1}<br/>\n17) Monk (2): <br/>\n18) Paladin (12): Extra Smiting<br/>\n19) Paladin (13): <br/>\n20) Champion of Torm (5): {STR +1}<br/>\n21) Champion of Torm (6): Great Strength (1), EWF: Longsword<br/>\n22) Paladin (14): <br/>\n23) Paladin (15): <br/>\n24) Champion of Torm (7): Great Strength (2), {CHA +1}<br/>\n25) Champion of Torm (8): Armour Skin<br/>\n26) Champion of Torm (9): <br/>\n27) Monk (3): Great Strength (3)<br/>\n28) Champion of Torm (10): Epic Prowess, {CHA +1}<br/>\n29) Paladin (16): <br/>\n30) Paladin (17): Great Strength (4)<br/>\n<br/>\nNOTES: The single most important attribute for this build is \"Charisma\", it affects your saving throws (although they are already good), your divine shield &amp; might's duration and damage, your divine wrath's duration, your \"Taunt\" skill, the number of \"Turn Undead\" you have at your disposal and finally your \"Lay on Hands\" healing capacity. Should you max it out (+12) you shall get a net (+6) to everything and (162) more hp's for your \"Lay on Hands\". You are also capable of casting the full repertoire of Paladin's incantations that are amongst the most potent in the game, giving you the ability to raise your total attack bonus by a significant degree, chief amongst them being \"Divine Favour\" a short (10 rounds duration) spell that raises both your attack and damage. That is why this build has \"Extend Spell\" amongst its feats so that you can populate your second level slots with extended versions of that spell. At lower levels pay attention to another 1st level spell that you have, \"Bless Weapon\" will simply annihilate undead struck by your sword. You also have a total of (14) uses of \"Turn Undead\" that can be used for Divine Shield and Might.<br/>\n<br/>\nThis build is front-loaded in order to get the most important feats early, but extended it to the full forty levels is something simple, should you want it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:14 PM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks a lot, Valerfor!<br/>\nSo much to try...<br/>\nGuess I will go and directly compare the suggestions I got.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:23 PM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<span style=\"text-decoration:underline\">SILVER FLAME OF ANDOR</span><br/>\n\u00a0(PAL 17/ MNK 3/ COT 10)\n</div></blockquote>\nThis build looks so good Valerfor, you should post it in the 30s section asap!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:44 PM - Apr 26, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Let's see who will fare best in Tristram: Empyre's Kama Knight 2, Valerfor's Silver Flame of Andor, Bru's Divine Generalist (with adjustments as suggested by Maximilian Kane or the Divine Warrior from the Bioware Legacy builds (with taking Taunt instead of Persuade)... might not play the full module with all four, but a part of it, at least.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "11:22 AM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote:</cite>Let's see who will fare best in Tristram: Empyre's Kama Knight 2, Valerfor's Silver Flame of Andor, Bru's Divine Generalist (with adjustments as suggested by Maximilian Kane or the Divine Warrior from the Bioware Legacy builds (with taking Taunt instead of Persuade)... might not play the full module with all four, but a part of it, at least.</div></blockquote>\n\nOk, see you back in a year. I imagine you'll come out of this endeavor much like Tom Hanks came out of Cast Away.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "12:59 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian_Kane wrote:</cite>\nOk, see you back in a year. I imagine you'll come out of this endeavor much like Tom Hanks came out of Cast Away.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /></div></blockquote>\nOh, that's a little exaggerated. Half a year should be enough.<br/>\n<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nOK, so with \"Pia\" (Bioware Legacy Divine Warrior) I am at the Poisoned Water Supply quest. Might need a hench or some supplies to battle the Miniboss here.<br/>\nThe three others just entered the Cathedral.<br/>\n\"Severin\" (Kama Knight): is effective when it comes to fighting groups of weaker baddies. How he does against stronger enemies (and traps), we will see...<br/>\n\"Laurelia\" (Silver Flame) has the advantage that she can carry a lot from the beginning. Did well so far.<br/>\n\"Tiberius\" (Divine Generalist with a few tweaks) can get hurt a bit, but so did \"Pia\". I am curious if he can handle some of the traps (got some skill points into Disable Trap and Set Trap).<br/>\nFun way to directly see the differences, and as there is no skill schedule for the Silver Flame and I tweaked the Divine Generalist, there also is some exercise.<br/>\nWish learning something always would be so entertaining.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:30 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Your first real test will be against \"The Butcher\"!<br/>\nLet us know how they fare against him.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "3:44 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I probably won't try to solo him... in the original Diablo I tended to save him for later, when I had gained a few levels. Yeah, that was a tough one... and I expect no less in the module. At least, in the NWN version you can buff up with potions and scrolls. And, if necessary, hire a hench for help.<br/>\nI will report how it goes when I get there. Probably not today, as I have a life and family.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "4:01 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote:</cite><blockquote><div><cite>Maximillian_Kane wrote:</cite>\nOk, see you back in a year. I imagine you'll come out of this endeavor much like Tom Hanks came out of Cast Away.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji23.png\" /></div></blockquote>\nOh, that's a little exaggerated. Half a year should be enough.<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji6.png\" /><br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji38.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji38.png\" /><img class=\"post-image\" loading=\"lazy\" src=\"http://emoji.tapatalk-cdn.com/emoji38.png\" /><br/>\n<br/>\nOK, so with \"Pia\" (Bioware Legacy Divine Warrior) I am at the Poisoned Water Supply quest. Might need a hench or some supplies to battle the Miniboss here.<br/>\nThe three others just entered the Cathedral.<br/>\n\"Severin\" (Kama Knight): is effective when it comes to fighting groups of weaker baddies. How he does against stronger enemies (and traps), we will see...<br/>\n\"Laurelia\" (Silver Flame) has the advantage that she can carry a lot from the beginning. Did well so far.<br/>\n\"Tiberius\" (Divine Generalist with a few tweaks) can get hurt a bit, but so did \"Pia\". I am curious if he can handle some of the traps (got some skill points into Disable Trap and Set Trap).<br/>\nFun way to directly see the differences, and as there is no skill schedule for the Silver Flame and I tweaked the Divine Generalist, there also is some exercise.<br/>\nWish learning something always would be so entertaining.</div></blockquote>\n\nRemember what I said about my building style. The first levels will be the toughest. If you make it past these, then you'll see what I mean by POWERBUILDING.<br/>\n<br/>\nIf you can go to 22nd level and take your first Rogue there (by no means undoable), since I can do it on WoG, you'll be a MONSTER!<br/>\n<br/>\nIF MWAHAHAHAHA<br/>\n<br/>\nLol <br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:17 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Since Freaky Grandma has said that she wants to play Sands of Fate after Lord of Terror, what should she do in the build after level 30?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "10:54 PM - Apr 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>Since Freaky Grandma has said that she wants to play Sands of Fate after Lord of Terror, what should she do in the build after level 30?</div></blockquote>\n\nLevel it up to 40 hehehe<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "2:36 PM - Apr 29, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nYour first real test will be against \"The Butcher\"!<br/>\nLet us know how they fare against him.\n</div></blockquote>\n<span style=\"text-decoration:underline\"><strong>The Divine Warrior Legacy build</strong></span> just soloed him. I have to admit that she had an unfair advantage, having gained 60K gold from shrines. Anyway, he wasn't as hard as I would have thought. Didn't even need to heal during battle...<br/>\n<br/>\nWith the others, I might have to save and reload a bit, as only the Kama Knight has enough cash to afford a haste item (the Divine Generalist might get and use a scroll, though).<br/>\n<br/>\nEDIT: <span style=\"text-decoration:underline\"><strong>The Kama Knight</strong></span> needed to heal during battle, but also didn't have any problems (he is the second char who got lucky with shrines so that he is hasted and has nice gloves).<br/>\nNeeds healing against single strong Bosses, but when he is fighting groups, it is quite a sight... I want to keep him.<br/>\n<br/>\n(will be continued later, might take awhile, though...)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "9:49 PM - Apr 29, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Editing the other post didn't work properly, so I continue here:<br/>\n<br/>\n<span style=\"text-decoration:underline\">The Divine Generalist</span> still is a bit weaker in melee than the others, but for that, he has UMD and can set traps. Toughest was to finish the Poisoned Water quest, as I wanted to save potions, cash and my magic scrolls for the Butcher. A combination of setting traps, one smite and casting from scrolls did the trick here. (Good thing I had gotten some potions of Heal and a few Arcane scrolls with this character, they were much needed.)<br/>\n<br/>\n<span style=\"text-decoration:underline\">The Silver Flame of Andor</span> was low on money and potions, too, but I could afford a potion of Speed, at least. When facing the Butcher, she had two Paladin spell slots and still potion buffs, so he wasn't that much of a problem. Her smite does hurt a lot by now.<br/>\n<br/>\nWill take awhile until I fight Big D. Maybe not with all four. In the meantime, I will check this forum daily to see what is going on. Don't wanna miss any fancy new stuff or greeting new people.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "1:22 AM - Apr 30, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am playing this next after finishing MTS. I was going to play a Fighter / Bard / RDD with no weapon-specific feats like Weapon Focus, using the +8 STR from RDD to compensate. This would make him equally effective with all melee weapons (45 AB at level 40). With all this fuss about lawfulness being so important, I have changed my mind. Instead, I will play with this customized verison of my Order of the Wyrm build:\n<details><summary>Spoiler</summary>\nOrder of the Wyrm 23 (Monk 25 / Sorcerer 1 / Red Dragon Disciple 14)\nPlayable 1 - 40\n\nSTR: 16 (38)\nCON: 14 (16)\nINT: 12 (14)\n\nHuman: (Quick to Master)\n02: Monk(2): {Deflect Arrows}\n04: Monk(4): STR+1, (STR=17)\n06: Monk(6): Blind Fight, {Knockdown, Improved Knockdown}\n08: Monk(8): STR+1, (STR=18)\n10: Monk(10)\n12: Monk(12): STR+1, Improved Critical: Unarmed, (STR=19)\n14: Monk(14)\n16: Monk(16): STR+1, (STR=20)\n18: Monk(18): Toughness\n20: Monk(20): STR+1, (STR=21)\n22: Red Dragon Disciple(1)\n24: Red Dragon Disciple(3): STR+1, Overwhelming Critical: Unarmed, (STR=24)\n26: Red Dragon Disciple(5)\n28: Red Dragon Disciple(7): STR+1, (STR=27), (CON=16)\n30: Red Dragon Disciple(9): Great Strength I, (STR=28), (INT=14)\n32: Monk(21): STR+1, (STR=33)\n34: Monk(22)\n36: Monk(23): STR+1, Great Strength III, (STR=36)\n38: Red Dragon Disciple(13)\n40: Red Dragon Disciple(14): STR+1, Epic Prowess, (STR=38)\nStats:\nSkillpoints: 238\nSaving Throw bonuses: Spells: +5, Mind Effects: +2\nAB (max, naked): 43 (melee), 28 (ranged)\nSpell Casting: \n\nAppraise 2(4), Discipline 43(57), Lore 41(43), Search 43(45), Spellcraft 24(26), Spot 43(44), Tumble 40(42)\n01: Discipline(4), Lore(4), Tumble(4), Save(12)\n03: Discipline(1), Lore(1), Tumble(1), Save(18)\n05: Discipline(1), Lore(1), Tumble(1), Save(24)\n07: Discipline(1), Lore(1), Tumble(1), Save(30)\n09: Discipline(1), Lore(1), Tumble(1), Save(36)\n11: Discipline(1), Lore(1), Tumble(1), Save(42)\n13: Discipline(1), Lore(1), Tumble(1), Save(48)\n15: Discipline(1), Lore(1), Tumble(1), Save(54)\n17: Discipline(1), Lore(1), Tumble(1), Save(60)\n19: Discipline(1), Lore(1), Tumble(1), Save(66)\n21: Lore(1), Spellcraft(24), Save(48)\n23: Discipline(1), Search(1), Spot(1), Save(1)\n25: Discipline(1), Search(1), Spot(1), Save(1)\n27: Discipline(1), Search(1), Spot(1), Save(1)\n29: Discipline(1), Search(1), Spot(1), Save(3)\n31: Discipline(1), Search(1), Spot(1), Save(6)\n33: Discipline(1), Search(2), Spot(2)\n35: Discipline(1), Search(2), Spot(2)\n37: Discipline(1), Tumble(4), Save(2)\n39: Discipline(1), Lore(6)</details>EDIT: Oops! This should have gone in the Lord of Terror thread.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "9:55 AM - Apr 30, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>EDIT: Oops! This should have gone in the Lord of Terror thread.</div></blockquote>\nNo problem.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:35 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would love to hear about your progress in \"Lord of Terror\" FG, <br/>\n<br/>\nmeanwhile here is a yardstick build suited to these kinds of modules, it is a front-loaded level 30 version of the \"Puissant Paladin\" and it could also go to Jordu's thread but I decided to put it here because of the theme of the module. For those that don't know about the original version, the theme is about a non-charismatic version of the classic paladin\u00a0 that uses brute force &amp; early dev critical for offense and his spells for defense (deathward, freedom of movement, protection from evil, etc). If you like more defense you could always take a tower shield &amp; scimitar/ longsword setup. <br/>\n<br/>\nThis build's AB is so high that makes even weapon-masters weep (for reference my \"Arelith Swordmaster\" which is pretty optimized as a build, achieves a natural 40 AB by level 30) because it has a natural 37 AB which gets augmented by your awesome Paladin buffs by (8) more, then Taunt can rise it even higher by another (6), if you care to do that. And that's the \"nice\" Human version with plenty of skill points and an extra feat because the Half-Orc version (the original Puissant Paladin was a Half-Orc) gets both +1 AB and takes Dev Critical earlier, on his 23rd level. I could optimize this even more tbh but I wanted to show a yardstick build for level 30 and not the absolute maximum that it can achieve (which is not needed).<br/>\n<br/>\n<strong>Puissant Paladin</strong><br/>\n(Paladin 30)<br/>\n<br/>\nRACE: Human<br/>\nALIGNMENT: Lawful Good<br/>\nPLAYABILITY: PvM 1-40 level<br/>\n<br/>\n<strong>STARTING/</strong><strong>ENDING</strong><strong> STATS:</strong><br/>\nSTR -\u00a0 18 (<strong>26</strong>)<br/>\nDEX -\u00a0 08<br/>\nCON - 10<br/>\nINT -\u00a0\u00a0 14<br/>\nWIS -\u00a0 14<br/>\nCHA - 08<br/>\n<br/>\n<strong>Hit Points</strong>: 300<br/>\n<br/>\n<strong>Skill Points</strong>: 165<br/>\n<br/>\nDiscipline: 33 (41)<br/>\nHeal: 13 (15)<br/>\nPersuade: 33 (32)<br/>\nSpellcraft: 13 (15) cc<br/>\nTaunt: 33 (46)<br/>\nTumble: 15 (14) cc<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 17/ 10/ 13 (+3 Vs Spells)<br/>\nSaving Throws (Fort/Ref/Will): 22/ 15/ 18 (Buffed Charisma)<br/>\n<br/>\nNaked AC: 14/ 22 (Full Plate Armour)<br/>\n<br/>\nBAB: 30 (Four Attacks)<br/>\nAB: +37/ +32/ +27/ +22 (Greatsword)<br/>\nDMG: 2d6 +12 / 17-20 x2 (Greatsword)<br/>\n<br/>\nDevastating Critical DC: 33 (39)<br/>\nSpellcasting: Paladin 4<sup>th</sup> Circle Of Spells (Undispellable)<br/>\nImmunity to Fear &amp; Disease<br/>\n<br/>\n<strong>LEVELING GUIDE:</strong><br/>\n01) Paladin (01): Power Attack, Cleave<br/>\n02) Paladin (02):<br/>\n03) Paladin (03): Expertise<br/>\n04) Paladin (04): {STR +1}<br/>\n05) Paladin (05): <br/>\n06) Paladin (06): Weapon Focus: Greatsword<br/>\n07) Paladin (07): <br/>\n08) Paladin (08): {STR +1}<br/>\n09) Paladin (09): Improved Critical: Greatsword<br/>\n10) Paladin (10): <br/>\n11) Paladin (11): <br/>\n12) Paladin (12): Knockdown, {STR +1}<br/>\n13) Paladin (13): <br/>\n14) Paladin (14): <br/>\n15) Paladin (15): Blind Fighting<br/>\n16) Paladin (16): {STR +1}<br/>\n17) Paladin (17): <br/>\n18) Paladin (18): Great Cleave<br/>\n19) Paladin (19): <br/>\n20) Paladin (20): {STR +1}<br/>\n21) Paladin (21): Great Strength I<br/>\n22) Paladin (22): <br/>\n23) Paladin (23): Overwhelming Critical: Greatsword<br/>\n24) Paladin (24): Devastating Critical: Greatsword, {STR +1}<br/>\n25) Paladin (25): <br/>\n26) Paladin (26): Epic Weapon Focus: Greatsword<br/>\n27) Paladin (27): Armour Skin<br/>\n28) Paladin (28): {STR +1}<br/>\n29) Paladin (29): Epic Prowess<br/>\n30) Paladin (30): Epic Skill Focus: Taunt<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:02 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Again, you post a level 30 build, when Freaky Grandma's said earlier in this thread that the plan is to play Sands of Fate after Lord of Terror, going all the way to level 40.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:03 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n\u00a0here is a yardstick build suited to these kinds of modules,<br/>\n<br/>\n\u00a0it could also go to Jordu's thread but I decided to put it here because of the theme of the module.</div></blockquote>\nWhere did I say that this character is built specifically for FG?<br/>\n<br/>\nYou know, there are other people who might not like to play through \"Sands of Fate\" but they do want to play a character through HotU for example or the numerous modules that take them up to 25th - 30th level and might find this helpful. When we comment on a build it is customary that our comments form a constructive criticism for that build, I don't find any of that here though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "9:21 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">SoF I better play after something else. Where I end up not too far above level 25. I played through the whole thing with only one char. The last levels are a bit over the top. Fighting masses of OP monsters with OP equipment. The bonus levels got me from 29 to 35 (you might end up even higher when you do certain things in a particular order), and with the items I found I could open up a shop. Loved it, though.<br/>\n<br/>\nNot sure what I will do next. Maybe try and see for myself how a dwarven wizard with a halberd can beat the OC or SoU and HotU on Very Difficult. Hard to believe when I read it.<br/>\n<br/>\nGuess I will have to test all kinds of different builds. To see all kinds of different feats, skills and spells in action. (I still wouldn't know where to start was I to come up with a build of my own... wouldn't even know what character type to play where...)<br/>\n<br/>\nValerfor, why don't you post your level 30 builds in the mid-epic builds section? Would be easier to find for others.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "9:47 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's a worthy mention to grab 2 Fighter levels at 21 and 22, they fit nicely.<br/>\n<br/>\nI spent some time playing my old non-CHA paladin on  pw. Knights were restricted class wise, but Pal16-F2-WM22 has a great AB. P17-F4-WM19 is also viable.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:13 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote:</cite>\nNot sure what I will do next.<br/>\n</div></blockquote>\n*<em>cough</em>* - Aielund - *<em>cough</em>*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "10:40 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n*<em>cough</em>* - Aielund - *<em>cough</em>*</div></blockquote>\nI don't feel ready for that one yet. I wouldn't even know what character type to play...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:23 AM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">FG I think you played the \"cow level\" as well, that's why you ended up so high level otherwise, you would end up between 28th and 30th level. <br/>\n<br/>\nAs for posting the build in the 30's sub-forum, I do not think it would be entirely appropriate because the other yardstick builds are in the \"builds request\" section as well. Now if I wanted to post the complete build in the 30's sub-forum then I would do so with its most powerful iteration which is a (Paladin 23/ Monk 1/ Fighter 6 OR Paladin 20/ Fighter 6/ Monk 4, for Arelith) and has everything this one has but also (+1 AB/ +6 DMG/ +3 AC &amp; Evasion).<br/>\n<br/>\n@ Grim I remember your \"Knight of Yore\" man &amp; it was a powerful example of its kind. Myself, I prefer the (17/ 4/ 19) split however which is what I also use in my \"Bonebreaker\" builds with either Clerics or Paladins.<br/>\n<br/>\n@ Stag, might I offer you a couple of halls for your cough? ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "12:03 PM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The 17/4/19 split does get 4 more dmg, but 1 less AB I think. Maybe lose ESF:Taunt too, which is nice in a low Cha build.<br/>\n<br/>\nI seriously miss its \"signature move\", the Holy Sword.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:13 PM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\n*<em>cough</em>* - Aielund - *<em>cough</em>*</div></blockquote>\nI don't feel ready for that one yet. I wouldn't even know what character type to play...\n</div></blockquote>\nFair enough - although all sorts of characters will work (can't vouch for casters, I'm afraid) there. I've been a stealthy halfling, an AA, a DwD, a raging Barbarian, a dwarven archer, a Ranger, oh, and lots of Monks - including my first evil character, Mick's Kama Shinobi. If you haven't already, have a flick through the Aielund thread in the Modules forum - spoilers have been kept to a minimum.<br/>\n<br/>\nIf you fancy trying the build you've taken through LoT in a different environment, you could go through the OC and then Aribeth's Redemption (the character has to be Good; Human, Half-Elf or Elf; and male - so iirc you'd have to swap gender). I started a thread about it, again in the Modules forum. That should get you up to level 28-ish, so ideal for SoF.<br/>\n<br/>\nCheers.<br/>\n<br/>\nOh, and thanks for the offer, Valerfor, but a tot or two of the Macallan did the trick for the cough!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "12:29 PM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Decisions, decisions... again...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:44 PM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\n\u00a0here is a yardstick build suited to these kinds of modules,<br/>\n<br/>\n\u00a0it could also go to Jordu's thread but I decided to put it here because of the theme of the module.</div></blockquote>\nWhere did I say that this character is built specifically for FG?<br/>\n<br/>\nYou know, there are other people who might not like to play through \"Sands of Fate\" but they do want to play a character through HotU for example or the numerous modules that take them up to 25th - 30th level and might find this helpful. When we comment on a build it is customary that our comments form a constructive criticism for that build, I don't find any of that here though.\n</div></blockquote>\nWell, you did post the build in a thread FG started to request builds.<br/>\n<br/>\nI apologize for offending someone I would like to call a friend. I think you are really smart, and I value your opinion, but even really smart people can sometimes make silly mistakes (I sure do) like posting a level 30 build where level 40 builds were requested.<br/>\n<br/>\n----------------------------------------------------------------------------------------------------------------------------------------------<br/>\n<br/>\nThe author of Sands of Fate said that even level 30 characters will level up several times in the first chapter.<br/>\n<br/>\nI recall hearing about a \"Cow level\", but I have never seen it, nor do I know how to,get to it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:19 PM - May 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it is a late trend of mine I suppose...After making so many power-builds in the ECB, lately I am focusing more on playability and I prefer to adopt the builds based on the level they are supposed to be played at. Just like what I did for Stag in \"Whirlwind of Steel\" thread and here with \"Silver Flame of Andor\". It's all good Empyre, no offense taken, the internet cannot convey the tone of what we say many times and that makes a huge difference.<br/>\n<br/>\nHere, take the halls with strawberry flavor that I had for Stag since he found another way to remedy his cough...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Pelagius",
-      "avatar": "10753075_1529052830.jpg",
-      "timestamp": "1:51 PM - Jun 04, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A little late to the party I am, right? However, might I point you my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/divine-smiter-fighter4-paladin10-champion-of-torm2-t2354889.html\" rel=\"noreferrer\" target=\"_blank\">Divine Smiter</a> build? Valefor told me it would work well in Lord of Terror. If you chose to do so, please report back with the build's performance, as I'm very curious about it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "2:17 PM - Jun 04, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, Pelagius.<br/>\n<br/>\nI might try your build one day, just not now (currently testing something else).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TychoVelius",
+      "avatar": "10758924_1537379651.jpg",
+      "timestamp": "5:55 AM - Jun 12, 2018",
+      "content": "<div>Could do spear and shield as well, if I'm reading the Arelith changes right, just gives up the bonus strength damage for two-handing, and the +2 AB for the same.<br/>\n<br/>\nDecent tradeoff.<br/>\n<br/>\nWith a build lined up, any suggestions on getting started in Arelith? Skal or Cordor? It's possible it's just supposed to be this slow, and I'm not used to it.</div>"
     }
   ]
 }

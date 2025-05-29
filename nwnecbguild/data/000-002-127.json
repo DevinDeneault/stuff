@@ -4,35 +4,30 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "127",
-  "name": "Sunburst versus Mass Blindness/Deafness",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/sunburst-versus-mass-blindness-deafness-t2355512.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 3,
+  "name": "Damage Calculator",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-calculator-t2355508.html",
+  "author": "Yunim",
+  "avatar": "10759176_1572007808.png",
+  "replies": "2",
+  "views": "1.0K",
   "posts": [
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:31 AM - Jul 13, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Both are level 8 spells, both lots of blind enemies. Sunburst will blind non undead too according to the wiki.<br/>\n<br/>\nHowever sunburst has a huge number of additional advantages - party friendly, colossal area of effect (10m radius vs 3.3m radius for mass blindness/deafness), damage against undead, some damage against non undead, chance to kill vampires, permanent duration blindness.<br/>\n<br/>\nThe only positive for Mass Blindness only seems the fortitude save rather than reflex save, meaning it is more effective against evasion users who require to fail two reflex saves to have blindness (evasion - sunburst doesn't hit and no chance of blindness). However I am unsure if this is necessarily a positive as there are plenty of enemies ie warriors, clerics and mages who have low reflex saves to use sunburst against, fort is a strong save for warriors and divine casters, perhaps only a situational advantage.<br/>\n<br/>\nOverall it looks like sunburst is a way better spell, curious that it isn't discussed as much as firebrand even. If they can't see you they can't hit you with spells or arrows, or move to your location to melee attack you <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nOf course this pales in comparison to the overpowered cleric Word of Faith spell which is a party friendly colossal radius spell which will blind anyone without a save, as long as spell penetration is sufficient. I think lets not go there.<br/>\n<br/>\nAnyone got any experience with sunburst and non undead and finding it useful? It seems like a very powerful spell on par with the big stuff like Wail, Wilting and firebrand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:02 PM - Jul 07, 2020",
+      "content": "<div>I've uploaded the Python 3 script that I use as a damage calculator to the Neverwinter Vault. There is both a vanilla version and a BSK-specific version of the script for people who want a tool that can help with min-maxing builds. The download includes a basic explanation of the script and examples of how to use it.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/average-damage-round-calculator-adprcalc\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... r-adprcalc</a></div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:19 PM - Jul 13, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd take sunburst over mb/d every time. Sunburst is a great spell against undead. It is a DC spell with a reflex save. It does far more damage than eg. firebrand.\u00a0<br/>\nEven with a sorcerer and limited spell selection, sunburst is on my spell lvl 8 list together with horrid wilting and greater sanctuary. Early on premonition is on that list too, but it soon becomes obsolete when +5 weapons start to pop up. Bigby 8 can be replaced by both B7 and B9. Mind blank can be substituted by lesser mind blank, clarity and protection from alignment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:11 PM - Jul 07, 2020",
+      "content": "<div>Really cool, Yunim!<br/>\n<br/>\nThanks for the tool.<br/>\n<br/>\n<em>*scurries off to download*</em></div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:31 PM - Jul 13, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Would this be an example, Mick?<br/>\n<br/>\n[url=<a class=\"postlink\" href=\"http://Here\" rel=\"noreferrer\" target=\"_blank\">http://Here</a> is something to look forward to. Quite the opposite of a hilltop, but even so: \u00a0Defender of the Crow_0002a.jpg (947.48KiB) \u00a0 Defender of the Crow_0003.jpg (945.01KiB) \u00a0It is from Aielund second act, the Isle of the dead dungeon. And it is from the solo run with my Evil Speed Caster, but obviously before she multiclasses. \u00a0[-] Spoiler \u00a0 \u00a0 There are some rooms where you spawn a Warlord Mummy when you pick a magical weapon from a sarcophagus. There was a loop that let me pick the weapon and replace it and pick it and so on and spawn the room full of Warlord Mummies. I finished them all with a couple of castings of Sunburst and maybe a Firebrand to finish off any stragglers. I would not dare to try that stunt with a fighter type. \u00a0 If nothing else, it was a fine picture of the mummies.]Sunburst[/url]<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ooh, well that didn't work! Let's try something else...<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/shh-tell-no-one-t2355040.html\" rel=\"noreferrer\" target=\"_blank\">Sunburst</a><br/>\n<br/>\nHope that's better! It's on post #8, btw.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:29 PM - Jul 13, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is a fabulous screenshot Mick has taken, thanks for linking it Stag. I have to stick it somewhere in the spellcasters guide I wrote!<br/>\n<br/>\nRe the blindness vs non undead I'll have to test out. Trouble is, things die so rapidly to time stop emp IGMS and emp Firebrand doesn't matter about blinding em if they are dead :)<br/>\n<br/>\n<strong>Edit:</strong>\u00a0Actually I asked BlackCobra in game a moment ago, he told me Sunburst is fabulous for parties to blind non undead enemies, and mass blindness/deafness isn't comparable so theres a good answer there :)<br/>\nThanks Mick for sharing your lvl 8 sorc spell list. Actually that is a good topic to discuss! :) Might start another thread<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "The Flying Rodent",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:21 AM - Jul 17, 2020",
+      "content": "<div>I was just thinking about this script the other day from when I was on Blackstone and you first started putting it together. How time flies, lol<br/>\n<br/>\nI recently wrote out a 'weapon damage comparison' google sheet for A Dawn of Heroes, but it uses average damage values and doesn't take AB/AC calculations into account. This would be waaaaaay more thorough than the thing that I put together.<br/>\n<br/>\nThanks for releasing it to the public! :)</div>"
     }
   ]
 }

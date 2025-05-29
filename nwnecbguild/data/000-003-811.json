@@ -4,113 +4,174 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "811",
-  "name": "Requesting a paladin/WM/??? Build for all 3 classic campaigns",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/requesting-a-paladin-wm-build-for-all-3-classic-ca-t2355115.html",
-  "author": "Vardalia",
-  "avatar": "10759117_1563962401.jpg",
-  "replies": 16,
+  "name": "Ranger 21/Monk 12/WM 7",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ranger-21-monk-12-wm-7-t2355171.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "26",
+  "views": "3.8K",
   "posts": [
     {
-      "author": "Vardalia",
-      "avatar": "10759117_1563962401.jpg",
-      "timestamp": "12:19 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello everyone! I have recently discovered your nice community and id like to seek your wisdom since I am a noob. I want to replay all 3 classic campaigns plague--&gt; SoU--&gt; HotU in that order. I m interested in a holy warrior build with paladin/ weapon master / ??? ( Maybe CoT?), Human race and ideally having any form of enserric the sword as the final weapon! Got any suggestions for me? :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "1:25 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First of all, Welcome!<br/>\n<br/>\nSecond of all, SoU is supposed to start at level 1.\u00a0 If you play it with the hero from the OC (plague campaign), you will be way too powerful and SoU will be too easy and boring.\u00a0 Instead, follow the OC with <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mines-of-twin-summits-1-2-and-3-t2354731.html\" rel=\"noreferrer\" target=\"_blank\">Mines of Twin Summit</a> to get all the way to level 40, and follow SoU and HotU with <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/sands-of-fate-t2354705.html\" rel=\"noreferrer\" target=\"_blank\">Sands of Fate</a> to get to level 40.<br/>\n<br/>\nI need to go to bed, so I will make a build for you sometime later.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vardalia",
-      "avatar": "10759117_1563962401.jpg",
-      "timestamp": "2:40 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for your quick reply! Looking forward to hearing your suggestions!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:49 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The problem is Weapon Master requires 13 INT and 13 DEX to get the required prerequisite feats to qualify for the class, and Paladins need good WIS and CHA, and all warriors types need good STR and CON, and you can't have good numbers in all of those at the same time, which is why Paladin and Weapon Master are not a good mix.\u00a0 Still, I tried, and these two builds are what I came up with:<br/>\n<br/>\nThis one is a pretty good WM build with 2 levels of Paladin to access the Holy Avenger (no big deal, since it was nerfed in NWN 1.69) and Immunity to fear.\n<details><summary>Spoiler</summary>\nAvenger Master (Fighter 10 / Paladin 2 / Weapon Master 28)\nPlayable 1 - 40\nAbilities:\nDEX: 14\nWIS: 10\nCHA: 8\nLeveling Guide:\n01: Fighter(1): Dodge, Mobility, Weapon Focus: Longsword\n03: Fighter(3): Blind Fight\n05: Paladin(1)\n07: Fighter(5)\n09: Weapon Master(1): Knockdown, Weapon of Choice: Longsword\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Power Attack\n17: Fighter(8): Cleave\n19: Weapon Master(9)\n21: Fighter(9): Epic Weapon Focus: Longsword\n23: Weapon Master(11)\n25: Weapon Master(13): Overwhelming Critical: Longsword\n27: Weapon Master(15): Great Strength II, (STR=24)\n29: Weapon Master(17)\n31: Weapon Master(19): Armor Skin\n33: Weapon Master(21): Great Strength IV, (STR=28)\n35: Weapon Master(23)\n37: Weapon Master(25): Epic Toughness I\n39: Weapon Master(27): Great Strength VI, (STR=31)\n\nHitpoints: 520\nSaving Throws (Fortitude/Will/Reflex): 24/15/21\nBAB: 30\nAC (naked/mundane armor/shield only): 18/28\nAlignment Changes: 0\nSkills:\n\n02: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n04: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n06: Concentration(1), Discipline(1), Intimidate(1), Save(1)\n08: Concentration(1), Discipline(1), Save(5)\n10: Discipline(1), Spellcraft(1), Spot(1), Save(1)\n12: Discipline(1), Spellcraft(1), Spot(1), Save(1)\n14: Discipline(1), Tumble(2), Save(1)\n16: Concentration(8), Discipline(1), Save(1)\n18: Discipline(1), Spot(4)\n20: Discipline(1), Spellcraft(2), Spot(1)\n22: Concentration(1), Discipline(1), Spellcraft(1), Save(1)\n24: Discipline(1), Spot(3), Save(1)\n26: Discipline(1), Spot(1), Tumble(1), Save(1)\n28: Discipline(1), Spot(4)\n30: Discipline(1), Spellcraft(2), Spot(1)\n32: Discipline(1), Spot(1), Tumble(2)\n34: Discipline(1), Lore(1), Spot(1), Tumble(1)\n36: Discipline(1), Lore(3), Spot(1)\n38: Discipline(1), Lore(3), Spot(1)\n40: Discipline(1), Lore(3), Spot(1)</details>\n\nThis one is heavy on the Paladin and light on the WM, but still not a very good Paladin because the abilities are spread too thin, and feats, too.\n<details><summary>Spoiler</summary>\nMaster Avenger (Paladin 23 / Champion of Torm 10 / Weapon Master 7)\nPlayable 1 - 40\nAbilities:\nDEX: 13\nWIS: 14\nCHA: 14\nLeveling Guide:\n01: Paladin(1): Dodge, Weapon Focus: Longsword\n03: Paladin(3): Blind Fight\n05: Paladin(5)\n07: Paladin(7)\n09: Champion of Torm(2): Knockdown, Improved Knockdown\n11: Champion of Torm(4): Spring Attack\n13: Champion of Torm(6): Whirlwind Attack\n15: Weapon Master(2): Improved Critical: Longsword\n17: Weapon Master(4)\n19: Weapon Master(6)\n21: Champion of Torm(7): Epic Weapon Focus: Longsword\n23: Champion of Torm(9)\n25: Paladin(8)\n27: Paladin(10): Great Strength II, (STR=22)\n29: Paladin(12)\n31: Paladin(14)\n33: Paladin(16): Great Strength IV, (STR=26)\n35: Paladin(18)\n37: Paladin(20)\n39: Paladin(22): Great Strength VI, (STR=29)\n\nHitpoints: 460\nSaving Throws (Fortitude/Will/Reflex): 29/25/30\nBAB: 30\nAC (naked/mundane armor/shield only): 17/28\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Save(3)\n04: Discipline(1), Save(5)\n06: Discipline(1), Save(7)\n08: Discipline(1), Spot(11)\n10: Discipline(1), Intimidate(1), Spot(1)\n12: Discipline(1), Intimidate(1), Spot(1)\n14: Discipline(1), Spot(1), Tumble(1)\n16: Discipline(1), Spot(1), Tumble(1)\n18: Discipline(1), Spellcraft(1), Spot(1)\n20: Discipline(1), Spellcraft(1), Spot(1)\n22: Discipline(1), Spellcraft(1), Spot(1)\n24: Discipline(1), Spot(1), Tumble(1)\n26: Discipline(1), Tumble(2)\n28: Discipline(1), Spellcraft(2)\n30: Discipline(1), Spellcraft(2)\n32: Discipline(1), Spellcraft(1), Save(1)\n34: Discipline(1), Tumble(1), Save(1)\n36: Discipline(1), Tumble(1), Save(1)\n38: Discipline(1), Lore(3)\n40: Discipline(1), Lore(3)</details>\n\nHere is an alternative suggestion instead of Paladin / WM, a Paladin / RDD:<br/>\nI made this build four years ago.\u00a0 In hindsight, I would have just 1 Sorcerer level and 3 more Paladin levels, but I don't have time to build that right now.\u00a0 I'll build it later.\n<details><summary>Spoiler</summary>\nPaladin of Bahamut (Paladin 26 / Sorcerer 4 / Red Dragon Disciple 10)\nPlayable 1 - 40\nAbilities:\nDEX: 8\nWIS: 14\nCHA: 14 (20)\nLeveling Guide:\n01: Paladin(1): Weapon Focus: Longsword, Luck of Heroes\n03: Paladin(3): Power Attack\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Blind Fight\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Divine Shield\n17: Paladin(17)\n19: Paladin(19)\n21: Sorcerer(1): Epic Weapon Focus: Longsword\n23: Sorcerer(3)\n25: Red Dragon Disciple(2): (STR=25)\n27: Red Dragon Disciple(4): Great Strength II, (STR=28)\n29: Red Dragon Disciple(6)\n31: Red Dragon Disciple(8)\n33: Red Dragon Disciple(10): Great Charisma I, {Darkvision}, (STR=34), (CHA=18)\n35: Paladin(22)\n37: Paladin(24)\n39: Paladin(26): Epic Reflexes, Epic Prowess\n\nHitpoints: 480\nSaving Throws (Fortitude/Will/Reflex): 35/24/25\nBAB: 30\nAC (naked/mundane armor/shield only): 19/30\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Lore(1), Save(1)\n04: Discipline(1), Lore(1), Save(1)\n06: Discipline(1), Save(2)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(6)\n12: Discipline(1), Save(8)\n14: Discipline(1), Save(10)\n16: Discipline(1), Save(14)\n18: Discipline(1), Save(18)\n20: Discipline(1), Save(22)\n22: Spellcraft(1), Tumble(1), Save(1)\n24: Discipline(4), Spellcraft(1), Save(1)\n26: Discipline(1), Spellcraft(1), Save(1)\n28: Discipline(1), Spellcraft(1), Save(1)\n30: Discipline(1), Spellcraft(1), Save(1)\n32: Discipline(1), Tumble(1)\n34: Discipline(1), Tumble(2)\n36: Discipline(1), Lore(1), Tumble(1)\n38: Discipline(1), Lore(3)\n40: Lore(1), Spellcraft(5)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Vardalia",
-      "avatar": "10759117_1563962401.jpg",
-      "timestamp": "10:12 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for the builds!! Although I am not a fan of spellcasters the RDD seems like an interesting idea. Most guides suggest that WM after lvl 7 is a waste of good skills so maybe sticking to the second one might be just for me. <br/>\n<br/>\n+Rep :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:56 PM - Jul 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! Although I am not a fan of spellcasters the RDD seems like an interesting idea. Most guides suggest that WM after lvl 7 is a waste of good skills so maybe sticking to the second one might be just for me. <br/>\n<br/>\n+Rep :)\n</div></blockquote>\nWelcome to the guild Vardalia!<br/>\n<br/>\nIt is all right if you are not a fan of spell casters.\u00a0 You will have great fun from this game anyway. You will soon enough learn that the main use of the RDD class is for melee builds, not casters.<br/>\nAs for WM, there are two main uses. One is to leave it at 7 levels for ki critical and improved multiplier. The other one is to take WM as major class for a high AB bonus from epic superior weapon focus.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:23 AM - Sep 24, 2019",
+      "content": "<div>Mkay.<br/>\n<br/>\nThis build idea I am trying to build takes all the good parts and synergy from the component classes and combines them together.<br/>\n<br/>\nThis build is for WoG.<br/>\n<br/>\nThe main problem I am having is getting Bane of Enemies while also trying to keep the highest BaB.<br/>\n<br/>\nThis build dual-wields kamas, and has Dev Crit.<br/>\n<br/>\nMain Stats are Str and Wis (Wis giving both Ranger spells and Monk AC bonus, meaning no armor).<br/>\n<br/>\nI believe that the build allows max tumble bonus, high listen, spot, and search, with high disc as well (all wanted skills).<br/>\n<br/>\nSo how do I go about doing this?<br/>\n<br/>\nIs there a way to go 20 levels of Ranger pre-epic, then somehow using the 1 left over Ranger level somewhere in Epic to pick up BoE? <br/>\n<br/>\nIt is here that I have been having difficulties with the build - getting BoE with just 21 Ranger levels.<br/>\n<br/>\nI could go Ranger/WM pre-epic, but that means I burn a feat for kamas, which I don't have to because Monk gets them for free - but taking a level of Monk pre-epic hits my max BaB iirc.<br/>\n<br/>\nMonk also gives Cleave, which saves a feat for Dev Crit, not to mention for 12 levels all kinds of extra goodness (including diamond soul, which provides good, non-lowerable SR).<br/>\n<br/>\nThat I want to keep.<br/>\n<br/>\nWM 7 is necessary for the usual reasons.<br/>\n<br/>\nHelp would be appreciated.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:43 AM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! <strong>Although I am not a fan of spellcasters</strong>...</div></blockquote>\nI am surprised Stag hasn't come with flowers yet...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:20 PM - Sep 24, 2019",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote:</cite>\nIs there a way to go 20 levels of Ranger pre-epic, then somehow using the 1 left over Ranger level somewhere in Epic to pick up BoE? \n</div></blockquote>\nOf course, as long as you take that Ranger level at an epic feat level (21, 24, 27, etc.) you could select BoE for it. <br/>\nBut, I see no reason to take Monk to level 12, for that tiny SR 22. <br/>\nYou need epic feats to burn &amp; Ranger 26/ Monk 7/ Weapon-Master 7, will get you 3 of them &amp; un-dispellable as well.<br/>\nStr: 16\u00a0 Dex: 14\u00a0 Con: 10\u00a0 Int: 14\u00a0 Wis: 14\u00a0 Cha: 08 (Human) is a nice starting stat-spread, without over-optimizing. <br/>\nBetween Ranger &amp; Monk levels you get (Ambi, Twf, Itwf, Kd, Ikd, Cl) for free, which will help a lot with the pre-requisites.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:44 PM - Sep 24, 2019",
+      "content": "<div>Hi Webby<br/>\n<br/>\nWarmest regards as always.<br/>\n<br/>\nTried my best to make something for you with Valerfor's suggested set up.\u00a0<br/>\n<br/>\nGot the AB to 42. Has Blind Fight and Improved Knockdown, max tumble. +6 AB/Dmg against favored enemies. 250 odd spare skill points for you to allocate as you please.<br/>\n<br/>\nI think I got the Str high enough to make Dev Crit useful here, with Str Capped it will be 40. 10 + 40/2 (level/2) + 15 (str modifier) = Dev Crit DC 45.\u00a0<br/>\n<details><summary>Spoiler</summary>Ranger(26), Monk(7), Weapon Master(7), Human\nSTR: 16 (28)\nCON: 10\nINT: 14\n\n01: Monk(1): Mobility, Dodge, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Ranger(2): Weapon Focus (Kama)\n05: Ranger(4)\n07: Monk(2): {Deflect Arrows}\n09: Ranger(7): Spring Attack\n11: Ranger(9): {Improved Two-Weapon Fighting}\n13: Weapon Master(1): Weapon of Choice (Kama)\n15: Weapon Master(3): Improved Critical (Kama)\n17: Monk(4)\n19: Weapon Master(6)\n21: Monk(5): Great Strength I, (STR=22)\n23: Ranger(10): Favored Enemy III\n25: Ranger(12)\n27: Ranger(14): Great Cleave\n29: Ranger(16)\n31: Ranger(18)\n33: Ranger(20): Devastating Critical (Kama), Favored Enemy V\n35: Ranger(22)\n37: Monk(7)\n39: Ranger(25): Great Strength II, Epic Weapon Focus (Kama), (STR=27)\n\nSkillpoints: 287\nSaving Throw bonuses: Mind Effects: +2\nAB (max, naked): 42 (melee), 32 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Intimidate(2), Save(24),\u00a0\n03: Intimidate(1), Save(36),\u00a0\n05: Intimidate(1), Save(48),\u00a0\n07: Tumble(10), Save(52),\u00a0\n09: Save(66),\u00a0\n11: Save(80),\u00a0\n13: Save(87),\u00a0\n15: Save(97),\u00a0\n17: Tumble(5), Save(104),\u00a0\n19: Save(114),\u00a0\n21: Save(126),\u00a0\n23: Save(135),\u00a0\n25: Save(149),\u00a0\n27: Save(163),\u00a0\n29: Save(177),\u00a0\n31: Save(191),\u00a0\n33: Save(205),\u00a0\n35: Save(219),\u00a0\n37: Tumble(15), Save(218),\u00a0\n39: Save(232),\u00a0</details>\n\nLet me know if it suits.<br/>\n<br/>\nNon fighter weapon masters are tough to make well.<br/>\n<br/>\nI thought it needs too many feats pre-epic (weapon master and dev crit requirements) for me to delay Monk until 21, I wanted those Cleave and Kama weapon proficiency feats earlier.\u00a0<br/>\n<br/>\nBut I will think about whether I can make it work. If I have some time tomorrow I will see if I can make it work with a Ranger 20 level split pre-epic<br/>\n<br/>\nGonna get some sleep.\u00a0</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:13 PM - Sep 24, 2019",
+      "content": "<div>Hi Web<br/>\n<br/>\nI went to bed but then thought maybe Half-Orc might be a good choice here if you want to go Ranger 20 pre-epic for +1 AB.<br/>\n<br/>\nSo I had a go at making something for you. Has about 150 skill points left over after meeting requirements for WM and 40 tumble.<br/>\n<br/>\nBut I got the AB to 43, which is pretty nice. 1AB = +5% chance to hit and crit :)<br/>\n<br/>\nWeapon master goodies come late but if you are happy to delay knockdown and improved knockdown till level 39 then swap some monk levels with WM<br/>\n<details><summary>Spoiler</summary>Ranger(26), Monk(7), Weapon Master(7), Half-Orc\nSTR: 18 (28)\nCON: 10\nINT: 12 (13)\n\n01: Ranger(1): Dodge, Favored Enemy I, {Dual Wield}\n03: Ranger(3): Mobility\n05: Ranger(5): Favored Enemy II\n07: Ranger(7)\n09: Ranger(9): Spring Attack, {Improved Two-Weapon Fighting}\n11: Ranger(11)\n13: Ranger(13)\n15: Ranger(15): Blind Fight, Favored Enemy IV\n17: Ranger(17)\n19: Ranger(19)\n21: Monk(1): Weapon Focus (Kama), {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n23: Ranger(22)\n25: Ranger(24)\n27: Ranger(26): Great Cleave, Epic Prowess\n29: Monk(3)\n31: Monk(5)\n33: Weapon Master(1): Devastating Critical (Kama), Weapon of Choice (Kama)\n35: Weapon Master(3)\n37: Monk(7)\n39: Weapon Master(6): Great Strength I, (STR=27)\n\nSkillpoints: 201\nSaving Throw bonuses: Mind Effects: +2\nAB (max, naked): 43 (melee), 33 (ranged)\nSpell Casting: Ranger(4)\n\n\n01: Intimidate(2), Save(16),\u00a0\n03: Intimidate(1), Save(24),\u00a0\n05: Intimidate(1), Save(32),\u00a0\n07: Save(42),\u00a0\n09: Save(52),\u00a0\n11: Save(62),\u00a0\n13: Save(72),\u00a0\n15: Save(82),\u00a0\n17: Save(92),\u00a0\n19: Save(102),\u00a0\n21: Tumble(20), Save(92),\u00a0\n23: Save(102),\u00a0\n25: Save(112),\u00a0\n27: Save(122),\u00a0\n29: Save(122),\u00a0\n31: Save(132),\u00a0\n33: Save(135),\u00a0\n35: Save(141),\u00a0\n37: Tumble(5), Save(144),\u00a0\n39: Save(150),\u00a0</details></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:46 PM - Sep 24, 2019",
+      "content": "<div>This looks nice!<br/>\n<br/>\nI'm gonna run it through the simulator and test it!<br/>\n<br/>\nThx!<br/>\n<br/>\nThe reason for Diamond Soul is, even though 22 SR is not alot - it cannot be dispelled or lowered, and is always present.<br/>\n<br/>\nIt is also higher than what one can get with an item on WoG iirc.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:58 PM - Sep 24, 2019",
+      "content": "<div>Mkay, I have changed things a bit so that Monk is now level 12 (looses a few feats, but I think it is worth it for that sweet SR).<br/>\n<br/>\nThe main problem with a Kama user on WoG is, believe it or not, damage output.<br/>\n<br/>\nEven with custom made, socket Kamas (Keened, of course ;) ) the low slashing damage, even when paired with high Str, just doesn't do enough to some opponents on WoG.<br/>\n<br/>\nThe same goes for the loss of AB - it is just a tick too much for most builds to handle.<br/>\n<br/>\nI built a Kama blizzard of destruction based on some fighter levels instead of Ranger, but go nowhere near what this build is packing in damage and AB, especially against FEs.\u00a0 So this build really relies on <strong><em>CRUCIAL</em></strong> FE selection!<br/>\n<br/>\nFE 1 should be goblinoids.\u00a0 This will help you pretty much through up into low Epic levels on WoG (I know, hard to believe, but there are \"almost Epic\" gobbos on WoG :/\u00a0 - and they are packing hps! - I've gone through almost 50 arrows trying to bring just one down as an AA!!!!!)<br/>\n<br/>\nFE2 I think should be Undead.\u00a0 WoG has lots of Undead, from beginning up to end Epic level.<br/>\n<br/>\nFE3 I take Giants.\u00a0 The Giant quests, especially the Fire Giants, almost screams for this.<br/>\n<br/>\nFE4 Humans - there are enough human opponents (and bosses) to warrant this, especially in the low to high epic levels.<br/>\n<br/>\nFE5 Elves - this is due to the rather deadly Drow that one will run into, and the occasional rebel elfess.<br/>\n<br/>\nIf anyone who knows WoG can think of a better selection of FEs (or maybe rearrange what I have here) feel free to chime in!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:49 AM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@Empyre, on your 2nd build (Pally 23/ Wm 7/ CoT 10), shuffle the feats around &amp; take \"extend spell\", it's a must with so many levels of Pally.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:24 PM - Sep 24, 2019",
+      "content": "<div>Good builds, Orion, both of them.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:47 AM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Vardalia wrote:</cite>\nThank you for the builds!! <strong>Although I am not a fan of spellcasters</strong>...</div></blockquote>\nI am surprised Stag hasn't come with flowers yet...\n</div></blockquote>\nAnother one that slipped under my radar (gods, I'm getting old). Still, welcome Vardalia - let's stick those spell-chuckers back in their box! Hit them hard and hit them often! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:39 PM - Sep 24, 2019",
+      "content": "<div>Web I think you are the expert on the FE topic here, :) particularly given this thread (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/favorite-favored-enemies-t4782.html\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/worldof ... t4782.html</a>)\u00a0but you have asked for an opinion, generally what you have posted looks good, in that order\u00a0<br/>\n<br/>\nWhat would I do however...<br/>\n<br/>\nInterestingly I would take human first. If I start in Hommlet, there are heaps of Bandits to fight, a tough cleric to kill in the Moathouse. then later in ToEE there are plenty of human enemies to kill.\u00a0<br/>\n<br/>\nSecond could be goblinoid, after level 5 one might spend some time in Borderkeep Goblin area, later Critwall<br/>\n<br/>\nThird could be Undead<br/>\n<br/>\nFourth Giants is a good choice. Maybe Vermin (<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Category:Vermin\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Category:Vermin</a>), or Aberration (<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Category:Aberrations\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Category:Aberrations</a>)\u00a0might be interesting. But I think overall Giants is what I would choose given there is a whole questline dedicated to defeating Giants<br/>\n<br/>\nFifth Elves sure, I haven't yet found my way to the Drow area yet but it sounds tough</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:25 AM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n@Empyre, on your 2nd build (Pally 23/ Wm 7/ CoT 10), shuffle the feats around &amp; take \"extend spell\", it's a must with so many levels of Pally.\n</div></blockquote>\n\nIn that case, take Extend Spell at 6, Mobility and Knockdown at 9, and Improved Knockdown at 18, basically exchanging Toughness for Extend Spell.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:48 PM - Sep 24, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>Good builds, Orion, both of them.</div></blockquote>\nThanks for your kind words Valerfor<br/>\n<br/>\nI actually think it would be better powergaming wise to take Dwarf as a race if Web goes for the pre-epic Ranger 20 levels, Cha is the dump stat here. Can drop Int to 13, keep Cons at 10 and put starting Str to 17, put all stat gains into Str and the ending Str will still be 28,\u00a0<br/>\n<br/>\nexcept instead one gets Dwarven goodies such as +2 to saves against spells and poison, bonus to search when indoors, darkvision, racial bonuses against Goblins, Giants Orcs, lore check bonus etc...\u00a0<br/>\n<br/>\nI had a look at Half-Orc on the NWN Wiki, and the racial bonuses are stats and darkvision which is very underwhelming in comparison</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:34 AM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You are a gentleman, thanks Empyre.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:34 PM - Jul 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is the new-and-improved Paladin of Bahamut, with less Sorcerer, More Paladin, and with Extend Spell:\n<details><summary>Spoiler</summary>\nPaladin of Bahamut 2 (Paladin 29 / Sorcerer 1 / Red Dragon Disciple 10)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 8\nWIS: 14\nCHA: 14 (20)\nLeveling Guide:\n01: Paladin(1): Weapon Focus: Longsword, Power Attack\n03: Paladin(3): Cleave\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Extend Spell\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Divine Shield\n17: Paladin(17)\n19: Paladin(19)\n21: Sorcerer(1): Epic Weapon Focus: Longsword\n23: Red Dragon Disciple(2): (STR=23)\n25: Red Dragon Disciple(4): (STR=27)\n27: Red Dragon Disciple(6): Great Strength II, (STR=28)\n29: Red Dragon Disciple(8)\n31: Red Dragon Disciple(10): {Darkvision}, (STR=34), (CHA=16)\n33: Paladin(22): Great Charisma I, (CHA=18)\n35: Paladin(24)\n37: Paladin(26): Epic Prowess\n39: Paladin(28): Epic Reflexes\n\nHitpoints: 518\nSaving Throws (Fortitude/Will/Reflex): 34/23/24\nBAB: 30\nAC (naked/mundane armor/shield only): 19/30\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Lore(1), Save(1)\n04: Discipline(1), Lore(1), Save(1)\n06: Discipline(1), Save(2)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(6)\n12: Discipline(1), Save(8)\n14: Discipline(1), Save(10)\n16: Discipline(1), Save(14)\n18: Discipline(1), Save(18)\n20: Discipline(1), Save(22)\n22: Discipline(1), Spellcraft(1), Tumble(1)\n24: Discipline(1), Spellcraft(1), Save(1)\n26: Discipline(1), Spellcraft(1), Save(1)\n28: Discipline(1), Spellcraft(1), Save(1)\n30: Discipline(1), Spellcraft(1), Save(1)\n32: Discipline(1), Tumble(2)\n34: Discipline(1), Tumble(2)\n36: Discipline(1), Lore(3)\n38: Discipline(1), Lore(3)\n40: Discipline(1), Lore(3)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "9:14 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about my knight of Yore? Can't link it right now from my phone, but Pal16/F2/WM22. It hits TRUE, just know CHA must be dumped for hitting power. It was awesome before holy sword nerf.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:28 AM - Sep 25, 2019",
+      "content": "<div>Dwarf might be a good selection!<br/>\n<br/>\nUp into the simo!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:21 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Never understood that Holy Sword nerf myself, they basically made it useless in 1.69 patch.<br/>\n<br/>\nCarsomyr &amp;\u00a0 Pale Justice would be ashamed of their little brothers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:47 AM - Sep 25, 2019",
+      "content": "<div>Web is on fire <span class=\"text-emoji\">\ud83d\udd25</span><br/>\n<br/>\n@ Orion, back in the 1st edition of Dungeons &amp; Dragons Half-Orcs gained both +1 Str &amp; +1 Con (the equivalent of +2/+2 today) in exchange for their drawbacks, but in the transition to the 3rd edition of the game they only got back half of it, because Strength is assumed to count for two stats instead of just one. And yes, Dwarves are pretty much the best race by far, even for mages. Half-Orcs pretty much only work for Pen &amp; Paper Barbarians where the lack of Intelligence don't hurt them so much &amp; they only want more Strength, they do everything with it. In Neverwinter Nights though, Barbarian Rage counts towards the ability cap, so they are at a net loss from this rule (it would have been so much better instead, to just gain dmg bonuses).</div>"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "12:52 PM - Sep 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Never understood that Holy Sword nerf myself, they basically made it useless in 1.69 patch.\n</div></blockquote>\nWhat Holy Sword nerf??? What was it before and what is it now?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:22 AM - Sep 26, 2019",
+      "content": "<div>This build is looking really good in the simo!<br/>\n<br/>\nSo off to give it the WoG experience!<br/>\n<br/>\nMy many thanks!</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:51 AM - Sep 26, 2019",
+      "content": "<div>Ok, I have done my testing - and this build is really, really good!<br/>\n<br/>\nIt by far outmatches my fighter/monk/wm build! <span class=\"text-emoji\">\ud83d\ude31</span><br/>\n<br/>\nAnd by that, I mean by over 10 AB!!!!<br/>\n<br/>\nThat is sick!<br/>\n<br/>\nOnly the AC suffers a bit (my build has 63 AC, this one with the same gear 62 AC).<br/>\n<br/>\nOf course, there is no Mind immunity (which could be a problem, but solvable), and no SR (which does tend to suck).<br/>\n<br/>\nThe damage output vs FEs is UNREAL!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:43 PM - Sep 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In Neverwinter Nights, The Holy Avenger dispelled magic with every strike (50% chance) at an opposite caster level <strong>equal to the experience level of the Character</strong>.<br/>\nAfter 1.69 Patch, it has a <strong>default caster level of 10</strong>. <br/>\nIt seems many people have problems to understand what a properly balanced \"fix\" is, going from full force to basically useless in one go. <br/>\n<br/>\nCarsomyr &amp; Pale Justice (BG II &amp; IWD, respectively) have the even more powerful AD&amp;D Holy Avenger properties, which, not only dispel magic at the experience level of the Paladin (and that should be the correct application of the rule, Paladin level &amp; not Character level) but also gave them a default 50% magic resistance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:43 PM - Sep 26, 2019",
+      "content": "<div>Your genuine excitement makes me smile as well, Web<br/>\n<em>So much so, that I'll forget that this is a woodpecker build with farm implements &amp; be stoic &amp; even supportive of your decision...</em><br/>\n<br/>\nGood hunting! <br/>\n<em>And may you find in your journeys, a legendary kama with 2d8 divine dmg, like the one I had on mine.</em></div>"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "5:52 PM - Sep 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>In Neverwinter Nights, The Holy Avenger dispelled magic with every strike (50% chance) at an opposite caster level <strong>equal to the experience level of the Character</strong>.<br/>\nAfter 1.69 Patch, it has a <strong>default caster level of 10</strong>. <br/>\nIt seems many people have problems to understand what a properly balanced \"fix\" is, going from full force to basically useless in one go. <br/>\n<br/>\nCarsomyr &amp; Pale Justice (BG II &amp; IWD, respectively) have the even more powerful AD&amp;D Holy Avenger properties, which, not only dispel magic at the experience level of the Paladin (and that should be the correct application of the rule, Paladin level &amp; not Character level) but also gave them a default 50% magic resistance!</div></blockquote>\nI'm so happy that driller (the owner) has fixed this on BSK, so there's a OnHit script that runs for Holy Avengers that dispells properly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:22 PM - Sep 26, 2019",
+      "content": "<div>Now that would be a nice thing to find!<br/>\n<br/>\nSadly, even after over a year of play, the ONLY kama that I have found of any interest has been socketable kamas!<br/>\n<br/>\nWhich are nice, but nowhere near as good as that legendary (I do hope it has keen).</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:52 PM - Sep 26, 2019",
+      "content": "<div>No, it wasn't anything else except 2d8 divine, BUT, with umd you can turn a twig, if you want, to +5, keen, flaming, on top of what already is, so it's fine, really. <br/>\n<br/>\nAnd, even if you don't have umd, you can still flame it &amp; keen it, with you know what...<br/>\n<br/>\nYou can also have a wizard-friend to make potions for you in case that you can't handle wands, anything is possible <span class=\"text-emoji\">\ud83d\ude09</span></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:41 PM - Sep 26, 2019",
+      "content": "<div>Oh, I know the non-UMD tricks!  :D<br/>\n<br/>\nIt's just that due to Dispel Spam, those properties get blown off these days, since becoming dispellable.<br/>\n<br/>\nStill, 2d6 (or was that 2d8?) is not too shabby!<br/>\n<br/>\nMy socket Kamas are better, surprisingly!<br/>\n<br/>\n+6 attack<br/>\n+5 enhanced<br/>\n+5 Divine<br/>\n+5 Sonic<br/>\nKeen<br/>\n+3 Vampiric regen<br/>\n<br/>\nI can Flame them for more!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:09 PM - Sep 26, 2019",
+      "content": "<div>So, a question.<br/>\n<br/>\nAfter now testing this build on WoG (it's amazing), I would like to write it up - I am thinking of calling it The Tunnel Warden.<br/>\n<br/>\nWhatcha all think?<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:00 PM - Sep 26, 2019",
+      "content": "<div>I'm looking at Monk level 7 and scratching my head.<br/>\n<br/>\nLevel 6 would really be enough - the ability to heal 14 points/day is...meh.<br/>\n<br/>\nSo that would free up one level for somewhere else - maybe Ranger 27? Might then let me take a 6th FE...<br/>\n<br/>\nThoughts?</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:17 PM - Sep 26, 2019",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote:</cite>I'm looking at Monk level 7 and scratching my head.<br/>\n<br/>\nLevel 6 would really be enough - the ability to heal 14 points/day is...meh.<br/>\n<br/>\nSo that would free up one level for somewhere else - maybe Ranger 27? Might then let me take a 6th FE...<br/>\n<br/>\nThoughts?</div></blockquote>\nIt's really to access Improved knockdown with Monk 6 before level 37, then tumble dump at the end, the 7th Monk level.<br/>\nIf you can live without it till late then overall Monk 6 would be a stronger level 40 build<br/>\nIf you can live without knockdown then Monk 2 would allow more free Ranger levels and bonus feats with monk two tumble dumps epic for Tumble 20 and Tumble 40 respectively</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:15 AM - Sep 27, 2019",
+      "content": "<div>Yes, but that would just be the same as going 6 Monk (improved. Knockdown is pretty good with high str - ESP against Mages, as this build has no SR).<br/>\n<br/>\nI think 6 Monk is best, so far.<br/>\n<br/>\nLeveling on WoG is easy, when one knows how.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:33 AM - Sep 27, 2019",
+      "content": "<div>Sounds like a good call on WoG!<br/>\n<br/>\nOther modules will usually end before 40, on WoG I get the impression it is just the beginning!</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:35 AM - Sep 27, 2019",
+      "content": "<div>Yeah, WoG gets really exciting on the high end of level 30...<br/>\n<br/>\nEspecially solo.<br/>\n<br/>\nThose Drow WILL make you howl!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:40 AM - Sep 27, 2019",
+      "content": "<div>The drow, yeah, this is an area that I offer Dev Crit absolution. <br/>\n<br/>\nAnd the kobolds, these little bast***s... Oh, how I laugh there when I have Hector (Pm). <br/>\n<br/>\nI wouldn't say though that WoG has too much play for VHL characters, it needs another epic quest for sure.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:52 AM - Sep 27, 2019",
+      "content": "<div>Well, there is the Underdark, Rary, and Mr. Secret Pants that wants his Rod back.<br/>\n<br/>\nSo that's some pretty good content.<br/>\n<br/>\nPlus some \"one off\" oodles of fun kind of encounters like AoO, WDK, and a certain Lich - and Mr. Icky, of course.<br/>\n<br/>\nI once hit him with a sword.<br/>\n<br/>\nOnce.<br/>\n<br/>\nBtw - some of the encounters have been \"beefed up\" by DM Wise, so you might want to give them a try again sometime.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:06 AM - Sep 27, 2019",
+      "content": "<div>Pants is short,<br/>\nSo, basically, UD &amp; Rary, <br/>\nAnd Rary, if you get there with level 34+ you have to get to the tower before you even start getting exp. <br/>\n\u00a0<br/>\nI think it needs a lengthy epic quest, put a dracolich there as the final enemy, a proper beefed-up one, if you must.<br/>\nOr a demon lord like Grazzt &amp; make a conection with Toee &amp; Zyg. <br/>\nOf course, that does require a lot of man-hours, but I would rather see an epic quest than another low-level one.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:26 AM - Sep 27, 2019",
+      "content": "<div>Well, one does have to get some parts to visit Mr. Secret Pants, so I consider it to be the longest quest of all on the Server  but YMMV.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     }
   ]
 }

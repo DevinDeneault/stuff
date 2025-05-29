@@ -4,59 +4,51 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "965",
-  "name": "Need Help with a build for an Arelith Beginner",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/need-help-with-a-build-for-an-arelith-beginner-t2354894.html",
-  "author": "TychoVelius",
-  "avatar": "10758924_1537379651.jpg",
-  "replies": 7,
+  "name": "Monk/Fighter/?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-fighter-t2354899.html",
+  "author": "SuperDuperCoolDude",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "295",
   "posts": [
     {
-      "author": "TychoVelius",
-      "avatar": "10758924_1537379651.jpg",
-      "timestamp": "4:06 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">1) PvM\u00a0<br/>\n<br/>\n2) Level cap - 30<br/>\n<br/>\n3) Race preference - Human, Wild Elf, or Wood Elf<br/>\n<br/>\n4) Class preference - Fighter and Druid came to mind, but I think Druid tends to be best with more levels, sooo.... Also, no RDD. It takes special permission, and I hate it.<br/>\n<br/>\n5) Melee preference - Two-handed sustained damage<br/>\n<br/>\n6) Range preference - Probably Zen, based on other factors. If I do ranged combat.<br/>\n<br/>\n7) Weapon preference - Greatsword or Halberd, because reach.<br/>\n<br/>\n8) Maximum item enhancement - This is the information I was able to dredge up.\u00a0<a class=\"postlink\" href=\"http://wiki.arelith.com/Enchantment_basin\" rel=\"noreferrer\" target=\"_blank\">http://wiki.arelith.com/Enchantment_basin</a><br/>\n<br/>\n9) Spellcasting - I don't know enough about Arelith to really have a strong idea here. My thought is that since they cap certain buffs, I should probably want a bit more of a mix of offense and buff spells. I'd like an elemental or naturalistic focus.<br/>\n<br/>\n10) Custom factors - Arelith, and everything that entails.<br/>\n<br/>\n<br/>\nLooking for a woodsy reach fighter with some spellcasting for versatility. Playable from 3+, since Arelith does at least start you at 3, it just takes hours to get to 4.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "SuperDuperCoolDude",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:46 PM - Jun 16, 2018",
+      "content": "<div>Hey I am wondering what you think would be the ideal mix for a strength based unarmed monk to take through Aielund Saga or otherwise. I am planning 4 levels of fighter for weapon specialization and the bonus feats. I also plan to take at least 4 full BAB levels pre 20 for the max number of attacks. I will probably do the usual skills like discipline, persuade, lore and I may try heal for ease of hit point replenishment. I would probably take at least 16 or 20 monk. I am thinking either human or dwarf, leaning towards dwarf since anyway the build goes I am not dying for skill points or an extra feat. My two main options are:<br/>\n<br/>\nCoT: This gives a great saving throw bonus, 5 bonus feats in 10 levels, and continues to be a good investment if I want to only take 20 monk. I am not sure how beneficial the saving throw bonuses would be, as monks have pretty awesome saving throws anyway. The bonus feat list is also kinda eh, since monks already get knock down, cleave and improved knockdown. If I want to go for the epic critical feats though the early bonus feats would be nice for meeting those requirements while also picking up the better general feats. I am not crazy about the critical feats though as an unarmed monk doesn't make great use of them. I would have to take a random melee weapon focus to qualify too CoT can take great wisdom as an epic bonus feat though which is nice.<br/>\n<br/>\nDD: This gives d12 for hitpoints, damage soak, immunity to flanking, and defensive stance. This is tankier minus the lower saving throws. There's also 5 missing bonus feats which could be pretty unfortunate.<br/>\n<br/>\nAlternatively, I suppose I could just do CoT/DD/Monk and skip the 4 fighter levels. I would lose 6 damage per hit though, and epic fighters still get a bonus feat every two levels which is handy. Also, since the circle kick bug is fixed in EE I am wondering if it is worthwhile. I know switching targets might be annoying, but an extra attack a round (at full AB right?) seems pretty potent.<br/>\nAny suggestions?</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:32 PM - Jun 16, 2018",
+      "content": "<div>Hi CoolDude (sorry, but there is no way \"super\" and \"duper\" are going to feature ;)) and welcome!<br/>\n<br/>\nEmpyre's your main man here, and I'm a bit rushed atm, but I would seriously point to his Order of the Wyrm build, which is a Monk 25/ Sorcerer 1/ RDD 14 construction and is mighty indeed. Now, there have been several iterations of it, so I'll let him offer the most suitable. You really won't miss EWS.<br/>\n<br/>\nSorry, have to dash<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:01 AM - Jun 17, 2018",
+      "content": "<div>Here are two Monk builds that I have played in Aielund. Both were a lot of fun.<br/>\nThe first one is the Order of the Wyrm build that Stag mentioned:\n<details><summary>Spoiler</summary>\nOrder of the Wyrm 18 (Monk 25 / Sorcerer 1 / Red Dragon Disciple 14)\nPlayable 1 - 40, PvM\n\nSTR: 16 (40)\nCON: 14 (16)\nINT: 10 (12)\n\nHuman: (Quick to Master)\n02: Monk(2): {Deflect Arrows}\n04: Monk(4): STR+1, (STR=17)\n06: Monk(6): Blind Fight, {Knockdown, Improved Knockdown}\n08: Monk(8): STR+1, (STR=18)\n10: Monk(10)\n12: Monk(12): STR+1, Toughness, (STR=19)\n14: Monk(14)\n16: Sorcerer(1): STR+1, (STR=20)\n18: Red Dragon Disciple(2): Lightning Reflexes, (STR=22)\n20: Red Dragon Disciple(4): STR+1, (STR=25)\n22: Monk(16)\n24: Red Dragon Disciple(7): STR+1, Great Strength I, (STR=27), (CON=16)\n26: Red Dragon Disciple(9): (INT=12)\n28: Red Dragon Disciple(10): STR+1, {Darkvision}, (STR=33), (CHA=10)\n30: Monk(19): Great Strength III, (STR=34)\n32: Monk(21): STR+1, (STR=35)\n34: Monk(22)\n36: Monk(23): STR+1, Great Strength V, (STR=38)\n38: Red Dragon Disciple(13)\n40: Red Dragon Disciple(14): STR+1, Epic Prowess, (STR=40)\nStats:\nSkillpoints: 199\nSaving Throw bonuses: Spells: +6, Mind Effects: +2\nAB (max, naked): 43 (melee), 27 (ranged)\nSpell Casting: \n\nConcentration 34(37), Discipline 43(58), Listen 43(45), Lore 10(11), Spellcraft 29(30), Tumble 40(42)\n01: Concentration(4), Discipline(4), Listen(4), Lore(4), Tumble(4)\n03: Concentration(1), Discipline(1), Listen(1), Lore(1), Tumble(1)\n05: Concentration(1), Discipline(1), Listen(1), Lore(1), Tumble(1)\n07: Concentration(1), Discipline(1), Listen(1), Lore(1), Tumble(1)\n09: Concentration(1), Discipline(1), Listen(1), Tumble(1), Save(2)\n11: Concentration(1), Discipline(1), Listen(1), Tumble(1), Save(4)\n13: Concentration(1), Discipline(1), Listen(1), Tumble(1), Save(6)\n15: Concentration(1), Discipline(1), Listen(1), Save(9)\n17: Concentration(1), Discipline(2), Listen(2)\n19: Discipline(1), Listen(1), Save(1)\n21: Discipline(1), Listen(1), Save(3)\n23: Concentration(1), Discipline(1), Listen(1)\n25: Concentration(1), Discipline(1), Listen(1)\n27: Discipline(1), Listen(1), Tumble(5)\n29: Concentration(1), Discipline(1), Listen(1), Tumble(4)\n31: Discipline(1), Listen(1), Tumble(1), Save(3)\n33: Discipline(1), Listen(1), Spellcraft(9)\n35: Discipline(1), Listen(1), Spellcraft(2)\n37: Concentration(1), Discipline(1), Listen(1), Tumble(1), Save(2)\n39: Concentration(2), Discipline(1), Listen(1), Save(2)</details>\nThe second one is a DEX-based unarmed Monk with Epic Dodge that I played more recently:\n<details><summary>Spoiler</summary>\nNimble Fist 1a (Monk 25 / Fighter 10 / Shadowdancer 5)\nPlayable 1 - 40, PvM\n\nSTR: 14\nCON: 12\nINT: 12\n\nHuman: (Quick to Master)\n02: Monk(2): {Deflect Arrows}\n04: Monk(4): DEX+1, (DEX=19)\n06: Monk(6): Weapon Focus: Unarmed, {Knockdown, Improved Knockdown}\n08: Monk(8): DEX+1, (DEX=20)\n10: Monk(10)\n12: Monk(12): DEX+1, Improved Critical: Unarmed, (DEX=21)\n14: Monk(14)\n16: Fighter(1): DEX+1, Dodge, (DEX=22)\n18: Fighter(2): Iron Will, Mobility\n20: Fighter(4): DEX+1, Weapon Specialization: Unarmed, (DEX=23)\n22: Shadowdancer(2): {Darkvision, Uncanny Dodge I}\n24: Fighter(6): DEX+1, Great Dexterity II, Epic Weapon Focus: Unarmed, (DEX=26)\n26: Shadowdancer(4)\n28: Fighter(7): DEX+1, (DEX=27)\n30: Monk(17): Armor Skin\n32: Monk(19): DEX+1, (DEX=28)\n34: Fighter(9)\n36: Monk(21): DEX+1, Great Dexterity III, (DEX=30)\n38: Monk(23)\n40: Monk(25): DEX+1, Improved Spell Resistance I, (DEX=32)\nStats:\nSkillpoints: 248\nSaving Throw bonuses: Spells: +4, Mind Effects: +2, Traps: +1, Death: +1\nAB (max, naked): 41 (melee), 38 (ranged)\nSpell Casting: \n\nAppraise 2(3), Concentration 43(44), Discipline 43(45), Hide 10(21), Listen 43(42), Lore 19(20), Move Silently 8(19), Spellcraft 19(20), Tumble 40(51)\n01: Appraise(2), Discipline(4), Listen(4), Lore(4), Spellcraft(2), Tumble(4)\n03: Discipline(1), Listen(1), Lore(1), Spellcraft(1), Tumble(1)\n05: Discipline(1), Listen(1), Lore(1), Spellcraft(1), Tumble(1)\n07: Discipline(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Tumble(1)\n09: Discipline(1), Hide(1), Listen(1), Lore(1), Move Silently(1), Tumble(1)\n11: Discipline(1), Listen(1), Lore(1), Spellcraft(1), Tumble(1)\n13: Discipline(1), Listen(1), Lore(1), Spellcraft(1), Tumble(1)\n15: Discipline(1), Listen(1), Lore(1), Spellcraft(1), Tumble(1)\n17: Discipline(1), Hide(2), Listen(2), Move Silently(2), Tumble(2)\n19: Concentration(3), Discipline(1)\n21: Listen(4), Tumble(4)\n23: Concentration(3), Discipline(3)\n25: Listen(3), Spellcraft(1), Tumble(3)\n27: Listen(1), Spellcraft(1), Tumble(1), Save(10)\n29: Concentration(2), Discipline(1), Save(1)\n31: Concentration(1), Discipline(1), Listen(1), Spellcraft(1), Tumble(1)\n33: Concentration(1), Discipline(1), Listen(1), Spellcraft(1), Tumble(1)\n35: Discipline(1), Spellcraft(1), Save(1)\n37: Concentration(3), Discipline(1), Listen(1), Tumble(1)\n39: Concentration(4), Discipline(1), Listen(1)</details></div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:23 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey man, did you look at out sub-forum for 30th level builds yet? With just a glance I spotted seven different builds there with the \"Arelith\" keyword in front of them. And if you actually use the search function you will find a lot more threads with builds in them for that PW. If you want something out of the box though, we will be glad to help you.<br/>\n<br/>\n<strong>level 30 builds</strong> =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mid-epic-level-30-builds-f7/\" rel=\"noreferrer\" target=\"_blank\">mid-epic-level-30-builds-f7/</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:12 PM - Jun 17, 2018",
+      "content": "<div>Empyre you forgot your \"Wall of Blades\". You could run that as unarmed easily with the gloves Aielund has.</div>"
     },
     {
-      "author": "TychoVelius",
-      "avatar": "10758924_1537379651.jpg",
-      "timestamp": "4:30 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did look there, nothing seemed quite what I was looking for. I might be interpreting builds wrong, or I might be too picky, or I might be looking for an archetype that doesn't really play well in NWN, but searching didn't bring me anything that seemed to fit the concept.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TychoVelius",
-      "avatar": "10758924_1537379651.jpg",
-      "timestamp": "4:52 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Barbarian is an acceptable substitute for Fighter. Might fit the theme better, as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:44 AM - Jun 18, 2018",
+      "content": "<div>If you want to be an unarmed Monk / Fighter / DD, Order of the Stone Fist would be better than Wall of Blades, with the full d20 damage.\n<details><summary>Spoiler</summary>\nOrder of the Stone Fist 2 (Monk 20 / Fighter 6 / Dwarven Defender 14)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 16 (32)\nWIS: 14\nCHA: 6\nLeveling Guide:\n01: Monk(1): Power Attack, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Fighter(1): Weapon Finesse, Weapon Focus: Unarmed\n05: Monk(3)\n07: Monk(5)\n09: Fighter(3): Mobility\n11: Monk(7)\n13: Monk(9): {Improved Evasion}\n15: Monk(11): Toughness\n17: Monk(13)\n19: Monk(15)\n21: Fighter(5): Epic Weapon Focus: Unarmed\n23: Fighter(6): Epic Weapon Specialization: Unarmed\n25: Dwarven Defender(2): {Defensive Awareness I}\n27: Monk(18): Great Dexterity II, (DEX=24)\n29: Dwarven Defender(5)\n31: Dwarven Defender(7)\n33: Dwarven Defender(8): Great Dexterity IV, (DEX=28)\n35: Dwarven Defender(10)\n37: Monk(20)\n39: Dwarven Defender(13): Great Dexterity VI, (DEX=31)\n\nHitpoints: 508\nSaving Throws (Fortitude/Will/Reflex): 26/25/32\nBAB: 26\nAC (naked/mundane armor/shield only): 37/37\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Listen(1), Lore(1), Tumble(1), Save(1)\n04: Discipline(1), Save(2)\n06: Discipline(1), Listen(1), Lore(1), Tumble(2)\n08: Discipline(1), Listen(1), Spellcraft(1), Tumble(1)\n10: Discipline(1), Save(2)\n12: Discipline(1), Listen(1), Spellcraft(1), Tumble(1)\n14: Discipline(1), Listen(1), Tumble(1), Save(2)\n16: Discipline(1), Listen(1), Tumble(1), Save(4)\n18: Discipline(1), Listen(1), Tumble(1), Save(6)\n20: Discipline(1), Listen(1), Tumble(1), Save(8)\n22: Discipline(1), Listen(2), Tumble(2), Save(8)\n24: Discipline(1), Listen(2), Save(8)\n26: Discipline(1), Listen(1), Save(8)\n28: Discipline(1), Listen(1), Save(5)\n30: Discipline(1), Listen(1), Save(5)\n32: Discipline(1), Listen(1), Tumble(5), Save(2)\n34: Discipline(1), Listen(1), Save(2)\n36: Discipline(1), Listen(1), Save(2)\n38: Discipline(1), Listen(1), Lore(1)\n40: Discipline(1), Listen(1), Lore(1)\n</details></div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:21 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What exactly is not to your style in this build?<br/>\n<br/>\nArelith Weapon-Master =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-sword-master-fighter-10-rogue-4-weapon-mas-t2354396.html#p785\" rel=\"noreferrer\" target=\"_blank\">arelith-sword-master-fighter-10-rogue-4 ... .html#p785</a><br/>\n<br/>\nHe is a human, with big, sustained damage, a fighter-weapon-master (the ideal form of a fighter) and you can change his weapon to whatever you like, take a greatsword and you will hit even harder. He even has UMD so he can use magical scrolls &amp; other devices. More than that, rogue also provide him with evasion &amp; full tumble for better armour class. Making him a barbarian is more a matter of how you present him rather that of the build. This build has absolutely top-notch AB &amp; Damage, it is designed specifically for that. Perhaps if you could explain us better why this isn't to your liking then we should be able to help you more.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TychoVelius",
-      "avatar": "10758924_1537379651.jpg",
-      "timestamp": "5:28 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, I was overlooking UMD as a casting alternative.<br/>\n<br/>\nYeah, that should work.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:49 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Glad you like it!<br/>\n<br/>\nThis character armed with a halberd will be devastating to his opponents (X4 criticals).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TychoVelius",
-      "avatar": "10758924_1537379651.jpg",
-      "timestamp": "5:55 AM - Jun 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Could do spear and shield as well, if I'm reading the Arelith changes right, just gives up the bonus strength damage for two-handing, and the +2 AB for the same.<br/>\n<br/>\nDecent tradeoff.<br/>\n<br/>\nWith a build lined up, any suggestions on getting started in Arelith? Skal or Cordor? It's possible it's just supposed to be this slow, and I'm not used to it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:56 AM - Jun 18, 2018",
+      "content": "<div>Aye, that was the one I had in mind, strong AC and UD to protect it with some DR on the top.</div>"
     }
   ]
 }

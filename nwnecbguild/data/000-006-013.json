@@ -4,257 +4,84 @@
   "forum_name": "Full Epic - Level 40 Builds",
   "forum_id": "006",
   "id": "013",
-  "name": "Devastator Priest: Cleric 26/ Monk 4/ CoT 10",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/devastator-priest-cleric-26-monk-4-cot-10-t2355164.html",
-  "author": "Dagger",
-  "avatar": "10235235_1549015559.jpg",
-  "replies": 40,
+  "name": "RAIGEKI - The Lightning Strike: (MONK 20/ FTR 4/ WM 16)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/raigeki-the-lightning-strike-monk-20-ftr-4-wm-16-t2350856.html",
+  "author": "Valerfor",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": "11",
+  "views": "13.7K",
   "posts": [
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:30 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is a Battle Cleric with Devastating Critical.<br/>\n<br/>\nI have seached the old and new archives after a similar build. In the old archives there are few strength builds with this class combination and none that have Dev crit. With our new ECB filter (beta) there came up four builds with cleric and Dev crit: We have the Blade Juggernaut and Chaos Harbinger from the Legacy builds. Then we have Orion's <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/unholy-hurricane-of-death-c-13-m-2-bg-25-10-attks--t2355065.html\" rel=\"noreferrer\" target=\"_blank\">Unholy Hurricane of Death</a>. The build that structurally is closest to mine is Mithdradates' <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/hierophant-of-velsharoon-cleric-26-bard-4-palemast-t2354621.html\" rel=\"noreferrer\" target=\"_blank\">Hierophant of Velsharoon\u00a0</a> even if it is a bard/PM build and as such has other qualities. <br/>\n<br/>\nThe Devastator priest is built as a combat cleric with focus on reaching an undispellable level without too much delay. Monk adds class skills, better saves, Evasion and Cleave as a bonus feat. CoT gives the Martial proficiency, improves the saves and adds much needed feats. A high Fortitude save protects in a Dev crit environment. I have focused on maintaining BAB+15 at level 20 for full effect of Divine pover. AB will not be a problem with clerics anyway since they can buff to the cap. As for domains, I chose Trickery and Travel. Trickery is there for access to the Improved invisibility spell with 50% concealment. Feel free to choose something else than Travel if there are perma-haste items available. The skill points in Heal are not essential for the build idea, so put them where you want.<br/>\n<br/>\nPros: Power, <span style=\"font-size:100%;line-height:normal\">POWER,</span> <span style=\"font-size:150%;line-height:normal\">POWER, <span style=\"font-size:175%;line-height:normal\">POWER</span></span><br/>\nCons: If you think Cleric with Dev Crit is too overpowered.<br/>\n<br/>\n<br/>\nCleric(26), Monk(4), Champion of Torm(10), Human<br/>\nAlignment: LG, LN<br/>\nBest in mid- and low magic environments<br/>\n<br/>\nSTR: 16 (30)<br/>\nDEX: 8<br/>\nCON: 12<br/>\nWIS: 16 (20)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n01: Cleric(1): Knockdown, Extend Spell, Domain Trickery, Domain Travel<br/>\n02: Cleric(2): <br/>\n03: Cleric(3): Weapon Focus: Morning Star<br/>\n04: Cleric(4): STR+1, (STR=17)<br/>\n05: Cleric(5)<br/>\n06: Cleric(6): Blind Fight<br/>\n07: Monk(1): {Cleave, Evasion}<br/>\n08: Cleric(7): STR+1, (STR=18)<br/>\n09: Cleric(8): Empower Spell<br/>\n10: Cleric(9)<br/>\n11: Cleric(10)<br/>\n12: Champion of Torm(1): WIS+1, Weapon Focus: Scimitar, (WIS=17)<br/>\n13: Cleric(11)<br/>\n14: Cleric(12)<br/>\n15: Cleric(13): Improved Critical: Scimitar<br/>\n16: Cleric(14): WIS+1, (WIS=18)<br/>\n17: Monk(2):<br/>\n18: Cleric(15): Power Attack<br/>\n19: Cleric(16)<br/>\n20: Champion of Torm(2): WIS+1, Great Cleave, (WIS=19)<br/>\n21: Cleric(17): Great Strength I, (STR=19)<br/>\n22: Cleric(18)<br/>\n23: Cleric(19)<br/>\n24: Cleric(20): STR+1, Great Strength II, (STR=21)<br/>\n25: Cleric(21)<br/>\n26: Cleric(22)<br/>\n27: Monk(3): Great Strength III, (STR=22)<br/>\n28: Cleric(23): STR+1, Armor Skin, (STR=23)<br/>\n29: Cleric(24)<br/>\n30: Champion of Torm(3): Great Strength IV, {Smite Evil}, (STR=24)<br/>\n31: Champion of Torm(4): Overwhelming Critical: Scimitar<br/>\n32: Champion of Torm(5): STR+1, (STR=25)<br/>\n33: Champion of Torm(6): Great Strength V, Devastating Critical: Scimitar, (STR=26)<br/>\n34: Champion of Torm(7)<br/>\n35: Champion of Torm(8): Epic Weapon Focus: Scimitar<br/>\n36: Champion of Torm(9): STR+1, Great Strength VI, (STR=28)<br/>\n37: Monk(4)<br/>\n38: Cleric(25)<br/>\n39: Champion of Torm(10): Great Strength VII, Epic Prowess, (STR=29)<br/>\n40: Cleric(26): STR+1, Great Wisdom I, (STR=30), (WIS=20)<br/>\n<br/>\nHitpoints: 380<br/>\nSaving Throws (Fortitude/Will/Reflex): 32/33/25<br/>\nSaving Throw bonuses: Spells: +9, Mind Effects: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 39 (melee), 25 (ranged)<br/>\nDev crit DC: 40<br/>\nAC (naked/mundane armor/shield only): 24/30<br/>\nSpell Casting: Cleric(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkillpoints: 223<br/>\nConcentration 43(44), Discipline 42(52), Heal 15(20), Listen 40(45), Spellcraft 43(45), Tumble 40(39)<br/>\n<br/>\n01: Concentration(4), Heal(4), Spellcraft(3), Save(9), <br/>\n02: Concentration(1), Save(13), <br/>\n03: Concentration(1), Save(17), <br/>\n04: Concentration(1), Save(21), <br/>\n05: Concentration(1), Spellcraft(5), Save(20), <br/>\n06: Concentration(1), Save(24), <br/>\n07: Concentration(1), Discipline(10), Listen(10), Tumble(10), <br/>\n08: Concentration(1), Heal(2), Save(2), <br/>\n09: Concentration(1), Save(6), <br/>\n10: Concentration(1), Spellcraft(5), Save(5), <br/>\n11: Concentration(1), Save(9), <br/>\n12: Discipline(5), Save(9), <br/>\n13: Concentration(2), Save(12), <br/>\n14: Concentration(1), Save(16), <br/>\n15: Concentration(1), Spellcraft(5), Save(15), <br/>\n16: Concentration(1), Save(19), <br/>\n17: Concentration(1), Discipline(5), Listen(10), Tumble(10), <br/>\n18: Concentration(1), Heal(2), Save(2), <br/>\n19: Concentration(1), Save(6), <br/>\n20: Discipline(3), Save(8), <br/>\n21: Concentration(2), Spellcraft(5), Save(6), <br/>\n22: Concentration(1), Save(10), <br/>\n23: Concentration(1), Save(14), <br/>\n24: Concentration(1), Save(18), <br/>\n25: Concentration(1), Spellcraft(5), Save(17), <br/>\n26: Concentration(1), Save(21), <br/>\n27: Concentration(1), Discipline(7), Listen(10), Tumble(10), <br/>\n28: Concentration(1), Heal(4), <br/>\n29: Concentration(1), Heal(2), Save(2), <br/>\n30: Discipline(3), Save(4), <br/>\n31: Discipline(1), Save(8), <br/>\n32: Discipline(1), Save(12), <br/>\n33: Discipline(1), Save(16), <br/>\n34: Discipline(1), Save(20), <br/>\n35: Discipline(1), Save(24), <br/>\n36: Discipline(1), Save(28), <br/>\n37: Concentration(8), Discipline(1), Listen(10), Tumble(10), Save(6), <br/>\n38: Concentration(1), Spellcraft(10), <br/>\n39: Discipline(2), Heal(1), Save(2), <br/>\n40: Concentration(2), Spellcraft(5),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:56 AM - Mar 06, 2014",
+      "content": "<div>Another Sword Saint for your consideration,<br/>\n<br/>\nMind you, this one is a bit more aggressive though. Taken directly from the Lion' Pride Berserkers this warrior will destroy anything ih her path in quick succession.<br/>\n<br/>\n16 Wmaster lvls boost her AB to a net 45 &amp; this comes along with devastating critical.<br/>\n<br/>\nShe still has good saves, the speed of a hurricane, full stealth abilities for Alpha strikes (IKD-Dev. Criticals) with her No-Dachi and a moderate ammount of 30 SR to resist the dabblers in magical arts.<br/>\n<br/>\nAnd of course she is immune to many things, other warriors would fail. Things like the fear of a dragon or a stun from a spellcaster are beneath her, she just ignores them while she delivers the punishment.<br/>\n<br/>\nHere she is,<br/>\n<br/>\n<br/>\n<strong>RAIGEKI  \u2013 (Lightning Strike)</strong><br/>\n<br/>\n<strong>(MONK 20/ FTR 4/ WM 16)</strong><br/>\n<br/>\n<br/>\n RACE: Human (female)<br/>\n<br/>\n ALIGNMENT: Lawful Neutral (smite proof)<br/>\n<br/>\n PLAYABILITY: PvM 1-40<br/>\n<br/>\n<strong>STARTING STATS</strong>:<br/>\n STR  - 17<br/>\n DEX - 14<br/>\n CON - 12<br/>\n INT   - 13<br/>\n WIS  - 10<br/>\n CHA - 08<br/>\n<br/>\n<strong>ENDING STATS</strong>:<br/>\n STR  -  30<br/>\n DEX  - 14<br/>\n CON  - 12<br/>\n INT    - 13<br/>\n WIS   - 10<br/>\n CHA  - 08<br/>\n<br/>\n Hit Points: 400<br/>\n<br/>\n Skill Points: 218<br/>\n<br/>\n Discipline: 43 (53)<br/>\n Tumble: 40 (42)<br/>\n Spellcraft: 19 (20)<br/>\n Intimidate: 4 (3)<br/>\n Heal: 3 (3)<br/>\n Hide: 43 (45)<br/>\n Move Silently: 43 (45)<br/>\n<br/>\n Saving Throws (Fort/Ref/Will):  26/ 22/ 20  \u2192  30/ 26/ 24  (saves Vs spells)<br/>\n<br/>\n Naked AC: 26 (mundane clothes)<br/>\n<br/>\n BAB: 28 {Four attacks with her No-Dachi &amp; Six attacks Unarmed}<br/>\n<br/>\n AB:  +45/ +40/ +35/ +30  (No-Dachi)<br/>\n<br/>\n DMG: 2D6 +22 / 15-20 X3  (No-Dachi) &amp; (2D6 Massive Criticals) &amp; (Devastating Critical DC 40)<br/>\n<br/>\n<br/>\n<strong>LEVELING GUIDE</strong>:<br/>\n<br/>\n01) Monk (01): Dodge. Mobility, Cleave, Evasion<br/>\n02) Fighter (01): WF: No-Dachi<br/>\n03) Fighter (02): Expertise, Spring Attack<br/>\n04) Fighter (03): <br/>\n05) Monk (02): Deflect Arrows<br/>\n06) Monk (03): Blind Fighting <br/>\n07) Monk (04): <br/>\n08) Monk (05): Immune to Disease<br/>\n09) Monk (06): Whirlwind Attack, IKD<br/>\n10) Weapon Master (01): <br/>\n11) Weapon Master (02): <br/>\n12) Monk (07): Improved Critical: No-Dachi<br/>\n13) Weapon Master (03): <br/>\n14) Weapon Master (04): <br/>\n15) Weapon Master (05): Power Attack<br/>\n16) Weapon Master (06): <br/>\n17) Monk (08): <br/>\n18) Weapon Master (07): Great Cleave<br/>\n19) Weapon Master (08): <br/>\n20) Weapon Master (09): <br/>\n21) Weapon Master (10): EWF: No-Dachi<br/>\n22) Monk (09): Improved Evasion<br/>\n23) Weapon Master (11): <br/>\n24) Weapon Master (12): Great Strength I<br/>\n25) Weapon Master (13): Overwhelming Critical<br/>\n26) Monk (10): <br/>\n27) Fighter (04): WS: No-Dachi, EWS: No-Dachi<br/>\n28) Monk (11): Immune to Poisons<br/>\n29) Monk (12): <br/>\n30) Monk (13): Devastating Critical<br/>\n31) Monk (14): <br/>\n32) Monk (15): <br/>\n33) Monk (16): Armour Skin<br/>\n34) Monk (17): <br/>\n35) Monk (18): Empty Body 2/Day<br/>\n36) Monk (19): Great Strength II<br/>\n37) Monk (20): Mind Effects Immunity<br/>\n38) Weapon Master (14): <br/>\n39) Weapon Master (15): Great Strength III<br/>\n40) Weapon Master (16): Epic Prowess<br/>\n<br/>\n<strong>SPECIAL NOTES</strong>: <br/>\n<br/>\n160% Speed (multiplied by haste)<br/>\n<br/>\nSpell Resistance 30<br/>\n<br/>\nStealth abilities<br/>\n<br/>\nImproved Evasion<br/>\n<br/>\nWholeness of body 40 hp/day<br/>\n<br/>\nImmune to disease &amp; Poisons<br/>\n<br/>\nImmune to fear, charm, daze, stun, confusion, domination, bigby's VI, sleep, bane and lots of other harmful effects<br/>\n<br/>\nTwice a day etherealness for 20 Rounds each (undispellable 50% concealment)<br/>\n<br/>\nDamage reduction 20/+1<br/>\n<br/>\nStunning fist 25/ day \u2013 DC 30 (36)<br/>\n<br/>\nEven unarmed she hits for 1d20 +10 with as many as 7 attacks per round and with a 39 AB<br/>\n<br/>\n<br/>\n<strong>COMBAT OPTIONS</strong>: Improved Knockdown, Expertise, Great Cleave, Whirlwind Attack<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imageshack.com/a/img38/2896/ceaq.jpg\"/></div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:11 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now that's what I'm talking about! I reckon even I could play this one, Mick. And how many builds do you know where the Dev Crit DC is higher than the AB? I know that's only on paper, but still, kewl!<br/>\n<br/>\nI like it so much that I've only got 1 question. Much as I love Morning Star - and I do, underrepresented as it is in terms of quality ones available in many environments - I assume you're taking it purely to open up CoT for you. Thus, is it maybe better focusing in it later: say at level 9 rather than 3? Is that +1AB better than earlier Blind Fight and Empower? You'll know better than I, but I merely ask for clarification.<br/>\n<br/>\nI did have a second question, but realized it was stupid because I answered it myself while I was typing it. At least it shows I'm both learning and paying attention!<br/>\n<br/>\nA more than welcome addition to the canon. (See what I did there? Canon...cleric...Oh, suit yourselves.) <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:27 AM - Jul 13, 2014",
+      "content": "<div>They REALLY should have made the Katana a 2-hander.  That being said, I have made a few \"Kensai\" Warrior/Monks and I generally start them on the warrior level and do the first monk at level 2 (they get the extra AC from Tumble 5 and usually don't need Evasion at Level 1.  If you've even played the \"Ronin: Kensai of Kyoto\" module the No-Dachi animations are cool!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:16 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, someone had to do the right thing. <br/>\nWe begged BC for a moon or two - I heard he would be ready by Christmas, then we laid-down some sample builds about powerful Clerics with CoT ourselves, but none of us made the leap &amp; put those things in their correct place, except Mick. And Mick dagger, being the revolutionary that he is, did it with Monk as a tertiary class, not because its necessarily better, but because he can. And it works flawlessly! <br/>\nI have a build of mine of course, (Joan of Arc), that does have Dev Crit &amp; all, but it's buried in the unfinished section of the ECB, so she doesn't count. <br/>\nOh, &amp; about the \"Power\" thing...Nobody does it better than JC, not even the Emperor Palpatine, himself. See for yourself,<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://m.quickmeme.com/img/fc/fc3646a02beca4bbf6c05e711f81c0eb354d253149028d9ce0fca9def3aaf63a.jpg\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:05 PM - Jul 27, 2014",
+      "content": "<div>They messed up many things, not only the weapons but at least in servers with CEP you can always craft your Greatsword to look like a No-Dachi (this is what i have done). Yeah i know that's not ideal either but it is the only option we have for a two-handed katana. Ideally katana should be a finessable weapon and it is much-much better represented in systems that is not D20 but D10 (Legend of the Five Rings R.P.G), there you use your agility to hit someone and katana gives you an initiative bonus as well because it is so fast a weapon.<br/>\n<br/>\n You are right about the evasion, normally you don't need that at first level, but this way i could take more skill points Fist.<br/>\n<br/>\n It is always nice to see fellow Kensai enthusiasts!</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:45 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>We begged BC for a moon or two - I heard he would be ready by Christmas, then we laid-down some sample builds about powerful Clerics with CoT ourselves, but none of us made the leap &amp; put those things in their correct place, except Mick. And Mick dagger, being the revolutionary that he is, did it with Monk as a tertiary class, not because its necessarily better, but because he can. And it works flawlessly! <br/>\nI have a build of mine of course, (Joan of Arc), that does have Dev Crit &amp; all, but it's buried in the unfinished section of the ECB, so she doesn't count. </div></blockquote>\nWell, go find the Maid of Orleans and give her a skills schedule - then we can bring her to the races! (Iirc, there was another one of yours around the same time who also got moved. Though, to be fair, I think Hip finally snapped after filling in schedules for many, many other builds in short order when pulling the Filter together. I'd have just moved them, but he's nicer than me.)<br/>\nBlack Cobra is, of course, still more than welcome to post his build - I tried nudging him once already. He'd initially said he'd do it in a month (nearly two months ago). It was kalistez who mockingly suggested it'd be ready by Christmas - and then didn't even specify Christmas of which year.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:00 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>Now that's what I'm talking about! I reckon even I could play this one, Mick. And how many builds do you know where the Dev Crit DC is higher than the AB? I know that's only on paper, but still, kewl!<br/>\n<br/>\nI like it so much that I've only got 1 question. Much as I love Morning Star - and I do, underrepresented as it is in terms of quality ones available in many environments - I assume you're taking it purely to open up CoT for you. Thus, is it maybe better focusing in it later: say at level 9 rather than 3? Is that +1AB better than earlier Blind Fight and Empower? You'll know better than I, but I merely ask for clarification.<br/>\n<br/>\nI did have a second question, but realized it was stupid because I answered it myself while I was typing it. At least it shows I'm both learning and paying attention!<br/>\n<br/>\nA more than welcome addition to the canon. (See what I did there? Canon...cleric...Oh, suit yourselves.) <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nLet me hear how you fare if you try the build.<br/>\nI guess you can swap the early feats if you like. I put it the way I did because I wanted that +1 AB sooner rather  than later. As for BF, it is my impression that I seldom come across concealed creatures before level 6.\n<details><summary>Spoiler</summary>Empower comes at Cleric level 8, just before you get level 5 spells. The thinking is that you don't want to put empowered level 2 spells on level 4 slots before you can extend Divine power.\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:06 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Yeah, someone had to do the right thing. <br/>\nWe begged BC for a moon or two - I heard he would be ready by Christmas, then we laid-down some sample builds about powerful Clerics with CoT ourselves, but none of us made the leap &amp; put those things in their correct place, except Mick. And Mick dagger, being the revolutionary that he is, did it with Monk as a tertiary class, not because its necessarily better, but because he can. And it works flawlessly! <br/>\nI have a build of mine of course, (Joan of Arc), that does have Dev Crit &amp; all, but it's buried in the unfinished section of the ECB, so she doesn't count. <br/>\nOh, &amp; about the \"Power\" thing...Nobody does it better than JC, not even the Emperor Palpatine, himself. See for yourself,<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://m.quickmeme.com/img/fc/fc3646a02beca4bbf6c05e711f81c0eb354d253149028d9ce0fca9def3aaf63a.jpg\" /></div></blockquote>\nThank you! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nYou make me both blush and laugh!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
+      "author": "campgod",
       "avatar": "no_avatar.png",
-      "timestamp": "6:11 AM - Sep 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why don't you put on your <span style=\"text-decoration:line-through\">dress</span>\u00a0robes and dance for him Stag, that might be all the motivation he needs !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:02 AM - Jul 29, 2014",
+      "content": "<div>Oh i like this Idea...So many good defences and good AB. I cant wait to try this in PvP.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:51 AM - Sep 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, to start with there's that petition. Then there's the court order. So I'm afraid that's a no can do.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:58 PM - Dec 14, 2018",
+      "content": "<div>OK. I'm confused. This looks like an excellent build, except: She's gonna die horribly in the first fight, due to low AC and no DR at all. Regardless of all the immunities, with 26 AC and perhaps a few points more due to items, she's doomed. What am I missing? Is this a full plate build? How is she going to survive?</div>"
     },
     {
-      "author": "Aquarius 233",
-      "avatar": "10714033_1519247364.jpg",
-      "timestamp": "9:38 PM - Sep 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Like the build!<br/>\nThe things I appreciate the most are:\n<ul>\n<li>empowered spells at 9th level; and</li>\n<li>the metamagic trick described on post #5.</li>\n</ul>\n\nWhen building clerics, I have always given precedence of AB boosting and defensive feats over metamagic ones. However, extend spells can be handy also in mid-ten levels. And empower spells too, never thought of that (I have taken this feat always at level 18)....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:57 AM - Dec 15, 2018",
+      "content": "<div>You forget her abilities...<br/>\nThe ability to raise her AC by as much as 12 points by maxing-out her wisdom &amp; dexterity,<br/>\nThe ability to make her 50% concealed for 20 rounds 2/day (non-dispellable),<br/>\nHer Monk super speed (that gets multiplied by haste) so she can avoid anything that isn't to her liking,<br/>\nHer innate immunity to all mind-effects spells or abilities,<br/>\nHer expertise feat,<br/>\n<br/>\nTypical AC in a moderate +5 magic world,<br/>\n26 (base) +4 (haste) +20 (items) +12 (maxed dexterity &amp; wisdom) +5 (expertise) +1 (dodge) = 67/68 AC. <br/>\nIf you don't want to use expertise, she still has 62/63 AC, which is about equal - or slightly better than a full-plate &amp; shield warrior with full tumble ranks has,<br/>\nAnd she hits much-much harder than most people, (30 Str &amp; ews &amp; dev. crit &amp; Ikd).<br/>\n<br/>\nOne thing that she isn't. Static.<br/>\nYou need to move your fingers when you play her, you don't just sit there like a normal warrior does in full plate &amp; shield does and wait for the combat to finish while drinking your occasional heal pot.<br/>\nHere, you have so many options that it is almost always better to do something more in your round, either activate your etherealness ability, or Ikd your opponent or activate expertise or move in-or-out of combat should you get surrounded etc.<br/>\nHere, you do have the options to react to almost everything your opponents can do. Heck, you could even hide &amp; move silently with the speed that others run for that matter!<br/>\n<br/>\nThanks for commenting on the build Cornflower &amp; welcome to Neverwinter Nights ECB guild.</div>"
     },
     {
-      "author": "fallander69",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:55 AM - Dec 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi\u00a0Mick and thanks for the build. I am taking this baby for a spin on WoG server. Although i had to resign from trickery due to the deity system, took travel and protection instead. Is this a good option ye think? :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:22 AM - Dec 15, 2018",
+      "content": "<div>Optional modification for those that don't necessarily want Dev. crit. and need better defences instead plus more skills,<br/>\n<br/>\nStart with Str 15(30), Int(14), Wis(14) all others stay the same,<br/>\nInstead of taking Overwhelming critical at 25th level, get Armour skin, then at 30th &amp; 33rd levels get two more Great strengths,<br/>\nSame overall Strength, same Damage, same Attack bonus but +2 AC &amp; +2 Will &amp; 43(45) ranks in Spot.<br/>\nThe weapon is a matter of taste but if I didn't have Dev. crit. then I would probably go for a Greataxe for those nasty X4 criticals.</div>"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "11:51 AM - Dec 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This may help:<br/>\nAdvice on cleric domains?<br/>\n<a class=\"postlink\" href=\"https://r.tapatalk.com/shareLink/topic?share_fid=1924621&amp;share_tid=4932&amp;url=https%3A%2F%2Fwww%2Etapatalk%2Ecom%2Fgroups%2Fworldofgreyhawkfr%2Fviewtopic%2Ephp%3Ft%3D4932&amp;share_type=t&amp;link_source=app\" rel=\"noreferrer\" target=\"_blank\">https://r.tapatalk.com/shareLink/topic? ... source=app</a><br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "2:49 PM - Dec 15, 2018",
+      "content": "<div>Thank you for the extremely quick reply (considering time zones and all that)!<br/>\nNow, I'm aware of the possibilities. Also, if I wanted a tin can, I wouldn't look at this build at all. I mean, just add a +5 Tower Shield and a Dwarven Battleaxe, you get better damage, better crits and better defense, but you lose something more important, namely charm, feeling, whatever you want to call it.<br/>\n<br/>\nMy problem is that I play on a very high-magic PW where the only viable solo builds are DD or Wiz. The \"ordinary\" fighter won't last against monsters with 70-ish AB, 60-ish AC and lots of immunities. So, since I won't be able to solo the high-end areas without one of those builds, I might as well go with something that's fun to play with. Also, DevCrit is nerfed to 50ish +damage. I'll mess around with this build a bit and see what I can make of it, so it fits my style and the PW I play on, but it's a very good start for me. I have several other lvl 40 toons, but I haven't found the one that feels right, so I was looking for something like this. Thank you!</div>"
     },
     {
-      "author": "fallander69",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:56 PM - Dec 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thx Zanithar, it makes more clear now. I'll stick to my initial choices for now, if it won't work i know what to pick up next time.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yogmister7",
+      "avatar": "10759120_1567273437.jpg",
+      "timestamp": "3:24 PM - Mar 08, 2022",
+      "content": "<div>Hello valerfor.<br/>\nThanks again for a classic Amazing build.<br/>\nI'm currently leveling her (at lvl 24 now).<br/>\nTook the no Dev crit version.<br/>\n<br/>\n I decided to take last  fighter lvl with  WS and EWS at lvl 24.<br/>\n<br/>\nThen to Take monk all the way to lvl 32 (monk18) for empty body. <br/>\nThen WM(11-13) till lvl 35 then 2 monk levels for tumble and mind immune. <br/>\n Last 3 WM to 40.<br/>\n<br/>\nMy question is Will it hurt my build in any way AB or AC wise?</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:40 AM - Dec 26, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll take it for a spin on WoG, see how it performs!<br/>\n<br/>\nAnd it should be \"Moar Powah! [insert Tim Allen here]\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:22 PM - Mar 08, 2022",
+      "content": "<div>Katana should NEVER be a finesse weapon!<br/>\n<br/>\nIt's a myth that a Katana is \"fast\" - it isn't any faster than the typical longsword.<br/>\n<br/>\nKatana\u00a0\u00a0\u00a0\u00a0 Mass\u00a0\u00a0 \u00a01.1\u20131.5 kg Blade length\u00a0\u00a0 \u00a0Approx. 60\u201380 cm (23.62\u201331.5 in)<br/>\nBlade type\u00a0\u00a0 \u00a0Curved, single-edged<br/>\n<br/>\nA longsword (also spelled as long sword or long-sword) is a type of European sword characterized as having a cruciform hilt with a grip for two-handed use (around 16 to 28 cm or 6 to 11 in), a straight double-edged blade of around 85 to 110 cm (33 to 43 in), and weighing approximately 1 to 1.5 kg<br/>\n<br/>\nAs one can see, they weight about the same.<br/>\n<br/>\nCompared to an Epee or Rapier, the Katana is heavier.<br/>\n<br/>\nThe modern \u00e9p\u00e9e is a thrusting weapon <strong>770 g (27.16 oz)</strong> in weight and 110 cm (3.6 ft) in overall length, with a blade 90 cm (nearly 3 ft) long. The blade is triangular in cross section and fairly rigid, tapering to a sharp point blunted with a stop, or button.<br/>\n<table class=\"post_content_table\"><tbody><tr><td>Rapier / espada ropera</td>\n</tr>\n<tr><td>Mass</td>\n<td>avg. <strong>1 kg (2.2 lb)</strong></td>\n</tr>\n<tr><td>Blade length</td>\n<td>avg. 104 cm (41 in)</td>\n</tr>\n<tr><td>Width</td>\n<td>avg. 2.5 cm (0.98 in) to sharp point</td>\n</tr>\n<tr><td>Blade type</td>\n<td>single or double edged, straight blade</td>\n</tr>\n</tbody></table>\n\nSo as one can plainly see, the Katana should NEVER, EVER be a finesse weapon.<br/>\n<br/>\nThat said, it is entirely possible now, thanks to BD, to make a Katana finesseable (and to make a Nodachi, a real one) - that has all the appropriate weapon feats, etc.\u00a0 It does require some 2da edits, however.</div>"
     },
     {
-      "author": "fallander69",
+      "author": "prowojo666",
       "avatar": "no_avatar.png",
-      "timestamp": "4:03 PM - Dec 26, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, i played this guy a little while then re-made it\u00a0 anew.<br/>\nI was missing some better AC. Taking Plant for the reason is good idea, as the lvl 5 and 6 spells are overcrowded with goodies anyway, so it left you with very little room for haste, imo way more practical was to have barkskin at lvl 2.<br/>\nSummons play very important role when solo so yeah Animal domain all the way and cats grace +2AC (or more if empowered)\u00a0<br/>\nInstead of Extended spell at first lvl (why??) i chose expertise. In total, with spells, expertise and standard gear can get to 33AC from the very early levels, which is quite good i think.\u00a0 This is of course entirely for WoG, from my very limited experience. Lawful neutral, Obad-Hai.\u00a0\u00a0<br/>\nHappy Christmas (or whatever left from it :P).\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:48 PM - Dec 27, 2022",
+      "content": "<div>Hey, just noticed there is a mistake in this(wonderful) build. Spring attack requires a +4 BAB so you cant take it on level 3. I just swapped it with blind fight. :)</div>"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "11:26 PM - Dec 26, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do summons hold throughout or so you need to transition at some point?  I have the feeling summons are beginning to fade in value for me in early epics and I am not keen on building for that.  Meaning why animal over war if your summons are not useful after 25th level for example?  <br/>\n<br/>\nI have stalled my character for a bit as I try to sort out if I took the right domains.<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:03 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The summons do fall off in mid epic levels, I can't answer your question whether War or Animal is better, if it helps Zanithar, I played a Druid to 40, and my level 9 spell book was mostly SoV with maybe 2-3 Summon Creature IX's<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:56 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Pre-levels 30, Animal Domain is pretty good - after level 30 (call it an arbitrary goalpost), Summons, even the Epic, buffed versions are overwhelmingly useless other than to momentarily distract m0bs, opponents, etc.<br/>\n<br/>\nThen War Domain would be better.<br/>\n<br/>\nHowever, when weighing which is best, I consider 30 levels of very good usefulness vs ~15 to be the deciding point.<br/>\n<br/>\nEsp. early levels Animal Domain is really good!<br/>\n<br/>\nAnd what is not to like about Elemental Princes?<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:00 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A tactic that works well is to have your Summons \"Hold their ground\" at a pre-determined place, go out, lure an opponent, engage it, and then set your Summons to \"Attack nearest\".<br/>\n<br/>\nThis will normally put your summons to good use, without losing it to damage (as the opponent in question is trying to smash your head off, instead).<br/>\n<br/>\nRinse, repeat.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "9:21 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thats a good point in distracting mobs Web in epic levels which I forgot<br/>\nSummons are good for escapes, and the stronger they are the more time you get, particularly elementals who are crit immune, sneak immune, mind immune, and I think the princes/princesses are also knockdown immune<br/>\nMy main strategy for this is was to cast a summon, use an invis pot and potion of speed then run<br/>\n<br/>\nIn terms of buffing summons, pretty much as a druid the only buffs I might cast would be stoneskin and/or barkskin on summons, the earth elemental will cast it stoneskin anyway, and barkskin's pretty moot later on, even +5 AC can't really help improve their abysmal AC<br/>\nOther classes (trickery domain clerics, sorcerer, wizards and bards) would have improved invisibility which in theory make summons last 25-50% longer against physical damage mobs depending on whether these enemies have blind fight or not, which I think is pretty attractive if you can spare a single cast on it<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:41 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can buff their AC to the +20 limit with 1 level of PDK on WoG.<br/>\n<br/>\nIt makes them a little more durable.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:11 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>fallander69 wrote: <a data-post-id=\"18094\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18094&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18094\">\u2191</a><div class=\"responsive-hide\">Dec 26, 2019</div></cite>Okay, i played this guy a little while then re-made it\u00a0 anew.<br/>\nI was missing some better AC. Taking Plant for the reason is good idea, as the lvl 5 and 6 spells are overcrowded with goodies anyway, so it left you with very little room for haste, imo way more practical was to have barkskin at lvl 2.<br/>\nSummons play very important role when solo so yeah Animal domain all the way and cats grace +2AC (or more if empowered)\u00a0<br/>\nInstead of Extended spell at first lvl (why??) i chose expertise. In total, with spells, expertise and standard gear can get to 33AC from the very early levels, which is quite good i think.\u00a0 This is of course entirely for WoG, from my very limited experience. Lawful neutral, Obad-Hai.\u00a0\u00a0<br/>\nHappy Christmas (or whatever left from it :P).\u00a0</div></blockquote>\nThis is good feedback from early leveling on WoG. AC is important there and starting out with dex 8 may pose a challenge early on before you get dex gear and the AC buffs start to kick in.\u00a0<br/>\nExpertise is a good feat for temporary AC. The question is if you really need it as a cleric later in the game.<br/>\nYou ask why Extend spell at lvl 1? Extend is there for the 1 round per level spells and for Divine Favor to last 2 turns rather than only 1. It comes at lvl 1 because none of the other feats are available or better to take that early.<br/>\nThe build was not tailored to any specific module or PW. Like most generic builds you can tweak it to fit the environment where you play.<br/>\nI look forward to hearing how it performs on WoG at higher levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "10:14 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Mick, since you are about and weighing in, what are your thoughts on 24 Cleric / 10 COT / 6 Monk?  If I went this direction, what feat do I drop, Epic Prowess?<br/>\n<br/>\nNever mind, no feat loss to take Monk 6 ... drop level 1 knockdown and pull great cleave back into pre epics.  Net +10% move and improved knockdown.  All good.<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:23 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Zanithar wrote: <a data-post-id=\"18109\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18109&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18109\">\u2191</a><div class=\"responsive-hide\">Dec 27, 2019</div></cite>Mick, since you are about and weighing in, what are your thoughts on 24 Cleric / 10 COT / 6 Monk? \u00a0If I went this direction, what feat do I drop, Epic Prowess?<br/>\n<br/>\nNever mind, no feat loss to take Monk 6 ...</div></blockquote>\nMonk 6 wil give more tumble drops and finally a very late IKD. You will lose one Great Wisdom from the bonus feat at cleric 26. I see no compelling reason to make this change.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "10:53 AM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Fair enough, I was considering making the change as a derivative.  Upon closer examination I can keep the Great Wisdom and net Improved Knockdown at no feat cost.  This is accomplished by dropping level 1 knockdown, pulling Great Cleave into the sub 20 feat schedule and pushing the second CoT level to level 21 to preserve the suggested Great Wisdom loss.<br/>\n<br/>\nThe net result is the non-trivial QoL cost of trading the existing level 1 knockdown for level 37 improved knockdown, Immune Disease, 1 AC at level 5 and of course the +10% speed bonus.  A cost I am willing to accept but probably is not the best generic build choice, unless the goal is strongest level 40 build mechanically or you are on a server with Knockdown items.<br/>\n<br/>\nRegardless, thanks for the feedback and thanks for the build, I find it very interesting and will give it a, slightly modified, twirl and let you know how it fares.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "1:02 PM - Dec 27, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18105\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18105&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18105\">\u2191</a><div class=\"responsive-hide\">Dec 27, 2019</div></cite>\nMy main strategy for this is was to cast a summon, use an invis pot and potion of speed then run\n</div></blockquote>\nOne of my favorite tactics was to call an elemental earth prince.\u00a0 That guy lays down like 4-6 stoneholds..\u00a0 and given that I would Improved Invis and Haste him, he had plenty of time to fart quite a cloud before attacking something....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:25 PM - Jan 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>conlaoch wrote: <a data-post-id=\"18113\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18113&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18113\">\u2191</a><div class=\"responsive-hide\">Dec 27, 2019</div></cite><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"18105\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18105&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18105\">\u2191</a><div class=\"responsive-hide\">Dec 27, 2019</div></cite>\nMy main strategy for this is was to cast a summon, use an invis pot and potion of speed then run\n</div></blockquote>\nOne of my favorite tactics was to call an elemental earth prince.\u00a0 That guy lays down like 4-6 stoneholds..\u00a0 and given that I would Improved Invis and Haste him, he had plenty of time to fart quite a cloud before attacking something....</div></blockquote>\nJust picturing this in my mind...PRICELESS!<br/>\n<br/>\nHasted Farter with uncontrollable flatulance!<br/>\n<br/>\nIt's the real reason why mosquitoes fly erratically!<br/>\n<br/>\nIt's killing me!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "2:25 AM - Jan 02, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"18140\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18140&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p18140\">\u2191</a><div class=\"responsive-hide\">Jan 01, 2020</div></cite>\nIt's the real reason why mosquitoes fly erratically!\n</div></blockquote>\nand here i heard thats the only time a mosquito flies in a straight line.... \u00a0 when they fart....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Revik",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:25 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why does this build need WF: MorningStar at all?\u00a0 I'm new to WOG, so maybe there's a special rule change there.\u00a0 According to the NWN wiki, COT simply requires \"<strong>Feats:</strong>\u00a0weapon focus\u00a0in a\u00a0melee weapon\".\u00a0 The WF: Scimitar would suffice according to that definition.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Revik",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:31 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, I figured it out.\u00a0 You don't have Martial Weapons yet, so you need a WF in any simple weapon.\u00a0 Got it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:18 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Revik wrote: <a data-post-id=\"19775\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19775&amp;sid=8f1406dcb1bf00064e80f41cb4e3ca6a#p19775\">\u2191</a><div class=\"responsive-hide\">Mar 16, 2020</div></cite>Why does this build need WF: MorningStar at all?\u00a0 I'm new to WOG, so maybe there's a special rule change there.\u00a0 </div></blockquote>\nThe build is not made with any specific module or PW in mind, but the mod must of course support Dev crit.<br/>\nThe WF Morningstar is just as you found out to qualify for CoT. I could of course have take WP Martial and then WF Scimitar. But the way I do it I get a \"free\" second WF.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "bobrar",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:15 PM - Jan 20, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>I have focused on maintaining BAB+15 at level 20 for full effect of Divine pover.</div></blockquote>\nI'm sorry but I don't understand this part.<br/>\n<br/>\nWith Divine Power you get the 4th attack you lose through the Cleric Levels preepic, do I understand this correctly?<br/>\nSo if you have to fight longer without being able to rest and use up Divine Power you are \"stuck\" with 3 attacks per round?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:42 PM - Jan 20, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Max explains it all in his Guide: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/an-insight-into-the-cleric-class-t515461.html\" rel=\"noreferrer\" target=\"_blank\">An Insight into the Cleric Class</a><br/>\n<br/>\nDon't worry, it's on the first page.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "bobrar",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:51 PM - Jan 20, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks! Sorry, I have so much to learn...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:50 PM - Jan 20, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>bobrar wrote: <a data-post-id=\"26173\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=26173&amp;sid=8846acce2c1d6c79bda37aa9742953d0#p26173\">\u2191</a><div class=\"responsive-hide\">Jan 20, 2022</div></cite>Thanks! Sorry, I have so much to learn...</div></blockquote>\nNever apologise for asking questions, bob - curiosity is massively important! It's the making of assumptions that clogs us up.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "demoix",
-      "avatar": "10759054_1550229973.jpg",
-      "timestamp": "1:42 PM - Feb 27, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This bad boy is like a knife through the butter, wiping enemies on my OC run right now like no tomorrow! One of the favorite builds for me at the moment. It has good melee capabilities, good spells in various situations and have huge defence with full plate and shield, while Tomi is dealing with traps and locks and also stabs enemies from the back while I'm holding the front.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "mikazu",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:16 AM - Dec 29, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Joining the party a couple of years later. I am trying this build on OC and then will also use it on HOU. Right now, as demoix said, it is doing really well. I do have a couple of questions. Which gear do you suggest (other than the scimitar)? Should I use full armor and a shield? Don't they negate the Monk Wisdom AC bonus?\u00a0 Which stats should I prioritize with the gear? Also, the low Charisma and no persuasion hurt the campaign gameplay; what could I exchange in terms of skills to help with that?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "demoix",
-      "avatar": "10759054_1550229973.jpg",
-      "timestamp": "9:03 AM - Dec 29, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>mikazu wrote: <a data-post-id=\"29881\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29881&amp;sid=8846acce2c1d6c79bda37aa9742953d0#p29881\">\u2191</a><div class=\"responsive-hide\">Dec 29, 2024</div></cite>Joining the party a couple of years later. I am trying this build on OC and then will also use it on HOU. Right now, as demoix said, it is doing really well. I do have a couple of questions. Which gear do you suggest (other than the scimitar)? Should I use full armor and a shield? Don't they negate the Monk Wisdom AC bonus?\u00a0 Which stats should I prioritize with the gear? Also, the low Charisma and no persuasion hurt the campaign gameplay; what could I exchange in terms of skills to help with that?</div></blockquote>\n<em class=\"mention\">@mikazu</em>\u00a0 Yes, use a full plate and shield. Monk levels are for Cleave, Evasion, and skill dumps for tumble. A morningstar weapon is quite decent for a cleric early on. After COT levels, choose any weapon you like, it doesn't matter. I have chosen the longsword because I like it, and there are typically a lot of good longswords available in most modules, not just in OC or HOTU. Regarding charisma, it is low, so we come to the conclusion that you can't have everything naturally. But at least a 14 INT score gives you more skills, so you can pump diplomacy or other social skill on every level, which will help you.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:59 AM - Dec 29, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If I should prioritize the persuade skill, I would pick points from heal. In the OC, you can also get some gear with bonuses to Cha and Persuade that you may equip when needed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "mikazu",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:32 AM - Dec 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks <em class=\"mention\">@Mick Dagger</em>\u00a0and <em class=\"mention\">@demoix</em>\u00a0<br/>\n<br/>\nOne last question, <em class=\"mention\">@demoix</em>\u00a0, you mentioned using longsword later on, I assume you switch the build weapon focus from Scimitar to Longsword right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "demoix",
-      "avatar": "10759054_1550229973.jpg",
-      "timestamp": "8:16 AM - Dec 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>mikazu wrote: <a data-post-id=\"29884\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29884&amp;sid=8846acce2c1d6c79bda37aa9742953d0#p29884\">\u2191</a><div class=\"responsive-hide\">Dec 30, 2024</div></cite>Thanks <em class=\"mention\">@Mick Dagger</em>\u00a0and <em class=\"mention\">@demoix</em>\u00a0<br/>\n<br/>\nOne last question, <em class=\"mention\">@demoix</em>\u00a0, you mentioned using longsword later on, I assume you switch the build weapon focus from Scimitar to Longsword right?</div></blockquote>\n<em class=\"mention\">@mikazu</em> Yes, the first weapon focus is for Morningstar in the early game to help you better start up and the second weapon focus is when you achieve COT levels by choosing anything else instead of Scimitar. The reason the Scimitar was chosen by OP is because it has the best crit range, and this build is focused on devastating crits in the late game, which is key to getting critical hits.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:00 AM - Dec 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>mikazu wrote: <a data-post-id=\"29881\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29881&amp;sid=9896feeeb633b93012b55cdb0e4c1989#p29881\">\u2191</a><div class=\"responsive-hide\">Dec 29, 2024</div></cite>Joining the party a couple of years later. I am trying this build on OC and then will also use it on HOU. Right now, as demoix said, it is doing really well. I do have a couple of questions. Which gear do you suggest (other than the scimitar)? Should I use full armor and a shield? Don't they negate the Monk Wisdom AC bonus?\u00a0 Which stats should I prioritize with the gear? Also, the low Charisma and no persuasion hurt the campaign gameplay; what could I exchange in terms of skills to help with that?</div></blockquote>\nYou say you're going OC and HotU, so it might be worth thinking about going into the Sands of Fate modules afterwards (available from the Vault: there's a thread for it in our Modules forum), otherwise you won't be able to make use of the focus of this build, which is Devastating Critical. You'll probably finish HotU at around level 28, so you'll need a few more levels for the feat, and SoF goes all the way to level 40.<br/>\n<br/>\nThat said, this build works very well even before taking Dev Crit.<br/>\n<br/>\nEDIT: Oh, and taking morning star early is also helpful against undead (blunt weapons work best against them, by and large), and you'll meet a lot of them at early levels in the OC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "InfiniteChill",
+      "avatar": "10759778_1736189487.jpg",
+      "timestamp": "10:19 PM - Jan 08, 2025",
+      "content": "<div><span style=\"text-decoration:line-through\">I realize I am very late in posting this; but, you can't take Spring Attack at level 3 because it requires BAB of 4. So, anyone following this build in the future should take either power attack or blind fighting at 3 and spring attack at level 6. <br/>\n</span><br/>\nI should have looked at page two before posting!<br/>\n<br/>\nCool build. I'm using it for Aielund since it has some eastern flair. Wearing armor is the early levels is helping a lot.\u00a0</div>"
     }
   ]
 }

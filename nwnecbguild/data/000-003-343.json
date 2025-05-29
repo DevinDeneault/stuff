@@ -4,89 +4,127 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "343",
-  "name": "THE DWARVEN WALL - REVISED",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-dwarven-wall-revised-t2350205.html",
-  "author": "Valerfor",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 12,
+  "name": "Druid (Mid Level)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-mid-level-t2348299.html",
+  "author": "Tyris2222",
+  "avatar": "no_avatar.png",
+  "replies": "18",
+  "views": "2.4K",
   "posts": [
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:43 PM - Feb 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Similar to Mick Dagger's  thread about the \"Kukri Master\" i decided to do a revision of the classic \" <strong>Dwarven Wall </strong>\".<br/>\n<br/>\nThis toon is very old school when Dev. Critical was everything and all tried to put it inside their builds with different combinations.<br/>\n<br/>\nIt is also one of the characters that  qualifies for the \"pure builds\" somehow as it takes all 30 levels of a prestige class, fortunately unlike many other prestige classes the Dwarven Defender<br/>\n<br/>\nactually takes some benefits from these last levels, unlikely say the Blackguard or the Weapon's Master where their benefits stop at 28th level for both.<br/>\n<br/>\nWhile this build lacks a full tumble class it has comparable AC due to Defensive Stance and the awesomeness of the Defensive Awareness provides it with a very solid defesnse.<br/>\n<br/>\nHere is a Classic old beater that has Massive HP's and Damage Reduction and the good old Dev. Critical all in one build. I tried to make him as best as i could while maintaining this old feel  <br/>\n<br/>\n<br/>\n<strong>THE DWARVEN WALL</strong><br/>\n<br/>\n<strong>(FTR 8/ COT 2/ DD 30)</strong><br/>\n<br/>\n RACE: Dwarf Only<br/>\n<br/>\n ALIGNMENT: Lawful Neutral<br/>\n<br/>\n PLAYABILITY: PvM 1-40<br/>\n<br/>\n STARTING STATS:<br/>\n STR  - 16<br/>\n DEX -  13<br/>\n CON - 18<br/>\n INT  - 13<br/>\n WIS - 08<br/>\n CHA - 06<br/>\n<br/>\n ENDING STATS:<br/>\n STR  -  26<br/>\n DEX  -  13<br/>\n CON  - 22<br/>\n INT   - 13<br/>\n WIS  - 08<br/>\n CHA  - 06<br/>\n<br/>\n<br/>\n Hit Points: 740 \u2192 820 (D. Stance)<br/>\n<br/>\n<br/>\n Skill Points: 129<br/>\n<br/>\n Discipline: 43 (51)<br/>\n<br/>\n Heal: 6 (5)<br/>\n<br/>\n Tumble: 21 (22)<br/>\n<br/>\n Concentration: 43 (49)<br/>\n<br/>\n<br/>\n Saving Throws (Fort/Ref/Will): 33/ 20/ 20 \u2192 35/ 22/ 22 (saves Vs spells) \u2192 39/ 24/ 24 (D. Stance)<br/>\n<br/>\n Naked / Armored AC: 17/ 28/ 32  (Full Plate &amp; Tower Shield) \u2192 (D. Stance)<br/>\n<br/>\n<br/>\n BAB: 30<br/>\n<br/>\n AB: +42/ +37/ +32/ +37  (Warhammer)<br/>\n<br/>\n DMG: 1D8 +10 / 19-20 x3  (Warhammer)<br/>\n<br/>\n Devastating Critical  DC: 38 \u2192 39 (D. Stance)<br/>\n<br/>\n Damage Reduction: <strong>30/ \u2013</strong><br/>\n<br/>\n<br/>\nLEVELING GUIDE:<br/>\n<br/>\n01) FTR (01): Expertise, WF: Warhammer<br/>\n02) FTR (02): Power Attack<br/>\n03) FTR (03): Cleave<br/>\n04) FTR (04): WS: Warhammer<br/>\n05) FTR (05): <br/>\n06) FTR (06): Dodge, Toughness<br/>\n07) FTR (07): <br/>\n08) FTR (08): Blind Fight<br/>\n09) DD (01): KD<br/>\n10) DD (02): <br/>\n11) DD (03): <br/>\n12) DD (04): IKD<br/>\n13) DD (05): <br/>\n14) DD (06): <br/>\n15) DD (07):IC: Warhammer<br/>\n16) DD (08): <br/>\n17) DD (09): <br/>\n18) DD (10): Imp. Expertise<br/>\n19) CoT (01): <br/>\n20) CoT (02): Great Cleave<br/>\n(<strong>Strength 18 &amp; Constitution 21 at this point</strong>)<br/>\n21) DD (11): EDR I<br/>\n22) DD (12): <br/>\n23) DD (13): <br/>\n24) DD (14): EDR II, EDR III<br/>\n25) DD (15): <br/>\n26) DD (16): <br/>\n27) DD (17): Great Strength I<br/>\n28) DD (18): EWF: Warhammer<br/>\n29) DD (19): <br/>\n30) DD (20): Great Strength II<br/>\n31) DD (21): <br/>\n32) DD (22): Overwhelming Critical<br/>\n33) DD (23): Great Strength III<br/>\n34) DD (24): <br/>\n35) DD (25): <br/>\n36) DD (26): Devastating Critical, AS<br/>\n37) DD (27): <br/>\n38) DD (28): <br/>\n39) DD (29): Great Strength IV<br/>\n40) DD (30): Epic Prowess<br/>\n<br/>\n<br/>\n<strong>DEFENSIVE STANCE</strong>  15 uses/ Day grants  +2 to all saves &amp; 2 STR/ 4 CON/ 4 AC<br/>\n<br/>\n<strong>DEFENSIVE AWARENESS</strong>  Makes him <strong>Immune to Sneak Attacks</strong> while he is attacking something<br/>\n<br/>\n* Build Edited after Maximillian Kane &amp; Empyre's suggestions to better reflect both its defensive &amp; dwarven origins, various improvements to skill-set, weapon choices and feat order were made.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:42 PM - Jan 10, 2014",
+      "content": "<div>Looking for help with Mid-Level (30) druid build.  Would like to stay nearly pure Druid and have a caster slant towards him, so evoker maybe? I'm guessing a dwarf, yeah, that might make it a little tougher.  Spell penetration worthwhile?  Any thoughts would be appreciated, thanks.</div>"
     },
     {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "12:26 AM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have a somewhat similar build of my own (Ftr 12 Rog 2 DD 26). I read a guide in the old guild by Thax, which sort of disagrees with the order you take your feats. The \"bread and butter\" of DD is the Damage Reduction. It's what makes him what he is. Anyway, the guide basically said that if you want to make use of the class to its best, you need to not only take EDR feats but take them as soon as possible. The CON investment means that you won't have a high DC to your DevCrit, so prioritizing it in this case I would say is not optimal. On the other hand, I play on WoG too and I know that there, it's most useful when taken early on. What I don't know is, does taking DC before the EDR feats come in this build as a WoG-biased choice or is it due to something else?<br/>\n<br/>\nI would change only the order you take the feats in epics and the stat point distribution to have EDR 3 ASAP. As for the rest, it looks good. The only feat I would probably change would be SF<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />iscipline. I'd take Expertise in its place to save up Defensive Stance uses for more important battles. Other than that, I'd give him a Dwarven Waraxe for style points.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:33 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh yes, the power one can gain from taking 4 less DD levels is indeed splendid, i just could not do it for theme reasons.<br/>\n<br/>\nNice catch on the weapon choice but i wanted a bigger threat range as you can imagine while maintaining the big base damage of the Bastard, and since the original too had a sword..<br/>\n<br/>\nAs far as EDR goes the funny thing is that the original went as fast as he could for Dev. critical too but due to unoptimized stats he couldn't do it till the 36th level, so i think i managed quite well on that.<br/>\n<br/>\nGood point the expertise option Max, although what kept me from taking it was that it cancels out the defensive stance. Still a good option early on when your stances are few i suppose.<br/>\n<br/>\n<br/>\nThanks for the input man, all good points.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "2:23 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, Expertise does cancel Defensive Stance, but they aren't meant to be used simultaneously, they're meant to be used instead of one another. There's no such thing as too many DS uses, and Expertise allows you to go through mobs without wasting any in cases where you need AC but can afford the loss in AB, which we both know on WoG is VERY USEFUL. In that Diablo-themed mod you advertised, I reckon the same is true.<br/>\n<br/>\nAnyway, I'd still recommend going for EDR before DevCrit. 9 points of DR right from the start of epics will allow you to stand in front of your enemies for MUCH LONGER. If you equip a belt of Damage Resistance, you'll only be damaged on Crits. As Thax used to say, if you want to kill things fast, go for Weapon Master or RDD, Dwarven Defenders are good at tanking.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:28 PM - Feb 10, 2014",
+      "content": "<div>ok, what if I skip the dwarven part and go with human, can Dragonshape be gotten in a 30 level server or does it make the character two one dimensional, of course its a great dimension.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:27 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I made some extensive testing in no less than three seperate test modules i have for that purposes, with Tony's AI included of course.<br/>\n<br/>\nWhile the original version is a tad stronger offensively, the revised one is much more focused and better flavoured.<br/>\n<br/>\nI forfeit the spellcraft ranks for concentration since he doesn't have the mobility of other characters (he is a friggin wall heh) and i hate it when i loose 6 AC from taunting. Nobody Taunts a Dwarf!<br/>\n<br/>\nThe saves are good anyway and boosted further by that (in)famous Dwarven resilience.<br/>\n<br/>\nTook expertise instead of SF in Discipline and three lvls earlier too. Now he can be even more tanky all day long. Scrap that, now he has Improved Expertise!<br/>\n<br/>\nChanged weapon to a Battleaxe, don't know what i was thinking by this sacrilege with the Bastard sword..<br/>\n<br/>\nTook EDR feats first, he gains a massive ammount of damage reduction between levels 21st - 24th so he can tank even better, he has written the word \" barricade \" on his forehead.<br/>\n<br/>\nMake no mistake though, he still has 42 AB &amp; IKD &amp; Dev. Critical. He is no slouch.<br/>\n<br/>\nWhat, you want more? I should change the name to \"Dwarven Pantzer\" after all these..<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:20 PM - Feb 10, 2014",
+      "content": "<div>Ok, first things first.<br/>\n<br/>\n<br/>\nYes, you can take Dragon Shape in a level 30 environment. In fact you can have Dragon Shape by level 28 which is the earliest possible by taking 20 Druid levels pre-epic, then 4 CoT levels then 4 additional Druid levels and select the feat as your bonus Druid 24th level bonus feat. Additionally you will be undispellable by anything else than Mord's with 24 Druid levels and have a full spellbook and good DC's for your spells.<br/>\n<br/>\nIs it one dimensional? No, i do not think so because you will have also all druid spells available and some of them like Ice storm and Firestorm don't have a cap so they are worth casting and especially empowered. Also do not forget that you can also take wisdom based archery and hit things with a longbow too.<br/>\n<br/>\nWhat are the best possible spreads for a character like that? The best possible spread would be either Druid 30 (RP focussed), or Druid 20/ CoT 4/ Monk 6 (power Build), as they have been explained by the Master of Dragons himself here.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/druid-monk-dragon-shape-lvl-30-t515537.html\" rel=\"noreferrer\" target=\"_blank\">druid-monk-dragon-shape-lvl-30-t515537.html</a><br/>\n<br/>\nIs that Druid in need of Penentration feats? Depends on what your enemies are. If you have Drow there for example then you definitely need at least greater spell penentration.<br/>\n<br/>\nWhat are the best schools to focus? Druids leave and die by the name of Conjuration and Evocation is usually their second best due to Firestorm for the most part. Druids are the only one class that can empower the firestorm spell in order to do (in your case) 45d6 AoE damage with a single casting. But, i have found that actually if you have good wisdom, Necromany is very good too. Mainly the Finger of Death spell can shut down powerful enemies in a blink of an eye. Depends if the fortitude saves of your enemies are very high or normal in your world. From these three schools, Conjuration is the standard choice that you just can't go wrong (stonehold - storm of vengeance).<br/>\n<br/>\n<br/>\nAll these are nice and well, though you haven't tell us your environment and what restrictions if any are there. Usually most PW's restrict heavily the Dragon Shape or at least try to provide counter measures for that. If your world has them unrestricted or even close to that, then a Druid/Dragon is from the most overpowered builds you can make, just the constant true seeing and the damage reduction of 40/+6 are enough.<br/>\n<br/>\nI hope that i helped.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "7:48 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey dude, it's getting there!<br/>\n<br/>\nI would swap Improved Critical with KD. gaining a 5% chance of critting isn't as useful as knocking someone down (especially mages). Hell, you might even consider taking it even earlier and delay Cleave. The usefulness of Cleave depends on how often you expect / plan to be surrounded by 2 or more foes. If you are one that treads carefully (I'm not, just saying), then its usefulness is decreased. If you're a bit of a maniac such as yours truly, then you can keep it as is. Regardless, I think at least IC should be delayed for earlier KD.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:32 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just for comparison: The original <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/dwarven-wall-fighter-8-dwd-30-champion-of-torm-2-t515466.html\" rel=\"noreferrer\" target=\"_blank\">Dwarven Wall</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:24 PM - Feb 10, 2014",
+      "content": "<div>Well, as per regular NWN you can get Dragon Shape before 30th level, but it does require great sacrifice. Staying near-pure druid, though, may not be such a great idea. Dragon Shape requires 30 Wisdom, which as you can imagine takes up A LOT OF Great Wisdom feats to be attained before 30th level, which in turn basically are very hard to have without Bonus Feats from another class. The class that has Great Wisdom as an option is Champion of Torm, which is commonly seen in combination with Druid in Dragon Shape builds. I'm not even sure you can reach it without bonus feats. You can start with 18 Wisdom, with 7 stat increases you'll get up to 25. You have 21, 24, 27 and 30 as your regular epic feats, which brings the total out to 29, still 1 point short. Technically, if you have 28 Druid levels, you'll get 2 Bonus feats, one for a Great Wisdom and another one for Dragon Shape, but then you would have NO EPIC FEATS for anything else AND you'd only have DS at 30th level.<br/>\n<br/>\nSo you can do this two ways: Druid 28 / Monk 2 and have Dragon Shape at level 30 or you can give you your casting prowess (only in terms of caster levels) and go Druid 18 Monk 2 CoT 10 with 4 CoT pre-epic to grant full attack schedule. You could base yourself up on this build:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/champion-of-the-wilderness-druid-28-cot-10-monk-2-t515398.html\" rel=\"noreferrer\" target=\"_blank\">Champion of the Wilderness</a><br/>\n<br/>\nTake it EZ!</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:58 PM - Feb 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's some sweeping changes that you might like or you might hate. Bastard sword was better for Dev Crit, or scimitar would be even better, but since you're sacrificing some threat range to better fit the dwarven theme, you might as well go for dwarven waraxe and drop Dev Crit for more strength.<br/>\n<br/>\nTo do this, take Weapon Proficiency Exotic and Weapon Focus: Dwarven Waraxe at level 1, Expertise at level 18, and Improve Expertise instead of Great Cleave at level 20. Then take Epic Weapon Focus at level 21, and use the DD feats at levels 24, 28, and 32 for EDR, which should allow you to get 6 Great Strength feats.<br/>\n<br/>\nI also would swap Blind Fight with Improved Crit.<br/>\n<br/>\nI was thinking \"Is there any way to get Expertise earlier?\" and realized that yes there is: Take your 8th level of Fighter at level 8 instead of level 18.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:18 PM - Feb 10, 2014",
+      "content": "<div>I am not an expert on Druids, but as far as I can tell, playing as a Dwarf will not make it harder to get Dragon Shape. There is one small problem though: if you have Druid X / Monk 2, you would suffer a 20% experience penalty. If you can live with that, go for it.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:59 PM - Feb 11, 2014",
+      "content": "<div>Deciding to pass on the Dragonshape, while there is a coolness about it with a 30 Level cap it just comes so late in the build that decided against it.  Leaning this way now.<br/>\n<br/>\nSTR: 13<br/>\nDEX: 10<br/>\nCON: 13<br/>\nWIS: 17 (26)<br/>\nINT: 13<br/>\nCHA: 8<br/>\n<br/>\nSubrace would adjust starting abilities (+1 Con &amp; Wis) (-1 Int/Str)<br/>\n<br/>\nDoes mean that Wis ends up odd which is not good, not sure what to do about that. Any thoughts on feat selection and the order in which they should be taken are greatly appreciated. Also, fudging of starting stats.  Would play him as spellslinger\\medic\\archer who shifts as a last option rather than a first.  Lack of discipline concerns, could go 29\\1 for a skill dump probably at that point prefer the pure druid.  Any thoughts?<br/>\n<br/>\n<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Toughness, Spell Focus: Conjuration<br/>\n02: Druid(2)<br/>\n03: Druid(3): Spell Focus: Evocation<br/>\n04: Druid(4): WIS+1, (WIS=18)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Zen Archery<br/>\n07: Druid(7)<br/>\n08: Druid(8): WIS+1, (WIS=19)<br/>\n09: Druid(9): Greater Spell Focus: Conjuration<br/>\n10: Druid(10)<br/>\n11: Druid(11)<br/>\n12: Druid(12): WIS+1, Greater Spell Focus: Evocation, (WIS=20)<br/>\n13: Druid(13)<br/>\n14: Druid(14)<br/>\n15: Druid(15): Extend Spell<br/>\n16: Druid(16): WIS+1, (WIS=21)<br/>\n17: Druid(17)<br/>\n18: Druid(18): Empower Spell<br/>\n19: Druid(19)<br/>\n20: Druid(20): WIS+1, (WIS=22)<br/>\n21: Druid(21): Epic Spell Focus: Conjuration<br/>\n22: Druid(22)<br/>\n23: Druid(23)<br/>\n24: Druid(24): WIS+1, Epic Spell Focus: Evocation, Great Wisdom I, (WIS=24)<br/>\n25: Druid(25)<br/>\n26: Druid(26)<br/>\n27: Druid(27): Epic Spell: Dragon Knight<br/>\n28: Druid(28): WIS+1, Great Wisdom II, (WIS=26)<br/>\n29: Druid(29)<br/>\n30: Druid(30): Epic Spell: Hellball</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "1:26 AM - Feb 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Great Cleave is a requirement for Devcrit and so can't be dropped, are you suggesting he foregoes Devcrit altogether?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:03 AM - Feb 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>since you're sacrificing some threat range to better fit the dwarven theme, you might as well go for dwarven waraxe <strong>and drop Dev Crit</strong> for more strength.</div></blockquote>Emphasis added.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "3:06 PM - Feb 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sorry, I missed that.<br/>\n<br/>\nI guess I see why DevCrit isn't as desirable in this build given the low STR score. I would say dropping it wouldn't be that bad, but it's also nice to have it against low-fortitude types like Wizards. I guess it's not that bad. Good enough to be listed as a tweak at least.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:48 AM - Feb 12, 2014",
+      "content": "<div>Many many thoughts. LOL <br/>\n<br/>\n1- get some Monk in there! Druids get bonus feats every 4 levels after 20,, so 24 and 28. Druid 30 and Druid 28 are VIRTUALLY THE SAME (you lose just 2 Caster levels, which isn't bad at all). <br/>\n<br/>\n2- You don't need to invest in physical stats with a Druid because you'll either fight ranged through Zen Archery or melee shifting, which overrides all physical stats. You don't have Power Attack, so why 13 STR? Why 13 CON? Start with 8 in all Con Dex and Str and 18 Wisdom. I recommend you read <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/nature-s-strongest-defenders-a-guide-to-druids-t515540.html\" rel=\"noreferrer\" target=\"_blank\">THIS GUIDE</a> to understand the class a little better. There are playstyle tips and in-depth explanation of class features in there. Worth your time, definitely! You shouldn't be fighting in the front lines with a Druid. You should hang back while your summons, animal companions and even an eventual animal charmed with Animal Empathy do your killing for you while you cast the occasional spell or shoot the occasional arrow.<br/>\n<br/>\nAfter you're done reading the guide, hopefully you can take another look at your build and be able to make some adjustments. I'll wait till then before I say more. You'll learn more if you go through the mental journey yourself than if we just tell you stuff.<br/>\n<br/>\nTake it EZ!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:33 PM - Feb 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good suggestions from both of you.<br/>\n<br/>\n<br/>\nI edited the build one last time to reflect upon those improvements, taking the 8th FTR level before i start the DD and thus moving way earlier both the blind fight &amp; (improved) knockdown feats.<br/>\n<br/>\nI also changed the weapon to Warhammer since it's damage and crit. range are similar to Battleaxe but bludgeoning type is the least resisted among all three. By the level you get the Dev. Critical you will have a keen Warhammer<br/>\n<br/>\n anyway be it single player module or in a Persistant World.<br/>\n<br/>\n<br/>\nAbout Dev. Critical, the DC is perfectly fine and you will see many one-hit KO's by it. A level forty warrior type with 22 CON in a server (or module) without arbitrary set attributes will have a modified 28 fort save. <br/>\n<br/>\nHe will still fail his save at least half the times against the Dwarven Wall. And STR is a primary attribute to raise for the Dwarven Wall so the gap will be even wider than this example.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:59 PM - Feb 12, 2014",
+      "content": "<div>The thing with the correctly build Druids is that they can be what you want (strong spellcaster) AND get Dragon Shape. It is only one feat for them and you naturally want to go for highest wisdom anyway. With Druid 28/ Monk 2 as Max said, you will be able to take Dragon Shape as your capstone feat and have the awesome synergy Monk gives to the build. And Monk also has discipline as a class skill if you want to invest on that. In other words it is a win/win situation.<br/>\n<br/>\nIf i understood well, with your sub-race adjustments you will be able to take Dragon shape, have a natural wisdom of thirty at the end take also ESF in conjuration, all at the same time. You need to start with 18 (19) wisdom though and get rid of the useless epic spells that do nothing except steal you precious epic feats from you. <br/>\n<br/>\nJust for comparison: HEllball does 40 d6 damage and your empowered firestorm does 45 d6 at the same level with higher DC as well.. Really the only epic spells that are worth it are EMA &amp; Warding and those are for mages.<br/>\n<br/>\nAlso read the guide by Max, it is very helpful so to understand Druid's powers.</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:23 AM - Feb 21, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good work, this is definitely a great improvement!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:19 PM - Feb 12, 2014",
+      "content": "<div>Thanks much both of you, will check out the guide and adjust accordingly.</div>"
+    },
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:31 AM - Feb 14, 2014",
+      "content": "<div>Read guide and took advice came up with this.  Everything happens late but in the end seems pretty solid to me.  Taking Epic spell focus much later with adding Dragon Shape but figured the higher WIS offset slightly.<br/>\nElemental shapes have been upgraded as well as animal companion.  <br/>\nTook rogue over monk for he 1d6 sneak and the UMD dump.  <br/>\nMaybe can tweak order of the pre-epic feats to take the more useful ones earlier but ok.  <br/>\nRanger gets me a bow over sling and could use heavy armor but then would deal with spell failure, so mostly used for the Epic Conjure, which seemed only a hair better than Evo but could go either way.  <br/>\nThanks to all who contributed.<br/>\n<br/>\n(Subrace adjusted stats)<br/>\nDruid(28), Ranger(1), Rogue(1), Human<br/>\n<br/>\nSTR: 8<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 19 (30)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Toughness, Extend Spell<br/>\n02: Druid(2)<br/>\n03: Druid(3): Spell Focus: Conjuration<br/>\n04: Druid(4): WIS+1, (WIS=20)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Zen Archery<br/>\n07: Druid(7)<br/>\n08: Druid(8): WIS+1, (WIS=21)<br/>\n09: Druid(9): Empower Spell<br/>\n10: Druid(10)<br/>\n11: Druid(11)<br/>\n12: Druid(12): WIS+1, Spell Focus: Evocation, (WIS=22)<br/>\n13: Druid(13)<br/>\n14: Druid(14)<br/>\n15: Druid(15): Greater Spell Focus: Conjuration<br/>\n16: Druid(16): WIS+1, (WIS=23)<br/>\n17: Druid(17)<br/>\n18: Druid(18): Greater Spell Focus: Evocation<br/>\n19: Druid(19)<br/>\n20: Druid(20): WIS+1, (WIS=24)<br/>\n21: Druid(21): Great Wisdom I, (WIS=25)<br/>\n22: Druid(22)<br/>\n23: Druid(23)<br/>\n24: Druid(24): WIS+1, Great Wisdom II, Great Wisdom III, (WIS=28)<br/>\n25: Druid(25)<br/>\n26: Druid(26)<br/>\n27: Druid(27): Great Wisdom IV, (WIS=29)<br/>\n28: Druid(28): WIS+1, Dragon Shape, (WIS=30)<br/>\n29: Rogue(1)<br/>\n30: Ranger(1): Epic Spell Focus: Conjuration, Epic Spell Focus: Evocation, {Dual Wield}<br/>\n<br/>\nHitpoints: 330<br/>\nSkillpoints: 235<br/>\nSaving Throws (Fortitude/Will/Reflex): 19/27/10<br/>\nSaving Throw bonuses: Spells: +6, Fear: +2<br/>\nBAB: 20<br/>\nAB (max, naked): 19 (melee), 30 (ranged)<br/>\nAC (naked/mundane armor/shield only): 14/22<br/>\nSpell Casting: Druid(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nAnimal Empathy 33(32), Appraise 22(24), Concentration 33(35), Discipline 33(32), Heal 33(43), Spellcraft 31(33), Tumble 25(24), UMD 25(24)</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:58 PM - Feb 14, 2014",
+      "content": "<div>Much better man, much better but one thing only. <br/>\n<br/>\nDo whatever you want with the secon non-druid level but let the Monk 1 in at least. You seriously do not want to loose all those super-buffs from Monk by taking Ranger or whatever else. <br/>\n<br/>\nRanger was there to max discipline? If yes, Monk can do that too, he has it as a class skill too. To give you an example of what's going on imagine that at level 30 with maxed Wisdom one level of Monk will give you a freaking +16 AC! It does more than that too, it will max your discipline, give you Cleave without the need of power attack, give you 2 more attacks to all your shapes (including the Dragon) and evasion!! All that with one level, so dont leave it out of the build.</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:33 AM - Feb 15, 2014",
+      "content": "<div>I absolutely agree!! Unless in your server Monk bonuses don't work while shifted (I know there are some servers out there which have nerfed this feature), Monk HAS TO be in there! Wisdom AC, Custom Attack Schedule, Cleave AND a Tumble dump, it beats both Rogue and Ranger BY A MILE!!<br/>\n<br/>\nTake it EZ!</div>"
+    },
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:18 AM - Feb 15, 2014",
+      "content": "<div>Followed up with your monk suggestions and found this.<br/>\n<br/>\nMonk AC Bonus<br/>\nThe AC bonus is capped to Monk level (e.g. a level 3 Monk would only receive a maximum of +3 AC from their Monk AC Bonus, no matter how high their Wisdom modifier is).<br/>\n<br/>\nAdditionally, this feat is not given until level 3 Monk, and will not function while polymorphed.<br/>\n<br/>\nSo I'm thinking that 3 levels of monk just won't be doable and still get dragonshape and regardless of the three won't be helping when shifted so it seems that its the best can do under the circumstances.</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:27 AM - Feb 15, 2014",
+      "content": "<div><blockquote><div><strong>Tyris2222 wrote:</strong>Followed up with your monk suggestions and found this.<br/>\n<br/>\nMonk AC Bonus<br/>\nThe AC bonus is capped to Monk level (e.g. a level 3 Monk would only receive a maximum of +3 AC from their Monk AC Bonus, no matter how high their Wisdom modifier is).<br/>\n<br/>\nAdditionally, this feat is not given until level 3 Monk, and will not function while polymorphed.<br/>\n<br/>\nSo I'm thinking that 3 levels of monk just won't be doable and still get dragonshape and regardless of the three won't be helping when shifted so it seems that its the best can do under the circumstances.</div></blockquote>\n\nYeah, in this case, I'd say half the usefulness of Monk is gimped, but if the attack progression still works, it might still be better than 1d6 SA. Rogue doesn't give AC either, just 1d6 SA and UMD (but you can't use items while polymorphed, so half the usefulness of UMD is lost). If Monk gives you 2 extra attacks per round (Monks gain an extra attack every 3 BAB points gained before 20, not every 5 like everyone else, so they can reach 6 attacks per round, plus 1 Hasted and plus another one with the Flurry of Blows mode activated for a maximum total of 8 attacks per round in DS, whereas a regular Druid would get 5 with 16+ pre-epic BAB), evasion and Cleave, it's still better to take Monk over Rogue IMO. Find out if the attack schedule works while polymorphed and if it does, it's still worth taking the level. Otherwise, Rogue is better!<br/>\n<br/>\ntake it EZ!</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:31 AM - Feb 15, 2014",
+      "content": "<div>Ouch! <br/>\n<br/>\nSee, i was sure there were some restrictions to DS, no way they leave it unchecked on a lvl 30 PW.<br/>\n<br/>\nSigh...<br/>\n<br/>\nStill those are some heavy restrictions man, luckily for you Druid spellcasting and summons will still leave you power enough to enjoy your character.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:39 AM - Feb 15, 2014",
+      "content": "<div>Just noticed he said the feats wont work till 3rd level?<br/>\n<br/>\nThere goes the 28/2 split then, they force him to go for less Druid and thus less penentration and less bonus epic feats that way. Druid 27/ Monk 3 isn't optimal at all.<br/>\n<br/>\nIn the case the unarmed Monk progression doesnt work till lvl 3 of the Monk you will have to improvise man. If it works that alone is enough of an advantage to keep Druid 28/ Monk 2 split but if don't then you need to change the build.<br/>\n<br/>\nDruid 24/ Monk 6 is better under these circumnstances. You should have enough epic feats to take DS at lvl 30 that way and still get all Monk bonussed exept WIS to AC which will be capped at max 6. You will get free IKD that way too.<br/>\n<br/>\nStill a beast of a build though!</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "4:16 PM - Feb 15, 2014",
+      "content": "<div>Nope, I think he meant only Monk AC, which is why I suggested he'd just have to do without it. But the attack progression alone, Cleave and Evasion are worth the investment IMO.<br/>\n<br/>\nTake it EZ!</div>"
+    },
+    {
+      "author": "Tyris2222",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:15 PM - Feb 26, 2014",
+      "content": "<div>Build is coming along good, reached 16th level, I was thinking however that Maximize would come in pretty useful with regards to all the evocation spells and my next feat at 18 is Greater spell focus Conjuration.<br/>\n<br/>\nThat would mean that at 30th level the two feats I would take are Epic Evocation and Greater Conjuration or both greater and epic Conjuration. <br/>\n<br/>\nIs Maximize at 18th a wiser choice or stay the course so at level 30 I'm sitting with DragonShape, max wisdom of 30 and Epic Conjure and Evocation?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:00 PM - Feb 26, 2014",
+      "content": "<div>Since you should already have empowered, i would not take maximize too. The difference is negligible and you can't maximize firestorms at all (it would require a 10th lvl slot).</div>"
     }
   ]
 }

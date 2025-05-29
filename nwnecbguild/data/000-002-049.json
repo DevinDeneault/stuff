@@ -4,35 +4,18 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "049",
-  "name": "Active Auras and Flat footed",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/active-auras-and-flat-footed-t2356026.html",
-  "author": "Regsa",
-  "avatar": "10759176_1572007808.png",
-  "replies": 3,
+  "name": "Spell immunity and Spell Resistance",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spell-immunity-and-spell-resistance-t2356028.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": "0",
+  "views": "220",
   "posts": [
     {
-      "author": "Regsa",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:17 PM - Dec 09, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I another thread (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/kama-shinobi-monk-9-assassin-26-sd-5-t2350791-s60.html\" rel=\"noreferrer\" target=\"_blank\">kama-shinobi-monk-9-assassin-26-sd-5-t2350791-s60.html</a>) It seems like mobs are able to be kept in combat because of an active aura. Do you guys think it would be the same if a PC had an active aura they can turn on ? <br/>\n<br/>\n\"Thanks for the tips on attacking. I think I maybe figured out why it was not working on any of the unique mobs.<br/>\n<br/>\n The auras that they have are attack auras (such as cold dmg, etc.), and they turn\u00a0 on combat the moment I step within the aura. So due to this I lose the status I need to be in to qualify for paralysis attempt. Maybe?\"\u00a0 From the kama-shinobi-monk-9-assassin-26-sd-5 build page 7<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:42 PM - Dec 10, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Don't know where everyone else is hiding, <em class=\"mention\">@Regsa</em> , and unfortunately I know sod all about auras, sorry. In the meantime, I'll just ask, what sort of PC aura do you mean? And if an assassin sneaks up on the PC without their knowledge how can they turn on the aura in time to prevent the DA?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:51 AM - Dec 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think the OP may be meaning that after combat once starts, Stag. Or perhaps the spawns the OP means are spawning with such auras active?<br/>\n<br/>\nThe OP may then be retreating and waiting for them to \"de-aggro\"...before striking again!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "2:07 PM - Dec 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It depends on the type of aura/AoE.<br/>\n<br/>\nThe aura mentioned in that thread damages you when you enter it and every round that you remain in the aura. Every time the aura damages somebody it will count as combat, so you will remain in combat for as long as someone is inside the aura. In that case it will prevent you from getting paralyzed by Death Attack unless the assassin uses a ranged attack to stay outside of the aura.<br/>\n<br/>\nOther auras/AoEs such as Battletide or Darkness only trigger when you enter the aura/AoE. In that case you'll be in combat for the first round or two after an enemy enters the aura/AoE but after a couple of rounds you'll leave combat provided that nothing else enters the aura/AoE. This means you won't be safe from getting paralyzed by a Death Attack, but it also means that if you're an assassin you can paralyze something that entered and left combat by simply waiting.<br/>\n<br/>\nIf you worried about PvP then an aura won't really help though. A smart assassin can either use a ranged weapon to attack you from outside of the aura or enter the aura and then wait until you're out of combat before attacking. The safest way to avoid Death Attack paralysis (other than immunity) is to constantly attack a placeable such as a door in order to stay in combat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "7:34 AM - Dec 17, 2022",
+      "content": "<div>nwnwiki: \"Spell immunity\u00a0grants complete protection from specified spells. This immunity is called by the spell resistance check, and serves as the second barrier to blocking magical attacks.\"<br/>\n<br/>\nIf a PC equips an item that makes one 'immune to spells level 4 and lower', does it mean he is still vulnerable to lesser spell breach, which does not check SR?<br/>\n(There is an a 'lesser spell breach immunity' item property though.)<br/>\n<br/>\nEdit: Playtested so I knew the answer to my question. PC would still be vulnerable to the breach, at least its SR lowering effect. Even immunity to LSB will still make the character vulnerable.</div>"
     }
   ]
 }

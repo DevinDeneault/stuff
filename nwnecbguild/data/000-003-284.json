@@ -4,281 +4,36 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "284",
-  "name": "dex Paladin Monk SD",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dex-paladin-monk-sd-t2354303.html",
+  "name": "Lich",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lich-t2354315.html",
   "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 44,
+  "replies": "3",
+  "views": "549",
   "posts": [
     {
       "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "11:44 PM - Aug 28, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am making another attempt at a dex Paladin Monk SD with at least 20 levels of Paladin.\u00a0 I want uncanny dodge and epic dodge.\u00a0<br/>\n I would also like the same naked ac as the gutsy monk.\u00a0 I also would like Imp exp.\u00a0 All I could find was this<br/>\n<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build237149.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 37149.html</a><br/>\n<br/>\n Suggestions??<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:19 AM - Sep 13, 2014",
+      "content": "<div>What build would you make with this subrace??<br/>\n Lich<br/>\n Restrictions: Human<br/>\n Required Class: Wizard or Sorc<br/>\n Benefits: +4 Int, +4 Charisma, +2 Con, 15% Immunity to Piercing, Slashing, Cold, Electrical, +5 regen per round<br/>\n Robes of the undead :Quest item robes with crit immunity<br/>\n Feats: Combat Casting, Greater Spell Penetration<br/>\n Negatives: 100 Divine Vul -2 str, -2 Dex<br/>\n ECL 4<br/>\n<br/>\n Thank you<br/>\n<br/>\n David</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:43 AM - Aug 29, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why Paladin? It doesn't add anything to the build. All the commentators on that build you linked were saying that Cleric or Fighter would be a better choice. If you have a reason you need Paladin specifically, we can try to make it work, but it would do little more than dilute the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:20 AM - Aug 29, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">David, what you want is probably a <strong>Monk 21/ SD 5/ DD 14</strong> if i am not mistaken. This build if done right will have abou the same naked AC as the Gutsy Monk you mentioned plus Epic Dodge for extra safety.<strong><em> </em></strong>Uncunny dodge is already inside the build in the form of Defensive Awareness from DD (immune to sneak attacks also). Tell me if you are interested for that, or else Paladin will lead to a bad fit for this particular build as Empyre said.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "5:09 PM - Aug 29, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong><hr/>Why Paladin? It doesn't add anything to the build. All the commentators on that build you linked were saying that Cleric or Fighter would be a better choice. If you have a reason you need Paladin specifically, we can try to make it work, but it would do little more than dilute the build.</div></blockquote>\n<div align=\"left\">Probably some uber item for the pally class again, Empyre. \u00a0Or another exploit of some kind on that server. An attempt to develop a build around items that high-magic servers tend to provide for entertainment value rather than building a character that stands on its own merits.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SmkNThDrkNght",
+      "author": "Thell",
       "avatar": "no_avatar.png",
-      "timestamp": "9:01 PM - Aug 29, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong><hr/>Probably some uber item for the pally class again... \u00a0Or another exploit of some kind on that server. </div></blockquote>\n\n Exactly what I was thinking.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:27 PM - Aug 29, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In that case, Monk 31, Paladin 4, SD 5, with all 4 Paladin levels pre-epic to qualify for that uber item and to get one more attack per round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:17 PM - Sep 13, 2014",
+      "content": "<div>I think it goes without saying you probably want to consider putting that immense CHA or INT bonus to work. I could reccomened a few different builds, but it would help to know what the limits and restrictions are on your server in question (Can you have Evil Paladins or are classes restricted?).<br/>\n<br/>\n Something like a Sorc/Monk/Paladin or Blackguard is a long held solid standard which may or may not work on your server and with the immunities provided by the Undead race could be quite formiddable with a few recipro-shields stacked (possibly even Divine Shield too if you'd like a decent AC, but the penalty to STR for power attack may put you off that). <br/>\n<br/>\n I can imagine something like this would make quite a scary DC Wizard too if you took plenty of Great Intelligence and Epic Spell Foci (Spam Wail of the Banshee!) if in all truth I'd be morely likely to take that with a Monk/PM and SD dip with Epic Stealth Skill Foci for an extra escape route.<br/>\n<br/>\n More information would really help. I wouldn't be too worried about the divine vulnerability though, short of Paladins (who will likely OHKO you anyway if they're a dedicated smiter and you're evil) you won't see it too often. Even a Cleric with the Sun Domain who spams searing light will really just be poking your spell mantles. UtD and Heal will naturally rape you though</div>"
     },
     {
       "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "8:26 AM - Aug 31, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">20 paladin levelsArmor bonus +15 AC natural modifier Bonus feat. Hide in plain sightUniversal +5Regeneration +10<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:35 PM - Sep 13, 2014",
+      "content": "<div>Yes We can have Evil paladins but I guess I should have stated that I would want a pure build.  Either a pure sorc or pure wizard.<br/>\n There or focus items one that can get that boosts ones spells.  The most powerful one needs 40 levels of wiz or sorc</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:58 AM - Aug 31, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You said you wanted at least 20 levels of Monk, and now you need 20 levels of Paladin, so that leaves only Monk 20 / Paladin 20, and no room for SD.<br/>\n<br/>\n Wait, is this on a world with 60 levels?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
+      "author": "Thell",
       "avatar": "no_avatar.png",
-      "timestamp": "4:33 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I need 20 levels of Paladin not monk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:51 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Paladin 26/ Monk 9/ SD 5, you will get two bonus epic feats that way and you qualify for Epic Dodge as well. You will have to tryly min-max your stats for that to work. Based on the magic level of your server and your preference for good saves/strong defense i would even abandon wisdom entirely to boost charisma and dexterity. Stats: Str 08/ Dex 18/ Con 10/ Int 14/ Wis 08/ Cha 14 based on a Human, adjust for the Race you want. If you like Paladin spells more, switch Charisma with Wisdom. Optimal weapon should be single-handed kama to gain Monk attack progression.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:25 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just realized that since the amulet gives me HIPS than maybe Paladin Monk rogue might be better<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:05 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Amazingly, I just made Yoda using this class combo and\u00a0then noticed this topic!<br/>\n<br/>\n I think the Paladin spellbook makes this build very tough if PAL26/M9/SD5.\u00a0<br/>\n<br/>\n The amulet may give HIPS but does it give Epic Dodge?<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:48 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rogue would need 10 levels instead of 5, so you will lose the two epic feats from Paladin. f you want to go the Rogue route then Paladin 20/ Rogue 10/ Monk 10 is your only viable option for ED.<br/>\n<br/>\n Fist, don't tell me you made Yoda into a ninja?!<br/>\n<br/>\n * It is a Theofilus says, the Paladin's spellbook has amazing combat buffs and by going with Wisdom instead of Charisma you will boost your AC too, due to Monk.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:35 AM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you were to go with Rogue instead of SD, Rogue should also replace Monk, making it Paladin 26 / Rogue 14, or you could go with Paladin 24 / Rogue 16, trading a Paladin feat for a Rogue feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:28 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a little Paladin with high enough dex to be played in robes. Dual-wields daggers. Can set and later on craft his own holy traps.<br/>\n High AB. High stealth once he gets rogue levels. Fine for mid- and high magic mods.<br/>\n<br/>\n 33: Rogue(13): Epic Dodge<br/>\n<br/>\n Edit: removed the build since it was not what the OP wanted<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:03 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It does not give epic dodge<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:28 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Battlerager<br/>\n Dwarf<br/>\n +4 str +2 con +50 taunt and intimate\u00a0<br/>\n Feats weapon proficiency exotic.\u00a0<br/>\n Ambidexterity\u00a0<br/>\n Two weapon fighting\u00a0<br/>\n Improved two weapon fighting\u00a0<br/>\n Epic barbarian damage reduction\u00a0<br/>\n Dirty fighting.\u00a0<br/>\n Negatives -2 dex wis and cha<br/>\n ECL 4<br/>\n<br/>\n Swashbuckler<br/>\n restrictions none<br/>\n favored class  none<br/>\n Benefits: +3 dex, +3 Cha, +1 int, +60 Parry +10 Intimidate<br/>\n Feats <br/>\n Weapon Focus: Rapier<br/>\n Ambidexterity<br/>\n Two Weapon fighting<br/>\n Weapon finesse<br/>\n disarm<br/>\n Improved disarm<br/>\n negatives:-4 wisdom<br/>\n Ecl: 4<br/>\n<br/>\n What if I used one of these subraces??<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:36 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>It does not give epic dodge</div></blockquote>\n<div align=\"left\">It does, but since you don't even care to read the build, I'm out, and so is the build as well.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:35 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Who said I did not even read the build.  I did.  What does that have to do with the Amulet not having epic dodge??<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:10 PM - Sep 01, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I liked the build  that is why I posted those two subraces.  Was wondering what changes you would make if you knew you would be getting certain<br/>\n feats at creation.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "2:17 AM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>\n<blockquote><div><strong>KidMiracleman wrote:</strong><hr/>It does not give epic dodge</div></blockquote>\n<div align=\"left\">It does, but since you don't even care to read the build, I'm out, and so is the build as well.</div>\n</div></blockquote>\n<div align=\"left\">Actually, he was replying to Theophilus Fist's question about the amulet and his reply just happened to immediately follow your build. He probably should have replied to the Fist question using a quote and then your build in another reply or using the \"@Mick Dagger\" qualifier in the same post. \u00a0Some basic posting conventions should be learned and observed by this point (over 6 months now) so I can sympathize. Naturally, it's your perogitive to strike the build but it seemed applicable enough to me. \u00a0Your call, Mick.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:44 AM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When I replied it was right after the question from Theophilus Fist.  I did not see the other replies unless after I replied.  I assume it is because of the delay in <br/>\n responding to his question.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:51 AM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Internet makes it so hard to communicate sometimes, i am positive he did not mean any disrespect towards your build, Mick.<br/>\n<br/>\n See here for another misunderstanding =&gt; <a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/2351112/Suggestions-for-a-WoG-Bard#.VAU6VmP5fhQ\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.forumer.com/topic/23 ... AU6VmP5fhQ</a><br/>\n<br/>\n<br/>\n Anyway, to answer the question, David you don't want penalties to your dexterity-based character, so you definitely forget the \"battlerager\" sub-race (what the heck, those ain't sub-races but actual classes from wotc splat-books). And you also forget the \"swashbuckler\" sub-race because while it gives you a boost in dexterity, it also gives you a huge minus to your wisdom on which your AC also depends (Monk). The other bonusses are mostly irrelevant.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:53 AM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK Hip, I guess it's my call.<br/>\n<br/>\n Kid, I will advice you to look carefully at what you write, and where you put it! You communicate by doing that, even when the message you send is something else than what you intended.<br/>\n<br/>\n The post came 4-5 hours after mine. That makes it hard to believe any speculations about interet lag.<br/>\n<br/>\n With that off my chest, your reaction seems sincere enough, so I accept that your remark was about the item properties of the amulet, and that we ended up with a misunderstanding.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:32 PM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is another attempt at a paladin build<br/>\n I take 4 rogue levels pre epic at the cost of 1 AB, but get skills and ED earlier than when taking pure paladin pre epic.<br/>\n There is still plenty room for tweaks<br/>\n<br/>\n Paladin(26), Rogue(14), Halfling<br/>\n<br/>\n STR: 12<br/>\n DEX: 17 (32)<br/>\n CON: 12<br/>\n WIS: 14<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n Halfling: (Fearless, Good Aim, Lucky, Skill Affinity: Listen, Skill Affinity: Move Silently, Small Stature)<br/>\n 01: Rogue(1): Two-Weapon Fighting<br/>\n 02: Paladin(1)<br/>\n 03: Paladin(2): Weapon Finesse, {Smite Evil}<br/>\n 04: Paladin(3): DEX+1, (DEX=18)<br/>\n 05: Paladin(4)<br/>\n 06: Paladin(5): Ambidexterity<br/>\n 07: Paladin(6)<br/>\n 08: Rogue(2): DEX+1, {Evasion}, (DEX=19)<br/>\n 09: Paladin(7): Blind Fight<br/>\n 10: Paladin(8)<br/>\n 11: Paladin(9)<br/>\n 12: Paladin(10): DEX+1, Improved Two-Weapon Fighting, (DEX=20)<br/>\n 13: Rogue(3): {Uncanny Dodge I}<br/>\n 14: Paladin(11)<br/>\n 15: Paladin(12): Improved Critical: Dagger<br/>\n 16: Paladin(13): DEX+1, (DEX=21)<br/>\n 17: Paladin(14)<br/>\n 18: Rogue(4): Weapon Focus: Dagger<br/>\n 19: Paladin(15)<br/>\n 20: Paladin(16): DEX+1, (DEX=22)<br/>\n 21: Rogue(5): Epic Weapon Focus: Dagger<br/>\n 22: Rogue(6)<br/>\n 23: Rogue(7)<br/>\n 24: Rogue(8): DEX+1, Great Dexterity I, (DEX=24)<br/>\n 25: Rogue(9)<br/>\n 26: Rogue(10): Improved Evasion<br/>\n 27: Rogue(11): Great Dexterity II, (DEX=25)<br/>\n 28: Rogue(12): DEX+1, (DEX=26)<br/>\n 29: Paladin(17)<br/>\n 30: Rogue(13): Epic Dodge, Defensive Roll<br/>\n 31: Paladin(18)<br/>\n 32: Paladin(19): DEX+1, (DEX=27)<br/>\n 33: Paladin(20): Great Dexterity III, (DEX=28)<br/>\n 34: Paladin(21)<br/>\n 35: Paladin(22)<br/>\n 36: Paladin(23): DEX+1, Great Dexterity IV, Armor Skin, (DEX=30)<br/>\n 37: Paladin(24)<br/>\n 38: Paladin(25)<br/>\n 39: Paladin(26): Great Dexterity V, Epic Prowess, (DEX=31)<br/>\n 40: Rogue(14): DEX+1, (DEX=32)<br/>\n<br/>\n Hitpoints: 384<br/>\n Skillpoints: 274<br/>\n Saving Throws (Fortitude/Will/Reflex): 23/19/31<br/>\n Saving Throw bonuses: Traps: +3, Fear: +2<br/>\n BAB: 29<br/>\n AB (max, naked): 45 (melee), 43 (ranged)<br/>\n AC (naked/mundane armor/shield only): 32/34<br/>\n Spell Casting: Paladin(4)<br/>\n Alignment Changes: 0<br/>\n<br/>\n Craft Trap 27(29), Disable Trap 12(16), Hide 43(58), Move Silently 43(60), Open Lock 9(20), Search 16(18), Set Trap 5(18), Spot 43(49), Tumble 40(51), UMD 36(35)<br/>\n<br/>\n<br/>\n 01: Craft Trap(4), Disable Trap(2), Hide(4), Move Silently(4), Open Lock(1), Search(4), Set Trap(4), Spot(4), Tumble(4), Save(9), <br/>\n 02: Craft Trap(1), Save(12), <br/>\n 03: Craft Trap(1), Save(15), <br/>\n 04: Craft Trap(1), Save(18), <br/>\n 05: Craft Trap(1), Save(21), <br/>\n 06: Craft Trap(1), Save(24), <br/>\n 07: Craft Trap(1), Save(27), <br/>\n 08: Hide(7), Move Silently(7), Set Trap(1), Spot(5), Tumble(6), UMD(11), <br/>\n 09: Craft Trap(1), Save(3), <br/>\n 10: Craft Trap(1), Save(6), <br/>\n 11: Craft Trap(1), Save(9), <br/>\n 12: Craft Trap(1), Save(12), <br/>\n 13: Craft Trap(1), Hide(5), Move Silently(5), Spot(1), Tumble(5), UMD(5), <br/>\n 14: Craft Trap(1), Save(3), <br/>\n 15: Craft Trap(1), Save(6), <br/>\n 16: Craft Trap(1), Save(9), <br/>\n 17: Craft Trap(1), Save(12), <br/>\n 18: Craft Trap(1), Hide(5), Move Silently(5), Spot(1), Tumble(5), UMD(5), <br/>\n 19: Craft Trap(1), Save(3), <br/>\n 20: Craft Trap(1), Save(6), <br/>\n 21: Craft Trap(1), Hide(3), Move Silently(3), Search(6), Spot(3), <br/>\n 22: Craft Trap(1), Hide(1), Move Silently(1), Spot(2), Tumble(5), <br/>\n 23: Craft Trap(1), Hide(1), Move Silently(1), Spot(2), UMD(5), <br/>\n 24: Craft Trap(1), Hide(1), Move Silently(1), Spot(7), <br/>\n 25: Craft Trap(1), Disable Trap(4), Hide(1), Move Silently(1), Spot(3), <br/>\n 26: Disable Trap(6), Hide(1), Move Silently(1), Open Lock(1), Spot(1), <br/>\n 27: Hide(1), Move Silently(1), Open Lock(2), Spot(1), Tumble(5), <br/>\n 28: Hide(1), Move Silently(1), Open Lock(2), Spot(1), UMD(5), <br/>\n 29: Save(4), <br/>\n 30: Hide(2), Move Silently(2), Search(6), Spot(2), UMD(2), <br/>\n 31: Save(4), <br/>\n 32: Save(8), <br/>\n 33: Save(12), <br/>\n 34: Save(16), <br/>\n 35: Save(20), <br/>\n 36: Save(24), <br/>\n 37: Save(28), <br/>\n 38: Save(32), <br/>\n 39: Save(36), <br/>\n 40: Hide(10), Move Silently(10), Open Lock(3), Spot(10), Tumble(10), UMD(3),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:52 PM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm, Mick do you think there is room in there for a single Monk level post-epic so he can gain the delicious bonus to AC from wisdom and it's enhancements (a potencial +8 AC more) plus the free cleave?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:16 PM - Sep 02, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is room for cheese. If you go rogue 13/ monk 1 you can keep ED early if you are satisfied with a late monk level and only maxing the monk skills.<br/>\n Taking away a paladin level costs an epic feat, but what you gain is probably better than armor skin, espscialy if you have wis items/buffs. But then again you also have to compare with what you get when going with a shield, even if this is a dual wielder.<br/>\n A monk level will give a 20% xp penalty.<br/>\n Once you go monk, you get 6 attacks per round with a single kama, 7 with flurry. Then perhaps you want to rethink the whole dual-wield setup. Maybe you even end up with an elf build for dual-wielding kamas.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:13 AM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nah, the build is fine as is, just if you want a liittle cheddar in there, after you take your 13th level of Rogue and the Epic Dodge you can finish at 37th-40th level with a single Monk level to get the extra goodies. No reason to change those daggers in there, pretty sweet dual-wielder and with high AB as well, i think it will do just fine for anyone want a high AC - high AB dual-wielder. And you can always optimize the stats even more to gain another point of AB/AC if you like. Doesn't matter what strength you have when you play in a steroid-high magic server with 12d8 weapon damage enhancements, but then again i don't prefer those so i might be mistaken.<br/>\n<br/>\n Overall a solid build, well done sir.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:37 AM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What do you think of these sub races??  What if any changes would you make??<br/>\n<br/>\n Half-celestial<br/>\n Restrictions: None<br/>\n Favored class: None<br/>\n Benefits: Low Lightvision, +3 Str, Con, Wis and Cha, +2 Dex &amp; Int, 50% Cold, Acid, Electrical Immunity, Immunity Disease, +4 Fort save<br/>\n Negatives: 50% Vul to Negative Energy and fire<br/>\n ECL 4<br/>\n<br/>\n half blue dragon<br/>\n restriction: None<br/>\n Favored Class: None<br/>\n Benefits: +3 Str, +2 Con, Int and Cha, 100% immunity electrical and paralysis<br/>\n Negatives: None<br/>\n ECL 4<br/>\n<br/>\n Kender<br/>\n Restriction race halfling<br/>\n favored class none<br/>\n Benefits: +4 Cha, +2 dex, +20 taunt and Open Lock, +4 saving throw will<br/>\n Feats:<br/>\n Hide in plain sight<br/>\n spring attack<br/>\n Keen sense<br/>\n negatives: -2 Str and con, -5 discipline and concentration<br/>\n ECL: 3<br/>\n<br/>\n Ninja<br/>\n Restriction race none<br/>\n favored class none<br/>\n Benefits dex and int +2 Movement speed fast<br/>\n Feats improved crit and overwhelming crit shuriken<br/>\n Weapon focus and epic weapon focus shuriken<br/>\n feat skill and epic feat skill hide<br/>\n ECL 2<br/>\n<br/>\n Derro<br/>\n Restriction race Dwarf<br/>\n favored class sorcerer<br/>\n Benefits +2 con, +2 cha +2 dex 18 base SR +2 per level blind fighting feat<br/>\n combat casting<br/>\n negatives<br/>\n ECL 3<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:20 PM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With favored class none, you will have a problem with xp penalty once you start combining base classes (here rogue and paladin). Levelling will be harder when you also add the ECL penalty.<br/>\n Regular halfling has +2 dex and -2 str. None of the races give better dex. You can get more from other stats and maybe be able to shuffle things around so you can start with a dex 19, without gimping everything else. It will not improve the build sigificantly though, and is probably not worth the XP and ECL penalties.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:55 PM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">(+1) to what Mick said, those sub-races are not worth the effort i would say.<br/>\n<br/>\n Stay regular Halfling and you will be fine David.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:40 PM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think I will go with half blue dragon.\u00a0 Or maybe Swashbuckler might be better.\u00a0 That will free up some<br/>\n feats to take imp exp<br/>\n<br/>\n David<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:29 PM - Sep 03, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like this build  Thoughts??<br/>\n<br/>\n Fame (Paladin 20 /Fighter 4 /Rogue 16)<br/>\n Race: Elven Girl ( if you dont make the char female the curse of ever rolling 1s shall fall upon you +she must be pretty )<br/>\n<br/>\n Alignment: Lawful Good<br/>\n PVM/PVP, playable 1-40<br/>\n<br/>\n Abilities (ending)<br/>\n<br/>\n obviously put all 10pts into dex!<br/>\n<br/>\n Str 8<br/>\n Dex 20 (36)<br/>\n Con 8<br/>\n Wis 14<br/>\n Int 14<br/>\n Cha 8<br/>\n<br/>\n<br/>\n Leveling Guide<br/>\n 01 Paladin (01) Weaponfinesse<br/>\n 02 Paladin (02)<br/>\n 03 Paladin (03) WF: Rapier<br/>\n 04 Paladin (04)<br/>\n 05 Paladin (05)<br/>\n 06 Paladin (06) Knockdown<br/>\n 07 Paladin (07)<br/>\n 08 Paladin (08)<br/>\n 09 Paladin (09) Imp.Crit. Rapier<br/>\n 10 Paladin (10)<br/>\n 11 Paladin (11)<br/>\n 12 Paladin (12) Imp. Knockdown<br/>\n 13 Paladin (13)<br/>\n 14 Paladin (14)<br/>\n 15 Paladin (15) Extend Spell<br/>\n 16 Paladin (16)<br/>\n 17 Paladin (17)<br/>\n 18 Paladin (18) Blind Fight<br/>\n 19 Paladin (19)<br/>\n 20 Paladin (20)<br/>\n 21 Rogue (01) Gr.Dex 1 (get tumble here,as you want ac)<br/>\n 22 Fighter (01) EWF Rapier<br/>\n 23 Fighter (02) Armorskin (max disc here)<br/>\n 24 Rogue (02) Gr.Dex 2<br/>\n 25 Rogue (03)<br/>\n 26 Rogue (04)<br/>\n 27 Rogue (05) Gr. Dex 3<br/>\n 28 Rogue (06)<br/>\n 29 Rogue (07)<br/>\n 30 Rogue (08) Gr. Dex 4<br/>\n 31 Rogue (09)<br/>\n 32 Rogue (10) Imp.Evasion<br/>\n 33 Rogue (11) Gr. Dex 5<br/>\n 34 Rogue (12)<br/>\n 35 Rogue (13) Def.Roll<br/>\n 36 Rogue (14) Gr. Dex 6<br/>\n 37 Rogue (15) (40tumble)<br/>\n 38 Fighter (03)<br/>\n 39 Rogue (16) Epic Dodge , Opportunist<br/>\n 40 Fighter (04) Epic Prowress<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "12:24 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No WS/EWS for a nibbler? Strange.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:03 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, have you seen on what server kidmiracleman plays on? We are talking about a +15 module with even stronger artifacts, <strong>ews </strong>is like peanuts for them. That is why he cares only about his defenses, although a bit too much i think.<br/>\n<br/>\n David, what do you see in that build that isn't on Mick's one? The higher dexterity perhaps? The build Mick posted already can optimized a bit further and if you start with 19 dexterity you will end up with a final 34 dexterity by the end, which is only a single point of AC behind what you posted just now. And if you follow our instructions and make it a Paladin 26/ Rogue 13/ Monk 1, then Mick's build goes ahead by a whole 7 AC more than \" Fame \" because you can enhance your wisdom too and thus gain AC from there as well. Plus Mick's build has many more attacks and with a really good AB at that. This build has several leveling issues as well, huge XP penalty, no Uncunny Dodge till epics, no ED till almost the end, no damage at all before mid-thirties, low health even for a dexer...This build seems much more appropriate for PvP instant level 40. But on the other hand we know very little about your server, so it might be alright there, you are the final arbiter on that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:24 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I liked the EWF.  Right now the server I play on is down.  :(<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "4:30 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong><hr/>Hip, have you seen on what server kidmiracleman plays on?\u00a0<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Nope. Not a glimmer. All I could find were a few token forums that almost nobody used or maintained, that it is a Mirent Tusk design, buggy as a Cajun swamp, that it is in a constant state of repairs and uses some version of CEP. \u00a0According to what I could gather (which isn't a whole lot), it operates a lot like WoW with\u00a0a simple equipment grab. \u00a0I seriously doubt any AD&amp;D build would have much relevance in that environment.<br/>\n<br/>\n Months ago, I recommended to Kid Miracleman to create an entry in the PW section of ECB for Tornado of Souls, outlining every detail that could possibly impact build suggestions rather than constantly needing to inform potential helpers of them piecemeal.<br/>\n<br/>\n So far, I see nothing.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:02 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, pretty much whatever we do have here is obsolete for kidmiracleman's server, NwN engine simply breaks down when the magic level is that high. I was over Sword Coast's server forums the other day ( a linked PW we have here that is a +10 module) and the guys there were wondering if EWS is worth taking into their builds. Now kidmiracleman's server is higher than that, maybe a lot higher and since it is not maintained properly i guess the balance of monster's/player's AB/AC is off by a large margin.<br/>\n<br/>\n David, if by EWF you meant the weapon's choice then you can always take a single Kama with the build Mick provided ( Paladin 26/ Rogue 13/ Monk 1, take last level as Monk instead of Rogue) and have six/seven attacks with it and you will be left with enough feats pre-epic to get improved expertise as well. Really there is not much you can do for your AC beyond that point, is an almost maximum dexterity Halfling with Monk's wisdom to AC and ED/IE/UMD. If that's not enough then nothing will be except a Pale Master at this point.<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:29 AM - Sep 04, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a <strong>pretty</strong> little halfling lass for you:<br/>\n Pvp lvl  40<br/>\n<br/>\n Paladin(20), Champion of Torm(10), Shadowdancer(10), Halfling<br/>\n<br/>\n STR: 9<br/>\n DEX: 19 (34)<br/>\n CON: 10<br/>\n WIS: 14<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n 01: Paladin(1): Weapon Finesse<br/>\n 02: Paladin(2): {Smite Evil}<br/>\n 03: Paladin(3): Weapon Focus: Dagger<br/>\n 04: Paladin(4): DEX+1, (DEX=20)<br/>\n 05: Paladin(5)<br/>\n 06: Paladin(6): Blind Fight<br/>\n 07: Paladin(7)<br/>\n 08: Paladin(8): DEX+1, (DEX=21)<br/>\n 09: Paladin(9): Two-Weapon Fighting<br/>\n 10: Champion of Torm(1)<br/>\n 11: Champion of Torm(2): Ambidexterity<br/>\n 12: Champion of Torm(3): DEX+1, Improved Critical: Dagger, (DEX=22)<br/>\n 13: Champion of Torm(4): Improved Two-Weapon Fighting<br/>\n 14: Paladin(10)<br/>\n 15: Paladin(11): Dodge<br/>\n 16: Paladin(12): DEX+1, (DEX=23)<br/>\n 17: Paladin(13)<br/>\n 18: Paladin(14): Mobility<br/>\n 19: Paladin(15)<br/>\n 20: Paladin(16): DEX+1, (DEX=24)<br/>\n 21: Champion of Torm(5): Great Dexterity I, (DEX=25)<br/>\n 22: Shadowdancer(1): {Hide in Plain Sight}<br/>\n 23: Champion of Torm(6): Epic Weapon Focus: Dagger<br/>\n 24: Paladin(17): DEX+1, Epic Skill Focus: Discipline, (DEX=26)<br/>\n 25: Paladin(18)<br/>\n 26: Paladin(19)<br/>\n 27: Paladin(20): Great Dexterity II, (DEX=27)<br/>\n 28: Shadowdancer(2): DEX+1, {Darkvision, Evasion, Uncanny Dodge I}, (DEX=28)<br/>\n 29: Champion of Torm(7)<br/>\n 30: Champion of Torm(8): Great Dexterity III, Armor Skin, (DEX=29)<br/>\n 31: Shadowdancer(3)<br/>\n 32: Shadowdancer(4): DEX+1, (DEX=30)<br/>\n 33: Shadowdancer(5): Great Dexterity IV, {Defensive Roll}, (DEX=31)<br/>\n 34: Shadowdancer(6)<br/>\n 35: Champion of Torm(9)<br/>\n 36: Shadowdancer(7): DEX+1, Great Dexterity V, {Slippery Mind}, (DEX=33)<br/>\n 37: Shadowdancer(8)<br/>\n 38: Shadowdancer(9)<br/>\n 39: Shadowdancer(10): Epic Dodge, {Improved Evasion}<br/>\n 40: Champion of Torm(10): DEX+1, Epic Prowess, (DEX=34)<br/>\n<br/>\n Hitpoints: 380<br/>\n Skillpoints: 212<br/>\n Saving Throws (Fortitude/Will/Reflex): 30/24/37<br/>\n Saving Throw bonuses: Traps: +2, Fear: +2<br/>\n BAB: 30<br/>\n AB (max, naked): 47 (melee), 45 (ranged)<br/>\n AC (naked/mundane armor/shield only): 33/35<br/>\n Spell Casting: Paladin(4)<br/>\n Alignment Changes: 0<br/>\n<br/>\n Discipline 43(52), Hide 42(58), Move Silently 42(60), Taunt 22(21), Tumble 40(52)<br/>\n Skilldumps for a lvl 40 build:<br/>\n 21: Discipline(24), Hide(10), Move Silently(8), Tumble(5), <br/>\n 27: Taunt(22),  <br/>\n 37: Tumble(35), 39: Hide(32), Move Silently(34),  <br/>\n 40: Discipline(19),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:33 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like it.\u00a0 Except any chance of having rogue instead of SD??<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:57 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You will loose on saves David,<br/>\n<br/>\n Mick took SD because you can gain Epic Dodge with only 10 levels of this class, with Rogue you would need 13 at least so the build would be Paladin 20/ CoT 6/ Rogue 14 and thus lower saves.<br/>\n<br/>\n<br/>\n Correct me if i am wrong Mick,<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SmkNThDrkNght",
-      "avatar": "no_avatar.png",
-      "timestamp": "3:11 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm not mick but that would be the main thing lost that and the feats .sd gets the ed prereqs for free while a rogue has to use its bonus feats and less cot means less feats . In your split 2 of them. Last 2 taken were armor skin or a get dex, And epic prowess.o and the divine wrath bonus I think it's an added +2 at cot level 10 (might be wrong there).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:34 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You're right darknight, it's both the saves and the feats as you mentioned. If he wants Rogue in there he can always go with the first build Mick made for him (Paladin 26/ Rogue 14 OR Paladin 26/ Monk 1/ Rogue 13). Both are more than fine builds with very high AB as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:08 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Like you said, SD is for quick access to ED and CoT for saves and feats. An alternative would be Paladin 26/ CoT 4/ SD 10, but that would cost one epic feat and -3 to saves<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:35 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My only concern was that since the amulet already has HIPS that it would not need SD<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:06 AM - Sep 14, 2014",
+      "content": "<div>Ok well, it's pretty hard to do a pure arcanist wrong Kidmiracleman. Are you going for quality of spells (Wizard) or quantity (Sorc)?<br/>\n<br/>\n Is there a list of changes for your server? A lot will depend on what spells if any have been modified which spell foci you should choose or if you need Epic Penetration or not (unlikely pure admittedly, but you never know).<br/>\n<br/>\n Generally for a DC caster you're going to want Spell Foci in Necromancy for the death spells and as many Greater Int/Cha feats as you cna work in alongisde any epic spells you want, I only really advocate Hellball for the KD effect if it's a high magic server, otherwise you may want some others. Evocation is nice for pure damage, as is Enchantment especially for PvM if you're non evil (Protection from evil makes it a crap choice if you are) but I'm rather partial to Conjuration to get better DC's on my Flame Arrows. Don't bother with the others unless they've been buffed, in vanilla they suck.<br/>\n<br/>\n Oh yes, Flame arrow. Take Empower and/or Maximize spell and spam that on enemies you can't reliably kill with Wail of the Banshee. It's the highest single target damage dealer in the game, even moreso than Issac's Greater Missile Storm.</div>"
     }
   ]
 }

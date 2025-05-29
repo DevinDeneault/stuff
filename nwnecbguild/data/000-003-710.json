@@ -4,89 +4,154 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "710",
-  "name": "The Bone Doctor",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-bone-doctor-t2355316.html",
-  "author": "Iwan",
-  "avatar": "10759046_1549435113.jpg",
-  "replies": 12,
+  "name": "Divine Damage Paladin Arcane Archer (Paladin 16 / Wizard 1 / Arcane Archer 23)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-damage-paladin-arcane-archer-paladin-16-wiz-t2355322.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "22",
+  "views": "1.9K",
   "posts": [
     {
-      "author": "Iwan",
-      "avatar": "10759046_1549435113.jpg",
-      "timestamp": "12:59 AM - Jan 26, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello.\u00a0<br/>\nWhile playing on high magic\u00a0PW module - LON (Dawn of Heroes server), I've decided to create a cleric concentrated on spells. End game mobs have so high AC that trying to concentrate on magic and melee will make you medicore in both aspect. There are many builds that concentrate on fighting like Cleric/Bard/RDD but few try to make clerics offensive spells as deadly as possible. From what I've observed mostly used of them are - harm, bladebarrier and most importantly - implosion.\u00a0 That decided about choosing spell schools - evocation and necromancy. To be effective in team and heal\u00a0 party members, a cleric should stay alive by himself. To do it as long as possible I've decided to mix him with 16 lvl of Pale Master for AC bonus, crit immunity, surpsine attack immunity and\u00a0 2 epic spells - epic mage armour and epic warding. I am aware that there are few such a combos in the base:\u00a0<br/>\nPriestess of the Damned\u00a0bard 4 / cleric 20 / pale master 16\u00a0(human)\u00a0by I...Samphus<br/>\n(Kiaransalee Drow Cleric)\u00a0cleric 18 / bard 4 / pale master 18\u00a0(elf)\u00a0by Nekroskop_<br/>\nCombat Medic\u00a0cleric 20 / bard 4 / pale master 16\u00a0(human)\u00a0by Halston Vega<br/>\nThe Robust Reanimator\u00a0cleric 20 / bard 4 / pale master 16\u00a0(dwarf?)\u00a0by jjjhhhlll<br/>\nAnother Lite-Can Cleric!\u00a0cleric 20 / bard 4 / pale master 16\u00a0(human)\u00a0by krsboss<br/>\nArcher Cleric\u00a0cleric 20 / pale master 16 / bard 4\u00a0(human)\u00a0by Tilbono<br/>\nbut none of them focuses on magic power.<br/>\n<br/>\nHere is my little project. Tell me what You think. What can be done to make it more powerful?<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202001/10759046_202fddc0e3316c427adeadffec02ef18.jpg\" />\n</dl>\n</span><br/>\nTitle: The Bone Doctor<br/>\nClass: Cleric 20 /Bard 4 / Pale master 16<br/>\nRace: Human<br/>\nAlignment: Any Non-Good<br/>\nPlayable: 1-40 PvM<br/>\n\u00a0<br/>\nAttributes<br/>\nStr 10<br/>\nInt 14<br/>\nWis 18<br/>\nDex 8<br/>\nCon 14<br/>\nChr 8<br/>\n<br/>\nCleric Domains: Healing and Trickery<br/>\n\u00a0<br/>\nLevel Guide:<br/>\n1. Cleric 1 - Extend Spell, Magic Talent - Evocation<br/>\n2.\u00a0Cleric\u00a0 2<br/>\n3.\u00a0Cleric 3 - Greater Magic Talent - Evocation<br/>\n4.\u00a0Cleric 4 - WIS +1 (19)<br/>\n5.\u00a0Cleric 5<br/>\n6.\u00a0Cleric\u00a0 6 - Spell Penetration<br/>\n7.\u00a0Cleric\u00a0 7\u00a0<br/>\n8. Cleric\u00a0 8 - WIS +1 (20)<br/>\n9.\u00a0Cleric 9 - Greater Spell penetration<br/>\n10.\u00a0Cleric 10\u00a0<br/>\n11.\u00a0Cleric 11<br/>\n12.\u00a0Cleric 12- WIS+1 (21), Magic Talent - Necromancy<br/>\n13.\u00a0Cleric 13<br/>\n14.\u00a0Cleric 14<br/>\n15.\u00a0Cleric 15 - Greater Magic Talent - Necromancy<br/>\n16.\u00a0Cleric 16 - WIS+1 (22)<br/>\n17.\u00a0Cleric 17\u00a0<br/>\n18.\u00a0Cleric\u00a0 18- Toughness<br/>\n19.\u00a0Cleric 19\u00a0<br/>\n20.\u00a0Cleric 20 - WIS+1 (23)<br/>\n21. Bard 1 - Armor Skin<br/>\n22. Bard 2\u00a0<br/>\n23. Bard 3<br/>\n24. Pale Master 1 - WIS+1 (24), Greater WIS I (25)<br/>\n25.\u00a0Pale Master 2\u00a0<br/>\n26.\u00a0Pale Master 3<br/>\n27.\u00a0Pale Master 4 - Greater Wisdom II (26)<br/>\n28.\u00a0Pale Master 5 - WIS+1 (27)<br/>\n29.\u00a0Pale Master 6\u00a0<br/>\n30. Pale Master 7 - Epic Magic Talent - Evocation<br/>\n31.\u00a0Pale Master 8\u00a0<br/>\n32.\u00a0Pale Master 9 - WIS +1 (28)<br/>\n33.\u00a0Pale Master 10 - Epic Magic Talent - Necromancy<br/>\n34.\u00a0Pale Master 11<br/>\n35.\u00a0Pale Master 12\u00a0<br/>\n36.\u00a0Pale Master 13 - WIS+1 (29), Epic Spell Penatration, Epic Skill Focus - Concentration<br/>\n37.\u00a0Pale Master 14\u00a0<br/>\n38.\u00a0Pale Master 15<br/>\n39.\u00a0Pale Master 16 - Epic Spell - Mage Armour, Epic Spell - Epic Warding<br/>\n40. Bard 4 - WIS+1 (30)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:08 AM - Jan 29, 2020",
+      "content": "<div>This is a devlishly simple idea I came up with:<br/>\n<br/>\nPaladin for divine favor casts (including extended divine favor), divine might (boosted by special paladin charisma spell buffs)<br/>\nPump Cha up high to do lots of divine damage, up to 16 damage / hit.<br/>\nArcane archer for crazy AB boosts<br/>\nWizard 1 for scribe scroll, resist elements, can use many magical scrolls, wands, sequencers etc, spellcraft dump for further saves against spells (nice, not that it was needed, but lets use it...)<br/>\nElf for keen senses which works well with spot/listen and a reasonable wisdom score.<br/>\n<br/>\nDropped the AB down to 47. Maybe cleric would be stronger, but at least paladin being a full BAB class doesn't have to worry about divine power getting dispeled or morded.\u00a0<br/>\n<br/>\nGrizzled_Dwarflord has a half elf <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build295931.html\" rel=\"noreferrer\" target=\"_blank\">Moon Knight of Corellon</a>, essentially pure Cha Paladin / Sorc / AA.\u00a0<br/>\nAriel Thomas has another pure Cha build\u00a0<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build270136.html\" rel=\"noreferrer\" target=\"_blank\">Charismatic Sniper</a> Paladin 15/Wiz 2 / AA 23.\u00a0<br/>\n<br/>\nAnyway I've put this up for your enjoyment and review.<br/>\n<br/>\nIncluded suggestions from GDL, with thanks!<br/>\n<details><summary>Spoiler</summary>Paladin(16), Wizard(1), Arcane Archer(23), Elf\n\nDEX: 13 (14)\nWIS: 14\nCHA: 14 (30)\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Paladin(2): {Smite Evil}\n04: Paladin(4): CHA+1, (CHA=15)\n06: Paladin(6): Power Attack\n08: Paladin(8): CHA+1, (CHA=16)\n10: Paladin(10)\n12: Paladin(12): CHA+1, Extend Spell, (CHA=17)\n14: Paladin(14)\n16: Wizard(1): CHA+1, {Scribe Scroll}, (CHA=18)\n18: Arcane Archer(2): Rapid Shot\n20: Arcane Archer(4): CHA+1, (CHA=19)\n22: Arcane Archer(6)\n24: Arcane Archer(8): CHA+1, Great Charisma I, (CHA=21)\n26: Arcane Archer(10)\n28: Arcane Archer(12): CHA+1, (CHA=23)\n30: Arcane Archer(14): Great Charisma III, Epic Weapon Focus: Longbow, (CHA=24)\n32: Arcane Archer(16): CHA+1, (CHA=25)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(20): CHA+1, Great Charisma V, (CHA=28)\n38: Arcane Archer(22): Great Dexterity I, (DEX=14)\n40: Paladin(16): CHA+1, (CHA=30)\nHitpoints: 348\nSaving Throws (Fortitude/Will/Reflex): 33/30/31\nBAB: 29\nAC (naked/mundane armor/shield only): 15/25\nAlignment Changes: 0\nDisable Trap 1(5), Discipline 43(44), Listen 32(36), Open Lock 1(3), Search 11(15), Set Trap 13(15), Spellcraft 19(21), Spot 42(46), Tumble 15(17)\n\n02: Discipline(1), Save(5),\u00a0\n04: Discipline(1), Save(9),\u00a0\n06: Discipline(1), Save(13),\u00a0\n08: Discipline(1), Save(7),\u00a0\n10: Discipline(1), Save(11),\u00a0\n12: Discipline(1), Save(17),\u00a0\n14: Discipline(1), Save(23),\u00a0\n16: Spellcraft(19), Save(11),\u00a0\n18: Listen(1), Spot(5),\u00a0\n20: Listen(1), Spot(5),\u00a0\n22: Listen(1), Search(1), Set Trap(1), Spot(1), Save(1),\u00a0\n24: Spot(1), Tumble(5), Save(1),\u00a0\n26: Spot(1), Save(5),\u00a0\n28: Search(2), Spot(1), Save(1),\u00a0\n30: Set Trap(2), Spot(1), Save(1),\u00a0\n32: Listen(3), Set Trap(1), Spot(1),\u00a0\n34: Listen(5), Spot(1),\u00a0\n36: Spot(1), Save(6),\u00a0\n38: Spot(1), Save(16),\u00a0\n40: Discipline(25),\u00a0\n</details></div>"
     },
     {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "2:53 AM - Jan 26, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've seen Cler26/Bard4/PM10 caster clerics before but never Cler20/Bard4/PM16, usually because the extra caster levels help with resisting dispels and beating SR. If breach scrolls/wands are available then it should do okay.<br/>\n<br/>\nOn my caster clerics I usually go Magic/Trickery for Ice Storm, but with only 20 caster levels it might not be worth dropping Healing domain. If a lot of your opponents have Evasion then consider switching to Magic/Trickery.<br/>\n<br/>\nUnless necromancy spells on your server are changed from vanilla NWN I would drop ESF: Necro and use those feats for something else. A 44 DC Implosion is more powerful than any of your necromancy spells and your high level slots can be filled with other spells like Blade Barrier or Harm. Replace the pre-epic focuses with Silent Spell and Empower Spell. Silent Spell lets you fill both your level 6 and 7 slots with Harm, I take it on almost all of my clerics. I would swap ESF: Necro and Armor Skin for another 2 G WIS feats. With that you will have 44 WIS when fully buffed which gives you an extra level 9 spell slot (so one more Implosion) and +1 DC.<br/>\nMove SPen and GSPen to level 1, Extend Spell to level 3, and move SF: Evo and GSF: Evo to level 6 and level 9 respectively.<br/>\nMove ESF: Concentration to level 21 and ESF: Evocation to level 24, you can move the G WIS feats to later levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:34 AM - Jan 29, 2020",
+      "content": "<div>Any way to fit Craft Wand in there?<br/>\n<br/>\nScribe Scroll is pretty sweet, but having some Wands of Pally buffs would be pretty nice!<br/>\n<br/>\nThat would really relieve the already tight Pally spells imo.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:44 AM - Jan 29, 2020",
+      "content": "<div>I'd probably drop improved critical or called shot for it and rearrange feats<br/>\nWhat wands are good to make as a pally?</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:53 AM - Jan 29, 2020",
+      "content": "<div>That Divine Favor is looking good!<br/>\n<br/>\n50 vs that meager amount of spells/day for each wand made.<br/>\n<br/>\nThen one could basically just keep pumping the DF out, and save the spells for tough fights!<br/>\n<br/>\nThen there is Freedom of Movement, Death Ward, GMW, Bless, Aid, BS, ES, RE...all pretty good spells - esp when you wand them and have castings to burn, baby!</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:24 AM - Jan 29, 2020",
+      "content": "<div>Of course heaps of cool Paladin buffs there<br/>\nDivine Favor sadly when scribed or crafted only has a caster level of 5.<br/>\nWill keep wisdom where it is.<br/>\n7 castings / day is probably good enough</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:29 AM - Jan 29, 2020",
+      "content": "<div>It's not, actually.<br/>\n<br/>\nDivine Favor is 1 turn.\u00a0 2 when extended.<br/>\n<br/>\nThat means you get 7x2=14 turns of DF. Plus whatever you have in your 1st level slots.\u00a0 Or were you referring to the 1st level spells?\u00a0 That would be worse - 7 turns.<br/>\n<br/>\nI don't think that will get you to the next sleep period, let alone to the end of a long dungeon!<br/>\n<br/>\nSo, Wand it!\u00a0 Yes, in a certain environment it is CL 5.\u00a0 +1 only.<br/>\n<br/>\nBetter than none, right?</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:54 AM - Jan 29, 2020",
+      "content": "<div>DF is 4 (normal) + 3 (ext) = 7 per day<br/>\n<br/>\nNo point crafting DF with CL 5 though. I would rather shoot 5-6 attacks at AB 50+ than use a DF wand in that situation<br/>\nBut other buffs like freedom, death ward, bless, aid, prayer -&gt; awesome on a wand<br/>\n<br/>\nI think holy sword and bless weapon when scribed on scrolls have great caster levels, like 17 or something.<br/>\nNot helpful for this guy, but for the melee damage teammate that happens to tank for you :)</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:58 AM - Jan 29, 2020",
+      "content": "<div>AFAIK in a certain environment, HS and BW only work on melee weapons.<br/>\n<br/>\nThough doesn't Bless Weapon work on bolts?\u00a0 Or is that Bless?<br/>\n<br/>\nKill those Raks!<br/>\n<br/>\nConsidering that :<br/>\n<blockquote><div>The bonus damage (reported as magical damage) is from a damage increase effect, so it ignores both damage resistance and damage immunity.</div></blockquote>\n\nWhat is not to like about +1 AB and +1 Damage that cannot be resisted?\u00a0 I mean, it is not like one is wasting a precious spellslot, or something.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:45 AM - Jan 29, 2020",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Jan 29, 2020</div></cite>What is not to like about +1 AB and +1 Damage that cannot be resisted?\u00a0 I mean, it is not like one is wasting a precious spellslot, or something.</div></blockquote>\nFair comment.<br/>\nJust not during combat though :)</div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "9:41 AM - Jan 29, 2020",
+      "content": "<div>I wouldn\u2019t say a cleric is more powerful, just offers different options really and Domains offer further options, especially if you  are just using it as a source of Divine Power/Favour.<br/>\n<br/>\nI liked cleric for the Sorc build because it sorts the BaB problem, but as you noted it is dispellable.  That is less of an impact on a ranged/movement build but permanent is better :)<br/>\n<br/>\nI have been tossing around an AA Paladin idea in my head for a bit (along with several other options as I try to sort a build I like) and I like what I see here, it is inline with my expectations and thoughts on how to build such a thing.  Personally I struggle with Monk for speed vs other things for versatility on a ranged build.<br/>\n<br/>\nI will add that divine damage is, situationally, quite powerful especially if it can be delivered at range.  Which is why I find such builds ... interesting.<br/>\n<br/>\nThanks for this.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
     },
     {
       "author": "grizzled_dwarflord",
       "avatar": "10758933_1548854436.jpg",
-      "timestamp": "8:05 AM - Jan 26, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yunim speaks true.\u00a0 Silent is golden.\u00a0 And I also would drop Foci in Necro, unless they have some custom Necro things going on, like summons and the like.\u00a0 Funnily enough, I think Evocation is the best case for most caster Clerics:\u00a0 Hammer of the Gods, Empowered Flames, Empowered Blade Barriers, and mother of all death spells, Implosion.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:05 PM - Jan 29, 2020",
+      "content": "<div>For those suggesting Craft Wand, I would not take Craft Wand in a build like this.\u00a0 Rather, I would be more likely to take Extra Turning so you can increase your opportunities for actual Divine Damage delivery upon thine enemy.\u00a0 Craft Wand is of limited utility in a Paladin.\u00a0\u00a0<br/>\n<br/>\nMy other suggestion would be to strive for more balance, so instead of soaking up another feat for Extend Spell -- for a very limited use of Divine Favor (you only get one 1 base spell slot for 2nd, level, and then a bonus slot for 20 Wisdom) -- I would take Divine Shield for instant AC buff.\u00a0 The inherent problem with any Paladin AA, as you have now discovered, is they are even more feat intensive than a Weapon Master.\u00a0 There are so many feats that you must have, then ones that you need, and then the ones that you want:\u00a0 PBS, WF, Power Attack, Divine Might, Rapid Shot, Called Shot.\u00a0 Then you want BF, and DS, and Extra Turning, and Extend and on and on....<br/>\n<br/>\nTaking an Epic Toughness as your AA bonus feat is a bit of a tragedy.\u00a0 That makes me reconsider the entire point of grabbing Zen Archery with a base final Wisdom of 20.\u00a0 Minoring in Dex (with you major still in Charisma) is probably the better way to go, and then just completely selling out on Charisma and your capacity to end all life with Divine Arrows.\u00a0\u00a0</div>"
     },
     {
-      "author": "Iwan",
-      "avatar": "10759046_1549435113.jpg",
-      "timestamp": "8:42 AM - Jan 26, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"18642\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18642&amp;sid=711712a37fecadca4f958b3053167baa#p18642\">\u2191</a><div class=\"responsive-hide\">Jan 26, 2020</div></cite>I've seen Cler26/Bard4/PM10 caster clerics before but never Cler20/Bard4/PM16, usually because the extra caster levels help with resisting dispels and beating SR. If breach scrolls/wands are available then it should do okay.<br/>\n<br/>\nOn my caster clerics I usually go Magic/Trickery for Ice Storm, but with only 20 caster levels it might not be worth dropping Healing domain. If a lot of your opponents have Evasion then consider switching to Magic/Trickery.<br/>\n<br/>\nUnless necromancy spells on your server are changed from vanilla NWN I would drop ESF: Necro and use those feats for something else.</div></blockquote>\nThank You for reply. I didn't bother about dispells because some late game mobs have weapons with Holy avenger feat that take off all buffs anyway with one shot :(. I have a battle cleric 39 there that is getting stripped off and has to hide behind warriors all the time. My new cleric will be focused on healing and those few offensive spells. It is a team oriented characted so I din't care also about melee aspect. I chose necro school talent thinking, that it would make Harm spell more difiicult to resist. I didn't\u00a0 know that it doesn't make any difference on spell DC.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:48 PM - Jan 29, 2020",
+      "content": "<div>In a certain environment (where this build is currently being tested iirc) there are two Bracers.<br/>\n<br/>\nOne gives Extra Turning and I think +2 Cha (could be Wis).<br/>\n<br/>\nThe other gives PBS, RS, +2 Dex.<br/>\n<br/>\nBoth are...interchangeable for this Build.<br/>\n<br/>\nTo that is an item (amulet, or more accurately, a broach I believe), which gives 3 extra Divine Mights/Day.<br/>\n<br/>\nAll three of these items can be used to...mitigate, imo, the otherwise heavy toll of feat costs.<br/>\n<br/>\nThis is environment specific, however.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:58 PM - Jan 29, 2020",
+      "content": "<div>Thanks GDL for your insightful comments.<br/>\nYou are absolutely right about the feat problems with ridiculous 'spillage' into epic levels of pre-epic feats.<br/>\nDropping Zen Archery I agree is a sensible move. Going elf dex frees up more attribute points which can be applied to Int and cons.<br/>\nI am still attached to Extend Spell for more divine favor casts / day [it ends up 3 + 3(ext) per day with Wis 14]\u00a0 but I can see how divine shield is an excellent choice.<br/>\nWill edit the main post with the new build</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:50 PM - Jan 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another way to build a \"last man standing\" cleric is the Cleric 26/ Monk 9/ SD 5, undispellible, dexterity based with epic dodge, uncanny dodge, HIPS and\u00a0 high AC from tumble, monk levels, dex and wisdom.<br/>\nTake trickery for Improved invisibility and 50% concealment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "9:44 PM - Jan 28, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is a lot of overlap between epic spell: mage Armor and cleric spells.  This does not invalidate a 16 PM attachment to a primary cleric build but it why people often go the 26 cleric / 10 PM / 4 bard route.  So you net the PM class feats but not the epic spells.<br/>\n<br/>\nA deep cleric CL build helps spell penetration, spells last longer of course and a deep cleric build nets the cleric epic bonus feats for +Wis which is your DC.  You can get to 52 Wis (capped) easish on a caster build.  Add a Monk level to make it all AC applicable.<br/>\n<br/>\nA high CL cleric also nets a high Spell Resistance (12+CL), so a 40th level cleric has a 52 SR.  Or, more typically, a 38 Cleric has 50 SR.  Not enough to stop a dedicated caster, but enough to stop all the hybrid casters.<br/>\n<br/>\nIf you are keen on a high DC caster cleric, I suggest taking a look at the Demolition build and altering it to meet your needs.<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:48 PM - Jan 29, 2020",
+      "content": "<div>I don't know if you have had a look at my old <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a> build.<br/>\nIt takes Divine to the extreme, but it is a glass cannon, so you have to play it with caution.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:24 PM - Jan 28, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think Yunim's, GDL's and Zanithar's comments are rather insightful and the Cleric Monk SD Mick Dagger is a good suggestion.<br/>\n<br/>\nI don't know the environment you play in that world, but if it is high magic as you've written, with more than +5 AC bonuses then epic mage armor becomes less valuable.<br/>\n<br/>\nPM 16 then becomes a decision whether those 6 PM levels are worth it for epic warding/4 AC/bonus feat.\u00a0<br/>\n<br/>\nAlso it is worth considering whether critical hit immunity and/or sneak attack immunity is available on items, if it is, then palemaster itself is rather unattractive.<br/>\n<br/>\nI'd personally drop PM to 10, Cleric to 26 and Bard 4 as an ending skill dump with what I hear, and the others have made great suggestions already.<br/>\n<br/>\nIf there are good ranged weapons then zen archery could be rather attractive, and a cleric / rogue / monk zen archer could run circles around your opponents, sneak attack em, with quite high AB, spell penetration and spell DC from high wisdom.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:16 PM - Jan 29, 2020",
+      "content": "<div>Impressive build Mick! So much damage! And certainly it is a bit risque! Perfect in a party situation where teammates protect you though.</div>"
     },
     {
-      "author": "Iwan",
-      "avatar": "10759046_1549435113.jpg",
-      "timestamp": "1:01 AM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank You very much for all comments. Like @Zanithar proposed I made another version of Miss Bones ;) I am waiting for further suggestions and improvements:<br/>\n<br/>\nTitle: The Bone Doctor v2<br/>\nClass: Cleric 26 /Bard 4 / Pale master 10<br/>\nRace: Human<br/>\nAlignment: Any Non-Good<br/>\nPlayable: 1-40 PvM<br/>\n\u00a0<br/>\nAttributes<br/>\nStr 10<br/>\nInt 14<br/>\nWis 18<br/>\nDex 8<br/>\nCon 14<br/>\nChr 8<br/>\n<br/>\nCleric Domains: Healing and Trickery<br/>\n\u00a0<br/>\nLevel Guide:<br/>\n1. Cleric 1 -\u00a0Spell Penetration,\u00a0\u00a0Greater Spell penetration<br/>\n2.\u00a0Cleric\u00a0 2<br/>\n3.\u00a0Cleric 3 - Extend Spell<br/>\n4.\u00a0Cleric 4 - WIS +1 (19)<br/>\n5.\u00a0Cleric 5<br/>\n6.\u00a0Cleric\u00a0 6 -\u00a0Magic Talent - Evocation<br/>\n7.\u00a0Cleric\u00a0 7\u00a0<br/>\n8. Cleric\u00a0 8 - WIS +1 (20)<br/>\n9.\u00a0Cleric 9 -\u00a0Greater Magic Talent - Evocation<br/>\n10.\u00a0Cleric 10\u00a0<br/>\n11.\u00a0Cleric 11<br/>\n12.\u00a0Cleric 12- WIS+1 (21), Silent Spell<br/>\n13.\u00a0Cleric 13<br/>\n14.\u00a0Cleric 14<br/>\n15.\u00a0Cleric 15 - Empower Spell<br/>\n16.\u00a0Cleric 16 - WIS+1 (22)<br/>\n17.\u00a0Cleric 17\u00a0<br/>\n18.\u00a0Cleric\u00a0 18- Toughness<br/>\n19.\u00a0Cleric 19\u00a0<br/>\n20.\u00a0Cleric 20 - WIS+1 (23)<br/>\n21. Cleric 21 - Epic Skill Talent - Concentration<br/>\n22. Bard 1<br/>\n23. Cleric 22 -\u00a0<br/>\n24. Cleric 23 - WIS+1 (24),\u00a0Epic Magic Talent - Evocation,\u00a0Epic Spell Penatration<br/>\n25.\u00a0Cleric 24<br/>\n26.\u00a0Cleric 25<br/>\n27.\u00a0Bard 2 -\u00a0Armor Skin ( or Greater Wisdom here and on lvl 39)<br/>\n28.\u00a0Bard 3 - WIS+1 (25)<br/>\n29.\u00a0Cleric 26 -\u00a0Greater Wisdom I (26)<br/>\n30. Pale Master 1 -\u00a0Greater Wisdom II (27)<br/>\n31.\u00a0Pale Master 2<br/>\n32.\u00a0Pale Master 3 - WIS +1 (28)<br/>\n33.\u00a0Pale Master 4 -\u00a0Greater Wisdom III (29)<br/>\n34.\u00a0Pale Master 5<br/>\n35.\u00a0Pale Master 6\u00a0<br/>\n36.\u00a0Pale Master 7 - WIS+1 (30),\u00a0Greater Wisdom IV (31)<br/>\n37.\u00a0Pale Master 8<br/>\n38.\u00a0Pale Master 9<br/>\n39.\u00a0Pale Master 10 - Epic SkillTalent - Discipline (or Greater Wisdom - then finally WIS 34)<br/>\n40. Bard 4 - WIS+1 (32)<br/>\n<br/>\nI didn't choose Zen Archery route because I am playing atm with such a cleric. Unfortunately when mobs get to me through fighters - I am dead in few seconds before even having an occasion to switch crossbow for 1H and shield + Improved Expertise. Even when I manage to do it I often die because of disarm that shuts down expertise mode. Sneak attacks are also my nightmare. I made tests with best items on the server and Epic Spell - Mage Armour adds only 5 AC :( Did't even notice that before Zanithar's post.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:07 PM - Jan 29, 2020",
+      "content": "<div>Iirc, that was one of the builds Mick solo-ed Aielund with (on hardcore, 'cause that's how he rolls), so can function alone if the player knows what they're doing.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "1:18 AM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I suggest moving ESF: Disc up to level 27 or 30, but everything else looks great.<br/>\n<br/>\nAs\u00a0Mick Dagger suggested, Monk9/Cler26/SD5 is another solid defensive cleric build. Usually the best defensive healers are either Monk9/Cler26/SD5 or Cler26/Bard4/PM10, depending on your opponents. If the mobs hit very hard it might be tempting to switch to a CON focused Cler26/Bard4/PM10, you can get EDR3 and also pick up elemental resistances if elemental damage is a problem. The main downsides being that you will strictly be a healer/harmer with no DC spells and you will have less heals.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:50 PM - Jan 29, 2020",
+      "content": "<div>I'm going to level a Mick Dagger Holy Elven Archer!<br/>\n<br/>\nWooohooooo!<br/>\n<br/>\nNice build!</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:22 AM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It depends on the environment, but if dispelling is not a problem but mobs and sneak attackers are, then you could take PM earlier.<br/>\n<br/>\nFrom level 21 take 3 bard levels to qualify, then take 10 PM levels to become crit and sneak immune.\u00a0<br/>\n<br/>\nAlso true sight/greater sanctuary is another solution if it works as in normal NWN. Does it work normally in your environment, or has it been nerfed?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:51 PM - Jan 29, 2020",
+      "content": "<div><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10759110&amp;sid=da39c2651e55803359340eaf6beccea4\">webshaman1</a> wrote: <div class=\"responsive-hide\">Jan 29, 2020</div></cite>I'm going to level a Mick Dagger Holy Elven Archer!<br/>\n<br/>\nWooohooooo!<br/>\n<br/>\nNice build!</div></blockquote>\n\nHope you take max HP rolls</div>"
     },
     {
-      "author": "Iwan",
-      "avatar": "10759046_1549435113.jpg",
-      "timestamp": "7:31 AM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sneakers are a problem at late stage of the game.<br/>\nSpell changes:\u00a0<br/>\n<strong>True Seeing:</strong>\u00a0Works like \"See Invisibility\", + 40 Spot Skill Bonus<br/>\n<strong>Greater Sanctuary:</strong>\u00a0Duration reduced at 20 seconds. 40 if extended.<br/>\nMonk9/Cler26/SD5 is a great option there, specially taken as Zen Archer. I didn't choose it because I have already created an archer but in another classes - Bard/BG/AA.\u00a0<br/>\nMy previous cleric is an yardstick build with Zen Archery, Rapid Reload and focus on Conjuration School for summons power. This feat is changed here and as a 40lvl pure cleric I can summon a dragon with 1400HP and Majestic Elemental 1000HP at the same time :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:50 PM - Jan 29, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Jan 29, 2020</div></cite>Iirc, that was one of the builds Mick solo-ed Aielund with (on hardcore, 'cause that's how he rolls), so can function alone if the player knows what they're doing.</div></blockquote>\nI finished act one solo, but then joined a party for the rest of the Aielund saga.<br/>\nBut I did solo the Endless Nights VI module, playing the build from level 1 to 40.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "9:31 AM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I do believe I would need to play a level 40 Protection/War Domain Cleric summon/caster on that server.  Depending on what end game saves can hit :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:33 AM - Jan 30, 2020",
+      "content": "<div>Well, got to level 12 today on WoG.<br/>\n<br/>\nSo far, so good!<br/>\n<br/>\nVery easy to level, everything works together frictionless!<br/>\n<br/>\nAmazing build!<br/>\n<br/>\nThough I tell you, hunting Stone Giants at level 10 was prickly, at best!\u00a0 Wooohoooo!</div>"
     },
     {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "4:04 PM - Jan 29, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to build for Spot you can swap Armor Skin for ESF: Spot, although you will need to rearrange your feats since ESF: Spot is only available at level 39. You can reach 48 Spot (21 ranks + 17 WIS + 10 ESF), which will be 88 with True Seeing and 98 at the skill cap. I don't know if 88 Spot is enough for your sever but it might be worth considering.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:21 AM - Jan 30, 2020",
+      "content": "<div>Now at level 16.<br/>\n<br/>\nThis build truly is exceptional - I play AAs alot and one of the obstacles that I always have is gold.<br/>\n<br/>\nBecause good Arrows cost so much.<br/>\n<br/>\nThis build really relieves a lot of that!<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:13 PM - Jan 30, 2020",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Jan 29, 2020</div></cite>I don't know if you have had a look at my old <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a> build....</div></blockquote>\nOrion,\u00a0<br/>\nI posted this link because I wanted to illustrate an important feature of the AA class. The Enchant Arrow feat gives +1 AB and +1 damage every second level. That makes it possible to make a viable AA build even with no (or almost no) investments in dexterity (or wisdom for Zen). That opens up for builds with focus on full strength for dev crit and high mighty damage or full charisma for DM, DS and other divine feats. To make such builds work you must take enough AA levels for the AB to become high enough.<br/>\nTaking many AA levels also gives epic bonus feats for EWF, EP and Great dexterity. This let you take more Great charisma (or Great strength for strength builds) on general feats.<br/>\nThe difference between a Paladin 15/wizard 1/ AA 24 and Paladin 9/ wizard 1/AA 30 illustrates this point.<br/>\nPaladin 15 grants +5 AB and damage on Divine favor. Paladin 9 only gives a +3 bonus. So adding 6 levels of Paladin grants a +2 bonus for a limited number of times per day. 6 levels of AA on the other hand add +3 AB and damage to every arrow all day long. And the AB bonus from Enchant arrow does not even count towards the +20 AB bonus cap.<br/>\nAA 30 also grants 5 epic bonus feats instead of the 3 you get from AA 24.<br/>\nPaladin 15 (or 16 in your build) gives a better spell book than 8 or 9 levels do. But you have to invest in wisdom for it to work. And the Paladin spell book is better for a melee character.<br/>\nDon't get me wrong. Paladin 16 makes for a good build. I just wanted to show what can happen when you try to min/max with a focus on divine damage.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:57 PM - Jan 30, 2020",
+      "content": "<div>Thanks Mick, I have been thinking such things in my own mind.\u00a0<br/>\nI believe I have been overvaluing the paladin's divine favor and undervaluing the arcane archer enchant arrow in these builds.<br/>\n<br/>\n3 levels of paladin to increase divine favor +1AB/DMG plus limited casts/day, its dispelable and requires wisdom investment.\u00a0<br/>\n2 levels of AA to increase +1AB/DMG which is not dispellable and also increases penetration.<br/>\n<br/>\nFor paladin at least, going Paladin 9 / Wizard 1 / AA 30 (or AA 29 for a late paladin skill dump) sounds quite good.<br/>\nI will have a think about redesigning the build for sure, and edit the main post.\u00a0</div>"
     }
   ]
 }

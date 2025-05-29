@@ -4,29 +4,39 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "216",
-  "name": "Damage - Resistance & Soak",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-resistance-soak-t2354613.html",
+  "name": "An Epic Dodge Question...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/an-epic-dodge-question-t2354654.html",
   "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 2,
+  "replies": "3",
+  "views": "500",
   "posts": [
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:25 PM - Oct 11, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Only me with another question.<br/>\n<br/>\n I understand DR in essence, I hope, but remain unclear how things like Soak Damage impact upon it. For example, I'm currently testing a build who's presently wearing armour that soaks 5 bludgeoning damage, and has a shield that gives 5/+2 DR. I appreciate that the one soaks the first 5 points of all bludgeoning damage, while the other resists the first 5 points of damage from up to +2 weapons, but does the one cancel out the other, or do they stack? And what's applied first - Resistance or Soak? I looked on the wiki, and felt no better I'm afraid.<br/>\n<br/>\n It's one of those things that's bugged me over time, but I've only just got round to asking for knowledge - soz!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:42 PM - Dec 19, 2016",
+      "content": "<div>Hi all, me with more dumb-assery.<br/>\n<br/>\n Is it possible to take ED at the same time as either Defensive Roll or Imp Evasion? A scenario for you, to illustrate: a toon takes level 30 as Rogue 13 and takes Defensive Roll as the Rogue BF. It already has Imp Evasion at Rogue 10 and has the 30 ranks in Tumble and a DEX of 25 (all at level 27), together with a further DEX+1 at level 28. Is it then possible for said toon to take ED as the general feat at level 30? Or would it have to wait?<br/>\n<br/>\n I've looked at the wiki and the discussions thereon about ED, as well as the rest of this General Discussion sub-forum for the entries on ED, and I'm still none the wiser. Sorry.<br/>\n<br/>\n Thanks in advance!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:45 PM - Oct 11, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I found the answer on this page: <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Damage_reduction\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Damage_reduction</a> and they explain it better than I would.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "10:16 PM - Dec 19, 2016",
+      "content": "<div>The selection order is: Skills, Bonus Feat, General Feat.<br/>\n<br/>\nSo, yes.\u00a0 ED is possible at earliest of Level 27 but you'll need DEX 25 before that.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:58 PM - Oct 11, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Brilliant, Empyre - thanks. Don't know how that page skipped me by - I did look, I promise! It also helped with my misapprehension that (eg) DR 20/+3 included +3 weapons, whereas it's actually up to but not including +3.<br/>\n<br/>\n Feeling much better now, thanks for digging up the link.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:46 PM - Dec 19, 2016",
+      "content": "<div>Thanks Hip! I suspect the point is now moot as far as my \"illustrative example\" is concerned, and it gives answer to a question I won't now feel obliged to ask, so a double hit with one short answer - splendid!<br/>\n<br/>\n Actually, a third thanks is also in order. I had assumed that the order of levelling up activities was fairly arbitrary - after all, you couldn't do it all at once, so some sort of ordering was necessary - but it's good to know exactly what that ordering is. Very useful for the future. Oh, and by the same logic, I'll therefore assume that a basic stat increase (eg CON+1, as opposed to a Great CON feat) occurs before the skills implementation. Unless you tell me otherwise.<br/>\n<br/>\n You'd think, wouldn't you, that with 40 levels to play with, things should be easier than sliding razorblades through hairs? Perversely, it's the fact that they're not that makes this game so appealing to me...well, it's one of the things.<br/>\n<br/>\n Cheers <img class=\"img-emoji\" src=\"emoji/15.gif\"/></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:59 AM - Dec 20, 2016",
+      "content": "<div>Well, you could \"sneak\" either an HS level or Level 14 of AA and/or assassin in any time, like at Level 25 or 26 (or both) but those bonus would be in the form of Great DEX (in the case where your race/ability spread may not have been aggressive enough to reach the DEX 25 prereq early on its own merit).<br/>\n<br/>\nDidn't mean to cloud the possibilities with rarely-used permutations, but there it is, nonetheless.</div>"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

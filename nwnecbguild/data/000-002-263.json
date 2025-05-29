@@ -4,77 +4,24 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "263",
-  "name": "Epic spell focus.penetration or just Int?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-spell-focus-penetration-or-just-int-t2318309.html",
-  "author": "greyfey",
-  "avatar": "10235244_1510287070.jpg",
-  "replies": 10,
+  "name": "Rogue feats",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-feats-t2325605.html",
+  "author": "Tyris2222",
+  "avatar": "no_avatar.png",
+  "replies": "1",
+  "views": "1.8K",
   "posts": [
     {
-      "author": "greyfey",
+      "author": "Tyris2222",
       "avatar": "no_avatar.png",
-      "timestamp": "2:39 PM - Feb 01, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have the start on my Wizard char..I am going for a 35 wizard/3 rogue/2 ftr.build that I have tweaked a bit for the server and RP purposes.[she,ll be a Fey/pixie type,someones familiar].<br/>\n<br/>\nRogue for tumble umd and locks/traps,[familiar].<br/>\nFtr purely for the extra feats,HP boost...mainly the feats.<br/>\n<br/>\nOk,now I have it roughly worked out,no save spell,s,damage shields and umd for wands ,scrolls and robes etc.<br/>\nAt the moment she has spell focus,Grt. spell focus and Epic spell focus,and Spell penetration,Grt,spell pen. and Epic spell pen.<br/>\nAlso Extend, maximize,empower and still for more slot,s.<br/>\nHowever,she will end up with 32 int,would it be worth dropping the focus line and/or the penetration line and just grabbing more Int?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:54 PM - Feb 01, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>greyfey wrote:</strong>I have the start on my Wizard char..I am going for a 35 wizard/3 rogue/2 ftr.build that I have tweaked a bit for the server and RP purposes.[she,ll be a Fey/pixie type,someones familiar].</div></blockquote>\nInteresting RP concept! \n<blockquote><div>Rogue for tumble umd and locks/traps,[familiar].<br/>\nFtr purely for the extra feats,HP boost...mainly the feats.</div></blockquote>\nWhat feats? A wizard with 9 bonus feats normally isn't feat starved\n<blockquote><div>Ok,now I have it roughly worked out,no save spell,s,damage shields and umd for wands ,scrolls and robes etc.</div></blockquote>\nNo save spells?  If you plan on only casting spells that don't allow a save, you don't need any spell focus.<br/>\nSince you are a wizard, you don't need umd for wands and scrolls\n<blockquote><div>At the moment she has spell focus,Grt. spell focus and Epic spell focus,and Spell penetration,Grt,spell pen. and Epic spell pen.<br/>\nAlso Extend, maximize,empower and still for more slot,s.<br/>\nHowever,she will end up with 32 int,would it be worth dropping the focus line and/or the penetration line and just grabbing more Int? </div></blockquote>\nWith 35 caster-levels you don't need the penetration feats for piercing standard toolset SR (32). If you know that you will come across creatures with higher SR, you can take the feats you need to penetrate their SR. Dropping 2 fighter levels for wizard will also improve your penetration by 2.<br/>\nInt 38 is the max you can get with your setup. With Int 32, the DC of your spells will be 22 for lvl 1 spells and 30 for lvl 9 spells. If you take epic spell focus, the DCs for that school will be 28 for lvl 1 spells and 36 for lvl 9 spells.<br/>\nWith int 38 the DCs will be +3 better, but then you have to find room for 6 Great int feats. You have to start with int 18 and only take int at lvl up.<br/>\nWith int buffed to the cap (+12) the DC will improve by +6.<br/>\n<br/>\nSuggested feats:<br/>\nextend sp, silent sp, empower sp, max sp, quicken sp, craft wand, spell focus x2, g sp focus x2, epic s focus x2, Great int x8, epic mage armor, epic warding, leaving room for 1 more pre epic feat (2 if based on human character)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "greyfey",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:05 PM - Feb 01, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmm,food for thought there,prob drop ftr altogether and go 37/3,and keeping the Rogue for skills and tumble,mainly for RP though...thanks i,ll make my brain hurt a bit more on this<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Chaozrulez",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:17 PM - Feb 19, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Certainly don't need SF Penetration, with lvl9 Mord you can also decrease the target's SR which will save you 3 skill slots.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:05 AM - Mar 23, 2013",
+      "content": "<div>How would you rate the usefulness of these feats?<br/>\n<br/>\nCrippling Strike<br/>\nDefensive Roll<br/>\nImproved Evasion<br/>\nOpportunist<br/>\nSkill Mastery<br/>\nSlippery Mind<br/>\nBlinding Speed</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "11:48 AM - Feb 21, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Mayhaps you need a more basic explanation...<br/>\n<br/>\nSpell Penetration increases your caster levels when trying to beat a certain SR. Maximum Toolset (non-character or custom boss with monk levels) SR is 32, so you should be able to beat them without the spell penetration line of feats. There are also spells that lower enemy SR in case you need them: Lesser Spell Breach, Greater Spell Breach and Mordenkainen's Disjunction (which lowers it by 10 points!!!!!!) in the Wizard spellbook and Nature's Balance which is a Druid spell and you should have access to it through scrolls and UMD.<br/>\n<br/>\nAs for INT and Spell Focus, both affect the spell DC (the difficulty class the enemies have to beat in order not to suffer the effects of your spell). The higher your INT score, the higher your DCs, and you can further increase your spell DCs with the Spell Focus line of feats, just pick a school. I'd go for necromancy, because if they fail the save, they die, and if they succeed, generally speaking nothing happens (except Finger of Death, but even that one just does 3d6 negative energy damage, which is basically worthless). Wail of the Banshee, which is a 9th level area death spell, does nothing if the enemy makes the save. I would definitely prioritize the spell DCs even against some epic spells like Greater Ruin (which will no doubt have a lower DC than your high level SF school spells).<br/>\n<br/>\nI hope this helps.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "greyfey",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:50 PM - Feb 21, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With all this advice i have changed her too 37 wiz, generalist.3 rogue,at lvl 1,for skillpoints and getting through the first few lvl,s.<br/>\nlvl,20,middle skill dump for umd and tumble,possibly trapsetting too,still investigating that on the server.<br/>\nlvl,39,just too top it all up,umd for goodies,tumble for ac, etc.<br/>\nNo spell pen feats ,but,spell focii in Necro, and Evocation,sp. focus,grt. sp. focus and epic spell focus in each,and taking The initial courteous Magocracy at lvl 1 .<br/>\nExtend,Empower, Maximize...possibly Still,most probably...and rest too Grt. Int feats.<br/>\nI was tempted too just take 2 rogue lvl,s,possibly even just one...but the concept of her being the standard caster,s familiar would of been compromised...I even copied the Fey Bio,and managed too get the fey voiceset <br/>\nAlso the caster im playing the familiar of,has the same name for her Fey.<br/>\nAlready been asked how do you pick stuff up,sell things while possessing her?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "11:29 AM - Feb 22, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would stick with 35 / 2 / 3 if I were you. The 2 feats you get with the Fighter bonus feats are IMO better than 2 extra caster levels. If you went Wiz 38 Rogue 2, then it`d be an about even trade. 1 less feat, but 3 more caster levels. 37/3 IMO is unnecessary and a waste of 2 levels  I'm obviously only considering the powergaming portion of this build, RP-wise, anything is acceptable.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:32 AM - Feb 24, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>I would stick with 35 / 2 / 3 if I were you. The 2 feats you get with the Fighter bonus feats are IMO better than 2 extra caster levels.// I'm obviously only considering the powergaming portion of this build...\n</div></blockquote>\nI'm curious what fighter feats will make this epic wizard more powerful, unless you want to make a fighter - mage and take martial combat feats in the first place.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "1:28 PM - Feb 25, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Armor Skin, which would give an extra 2 AC and perhaps Epic Prowess for Shapechanging. Minor, granted, but better than not having either for 2 CLs in an already CL-abundant build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:25 PM - Feb 25, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If I should take only 35 wizard levels, 5 levels of rogue is also an alternative for more skillpoints and more frequent skilldumps.<br/>\nIf I took 2 levels of fighter for the two feats, expertise and improved expertise are hot candidates, unless casting in expertise mode is cancelled.<br/>\nBut once you start thinking AC, tumble becomes important and sooner or later you consider still spell, and even the auto-still series, since fighter gives you the armor and shield feats. Continue that trail of thoughts and you add discipline and it's epic skillfocus (to compensate for your low strength). And once you are there, armor skin becomes interesting too.   <br/>\nBetter stop while your build still is a wizard.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "8:05 PM - Feb 25, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">indeed. I was assuming that casting in IE is disabled, at least everywhere I have ever played it is, so I was taking it for granted. But, ESF discipline doesn't sound so bad as a replacement for Epic Prowess. Keep talking, u''re getting somewhere!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:57 AM - Apr 16, 2013",
+      "content": "<div>Hey, mate!<br/>\n<br/>\nWell, I am not so experienced with Rogues, but I guess most are environment-dependant. BUt let me try to give you a general idea:<br/>\n<br/>\n- Crippling Strike: VERY GOOD against things that aren't immune to it. It lowers the STR score of the target when it's sneaked. If a lot of immunities are common where you play, not so useful.<br/>\n- Blinding Speed: OK if there is no perma-haste or other way to haste yourself. Otherwise a wasted investment. a Haste wand or even scrolls are more useful, being that BS is only once-per-day for a short duration.<br/>\n- Slippery Mind: Useless if you have the habit of carrying Clarity Potions around (which as a rogue you should).<br/>\n- Defensive Roll: It's a requirement for Epic Dodge, which is the must-have of all dex-oriented builds that have Rogue levels, but the feat itself if not to get ED isn't worth the investment.<br/>\n- Improved Evasion: It's the other requirement of Epic Dodge, so it's often taken for that. Has some value for STR-oriented rogues because their Reflex save is lower, and that makes them take half damage when they fail a reflex save. For a DEX-heavy build (other than as a requirement for Epic Dodge), it's nearly useless, as Reflex should be a strong save already, so how often will you really fail a Reflex save to make use of this feat? Answer, probably 5% of the time (when you roll a natural 1).<br/>\n- Opportunist: Not totally worthless if you have NOTHING ELSE to invest on, but I would take Improved Sneak Attack over it anytime.<br/>\n- Skill Mastery: Can be useful to set traps in combat, but how often do you do that? If your set trap is high enough, you probably won't need it.<br/>\n<br/>\nAs for the feats you asked about, these are all, but if you take Rogue levels in epics, you'll have access to other feats. Here is a list:<br/>\n<br/>\n- Improved Sneak Attack: Gives you an extra d6 of SA damage, which is good.<br/>\n- Epic Skill Focus: Gives you +10 to one skill and can be taken multiple times (applying to different skills). So you can have ESF: Set Traps and set traps in combat without skill mastery, for example, or you can have ESF: Hide and ESF: Move Silently if your world has a nerfed True Seeing spell, etc...<br/>\n<br/>\nMost of the stuff is dependant on where you play, but I hope this helps you a bit.<br/>\n<br/>\nTake it EZ!</div>"
     }
   ]
 }

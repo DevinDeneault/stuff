@@ -4,221 +4,116 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "338",
-  "name": "Monk/SD/Assassin?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-sd-assassin-t2350408.html",
-  "author": "Moredhel",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 34,
+  "name": "A Monk/Sorc/RDD Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-monk-sorc-rdd-build-t2350770.html",
+  "author": "Apocrypha",
+  "avatar": "no_avatar.png",
+  "replies": "16",
+  "views": "5.7K",
   "posts": [
     {
-      "author": "Moredhel",
+      "author": "Apocrypha",
       "avatar": "no_avatar.png",
-      "timestamp": "9:29 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys, me again <br/>\n<br/>\nI was hoping someone (and that someone will be Max, I'm sure *grin*) could give me a good build for an (obviously) evil monk/shadow dancer/assassin. The idea for it came up after re-reading my topic about the evil rogue/cleric/blackguard-request. While I enjoy all-out combat it's also cool to just sit back and shoot arrows or sneak around and backstab the enemy to death!<br/>\n<br/>\nNot sure about race and weapon focus. I could pick human for extra stuff, or elf and give him a black skin and white hair and see him as a drow (no I will NOT install various hakpacks to get the real drow race), or have a typical elf who has a different view on life and, well, death (much like Grimgnaw). For weapons I could stick to the monk's favorite kama's, but short swords and kukri's could be funky as well.<br/>\n<br/>\nMaybe it's better to play him as<br/>\n1) rogue instead of monk, but then you have your standard setup for backstabbers;<br/>\n2) rogue instead of assassin, but that feels less evil.<br/>\n3) rogue instead of shadow dancer, ditching the HiPS.<br/>\n<br/>\nI'd like to ask about a build wherein I can get all three classes at lvl 10 or so, since I don't really like waiting X lvls for the first lvl of class Y to be added, like <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Monk_20/_shadowdancer_1/_assassin_19\" rel=\"noreferrer\" target=\"_blank\">THIS</a> build I found after a quick \"nwn monk/sd/assassin\" search on google. Thanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:18 AM - Mar 04, 2014",
+      "content": "<div>So, I was planning on running through the Aielund Saga (again), and while I normally focus more on roleplay in a build than powergaming, I thought this combo had potential enough to sufficiently be both. I have most of the levels planned out: 10 in RDD per usual, 9 in Sorcerer for Stoneskin, and the rest in Monk. The plan was for him to buff himself with Stoneskin and other minor spells, then run in and melee with that nicely boosted Strength. I could still use some help organizing the stats and picking out feats, so any help would be appreciated.</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:30 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is something I found on my hard drive. I have not posted the build yet, not even given it a proper name.<br/>\nThe character has 7 attacks per round, 8 with flurry, a Death attack DC of 38, epic dodge, UMD, scouting skills and trap handling for deadly traps.<br/>\n<br/>\nMonk(9), Assassin(26), Shadowdancer(5), Elf<br/>\n<br/>\nSTR: 10<br/>\nDEX: 18 (36)<br/>\nCON: 12<br/>\nWIS: 14<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n01: Monk(1): Dodge<br/>\n02: Monk(2): <br/>\n03: Monk(3): Weapon Finesse<br/>\n04: Monk(4): DEX+1, (DEX=19)<br/>\n05: Monk(5)<br/>\n06: Monk(6): Mobility, {Knockdown, Improved Knockdown}<br/>\n07: Assassin(1)<br/>\n08: Shadowdancer(1): DEX+1, {Hide in Plain Sight}, (DEX=20)<br/>\n09: Assassin(2): Weapon Focus: Kama,<br/>\n10: Assassin(3)<br/>\n11: Assassin(4)<br/>\n12: Assassin(5): DEX+1, Two-Weapon Fighting, (DEX=21)<br/>\n13: Assassin(6)<br/>\n14: Assassin(7)<br/>\n15: Assassin(8): Ambidexterity<br/>\n16: Shadowdancer(2): DEX+1,  (DEX=22)<br/>\n17: Monk(7)<br/>\n18: Monk(8): Improved Two-Weapon Fighting<br/>\n19: Shadowdancer(3)<br/>\n20: Shadowdancer(4): DEX+1, (DEX=23)<br/>\n21: Assassin(9): Epic Weapon Focus: Kama<br/>\n22: Assassin(10)<br/>\n23: Assassin(11)<br/>\n24: Assassin(12): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Assassin(13)<br/>\n26: Shadowdancer(5): {Defensive Roll}<br/>\n27: Monk(9): Epic Dodge, {Improved Evasion}<br/>\n28: Assassin(14): DEX+1, Great Dexterity II, (DEX=27)<br/>\n29: Assassin(15)<br/>\n30: Assassin(16): Epic Prowess<br/>\n31: Assassin(17)<br/>\n32: Assassin(18): DEX+1, Great Dexterity III, (DEX=29)<br/>\n33: Assassin(19): Great Dexterity IV, (DEX=30)<br/>\n34: Assassin(20)<br/>\n35: Assassin(21)<br/>\n36: Assassin(22): DEX+1, Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n37: Assassin(23)<br/>\n38: Assassin(24)<br/>\n39: Assassin(25): Great Dexterity VII, (DEX=34)<br/>\n40: Assassin(26): DEX+1, Great Dexterity VIII, (DEX=36)<br/>\n<br/>\nHitpoints: 308<br/>\nSkillpoints: 268<br/>\nSaving Throws (Fortitude/Will/Reflex): 20/21/39<br/>\nSaving Throw bonuses: Spells: +2, Mind Effects: +4, Traps: +3, Poison: +6<br/>\nBAB: 25<br/>\nAB (max, naked): 42 (melee), 39 (ranged)<br/>\nAC (naked/mundane armor/shield only): 34/34<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nDisable Trap 24(26), Hide 43(56), Listen 43(47), Move Silently 43(56), Open Lock 2(15), Search 17(21), Set Trap 1(16), Spellcraft 8(10), Tumble 40(53), UMD 36(35), remaining skillpoints 3<br/>\n<br/>\n<br/>\n01: Hide(4), Listen(4), Move Silently(4), Tumble(4), Save(8), <br/>\n02: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(10), <br/>\n03: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(12), <br/>\n04: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(14), <br/>\n05: Hide(1), Move Silently(1), Tumble(1), Save(17), <br/>\n06: Hide(1), Move Silently(1), Tumble(1), Save(20), <br/>\n07: Disable Trap(10), Hide(1), Move Silently(1), Open Lock(2), Search(10), Set Trap(1), Tumble(1), <br/>\n08: Hide(1), Listen(4), Move Silently(1), Search(1), Tumble(1), <br/>\n09: Disable Trap(2), Hide(1), Move Silently(1), Search(1), Tumble(1), <br/>\n10: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), <br/>\n11: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), <br/>\n12: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), <br/>\n13: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), <br/>\n14: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), <br/>\n15: Disable Trap(1), Hide(1), Listen(2), Move Silently(1), Tumble(1), <br/>\n16: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(4), <br/>\n17: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(6), <br/>\n18: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(8), <br/>\n19: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(12), <br/>\n20: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(16), <br/>\n21: Disable Trap(6), Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(12), <br/>\n22: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n23: Hide(1), Listen(1), Move Silently(1), UMD(3), <br/>\n24: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n25: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n26: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(4), <br/>\n27: Hide(1), Listen(1), Move Silently(1), Tumble(2), Save(5), <br/>\n28: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(7), <br/>\n29: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n30: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n31: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(2), <br/>\n32: Hide(1), Listen(1), Move Silently(1), Tumble(1), UMD(1), Save(1), <br/>\n33: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), UMD(1), <br/>\n34: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), <br/>\n35: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), <br/>\n36: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), <br/>\n37: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Tumble(1), <br/>\n38: Hide(1), Listen(1), Move Silently(1), Spellcraft(1), Save(1), <br/>\n39: Hide(1), Listen(1), Move Silently(1), Spellcraft(2), <br/>\n40: Hide(1), Listen(1), Move Silently(1), Save(3),<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:23 PM - Mar 04, 2014",
+      "content": "<div>I have played through Aielund twice (one with a group) and if you want my honest opinion, it is not worth it to take 9 sorcerer lvls for stoneskin.<br/>\n<br/>\nAs you are familiar with the module i will just point out that the damage reductions on armors and shields will quickly make the spell obsolete.<br/>\n<br/>\nIf you still want to make such a build, we will help you out but first we need to know what do you intent to use. Your fists or a weapon?</div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:59 PM - Mar 04, 2014",
+      "content": "<div>Fists. I know kamas have more cheese potential, but there are certain parts in the series where you lose your inventory and being able to fight without weapons would be a lot more useful. And I like the concept of a half-dragon monk beating people up with his bare hands (claws?).<br/>\n<br/>\nI personally would prefer Stoneskin, but if you have any better ideas for where to stop levels, I'm open to suggestions!</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:36 PM - Mar 04, 2014",
+      "content": "<div>I have played the Aielund Saga with that same combo, but with only 1 level of Sorcerer (at level 21) to get RDD. Unfortunately, that build is on my other computer, which is down right now. I have read that Dev Crit is disabled in the current version of the Aielund Saga, so leave it out of the build.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:52 PM - Mar 04, 2014",
+      "content": "<div>Fists it is then.<br/>\n<br/>\nAnd there are some nice pair of gloves in the module as well, so a good choice nevertheless.<br/>\n<br/>\nThis is what Empyre is talking about. -&gt; <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build293884.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 93884.html</a><br/>\n<br/>\nIn place of his Over. Critical &amp; Dev. Critical take two additional GR. STR for a final STR of 40 &amp; AB of 44.<br/>\n<br/>\nThis ain't a sorcerer build as you might want, but from a powerplay perspective it is very strong. You can still use sorcerer scrolls to buff if you like though.</div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:12 PM - Mar 04, 2014",
+      "content": "<div>That is a really good build, but you're right, it's not what I'm looking for. Appreciate it nonetheless! Is there anything with more than a dip into Sorc?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:22 PM - Mar 04, 2014",
+      "content": "<div>Aye there are, but they assume (correctly) that the focus is on a weapon rather and focus on that.<br/>\n<br/>\nThe reason behind that, is that you need Monk 16 &amp; RDD 10 both if you want the D20 fists and the full bonusses from RDD, thus leaving little room for more sorcerer. So they abandon the concept and instead focus on rising spellcasting potencial.<br/>\n<br/>\nSuch a build is this one -&gt; <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build207983.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 07983.html</a><br/>\n<br/>\nAgain a good build, focused in the power of a Dev. Crit Sorcerer-spellsword but he used Monk for the added bonusses only and not as  the focus of the build that you want.<br/>\n<br/>\n<br/>\nFrankly for what you want there are two choices.<br/>\n<br/>\nEither you make a custom build that have the most Sorcerer levels you can fit in (Sorcerer 12/ Monk 18/ RDD 10) for example OR you select and play a true Monk without the RDD class.<br/>\n<br/>\nHere is mine -&gt; <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/the-iron-fist-monk-35-ftr-5-t2349903.html\" rel=\"noreferrer\" target=\"_blank\">the-iron-fist-monk-35-ftr-5-t2349903.html</a><br/>\n<br/>\nAnd here is a Stunner Monk (scroll down a bit) -&gt; <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/legendary-master-for-consideration-t2350034.html\" rel=\"noreferrer\" target=\"_blank\">legendary-master-for-consideration-t2350034.html</a><br/>\n<br/>\n<br/>\nI hope that helped a bit to help you make up your mind.</div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:42 AM - Mar 05, 2014",
+      "content": "<div>Well, that IS what I came here for: help making a new build that gets some usage out of its Sorc levels. Though I am willing to just dip into it if that's what most people recommend, I was curious if anything could actually be done with  several levels--no offensive spells, not with such a low DC, but I thought some of the buffs might not be bad. Hence, 9 levels (initially) for Stoneskin.<br/>\n<br/>\nSo, to get back on tangent: any suggestions for a magical mix-in, or should I just stick to Empyre's (very good) build?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:19 PM - Mar 05, 2014",
+      "content": "<div>You can certainly do something with the extra sorcerer levels, i already provided you with a good class split (12/18/10) for early playability, another one that maxes out Sorcerer is (14/16/10).<br/>\n<br/>\nThat's the maximum you can have since you already need the D20 fists &amp; the RDD prestige class full bonuses.</div>"
+    },
+    {
+      "author": "Apocrypha",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:00 PM - Mar 05, 2014",
+      "content": "<div>Alright, thanks. So what do you think of this?<br/>\n<br/>\nLegacy of the Dragon (Monk 18/Sorcerer 12/Red Dragon Disciple 10) {Rough Draft}<br/>\n<br/>\nRace: Human<br/>\nAlignment: Any Lawful<br/>\nPvE<br/>\n<br/>\nSTR: 14 (32)<br/>\nDEX: 14<br/>\nCON: 12 (14)<br/>\nINT: 10 (12)<br/>\nWIS: 14<br/>\nCHA: 14 (16)<br/>\n<br/>\n1) Monk, Luck of Heroes, Toughness<br/>\n2) Monk<br/>\n3) Monk, Weapon Focus: Unarmed<br/>\n4) Monk, STR<br/>\n5) Monk<br/>\n6) Monk, Blind-Fight<br/>\n7) Sorcerer<br/>\n8) Red Dragon Disciple, STR<br/>\n9) Red Dragon Disciple, Power Attack<br/>\n10) Red Dragon Disciple<br/>\n11) Red Dragon Disciple<br/>\n12) Red Dragon Disciple, Great Cleave, STR<br/>\n13) Red Dragon Disciple<br/>\n14) Red Dragon Disciple<br/>\n15) Red Dragon Disciple, Improved Critical: Unarmed<br/>\n16) Red Dragon Disciple, STR<br/>\n17) Red Dragon Disciple<br/>\n18) Monk, Called Shot*<br/>\n19) Monk<br/>\n20) Monk, STR<br/>\n21) Monk, Epic Weapon Focus: Unarmed<br/>\n22) Monk<br/>\n23) Monk<br/>\n24) Monk, Epic Prowess, STR<br/>\n25) Monk<br/>\n26) Monk,<br/>\n27) Monk, Armor Skin<br/>\n28) Monk, STR<br/>\n29) Monk<br/>\n30) Sorcerer, Great STR I<br/>\n31) Sorcerer<br/>\n32) Sorcerer, STR<br/>\n33) Sorcerer, Great STR II<br/>\n34) Sorcerer<br/>\n35) Sorcerer<br/>\n36) Sorcerer, Great STR III, STR<br/>\n37) Sorcerer<br/>\n38) Sorcerer<br/>\n39) Sorcerer, Great STR IV<br/>\n40 Sorcerer, STR<br/>\n<br/>\n* Called Shot isn't essential, but I can't think of anything else to put in that slot. Maybe Extend Spell for buffs.<br/>\n<br/>\nSkills:<br/>\nConcentration<br/>\nDiscipline<br/>\nLore<br/>\nSpellcraft<br/>\nTumble<br/>\n<br/>\nI'm still trying to calculate how many Skill points you get, but generally I'd max all of them but Lore, which can be left at 8.<br/>\n<br/>\nRecommended Spells:<br/>\nCantrips: All<br/>\n1st Level: Mage Armor, Magic Missile, Protection From Alignment<br/>\n2nd Level: Death Armor, Invisibility<br/>\n3rd Level: Displacement<br/>\n4th Level: Elemental Shield, Isaac's Lesser Missile Storm, Stoneskin<br/>\n5th Level: Bigby's Interposing Hand, Mestil's Acid Sheath<br/>\n6th Level: Bigby's Forceful Hand, Ethereal Visage, Isaac's Greater Missile Storm<br/>\n<br/>\nStill working on the spellbook, of course, but I tried to pick out spells that either buffed you or couldn't be saved against since your Spell DC won't be that great. I can't remember if Keen Edge, Flame Weapon, and the Magic Weapon spells work on Unarmed, but I don't think they do since they aim at whatever's in your weapon slot.<br/>\n<br/>\nAlso, I have no clue how to calculate AB or estimate damage, so any help on that front is appreciated as well.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "10:41 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Great! This build is GOOD! 26 Assassin levels for an astonishing DC to Death Attack, earliest possible HiPS, earliest possible Epic Dodge, it's THAT good!!<br/>\nThe only minor change I would make would be the following:<br/>\n<br/>\n- drop spellcraft and increase Set Trap to 23 to set all deadly traps.<br/>\n<br/>\n- swap Listen for Spot on environments where True Seeing adds to Spot instead of insta-grant you sight of hidden and invisible creatures.<br/>\n<br/>\nYou should post this one mick. Why don't you call him something like Vanishing Death?<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:02 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That build looks awesome, Mick <br/>\n<br/>\nAnd I shall indeed choose Spot instead of Listen, thanks for that input, Max!<br/>\n<br/>\nedit: woops, misread that, had Search in mind. Since I will play the OC/SoU/HotU, could I sink some points into Persuade instead of Listen/Spot?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:08 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He can recover all deadly traps, will detect all deadly traps immediately, and can set all deadly traps except the gas traps (good value for investing only 1 skillpoint in set trap). If you want to use gas traps, you will need a modified rank of 25 since it is a take 20 skill. Spellcraft comes late in the build, but can easily be swapped. It becomes more tricky if you want to improve set trap earlier.<br/>\nListen or spot - choices, always the choices    Different players have different preferences here, so it is a good option.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:24 PM - Mar 05, 2014",
+      "content": "<div>Well, I think I can help you help yourself <br/>\n<br/>\nAB is BAB + STR (or DEX if you have Weapon Finesse and a higher DEX than STR) modifier + feats + magical enhancements. BAB is the one that is a bit more complex. Basically, it's class-related for the first 20 levels, then grows constantly at the rate of 1 every 2 levels (starts at odd levels, then goes on.<br/>\n<br/>\nYou should read <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/a-complete-guide-to-the-basics-of-character-building-t515440.html\" rel=\"noreferrer\" target=\"_blank\">THIS GUIDE</a> to understand most \"general\" factors of character building. What I mean by general factors is stuff that applies to all builds, or at least most (AB is irrelevant for a pure caster, for example). A list of the main \"general\" factors:<br/>\n<br/>\n1- BAB progression<br/>\n2- Skill Dumps<br/>\n3- Feats and Requirements<br/>\n4- Class-specific bonus feat rewards (Clerics gain a bonus feat every 3 levels after 20, Druids gain a bonus feat every 4 levels after 20, etc...)<br/>\n5- Spread optimization (Optimization of the number of levels of each class you need to take to maximize the power of your build).<br/>\n6- Stat considerations<br/>\n7- Leveling order and feat selection order<br/>\n8- Skill point allocation per level.<br/>\n<br/>\nYeah, you got a lot of work to do. Have fun!!!<br/>\n<br/>\nHave fun!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:56 PM - Feb 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A friggin Kama assassin? Three death attacks on first flurry? With 38 Dc each un-buffed?<br/>\n<br/>\nLol why oh why you didnt post that?<br/>\n<br/>\nI like it a lot!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:44 PM - Feb 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Currently am lvl 4 on this guy and liking it so far! What would you suggest I wear when I reach lvl 7? Stick with Monk robes (either shining hand or old order) or take (studded) leather? I currently have bracers of DEX +1 on, with that my DEX is 20 with a +5 bonus, and that will be negatively influenced by leather armor (DEX cap 4)...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:54 PM - Mar 05, 2014",
+      "content": "<div>I see you made a rough draft of the character, well done.<br/>\n<br/>\nOn the other hand take a quick look at the build and tell me, When that stoneskin will be available. Or the D20 fists for that matter.<br/>\n<br/>\nSee why this build is difficult? You get your precious stoneskin at lvl 37 as it is now. I believe that wasn't exactly what you had in mind.<br/>\n<br/>\nAlso, with 12 sorcerer lvls you do need extend spell.<br/>\n<br/>\nI would probably try and move early the first 8 Sorcerer lvls along with some Monk there leaving RDD for later and lastly finish it off with the final 2 monk lvls. <br/>\n<br/>\nYou will loose some AB there but you will have spells actually before the campaign is over.<br/>\n<br/>\nLet me see again the custom Aielund A.I rules pack, i believe it has a version of Tenser's there that's similar to what they have in WoG. If that is the case then you don't need to worry about AB that much.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:47 PM - Feb 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Padded till your dexterity makes that obsolete, so you switch to robes once again. Dark moon i think offer haste so that's the best choise ultimately.<br/>\n<br/>\n* Ah, and welcome to the world of cheddar (kamas)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:35 PM - Mar 05, 2014",
+      "content": "<div>Alright, i made a rough build based on your needs and tried to get most things the earliest possible although i am sure it takes some optimization more.<br/>\n<br/>\nI went in chunks of either 4 OR 8 with the three classes to preserve as much AB was possible while giving you those Sorcerer buffs pre-epic. You no longer have to wait till lvl 36 to cast stoneskin.<br/>\n<br/>\nI took Craft Wands so you can now spam those spells of yours as much as needed. Extend spell was taken as well to better utilize those damage shields you can cast.<br/>\n<br/>\nTake Pixie as a familiar so you can unlock doors all by yourself.<br/>\n<br/>\nFinal AB is 40 which is not bad at all actually, especially when you hit like a truck with your 36 STR (48 Buffed). And if that Tenser's of the EMS works as it should it will be much-much higher.<br/>\n<br/>\nPerhaps Max, that has played the module some times can tell us if that works or not.<br/>\n<br/>\n<br/>\nWell, that's it for now, tell me if you like it and we can proceed to make it better.<br/>\n<br/>\n<br/>\n<strong>Legacy of the Dragon</strong><br/>\n<br/>\n<strong>(Sorcerer 12/ Monk 18/ RDD 10)</strong><br/>\n<br/>\n RACE: Human<br/>\n<br/>\n ALIGNMENT: Lawful Any <br/>\n<br/>\n PLAYABILITY: PvM 1-40<br/>\n<br/>\n<strong>STARTING STATS</strong>:<br/>\n STR  - 14<br/>\n DEX - 14<br/>\n CON - 12<br/>\n INT   - 10<br/>\n WIS  - 14<br/>\n CHA - 14<br/>\n<br/>\n<strong> ENDING STATS</strong>:<br/>\n STR  -  36<br/>\n DEX  - 14<br/>\n CON  - 14<br/>\n INT    - 12<br/>\n WIS   - 14<br/>\n CHA  - 16<br/>\n<br/>\n<strong>BASIC STATS</strong>:<br/>\n<br/>\n Hit Points: <br/>\n<br/>\n Skill Points: <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n Saving Throws (Fort/Ref/Will): <br/>\n<br/>\n Naked AC: 31 (Robes)<br/>\n<br/>\n BAB: 23 (Three Attacks \u2013 Five Attacks Unarmed)<br/>\n<br/>\n AB: +40/ +37/ +34/ +31/ +28<br/>\n<br/>\n DMG: 1D20 + 13 / 19-20 X2<br/>\n<br/>\n Spellcasting: Sorcerer 6th Circle of Spells<br/>\n<br/>\n<strong>LEVELING GUIDE</strong>:<br/>\n<br/>\n01) Monk (01): Blind Fight, Toughness<br/>\n02) Monk (02): <br/>\n03) Monk (03): WF: Unarmed Strike<br/>\n04) Monk (04): <br/>\n05) Monk (05): <br/>\n06) Monk (06): Extra stunning attacks<br/>\n07) Sorcerer (01): <br/>\n08) RDD (01): <br/>\n09) RDD (02): Power Attack<br/>\n10) RDD (03): <br/>\n11) RDD (04): <br/>\n12) Sorcerer (02): IC: Unarmed Strike<br/>\n13) Sorcerer (03): <br/>\n14) Sorcerer (04): <br/>\n15) Sorcerer (05): Extend Spell<br/>\n16) Sorcerer (06): <br/>\n17) Sorcerer (07): <br/>\n18) Sorcerer (08): Craft Wands OR Scribe Scrolls<br/>\n19) Monk (07): <br/>\n20) Monk (08): <br/>\n21) RDD (05): EWF: Unarmed Strike<br/>\n22) RDD (06): <br/>\n23) RDD (07): <br/>\n24) RDD (08): Armour Skin<br/>\n25) RDD (09): <br/>\n26) RDD (10): <br/>\n27) Monk (09): Epic Prowess<br/>\n28) Monk (10): <br/>\n29) Monk (11): <br/>\n30) Monk (12): Great Strength I<br/>\n31) Sorcerer (09): <br/>\n32) Sorcerer (10): <br/>\n33) Sorcerer (11): Great Strength II<br/>\n34) Sorcerer (12): <br/>\n35) Monk (13): <br/>\n36) Monk (14): Great Strength III<br/>\n37) Monk (15): <br/>\n38) Monk (16): <br/>\n39) Monk (17): Great Strength IV<br/>\n40) Monk (18):</div>"
     },
     {
-      "author": "Moredhel",
+      "author": "Apocrypha",
       "avatar": "no_avatar.png",
-      "timestamp": "8:36 PM - Feb 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Robes it is then  <br/>\n<br/>\nImproved Robes of the Old Order<br/>\nBAC: 0, MDB: None, ACP: 0, ASP: 0%, W: 1.0<br/>\nArmor Bonus: +2, Damage Reduction: +1 Soak 5 Damage, Usable only by: Monk<br/>\n<br/>\nI like this one <br/>\n<br/>\nedit: and then I read that Robes of the Dark Moon give you an extra attack AND +4 AC... zing!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:35 PM - Feb 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Robes it is, all the way. Once you get UMD you can even wear mage robes, if you find that sexy.   <br/>\n<br/>\nBtw, do you have previous experience with assasins, and how to make paralyzing death attacks? If not, have a look at this <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/the-cold-blooded-killer-an-assassin-guide-t2338372.html\" rel=\"noreferrer\" target=\"_blank\">guide</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:56 PM - Feb 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for that guide! Am I correct in reading it as \"if an enemy is fighting my party member, I cannot attempt a death attack\" ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:52 AM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">w00, 6 monk 1 assassin now<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:58 AM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Moredhel wrote:</strong>Thanks for that guide! Am I correct in reading it as \"if an enemy is fighting my party member, I cannot attempt a death attack\" ?</div></blockquote>\nThe death attack consists of 2 components:<br/>\n1) An attempt to paralyze the target<br/>\nFor the paralyzing attempt to occur, the target must be flat-footed when attacked, and the attack must hit.<br/>\nThe target is then forced to roll a fortitude save vs. the DC of the death attack. If he fails the roll, he will be paralyzed for 1 turn per assassin level. <br/>\n2) A damage bonus<br/>\nThe death attack damage bonus works like the sneak attack of the rogue and blackguard. The death attack damage will be dealt to flat-footed and prone creatures, as well as creatures already in combat as long as they do not fight the assassin directly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:33 AM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lovin' it<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:38 PM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm an unseen whirlwind of death and destruction, pain and suffering!  Stun an orc, kill him, stealth, go to the next, chop chop, next! Rinse and repeat! Bahahahaha!<br/>\n<br/>\nMonk(6), Assassin(1), Shadow Dancer(1)<br/>\n<br/>\nStuff I wield: 2x Kama +2<br/>\nStuff I wear: Robes of the Dark Moon, Pendant of the Elf (Linu's item), Ring of the Rogue (Tomi's item), Sash of Shimmering, Cloak of Protection +1, Bracers of Dexterity +2, Boots of the Sun Soul +3 (can be swapped with Boots of Reflexes +3 if needed)<br/>\n<br/>\nScreenie:<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://puu.sh/79TVm.jpg\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:28 PM - Mar 05, 2014",
+      "content": "<div>Wow, was coming back to post a revised build when I saw yours. It's pretty close to what I did (My levelling order was a bit different, and I kept Great Cleave and Luck of Heroes as opposed to Extra Stunning Attacks and Craft Wands), but I like your version more!<br/>\n<br/>\nI did calculate how many Skill points this build will get: 143, give or take a point. So, Skill accumulation should look something like this:<br/>\n<br/>\n1) C: 4, D: 4, L: 4, T: 4<br/>\n2) C: 5, D: 5, L: 5, T: 5<br/>\n3) C: 6, D: 6, L: 6, T: 6<br/>\n4) C: 7, D: 7, L: 7, T: 7<br/>\n5) C: 8: D: 8, L: 8, T: 8<br/>\n6) C: 9, D: 9, T: 9, Save: 1<br/>\n7) C: 9, D: 9, SP: 3, T: 9<br/>\n8) C: 9, D: 9, SP: 5, T: 9<br/>\n9) C: 10, D: 10, SP: 5, T: 9<br/>\n10) C: 10, D: 10, SP: 7, T: 9<br/>\n11) C: 10, D: 12, SP: 7, T: 9<br/>\n12) C: 10, D: 12, SP: 9, T: 9<br/>\n13) C: 11, D: 12, SP: 10, T: 9<br/>\n14) C: 11, D: 12, SP: 10, T: 10 (cross-class)<br/>\n15) C: 12, D: 12, SP: 11, T: 10<br/>\n16) C: 12, D: 12, SP: 13, T: 10<br/>\n17) C: 12, D: 12, SP: 15, T: 10<br/>\n18) C: 14, D: 12, SP: 15, T: 10<br/>\n19) C: 14, D: 14, SP: 15, T: 12<br/>\n20) C: 14, D: 15, SP: 15, T: 15<br/>\n21) C: 15, D: 16, SP: 15, T: 15<br/>\n22) C: 16, D: 16, SP: 16, T: 15<br/>\n23) C: 16, D: 16, SP: 18, T: 15<br/>\n24) C: 16, D: 16, SP: 20, T: 15<br/>\n25) C: 17, D: 18, SP: 20, T: 15<br/>\n26) C: 18, D: 20, SP: 20, T: 15<br/>\n27) C: 18, D: 20, SP: 20, T: 20<br/>\n28) C: 20, D: 22, SP: 20, T: 21<br/>\n29) C: 20, D: 23, SP: 20, T: 25<br/>\n30) C: 22, D: 26, SP: 20, T: 25<br/>\n31) C: 23, D: 26, SP: 22, T: 25<br/>\n32) C: 23, D: 26, SP: 25, T: 25<br/>\n33) C: 24, D: 26, SP: 27, T: 25<br/>\n34) C: 24, D: 26, SP: 30, T: 25<br/>\n35) C: 25, D: 28, SP: 30, T: 27<br/>\n36) C: 25, D: 30, SP: 30, T: 30<br/>\n37) C: 27, D: 33, SP: 30, T: 30<br/>\n38) C: 30, D: 35, SP: 30, T: 30<br/>\n39) C: 30, D: 42, SP: 30, T: 30<br/>\n40) C: 30, D: 45, SP: 30, T: 30<br/>\n<br/>\nAt level 25 you receive your RDD INT boost, which adds an extra skill point from then on out. Wasn't quite sure where to put the last ten points, chose Discipline over Tumble because I'd rather have the little bit extra resistance to Knockdown than another point of AC.<br/>\n<br/>\nEdit: Also, thanks to Max for posting the link to the guide, was very helpful!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:28 PM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see you have some fun   <br/>\n<br/>\nAgain nice portrait, and... keep us updated!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:28 PM - Mar 05, 2014",
+      "content": "<div>I see that you made a skill breakdown, nice.<br/>\n<br/>\nLet me help you with your skills a bit.<br/>\n<br/>\nChances are that you are not gonna need Concentration at all. That is because you do not cast spells while in battle. If you do need that, you have your wands   <br/>\n<br/>\nSo take those 30 skill points from there and max Tumble for these precious 2 points of AC &amp; Spellcraft at a modified 35 to get also +1 vs spells saves.<br/>\n<br/>\nThat leaves you with 23 skill points if i am not mistaken, so put them somewhere useful like Craft: Basketweaving and the like (jk)<br/>\n<br/>\nSomething else that i noticed reading the documentation of EMS. Stoneskin provides also Critical Hits Immunity (you know, rocky skin and the like)!<br/>\n<br/>\n<br/>\nHmm, this is starting to look good, what do you say?</div>"
     },
     {
-      "author": "Moredhel",
+      "author": "Apocrypha",
       "avatar": "no_avatar.png",
-      "timestamp": "4:33 PM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Man I love how annoying and deadly effective this guy is! In the company of Linu, I stumbled upon a group of ogres, trolls and troll shamans. Them shammies killed Linu and her summoned spider very quickly and I had to decide: use the stone of recall or kill 'em all myself?<br/>\n<br/>\nNo, you didn't have to guess: I darted in and out of the shadows and murdered them one by one! ALL SHALL FALL!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:03 AM - Mar 06, 2014",
+      "content": "<div>I think it's looking really nice  Will note that those last 23 points can be put into whatever you like, maybe Persuade or Heal.<br/>\n<br/>\nI'll make the final calculations for the build (HPs, Saves, etc) and post the finished version in a few hours. Thanks for your help!</div>"
     },
     {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:21 PM - Feb 25, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm rushing through the game, man  When I started today, I was fighting the Yuan-Ti and headed for Blacklake later. I now am hunting the werewolves as the final questline before heading to Luskan, hehe. Went from lvl 4 to 10 in about 6 hours time and it feels a lot faster than any previous character (it also helps that I have the Robes of the Dark Moon on *grin*), I can sometimes simply tell Linu to stay at some place's entrance while I scout out or talk to the person I need to see (Setara's House, Nymph's Home).<br/>\n<br/>\nNew screenie:<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://puu.sh/7ajkS.jpg\" /><br/>\n<br/>\nStill wearing the same belt, boots and bracers but have upgraded the rest <br/>\n<br/>\nedit: oh, and I see I'm about to ding again<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "3:40 AM - Feb 26, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Like I said, the OC is no challenge for a really good build. Point proven itself. You will just wreck everything. A henchman is a mere formality, although you should take them all just to be able to do their quests.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:16 PM - Feb 26, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah I mostly take them along for old time's sake, but now that Im in Luskan I really use Linu because I don't remember anything about that part, which is great<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:36 PM - Feb 26, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The screenshot shows that you dual wield the kamas. <br/>\nIf you follow the build progression as it is posted, you don't have any two weapon fighting feats yet. <br/>\n<br/>\nYour AB at level 10 with your equipment is +14/+11 with the main hand weapon and +10 off hand. With TWF and Ambidex the AB would be +16/+13 with the main hand and +16 off hand.<br/>\nYour AB will be +18/+15 if you switch to a single kama. <br/>\n<br/>\nThe build is meant to start dual wielding at level 15 when you have both TWF and Ambidex. It is possible to start taking the two weapon fighting feats earlier if you delay WF Kama. Then you can have TWF at level 9 and Ambidex at level 12.<br/>\n<br/>\nFrom your reports I understand that the character works well after all, I guess that either demonstrates how easy the OC is or how powerful an assassin with HIPS is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:54 PM - Feb 26, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Both?<br/>\n<br/>\nRandom paradigm of the day, Ogre chieftain's AC = 14.  \"whistles\"<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nCome on, Moredhel gives us a good screenshot man!<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imagizer.imageshack.us/v2/1280x1024q90/152/thelordofterror10000.jpg\" /><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imagizer.imageshack.us/v2/1280x1024q90/26/prettygoodcharacte0002b.jpg\" /><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imagizer.imageshack.us/v2/1280x1024q90/16/prettygoodcharacte0000b.jpg\" /><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imagizer.imageshack.us/v2/1280x1024q90/689/worldofgreyhawk0003p.jpg\" /><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://imagizer.imageshack.us/v2/1280x1024q90/607/worldofgreyhawk0006h.jpg\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:40 PM - Feb 26, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Mick Dagger wrote:</strong>The screenshot shows that you dual wield the kamas. <br/>\nIf you follow the build progression as it is posted, you don't have any two weapon fighting feats yet. <br/>\n<br/>\nYour AB at level 10 with your equipment is +14/+11 with the main hand weapon and +10 off hand. With TWF and Ambidex the AB would be +16/+13 with the main hand and +16 off hand.<br/>\nYour AB will be +18/+15 if you switch to a single kama. <br/>\n<br/>\nThe build is meant to start dual wielding at level 15 when you have both TWF and Ambidex. It is possible to start taking the two weapon fighting feats earlier if you delay WF Kama. Then you can have TWF at level 9 and Ambidex at level 12.<br/>\n<br/>\nFrom your reports I understand that the character works well after all, I guess that either demonstrates how easy the OC is or how powerful an assassin with HIPS is.  </div></blockquote>\nStarted dualwielding them kama's at lvl 5 or so, lol. I am currently lvl 12 (close to 13, just started chapter 3) and enjoying the rapid attacks I do in this order:<br/>\n1. Sneak (duh)<br/>\n2. Enable Flurry of Blows<br/>\n3. Attack<br/>\n<br/>\nTriple Death Attack in 1 round. Rinse and repeat if need be <br/>\n<br/>\nAttacks are mainhand +18/+15+12 and  offhand +14, not too shabby for duelwielding before you say it's viable<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "4:00 AM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, as a matter of fact, it again goes to show how easy the OC is. In a more challenging environment, you'll be facing mid 20 ACs at that point AT LEAST. I know you aren't playing anywhere else, but we're just telling you that you shouldn't use the OC as a basis to decide ANYTHING if you ever play that build again anywhere else. The outcome will be VERY DIFFERENT. Trust me on that one <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:26 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Lord of Terror &amp; Aielund would like to have a word with you after you done with the OC/SOU/HoTU   <br/>\n<br/>\nI am glad you have fun playing Mick's build man, you seem to really enjoy it, keep us informed!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "5:45 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have actually played this guy through Aielund act 1&amp;2. <br/>\nThe start was a bit slow, and he survived (barely) the first levels with a X-bow and some desperate melee with Flurry of blows and Stunning fist. He did a lot of cow killing before he dared solo the south road in act 1. After he got to level 3 and got his first hit of Monk speed, he survived as a \"run n gun\" archer, until the hitpoints and new found equipment allowed him to be more active in melee. He grew gradually stronger compared with what he was up against, but even so the first SD level with HIPS was a turning point. After that everything went smoothly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:38 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Man, did I have a tough time fighting Klauth (the ancient red wyrm)... I did the thingsy (not wanting to spoil much), but even with that he was nigh untouchable. After Linu died for the 4th time and I barely escaped, I reverted to a different approach: stand back on the bridge and shoot the bastard with frostbolts <br/>\n<br/>\nI'm now in chapter four, ready to end the game (and hopefully ding lvl 15 before I end it (6k xp to go)!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:43 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hehe, first time you faced someone with 30+ AC and you bailed out already?   <br/>\n<br/>\nWhen you start trying new things, (other modules but especialy some good PW's) and you get some experiance, you will someday turn back and wonder.. How did i thought that thing difficult?<br/>\n<br/>\nI remember way back into 2005 at the original boards of Bioware, people complaining about that Balor in last act. \" I can't hurt it! Please help!! \" And the fun was that the game was offering +3 weapon in abudance actually..<br/>\n<br/>\n<br/>\nIt's all a matter of experiance, you can't become better at chess if you keep facing the same low skill opponents. You have to get beaten by a better player and start thinking, why you lost.<br/>\n<br/>\nThen you find a way to overcome this and next time you will be better without even realizing it.<br/>\n<br/>\n<br/>\nAnother thing that i am sure made this more difficult i actually the bad A.I of your henchmen. This won't happen with Tony's A.I as Linu will buff to heavens and will be very formidable all by herself.<br/>\n<br/>\nIf you haven't already installed that thing, i advice you to do it as soon as possible, it makes the whole NwN a lot better. Skills start to matter, henchmen actually think, it's a whole new level of experiance.<br/>\n<br/>\n<br/>\nFor Klauth, it is actually indented to be tough, you know in FR this dragon is actually a major player in the epics. What do you do when you face a major battle? Preparations are the answer, buff as if there is no tomorrow!<br/>\n<br/>\nYou will find this, to be the answer in many tough situations, alongside with proper tactics of course.<br/>\n<br/>\n<br/>\nI am glad you move through  the campaign with speed though, seems you have a blast with it.<br/>\n<br/>\nAs always keep us informed!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:58 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Haha, I didn't bail, I changed tactics!  Instead of Linu, her summoned dire bear and me all going melee on the big guy, I stood back and let Linu and bear tank... for a few seconds, because they died very quickly (and yes, she buffed us to the max), sigh. Dunno if it was a glitch, but Klauth just stood there where Linu had died and I had all the time to kill him, heh.<br/>\n<br/>\nI rushed through the warzone of chapter 4, used the same tactic against the dragon/balor, killed Aribeth and Maugrim and am now inside the Source Stone. Alone. Because fuck yeah sneaking! The only thing I just can't beat are the two guardian dragons, lol. Everytime I try something, Linu gets feared, bear gets dispelled and I get knocked down. And then I die :\\<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:14 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Clarity potions are your best friends   <br/>\n<br/>\nAlso try to separate the two dragons, hitting them from afar, giving you some valuable seconds to deal with them separately.<br/>\n<br/>\nAlso you have UMD rigth ? Try putting on a Rogue's mask for KD immunity.<br/>\n<br/>\n<br/>\nNice that you deal with the rest swiftly!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:20 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong>Clarity potions are your best friends   <br/>\n<br/>\nAlso try to separate the two dragons, hitting them from afar, giving you some valuable seconds to deal with them separately.<br/>\n<br/>\nAlso you have UMD rigth ? Try putting on a Rogue's mask for KD immunity.<br/>\n<br/>\n<br/>\nNice that you deal with the rest swiftly!</div></blockquote>\nI don't have UMD yet... build says lvl 21 and I'm sticking to it <br/>\n<br/>\nAnd you mean the Thieves' Hood, which is only sold in chapters 1 and 2<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:25 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Right, died again... respawned, told Linu to summon her bear, buff us up to the max, made her drink a potion of clarity, went back and BAM! Knockdown on the both of us: dead.<br/>\n<br/>\nARGH<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:47 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Drink every potion you have that helps on battle, get a dust of disappearance, since you don't have yet UMD for improved invisibility. If all fails try to range them.<br/>\n<br/>\nAlso, what are your stats now? AC &amp; AB  e.t.c<br/>\n<br/>\nMaybe you will have to go for some shopping before head onwards again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Moredhel",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:58 PM - Feb 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Valerfor wrote:</strong>Drink every potion you have that helps on battle, get a dust of disappearance, since you don't have yet UMD for improved invisibility. If all fails try to range them.<br/>\n<br/>\nAlso, what are your stats now? AC &amp; AB  e.t.c<br/>\n<br/>\nMaybe you will have to go for some shopping before head onwards again.</div></blockquote>\nClosed the game, but AC is around 40-ish and mainhand attack 20/17/14 or something, offhand 15 I think.<br/>\n<br/>\nI drank every potion I had, visited every available merchant, spent a crapload on potions and still failure <br/>\n<br/>\nedit: and ranging them doesn't help for long, I get two shots off before they're right in front of me and I can't do HiPS because they have true seeing. Blegh.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:07 AM - Feb 28, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are belts of greader guiding light i believe in that chapter for sale. That should do it for linu in case she is feared. Also, did you try to set up traps?<br/>\n<br/>\nEnough traps from moonstone mask can take anything down, i believe.<br/>\n<br/>\n<br/>\nAc is kinds low considering you have available +5 items by this time and perma-haste on a DEX-build.<br/>\n<br/>\n10 (base) + 4 (haste) + 5 (ring) + 5 (amulet) + 3 (boots-at least) + 10 (dexterity-at least) + 5 (bracers) +3 (tumble-at least) + WIS bonus + Monk Bonus, this should be over 48 already.<br/>\n<br/>\n<br/>\nAB you can remove the off-hand kama for this fight only, so you get a much better AB.<br/>\n<br/>\n<br/>\nGet a break and then go back with clear mind to destroy them<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:19 AM - Mar 06, 2014",
+      "content": "<div>True Strike might be a useful spell. Concentration might be useful in the Aielund Saga after all because the AI will use Taunt. Since you are not getting immunity to mental effects, Iron Will would help a little bit in the final battle.<br/>\n<br/>\n<strong>EDIT:</strong> For those calculations, this will come in handy if you have Excel or Open Office: <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Other.Detail&amp;id=8760&amp;id=856\" rel=\"noreferrer\" target=\"_blank\">Kamiryn's Character Build Calculator</a>.</div>",
+      "author-color": "#00AA00"
     }
   ]
 }

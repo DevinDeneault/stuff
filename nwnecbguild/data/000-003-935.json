@@ -4,65 +4,116 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "935",
-  "name": "Bard 8/Rogue 7/Fighter 5 build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/bard-8-rogue-7-fighter-5-build-t2354942.html",
-  "author": "alessiaccio",
-  "avatar": "10758936_1531050487.jpg",
-  "replies": 8,
+  "name": "Melee, low magic (lvl 20)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/melee-low-magic-lvl-20-t2354944.html",
+  "author": "WhisKai",
+  "avatar": "no_avatar.png",
+  "replies": "15",
+  "views": "543",
   "posts": [
     {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "2:38 AM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi guys,<br/>\nsome days ago, inspired by the\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/jack-of-all-trades-bard-16-rogue-16-fighter-8-t2343394.html\" rel=\"noreferrer\" target=\"_blank\">Jack of all trades</a> build by Maximillian I decided to go for a slightly different variation on that theme. I'm a rookie, so I wonder if you can help me optimizing it.<br/>\nThanks in advance!<br/>\n<br/>\n<br/>\nBard(8), Rogue(7), Fighter(5), Human<br/>\n<br/>\nAlignment: Any non-lawful<br/>\n<br/>\nPvM 1-20<br/>\n<br/>\nSTR: 8<br/>\nDEX: 16<br/>\nCON: 8<br/>\nWIS: 8<br/>\nINT: 16<br/>\nCHA: 16<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Rogue(1): Blind Fight, Point Blank Shot<br/>\n02: Fighter(1): Weapon Finesse<br/>\n03: Bard(1): Weapon Focus: Long Bow<br/>\n04: Rogue(2): DEX+1, {Evasion}, (DEX=17)<br/>\n05: Fighter(2): Rapid Shot<br/>\n06: Bard(2): Lingering Song<br/>\n07: Rogue(3): {Uncanny dodge I}<br/>\n08: Fighter(3): DEX+1, (DEX=18)<br/>\n09: Bard(3): Extend Spell<br/>\n10: Rogue(4)<br/>\n11: Fighter(4): Weapon Specialization Long Bow<br/>\n12: Bard(4): DEX+1, Improved Critical Long Bow, (DEX=19)<br/>\n13: Rogue(5)<br/>\n14: Fighter(5)<br/>\n15: Bard(5): Dodge<br/>\n16: Rogue(6): DEX+1, {Uncanny dodge II}, (DEX=20)<br/>\n17: Bard(6)<br/>\n18: Rogue(7): Mobility<br/>\n19: Bard(7)<br/>\n20: Bard(8): DEX+1, (DEX=21)<br/>\n<br/>\nHitpoints: 89<br/>\nSaving Throws (Fortitude/Will/Reflex): 7/8/17<br/>\nBAB: 21<br/>\nAB: 16<br/>\nAC (naked): 19<br/>\n<br/>\nSkillpoints: 222<br/>\nDisable Trap 21(26), Hide 23(28), Listen 23(22), Move Silently 23(28), Open Lock 10(15), Perform 12(15), Search 17(20), Set Trap 20(27), Spellcraft 22(25), Tumble 20(25), UMD 22(25)<br/>\n<br/>\n01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Tumble(4), UMD(4), Save(12),<br/>\n02: Save(18),<br/>\n03: Hide(2), Listen(2), Move Silently(2), Perform(6), Spellcraft(6), Tumble(2), UMD(2), Save(4),<br/>\n04: Disable Trap(3), Hide(1), Move Silently(1), Search(3), Set Trap(3), Tumble(1), UMD(1), Save(2),<br/>\n05: Save(8),<br/>\n06: Hide(2), Listen(2), Move Silently(2), Perform(3), Spellcraft(3), Tumble(2), UMD(2),<br/>\n07: Disable Trap(3), Hide(1), Move Silently(1), Search(3), Set Trap(3), Tumble(1),<br/>\n08: Save(6),<br/>\n09: Hide(2), Move Silently(2), Perform(3), Spellcraft(2), Tumble(2), UMD(3),<br/>\n10: Disable Trap(3), Hide(1), Move Silently(1), Open Lock(2), Set Trap(3), UMD(1),<br/>\n11: Save(6),<br/>\n12: Hide(2), Listen (1), Move Silently(2), Spellcraft(4), Tumble(2), UMD(2), Save(1),<br/>\n13: Disable Trap(3), Hide(1), Move Silently(1), Search(6), Set Trap(1), Tumble (1),<br/>\n14: Save(6),<br/>\n15: Hide(2), Move Silently(2), Spellcraft(3), Tumble(2), UMD(3), Save(2),<br/>\n16: Disable Trap(3), Hide(1), Move Silently(1), Open Lock(3), Set Trap(5), Tumble(1),<br/>\n17: Hide(1), Move Silently(1), Spellcraft(2), Tumble(1), UMD(2), Save(1),<br/>\n18: Disable Trap(2), Hide(1), Listen(6), Move Silently(1), Search(1), Set Trap(1), UMD(1),<br/>\n19: Hide(1), Listen(3), Move Silently(1), Spellcraft(2), UMD(1),<br/>\n20: Hide(1), Listen(3), Move Silently(1), Open Lock(1)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "WhisKai",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:52 PM - Sep 13, 2018",
+      "content": "<div>Hello! First time I post in these forums, though I've been checking it for a while.<br/>\n<br/>\nSo, I started playing in a new server, but I'm having a hard time trying to figure out what to play and how to build it.<br/>\n<br/>\nMy request, if possible, would look like...<br/>\n<br/>\n1) PvM<br/>\n<br/>\n2) Max level: 20<br/>\n<br/>\n3) Restrictions:<br/>\n\u00a0 <br/>\n\u00a0\u00a0 - Minimum 3 levels of base class before or at level 10. Example: (6 ranger, 4 warrior) or (3 ranger, 3 barbarian, 4 warrior)<br/>\n<br/>\n\u00a0\u00a0 - Roleplay server. That means no less than 10 Wis, Cha, Dex...<br/>\n<br/>\n\u00a0\u00a0 - Minimum 5 levels of prestige classes before level 20. Example: (8 fighter, 3 bard, 9 RDD)<br/>\n<br/>\n4) Low magic server. <br/>\n<br/>\n5) Melee preference. Don't really care about class nor alignments. Same goes for weapons. Though I'd rather play an STR char, but not a big deal if it's DEX based. <br/>\n<br/>\n6) Class changes:<br/>\n<br/>\n\u00a0\u00a0 - Assassin gets HiPS at level 8.<br/>\n<br/>\n\u00a0\u00a0 - Ranger hit point dice changed to d8 but gets 6+int skills. Also gets ITWF at level 6 instead of 9.<br/>\n<br/>\n\u00a0\u00a0 - RDD hit point dice changed to d12.<br/>\n<br/>\n7) Spellcasting. I've always loved to idea of playing a warrior who could also use magic. There's even a prestige class in this server that's basically that. But tbh it's not a big deal if it won't have any spellcasting, or if it's cleric/druid/whatever. Also, UMD is available to all classes, so even a warrior could spend skill points in it (2:1 ratio). <br/>\n<br/>\nLastly, thank you very much for reading and helping. Also sorry if I made some grammar mistakes, English is not my native language. <br/>\n<br/>\nHave a great day!</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:25 AM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why are you taking a 5th level of Fighter? An 8th level of Rogue would give you more skill points.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:29 PM - Sep 13, 2018",
+      "content": "<div>There are so many possibilities. Here are a few, and they are not a complete list:<br/>\nRogue 14 / Fighter 6\u00a0 with dual kukris<br/>\nFighter 6 / Bard 4 / RDD 10<br/>\nFighter 12 / WM 8<br/>\nMonk 16 / Fighter 4<br/>\nCleric 16 / Fighter 4<br/>\nRogue 10 / Wizard 1 / AA 9 (I know, not melee, but close enough)<br/>\n<br/>\nBard 16 / Fighter 4, added because of Grimnir's suggestion below</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "10:19 AM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks man, you're right. My skill stops are also pretty random, they can be optimized?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:51 PM - Sep 13, 2018",
+      "content": "<div>Ranger6/Fighter4/Assassin10 looks like a (sorry) killer combo!<br/>\n<br/>\nAssassin giving HiPS at 8 is really powerful. <br/>\nRogue4/Fighter6-8/Asn8-10<br/>\nFighter/Monk/Asn with possibly 8 Fighter levels could be great for dual wielding fun. <br/>\n<br/>\nMaybe even a Bard Combo to Curse Song their saves. Bard/AArcher/ Asn. I would have to do some maths on the bard combos to find the breaking point. You will probably need either Ranger or Fighter to dual wield properly in there.<br/>\n<br/>\nIn a 20 lvl environment, going heavy bard could be great. 14-16, then Fighter, RDD, Blackguard or CoT. Your song is a huge asset in such a low lvl environ.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:07 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see you have a final Dex of 21, which might just as well be 20 (unless there's a particular item that enhances in odd numbers). If you started with a Dex of 15, you could help your Con or Str by 2.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "1:44 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Stagmeister, I have had that doubt and decided for 16 DEX thinking of an item (although not a specific item) that can fix that. You are right, but CON is not a great problem for a non melee character and STR is just for carrying stuff. Correct me if I say nonsense ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:07 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, essentially you're right, Con would just give you 20 more hps and +1 to your Fort save, while Str would mean you could carry more stuff and help with damage if you get a mighty bow. All of which is fairly minimal - I was just trying to make use of those 2 points (however little) rather than simply throwing them away.<br/>\n<br/>\nStill, it's your build and your call, my friend!<br/>\n<br/>\nOh, and as far as skills are concerned, I seem to recall there being something in the Guides sub-forum about skills and where to stop. That might be helpful.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "2:17 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Totally see your point man. Better little use than nothing ;)<br/>\n<br/>\nThe guide in the sub forum unfortunately will help me only in the Set Trap and Search affairs, but again, better than nothing!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:10 PM - Sep 13, 2018",
+      "content": "<div><blockquote><div><cite>Grimnir wrote:</cite>Fighter/Monk/Asn with possibly 8 Fighter levels could be great for dual wielding fun. </div></blockquote>\nIn a low-magic environment, the d20 of Unarmed Strike outperforms the d6 of kamas, even with the 2 extra attacks.<br/>\n<br/>\nI do like your idea of a Bard 16 / Fighter 4, though.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:33 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I see that you have great confidence in your playing skills alessiaccio for going into combat with 85 hp at lvl 20! That, or you do not plan to get hit, which is a wise choice always ;) And although I understand your need to have as many skill points as possible, you can optimize your attributes quite a bit. Your dexterity is what keeps you alive (AC) and what makes you hit as well (AB), so you better have it as high as possible, considering that you also have a lot of 3/4 BAB levels in there as well as keeping in mind that you will always want to use Rapid Shot for that extra arrow (another -2 to AB).\u00a0 Why do you need 16 Charisma in your build with only 8 Bard levels? To take a bonus 3rd level slot? Use your UMD man, scrolls, wands, you name it. And you absolutely do not need 16 Intelligence either, you have plenty of skill points already. Use scrolls/wands of darkness to land your SA damage and keep a stack of invisibility potions to disappear when trouble is coming your way. <br/>\n<br/>\nStart with: Str 11 Dex 17(22) Con 10 Int 14 Wis 8 Cha 14 as a minimum and you just gained +1AB/AC, +20 Hp, +1Dmg, +1 Ref/Fort. <br/>\nSkills (179): Spellcraft 23(25), Tumble 20(26), Listen 18(17), Search 23(25), Open Locks 9(15), Set Traps 9 (15), Perform 13(15), UMD 18(20), Disable Traps 16(20), Move Silently 15(21), Hide 15(21) <br/>\nOr something like that and keep in mind that all your dexterity-based skills will also get enhanced further by the increase of your dexterity in-game (+6) and the various tools that are available (lockpicks, potions of cunning &amp; grace, etc). <br/>\n<br/>\nGood luck,<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:26 AM - Sep 14, 2018",
+      "content": "<div>Bard 16/ Paladin 4 would be the most powerful of them all but there are alignment conflicts<br/>\nBard 16/ Blackguard 4 would be the next best thing, but server rules do not allow it<br/>\nBard 16/ Fighter 4 is decent overall and it also allows for a bit more customization with the extra feats <br/>\n- - - - -<br/>\nFighter 6/ Bard 4/ RDD 10 is a well-known powerhouse<br/>\n- - - - -<br/>\nFighter 8/ Rogue 4/ WM 8 Scyther for max damage on a constant basis<br/>\n- - - - - <br/>\nFighter 6/ Rogue 4/ ASS 10 ITWF death attack machine<br/>\n- - - - -<br/>\nAnd so on...</div>"
     },
     {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "3:00 PM - Sep 07, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very thanks Valerfor, that was really helpful. I'm trying that!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:00 AM - Sep 14, 2018",
+      "content": "<div>I'm thinking that what we need is something more specific as to what you want, WhisKai - otherwise the assorted great and good will just keep throwing (albeit good) choices your way.<br/>\n<br/>\nIt's actually like Max says in his guide to building (just don't tell him I recommended it, he'll only gloat) - you need a concept first. What do you want it to do? And how do you want it to do it?<br/>\n<br/>\nOh, and welcome!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:57 AM - Sep 14, 2018",
+      "content": "<div>In a low magic environment casters outperform everything, unless they are nerfed by spell changes or ridiculous resting restrictions.<br/>\nFor self buffing melee builds, something with 15 - 20 levels of cleric is my #1 advice. <br/>\nGood alternatives are bard 16, preferably with fighter, druid with a dash of monk and even the more exotic druid/monk/shifter<br/>\nIf you want something different, you can try a Melee mage, a wizard 20, built to self-buff and melee the mobs and kill bosses with spells. Not something for beginners, though.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "WhisKai",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:07 PM - Sep 16, 2018",
+      "content": "<div>Hello,<br/>\n<br/>\nsorry for the late reply, I've been busy - started studying while also working.<br/>\n<br/>\nI've seen some interesting ideas which I'll surely give it a try on my own. Eventhough the class sure looks awesome, I don't really like playing Bards... I don't know why, it just doesn't feel exciting to me.<br/>\n<br/>\nI like what Mick said about a melee mage. It sure does cover a lot of things I asked for (mainly because of magic + weapons usually means versatility).<br/>\n<br/>\nWill give it a try building a melee mage and see if I could come up with something interesting.<br/>\n<br/>\nThanks again, you all guys gave me a lot of ideas, really appreciate that.<br/>\n<br/>\nHave a great day!!</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:36 PM - Sep 16, 2018",
+      "content": "<div>See if this thread helps you Whiskai, you can extend the build to level 20 (Illusionist 18/ Fighter 2) very easily, <br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/low-magic-melee-mage-t2354918.html\" rel=\"noreferrer\" target=\"_blank\">low-magic-melee-mage-t2354918.html</a></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:09 PM - Sep 16, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nSee if this thread helps you Whiskai, you can extend the build to level 20 (Illusionist 18/ Fighter 2) very easily, <br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/low-magic-melee-mage-t2354918.html\" rel=\"noreferrer\" target=\"_blank\">low-magic-melee-mage-t2354918.html</a>\n</div></blockquote>\n\nI may have misread the restrictions, but I think you need at least 3 levels of a base class by/at level 10 - and 3 levels of Fighter is no use to man or beast, so would 4 gimp the build? Genuine question - you know I ain't no arcanist.<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Just read the linked thread, and actually 4 levels of Fighter could be really handy with 16 Illusionist - Weapon Spec springs to mind<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:10 PM - Sep 16, 2018",
+      "content": "<div>You need 3 lvls of two base classes.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "WhisKai",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:16 PM - Sep 16, 2018",
+      "content": "<div>I may have not explained myself properly. You need 3 levels of each base class you choose by level 10. So Mage 18/Warrior 2 would not be possible, unfortunately. Mage 17/ 3 Warrior (Or Ranger) would be possible, though. Also 20 mage would be possible.<br/>\n<br/>\nWith prestige classes it's 5 levels by level 20'. If you happen to choose a prestige class, then it should look like... Warrior 4/Bard 11/RDD 5</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:58 PM - Sep 16, 2018",
+      "content": "<div>If you want a melee mage, then I'd still be tempted to go Illusionist 16/ Fighter 4 - unless you've a good reason not to.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:04 PM - Sep 16, 2018",
+      "content": "<div>The real Melee Mage build is pure Wizard:<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build301814.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 01814.html</a></div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:01 PM - Sep 16, 2018",
+      "content": "<div>If you know what you're doing when playing the mage, you don't have to \"dilute\" it with fighter or anything else.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:00 AM - Sep 17, 2018",
+      "content": "<div>Guys, the link to that thread was meant to be just a guide and not the build per se, I just thought of giving Whiskai a rough and ready template that can work upon.</div>"
     }
   ]
 }

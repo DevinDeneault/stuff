@@ -4,89 +4,115 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "140",
-  "name": "Patch 1.80 released",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/patch-1-80-released-t2355404.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 12,
+  "name": "The Dexterity Rogue PvM Solo Early Game",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-dexterity-rogue-pvm-solo-early-game-t2355406.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "16",
+  "views": "1.3K",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:30 PM - Mar 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">And this one is exciting for us!<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.beamdog.com/news/nwnee-patch-windows-macos-linux/\" rel=\"noreferrer\" target=\"_blank\">https://www.beamdog.com/news/nwnee-patc ... cos-linux/</a><br/>\n<blockquote><div>Weapons-related feats (Focus, Epic Focus, Spec, Epic Spec, Improved Crit, Overwhelming Crit, Devastating Crit, Weapon of Choice) can now be customised on a per-baseitem case.</div></blockquote>\n\nYesssss, my precious!<br/>\n<br/>\nSpartans!\u00a0 One handed spears!\u00a0 Yes, you heard right!<br/>\n<br/>\nAnd this one :<br/>\n<blockquote><div><strong>Custom spellcaster classes</strong><br/>\nWe've added (somewhat partial) support for custom spellcaster classes by \"unhardcoding\" a lot of the builtin constants and references.<br/>\nPlease refer to classes.2da for the new columns: MemorizesSpells SpellbookRestricted PickDomains PickSchool LearnScroll Arcane ASF SpellcastingAbil SpellTableColumn CLMultiplier MinCastingLevel MinAssociateLevel CanCastSpontaneously<br/>\nNote that not all combinations are valid. We recommend cloning one of the existing caster classes and then start customising from there. When adding spellcasting to new classes, remember to also update existing columns.<br/>\nThere is also a new ruleset entry: COMPANION_LEVELS_STACK, defaulting to 0.<br/>\n</div></blockquote>\n\nThis one *IS* a game changer for us here.\u00a0 Once the dust settles, and we know precisely what does and what does not work, a LOT of things will need reworking and consideration!<br/>\n<br/>\nIt's a great time to be a NWN Character Builder!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:02 PM - Mar 20, 2020",
+      "content": "<div><strong>The Dexterity Rogue PvM Solo Early Game</strong><br/>\n<br/>\nThere's been a few dexterity rogues posted in the forum recently and I've been playing a few<br/>\nThe early game is possibly the hardest part of such builds. Perhaps.<br/>\n<br/>\nAnyway I thought I would put up for discussion things I'm doing when playing these builds in PvM solo, and things I'm unsure about.<br/>\nDelighted to hear any comments.<br/>\nMaybe you guys have different survival strategies<br/>\nI did a search for rogue guides and this appears to be <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/nwn-character-class-guides-an-attempt-at-a-compreh-t2355107.html\" rel=\"noreferrer\" target=\"_blank\">a bit of a gap</a>, the best I could find was Hip's 3 pure yardstick rogue 40 builds with strategies, and a pre-epic rogue guide for NWN.<br/>\n<br/>\n1. Weapon Finesse<br/>\n-&gt; I aim to get this ASAP. Either Level 1-2 (ie with Fighter 1 at level 2 as a bonus feat) or Level 3 (other builds).\u00a0<br/>\n-&gt; Before I get this feat I use a ranged weapon, my go to early game is the Heavy Crossbow for the extra damage (1d10 19-20/x2)<br/>\n-&gt; even when I get this, I like to make sure my HP and AC is good enough to melee before I commit to it, otherwise I am still using my ranged weapon. If I can die to a critical hit, or get knocked down and die in a round, I'm not going to want to melee.<br/>\n-&gt; once I get BAB 6+ I switch from Heavy Crossbow to Shortbow (or Longbow if Elf/Martial, Sling perhaps if Halfling) if I am still using a ranged weapon but usually by then I have switched to Melee<br/>\n-&gt; small and large shields are quite useful if access is available to them. when AB is higher dual wielding is extremely attractive<br/>\n<br/>\n2. Stealth / Detection<br/>\n-&gt; Seeing things before they see you (scouting) is very important hence high spot (or listen) + stealth is very important<br/>\n-&gt; you can then plan a strategy well before you engage, giving you a tactical advantage<br/>\n-&gt; I aim to max these asap<br/>\n<br/>\n3. Traps<br/>\n-&gt; 1 rank in Set Trap is enough for the early game. Minor electrical/fire traps can be set with Set Trap 0 (modified), and average electrical/fire traps with Set Trap 5 (modified).<br/>\n-&gt; I like some search to detect traps but not overboard<br/>\n-&gt; I like to put a decent amount early into disable trap. The big nasty traps are minor/average electrical and minor/average fire which have a base disarm DC of 26 +the skill of the setter, (at least until you have an ultra high reflex save with evasion/improved evasion). Retrieving traps is pretty hard low levels with the +10 modifier but more realistic perhaps mid to late pre-epic<br/>\n-&gt; Craft trap sometimes I put a few ranks sometimes I don't, it depends on whether there are 1. components 2. equipment which adds to craft trap skill (ie Lesser Ring of Trap Creation +5, Gloves of the Artificer +3 etc etc). If there aren't components its not worth investing much in this at all. Even if there are, sometimes equipment + fox's cunning potion can boost the score enough to make minors and average traps to help you through the hard early game.<br/>\n<br/>\n4. Generating Sneaks<br/>\n-&gt; Stealth + Sneak Attack with a ranged weapon early game is my go to<br/>\n-&gt; Even later on this is good until one dual wields and gets 4+ APR faster (for 2-3 attack flurries with dual wielding)<br/>\n<br/>\n5. Use Magical Device<br/>\n-&gt; This I view as my 'cheat' ability<br/>\n-&gt; Wands of Magic Missile will help one hit opponents you normally cannot hit, and Beamdog has recently patched this so it is cheap to buy<br/>\n-&gt; Certain summon spells are great early game, Animate Dead for Tyrantfog Zombie has great +1 damage soak, Wands with Summon IV are fabulous<br/>\n-&gt; Wands of fire are ok, I like Wands of the Heavens for flame strike though<br/>\n-&gt; Low level scrolls such as Bless Weapon (+2d6 divine vs undead!), Mage Armor, Ghostly Visage can be very helpful<br/>\n<br/>\n6. Improved Knockdown<br/>\n-&gt; I want to get this on all melee dex rogues, there are just circumstances solo where one cannot flank or stealthily sneak attack<br/>\n<br/>\nEarly Leveling<br/>\n-&gt; Rogue / Fighter I like to go Rogue 1 -&gt; Fighter 1-2 (weapon finesse + extra feat), then Rogue 2-3 for 2d6 sneak attack/uncanny dodge/evasion asap. More sneak attack damage = more power in general<br/>\n-&gt; Similar idea with Rogue / Paladin, Rogue 1 -&gt; Paladin 1-2 (disease/fear immunity/divine grace/lay on hands), then rogue 2-3 as above, more rogue more power<br/>\n-&gt; Haven't done a Rogue/Ranger yet, I assume Rogue 1-&gt;Ranger 1 then Rogue 2-3 then whatever you want to do<br/>\n<br/>\nStats<br/>\n-&gt; High dex, Int 14 makes sense to me<br/>\n-&gt; Con 12-16 also makes sense if you want to melee, I like HP<br/>\n-&gt; Str vs Dex balance is tricky for me. I like Str 14 to help with encumbrance and a little non-sneak damage but I can see the appeal of dumping it to 10 or even 8 to max out Dex, just means one will go searching for good bags to reduce encumberance and items to boost Str more urgently. Perhaps Str is kind of a luxury type stat for a Dex Rogue<br/>\n<br/>\nAnyway this looks like enough text &amp; thoughts for now, anyway keen to keep learning + improving\u00a0</div>"
     },
     {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "12:21 AM - Mar 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does this mean we can make Palemaster increase caster levels?<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:27 AM - Mar 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, atm we just do not know.<br/>\n<br/>\nIt <em>may </em>now be possible.\u00a0 As I said, we will have to wait until the dust settles and what can (and can't be done) with this in regards to spellcasters.<br/>\n<br/>\nIt looks like even BeamDog is not sure what actually can now be done.<br/>\n<br/>\nI am hoping beyond hope that on level up, one will be able to pick new Bard/Sorc spells as another Class (like RDD and/or PM) - that would just be sooo awesome!<br/>\n<br/>\nThe stuff with the weapons is a certainty - that alone is one of the Holy Grails that the NWN Community has wished for for a long time now.<br/>\n<br/>\nSpiked Chain Whipmaster!\u00a0 Oh hells yes!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:48 AM - Mar 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is so interesting and opens so many possibilities.\u00a0 I've been wanting to do do a John Henry weaponmaster for ages...<br/>\n<br/>\nI also worry about the balance issues.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:23 PM - Mar 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So far, the Pathing is great!\u00a0 They fixed what was for me a very annoying Pathing thing.<br/>\n<br/>\nGraphics are crisper and pop.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:45 PM - Mar 19, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Web, I'm late to the party on this one, sorry. Excellent news in terms of one-handed spears, but would I be right in assuming the patch is only applicable to EE? In which case, boo hiss.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:21 PM - Mar 19, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it is only NWN EE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:22 PM - Mar 19, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Time to upgrade, Stagmeister.<br/>\n<br/>\nCome on in for the big win!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:23 PM - Mar 19, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">By the way - the optimizations made in this patch really makes huge performance differences for low performance devices.<br/>\n<br/>\nThough I do see smoother gameplay, and less slow-downs as before on my high performance machine.\u00a0 Very nice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "10:56 AM - Mar 23, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I updated to 1.80 last night and noticed a bug during character creation.<br/>\n<br/>\nWhen making a non-caster class (Barb, Figh, Monk, Rog) you can't lower STR below 11 (including racial modifiers) once you have increased it. You can leave it at the base 6/8/10 with no issues, but once you have increased it it's not possible to decrease it to below 11. I assume that this is due to non-caster classes having their casting ability set to STR in the updated 2da files, but I haven't looked at them so I might be wrong. For anybody else dealing with this bug, reselecting your class resets your ability increases.<br/>\n<br/>\nHas anybody else experienced this bug?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "8:12 PM - Mar 20, 2020",
+      "content": "<div>Those are the rules I follow, mostly.  A few more from my list for review:<br/>\n1. I specifically take Knockdown/Improved Knockdown AFTER BAB 6.<br/>\n2. Use a shield early on Dual Weapon Dexers until your AB is high enough to dual and to take dual weapon feats.<br/>\n3. People focus on early sneak Damage.  This is 100% correct for grouping characters and not unreasonable for the early Missile weapon game when soloing.  However, I tend to find Weapon Spec more useful as it is not situational damage.  Sneak Damage is situational through the whole game, but really comes into its power when you have more CC options.<br/>\n<br/>\nFinally, a caution/suggestion ... much of this approach and others is heavily dependant on the PW.  This is effective on WoG, on Arelith and Blackstone, the approach is very different.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:26 PM - Mar 23, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Yunim<br/>\nI just loaded up NWN EE 1.80 to test it out and I can confirm it was a problem when I tried to make a Human Rogue<br/>\nThanks for posting this up<br/>\nI'll send a message to Julius Borisov on Reddit<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:37 AM - Mar 21, 2020",
+      "content": "<div>Hey Zanithar<br/>\nThanks for the reply<br/>\n<br/>\nKnockdown after 2+ APR/round is certainly valuable solo<br/>\nRogues get this earlier than most if they dual wield, if they have an ultra high dex score (ie 18-20 starting dex) I *think* it is viable to even get knockdown early<br/>\nEspecially if you buff yourself with Cats, Bless/Aid etc<br/>\nIf they are knocked down enemies get their Dex/Dodge/Tumble AC destroyed so it might be effective +3-5 AB if they are on the floor perhaps?<br/>\nKnockdown with 1 APR is valuable in parties or if you have a summon with UMD/Cleric etc.\u00a0<br/>\nSometimes I wonder if it is valuable solo with 1 APR? Like if you knock them down, then you get your next attack in the next round with them flatfooted? Often they still get their attack in before I get a chance to knock them down again (meaning they aren't flatfooted again) so I don't think it is. Perhaps it is useful against a caster, but then a self-targeted silence scroll might be more effective.<br/>\n<br/>\nI certainly appreciate Weapon Spec/EWS for sure I like to rush it after 2d6 sneak (I wouldn't get any more sneak before WS unless there are exp penalties or something to consider), getting it earlier is good too. I think you are right re the sneak+2d6 with the ranged weapon, that is the reason why I like it, I don't really like to melee early with my rogues due to the low hit die, but other environments might be safer to do so. That being said the fighter 4 levels is d10 hit die... so heh :) go figure maybe both work fine with adjusted playstyles</div>"
     },
     {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "8:28 AM - Mar 26, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It\u2019s been reported to the Service Desk as well. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "3:49 AM - Mar 21, 2020",
+      "content": "<div>Against competent melee AI a 1 APR Knockdown is useless when solo, they get back up and start attacking before the next round's Knockdown attempt so you don't get a sneak attack. Sometimes the AI will pause when recovering from Knockdown, usually when it attempts to cast a spell or switch weapons, but if it's solely melee attacking then there's no pause. If you have both 1 APR and HiPS then it can work, but if you're qualified for Shadowdancer then you're probably close to 2 APR anyway.</div>"
     },
     {
-      "author": "calespurmarksman",
-      "avatar": "10758934_1530764018.jpg",
-      "timestamp": "11:24 AM - Apr 08, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey ECBers!<br/>\n<br/>\nI just updated to 1.80, and my Aielund save is not loading now :( do you know if there's a fix? Thanks!<br/>\n<br/>\n\u041e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u0441 \u043c\u043e\u0435\u0433\u043e SM-G970F \u0447\u0435\u0440\u0435\u0437 Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:16 AM - Mar 21, 2020",
+      "content": "<div>So solo 1 APR knockdown is probably only useful against casters, and only if you have the AB. Get that 2 APR asap!\u00a0<br/>\nInteresting thoughts!</div>"
+    },
+    {
+      "author": "Luj1",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:24 AM - Apr 08, 2020",
+      "content": "<div>Orion how keen are you on taking HiPS pre-epic? <br/>\n<br/>\nOn a sidenote, I'd like to hear everyone's opinion on the Hin as possibly the best Rogue race? I just don't like taking KD with them due to the size penalties.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:08 AM - Apr 08, 2020",
+      "content": "<div>Hail Luj1, thanks for your message<br/>\n<br/>\nStill learning the rogue stuff, however\u00a0I think that is a great question, I think there are pros and cons to taking it pre-epic vs epic.<br/>\nI think in terms of playability HiPS pre-epic is fabulous<br/>\nMick has written previously it is a game changer, and I agree completely<br/>\nIf one is only taking a single SD level (which is common), for maximal level 40 BAB taking it at level 21 is ideal, if you are happy to wait<br/>\nJust a trade off between level 40 power and early game enjoyment of SD<br/>\nIn the end I believe either is acceptable<br/>\n<br/>\nI think this is another great question as to best (dex) rogue race<br/>\nI agree Halfling as a dex rogue is very strong, small size for +1 AB / stealth / detection, and +2 dex and +1 AB with thrown weapons means there is a lot of power there.\u00a0<br/>\nElf would be my\u00a0very close\u00a0second choice with keen senses, detection bonuses, +2 dex, longbow proficiency, can dual wield small weapons (like dual kamas or shortswords) without penalties, better improved knockdown, better knockdown resistance, better strength. I think humans and dwarves are good too they avoid a lot of multiclass penalties more easily than elf, and have some other nice features depending what you want.<br/>\n<br/>\nLooking forward to what others think.</div>"
+    },
+    {
+      "author": "The Flying Rodent",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:21 AM - Apr 08, 2020",
+      "content": "<div>Interesting post. A few things I guess to add:<br/>\n<br/>\n1. BAB and taking HIPS early.<br/>\n<br/>\nTaking HIPS early is only really an issue if you\u2019re planning on playing a class split that gains and extra attack with BAB 16 at level 20, such as Rogue/Fighter/SD. Missing out on 1 BAB point for a Rogue by itself doesn\u2019t mean that much, but missing out on a whole attack does. <br/>\n<br/>\nIf one plans on making a build like this, then to get BAB 16, they will have to index more heavily into SD early (eg Rogue 12 Ft 4 SD 4, usually this is more common on Monk/SD\u2019s) or index more heavily into a high BAB class early (Rogue 12 Fighter 7 SD 1).<br/>\n<br/>\n2. Corner Sneaking.<br/>\n<br/>\nCorner sneaking is basically making use of nearby terrain to hide behind (usually \u2018corners\u2019 in buildings, hence the name). Pre-HIPS, this is invaluable. This is most easily done with Monks as they have access to extra movement speed, but any stealth character can make use of this. On a pre-epic Rogue, this is particularly effective when combined with:<br/>\n<br/>\n3. Mastery Over the Ranged Sneak Attack.<br/>\n<br/>\nRanged Sneak attacks work over a distance of 30ft. In game terms, this is a little more than the diameter of a typical Mummy Fear Aura, or around about the radius of a Dragon Fear Aura. <br/>\n<br/>\nLearn this distance. It\u2019s really frickin useful.<br/>\n<br/>\nAn easy way to learn it is to engage on stationary targets from range when coming out of stealth, then running away to stealth behind terrain and trying again. Try doing this at different ranges, until sneak attacks stop working (which they won\u2019t, beyond 30ft). <br/>\n<br/>\nOnce you feel comfortable that you know what \u201830ft between your target\u2019 is, use this as a tether. Done properly, and combined with corner sneaking, it is near impossible for melee foes at early levels to reach you. Take a mid-range sneak attack pot shot coming out of stealth at an enemy, run behind some terrain to stealth (or use HIPS if you have the luxury), rinse and repeat.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:29 PM - Apr 08, 2020",
+      "content": "<div>I you take IKD with a Halfling (or Gnome), your knockdown ability will be the same as a medium-sized race with regular KD.\u00a0 That is not as nice as a medium-sized race with IKD, but it is still useful.<br/>\n<br/>\nThe extra feat, extra skill points, and favored class flexibility are so nice that most of my builds are Human, but certainly not all of them.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "6:20 PM - Apr 08, 2020",
+      "content": "<div>Something I noted with dual wielding when I playtesting\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-38-dex-harper-rogue-23-fighter-12-harper-scout-t2355405.html\" rel=\"noreferrer\" target=\"_blank\">this dex rogue build draft to level 7</a> just in the last few hours, is that if the dex stat is quite high, dual wielding feats are much worth it early on provided you have the defenses and HP to survive in melee long enough.\u00a0<br/>\nAt level 3 my elf dex rogue / fighter had an AB of 6 dual wielding mundane shortswords. A halfling would get to add +1 to AB from small stature.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202004/10759084_976c737832e0d254dda5d7ec22abe715_t.jpg\"/><br/>\n<br/>\nAlso as a follow up to the 1 APR knockdown thingo. Obviously a 1 APR knockdown is good in parties or if you have summons/familiar/animal to also hit the opponent<br/>\nBut as Yunim noted often the opponent gets an attack in before you can knock them down again, it is less useful without these features in PvM<br/>\n<br/>\nInterestingly if you get an excellent initiative roll, I have found that sometimes one can consistently knockdown an opponent without them being able to get an attack in when they stand up.<br/>\nSo you can keep them on the floor without receiving much damage. With a poor initiative roll they seemed to get attacks in more frequently before I can try to knock them down again.<br/>\nProbably most relevant for dexers as they seem to have excellent initiative rolls (haven't looked up the exact mechanics in the Wiki yet), and take a while to kill opponents which are sneak immune<br/>\nThought this would be a nice observation to share. Repeated 1 APR knockdown solo might be useful if you roll high with initiative. Roll low with initiative - don't bother.</div>"
+    },
+    {
+      "author": "Luj1",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:52 PM - Apr 08, 2020",
+      "content": "<div>My problem is that a Halfling Rogue has only two choices for dual wield - daggers and kukris. Kukri's improved threat range (which is the whole point of the weapon) doesn't really help against SA immunes who are immune to crits anyway. <br/>\n<br/>\n Furthermore, if you are going with the 10-20-12 spread in Str/Dex/Con (which I believe is the way to go with a DEX-based Halfling Rogue) you likely won't have enough HP to linger in melee range (before level 27 and Epic Dodge anyway).<br/>\n<br/>\nI guess what I'm saying is that I'd rather drop Kukris and IC and grab a ranged weapon and focus on AB/flat damage. <br/>\n<br/>\nI think the sling is really a sneaky favorite here, you can use a shield with it and it gets another +1 AB from the Halfling racial.</div>"
+    },
+    {
+      "author": "Luj1",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:00 PM - Apr 08, 2020",
+      "content": "<div>Dual wielding kukris can potentially require up to 5 feats, a ranged Rogue needs just 2 and gets only 1 APR less (the one with the highest penalty).</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "7:08 PM - Apr 08, 2020",
+      "content": "<div>I'm hearing what you are saying Luj1<br/>\nElf/Human allows for dual shortswords, handaxe, maces and kamas plus dagger/kukri, all pretty cool weapons<br/>\n<br/>\nHalfling rogue archers/arbalests/slingers are very strong early on,\u00a0<br/>\n6 AB at level 1 with 20 dex (+5) and small stature (+1) and 0 BAB is superb.\u00a0<br/>\nSlings will get +1 AB, and if you have Point Blank Shot, another +1 AB/DMG when sneak attacking them (8 AB at level 1).<br/>\n<br/>\n<strong>Edit</strong>: Oh and rogue archers are monsters in PvM parties. Very easy to setup the rogue archers to unload tons of sneak damage pain, especially if you have a fighter tank with improved expertise to tank for the archer.<br/>\nJust a little harder solo as enemies will walk up to you, and you will have to switch to melee or trigger attacks of opportunity</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:52 PM - Apr 08, 2020",
+      "content": "<div>I think you all are not taking into account the new changes to Rogues, Barbs, and Assassins from 1.74 (I think it is that version).<br/>\n<br/>\nThat is, you need to have 4 levels or higher combined in Rog, Barb, and Assassin to get flanking bonuses (re: sneaks).<br/>\n<blockquote><div>As of Enhanced Edition patch 1.74, Uncanny Dodge II provides immunity to flanking sneak attacks under certain class level checks between the attacker and defender. See the Uncanny Dodge article for more information. </div></blockquote>\n<blockquote><div>As of Enhanced Edition patch 1.74, <em>uncanny dodge II</em> grants immunity to sneak attacks from a flanking attacker unless the attacker has at least four more combined class levels of rogue, assassin, and barbarian than the defender. (Shadowdancer and blackguard levels are not counted.) For example, a level 10 rogue would have this immunity when attacked by a level 13 rogue, but not when attacked by a level 14 rogue. This immunity does not apply when the defender is flat-footed. This change is undocumented in the feat description. </div></blockquote>\n\nWhich, depending on the environment, can really shut down SA.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "10:40 PM - Apr 08, 2020",
+      "content": "<div>There are ways to deal with Uncanny Dodge, the main ones being Knockdown and stealth. Darkness, Death Attack paralysis, invisibility, Stunning Fist, and most disabling spells will also work. It's only really a problem if your Rogue relies on flanking alone to generate Sneak Attacks.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:43 AM - Apr 09, 2020",
+      "content": "<div>Yes, of course.<br/>\n<br/>\nI was just commenting on the ranged Rogue that is using his ranged weapons to \"flank sneak\" in a party.\u00a0 Or sliding up besides the beefy tank, hoping to slip in a SA.<br/>\n<br/>\nThat the rules have changed now, one has to take that into account.\u00a0 It is not as easy as it used to be.<br/>\n<br/>\nSometimes, opponents are immune to KD.\u00a0 Casting Darkness could adversely affect your party members (and get them sneaked).\u00a0 I know you know all this, you are a very experienced NWNer.<br/>\n<br/>\nBut since 1.74, it is not so cut and dried anymore.\u00a0 I was really just referring to that.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:34 AM - Apr 09, 2020",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Apr 08, 2020</div></cite>I think you all are not taking into account the new changes to Rogues, Barbs, and Assassins from 1.74 (I think it is that version).<br/>\n<br/>\nThat is, you need to have 4 levels or higher combined in Rog, Barb, and Assassin to get flanking bonuses (re: sneaks).<br/>\n<blockquote><div>As of Enhanced Edition patch 1.74, Uncanny Dodge II provides immunity to flanking sneak attacks under certain class level checks between the attacker and defender. See the Uncanny Dodge article for more information. </div></blockquote>\n<blockquote><div>As of Enhanced Edition patch 1.74, <em>uncanny dodge II</em> grants immunity to sneak attacks from a flanking attacker unless the attacker has at least four more combined class levels of rogue, assassin, and barbarian than the defender. (Shadowdancer and blackguard levels are not counted.) For example, a level 10 rogue would have this immunity when attacked by a level 13 rogue, but not when attacked by a level 14 rogue. This immunity does not apply when the defender is flat-footed. This change is undocumented in the feat description. </div></blockquote>\n\nWhich, depending on the environment, can really shut down SA.</div></blockquote>\nFor a low level dex rogue in PvM party there are still plenty of targets to choose from.<br/>\nAll the lower level enemies will die quite rapidly (ie fighters, clerics, wizards) a lot of enemies will also have 'Creature class' or 'Monster class'<br/>\n<br/>\nYou'd need a essentially a pure rogue / barbarian / assassin boss to eliminate the flanking issue, 4 levels above the attacker is quite considerable<br/>\nYour warriors, clerics and mages can always disable such opponents. A good Bigby's 6 or Hold Monster spell works wonders then your well built dual wielding rogue dexer to eliminate that enemy.<br/>\n<br/>\nIn late teens onwards however, if you don't go rogue (or assassin/barb) heavy then this can be a major issue. I guess the discussion is about lower level dex rogues at the moment</div>"
     }
   ]
 }

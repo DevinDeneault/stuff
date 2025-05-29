@@ -4,65 +4,66 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "090",
-  "name": "Why No Cleric/Ranger Builds?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/why-no-cleric-ranger-builds-t2355667.html",
+  "name": "Cleric/ Wizard Mash-ups",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cleric-wizard-mash-ups-t2355691.html",
   "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 8,
+  "replies": "7",
+  "views": "576",
   "posts": [
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:16 PM - Feb 09, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This might be a very dumb question, but I wondered whether there was a particular reason why there don't appear to be any Cleric/Ranger builds in either our database or the archive?<br/>\n<br/>\nAt least superficially there seems to be a synergy between the two classes - as far as Wisdom goes, anyway. And Cleric/Rangers were always reckoned to be an almost OP class in Baldur's and Icewind. Am I missing something obvious?<br/>\n<br/>\n(I realize this might be something of a spoiler for what I'm looking to do in my next build, but if it's a dead-end I'd rather know in advance.)<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:13 PM - Feb 09, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is Mick's build Night Ranger (Ranger2/Cleric8/Assassin30) here - <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build257638.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 57638.html</a><br/>\n<br/>\nImo, Cleric/Ranger looks yummy on the surface, but the ingredients are not so delicious.\u00a0 It would seem that Wisdom and Cha are both nicely used by both Classes, and it is true.\u00a0 But synergy-wise, it really isn't.<br/>\n<br/>\nBoth Classes really benefit the most when many levels are taken in them.\u00a0 Ranger for the FEs and BoE, and Cleric of course for Spells, etc.\u00a0 That makes them actually anathema to each other, when one peeks under the hood.<br/>\n<br/>\nTbh, there are just better \"synergy\" Classes that work with Ranger or Cleric better.<br/>\n<br/>\nI suppose one could go for a mainly Cleric with some Ranger for Dual Wielding (but the light armor requirement certainly is not good here for a Cleric) - as one starts to really look at both of the Classes, it becomes more obvious that they are not really synergetic.<br/>\n<br/>\nWhat does the Ranger Class bring to Cleric, other than the above Dual Wield and martial weapons?\u00a0 Some extra skills, perhaps (like set trap and animal empathy)?\u00a0 And Cleric spells far outstrip Ranger spells.\u00a0 And if we turn the equation over (mainly Ranger, some Cleric), what does Cleric bring to the Ranger Class?<br/>\n<br/>\nI think those (and probably others as well) are the reasons there are not many builds with Cleric and Ranger.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:47 PM - Feb 09, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Web!<br/>\n<br/>\nDon't know why my search didn't unearth Mick's build (I searched for 1-40 Ranger, 1-40 Cleric, 1-40 any other class, and received a big fat \"0 matches found\"), but ta for digging it out.<br/>\n<br/>\nGood to know - I shall train my less than gimlet gaze somewhere else.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "6:57 PM - Feb 09, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cler38/Monk1/Rang1 is a fairly common PvP build, although I'm not sure if one has been posted on the ECB.<br/>\nA Rang/Cler/Monk with BoE (eg Rang23/Cler16/Monk1 or Rang26/Cler13/Monk1) can also have decent AB and damage, but due to the low level buffs they're much rarer than more reliable melee builds.<br/>\n<br/>\nOutside of those two build ideas I can't think of any cases where a Cler/Rang\u00a0is actually worth making.<br/>\nFor Cleric builds (and most builds in general really) it's almost always better to go Figh4 instead of Rang9 for dual-wielding feats, especially since caster levels are fairly important.<br/>\nOn the other hand, for Ranger builds you need a minimum of Rang21 for BoE and a minimum of 12-15 Cler levels before the buffs are even worth considering which seriously limits the number of viable builds.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:20 PM - Feb 09, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Yunim - it looks like it's a combo I'll have to return to when I'm feeling particularly perverse(so probably not long, then)!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:56 PM - Mar 20, 2021",
+      "content": "<div>Hi All.<br/>\n<br/>\nBefore embarking on my second Wiz build, I wanted to canvass the Guild on the potential or otherwise of a Wizard/ Cleric construction. More particularly, how gimped a build might end up being with access to level 9 spells in both arcane and divine magic?<br/>\n<br/>\nThe immediately obvious problem is the spell DC in both areas, as well as neither being undispellable - as you need at least 17 Cleric levels and 17 Wizard ones, which means neither can reach level 25.<br/>\n<br/>\nThen there's the problem of having to boost 2 stats - INT and WIS - to at least respectable levels, and that probably means taking the spell penetration line, thus reducing the number of feats that would ordinarily be available for other useful things, unless you only cast no-save spells.<br/>\n<br/>\nEven should such a build be worth pursuing, there's then the issue of which class to concentrate on first. My temptation is to initially focus on Cleric (let's assume I have no interest in melee, so the AB and AC doesn't factor here) and take all the Wizard bonus feats in epic levels, but that might be hopelessly naive.<br/>\n<br/>\nFinally (though you good folk may well have other issues), there's the question about whether to take a 3rd class, and if so, what?<br/>\n<br/>\nOn the positive side, you'd have an enormous quantity of spells at your disposal, and your Will save should really shine.<br/>\n<br/>\nLadies and gentlemen, the floor is yours...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:19 AM - Feb 10, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"23683\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23683&amp;sid=6a17fb60498ab5e8aad2c117032c9957#p23683\">\u2191</a><div class=\"responsive-hide\">Feb 09, 2021</div></cite>There is Mick's build Night Ranger (Ranger2/Cleric8/Assassin30)</div></blockquote>\nWell, basically it is an assassin build.\u00a0 So probably not what Stag is looking for. Ranger and cleric are only there to fill the 10 levels you cannot take with prestige classes and are chosen just for a free off hand attack and some minor buffs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:55 PM - Mar 20, 2021",
+      "content": "<div>My initial thought is that you don't want to max out spells from both classes. <br/>\nThen comes the question if this is meant to be a pure caster or a spellsword of some kind.<br/>\nTwo full spell books give a lot of possible combinations. But the spell penetration becomes weak, just like you said. <br/>\nIf this is a spellsword,  cleric offers the best combat buffs, but apart from that wizards have more powerful spells.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:23 PM - Mar 20, 2021",
+      "content": "<div>I'm looking at a pure caster - I might start mucking around with hybrids when I'm more accustomed to doing the spelly thing.<br/>\n<br/>\nI was trying to keep this pretty general (hence my posting in this forum), but here's my quandary: in an ideal world I'd like an Evoker with access to Implosion, so he can both ex- and im- plode things (as it were). Concepts can be such an arse sometimes - particularly as this one's also supposed to be an archmage! I suspect that I'm trying to squeeze too much in for him to be very effective in either area, but thought I'd do well to check with the Guild before I go wasting silly amounts of time here.<br/>\n<br/>\nAny further thoughts are, of course, welcome!<br/>\n<br/>\nCheers<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Max's\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/aerie-the-wingless-avariel-cleric-19-illusionist-1-t2354380.html\" rel=\"noreferrer\" target=\"_blank\">Aerie the Faerie</a> build (particularly his upgrade last September) is probably closest to the sort of thing I'm thinking of, although this guy's supposed to be an aged, thickset, bald man, rather than a flimsy, female, flightless Avariel. So Dwarf might be an option here for more CON and less DEX. However, I'm not bothered about Zen Archery, so if going Human I'd get - effectively - 2 extra feats, so could cover Silent and Maximize (and more skills, obvs).</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "kfor85",
+      "avatar": "10759362_1598639921.jpg",
+      "timestamp": "9:13 PM - Mar 20, 2021",
+      "content": "<div>Hey Stag!\u00a0<br/>\n<br/>\nMax's Aerie was the first build that came to mind before I read your last edit as it got ESF: Evocation and all the goodies for an archmage archetype.<br/>\n<br/>\nHaving played that build solo mostly 1-40 on WoG I'd say you could of course go for dwarf/human but I'd advise you to keep Zen Archery, it's much more useful to the build in comparison to Maximize IMO as in places that have enemies with higher SR than the Toolset Standard 32 you're gonna have issues (a pretty embarassing situation for any archmage to be in) and with Extend, Silent and Empower you'll have more than enough spellbook management already.<br/>\n<br/>\nCheers!<br/>\n<br/>\nPS: Also from observations from that playthrough, I thought about something like Wiz 21/CL 18/Monk 1 to get Epic Warding, then you get a super strong Golem form from Shapechange buffed with damage shields and clerical goodies, maybe that would fit the bald sturdy aged guy thing a bit more as a fighting form in your toolkit</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:41 AM - Feb 10, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, true, but it does illustrate why Ranger/Cleric does not work well together despite what appears to be obvious synergy on the surface.<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:24 PM - Mar 22, 2021",
+      "content": "<div>The only thing that one will have to take into consideration when doing Shapechange is that any bonuses to Int/Wis and therefore spellslots is going to suffer, accordingly.<br/>\n<br/>\nFor a Wiz/Cl, this can mean a loss of a lot of spellslots, especially with +12 Int and/or Wis.\u00a0 Not to mention any items that give bonus spellslots.<br/>\n<br/>\nVery annoying imo.</div>"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "9:38 AM - Feb 10, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sadly, the best use of Ranger on a caster cleric build is a bonus feat that can be used for Greater and Epic Spell Foci and a class that dips Discipline if you are on a module with no immune knockdown items.  It is useful for a 1 level exchange.<br/>\n<br/>\nOtherwise, you are better off with Fighter, CoT, Paladin , Blackguard, Rogue, ShadowDancer, Assassin or Monk for a melee cleric and in many cases even on a caster cleric.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:41 PM - Mar 22, 2021",
+      "content": "<div>I'm sure you're right, Web. Being selfish, in my particular case I have no desire whatsoever to undergo shapechange with such a build. He does not sully his hands with mundanities such as physical combat, thank you very much.<br/>\n<br/>\nStill, good to know the info!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:52 PM - Feb 10, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Zanithar wrote: <a data-post-id=\"23697\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23697&amp;sid=6a17fb60498ab5e8aad2c117032c9957#p23697\">\u2191</a><div class=\"responsive-hide\">Feb 10, 2021</div></cite>Otherwise, you are better off with Fighter, CoT, Paladin , Blackguard, Rogue, ShadowDancer, Assassin or Monk for a melee cleric and in many cases even on a caster cleric.\n</div></blockquote>\nDon't forget bard!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "kfor85",
+      "avatar": "10759362_1598639921.jpg",
+      "timestamp": "9:27 PM - Mar 22, 2021",
+      "content": "<div>I agree with what Web said and for the record I didn't do that change to acquire Epic Warding when leveling (I used the Golem Form+Damage Shields on some foes though), it was just a thought of a last resort tool for when everything else fails (although one can still potentially disable/deal damage with SR ignoring spells from both sides: WoF, Evards etc) which didn't happen to me mainly due to the presence of Zen Archery.\u00a0<br/>\nStag, I wouldn't consider the Golem form+shields strategy as getting my hands dirty when not using the cleric buffs as I just stand there and they suicide so most likely something more of a wizard gimmick :)<br/>\n<br/>\nCheers!</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:58 AM - Mar 23, 2021",
+      "content": "<div>Hey Stag!\u00a0<br/>\n<br/>\nWhile most has been said already, I do think Aerie is an AMAZING template for you to base yourself upon. With such high WIS, it's really a shame not to have Zen Archery. It's just one feat for another whole combat style as an option. You can stand behind summoned creatures firing arrows or spells depending on what enemies you face. But she does struggle with SR, which is precisely why having Archery as something to fall back on is a nice alternative.\u00a0<br/>\n<br/>\nYou can also read my Magical Master, or the Speedy Sniper. All of them use Wizard/Cleric in very different ways.\u00a0</div>",
+      "author-color": "#00AA00"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

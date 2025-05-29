@@ -4,53 +4,186 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "494",
-  "name": "Druid Monk Dragon Shape? (lvl 30)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-monk-dragon-shape-lvl-30-t515537.html",
+  "name": "Arelith: Level 30 Melee Frontliner (WM?)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-level-30-melee-frontliner-wm-t515523.html",
   "author": "EliHarel",
-  "avatar": "10235214_1540245864.jpg",
-  "replies": 6,
+  "avatar": "no_avatar.png",
+  "replies": "27",
+  "views": "2.7K",
   "posts": [
     {
       "author": "EliHarel",
       "avatar": "no_avatar.png",
-      "timestamp": "1:49 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><blockquote><div><strong>lightningkmf wrote:</strong><strong>BEST BUILD</strong><br/>\n<strong>Druid 24 Monk 6</strong><br/>\nReason: I really don't like this build or the rp that goes with it..... I have to admit though. Dragon shape with this build is just unreal.. This build will allow you to destroy armies of enemy 30s. It really is that good. </div></blockquote>\n\nThis quote got me curious. Anyone care to elaborate on it? I play on Arelith so anything beyond level 30 is pointless, with the 3 consecutive level rule (the first three levels of every class you must take in a row).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "2:48 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's impossible with this split, unfortunately, vanilla-wise that is. Dragon Shape requires WIS of 30. <br/>\n<br/>\nThe highest WIS possible is 29 (base 18 + 7 level-ups + 4 Grt WIS) and still have a druid feat available for DS.  It could reach WIS 30 but only by sacrificing the last druid bonus feat for Grt WIS which sort of defeats the original premise of taking DS.  The only way to reach DS within 30 levels is via CoT and even then all the epic feats will get sucked up by Grt WIS.<br/>\n<br/>\nOf course, if there is some sort of custom race modification on Arelith with starting WIS ability higher than 18, that would be the only way.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:28 PM - Oct 28, 2011",
+      "content": "<div>I want a melee build meant for PvM. I just came from an adventure session with a GS WM that just cut his way through everything with a few wizard's buffs and I salivated. I thought about asking for a WM initially, but then I realized that there might be other melee secrets other than the weapon master, so it's free discussion. I do not want a sneak, though.<br/>\n<br/>\nIt is for Arelith, and I figure that by now most people know the limitations: if you multiclass, you must take three consecutive levels before taking any other class. There is no devastating critical. Low magic, without being able to enchant the same weapon (for instance, you can't do GMW and Flame Weapon on the same sword.) At level 30 you can mostly strive for items of +1 STR and +1 CON (or any other items), and a sword of +3 AB, +6 Slashing, +4 Energy damage.<br/>\n<br/>\nAs far as I understand Shields aren't too worthwhile in PvM when with a grouo of people, but I'll leave that for the builders to decide too.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "4:33 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>HipMaestro wrote:</strong>It's impossible with this split, unfortunately, vanilla-wise that is. Dragon Shape requires WIS of 30. <br/>\n<br/>\nThe highest WIS possible is 29 (base 18 + 7 level-ups + 4 Grt WIS) and still have a druid feat available for DS.  It could reach WIS 30 but only by sacrificing the last druid bonus feat for Grt WIS which sort of defeats the original premise of taking DS.  The only way to reach DS within 30 levels is via CoT and even then all the epic feats will get sucked up by Grt WIS.<br/>\n<br/>\nOf course, if there is some sort of custom race modification on Arelith with starting WIS ability higher than 18, that would be the only way.</div></blockquote>\n\nDruid 18 CoT 6 Monk 6 is IMO the best Arelith spread, some nice saves and many epic bonus feats to play with<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:30 PM - Oct 28, 2011",
+      "content": "<div>Did the guy cast the spell or use scrolls? Can you trade among other players to get enough scrolls to make UMD viable?</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:07 PM - Oct 28, 2011",
+      "content": "<div>Here are some ideas:<br/>\n * 26 levels of Cleric for undispellable buffs and 4 levels of Fighter for Epic Weapon Spec.<br/>\n * 16 levels of Fighter for feats, 7 levels of Weapon Master, and 7 levels of Bard for skill dumps.<br/>\n * 8 levels of Fighter and 22 levels of Weapon Master for massive AB.<br/>\n * the first 30 levels of <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build301814.html\" rel=\"noreferrer\" target=\"_blank\">WebShaman's classic Melee Mage</a><br/>\n<br/>\nIf you like any of those ideas, I'll build it for you, except the Melee Mage, which is already built, and linked for you.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "EliHarel",
       "avatar": "no_avatar.png",
-      "timestamp": "5:46 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong>Druid 18 CoT 6 Monk 6 is IMO the best Arelith spread, some nice saves and many epic bonus feats to play with </div></blockquote> <br/>\nCan you elaborate on this, and explain the differences between this and the Cleric-Monk combinations in contrast?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:02 PM - Oct 28, 2011",
+      "content": "<div>How can you take 8 fighter 22 WM? I thought you can't go epic in a prestige class before reaaching epic in general. Meaning at least 10 fighter levels. And why not add Rogue for some UMD?<br/>\nI don't want the Cleric because I don't want to focus on spells. UMD is ok though.</div>"
     },
     {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "7:19 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\n<br/>\nDruid 18 CoT 6 Monk 6 is IMO the best Arelith spread, some nice saves and many epic bonus feats to play with </div></blockquote>Druid 20/CoT 4/Monk 6 also works and grants elder elemental shape and extra spell slots and caster levels at the cost of 1 feat. Another option is Druid 30, which may be good if pure class builds get special benefits.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:58 AM - Oct 29, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong><br/>\nI don't want the Cleric because I don't want to focus on spells. UMD is ok though.</div></blockquote>\nClerics are THE melee class in NWN, period.  There is not even another melee class that is close.  I suggest that you learn about clerics before you ask for power then discard a class because you dont want to learn how to use said class.  You also wrote that the guy was uber BECAUSE of wizard spells!  Maybe it WAS a cleric!  LOL<br/>\n<br/>\nThe reality of the game is this:  You could use the EXACT same build as the guy you watched and it wouldnt mean a dam thing, UNLESS you actually know how to use that character.  I have seen it in person.  6 Players using all the same build and finding differing degrees of success with the build.  How do I know?  It was MY build they were copying and they were constantly PMing me for pointers.  FOR ME, it was THE build!  <br/>\n<br/>\nWM, in and of itself, is NOT an uber class.  In fact, many of the more experienced feel it is TOO BIG of an investment in feats to be really worth it.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:06 AM - Oct 29, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>How can you take 8 fighter 22 WM? I thought you can't go epic in a prestige class before reaaching epic in general. Meaning at least 10 fighter levels.</div></blockquote> You're right, of course! *slaps forehead*<br/>\n<blockquote><div>And why not add Rogue for some UMD?</div></blockquote>Do you also want the other Rogue skills for traps and locks? How about Fighter 8 / Rogue 6 / WM 16? Or how about Bard instead of Rogue so Spellcraft can be a class skill too for saves against spells, and UMD, and Tumble for AC?<br/>\n<br/>\nWait a minute: you said that you have to take 3 consecutive levels of a class? Is that always, or just the first time you take the class?<br/>\nWould this be allowed (as a rough outline)?<br/>\n1 Fighter 1<br/>\n2 Fighter 2<br/>\n3 Fighter 3<br/>\n4 Fighter 4<br/>\n5 Fighter 5<br/>\n6 Fighter 6<br/>\n7 Bard 1<br/>\n8 Bard 2<br/>\n9 Bard 3<br/>\n10 WM 1<br/>\n11 WM 2<br/>\n12 WM 3<br/>\n13 WM 4<br/>\n14 WM 5<br/>\n15 WM 6<br/>\n16 WM 7<br/>\n17 Bard 4<br/>\n18 WM 8<br/>\n19 WM 9<br/>\n20 WM 10<br/>\n21 Fighter 7<br/>\n22 Bard 5<br/>\n23 Fighter 8<br/>\n24 WM 11<br/>\n25 WM 12<br/>\n26 WM 13<br/>\n27 Bard 6<br/>\n28 WM 14<br/>\n29 WM 15<br/>\n30 WM 16</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "EliHarel",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:47 AM - Oct 29, 2011",
+      "content": "<div><blockquote><div><strong>avado wrote:</strong>Clerics are THE melee class in NWN, period.  There is not even another melee class that is close.</div></blockquote>\nBut I meant a class that doesn't have spells.<br/>\n<blockquote><div><strong>avado wrote:</strong>I suggest that you learn about clerics before you ask for power then discard a class because you dont want to learn how to use said class.</div></blockquote>\nI suggest you don't patronize. It's not pleasant when asking for help. I have a Cleric, a build I requested here, and I enjoy her. In PvP she can be great. But compared to a buffed WM in PvM she's not half as good. <br/>\n<blockquote><div><strong>avado wrote:</strong>You also wrote that the guy was uber BECAUSE of wizard spells!  Maybe it WAS a cleric!  LOL</div></blockquote>\nNo, he was buffed beforehand. But no buffs made him critical every four strikes for over 100 at level 15. Stoneskin and Save increases, that sort of buffs. For defense.<br/>\n<blockquote><div><strong>avado wrote:</strong>WM, in and of itself, is NOT an uber class.  In fact, many of the more experienced feel it is TOO BIG of an investment in feats to be really worth it.</div></blockquote>\nBut in a party, with proper backup and healing, is it second to any build in terms of hit-and-damage ratio?<br/>\n<br/>\n<strong>Empyre</strong>, the rule is that the first three must be consecutive,  so what you did is possible. About the skills - I want this character to be a frontliner meant to be palyed with a party. So I want him focused on killing and killing hard. Being multiskilled interests me less, unless it doesn't come at the expense of killing properly.</div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:51 AM - Oct 29, 2011",
+      "content": "<div>Emprye65:<br/>\nYes, that layout would be aloud. But why not bard first more skill points? 3 levels of Bard then Fighter, if you were to go like that. <br/>\n<blockquote><div><strong>Maximillian Kane wrote:</strong>Did the guy cast the spell or use scrolls? Can you trade among other players to get enough scrolls to make UMD viable?</div></blockquote>\n\nYou can buy scrolls off other players, so UMD is helpful. Not sure if it works as vanilla though.<br/>\n<br/>\n<br/>\nAlso, more info on Arelith's <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=16&amp;t=184\" rel=\"noreferrer\" target=\"_blank\">changes</a> if interested. <br/>\n<br/>\nEdit: Posted this at the same time as above, sorry for repeating.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:23 PM - Oct 29, 2011",
+      "content": "<div>OK, I'll build it this evening with Bard first for more skill points.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "10:20 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KailPendragon wrote:</strong><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\n<br/>\nDruid 18 CoT 6 Monk 6 is IMO the best Arelith spread, some nice saves and many epic bonus feats to play with </div></blockquote>Druid 20/CoT 4/Monk 6 also works and grants elder elemental shape and extra spell slots and caster levels at the cost of 1 feat. Another option is Druid 30, which may be good if pure class builds get special benefits.</div></blockquote>\n\nThat would be my second choice. I prefer an extra epic feat and +1 to saves to the very minor upgrades in a shape that I won`t use as much anyway <br/>\n<br/>\nTo elaborate more, CoT gives Great Wisdom, Monk gives Wisdom AC and attack progression which transfer to the shuift (so you can be a Dragon with 7 Attacks per round if you`re hasted, 6 otherwise). About the difference between Druid  Monks and Cleric Monks is pretty much the difference between Druid and Cleric and how Monk complements each of these classes. Read both of my guides, on Druids and on Clerics and you should be able to figure it out.<br/>\n<br/>\nI have to go now. Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:30 PM - Oct 29, 2011",
+      "content": "<div>I would honestly go for rogue, not bard. Why? Sneak Attack and Evasion. Bard does get some goodies, but the song and the spells with so few levels aren't worth your while, so I would prefer a Fighter 9 WM 16 Rogue 5, starting with Rogue for skill points. Going Fighter 6 Rogue 4 WM 10 pre-epic. IMO that's the way to go.</div>"
     },
     {
       "author": "KailPendragon",
       "avatar": "10235214_1540245864.jpg",
-      "timestamp": "11:49 PM - Oct 29, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Maximillian Kane wrote:</strong><br/>\nThat would be my second choice. I prefer an extra epic feat and +1 to saves to the very minor upgrades in a shape that I won`t use as much anyway </div></blockquote>Dragon is 3x/day and doesn't work well in tight places. It's nice to have a feasible alternative/backup IMO and elder shapes are a definite improvement of the elemental shape. Anyhow, one picks what he likes best <br/>\n<blockquote><div>To elaborate more, CoT gives Great Wisdom, Monk gives Wisdom AC and attack progression which transfer to the shuift (so you can be a Dragon with 7 Attacks per round if you`re hasted, 6 otherwise)</div></blockquote>Actually 6 and 5 since with those two split since you need two CoT bonus feats in epic.<br/>\n<blockquote><div>About the difference between Druid  Monks and Cleric Monks is pretty much the difference between Druid and Cleric and how Monk complements each of these classes. Read both of my guides, on Druids and on Clerics and you should be able to figure it out.</div></blockquote>One difference is that druid has natural access to shapes where monk is basically required (either druid shapes or shifter ones) and hence monk is a natural fit, while cleric needs to be built to accommodate monk (not that it is that difficult, mind me  ).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:36 PM - Oct 29, 2011",
+      "content": "<div><blockquote><div><strong>avado wrote:</strong> In fact, many of the more experienced feel it is TOO BIG of an investment in feats to be really worth it.</div></blockquote>Dude, it's more like \"since it takes a lot of resources to qualify, you'd better go for a lot of levels in it to make the most out of it\"</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "7:55 PM - Oct 29, 2011",
+      "content": "<div>I'd consider FTR 14-16/Bard 4-6/RDD 10. It gets the same AB of a FTR 8-10/Bard or Rogue 4- 6/WM 16 but manages better saves, better AC, RDD immunities, more HPs, higher base damage in trade for lesser and less frequent crits.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "8:26 PM - Oct 29, 2011",
+      "content": "<div>Here Rogue is taken first for immediate access to UMD, some extra damage from sneaks, early evasion and UD (preserves 1 AC) and extra skillpoints. If a higher UMD score is needed leveling up, get rogue later in the build (you will lose 18 skillpoints that way). There are leftover skillpoints for trap skills or other rogue utility skills or heal or whatever you want. The final rogue level can be placed anywhere from lvl 28 (because of UMD if it were just for tumble 27 would be good already) to lvl 30 depending on which skills one wants to max out. Take a look:<br/>\n<br/>\n<br/>\n<span style=\"font-size:150%;line-height:normal\">Fighter(10), Rogue(4), Weapon Master(16)</span><br/>\nHuman<br/>\n<br/>\nSTR: 18 (28)<br/>\nDEX: 13<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 13<br/>\nCHA: 8<br/>\n<br/>\nHitpoints: 314<br/>\nSkillpoints: 174<br/>\nSaving Throws (Fortitude/Will/Reflex): 16/10/17<br/>\nSaving Throw bonuses: Spells +3, Evasion<br/>\nBAB: 24<br/>\nAB: 40 (melee)<br/>\nAC (naked/full plate/full plate and tower shield): 19/27/30<br/>\nSneak Attack: +2d6<br/>\n<br/>\nDiscipline 32(43), Intimidate 4(3), Spellcraft 14(15), Tumble 30(31), UMD 31(30), remaining skillpoints 49<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Rogue(1): Power Attack, Cleave<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Focus, {Uncanny Dodge I}<br/>\n04: Fighter(1): STR+1, Dodge, (STR=19)<br/>\n05: Fighter(2): Mobility<br/>\n06: Fighter(3): Expertise<br/>\n07: Fighter(4): Weapon Specialization<br/>\n08: Fighter(5): STR+1, (STR=20)<br/>\n09: Fighter(6): Spring Attack, Whirlwind Attack<br/>\n10: Weapon Master(1): Weapon of Choice<br/>\n11: Weapon Master(2)<br/>\n12: Weapon Master(3): STR+1, Blind Fight, (STR=21)<br/>\n13: Weapon Master(4)<br/>\n14: Weapon Master(5)<br/>\n15: Weapon Master(6): Knockdown<br/>\n16: Weapon Master(7): STR+1, (STR=22)<br/>\n17: Weapon Master(8)<br/>\n18: Weapon Master(9): Improved Critical<br/>\n19: Fighter(7)<br/>\n20: Fighter(8): STR+1, Improved Knockdown, (STR=23)<br/>\n21: Fighter(9): Epic Weapon Focus<br/>\n22: Fighter(10): Epic Weapon Specialization<br/>\n23: Weapon Master(10)<br/>\n24: Weapon Master(11): STR+1, Great Strength I, (STR=25)<br/>\n25: Weapon Master(12)<br/>\n26: Weapon Master(13): Epic Prowess<br/>\n27: Weapon Master(14): Great Strength II, (STR=26)<br/>\n28: Weapon Master(15): STR+1, (STR=27)<br/>\n29: Weapon Master(16): Armor Skin<br/>\n30: Rogue(4): Great Strength III, (STR=28)</div>"
+    },
+    {
+      "author": "EliHarel",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:33 PM - Oct 29, 2011",
+      "content": "<div>Isn't it better with a GS?</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "11:43 PM - Oct 29, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>Isn't it better with a GS?</div></blockquote>You mean a Great Sword? Define better. With a two-hander he will dish out more damage but his AC will suffer greatly (you are looking at a -8 AC there if you have a cleric in your party, which is HUGE, and even -3 AC from a mundane tower shield is something big). With a 1-hander he'll hit for less damage but he will also be hit far less.<br/>\n<br/>\nAnyhow the weapon choice is left open, so just pick yours.</div>"
+    },
+    {
+      "author": "EliHarel",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:09 AM - Oct 30, 2011",
+      "content": "<div>My thought was that even with the +8 AC of the Towershield the overall AC will still be too low to really avoid the attacks of the monsters he'll go against, so might as well go for more damage.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "12:18 AM - Oct 30, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>My thought was that even with the +8 AC of the Towershield the overall AC will still be too low to really avoid the attacks of the monsters he'll go against, so might as well go for more damage.</div></blockquote>Well, 8 AC makes a huge difference, as I said. Of course if the AB-AC of your enemies (their AB vs your AC that is) is 28+ then it makes no difference since they would miss you only on a 1 shield or not. That is not usually the case (but I don't know about Arelith) hence +8 AC will, in all likelihood, make you to be hit a lot less often.<br/>\n<br/>\nFYI the guy has 30 mundane AC. With a buffing cleric with travel and plant domains (or anyhow access to cleric buffs+barkskin+haste/mass haste) that figure becomes 54, to which you can add +1 from mage armor, +5 from a bard song and +3 from dodge boots (you said you can get +3 gear right?) going up to 63. Consider that you have +1 AC vs the current target and +4 AC vs all attacks of opportunity too. You also can use expertise for a further +5 AC. So we are looking potentially at 68 AC which can further be capped by stacking MA with the shadow MA up to the dodge cap (another +7 dodge AC).</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:29 AM - Oct 30, 2011",
+      "content": "<div>Kail already posted the Rogue variant, so here's the Bard variant. I tried to put Bard first for extra skill points, but I couldn't with 10 CHA and I didn't want to take points off of CON for CHA, so I put Bard back at level 7.<br/>\n<br/>\nFor your weapon, here are 4 suggestions:<br/>\n * Warhammer for the rarely-resisted blunt damage, plus the AC from a shield.<br/>\n * Scimitar for the best damage output from a 1-handed weapon, thanks to the Crits, plus the AC from a shield.<br/>\n * Heavy Flail for blunt damage with the 2-handed STR damage bonus.<br/>\n * Greatsword or Greataxe for slightly more damage output than Heavy Flail. They're basically equivalent to each other, so choose the one you like better.<br/>\n<br/>\nNow, I'll go make the RDD build suggested above.<br/>\n<br/>\nLevel 30 Melee Master (Bard 6 / Fighter 8 / Weapon Master 16)<br/>\nHuman, Non-Lawful<br/>\nPlayable 1 - 30, PvM<br/>\n<br/>\nAbilities:<br/>\nSTR: 16 (26)<br/>\nDEX: 14<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 10<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Fighter(1): Blind Fight, Weapon Focus, Dodge<br/>\n02: Fighter(2): Mobility<br/>\n03: Fighter(3): Expertise<br/>\n04: Fighter(4): STR+1, Weapon Specialization, (STR=17)<br/>\n05: Fighter(5)<br/>\n06: Fighter(6): Spring Attack, Whirlwind Attack<br/>\n07: Bard(1)<br/>\n08: Bard(2): STR+1, (STR=18)<br/>\n09: Bard(3): Improved Critical<br/>\n10: Weapon Master(1): Weapon of Choice<br/>\n11: Weapon Master(2)<br/>\n12: Weapon Master(3): STR+1, Power Attack, (STR=19)<br/>\n13: Weapon Master(4)<br/>\n14: Weapon Master(5)<br/>\n15: Weapon Master(6): Cleave<br/>\n16: Weapon Master(7): STR+1, (STR=20)<br/>\n17: Bard(4)<br/>\n18: Weapon Master(8): Great Cleave<br/>\n19: Weapon Master(9)<br/>\n20: Weapon Master(10): STR+1, (STR=21)<br/>\n21: Fighter(7): Epic Weapon Focus<br/>\n22: Bard(5)<br/>\n23: Fighter(8): Epic Weapon Specialization<br/>\n24: Weapon Master(11): STR+1, Great Strength I, (STR=23)<br/>\n25: Weapon Master(12)<br/>\n26: Weapon Master(13): Epic Prowess<br/>\n27: Bard(6): Great Strength II, (STR=24)<br/>\n28: Weapon Master(14): STR+1, (STR=25)<br/>\n29: Weapon Master(15)<br/>\n30: Weapon Master(16): Great Strength III, Armor Skin, (STR=26)<br/>\n<br/>\nStats:<br/>\nHitpoints: 336<br/>\nSkillpoints: 177<br/>\nSaving Throws (Fortitude/Will/Reflex): 16/13/20<br/>\nSaving Throw bonuses: Spells: +6<br/>\nBAB: 24<br/>\nAB (max, naked): 39 (melee), 27 (ranged)<br/>\nAC (naked/mundane armor/shield only): 20/30<br/>\nSpell Casting: Bard(0)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDiscipline 33(41), Intimidate 4(4), Listen 33(32), Lore 3(11), Perform 12(12), Spellcraft 28(30), Tumble 30(32), UMD 30(30)<br/>\n<br/>\n01: Discipline(4), Intimidate(2), Save(12)<br/>\n02: Discipline(1), Save(16)<br/>\n03: Discipline(1), Intimidate(1), Save(18)<br/>\n04: Discipline(1), Save(22)<br/>\n05: Discipline(1), Intimidate(1), Save(24)<br/>\n06: Discipline(1), Save(28)<br/>\n07: Discipline(1), Listen(3), Perform(3), Spellcraft(8), Tumble(10), UMD(10)<br/>\n08: Discipline(1), Listen(3), Perform(3)<br/>\n09: Discipline(1), Listen(3), Perform(3)<br/>\n10: Discipline(1), Listen(4)<br/>\n11: Discipline(1), Save(4)<br/>\n12: Discipline(1), Save(8)<br/>\n13: Discipline(1), Save(12)<br/>\n14: Discipline(1), Save(16)<br/>\n15: Discipline(1), Save(20)<br/>\n16: Discipline(1), Save(24)<br/>\n17: Discipline(1), Spellcraft(10), Tumble(10), UMD(10)<br/>\n18: Discipline(1), Listen(4)<br/>\n19: Discipline(1), Listen(3), Save(1)<br/>\n20: Discipline(1), Save(5)<br/>\n21: Discipline(1), Save(9)<br/>\n22: Discipline(1), Spellcraft(5), Tumble(5), UMD(5)<br/>\n23: Discipline(1), Save(4)<br/>\n24: Discipline(1), Listen(4), Save(4)<br/>\n25: Discipline(1), Save(8)<br/>\n26: Discipline(1), Save(12)<br/>\n27: Discipline(1), Perform(3), Spellcraft(5), Tumble(5), UMD(5)<br/>\n28: Discipline(1), Listen(4)<br/>\n29: Discipline(1), Listen(4)<br/>\n30: Discipline(1), Listen(1), Lore(3)</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:10 AM - Oct 30, 2011",
+      "content": "<div>Here's the RDD build. The same weapons suggestions apply. Feel free to shuffle around when you take what feats pre-epic, but Luck Of Heroes can only be level 1 and Weapon Spec can be no earlier than level 4.<br/>\n<br/>\nLevel 30 Draconic Destroyer (Fighter 14 / Bard 6 / Red Dragon Disciple 10)<br/>\nHuman, Non-Lawful<br/>\nPlayable 1 - 30, PvM<br/>\n<br/>\nAbilities:<br/>\nSTR: 16 (34)<br/>\nDEX: 14<br/>\nCON: 14 (16)<br/>\nWIS: 8<br/>\nINT: 14 (16)<br/>\nCHA: 10 (12)<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Fighter(1): Toughness, Luck of Heroes, Weapon Focus<br/>\n02: Fighter(2): Dodge<br/>\n03: Fighter(3): Blind Fight<br/>\n04: Fighter(4): STR+1, Weapon Specialization, (STR=17)<br/>\n05: Bard(1)<br/>\n06: Bard(2): Power Attack<br/>\n07: Bard(3)<br/>\n08: Red Dragon Disciple(1): STR+1, (STR=18)<br/>\n09: Red Dragon Disciple(2): Cleave, (STR=20)<br/>\n10: Red Dragon Disciple(3)<br/>\n11: Red Dragon Disciple(4): (STR=22)<br/>\n12: Fighter(5): STR+1, Knockdown, (STR=23)<br/>\n13: Fighter(6): Improved Knockdown<br/>\n14: Red Dragon Disciple(5)<br/>\n15: Red Dragon Disciple(6): Great Cleave<br/>\n16: Red Dragon Disciple(7): STR+1, (STR=24), (CON=16)<br/>\n17: Bard(4)<br/>\n18: Red Dragon Disciple(8): Mobility<br/>\n19: Fighter(7)<br/>\n20: Fighter(8): STR+1, Improved Critical, (STR=25)<br/>\n21: Red Dragon Disciple(9): Epic Weapon Focus, (INT=16)<br/>\n22: Bard(5)<br/>\n23: Red Dragon Disciple(10): {Darkvision}, (STR=29), (CHA=12)<br/>\n24: Fighter(9): STR+1, Great Strength I, (STR=31)<br/>\n25: Fighter(10): Epic Weapon Specialization<br/>\n26: Fighter(11)<br/>\n27: Bard(6): Great Strength II, (STR=32)<br/>\n28: Fighter(12): STR+1, Armor Skin, (STR=33)<br/>\n29: Fighter(13)<br/>\n30: Fighter(14): Great Strength III, Epic Prowess, (STR=34)<br/>\n<br/>\nStats:<br/>\nHitpoints: 380<br/>\nSkillpoints: 186<br/>\nSaving Throws (Fortitude/Will/Reflex): 22/17/16<br/>\nSaving Throw bonuses: Spells: +6<br/>\nBAB: 22<br/>\nAB (max, naked): 38 (melee), 25 (ranged)<br/>\nAC (naked/mundane armor/shield only): 24/34<br/>\nSpell Casting: Bard(2)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSkills:<br/>\nDiscipline 33(45), Listen 30(29), Lore 25(34), Perform 12(13), Spellcraft 27(30), Tumble 30(32), UMD 29(30)<br/>\n<br/>\n01: Discipline(4), Lore(4), Save(12)<br/>\n02: Discipline(1), Lore(1), Save(15)<br/>\n03: Discipline(1), Lore(1), Save(18)<br/>\n04: Discipline(1), Save(22)<br/>\n05: Discipline(1), Lore(1), Perform(3), Spellcraft(8), Tumble(8), UMD(8)<br/>\n06: Discipline(1), Lore(1), Perform(3), Tumble(1), UMD(1)<br/>\n07: Discipline(1), Listen(1), Perform(3), Tumble(1), UMD(1)<br/>\n08: Discipline(1), Listen(4)<br/>\n09: Discipline(1), Listen(3), Spellcraft(1)<br/>\n10: Discipline(1), Spellcraft(4)<br/>\n11: Discipline(1), Listen(4)<br/>\n12: Discipline(1), Save(4)<br/>\n13: Discipline(1), Save(8)<br/>\n14: Discipline(1), Listen(1), Spellcraft(4), Save(7)<br/>\n15: Discipline(1), Spellcraft(1), Save(10)<br/>\n16: Discipline(1), Save(14)<br/>\n17: Discipline(1), Tumble(10), UMD(10)<br/>\n18: Discipline(1), Listen(4)<br/>\n19: Discipline(1), Save(4)<br/>\n20: Discipline(1), Save(8)<br/>\n21: Discipline(1), Listen(5), Spellcraft(4), Save(3)<br/>\n22: Discipline(1), Tumble(5), UMD(5)<br/>\n23: Discipline(1), Listen(4), Lore(1)<br/>\n24: Discipline(1), Lore(1), Save(4)<br/>\n25: Discipline(1), Save(9)<br/>\n26: Discipline(1), Save(14)<br/>\n27: Discipline(1), Listen(4), Perform(3), Spellcraft(5), Tumble(5), UMD(4)<br/>\n28: Discipline(1), Lore(5)<br/>\n29: Discipline(1), Lore(5)<br/>\n30: Discipline(1), Lore(5)</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "EliHarel",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:35 AM - Nov 01, 2011",
+      "content": "<div>Why is the Bard better over the Rogue?</div>"
+    },
+    {
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:47 AM - Nov 01, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>Why is the Bard better over the Rogue?</div></blockquote>\n\nMy interpretation of the comments could be off, but It's really comparing the Rog/Ftr/WM build vs. the Bard/Ftr/RDD build, not necessarily rogue vs. bard.<br/>\n<blockquote><div><strong>Kail Pendragon wrote:</strong>I'd consider FTR 14-16/Bard 4-6/RDD 10. It gets the same AB of a FTR 8-10/Bard or Rogue 4- 6/WM 16 but manages better saves, better AC, RDD immunities, more HPs, higher base damage in trade for lesser and less frequent crits.</div></blockquote>\n\nWith a 30 level cap, you're investing a lot of feats to grab WM but there are fewer levels to really take advantage.  Bard/Ftr/RDD builds can be effective in as few as 20 levels (there are a number of examples in the Level 20 forum) because the power curve kicks in much sooner.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "2:59 AM - Nov 01, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>Why is the Bard better over the Rogue?</div></blockquote>Clarify what you are referring to, please.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:04 AM - Nov 01, 2011",
+      "content": "<div>He might be asking us to compare the two WM builds, one with Rogue, and the other with Bard. Each one has advantages. The Rogue gets Sneak Attack and more skill points, and the Bard gets Bard Song snd Spellcraft as a class skill for better saves against spells. I'm sure that is an over-simplification.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:25 AM - Nov 01, 2011",
+      "content": "<div>BTW, Arelith has made it very hard to get RDD, shifter and PM. Something you might want to take into account.. Unless the OP has access to them?<br/>\n<br/>\nThough I'd point it out any way</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:59 PM - Nov 01, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>Why is the Bard better over the Rogue?</div></blockquote>\n\nBard is a requirement for RDD. Otherwise Rogue would probably be better</div>"
+    },
+    {
+      "author": "EliHarel",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:42 PM - Nov 01, 2011",
+      "content": "<div>I'm not yet qualified to take RDD, PM and shifter in Arelith, for which this build is intended.<br/>\n<br/>\n1. What I meant to ask Kail was for the avantages of the Bard version over the Rogue, because I didn't see anything all too worthwhile. The rogue's sneaks seem useful with IK, I get more fighter levels for more feats. I don't see why the Bardsong is worth that?<br/>\n2. The scimitar + towershield for good AC and frequent crits is very appealing. Does it matter whether I choose Rapier or Scimitar? And is there another one handed weapon that's better yet for a WM?<br/>\n3. As far as I understand, the 16 WM is just for +2 AB to the favored weapon. Correct me if I'm wrong, but from 7 WM to 16 WM, the only difference is +2 AB. That seems a lot for 9 levels. Shouldn't I put them in Fighter for more feats?<br/>\n4. Versatility in weaponry: is it recommended to take an additional Favored Weapon in some two-handed weapon for more damage, or maybe go for improved two weapon fighting and wield two scimitars/rapiers with every second hit a critical?<br/>\n5. Is Appraise any good?</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:31 PM - Nov 01, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>I'm not yet qualified to take RDD, PM and shifter in Arelith, for which this build is intended.<br/>\n<br/>\n1. What I meant to ask Kail was for the avantages of the Bard version over the Rogue, because I didn't see anything all too worthwhile. The rogue's sneaks seem useful with IK, I get more fighter levels for more feats. I don't see why the Bardsong is worth that?<br/>\n2. The scimitar + towershield for good AC and frequent crits is very appealing. Does it matter whether I choose Rapier or Scimitar? And is there another one handed weapon that's better yet for a WM?<br/>\n3. As far as I understand, the 16 WM is just for +2 AB to the favored weapon. Correct me if I'm wrong, but from 7 WM to 16 WM, the only difference is +2 AB. That seems a lot for 9 levels. Shouldn't I put them in Fighter for more feats?<br/>\n4. Versatility in weaponry: is it recommended to take an additional Favored Weapon in some two-handed weapon for more damage, or maybe go for improved two weapon fighting and wield two scimitars/rapiers with every second hit a critical?<br/>\n5. Is Appraise any good?</div></blockquote>\n\n1- It's not. Rogue is better.<br/>\n<br/>\n2- It does if you have access to Keen Edge scrolls, which only work on Slashing weapons. Otherwise, no.<br/>\n<br/>\n3- You get a bonus feat at WM 13 and another one at WM 16, but I wouldn't underestimate 2 AB. If you're worried about heavy investments, don't go for WM, but you already got SO MUCH IN, all those feats, 4 skill ranks in intimidate, to get only 7 levels. Might as well make use of that class to raise your AB, since the ONLY REASON you'd want more feats is because you're spending so many of them in WM requirements.<br/>\n<br/>\n4- No. It's not worth it to dual wield Scimitars and Rapiers because they're medium weapons, which means you receive a -4 penalty to all attacks and that's not good.<br/>\n<br/>\n5- Depends on servers. I find that it's good in places where you can buy very expensive items (like a bow that costs 900.000 GPs), cuz it makes stuff that you sell give more gold.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "7:28 PM - Nov 01, 2011",
+      "content": "<div><blockquote><div><strong>EliHarel wrote:</strong>I'm not yet qualified to take RDD, PM and shifter in Arelith, for which this build is intended.<br/>\n<br/>\n1. What I meant to ask Kail was for the avantages of the Bard version over the Rogue, because I didn't see anything all too worthwhile. The rogue's sneaks seem useful with IK, I get more fighter levels for more feats. I don't see why the Bardsong is worth that?</div></blockquote>\nRogue offers, in addition to what' sin common with bard (tumble and umd mostly) SA, evasion, more skillpoints and classed trap skills (and OL). Bard instead has classed taunt and spellcraft and a weak bardsong (at 6th lvl +1 AB, +2 dmg, +1 saves and +1 skills). Spellcraft and taunt ain't bad at all, but whether it's worthwhile or not depends on the player's preference.<br/>\n<blockquote><div>2. The scimitar + towershield for good AC and frequent crits is very appealing. Does it matter whether I choose Rapier or Scimitar? And is there another one handed weapon that's better yet for a WM?</div></blockquote>Environment dependent. Scimmy and rapier, as said, differ in damage type and scimmy is keenable. Which one is best for you depends on what's exactly available where you play.<br/>\n<blockquote><div>3. As far as I understand, the 16 WM is just for +2 AB to the favored weapon.</div></blockquote>And two feats. Also, +2 AB is no \"just\"; it i spretty meaningful and alters significantly the dmg output per round.<br/>\n<blockquote><div> Correct me if I'm wrong, but from 7 WM to 16 WM, the only difference is +2 AB. That seems a lot for 9 levels. Shouldn't I put them in Fighter for more feats?</div></blockquote>Do you need more feats? (at most you get +2 feats btw) More than you need +2 AB (equivalent to a further EWF)?<br/>\n<blockquote><div>4. Versatility in weaponry: is it recommended to take an additional Favored Weapon in some two-handed weapon for more damage</div></blockquote>40 lvls and Arelith leveling rules leave little space for that route which wants feats; you'd probably be forced to  indeed stop at WM 7 in that case. A second WoC could be heavy flail, because it's 2-handed blunt damage.<br/>\n<blockquote><div>or maybe go for improved two weapon fighting and wield two scimitars/rapiers with every second hit a critical?</div></blockquote>Bad idea, although if you wanna do that for style points (which is entirely subjective and too much affected by a certain drow character I'd say) a high AB like that granted by heavy WM helps (since you get a further -2 AB compared to \"proper\" dual wielding, because of the non small size of the offhand weapon).<br/>\n<blockquote><div>5. Is Appraise any good?</div></blockquote>Module dependent, is it any good on Arelith?</div>"
     }
   ]
 }

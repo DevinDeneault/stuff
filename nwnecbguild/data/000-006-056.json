@@ -4,23 +4,175 @@
   "forum_name": "Full Epic - Level 40 Builds",
   "forum_id": "006",
   "id": "056",
-  "name": "Godly Archer (Bard 2 / Paladin 9 / Arcane Archer 29)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/godly-archer-bard-2-paladin-9-arcane-archer-29-t2356029.html",
-  "author": "darktooth",
-  "avatar": "10759000_1542893921.jpg",
-  "replies": 1,
+  "name": "Sorcerous Blade Supreme (Wizard 26/ Ftr 6/ CoT 8)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/sorcerous-blade-supreme-wizard-26-ftr-6-cot-8-t2355876.html",
+  "author": "Valerfor",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": "25",
+  "views": "13.2K",
   "posts": [
     {
-      "author": "darktooth",
-      "avatar": "10759000_1542893921.jpg",
-      "timestamp": "11:25 AM - Dec 19, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Original build can be found here: <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build233821.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 33821.html</a><br/>\n\u00a0<br/>\nThis is my version, adapted to use in a vanilla environment where enemy PCs have access to the most powerful equipment, with all possible toolset item properties. They can be equally godly and immune to everything except this archer\u2019s arrows that are infused with divine damage.<br/>\n\u00a0<br/>\nB2 P9 AA29<br/>\nElf<br/>\nSTR 14<br/>\nDEX 18 (20)<br/>\nCON 8<br/>\nWIS 8<br/>\nINT 10<br/>\nCHA 16 (32)<br/>\n\u00a0<br/>\nHP: 334<br/>\nSaving Throws (Fort/Will/Ref): 29/32/38<br/>\nBAB: 29<br/>\nAB (max, naked): 32 (melee), 52 (mundane bow)<br/>\nAC (naked): 25<br/>\n\u00a0<br/>\nSkillpoints: 193<br/>\nConcentration \u00a043(42), Discipline 43(45), Heal 24(23), Open Lock 1(6), Pick Pocket 1(6), Tumble 40(45), UMD 1(12)<br/>\n\u00a0<br/>\n<br/>\n1 B1: Point Blank Shot<br/>\n2 P1<br/>\n3 P2: Power Attack<br/>\n4 P3: CHA +1(17)<br/>\n5 P4<br/>\n6 P5: Divine Might<br/>\n7 P6<br/>\n8 P7: CHA +1(18)<br/>\n9 P8: WF: Longbow<br/>\n10 AA1<br/>\n11 AA2<br/>\n12 AA3: Blind Fight, CHA +1(19)<br/>\n13 AA4<br/>\n14 AA5<br/>\n15 AA6: Called Shot<br/>\n16 AA7: CHA +1(20)<br/>\n17 AA8<br/>\n18 AA9: Toughness<br/>\n19 AA10<br/>\n20 P9: CHA +1(21)<br/>\n21 AA11: Armor Skin<br/>\n22 AA12<br/>\n23 AA13<br/>\n24 AA14: EWF: Longbow, GR CHA I, CHA +1(23)<br/>\n25 AA15<br/>\n26 AA16: <br/>\n27 AA17: GR CHA II(24)<br/>\n28 AA18: Epic Prowess, CHA +1(25)<br/>\n29 AA19<br/>\n30 AA20: GR CHA II(26)<br/>\n31 AA21<br/>\n32 AA22: GR DEX I(19), CHA +1(27)<br/>\n33 AA23: GR CHA III(28)<br/>\n34 AA24: <br/>\n35 AA25<br/>\n36 AA26: GR DEX II(20), GR CHA IV, CHA +1(30)<br/>\n37 AA27<br/>\n38 AA28: <br/>\n39 AA29: GR CHA V(31)<br/>\n40 B2: CHA +1(32)<br/>\n<br/>\n\u00a0<br/>\n<strong>Differences to the original build:</strong><br/>\n\u00a0<br/>\n1. Bard 1 vs Bard 2 pre-epic:<br/>\nOne has to choose between additional 4 HP or 2 skill points. No difference in base saves. Bard spells are almost useless in an environment teeming with gods.<br/>\n\u00a0<br/>\n2. Feat selection:<br/>\nExtra Turning and Rapid Shot are excluded from selection because one can get it from items. Improved Critical is not important if one expects opponents to be immune to critical hits.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:37 PM - Dec 25, 2021",
+      "content": "<div>...<em>And it was at that time, that Ar-Pharazon, the leader of men, last king of Dunedain, was made angry and sent upon the Middle-earth an army so vast and so powerful, that Sauron found himself defeated without a single fight fought...</em><br/>\n*<em> paraphrased from the history of Middle-earth vol. xii</em><br/>\n<br/>\n<strong>The 40AB, Dev Crit 40 DC, Auto Still 3 - Warmage</strong><br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202112/10235447_101479982e80f58d4333e0d56e07b60a.jpg\"/><br/>\nRACE: Dwarf<br/>\nALIGNMENT: Lawful Neutral (Smite proof)<br/>\nPLAYABILITY: PvM 1-40<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR \u2013 18 (30)<br/>\nDEX \u2013 08<br/>\nCON \u201314<br/>\nINT\u00a0 \u2013 16 (19)<br/>\nWIS \u2013 08<br/>\nCHA \u2013 06<br/>\n<br/>\nLEVELING GUIDE:<br/>\n<em>01</em>) Wizard (01): Still Spell, Scribe Scrolls, Pixie Familiar<br/>\n<em>02</em>) Fighter (01): WF: Longsword<br/>\n<em>03</em>) Wizard (02): Extend Spell<br/>\n<em>04</em>) Wizard (03): {STR +1}<br/>\n<em>05</em>) Wizard (04):<br/>\n<em>06</em>) Wizard (05): Spell Penetration, Empower Spell<br/>\n<em>07</em>) Wizard (06):<br/>\n<em>08</em>) Wizard (07): {STR +1}<br/>\n<em>09</em>) Wizard (08): Greater Spell Penetration<br/>\n<em>10</em>) Fighter (02): Knockdown<br/>\n<em>11</em>) Fighter (03):<br/>\n<em>12</em>) Fighter (04): Improved Knockdown, WS: Longsword, {STR +1}<br/>\n<em>13</em>) CoT (01): <br/>\n<em>14</em>) CoT (02): Improved Critical: Longsword<br/>\n<em>15</em>) CoT (03): Blind Fighting<br/>\n<em>16</em>) CoT (04): Power Attack, {STR +1}<br/>\n<em>17</em>) CoT (05):<br/>\n<em>18</em>) CoT (06): Cleave, Great Cleave<br/>\n<em>19</em>) CoT (07):<br/>\n<em>20</em>) Fighter (05): {STR +1}<br/>\n<em>21</em>) Wizard (09): Overwhelming Critical: Longsword<br/>\n<em>22</em>) Wizard (10): Great Intelligence I<br/>\n<em>23</em>) Wizard (11):<br/>\n<em>24</em>) CoT (08): Great Strength I, Epic Weapon Focus: Longsword*, {STR +1}<br/>\n<em>25</em>) Fighter (06): Devastating Critical: Longsword*\u00a0<br/>\n<em>26</em>) Wizard (12):<br/>\n<em>27</em>) Wizard (13): Epic Prowess<br/>\n<em>28</em>) Wizard (14): {STR +1}<br/>\n<em>29</em>) Wizard (15): Great Intelligence II<br/>\n<em>30</em>) Wizard (16): Great Intelligence III<br/>\n<em>31</em>) Wizard (17): <br/>\n<em>32</em>) Wizard (18): {STR +1}<br/>\n<em>33</em>) Wizard (19): Auto Still I**<br/>\n<em>34</em>) Wizard (20): Auto Still II<br/>\n<em>35</em>) Wizard (21):<br/>\n<em>36</em>) Wizard (22): Auto Still III, {STR +1}<br/>\n<em>37</em>) Wizard (23): Epic Mage Armor**<br/>\n<em>38</em>) Wizard (24):<br/>\n<em>39</em>) Wizard (25): Great Strength II<br/>\n<em>40</em>) Wizard (26): Epic Warding, {STR +1}<br/>\n<br/>\nSKILL GUIDE: <br/>\nConcentration: 43 (45), Discipline: 28(38), Heal: 19(18), Lore: 29(35), Spellcraft: 41(45), Spot: 27(26), Tumble: 20(19)\n<details><summary>Spoiler</summary> \n02: Concentration (1), Heal (1), Discipline (5), Save (2)\n04: Concentration (1), Heal (1), Spellcraft (1), Save (5)\n06: Concentration (1), Heal (1), Spellcraft (1), Save (9)\n08: Concentration (1), Heal (1), Spellcraft (1), Save (7)\n10: Concentration (1), Heal (1), Discipline (8), Save (4)\n12: Concentration (1), Heal (1), Discipline (1), Save (8)\n14: Discipline (1), Heal (1), Spot (1), Save (4)\n16: Discipline (1), Heal (1), Spot (1), Save (8)\n18: Discipline (1), Spot (1), Save (3)\n20: Concentration (8), Discipline (1), Spot (1), Save (1)\n22: Concentration (1), Spellcraft (1), Save (7)\n24: Discipline (4), Spot (11)\n26: Concentration (1), Spellcraft (1), Save (6)\n28: Concentration (1), Spellcraft (3), Save (1)\n30: Concentration (1), Spellcraft (4), Save (3)\n32: Concentration (1), Spellcraft (4), Save (5)\n34: Concentration (1), Spellcraft (1), Lore (3), Save (7)\n36: Concentration (1), Spellcraft (1), Lore (3), Save (9)\n38: Concentration (2), Spellcraft (1), Lore (3)\n40: Concentration (1), Lore (5)</details>\nHP: 324, Skills: 226, AC: 24 (Full plate &amp; shield)<br/>\n<br/>\nF: 27 (38), W: 22 (33), R: 21 (32) / (*) Saves vs spells<br/>\n<br/>\nBAB: 26 (Four attacks)<br/>\nAB: 40/35/30/25 (Longsword)<br/>\nDmg: 1d8+12\u00a0 / 17-20x2 (Longsword)<br/>\nDevastating Critical DC: 40 (46)<br/>\n<br/>\nSpell Penetration: 30+1d20+10 (Mord's)<br/>\nSpellcasting: Wizard 9th Circle of spells (Undispellable)<br/>\nEpic Warding: 1300 Dmg Absorption Shield, Lasts for 26 Rounds<br/>\nEpic Mage Armor: +20 total AC, Lasts for 26 Hours, +5 Dodge AC stacks<br/>\nAuto Still 3: Can cast all spells in armor without any possibility of failure<br/>\n<br/>\nThis was really hard to do, the requirements that I set on myself were next to impossible and I passed a good amount of time combing this build, up &amp; down, in order to maximize the class &amp; feat order. There were at least six iterations of it at some point, all with minor differences, such as taking the last level as CoT instead of Wizard in order to maximize my discipline and so on. In the end, I decided on this and I couldn't be happier about it as everything comes rapidly one after the other, Dev Crit at level 24, all AB-boosters by level 27, then EMA which is so important for freeing up slots for immunity items, then Auto Still for casting in full plate armor and finally, as a capstone ability, Epic Warding.<br/>\n<details><summary>Spoiler</summary><a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/runes-desolation-wizard-26-fighter-6-divine-champi-t2355263.html#p17943\" rel=\"noreferrer\" target=\"_blank\">Runes &amp; Desolation <br/>\n</a><a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/spellsword-of-bahamut-sorc-26-paladin-4-rdd-10-t515415.html\" rel=\"noreferrer\" target=\"_blank\">Spellsword of Bahamut <br/>\n</a></details>\nEdit by Mick Dagger: * and ** swapped feats to make the build legal.</div>"
+    },
+    {
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "6:46 PM - Dec 25, 2021",
+      "content": "<div>Whoa.... This is an icredible wiz build!!! Just wow! No other comment!<br/>\n<br/>\n\u041e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u0441 \u043c\u043e\u0435\u0433\u043e SM-G970F \u0447\u0435\u0440\u0435\u0437 Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:57 PM - Dec 25, 2021",
+      "content": "<div>I like it, with the exception of longsword.<br/>\n<br/>\nNot an ideal dev crit weapon.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:46 PM - Dec 25, 2021",
+      "content": "<div>It looks like a very fine spellsword!<br/>\nLevelling this one should go smoothly. And you get the \u00a0mage feel right from the start with 8 early mage levels.<br/>\n<br/>\n<br/>\n(I think there is a typo in the saves listing)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:26 AM - Dec 26, 2021",
+      "content": "<div>Yup, fixed now, thanks Mick!</div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "10:22 AM - Dec 26, 2021",
+      "content": "<div>I really like this build and this style of character. You get an undispellable mage with Devastating Critical at level 24, no less! And then it just keeps coming with the Wizard levels and autostill feats.\u00a0<br/>\n<br/>\nWere you tempted to drop Weapon Specialisation (since you don't get EWS anyway, which makes sense)? You could replace it with Toughness or Craft Wand or whatever, and that would let you change the split to F4/CoT10 (3/9 pre-epic) for +1f/+2w/+2r saves.<br/>\nMerry Christmas and thanks for the build!</div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "11:39 AM - Dec 26, 2021",
+      "content": "<div>Why the build is \"sourcerous\", as Wiz class has been chosen?<br/>\nJoking! <span class=\"text-emoji\">\ud83d\ude00</span><br/>\n<br/>\nThis is a really interesting build. You would have never obtained the same result with sorcerers, as they do not have the wizard bonus feats...<br/>\nA pity that EWS is not here, but arcane magic users have other way to increase the damage.</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "3:25 PM - Dec 26, 2021",
+      "content": "<div>Amazing ! With such an AB you have dev crit and an undispellable mage with the two best epic spells and autostill. wow.</div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "6:10 PM - Dec 26, 2021",
+      "content": "<div>Looks exactly like\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18019#p18019\" rel=\"noreferrer\" target=\"_blank\">Runes &amp; Desolation</a>, Dwarf 40 AB with Dev Crit 40 DC, undispellable, etc.\u00a0 Only thing different is Auto Still III, which is meh, and a few other nuances (spell penetrations, etc).\u00a0 But both end in the same place. Not sure if it merits its own entry.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:53 PM - Dec 27, 2021",
+      "content": "<div><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10758933&amp;sid=fe7f4b5c6e9028cc164af6dfdd3fd2e5\">grizzled_dwarflord</a> wrote: <div class=\"responsive-hide\">Dec 26, 2021</div></cite>Looks exactly like\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18019#p18019\" rel=\"noreferrer\" target=\"_blank\">Runes &amp; Desolation</a>, Dwarf 40 AB with Dev Crit 40 DC, undispellable, etc.\u00a0 Only thing different is Auto Still III, which is meh, and a few other nuances (spell penetrations, etc).\u00a0 But both end in the same place. Not sure if it merits its own entry.</div></blockquote>\nThere are several wizard based spellswords that share core features simply because you want to build up BAB pre epic. At the same time you cannot max both strength and intelligence and the builds are often feat starved.<br/>\nIn this case there is a clear difference between the two builds. Valerfor's build here takes Auto-Still, a 4 feat commitment. It really changes the way the build plays compared with builds without. As moderator I do not question the uniqueness of this build.<br/>\nWhat I do question is the tone in the post that I have quoted. We can do better than this.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:12 AM - Dec 28, 2021",
+      "content": "<div>There was a time when similar builds to one presented were to be listed and discussed. I've seen a trend recently where this is not done. A lot of builds recently are very similar to old builds. <br/>\n<br/>\nSent from my Pixel 3 using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:14 PM - Dec 28, 2021",
+      "content": "<div><blockquote><div><cite>gkorjax wrote: <div class=\"responsive-hide\">Dec 28, 2021</div></cite>There was a time when similar builds to one presented were to be listed and discussed. I've seen a trend recently where this is not done. A lot of builds recently are very similar to old builds. <br/>\n<br/>\nSent from my Pixel 3 using Tapatalk</div></blockquote>\n\nAccording to the build posting rules paragraph D, you are supposed to check earlier builds and discuss what makes your build differ from similar builds. Most often they are builds that share the same classes and class levels. <br/>\nSometimes it may also be of interest to compare with other builds with similar features. They can be harder to find when searching. But as poster you may add any build that you find relevant.<br/>\nEdit: Thank you for reminding me gkorjax!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "12:54 PM - Dec 28, 2021",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite><blockquote><div><cite>grizzled_dwarflord wrote:</cite>Looks exactly like\u00a0Runes &amp; Desolation, Dwarf 40 AB with Dev Crit 40 DC, undispellable, etc.\u00a0 Only thing different is Auto Still III, which is meh, and a few other nuances (spell penetrations, etc).\u00a0 But both end in the same place. Not sure if it merits its own entry.</div></blockquote>\nThere are several wizard based spellswords that share core features simply because you want to build up BAB pre epic. At the same time you cannot max both strength and intelligence and the builds are often feat starved.<br/>\nIn this case there is a clear difference between the two builds. Valerfor's build here takes Auto-Still, a 4 feat commitment. It really changes the way the build plays compared with builds without. As moderator I do not question the uniqueness of this build.<br/>\nWhat I do question is the tone in the post that I have quoted. We can do better than this.</div></blockquote>\nPerhaps you are right to question it.\u00a0 However, I did say I was not \"sure,\" given how tightly they are joined.\u00a0 Indeed, even mine, I felt, was eerily similar to Valerfor's Abjurant Champion as I made mention of his in that topic.\u00a0 I think I am right to question it since the author did not.\u00a0 But your point is taken, and if I had a \"tone\", it was ill-timed and poorly aimed, for it should have been made more directly toward my frustration for the lack of a proper <strong>Build Search Engine</strong> for the contemporary builds in the last few years....unless I'm missing it and overlooking the obvious.\u00a0 It does seem I see the same builds popping up over and over again with different names.\u00a0 But that is a different topic and isssue and does not belong here.\u00a0 If I offered offense to\u00a0@Valerfor\u00a0, then I apologize.<br/>\n<br/>\nCarry on.\u00a0\u00a0</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:33 PM - Dec 28, 2021",
+      "content": "<div>Similar builds added, although the format is somewhat wonky still (they present themselves in a single line, but the links are intact). <br/>\nFor the builds of the old ECB you already have their excellent search engine.\u00a0 <br/>\n<br/>\nNow, for the builds that you see &amp; are similar to older or well-established ones, most if not all of them are in the build-request/unfinished section of the forum. There, the forum members are encouraged to experiment with their builds and get valuable feedback, before they post them in the official level-forty section. I see no foul in this. <br/>\n<br/>\nNow, can we enjoy Christmas please?</div>"
+    },
+    {
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "11:21 PM - Dec 28, 2021",
+      "content": "<div>Mighty ECBers - a very Merry Christmas to you all, and a Happy Coming New Year! Let us all be less offensive and less easily offended in the year to come!<br/>\n<br/>\n\u041e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u0441 \u043c\u043e\u0435\u0433\u043e SM-G970F \u0447\u0435\u0440\u0435\u0437 Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "1:31 PM - Oct 04, 2022",
+      "content": "<div>I'm just playing this build on Blackstone Keep but have run into an issue at L24. Dev crit isn't a bonus feat for CoT so I'm unable to take it after taking Great Strength 1 on the same level to bring strength to 25. Have checked that I've selected all of the prereqs and it all checks out. Am I missing something here?\u00a0</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "2:12 PM - Oct 04, 2022",
+      "content": "<div><blockquote><div><cite>eltalstro wrote: <div class=\"responsive-hide\">Oct 04, 2022</div></cite>I'm just playing this build on Blackstone Keep but have run into an issue at L24. Dev crit isn't a bonus feat for CoT so I'm unable to take it after taking Great Strength 1 on the same level to bring strength to 25. Have checked that I've selected all of the prereqs and it all checks out. Am I missing something here?\u00a0</div></blockquote>\nI'm note sure but in the NWN classic campaigns, you can't take dev crit at this moment since your strenght will be 25 onyl after the level up (when you officialy get the feat), I think that's a bug ? So a solution is to reverse EWF and dev crit in this build.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:05 PM - Dec 19, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Darktooth. Just a couple of things to bear in mind for others wanting to play this build.<br/>\n<br/>\nThe build attracts a 20% xp penalty from level 4 until level 40. This may not be important in PWs, but could well be in module play. It's also, technically, an illegal build - alignment constraints - which may make it unplayable in certain PWs and modules.<br/>\n<br/>\nJust for compare and contrast purposes, have you seen Mick Dagger's <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-elven-archer-paladin-9-wizard-1-arcane-archer-t2354403.html\" rel=\"noreferrer\" target=\"_blank\">Holy Elven Archer</a>? It uses Wizard rather than Bard, but otherwise is similar.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:17 PM - Oct 04, 2022",
+      "content": "<div><blockquote><div><cite>eltalstro wrote: <div class=\"responsive-hide\">Oct 04, 2022</div></cite>I'm just playing this build on Blackstone Keep but have run into an issue at L24. Dev crit isn't a bonus feat for CoT so I'm unable to take it after taking Great Strength 1 on the same level to bring strength to 25. Have checked that I've selected all of the prereqs and it all checks out. Am I missing something here?\u00a0</div></blockquote>\nWell, Dev Crit certainly is a CoT bonus feat - unless Blackstone has altered that - but I suspect it's an issue of Great Strength. While the usual stat boosts at 4, 8, 12, etc apply at the level you take them, you have to wait until after you've levelled up <em>before</em> the feats you take apply. So you won't be able to access Dev Crit until at least L25. So Val, alas, got it a bit wrong in his levelling, but it's an easy one to solve: take EWF at L24, and Dev Crit at L25.<br/>\n<br/>\nI hope that makes sense!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:20 PM - Oct 04, 2022",
+      "content": "<div>Edit: Ninja'ed by both Pan and Stag -\u00a0</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "2:21 PM - Oct 04, 2022",
+      "content": "<div>We're three to tell the same thing (with different quality levels of english\u00a0<span class=\"text-emoji\">\ud83d\ude02</span>) so I guess we're right !</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:29 PM - Oct 04, 2022",
+      "content": "<div>There is another option...<br/>\n<br/>\nTake Great Strength I at level 21, giving you 24 STR, then take STR+1 at level 24 for 25 STR, then you can take both Overwhelming and Devastating Crit as your level 24 feats. You might have to reload, but it's a choice for you.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "2:42 PM - Oct 04, 2022",
+      "content": "<div>Or you can choose half-orc instead of dwarf, choose bard instead of wizard and get the RDD epic class and... sorry, bad joke.\u00a0</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "2:43 PM - Oct 04, 2022",
+      "content": "<div>Yep, of course, you're right, Stag. I was looking under bonus feats and not epic bonus feats. Another level of grinding ahead. *sighs*</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:00 PM - Oct 04, 2022",
+      "content": "<div><blockquote><div><cite>eltalstro wrote: <div class=\"responsive-hide\">Oct 04, 2022</div></cite>Yep, of course, you're right, Stag. I was looking under bonus feats and not epic bonus feats. Another level of grinding ahead. *sighs*</div></blockquote>\nWell, iirc, BSK has somewhat nerfed Dev Crit anyway, and the extra +2 AB is always valuable. Get me, looking on the bright side!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "11:37 PM - Oct 04, 2022",
+      "content": "<div>Yep, but even 30% extra damage is still a good enough reason to take it imo. While I'm here, I'll mention that I'm playing this as an elf with the Bladeweaver option that you can take just after character creation (specific to BSK). Had to take a major hit to CON and sacrifice a feat to take exotic as bladeweaver uses katana. There is an easy relevelling process which has come in really handy in this situation. I'm trying to decide which general feat to forgo with empower or extend spell being the options I have in my sights. Any recommendations welcome. The build is holding up well. I've been resorting to using a lot of scrolls which has been working, but I'm really looking forward to the auto stills. Time to go relevel and dish out some dev crits.</div>"
+    },
+    {
+      "author": "chapelcheese",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:27 PM - Dec 21, 2022",
+      "content": "<div>I like this build so much that I plan to run it through Swordflight, in occasion of chapter 5 being recently released. I only ran martial characters so far, because I've always been worried about the module's rest restrictions for spellcasters, but this wizard here can kick some serious ass in melee. I finished SF 1 easily and I'm now at the beginning of SF 2.<br/>\n<br/>\nI plan to make a few changes though, and I'm happy to hear opinions on them.<br/>\n1) I will do F4/CoT10 (F3/CoT 9 pre-epic), as already suggested earlier in this thread. I will replace Weapon Specialization for Luck of Heroes, This should give me +2/+3/+3 to saves. Swordflight is a tough module :-)<br/>\n2) I also want to fit Toughness in the build. I'm unsure if I should drop Greater Spell Penetration or Empower Spell. For most of the playtime (i.e., until Auto Still 2 -- and that will take MANY fights to reach, Swordflight has fairly slow progress with tough fights at every level) this character plays like a Fighter with Wizard buffs. So I'm guessing Greater Spell Penetration will not be as important. On the other hand, I don't want to miss out on being able to use some offensive spells after Auto Still, and it seems to me that the main benefit for Empower Spell will be the empowered stat buffing spells (but it is fairly easy to cap +STR with a regular Bull's Strength in Swordflight, beginning around level 20). Any thoughts on this? I have never played a caster outside HotU so I don't have a good sense of the utility of these feats.<br/>\n<br/>\nIf I end up dropping Greater Spell Penetration, does it make sense to keep Spell Penetration, or should I drop that one as well?<br/>\n<br/>\nFor skills, I may decide to drop Spot and rely on AoE/familiars/summons/occasional Gem of True Sight (very, very expensive in Swordflight) to keep me alive until I get Level 6 spells to cast my own True Sight. This will alllow me to either get some cross-class Persuade, or high Lore, which is occasionally useful for skill checks that give some XP.<br/>\n<br/>\nThanks for posting this build :-)</div>"
     }
   ]
 }

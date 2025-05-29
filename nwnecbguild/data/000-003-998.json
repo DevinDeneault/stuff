@@ -4,59 +4,74 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "998",
-  "name": "Blood Elf Challege",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/blood-elf-challege-t2354824.html",
-  "author": "KidMiracleman",
+  "name": "Stunning shadow fist (stunner monk build concept)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/stunning-shadow-fist-stunner-monk-build-concept-t2354830.html",
+  "author": "samurainostalgique",
   "avatar": "no_avatar.png",
-  "replies": 7,
+  "replies": "9",
+  "views": "1.3K",
   "posts": [
     {
-      "author": "KidMiracleman",
+      "author": "samurainostalgique",
       "avatar": "no_avatar.png",
-      "timestamp": "5:53 PM - Feb 20, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">What is a good build for this subrace that has at least 25 levels of BG??<br/>\n<br/>\nBlood Elf<br/>\nRestriction race elf<br/>\nfavored class blackguard<br/>\nBenefits: +3 str and Cha, +4 Con, Immune to fear, Paralyze and stun, +5 Hide, +3 fort save, 50% Immunity to acid<br/>\nwhen using a bastard sword the blood elf get 1 extra attack at 25 and 2 at 40<br/>\nFeats: Darkvision, blind fight, epic prowess, cleave<br/>\nNegatives: -2 Intelligence, 75% vulnerability to divine<br/>\nECL 4<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:48 PM - Mar 11, 2018",
+      "content": "<div>Hail ecbguilders! I'd like to hear your take on a build I just made up. It's a stunner monk build.<br/>\n<br/>\n<br/>\nStunning shadow fist:<br/>\n<br/>\nRACE: Elf<br/>\n<br/>\nALIGNMENT: Any lawful<br/>\n<br/>\n<br/>\nSTARTING STATS:<br/>\nSTR - 12<br/>\nDEX - 18<br/>\nCON - 10<br/>\nINT - 10<br/>\nWIS - 16<br/>\nCHA - 08<br/>\n<br/>\nENDING STATS:<br/>\nSTR - 12<br/>\nDEX - 30<br/>\nCON - 10<br/>\nINT - 10<br/>\nWIS - 19<br/>\nCHA - 08<br/>\n<br/>\nHit Points: 388<br/>\n<br/>\nSkill Points: 154<br/>\n<br/>\nHide: 43 (53)<br/>\nMove Silently: 43 (53)<br/>\nTumble: 40 (50)<br/>\nSpellcraft: 10<br/>\nListen: 8 (12)<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 26/ 31/ 25 \u2013&gt; 28/ 33/ 27 (saves Vs spells)<br/>\n<br/>\nNaked AC: 36<br/>\n<br/>\nBAB: 26<br/>\n<br/>\nAB: +40/ +37/ +34/ +31/ +28/ +25 (Unarmed)<br/>\n<br/>\nWith flurry of blows: +38/ +35/ +32/ +29/ +26/ +23<br/>\n<br/>\nDMG: 1D20 + 7 / 19-20 x 2<br/>\n<br/>\nStunning fist: 24 uses per day with DC 40 (unbuffed)<br/>\nHIPS<br/>\nEpic dodge<br/>\nImproved knockdown<br/>\nMonk immunities (Disease, poison and mind effects)<br/>\nMonk speed (70%)<br/>\n<br/>\nLEVELING GUIDE:<br/>\n<br/>\n01) MONK (01):\u00a0 Blind Fight<br/>\n02) MONK (02):\u00a0<br/>\n03) MONK (03): Weapon Finesse<br/>\n04) MONK (04): +1 DEX {19}<br/>\n05) MONK (05): <br/>\n06) MONK (06): Weapon Focus Unarmed <br/>\n07) MONK (07): <br/>\n08) MONK (08): +1 DEX {20}<br/>\n09) MONK (09): Extra stunning attacks<br/>\n10) MONK (10): <br/>\n11) MONK (11): <br/>\n12) MONK (12): Improved Critical Unarmed, +1 DEX {21}<br/>\n13) MONK (13): <br/>\n14) MONK (14): <br/>\n15) MONK (15): Toughness<br/>\n16) MONK (16): +1 DEX {22}<br/>\n17) FIGHTER (01): Dodge<br/>\n18) FIGHTER (02): Mobility, Great Fortitude<br/>\n19) FIGHTER (03): <br/>\n20) FIGHTER (04): Weapon Specialization Unarmed +1 DEX {23}<br/>\n21) SD (01): Epic Weapon Focus Unarmed<br/>\n22) SD (02): <br/>\n23) FIGHTER (05): <br/>\n24) FIGHTER (06): Epic Weapon Specialization Unarmed, Great Dexterity I, +1 DEX {25}<br/>\n25) SD (03): <br/>\n26) SD (04): <br/>\n27) SD (05): Epic Dodge<br/>\n28) MONK (14): +1 DEX {26}<br/>\n29) MONK (15): <br/>\n30) MONK (16): Great Wisdom I (WIS {17})<br/>\n31) FIGHTER (07): <br/>\n32) MONK (12): +1 WIS {18}<br/>\n33) FIGHTER (08): Epic Prowess, Great Wisdom II (WIS {19})<br/>\n34) FIGHTER (09): <br/>\n35) FIGHTER (10): Improved Stunning Fist I<br/>\n36) FIGHTER (11): Great Dexterity II, +1 DEX {28}<br/>\n37) FIGHTER (12): Improved Stunning Fist II<br/>\n38) FIGHTER (13):<br/>\n39) FIGHTER (14): Improved Stunning Fist III, Great Dexterity III (DEX {29})<br/>\n40) MONK (21): +1 DEX {30}<br/>\n<br/>\nHe can come out of stealth and deliver 3 DC 40 stunning fists in the blink of an eye, and HIPS away if it doesn't work the first time.<br/>\n<br/>\nNote that he will have XP penalities from level 17 onwards. However the alternatives are changing fighter to CoT (bad idea for this build in my opinion, as he will have very low damage without WS and EWS), or changing the race to human or dwarf, which means either dropping 1 point of AB because of the lower dexterity (I don't like this option as the build only has the standard 40 AB as it is, though unarmed monk attack progression helps with that), or spending two more epic feats on stat increases, thus lowering the stunning fist DC to 36, which kinda defeats the point of being a stunner monk in my opinion.<br/>\n<br/>\nI wish I could squeeze more improved stunning fist feats into it, to get to a really ridiculous DC, however I'd have to either get more fighter levels, dropping important class features from monk and/or SD, start with a higher dexterity or wisdom, nerfing my strength and constitution to death in the process, or accept a lower AB (but you do need to hit your target for the stunning fist DC to even matter...). I'm wondering about how a totally dedicated stunner build like a Monk/fighter/CoT would fare. Such a build would lose HIPS, epic dodge and uncanny dodge, but would be able to spend 4 more feats on improved stunning fist, for a DC of 48...</div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:14 AM - Mar 12, 2018",
+      "content": "<div>By Level 40, aren't most opponents immune to stun?</div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "9:43 AM - Mar 12, 2018",
+      "content": "<div>I would drop one improved stunning fist to get one more point in wisdom. Stun DC will drop by one, but you get one more ac and will save, imho it is a good trade.<br/>\nIf you go CoT14 you can take one more improved stunning fist instead of the weapon specializations.<br/>\n<br/>\nEdit: or you can go monk25/cot10 and get the same amount of feats... More uses of stunning fists, but lower saves.<br/>\n<br/>\nEdit: nope, I miscalculated the number of feats... With 14cot/21mnk or 10cot/25mnk you get the same number of feats as with 14ftr/21mnk (of course without specializations)</div>"
+    },
+    {
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:31 PM - Mar 12, 2018",
+      "content": "<div>Only immunity to critical hits protects against stunning fist. So against undeads and constructs, it is useless, but the same can be said about a rogue's sneak attacks or a WM's critical hits.<br/>\n<br/>\nSince this build has perfect self, boosting will saves is not that appealing, so the real draw to an increased wisdom is the AC.<br/>\nIn fact, I did consider doing what you suggest hunearo, and even thought about dropping another improved stunning fist for armor skin, but doing this would mean I end up with just one improved stunning fist feat, and a DC of 37, which is not that great against melee (for me, the appeal of a stunner build is to be able to use SF effectively against any type of opponent that isn't immune to it). So at that point I would question even going for improved SF in the first place, considering it's costing me two points of AB (I could easily go for 34 DEX without it).</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:03 PM - Mar 12, 2018",
+      "content": "<div><blockquote><div><cite>samurainostalgique wrote:</cite>\nI wish I could squeeze more improved stunning fist feats into it, to get to a really ridiculous DC, however I'd have to either get more fighter levels, dropping important class features from monk and/or SD, start with a higher dexterity or wisdom, nerfing my strength and constitution to death in the process, or accept a lower AB (but you do need to hit your target for the stunning fist DC to even matter...). I'm wondering about how a totally dedicated stunner build like a Monk/fighter/CoT would fare. Such a build would lose HIPS, epic dodge and uncanny dodge, but would be able to spend 4 more feats on improved stunning fist, for a DC of 48...</div></blockquote>\nGrizzled_dwarflord experimented with the Stunning Fist DC back in 2005. You will find this build and the full topic if you search the old epic builds archive.<br/>\nHere is what he ended up with, a very original and creative build! <br/>\n(It was built for an earlier patch, so if you want to build it today, you will have to move ED from lvl 24 to lvl 27.<br/>\n<details><summary>Spoiler</summary>\nThe Shadowboxer: Rogue 19 / Fighter 20 / SD 1 by grizzled_dwarflord:\n<br/>\n<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>\n<br/><em>In regards to setting: as noted at the beginning, this is strictly a level 40 build and only for a PvP setting, and even that should be a low magic setting. Do not attempt to run him through modules, PWs or OCs. You won\u2019t make it. His weapons are his fists, so he\u2019ll need some very good gloves if you need to pierce some DR. A UMD35 should insure you can lay your hands on the best Monk equipment.</em>\n<br/></details></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:36 PM - Feb 20, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Has Blackguard been turned into a base class? It doesn't make sense to have a prestige class as a favored class because all prestige classes don't count towards experience penalty, just like a favored class.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:08 PM - Mar 12, 2018",
+      "content": "<div>Why not use Improved Knockdown instead? You get it for free at Monk 6. Undead aren't immune to that. I've played several Monks, but never bothered with Stunning Fist. Am I missing out?</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "KidMiracleman",
+      "author": "samurainostalgique",
       "avatar": "no_avatar.png",
-      "timestamp": "1:41 PM - Feb 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No it has not.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:38 PM - Feb 22, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No suggestions?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:43 PM - Mar 12, 2018",
+      "content": "<div>Improved knockdown is good, but not nearly as good as a very high DC stunning fist in my opinion (well, except when facing crit immune foes of course), for several reasons:<br/>\n<br/>\n1. Knockdown only lasts one round, vs 3 for stunning fist<br/>\n2. As a monk, you're likely to have lowish AB, which makes it difficult to use KD successfully on anything that has a good discipline, whereas with improved stunning fist feats, you can achieve such high DCs that even meleers will have trouble making the save<br/>\n3. Speaking of AB, KD gives you a -4 penalty, whereas for a monk, SF has no penalty (if using a non-monk build though, you do get a -4 penalty, and it could be argued that going for improved SF worsens your AB since you need 19 wisdom for it, and you're investing epic feats in it, which could be spent into Great Dex instead)<br/>\n4. You can't knockdown an already knocked down target to reset the duration of the prone status, whereas you can use stunning fist on an already stunned opponent to reset the duration of the stun, making it possible to stunlock tough opponents to death.<br/>\n<br/>\nBut of course, the limited uses per day, and the fact that it doesn't work against crit immune opponents are big limitations.<br/>\nPersonnally, I find it best to use SF either from stealth or on a knocked down opponent (well, on a flatfooted opponent really). Since you only have a limited amount of SF per day, it's better to make sure that they have as much chance of landing as possible by denying your opponent his dodge AC bonuses.<br/>\n<br/>\nI do realize though that dedicated stunner builds are pretty rare in PvM, probably for good reasons. You do sacrifice a lot to get that high DC stunning fist. And you have to be dex based since ISF has 19 DEX as requirement, so, without sneak attack, it can be difficult to actually finish off stunned foes.<br/>\n<br/>\nThat shadowboxer build does seem like it could be quite effective in PVP, though I'd still play something a bit more versatile instead. But I appreciate it.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:12 AM - Feb 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">David, both I and Max have two very good blackguard builds into the epics section, just search there and you will find your answer. The builds are very similar in terms of performance, I just take rogue as my middle class while Max goes with bard.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:49 PM - Mar 12, 2018",
+      "content": "<div>Monk 20/ Fighter 10/ CoT 10, would get you that DC of 48 (54) on stunning fist with Fort 31/ Ref 36/ Will 29 saves &amp; 400 Hit Points. Pre-epic you could take Improved Power Attack to compensate for the lack of strength (instead of dodge/mobility) and the D20 punches would help in that regard. But you would, of course, lose the extra safety of HiPS/ Epic Dodge, although with a 70+ AC in a standard +5 environment &amp; the famous Monk Speed you can mitigate the risks. That's about all you could do really, either go with your initial build or this one or even the one I tried long ago they all have the same stats/ potential in the end. It is not bad, not at all, but it isn't spectacular either, unfortunately, some builds have it far easier since dev. crit is so good relatively to the other paths one can go. Stunner Monks &amp; Deathdealer Assassins shine a lot more in environments where the aforementioned feat is banned.</div>"
     },
     {
-      "author": "KidMiracleman",
+      "author": "samurainostalgique",
       "avatar": "no_avatar.png",
-      "timestamp": "7:57 PM - Feb 28, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will look.\u00a0 I was thinking Fighter CoT and 25 levels of BG<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:05 AM - Mar 13, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nMonk 20/ Fighter 10/ CoT 10, would get you that DC of 48 (54) on stunning fist with Fort 31/ Ref 36/ Will 29 saves &amp; 400 Hit Points. Pre-epic you could take Improved Power Attack to compensate for the lack of strength (instead of dodge/mobility) and the D20 punches would help in that regard. But you would, of course, lose the extra safety of HiPS/ Epic Dodge, although with a 70+ AC in a standard +5 environment &amp; the famous Monk Speed you can mitigate the risks. That's about all you could do really, either go with your initial build or this one or even the one I tried long ago they all have the same stats/ potential in the end. It is not bad, not at all, but it isn't spectacular either, unfortunately, some builds have it far easier since dev. crit is so good relatively to the other paths one can go. Stunner Monks &amp; Deathdealer Assassins shine a lot more in environments where the aforementioned feat is banned.\n</div></blockquote>\n\nWould you say that in a dev crit environment, a monk is better off going the dev crit route despite the lack of AC?</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "1:12 AM - Mar 01, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>KidMiracleman wrote:</cite>\nI will look.\u00a0 I was thinking Fighter CoT and 25 levels of BG\n</div></blockquote>\n\nUnless you can change your alignment at will, that won't work. CoT must be non-Evil, but Blackguard must be Evil.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:59 AM - Mar 01, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can change it at will<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:26 PM - Mar 14, 2018",
+      "content": "<div>It depends on how many dev-crit enemies there are...If they are a frequent occurrence then I would prioritize safety first, it is only logical. <br/>\n<br/>\nIf however they are few and far between and you know how to deal with them, then going full-force would be my choice!</div>"
     }
   ]
 }

@@ -4,407 +4,96 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "027",
-  "name": "New NWN patch expands possible multiclasses to 8!!!!!!!",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/new-nwn-patch-expands-possible-multiclasses-to-8-t2356074.html",
+  "name": "Broken Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/broken-build-t2356192.html",
   "author": "webshaman1",
   "avatar": "10759110_1577099721.jpg",
-  "replies": 65,
+  "replies": "12",
+  "views": "572",
   "posts": [
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:31 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><blockquote><div>- Added support for up to 8 multiclasses, configurable per-module.</div></blockquote>\n\nOh, you sweet, sweet game!\u00a0 So, all you builders, start your engines!\u00a0 This is gonna get WILD!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:30 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, for crying out loud! \"I'm getting too old for this shit,\" springs to mind.<br/>\n<br/>\nHere's the link to DM Wise's thread giving details of more of the available changes: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/a-1-69-patch-for-enhanced-t6000.html\" rel=\"noreferrer\" target=\"_blank\">New Patch</a>.<br/>\n<br/>\n\u00a0So, of the 23 currently available standard/ prestige classes, in theory we'll be able to take more than a third of them in one character? Opportunities and challenges loom ahead, boys and girls. Strap in, this is likely going to be a bumpy ride.<br/>\n<br/>\nIf it takes off big time, we might have to add some new forums to accommodate this. Let's see if there's a clamour for it.<br/>\n<br/>\n\"Never-ending tales\" indeed!<br/>\n<br/>\nThanks for the heads-up, Web.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:38 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm drooling over an almost full BAB rdd/pm monster (w/4 attacks/round)!!!!<br/>\n<br/>\nWith Uncanny Dodge to preserve dodge AC!!!<br/>\n<br/>\nAnd HiPS!!!!!<br/>\n<br/>\nWooooohooooooo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "3:17 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\"Added support for up to 8 multiclasses on creatures\"<br/>\n<br/>\nUmm.. that doesnt say that we (PC's) can do that... but it does mean the Boss's could now have 8 classes we have to deal with...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "3:26 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It also says this <blockquote><div>- Added support for up to 8 multiclasses, configurable per-module.</div></blockquote>\n\nI assume this is means both Toons and m0bs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "3:35 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I hope your right\u00a0 :)\u00a0 \u00a0Would be real interesting if the WoG Bosses get 5 more classes and we dont....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:16 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I doubt that would make much difference, tbh.<br/>\n<br/>\nOne can basically give a custom creature anything one wants - one just has to do the work.\u00a0 That includes feats, skills, abilities, BaB, AB, AC,\u00a0etc.\u00a0 Having additional classes won't do too much to change that imo.\u00a0 Just a few abilities/skills are tied directly to classes (or restricted).<br/>\n<br/>\nPCs, on the other hand...oh boy!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:09 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just to make things clear:<br/>\nAdded support for up to 8 multiclasses - we are talking about 8 classes in a single multiclassed build?<br/>\nConfigurable per module - does that mean that it is up to the module designer? And if so, can it also be restricted to less than 3?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:12 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">BTW it is a massive update. \u00a0I see they fixed the human multiclass xp bug.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:06 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, the excitement is real on this one!<br/>\n<br/>\nI have asked to clarify about the up to 8 possible classes thing.\u00a0 But assuming that it will allow up to 8 Classes per Character...hooboy.\u00a0 Gonna need a mop and bucket for aisle 1, please!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:07 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Btw - this patch is beta and has <strong>gone live!</strong><br/>\n<br/>\nI'd grab it immediately, but as I play on a PW...meh.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:35 PM - Mar 16, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have confirmed that this is indeed for PCs!<br/>\n<br/>\nOh my stars and garters!\u00a0 What a time to be alive!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:47 AM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, Staggy ol' boy!\u00a0 What's the poop?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:41 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, I suppose we'll have to find out which of the changes are DM/ module creator driven, and which are player driven before getting too excited (though your enthusiasm is great to see, btw!). Presumably if the module/ PW doesn't enable the player to effect &lt;8 classes, or chooses to allow only partial implementation, that will have an impact.<br/>\n<br/>\nFrom a building perspective, obviously this could open up many more possibilities (assuming racial/ alignment restrictions still apply), but there are many things we'd need to know more about before boldly setting forth - one that immediately leaps to mind is the implication for xp and penalties thereto, because if the current rules still apply a player could end up with a 100% xp penalty.<br/>\n<br/>\nAnd I'm guessing that, as taking more classes perforce means fewer levels for the primary class, we'll have to be careful that doesn't end up weakening builds (particularly caster-clerics and arcanists). How useful would a 5/5/5/5/5/5/5/5 build actually be? So we'll need to find some way of making the best of various combos rather than going down a middle-of-the-road answer. There's no point sticking more classes in if their impact is meh, after all. And I suppose we'll only find our way through this by practicing.<br/>\n<br/>\nEqually, if everything becomes an uber-build (assuming enemy NPCs will also be making use of the changes), things are gonna become pretty stagnant pretty quick.<br/>\n<br/>\nSo it seems to be a hurry up and wait scenario atm. But if you - or anyone else - gives the beta a whirl, please keep us informed of progress.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:27 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm doing that now as we...speak.\u00a0 Write.\u00a0 Well, communicate.<br/>\n<br/>\nYeah.<br/>\n<br/>\nStill trying to figure out how to toggle the switch atm.<br/>\n<br/>\nOh, and this patch also fixes the human XP bug! :D<br/>\n<br/>\nYou do realize that this will \"enliven\" the place up, right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Jam Master",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:11 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote:</cite>I'm doing that now as we...speak.\u00a0 Write.\u00a0 Well, communicate.<br/>\n<br/>\nYeah.<br/>\n<br/>\nStill trying to figure out how to toggle the switch atm.<br/>\n<br/>\nOh, and this patch also fixes the human XP bug! :D<br/>\n<br/>\nYou do realize that this will \"enliven\" the place up, right?</div></blockquote>\nEven 4 classes like NWN2 would make things interesting.<br/>\n<br/>\nI also vote for the DC to be raised on Assassin Death Attack now to make for that class\u2019 main feature to not be totally garbage lol<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:23 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27975\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27975&amp;sid=1aaba6e6b1a06d9eb0d38a3dab4a4ec4#p27975\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>\nYou do realize that this will \"enliven\" the place up, right?</div></blockquote>\nOh gods, yes, and that's no bad thing at all! I'm just well-practiced as Eeyore<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "6:42 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"27977\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27977&amp;sid=1aaba6e6b1a06d9eb0d38a3dab4a4ec4#p27977\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27975\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27975&amp;sid=1aaba6e6b1a06d9eb0d38a3dab4a4ec4#p27975\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>\nYou do realize that this will \"enliven\" the place up, right?</div></blockquote>\nOh gods, yes, and that's no bad thing at all! I'm just well-practiced as Eeyore</div></blockquote>\nBetter skip the new Winnie the Pooh movie then....<br/>\nEeyore becomes brisket...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://youtu.be/W3E74j_xFtg\" rel=\"noreferrer\" target=\"_blank\">Pooh Trailer</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:59 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>conlaoch wrote: <a data-post-id=\"27978\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27978&amp;sid=1aaba6e6b1a06d9eb0d38a3dab4a4ec4#p27978\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>Better skip the new Winnie the Pooh movie then....<br/>\nEeyore becomes brisket...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://youtu.be/W3E74j_xFtg\" rel=\"noreferrer\" target=\"_blank\">Pooh Trailer</a></div></blockquote>\nI've read about it and seen the clips. And if I ever meet the director or scriptwriter, every shade of shit from the bowels of all the hells shall be visited upon them in swift order.<br/>\nTwice.<br/>\n<br/>\nI think it safe to say that I'm not a fan.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:32 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"27974\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27974&amp;sid=1aaba6e6b1a06d9eb0d38a3dab4a4ec4#p27974\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>Well, I suppose we'll have to find out which of the changes are DM/ module creator driven, and which are player driven before getting too excited (though your enthusiasm is great to see, btw!). Presumably if the module/ PW doesn't enable the player to effect &lt;8 classes, or chooses to allow only partial implementation, that will have an impact.<br/>\n<br/>\nFrom a building perspective, obviously this could open up many more possibilities (assuming racial/ alignment restrictions still apply), but there are many things we'd need to know more about before boldly setting forth - one that immediately leaps to mind is the implication for xp and penalties thereto, because if the current rules still apply a player could end up with a 100% xp penalty.<br/>\n<br/>\nAnd I'm guessing that, as taking more classes perforce means fewer levels for the primary class, we'll have to be careful that doesn't end up weakening builds (particularly caster-clerics and arcanists). How useful would a 5/5/5/5/5/5/5/5 build actually be? So we'll need to find some way of making the best of various combos rather than going down a middle-of-the-road answer. There's no point sticking more classes in if their impact is meh, after all. And I suppose we'll only find our way through this by practicing.<br/>\n<br/>\nEqually, if everything becomes an uber-build (assuming enemy NPCs will also be making use of the changes), things are gonna become pretty stagnant pretty quick.<br/>\n<br/>\nSo it seems to be a hurry up and wait scenario atm. But if you - or anyone else - gives the beta a whirl, please keep us informed of progress.<br/>\n<br/>\nCheers</div></blockquote>\nI'm with Stag here.<br/>\nThe impact on xp penalty must be sorted out. With the current rules you can end up with a negative xp per kill if you have enough non favored base classes.<br/>\nBuilds with front loaded classes may benefit from the change, but not necessarily builds focusing on classes that get better with levels, so there is a balance here somewhere.<br/>\nAs for balance, if this change allows for more powerful builds, it is not far fetched to assume that challenges on PWs and new modules will be tougher too.<br/>\nThat being said, I welcome the opportunity for renewed creativity that these changes spark.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:49 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now, just give me drider archer to play with when taking greater wildshape III <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:59 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"27981\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27981&amp;sid=f2cfb645de5bdd8f7115ae2d39c71295#p27981\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>Now, just give me drider archer to play with when taking greater wildshape III <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /></div></blockquote>\nLesee...elf Wiz/Druid/Shifter/AA...hooboy.<br/>\nMaybe some CoT as well?<br/>\n<br/>\nAnd DA DC has been made \"accessable\" so it is <em>possible </em>to address it a bit...I would personally set it at least 10 points higher than it is.<br/>\n<br/>\nIf only Bioware had stuck with the PnP version of Coup de Grace - in PnP, this is not limited to level 4 autokill.\u00a0 So a paralyzed foe is possible to Coup de Grace.\u00a0 This would make DA exactly like the PnP version (kill or para).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:09 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"27981\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27981&amp;sid=f2cfb645de5bdd8f7115ae2d39c71295#p27981\">\u2191</a><div class=\"responsive-hide\">Mar 17, 2023</div></cite>Now, just give me drider archer to play with when taking greater wildshape III <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /></div></blockquote>\nYou just want this one to become real, don't you? <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/drider-archer-t2355931.html\" rel=\"noreferrer\" target=\"_blank\">Drider Archer</a><br/>\n<br/>\n(And a word to the wise, check your calendars in a couple of weeks. Just saying.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:57 PM - Mar 17, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Would be nice to have dynamic shifter shapes...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:28 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For those who want to test the Class limits :<br/>\n<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwnee/other/development-build-35-2da?destination=node/30774\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... node/30774</a><br/>\n<br/>\nJust put this in your Override...<br/>\n<br/>\nThe modified version of ruleset.2da is in the override (ovr) folder of the development version game files. The version in base_2da.bif is still the .34 Retail. <strong>The line to change appears to be 519 MULTICLASS_LIMIT which defaults to 3.</strong><br/>\n<br/>\nI wonder whether old school builders like myself can change it to 1. Time will tell.<br/>\n<br/>\nDue to a Windoze bug (all MyDocument files are set o read only) and because the only solution is to reinstall Windoze (which is massively time consuming and irritating!!), I can't test this!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:46 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm just getting the old Error 404 and the Marvin the Paranoid Android thing when clicking the link, Web. Intentional?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "2:55 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27986\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27986&amp;sid=f2cfb645de5bdd8f7115ae2d39c71295#p27986\">\u2191</a><div class=\"responsive-hide\">Mar 20, 2023</div></cite>I wonder whether old school builders like myself can change it to 1. Time will tell.\n</div></blockquote>\nI'd love to see it turned to 2...\u00a0 \u00a0No more 2-6 rogue/monk/etc dump classes just for stats/skills/etc...<br/>\n<br/>\ncourse I grew up playing the old school paper boxed set....\u00a0 only multiclass was an Elf that was automatically a ftr/wizard...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:01 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">NVM, I copy and pasted the link wrong <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nStupid, sexy Fingers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "4:19 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27989\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27989&amp;sid=f2cfb645de5bdd8f7115ae2d39c71295#p27989\">\u2191</a><div class=\"responsive-hide\">Mar 20, 2023</div></cite>NVM, I copy and pasted the link wrong <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nStupid, sexy Fingers!</div></blockquote>\nUmm.. should we be worried Webby thinks his fingers look sexy?<br/>\n<br/>\nWebby and Rosie sitting in a tree.....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:33 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You ever see Everything, Everywhere, all the time?<br/>\n<br/>\nSexy Fingers!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:24 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27986\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27986&amp;sid=3bf86aedd7c9ef25e3b4005277cf416c#p27986\">\u2191</a><div class=\"responsive-hide\">Mar 20, 2023</div></cite>\nI wonder whether old school builders like myself can change it to 1. Time will tell.\n</div></blockquote>\nI guess you will see all kinds of things, depending on the mind set of the PW owners.<br/>\nSetting it to 1 class will mean going back to Yardstick builds and saying bye-bye to prestige classes.<br/>\nI guess old-school has some appeal if you want to play in a multiplayer party.<br/>\nFor single player, the game must be balanced differently.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:15 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, that wasn't from me, it was a quote from the one who gave me the info.<br/>\n<br/>\nI enjoy...the many!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:57 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't know whether this applies to the ante or post diluvian question, but this seems strangely appropriate to both...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.youtube.com/watch?v=Ww9JS8dJ9fY\" rel=\"noreferrer\" target=\"_blank\">Here Comes the Flood</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:10 PM - Mar 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, ex-Genesis.<br/>\n<br/>\nI get it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:51 AM - Apr 03, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It has been some weeks now. Have you heard any feedback from people who have tried this beta?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:04 AM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You ask...you receive!<br/>\n<br/>\nBehold!\u00a0 The Monster Dwarf!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:05 AM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">She's got it all (going for SD 1 and Ass 2 as well for that sweet HiPS and UMD!)<br/>\n<br/>\nImmunities!\u00a0 Abilities!\u00a0 Dwarf!<br/>\n<br/>\nWhat's not to luv?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:29 AM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, it works!\u00a0 Just follow the directions I gave before, edit ruleset.2da -\u00a0The version in base_2da.bif is still the .34 Retail. The line to change is 519 MULTICLASS_LIMIT which defaults to 3 and set it to desirable Class limit (up to 8) and drop it into your Override.<br/>\n<br/>\nDone deal.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:25 AM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28032\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28032&amp;sid=3bf86aedd7c9ef25e3b4005277cf416c#p28032\">\u2191</a><div class=\"responsive-hide\">Apr 04, 2023</div></cite>So, it works!\u00a0 Just follow the directions I gave before, edit ruleset.2da -\u00a0The version in base_2da.bif is still the .34 Retail. The line to change is 519 MULTICLASS_LIMIT which defaults to 3 and set it to desirable Class limit (up to 8) and drop it into your Override.<br/>\n<br/>\nDone deal.</div></blockquote>\nSo is this just for builders/PWs?\u00a0 Can I modify my EE and play HOTU with a 4 Class toon?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:59 AM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, you can!<br/>\n<br/>\nGrab the Developement build, do what I have posted, and you can play HotU with a toon with up to 8 Classes!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:10 PM - Apr 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28031\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28031&amp;sid=babe17e73da51298c478c13620714e2d#p28031\">\u2191</a><div class=\"responsive-hide\">Apr 04, 2023</div></cite>She's got it all (going for SD 1 and Ass 2 as well for that sweet HiPS and UMD!)<br/>\n<br/>\nImmunities!\u00a0 Abilities!\u00a0 Dwarf!<br/>\n<br/>\nWhat's not to luv?</div></blockquote>\nIf, as it looks like, you're going unarmed, are you chucking a little Monk on board as well?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:06 AM - Apr 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was just messing around, Stag, seeing what was possible, etc.<br/>\n<br/>\nIt's definitely not a serious build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:30 AM - Apr 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, I don't know, a Sorcerer/ RDD/ Fighter/ DwD/ Monk/ SD/ Assassin/ PM could have some mileage (Rogue replacing Assassin for a \"good\" version). And, indeed, many possible variations with varying layers of cheese.<br/>\n<br/>\nKeep going, kiddo - and be sure to keep us up to date!<br/>\n<br/>\nEDIT: Maybe something like a Sorcerer (or Bard) 3 (for both RDD and PM)/ SD 1 (for HiPS)/ RDD 10 (for lots of stuff)/ PM 10 (crit immunity)/ DwD 5 (for DA II)/ Monk 1 (for assorted goodies)/ Fighter 8 (for buckets of feats)/ Assassin 2 (for UD and some sneaky stuff)? Just concocting on the hoof here...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:26 AM - Apr 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bard and Monk no-go : alignment conflict.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:52 AM - Apr 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Of course - my bad (same for DwD, btw). Sorcerer it is, then. Crap, I can see me wasting time trying to build one of these tomorrow.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "neludz",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:02 PM - Apr 08, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh damn. It actually works. I don't even know how i feel about this. My cozy understandable NWN came to an end.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:01 PM - Dec 24, 2023",
+      "content": "<div><a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build187185.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 87185.html</a><br/>\n<br/>\nOne cannot take Epic Dodge at that level - it needs to be fixed (Tumble 30 requirement means mind. level 27).\u00a0 This is an old build, based on a NWN version that was before the patch that changed ED.</div>"
     },
     {
       "author": "Pan Draconis",
       "avatar": "10759307_1674117984.jpg",
-      "timestamp": "9:11 AM - May 28, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Time to build some draconic druid shifter monk wizard PM fighter RP aberrations\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />.<br/>\n<br/>\nTruth is that 8 classes means total RP madness huhu, we're gonna have fun<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:59 PM - Dec 25, 2023",
+      "content": "<div>Take Great dex at level 24 and epic dodge at level 27 without any other change ?</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:54 PM - May 28, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">^ This one gets it.<br/>\n<br/>\nBravo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:50 AM - Jun 01, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28198\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28198&amp;sid=babe17e73da51298c478c13620714e2d#p28198\">\u2191</a><div class=\"responsive-hide\">May 28, 2023</div></cite>^ This one gets it.<br/>\n<br/>\nBravo!</div></blockquote>\nWhat about the multiclass penalty?\u00a0 Is it still in effect?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:09 AM - Jun 01, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"28200\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28200&amp;sid=babe17e73da51298c478c13620714e2d#p28200\">\u2191</a><div class=\"responsive-hide\">Jun 01, 2023</div></cite><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28198\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28198&amp;sid=babe17e73da51298c478c13620714e2d#p28198\">\u2191</a><div class=\"responsive-hide\">May 28, 2023</div></cite>^ This one gets it.<br/>\n<br/>\nBravo!</div></blockquote>\nWhat about the multiclass penalty?\u00a0 Is it still in effect?</div></blockquote>\nThe normal multi-class penalties are still in effect, though the patch did correct the human/half-elf penalty bug...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:25 PM - Dec 25, 2023",
+      "content": "<div>Yep, that's what I did, I just was pointing out that this old build needs updating.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:09 PM - Jun 01, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28202\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28202&amp;sid=a682d5251e4ce0cd124bf9b62227e2e5#p28202\">\u2191</a><div class=\"responsive-hide\">Jun 01, 2023</div></cite>The normal multi-class penalties are still in effect, though the patch did correct the human/half-elf penalty bug...</div></blockquote>\nWhat happens if more than 3 base classes are taken? Could the 40% xp penalty become 60%, etc?<br/>\n<br/>\nWhile I'm at it, did BD ever sort out the prestige class xp penalty issue? (I speak as one who doesn't have EE, so the impact is restricted to things like build requests).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:45 PM - Dec 28, 2023",
+      "content": "<div>Just a personal opinion here, but I'd be tempted to take EWS at level 21 as a general feat, regain the Dex point at level 40 instead of Wis (the Will save's sucky anyway - 17 - so losing 1 more will make no real difference), which leaves a spare WM bonus feat at level 39 that can be used for either Epic Prowess or Armour Skin.<br/>\n<br/>\nAlso, 43 (42) in UMD is redundant: at most it should be 41 (40), giving you a whole 2 skill points to play with! Actually, if you take 4 points from Open Locks as well, then add the 6 to Disable Trap you get 37 (38), giving you full disarm epic traps. That said, I'm not terribly sure what Discipline brings to the build, but I'm probably missing something.<br/>\n<br/>\n(Just trying to prove that I do read this stuff!)</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:09 PM - Jun 01, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I stated, the Human/Half-Elf XP bug has been corrected.<br/>\n<br/>\nAs I have not attempted to see how far an XP penalty can go, I will have to leave that up to some other, adventurous foo- I mean, idio- I mean, lab ra- umm...experimentalist. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:12 PM - Dec 28, 2023",
+      "content": "<div>I am actually making use of the Discipline on WoG, as this build is my template for Birdie, my kenku.\u00a0 She uses a light pickaxe...her \"pecker\" :D<br/>\n<br/>\nHehe...see, Conlaoch?\u00a0 That's how you get away with using words like that!<br/>\n<br/>\nAnyways, since opponents on WoG love to do Disarm against small and tiny weapons, Discipline is an important skill to oppose this.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:36 PM - Jun 01, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Web! Well, at least we know I ain't gonna be that <span style=\"text-decoration:line-through\">sacrificial lamb</span> pioneer.<br/>\n<br/>\nSorry about the human/half-elf thing - I just muddled a couple of things up.<br/>\n<br/>\nOh, and I've heard it said that the CBC doesn't yet cope with up to 8 classes - another win for pencil and paper building!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:28 PM - Dec 28, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Dec 28, 2023</div></cite>I am actually making use of the Discipline on WoG, as this build is my template for Birdie, my kenku.\u00a0 She uses a light pickaxe...her \"pecker\" :D<br/>\n<br/>\nHehe...see, Conlaoch?\u00a0 That's how you get away with using words like that!<br/>\n<br/>\nAnyways, since opponents on WoG love to do Disarm against small and tiny weapons, Discipline is an important skill to oppose this.</div></blockquote>\nAlways good to have WoG tips, thanks! And at least it didn't open up Ye Olde Discipline for Dexers debate again, thank the gods.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Kamiryn",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:54 AM - Jun 02, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There's a new CBC available at\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc</a> for some time now. It supports up to 8 classes.<br/>\n<br/>\nTo answer another question: multiclass XP penalty can go up to 140% (= 7 * 20%) making the char actually losing XP when gaining some.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Jam Master",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:55 AM - Jun 02, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kamiryn wrote:</cite>There's a new CBC available at\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc</a> for some time now. It supports up to 8 classes.<br/>\n<br/>\nTo answer another question: multiclass XP penalty can go up to 140% (= 7 * 20%) making the char actually losing XP when gaining some.</div></blockquote>\nThe ultimate challenge! - level 1 Lolth run anyone!?<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:50 AM - Jun 02, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kamiryn wrote: <a data-post-id=\"28206\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28206&amp;sid=a682d5251e4ce0cd124bf9b62227e2e5#p28206\">\u2191</a><div class=\"responsive-hide\">Jun 02, 2023</div></cite>There's a new CBC available at\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc</a> for some time now. It supports up to 8 classes.<br/>\n<br/>\nTo answer another question: multiclass XP penalty can go up to 140% (= 7 * 20%) making the char actually losing XP when gaining some.</div></blockquote>\nThanks very much for this, Kamiryn. It'll certainly be of use to many of our members - the xp info will definitely come in very useful when it comes to constructing new builds.<br/>\n<br/>\nOh yes, and welcome aboard!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:53 PM - Dec 28, 2023",
+      "content": "<div>There are many old builds that won't work properly anymore because the rules have changed over time.<br/>\nAnd it would be too much to ask of anyone to go back and fix them all.<br/>\n<br/>\nNevertheless, if there are any builds of special interest, such as this one, it would be fine if someone familiar with it took the time, doing us the favour and reposting a working version of it here, either in the unfinalized section or in the 40s, depending on how well documented it is.<br/>\nThe original poster must be credited, of course. And it would also be fair to link to the original build, like you have done here Web!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "3:14 PM - Jun 02, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Awesome work as always, Kamiryn!<br/>\n<br/>\nA big thanks from me as well, for your continued support for the NWNEE Community!\u00a0 It's those like you who keep this community going strong!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:42 PM - Dec 28, 2023",
+      "content": "<div>I'm not trying to be that person, but...<br/>\n<br/>\nMick, it's not like everyone here is just overworked producing builds, right?<br/>\n<br/>\nI mean, this topic and thread alone shows that we all have the time and ability to actually fix these, once awareness is brought to it.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:54 AM - Jun 03, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You're still awesome after all these years, Kamiryn!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "1:39 PM - Jun 03, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good Gods! What in the nine hells has happened???<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:36 PM - Jun 03, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">8, Eltalstro.\u00a0 8 Hells...<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "7:37 PM - Dec 28, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Dec 28, 2023</div></cite>Hehe...see, Conlaoch?\u00a0 That's how you get away with using words like that!</div></blockquote>\nI stand in awe....\u00a0 \u00a0 maybe someday when I grow up...\u00a0 \u00a0:)</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:13 PM - Jun 03, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>eltalstro wrote: <a data-post-id=\"28215\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28215&amp;sid=b41ffb02012054ebafb48de59ec94083#p28215\">\u2191</a><div class=\"responsive-hide\">Jun 03, 2023</div></cite>Good Gods! What in the nine hells has happened???</div></blockquote>\nThat'll teach you to go AWOL! In your absence, some smart-alec has decided that building with 3 classes wasn't nearly enough, and come up with a patch that can provide up to 8. Webby has kindly linked us to it earlier in this thread.<br/>\n<br/>\nWe're currently working through both what works and what doesn't, as well as doing a little site reconstruction, so stay tuned. Thus far, only Yunim has paddled in these waters and been prepared to share the results (other than Web's earlier Dwarf Monster in this thread).<br/>\n<br/>\nAnd next time you go on a term-time vacation, I expect a note from your parents!<br/>\n<br/>\nGood to see you again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "8:40 AM - Jun 04, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I downloaded the new CBC. Doesn't seem it wants to work for me, but I don't think I'll even bother. I'll just play the awesome builds that the elder builders give life to.<br/>\n<br/>\nEdit: Oh, and thanks, Stagmeister. I've been conquering Calradia for quite some time. I'll be sure to produce said note next time. At least you weren't subjected to the annual Father Christmas build challenge this year.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Pan Draconis",
-      "avatar": "10759307_1674117984.jpg",
-      "timestamp": "10:23 AM - Aug 20, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">After some experimenting, I can say that is a bit of a new way of building, you have to always think about the ways to dodge the XP penalty, by using many epic classes and/or human or half/elf races with a good management.\u00a0<br/>\n<br/>\nIs there a special section to post level 40 builds with more than three classes ? I'm testing one of them and I have some backstory ideas.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:11 PM - Aug 21, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Pan Draconis wrote: <a data-post-id=\"28384\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28384&amp;sid=b41ffb02012054ebafb48de59ec94083#p28384\">\u2191</a><div class=\"responsive-hide\">Aug 20, 2023</div></cite>After some experimenting, I can say that is a bit of a new way of building, you have to always think about the ways to dodge the XP penalty, by using many epic classes and/or human or half/elf races with a good management.\u00a0<br/>\n<br/>\nIs there a special section to post level 40 builds with more than three classes ? I'm testing one of them and I have some backstory ideas.</div></blockquote>\nWe're working on it. RL, and Tapatalk having done some despicable things to me at least, have kept me away from full attention. ATM, treat things as usual - things can always be moved once I'm more settled.<br/>\n<br/>\nNot much of an answer, but hope it will do for now.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "darktooth",
-      "avatar": "10759000_1542893921.jpg",
-      "timestamp": "4:53 AM - Dec 29, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I encountered a bug when levelling up as RDD as my 5<sup>th</sup> class. Levelling up does not proceed when I used all skill points I gained at RDD 9. This was solved when I saved 1 skill point and used all skill points on the next level up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:35 AM - Dec 29, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Dec 28, 2023</div></cite>I'm not trying to be that person, but...<br/>\n<br/>\nMick, it's not like everyone here is just overworked producing builds, right?<br/>\n<br/>\nI mean, this topic and thread alone shows that we all have the time and ability to actually fix these, once awareness is brought to it.</div></blockquote>\nNow then, sunshine - so every/anyone else should do it, just not precious Webby?<br/>\n<br/>\nSorry, looks like you are that person, oops.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:41 AM - Dec 29, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is really good info!<br/>\n<br/>\nThx!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:26 AM - Dec 29, 2023",
+      "content": "<div>Heh.<br/>\n<br/>\nI am busy tho - I have my Lore responsibilities over at the WoG forum, among other things.\u00a0 And I still find time to bring attention to these things.<br/>\n<br/>\nSo...there is that.\u00a0 <br/>\n<br/>\nAnd I have already \"fixed\" it - I am playing this build.\u00a0<br/>\n<br/>\nSo, let us be absolutely candid here, shall we?<br/>\n<br/>\nYou are essentially saying that any \"builds\" that are broken that I bring to your attentions (being that you both are admins here) will be saddled on me?<br/>\n<br/>\nYeah, that's certainly going to be an encouraging aspect of things, isn't it?<br/>\n<br/>\nGuess there's going to be even more enui here.<br/>\n<br/>\nSee ya!</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:29 PM - Dec 29, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Dec 29, 2023</div></cite>Heh.<br/>\n<br/>\nI am busy tho - I have my Lore responsibilities over at the WoG forum, among other things.\u00a0 And I still find time to bring attention to these things.<br/>\n<br/>\nSo...there is that.\u00a0 <br/>\n<br/>\nAnd I have already \"fixed\" it - I am playing this build.\u00a0<br/>\n<br/>\nSo, let us be absolutely candid here, shall we?<br/>\n<br/>\nYou are essentially saying that any \"builds\" that are broken that I bring to your attentions (being that you both are admins here) will be saddled on me?<br/>\n<br/>\nYeah, that's certainly going to be an encouraging aspect of things, isn't it?<br/>\n<br/>\nGuess there's going to be even more enui here.<br/>\n<br/>\nSee ya!</div></blockquote>\nThe lore forum on WoG currently stands at 10 entries in 7 months - one of which is the introduction and another is a country mile from completion (notable persons) - so don't try to play that \"I'm too busy\" card with me. Don't get me wrong, I do like what you're doing there, but the whiff of burning martyr is a tad acrid.<br/>\n<br/>\nAnd no, no one said all builds will be \"saddled\" on you. However, these are old builds, many constructed before the 1.69 patch came out, and all of them before this Guild existed. While caveat emptor applies here, when members have questions about any builds from the old site, we have always helped resolve those issues.<br/>\n<br/>\nSo thanks for the negativity, but it might be worth looking at who's casting the first stone.<br/>\n<br/>\nOh, and this is me locking this topic. Happy New Year.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:55 PM - Dec 29, 2023",
+      "content": "<div>I'm not putting saddles or any other burdens on anybody. There is no \"have to do\" here.<br/>\nI simply suggest how we can share old builds that we have modified to meet current standards. <br/>\n<br/>\nPointing at an old build offers a fine opportunity to do just that.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

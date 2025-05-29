@@ -4,77 +4,31 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "010",
-  "name": "EDR III / Dev Crit DwD - A Viable Option?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/edr-iii-dev-crit-dwd-a-viable-option-t2354808.html",
-  "author": "Stagmeister",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 10,
+  "name": "Eye of Gruumsh concept",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/eye-of-gruumsh-concept-t2354819.html",
+  "author": "Findaruil",
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "302",
   "posts": [
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:40 PM - Jan 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all, only me again.<br/>\n<br/>\nI've just returned from a retro excursion into Baldur's Gate, and quite fancied the idea of the above. I'm not being lazy, but for reasons best known to itself, neither the Legacy Archive nor Hip's Fantabulous Contrapulator seems to be playing nicely with me at the moment, so I don't know if there's anything that works out there atm.<br/>\n<br/>\nPlus I'm full of flu currently, so my brain isn't functioning even at its normal level of incompetence.<br/>\n<br/>\nThus...can any of you good folk come up with a Dwarven Defender with both EDR III and Devastating Crit that doesn't make it too underpowered to play?<br/>\n<br/>\nThanks in advance<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:26 PM - Jan 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">EDR III and Dev Crit is easily doable with RDD, but much harder without it. A Bard / RDD / DD might work. I do already have a Dwarf Fighter / Bard / RDD with EDR III and Dev Crit.<br/>\n<br/>\nHere is that build, designed for SoU, HotU, and SoF, using Enserric the Greatsword:\n<details><summary>Spoiler</summary>\nDwarven Dragon Sword (Fighter 24 / Bard 6 / Red Dragon Disciple 10)\nPlayable 1 - 40\n\nSTR: 16 (36)\nCON: 16 (22)\nINT: 16 (18)\n\nDwarf: (Darkvision, Defensive Training vs. Giants, Stonecunning, Hardiness vs. Poison, Hardiness vs. Spells, Offensive Training vs. Goblinoids, Offensive Training vs. Orcs, Skill Affinity: Lore)\n02: Fighter(2): Power Attack\n04: Bard(1): STR+1, (STR=17)\n06: Red Dragon Disciple(1): Blind Fight\n08: Bard(2): STR+1, (STR=20)\n10: Red Dragon Disciple(4): (STR=22)\n12: Fighter(6): STR+1, Improved Critical: Greatsword, Improved Knockdown, (STR=23)\n14: Fighter(7)\n16: Red Dragon Disciple(5): STR+1, (STR=24)\n18: Bard(4): Toughness\n20: Red Dragon Disciple(8): CON+1, (CON=19)\n22: Red Dragon Disciple(10): (STR=28), (CHA=8)\n24: Fighter(10): STR+1, Great Strength I, Overwhelming Critical: Greatsword, (STR=30)\n26: Fighter(12): Devastating Critical: Greatsword\n28: Bard(5): CON+1, (CON=21)\n30: Fighter(15): Great Constitution II, (CON=22)\n32: Fighter(17): STR+1, (STR=31)\n34: Fighter(19)\n36: Fighter(21): STR+1, Great Strength III, (STR=34)\n38: Bard(6)\n40: Fighter(24): STR+1, Armor Skin, (STR=36)\nStats:\nSkillpoints: 246\nSaving Throw bonuses: Spells: +6, Poison: +2\nAB (max, naked): 44 (melee), 29 (ranged)\nSpell Casting: \n\nDiscipline 43(56), Lore 43(55), Perform 13(12), Search 25(29), Spellcraft 16(20), Spot 25(24), Tumble 40(41), UMD 41(40)\n01: Discipline(4), Lore(4), Save(12)\n03: Discipline(1), Lore(1), Save(18)\n05: Discipline(1), Lore(1), Save(9)\n07: Discipline(1), Search(1), Spot(1), Save(2)\n09: Discipline(1), Search(2), Spot(2)\n11: Discipline(1), Save(4)\n13: Discipline(1), Perform(3), Tumble(5), UMD(5), Save(1)\n15: Discipline(1), Save(9)\n17: Discipline(1), Spot(1), Save(3)\n19: Search(3), Spot(2)\n21: Search(2), Spellcraft(2), Spot(1)\n23: Discipline(6)\n25: Discipline(1), Save(10)\n27: Discipline(1), Save(20)\n29: Discipline(1), Lore(5)\n31: Discipline(1), Lore(5)\n33: Discipline(1), Lore(5)\n35: Discipline(1), Save(10)\n37: Discipline(1), Save(20)\n39: Discipline(1), Lore(5)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:27 PM - Jan 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">See if you like this one Stag, EDR III &amp; Dev. Critical with the full-fat 30/-\u00a0 DR of a maxed-out Dwarven Defender and over 700+ Hp of thick muscle to protect him. His Dev. Crit DC isn't the best but he still wields death on every hit, lot's of juicy comments to read too as both Max &amp; Mick gave valuable advice on how to progress with this.<br/>\n<br/>\n<strong><span style=\"color:#0000FF\">DWARVEN WALL - REVISED</span></strong>\u00a0 =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-dwarven-wall-revised-t2350205.html\" rel=\"noreferrer\" target=\"_blank\">the-dwarven-wall-revised-t2350205.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Findaruil",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:08 PM - Feb 13, 2018",
+      "content": "<div>Hello all and thank you for keeping this great game alive!<br/>\n<br/>\nHaving recently re-installed it along with all community patches I discovered the Eye of Gruumsh class. Looking through this forum I didn't find any build using it yet, so I have been trying to tackle with one. I have been trying to build a Barbarian 15 / Cleric 15 / Eye of Gruumsh 10 that would use Terrifying Rage and all Cleric buffs. I tried to use Max Kane's Terrifying Priest of Kord (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/terrifying-priest-of-kord-cleric-19-barbarian-16-h-t2354381.html\" rel=\"noreferrer\" target=\"_blank\">terrifying-priest-of-kord-cleric-19-bar ... 54381.html</a>) as template, but so far I'm stuck. Does anyone have suggestions as to how best order each class to get to the result? Or is it unfeasible? Another idea was to go Bard instead of Cleric for UMD and Song Buffs, but I'm quite partial to the Cleric version. Thanks in advance for all your feedback.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:00 PM - Jan 16, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, both of you! Both excellent suggestions, so will have to do some head scratching. Unless I take one through SoU/HotU/SoF and the other through the OC then Mines of Twin Summit. Two for the price of one - hoorah! (Afraid the Bard/RDD/DwD idea wouldn't work, though, as DwD has to be lawful.)<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:02 PM - Feb 13, 2018",
+      "content": "<div>Hello there Findaruil and welcome aboard!<br/>\n<br/>\nI hate to be a thickie, but it's a gift. Can I just ask what the Eye of Gruumsh class is, or does, and what its prerequisites are (if any)?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:15 PM - Jan 16, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n(Afraid the Bard/RDD/DwD idea wouldn't work, though, as DwD has to be lawful.)\n</div></blockquote>\n\nOops!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:22 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nSee if you like this one Stag, EDR III &amp; Dev. Critical with the full-fat 30/-\u00a0 DR of a maxed-out Dwarven Defender and over 700+ Hp of thick muscle to protect him. His Dev. Crit DC isn't the best but he still wields death on every hit, lot's of juicy comments to read too as both Max &amp; Mick gave valuable advice on how to progress with this.<br/>\n<br/>\n<strong><span style=\"color:#0000FF\">DWARVEN WALL - REVISED</span></strong>\u00a0 =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-dwarven-wall-revised-t2350205.html\" rel=\"noreferrer\" target=\"_blank\">the-dwarven-wall-revised-t2350205.html</a>\n</div></blockquote>\n\nMight I ask a question, please? You take two levels of CoT at level 19 and 20, and I wondered whether the +1 bump to saves was the only reason (along with the bonus feat), rather than two more levels of DwD pre-epic and then either the CoT levels in epic for Epic Weapon Specialization? Is DwD one of those classes you can only take 10 levels in pre-epic? I'm sure I'm missing something, but I'm not sure what.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:01 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He takes 20 epic DD levels to reach DD 30. The last DD level gives a bonus feat and an additional 3/- DR.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:28 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nHe takes 20 epic DD levels to reach DD 30. The last DD level gives a bonus feat and an additional 3/- DR.\n</div></blockquote>\n\nSorry, Mick, but I wasn't suggesting not hitting DwD 30, just doing 18 of them in epic rather than 20. Hence the question...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:33 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Then you would have to take 12 DD levels pre epic. You can only take 10 levels of a prestige class pre epic.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:58 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, now that chimes with my second initial question. When not doing it yourself, sometimes one loses track. Excellent, Mick, many thanks, as ever!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:30 PM - Jan 21, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You're welcome Stag!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Findaruil",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:29 PM - Feb 13, 2018",
+      "content": "<div>I believe the class was installed with the latest CEP along with Shou Disciple and Purple Dragon Knight. Here are the characteristics:<br/>\n<br/>\nMax 10 levels, Hit die d12, Simple and Martial Weapons, Light and Med Armor, Shields, Skillpoints 2+Int<br/>\n<br/>\nPrerequisites: Alignment Chaotic evil, Neutral evil or Chaotic Neutral; Race Half-Orc or Orc; Feats Exotic Weapon Prof., Weapon Focus (Double Axe); BAB +6<br/>\n<br/>\nWhat it gives you is an improved version of Blind Fight, an improved Rage (Str +4, armor bonus -4), +3 natural armor bonus, +2 saving throws and the ability to spit your stomach's content into your opponent's eyes (yes, that's what it says! :) )<br/>\n<br/>\nThanks for the answer!</div>"
     }
   ]
 }

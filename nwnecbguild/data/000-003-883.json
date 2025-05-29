@@ -4,83 +4,81 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "883",
-  "name": "REQUEST: PvM Rogue build for NWN official campaign + expansions",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-pvm-rogue-build-for-nwn-official-campaign--t2355031.html",
-  "author": "endjynn",
-  "avatar": "10759055_1550260647.jpg",
-  "replies": 11,
+  "name": "Another weird BlackstoneKeep-request: Bladeweaver F2/S3 minimum, where to go?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/another-weird-blackstonekeep-request-bladeweaver-f-t2355034.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": "10",
+  "views": "623",
   "posts": [
     {
-      "author": "endjynn",
-      "avatar": "10759055_1550260647.jpg",
-      "timestamp": "9:09 PM - Feb 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi folks,<br/>\n<br/>\nI just bought the NWN Enhanced Edition and this will be my first ever playthrough. Character creation seems to be really complex and I'm struggling a bit with my build. Any help, assistance or suggestions would be much appreciated :)<br/>\n<br/>\nCONCEPT:<br/>\nI'd like to play a rogue so that I can disable traps and open locks. I would also like to dual-wield melee weapons and prioritize combat ability. I assume this will be best achieved by building a STR based character rather than DEX but I'm open to suggestions.<br/>\n<br/>\n1) PvM or PvP<br/>\nOfficial campaign and expansions only (offline) so PvM<br/>\n<br/>\n2) Level cap<br/>\nMax level at the end of official campaign and expansions (from research I think approx level 1-28)<br/>\n<br/>\n3) Race preference<br/>\nElf (so that I have no movement penalty when making search checks)<br/>\n<br/>\n4) Class preference<br/>\nRogue (for traps + locks)<br/>\nPossibly multi-class with Fighter for extra combat ability<br/>\n<br/>\n5) Melee preference<br/>\nDual-wield! (preferably something sharp and nasty)<br/>\n<br/>\nMany thanks! :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "4:09 PM - Feb 18, 2019",
+      "content": "<div>So, there's a custom class in Blackstone Keep PW that gets a nifty katana. Requirements are you are Elf and get at least F2 and Sorc3 (not necessarily in any special order, as soon as you have at least F2/S3, you will get the katana).<br/>\nThere are two obvious ways to go (WM or RDD), each with two variants (pre-epic or post-epic), but I'm pretty sure I'm missing something... So, if I'm playing someone who is primarily running around hacking mobs to death and every sixth hit I give magic damage and self-heal a bit, what's the best build?<br/>\nBlackstone Keep is high-magic with bosses and mobs with some resistance and immunities. The most annoying thing is that the bosses have ridiculous AB/AC combos for the level you're supposed to be when tackling them, so dwarven defenders or Dex-WM are the most useful builds, also some cheesy variants. This could be something fresh, with a katana giving up to 45 magical damage every sixth hit, so I hope someone can help. Please?</div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "9:51 PM - Feb 19, 2019",
+      "content": "<div>Here's a good starting point for a more melee focused spellsword that meets the requirements. The only thing I don't like is the skills, I ended up with so many and nowhere to put them. Tumble is CCed. If you ditch Imp KD you can get some extra stat points saved by dropping Int. The last 2 Great Strengths could easily be epic spells, I believe some of the epic summons have been buffed on BSK.<br/>\n<details><summary>Spoiler</summary>Fighter(4), Sorcerer(26), Red Dragon Disciple(10), Human\nSTR: 16 (34)\nCON: 12 (14)\nINT: 14 (16)\n\u00a0\n01: Fighter(1): Blind Fight, Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Sorcerer(2): Still Spell\n05: Sorcerer(4)\n07: Sorcerer(6)\n09: Red Dragon Disciple(1): Empower Spell\n11: Red Dragon Disciple(3)\n13: Red Dragon Disciple(5)\n15: Red Dragon Disciple(7): Improved Critical: Bastard Sword, (CON=14)\n17: Red Dragon Disciple(9): (INT=16)\n19: Sorcerer(7)\n21: Sorcerer(9): Epic Weapon Focus: Bastard Sword\n23: Fighter(3)\n25: Sorcerer(11)\n27: Sorcerer(13): Armor Skin\n29: Sorcerer(15)\n31: Sorcerer(17)\n33: Sorcerer(19): Automatic Still Spell I\n35: Sorcerer(21)\n37: Sorcerer(23): Automatic Still Spell II\n39: Sorcerer(25): Great Strength II, (STR=33)\n\u00a0\nSkillpoints: 238\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 39 (melee), 23 (ranged)\nSpell Casting: Sorcerer(9)\n\u00a0</details>\nAnd another one, this one with Wizard and WM:\n<details><summary>Spoiler</summary>Fighter(6), Wizard(26), Weapon Master(8), Human\nSTR: 16 (28)\nCON: 12\nINT: 16 (20)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword, Dodge\n03: Fighter(3): Mobility\n05: Wizard(1): {Scribe Scroll}\n07: Wizard(3)\n09: Wizard(5): Whirlwind Attack, Still Spell\n11: Wizard(7)\n13: Weapon Master(1): Weapon of Choice: Bastard Sword\n15: Weapon Master(3): Blind Fight\n17: Weapon Master(5)\n19: Weapon Master(7)\n21: Fighter(6): Epic Weapon Focus: Bastard Sword, Epic Weapon Specialization: Bastard Sword\n23: Wizard(10): Great Intelligence I, (INT=18)\n25: Wizard(12)\n27: Wizard(14): Epic Prowess\n29: Wizard(16)\n31: Wizard(18)\n33: Wizard(20): Great Strength II, Automatic Still Spell I, (STR=24)\n35: Wizard(22)\n37: Wizard(24)\n39: Wizard(26): Great Strength IV, Automatic Still Spell III, (STR=27)\n\u00a0\nSkillpoints: 287\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 40 (melee), 29 (ranged)\nSpell Casting: Wizard(9)\n\u00a0</details></div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:10 PM - Feb 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Endjynn - and welcome to the most compulsive, varied game of your life! And, of course, to the Guild. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:34 PM - Feb 19, 2019",
+      "content": "<div>If it helps with your skills surplus, Sky, maybe some detection would help (Listen or Spot)? Is Heal a big deal in BSK, btw?</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:35 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was thinking about what third class would be good for this build and I concluded that in this case, you are better off without a third class.\u00a0 Take 10 Rogue and 10 Fighter pre-epic, and another 10 of each in epic levels.\u00a0 Since you are dual-wielding, I would go for DEX, rather than STR.\u00a0\u00a0 You would get Epic Dodge at level 32, to late for HotU, but still helpful in Sands of Fate (which you can play after HotU to get the rest of the way to level 40) or Mines of Twin Summit (which can follow the OC to take you to level 40).\u00a0 If you start with 17 DEX and use all 7 general epic feats for great DEX, you will end with 34 DEX.<br/>\n<br/>\nIf you played a Halfling instead, this would be easier because Rogue is the favored class for Halflings.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:41 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He can get Epic Dodge at 27 before the final fight with Big Meph &amp; he will have a pretty big AC throughout the campaign regardless.<br/>\nRogue 17 - SD 1 - CoT 10, should be a nice combo for a dexer &amp; without any exp penalty as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "10:54 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You're right.\u00a0 He could use the general feat at level 27 for Epic Dodge.\u00a0 That means only 6 Great DEX feats, so you would have to start at 18 DEX to reach 34.\u00a0 You could start with 20 DEX and reach 36, but that would mean spending 6 points just to gain 2 DEX, weakening everything else.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "endjynn",
-      "avatar": "10759055_1550260647.jpg",
-      "timestamp": "3:48 PM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Many thanks for all your detailed replies and information :)<br/>\nI'm going to try and create my character build over the weekend. I'll post here when I have a rough draft and perhaps you guys can give it the once over and see how I did?<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "8:15 PM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sounds good endjynn.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "endjynn",
-      "avatar": "10759055_1550260647.jpg",
-      "timestamp": "10:40 PM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi folks,<br/>\n<br/>\nI had a go at creating a build. I've only gone to level 20 so far but I'll post an updated version up to level 30 shortly.<br/>\nI realized from reading the advice from\u00a0<em class=\"mention\">@Stagmeister</em>\u00a0that Elf probably wasn't the best racial choice and so I've swapped to Human for this first draft.<br/>\n<br/>\nAny suggestions for improvement, advice etc would be much appreciated! :)<br/>\nThanks again for all your help.<br/>\n<details><summary>Spoiler</summary>Abilities: Str 21, Dex 16, Con 12, Int 14, Wis 8, Cha 8\nFeats: Ambidexterity, Blind-Fight, Dodge, Evasion, Hide in Plain Sight, Improved Critical (Short Sword), Improved Knockdown,\nStealthy, Toughness, Two-Weapon Fighting, (Uncanny Dodge II), Weapon-Focus: Short Sword, Weapon Specialization: Short Sword</details>\n<details><summary>Spoiler</summary>Name: Recluse\nAlignment: Chaotic Good\n\nSkills: Disable Trap +4 (6), Hide +4 (7), Lore +4 (6), Move silently +4 (7), Open Lock +4 (7), Search +4 (6), Tumble +4 (7), Saved 16\u00a0\n\nSkills: Discipline +5 (8), Lore +1 (7), Saved 15\n\nSkills: Discipline +1 (9), Lore +1 (8), Saved 18\n\nAbilities: Str +1 (17)\nFeats: (Evasion)\nLevel: 05 Fighter (3)\nFeats: (None)\nLevel: 06 Fighter (4)\nFeats: Mobility, Weapon Specialization (Short Sword)\nLevel: 07 Rogue (3)\nFeats: (Uncanny Dodge I), (Sneak Attack +2d6)\nLevel: 08 Shadow Dancer (1)\nSkills: Hide +1 (16), Lore +1 (13), Move Silently +1 (16), Search +1 (13), Tumble +1 (14), Saved 11\n\nSkills: Discipline +3 (16), Lore +1 (14), Saved 12\n\nSkills: Disable Trap +3 (15), Hide +2 (18), Lore +1 (15), Move silently +2 (18), Open Lock +3 (16), Search +2 (15), Tumble +2 (16), Saved 8\n\nSkills: Discipline +2 (18), Lore +1 (16), Saved 10\n\nAbilities: Str +1 (19)\nFeats: Improved Two Weapon Fighting\nLevel: 13 Rogue (5)\nFeats: (Sneak Attack +3d6)\nLevel: 14 Fighter (8)\nFeats: Knockdown\nLevel: 15 Fighter (9)\nFeats: Iron Will\nLevel: 16 Rogue (6)\nSkills: Disable Trap +3 (21), Hide +3 (24), Lore +1 (21), Move silently +3 (24), Open Lock +3 (22), Search +3 (21), Tumble +3 (22), Saved 2\n\nSkills: Discipline +2 (25), Lore +1 (22), Saved 4\u00a0\n\nSkills: Disable Trap +2 (23), Hide +2 (26), Lore +1 (23), Move silently +2 (26), Open Lock +2 (24), Search +2 (23), Tumble +2 (24), Saved 2\n\nSkills: Discipline +2 (27), Lore +1 (24), Saved 4\n\nAbilities: Str +1 (21)\nFeats: Spring Attack\n</details>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/4zcSvpy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:38 AM - Feb 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You are off to a great start endjynn and kudos for your detailed presentation of your character.<br/>\nOne small thing I noticed is \"spring attack\", ditch that, you don't need it when a character has full tumble skill.<br/>\nYou also do not need 16 dexterity but only 15, with the extra points you will be able to raise your constitution to 14 instead, since you will be fighting in full plate for best AC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "10:47 PM - Feb 19, 2019",
+      "content": "<div>It's just that all the skills are going to be CC because sorcerer, rdd, and fighter have terrible skill selections. In the Wizard version I ended up taking WM at 40 to get discipline and spot to 43. I'm working on a final rogue version that will use the skills better and have full tumble.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:11 PM - Feb 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As Valerfor says, kudos, endjynn. I remember having to be encouraged (sometimes with sharp sticks) and cajoled into constructing my first build several months after joining the Guild.<br/>\n<br/>\nI've a couple of small items for discussion, if I may. Valerfor's quite right about full plate, but does that have an impact on stealth and /or HiPS? I just don't seem to recall seeing a fully-armoured HiPS-er before - not it's necessarily a bad thing, of course.<br/>\n<br/>\nSecond, I notice you don't take the Use Magic Device (UMD) skill, and I really, really would. It will enable you to not only use wands and scrolls, but also equip some gear you wouldn't be able to otherwise (eg, Sun Soul boots and the like). I'd probably sacrifice Lore for it (but that depends on the result of the possible stealth issue).<br/>\n<br/>\nThird (and yes, this is me still playing fast and loose with the term \"a couple of items\"), it appears you're going for a Strength-based mainly Fighter build. That would mean you'd want the best BAB you can reasonably get pre-epic, particularly as you're D-W-ing, which will drop your AB by 2 for each attack. You're currently on BAB 17, but you could raise it to 18 by taking only 4 Rogue levels (possibly at levels 1, 3, 13 and 18) and taking 3 more Fighter levels - and you'd gain another bonus feat in the process. Improving BAB in epic levels isn't an issue, as it increases by 1 every other level regardless of class, so you could always make up for it then. Yes, you'd lose some skill points, but you'd end up better in combat.<br/>\n<br/>\nHope this helps.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:58 PM - Feb 19, 2019",
+      "content": "<div>I'm sorry to be an arse here, but doesn't Cornflower say you need both Fighter and Sorcerer for this? It's a bugger anyway, given that you also need to be an Elf (at least for module players who will inevitably have xp penalties with either the RDD or WM iterations). So isn't Rogue out of the picture?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:19 PM - Feb 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's weird hearing it from you Stag, as I have two (at least, maybe more)\u00a0 armored HiPS characters &amp; you usually have a good memory.<br/>\nIt really isn't a big deal hiding from the A.I. even with armour ON all day &amp; night as they are either lacking in skill or have TS which completely negates it anyway. <br/>\nYou're right about umd though, I would replace lore with it in a heartbeat. And endjynn, you don't need that high open locks either, remember there are +10 lockpicks. <br/>\nNow, if you could find the room for a detection skill (even half-ranks) like \"listen\"...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "11:01 PM - Feb 19, 2019",
+      "content": "<div>Ah, as a BSK player myself I believe either Wizard or Sorcerer will do. I forgot about elf but that's easily workable in there. No XP penalties on BSK either. <br/>\n<br/>\nMy attempt at the Lia spellblade class was Fighter Wizard Rogue as Death attack got nerfed and weapon finesse doesn't work with bastard swords anyway, so no need for extra dexterity.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:52 PM - Feb 17, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nThat's weird hearing it from you Stag, as I have two (at least, maybe more)\u00a0 armored HiPS characters &amp; you usually have a good memory.<br/>\nIt really isn't a big deal hiding from the A.I. even with armour ON all day &amp; night as they are either lacking in skill or have TS which completely negates it anyway. <br/>\nYou're right about umd though, I would replace lore with it in a heartbeat. And endjynn, you don't need that high open locks either, remember there are +10 lockpicks. <br/>\nNow, if you could find the room for a detection skill (even half-ranks) like \"listen\"...\n</div></blockquote>\nOh bum. See, I told you I'm getting old (socks in the fridge, shaving half my face and forgetting to come back to it after an intervening phone call, not remembering armoured HiPS, etc). It's fun being me - every day's an adventure!<br/>\n<br/>\nCan I order my groceries now?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:21 PM - Feb 19, 2019",
+      "content": "<div>Gotcha, thanks!<br/>\n<br/>\nI'd begun to wonder whether there was scope to adapt Valerfor's Draco Mauler. That's a Bard 4/ Fighter 10/ RDD 26 and a Dwarf as it stands currently. So, at least a couple of issues: not an Elf, and not a Sorcerer.<br/>\n<br/>\nHowever, if, as you say, Wiz will also qualify, then several possibilities open up. WM, certainly (but loads of prerequisites), but CoT might be interesting, too (lots of Bonus Feats, full BAB, etc). Anyway, you know the environment...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "12:21 AM - Feb 20, 2019",
+      "content": "<div>I've got one that forsakes spellcasting and goes full WM:<br/>\n<br/>\n52 AB is nothing to sneeze at. If you want wizard levels pre epic to get your exploding sword it drops to 50. Dev crit on BSK increases damage by 35% which is a nice buff but not insta death, so all those feats can be dropped for other things if needed. <br/>\n<details><summary>Spoiler</summary>Fighter(11), Wizard(4), Weapon Master(25), Elf\nSTR: 18 (34)\nCON: 10\nINT: 14\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Fighter(3): Dodge\n05: Fighter(5)\n07: Fighter(7)\n09: Fighter(9): Knockdown\n11: Weapon Master(1): Weapon of Choice: Bastard Sword\n13: Weapon Master(3)\n15: Weapon Master(5): Cleave\n17: Weapon Master(7)\n19: Weapon Master(9)\n21: Wizard(1): Great Strength I, {Scribe Scroll}, (STR=24)\n23: Wizard(3)\n25: Weapon Master(12)\n27: Fighter(11): Epic Weapon Specialization: Bastard Sword\n29: Weapon Master(15)\n31: Weapon Master(17)\n33: Weapon Master(19): Great Strength IV, Devastating Critical: Bastard Sword, (STR=30)\n35: Weapon Master(21)\n37: Weapon Master(23)\n39: Weapon Master(25): Great Strength VI, Epic Prowess, (STR=33)\n\u00a0\nSkillpoints: 172\nSaving Throw bonuses: Spells: +8, Mind Effects: +2\nAB (max, naked): 52 (melee), 33 (ranged)\nSpell Casting: Wizard(2)\n\u00a0</details></div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "1:49 AM - Feb 20, 2019",
+      "content": "<div>Last one from me as I've covered all the non rogue bases. I originally made it with 18 levels of rdd but sorcerer spells are just too good... so here you get to self buff nicely and stop time. Ends with 42 AB, which is great for 20 caster levels I think. The 15 sorcerer 15 RDD version can get 44+ (I was up at 46 with some variations) but I feel the extra spells are just too much better. Skills again are a little less than ideal but they are the weakest aspect of this build to begin with. <br/>\n<details><summary>Spoiler</summary>Fighter(10), Sorcerer(20), Red Dragon Disciple(10), Elf\nSTR: 16 (34)\nCON: 10 (12)\nINT: 14 (16)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Sorcerer(1): Cleave\n05: Sorcerer(3)\n07: Fighter(3)\n09: Fighter(5): Knockdown\n11: Fighter(7)\n13: Red Dragon Disciple(1)\n15: Red Dragon Disciple(3): Still Spell\n17: Red Dragon Disciple(5)\n19: Red Dragon Disciple(7): (CON=12)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Bastard Sword, (INT=16)\n23: Fighter(9)\n25: Sorcerer(5)\n27: Sorcerer(7): Devastating Critical: Bastard Sword\n29: Sorcerer(9)\n31: Sorcerer(11)\n33: Sorcerer(13): Epic Prowess\n35: Sorcerer(15)\n37: Sorcerer(17)\n39: Sorcerer(19): Great Strength II, (STR=34)\n\u00a0\nSkillpoints: 191\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 42 (melee), 27 (ranged)\nSpell Casting: Sorcerer(9)\n\u00a0</details></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:19 AM - Feb 20, 2019",
+      "content": "<div>Hey! Those last two builds are awesome, <em class=\"mention\">@EasternPromises</em> ! They are both good, so you can choose to be a very good weaponmaster with some buff ability as a bonus, or a full spellcaster with 42 AB, DevCrit and a magic sword. Now, those are some excellent options really. Nice work!</div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "6:20 PM - Feb 20, 2019",
+      "content": "<div>Ok I lied. Here is the same 20 CL concept applied to the WM variant:<br/>\n<br/>\nI end with Automatic Still Spell x3 for convenience but it is by no means required. It can be swapped for epic spells or more stats. <br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(12), Wizard(20), Weapon Master(8), Elf\nSTR: 16 (28)\nCON: 12\nINT: 16 (19)\n\u00a0\n01: Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword\n03: Wizard(1): Still Spell, {Scribe Scroll}\n05: Wizard(3)\n07: Fighter(4): Weapon Specialization: Bastard Sword\n09: Fighter(6): Mobility, Spring Attack\n11: Fighter(8): Whirlwind Attack\n13: Fighter(10): Improved Knockdown\n15: Weapon Master(2): Improved Critical: Bastard Sword\n17: Weapon Master(4)\n19: Weapon Master(6)\n21: Fighter(11): Epic Weapon Focus: Bastard Sword\n23: Wizard(4)\n25: Wizard(6)\n27: Wizard(8): Epic Prowess\n29: Wizard(10): Great Intelligence II, (INT=18)\n31: Wizard(12)\n33: Wizard(14): Great Strength II, (STR=26)\n35: Wizard(16)\n37: Wizard(18)\n39: Wizard(20): Automatic Still Spell II, Automatic Still Spell III\n\u00a0\nSkillpoints: 226\nSaving Throw bonuses: Spells: +9, Mind Effects: +2\nAB (max, naked): 42 (melee), 31 (ranged)\nSpell Casting: Wizard(9)\n\u00a0</details></div>"
     }
   ]
 }

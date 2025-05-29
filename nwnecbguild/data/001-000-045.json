@@ -8,37 +8,42 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/quick-question-about-version-1-69-t1202945.html",
   "author": "Empyre65",
   "avatar": "10235276_1510287070.gif",
-  "replies": 4,
+  "replies": "4",
+  "views": "680",
   "posts": [
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
       "timestamp": "11:07 AM - Nov 16, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As I have mentioned before, I am still playing with version 1.68. If I upgrade to 1.69, the final patch, would that break my saved games? I don't think I have ever played any builds that are no longer legal.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>As I have mentioned before, I am still playing with version 1.68. If I upgrade to 1.69, the final patch, would that break my saved games? I don't think I have ever played any builds that are no longer legal.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "shia luck",
       "avatar": "no_avatar.png",
       "timestamp": "9:59 PM - Nov 16, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Empyre65 wrote:</strong>As I have mentioned before, I am still playing with version 1.68. If I upgrade to 1.69, the final patch, would that break my saved games? I don't think I have ever played any builds that are no longer legal.</div></blockquote>\n\nIIRC, yes it will stop saved games from working. Best to ask on BSN for confirmation but I think so, sorry.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><blockquote><div><strong>Empyre65 wrote:</strong>As I have mentioned before, I am still playing with version 1.68. If I upgrade to 1.69, the final patch, would that break my saved games? I don't think I have ever played any builds that are no longer legal.</div></blockquote>\n\nIIRC, yes it will stop saved games from working. Best to ask on BSN for confirmation but I think so, sorry.</div>"
     },
     {
       "author": "HipMaestro",
       "avatar": "10235222_1510287070.jpg",
       "timestamp": "7:41 AM - Nov 17, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I can confirm Shia's response.  <br/>\n<br/>\nEssentially, each patch upgrade creates a brand new game so you will be playing with the most current configuration and balanced as best as it could be when Bioware staffers dropped the support.   I personally found it interesting to revisit some of the older content after v1.69 was installed to see how it affected game play.  Sometimes the changes are blatantly obvious and other times very subtle.<br/>\n<br/>\nThe best news is:  about 90% of all the newest and most creative custom content and PWs will now be available...  as is all versions of the CEP, as well.  It's still 100% downward compatible though, so you can play all content designed with lesser versions just as before.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I can confirm Shia's response.  <br/>\n<br/>\nEssentially, each patch upgrade creates a brand new game so you will be playing with the most current configuration and balanced as best as it could be when Bioware staffers dropped the support.   I personally found it interesting to revisit some of the older content after v1.69 was installed to see how it affected game play.  Sometimes the changes are blatantly obvious and other times very subtle.<br/>\n<br/>\nThe best news is:  about 90% of all the newest and most creative custom content and PWs will now be available...  as is all versions of the CEP, as well.  It's still 100% downward compatible though, so you can play all content designed with lesser versions just as before.</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
       "timestamp": "12:08 PM - Nov 17, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK, so it wouldn't be a good idea to upgrade partway through a campaign. Thanks! That's good to know.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>OK, so it wouldn't be a good idea to upgrade partway through a campaign. Thanks! That's good to know.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
       "timestamp": "5:25 AM - Dec 20, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I finally finished Sands of Fate and then upgraded. I experimented, and successfully loaded a saved game. Apparently, the answer to my question is no: upgrading from 1.68 to 1.69 does not break saved games.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I finally finished Sands of Fate and then upgraded. I experimented, and successfully loaded a saved game. Apparently, the answer to my question is no: upgrading from 1.68 to 1.69 does not break saved games.</div>",
+      "author-color": "#00AA00"
     }
-  ]
+  ],
+  "author-color": "#00AA00"
 }

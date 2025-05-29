@@ -4,29 +4,46 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "218",
-  "name": "Improved Initiative - where'd it go?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/improved-initiative-where-d-it-go-t2354592.html",
+  "name": "Hin Monks & Kamas",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/hin-monks-kamas-t2354603.html",
   "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 2,
+  "replies": "4",
+  "views": "590",
   "posts": [
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:12 AM - Sep 12, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was having a long look at Grizzled Dwarflord's <strong>Hearth Guard</strong> (DwD22 / CoT 10 / F 8) build in the ECB Legacy Archive, and I just wondered, when did the Improved and Superior Initiative feats become redundant, and why? I certainly haven't seen anyone take them since I've been here. Did 1.69 or some other inherent change render them pointless, or were they never that good? I seem to remember taking them in PnP days, but my memory ain't what it was (if I remember correctly).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:51 PM - Sep 23, 2016",
+      "content": "<div>Hello All,<br/>\n<br/>\n I've been mulling around a Hin Monk/Rogue/CoT (or maybe Fighter for WS and thereby damage, if I can balance Monk and Fighter levels sensibly, which I doubt) level 40 DEX build, but before I start fully forming it I thought I'd best check this with you first. I appreciate that kama is a small weapon, and therefore okay for Halflings, but can a Hin successfully D-W them without hideous penalties? If it does attract penalties, would you say that losing Monk AB progression and APR would be offset by the efficacy of kukris or daggers, as tiny weapons?<br/>\n<br/>\n I suppose I'm trying to determine whether to go for D-W feats or not. Another alternative would be Elf, but that way XP penalties rear their ugly heads big time. And a Dwarf with Epic Dodge is always kewl. I know Human would be the \"sensible\" choice, but frankly I'm fed up with my own species atm.<br/>\n<br/>\n Btw, the only Hin Monk/Rogue/CoT I found in the legacy archive was Sidious Fell's Monk 20 / CoT 13 / Rog 7 - which is actually a Monk 20 / CoT 10 / Rog 10 build constructed by Syrath1001 during the course of the discussion. I also found a 2008 Empyre build as well, but it's Human: Skilled Monk (Rog13 / Monk 21 / CoT 6). I haven't found anything similar in Hip's Fantastic Contrapulator (Hin-Hurricane comes closest, at Monk 25 / CoT 10 / Rog 5, but obviously no ED).<br/>\n<br/>\n Or is the whole idea crap?</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "3:28 AM - Sep 12, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You won't see it because, generally-speaking, feats are so precious (hopefully) you'll always gravitate to those that produce the most significance first, then gradually trailing off to those that make less difference in results.\u00a0 I'm not referring to the sequence taken, but rather, the priority that each feat is represented somewhere in the build. Initiative-related feats would be so far down in the pecking order that they just never become relevant.\u00a0 Understand, though... custom scripting can touch on just about any aspect of the game, so if a designer decides that when an event fires, it first makes an Initiative check, then in that instance, the feats could have great value.<br/>\n<br/>\n Check the disclosure and discussion (i.e.Talk) about <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Initiative\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\">Initiative</span></a><span style=\"color:#0000FF\"> </span></strong>on the wiki as it applies to NWN.\u00a0 Forget about PnP as far as NWN mechanics go.\u00a0 There are too many actions to calculate, visualize and synch in those brief intervals that NWN becomes only a \"translation\" of AD&amp;D 3.0 rules rather than the mirror we would all like to experience.\u00a0<br/>\n<br/>\n Even vets like GDL can misinterpret how the game mechanics express a feat's structure and its relevance or base an assessment on too small a sample of situations.\u00a0<br/>\n<br/>\n There are 4 of these feats that will stack up to Initiative +12 (superior supercedes improved) but make so little difference in each round, it can become a costly investment just to increase your chances (it's still a d20 roll regardless of the base value).\u00a0 If you are really convinced that Initiative has a significant bearing on encounters, build DEXers.\u00a0 That solves your concerns.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:51 PM - Sep 23, 2016",
+      "content": "<div>I've made these already.\u00a0 The net -1AB (halfling +1 plus -2 non-light penalty) never seemed an issue.\u00a0 It won't affect the AC, stealth and detection which is usually the main reason for going small to begin with.\u00a0 Well, that and Epic Dodge.\u00a0 Try building at either INT 12 or INT 13 depending on whether you need Expertise/IKD or not.\u00a0 The combo rog/mnk should be fairly skilled even without the human and extra INT skill boosts. But it depends how many warrior-class levels you stick in whether the skill set will be feasible for your needs or not.\u00a0 Personally, I just eat XP penalties when the build needs it.\u00a0 But building for SP is different than server play because, unless they scripted respawns, there's no easy way to get back any lost XP like there is playing a PW.<br/>\n<br/>\n There is no way I would give up the sweet monk progression let alone be pressed to multifocus into kama and some tiny weapon. This consideration assumes a DEX build of course since you'd be already vested into Ambi's DEX 15 prereq.\u00a0 With STR, I probably wouldn't be so fond of a small race seeing as how stealth would not be its forte'.<br/>\n<br/>\n If your UMD-ing monk can find Keen Edge scrolls, that would complete the picture nicely.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:28 AM - Sep 12, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Got it, thanks. Nice to know my memory hasn't completely deserted me at least. And it gives some more tweaking room in the Dwarflord's build, which is always nice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:27 PM - Sep 23, 2016",
+      "content": "<div>Thanks, Hip, that helps a lot.<br/>\n<br/>\n While I don't pretend to be a fan of kamas (although a weird part of me would love to see\u00a0 a Half-Orc Barbarian / Black Guard giving them a try), I was looking to come up with a Dexer <em>I</em> could play that wasn't Mick's Halfling Champion (no offence to Mick, it's a lovely build that I hold very dear), and thumping just wasn't cutting it (pardon the pun), so I thought, \"hit the bad dudes a lot - the 2s and 3s will add up if I'm hard to hard myself\". Hence kama.<br/>\n<br/>\n I've ummed and ahhed a lot about splits - pretty much everything from Rog 10 / Monk 12 / CoT 18 to Rog 14 / Monk 20 / CoT 6, and lots of places in between. I knew I wanted at least Monk 9 / Rog 10 for ED, but was fairly flexible about other things. As it stands, I think Monk 20 / Rog 10 / CoT 10 is a pretty solid choice. I'm after nippy, hard to hit, hard to spell - a real bloody nuisance. I'm thinking \"wasp\" might feature in its heading!<br/>\n<br/>\n However, I digress. Dual kamas it is, then.<br/>\n<br/>\n Oh, and I put the subject here, rather than in the Build Request forum, because I <em>do</em> want to have a go at it myself - my hide's a lot tougher than it used to be! Right, where's my pencil...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "11:52 PM - Sep 23, 2016",
+      "content": "<div>Seems a shame to go so far to be a stealth specialist without exploiting <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Crippling_strike\" rel=\"noreferrer\" target=\"_blank\">one of the most effective and annoying attacks vs. all STR builds</a> (if you are on the receiving end, that is).</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:55 AM - Sep 24, 2016",
+      "content": "<div>Oh bloody hell, Hip - I was struggling enough as it was!<br/>\n<br/>\n Alright, so that's 13 Rogue minimum - and don't you dare talk me out of 20 Monk, it's the one thing I'm comfortable with!<br/>\n<br/>\n ...okay, I've had a bit of a think, and I reckon a Monk 20 / Rogue 14 / CoT 6 is do-able, but I'll have to do some severe examination as to to when I take CoT levels.<br/>\n<br/>\n Apologies, but I think further discussion probably does belong in the Build Request forum - after all, I was only asking about hairy-feets taking up a couple of farm implements initially. This is much more interesting, however! (Do please bear with me, I'll be soaking my head before a first posting there.)<br/>\n<br/>\n Cheers</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

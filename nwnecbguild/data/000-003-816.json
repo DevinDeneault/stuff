@@ -4,29 +4,164 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "816",
-  "name": "Request - Arelith Builds",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-arelith-builds-t2355159.html",
-  "author": "Scylon",
+  "name": "Ironwall the unkillable... thing",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ironwall-the-unkillable-thing-t2354838.html",
+  "author": "Ralenus",
   "avatar": "no_avatar.png",
-  "replies": 2,
+  "replies": "23",
+  "views": "1.5K",
   "posts": [
     {
-      "author": "Scylon",
+      "author": "Ralenus",
       "avatar": "no_avatar.png",
-      "timestamp": "12:44 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi there,<br/>\n<br/>\nI have sniffed around the forums for level 30 builds and while there is a few I find myself hungry for more. It's an interesting server as far as mechanics go. Makes for a good read:\u00a0<a class=\"postlink\" href=\"http://wiki.arelith.com/Category:Classes\" rel=\"noreferrer\" target=\"_blank\">http://wiki.arelith.com/Category:Classes</a><br/>\n<br/>\nI'm currently running a pure Wizard but am looking for something more melee as my character spends most of his time behind his summons not even casting.\u00a0<br/>\n<br/>\nRules:\u00a0<br/>\n<br/>\n- Max Level 30<br/>\n- Any class taken must be a minimum of 3 consecutively (can take them any were after you get that minimum)<br/>\n- Cannot use Shifter, Assassin, Harper or RDD<br/>\n- No alignment shifts (there is a few special rules around alignment. EG Bards can be lawful)<br/>\n<br/>\nAlso there is a coupe of \"extra\" classes like the spellsword.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:02 PM - Apr 01, 2018",
+      "content": "<div>Hi guys, I'm new here and new to nwn.<br/>\n<br/>\nI was thinking about buying the enhanced edition and would like to get some advice for a character.<br/>\n<br/>\nWhat I am looking for is someone who just won't die in pvm. It's not about the damage he could do, he should just outlive the enemys. Just my feeling but anything like a dwarven fighter might do the trick but i am open to any race and any class without much magic. For example RDD seems ok, with the need of a little bit of bard or sorcerer but he is afaik not a caster himself. Correct me if I am wrong.<br/>\nHe should reach lvl 40 in the end.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:07 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Scylon, and welcome!<br/>\n<br/>\nIf you want a stand-out meleer for Arelith just cast your eyes over this little beauty from Mick Dagger: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arelith-brawler-champion-fighter-16-monk-4-divine--t2355008.html\" rel=\"noreferrer\" target=\"_blank\">Arelith Brawler</a><br/>\n<br/>\nOf course, if you want something weird (aka a caster) others will have to help...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:09 PM - Apr 01, 2018",
+      "content": "<div>Hi Ralenus, and welcome!<br/>\n<br/>\nMy temptation is to go with the Hearth Guard, which is a Fighter 8/ Champion of Torm 10/ Dwarven Defender 22. You can find him on the first page of the Full Epic sub-forum - Hip Maestro is billed as his creator, but it's actually an old build by Grizzled Dwarflord that Hip imported here. There's a link in the lead post to a reworking that I did to take into account patch 1.69, and I'd suggest you go for that. I've played him many times and have yet to have him go toes-up on me. The veritable immovable object.<br/>\n<br/>\nI'm sure others will have different suggestions for you.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Scylon",
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:30 AM - Apr 02, 2018",
+      "content": "<div>This build has lots of health, higher-than-usual AC, and damage reduction, but he also can deal a lot of damage. A version without Dev Crit can be made if that is not an option.<br/>\n<br/>\nThe weapon choice and skills are optimized for SoU, HotU, and Sands of Fate. They might need to be tweaked to fit where you will be playing.\n<details><summary>Spoiler</summary>\nDwarven Dragon Sword (Fighter 24 / Bard 6 / Red Dragon Disciple 10)\nPlayable 1 - 40\n\nSTR: 16 (36)\nCON: 16 (22)\nINT: 16 (18)\n\nDwarf: (Darkvision, Defensive Training vs. Giants, Stonecunning, Hardiness vs. Poison, Hardiness vs. Spells, Offensive Training vs. Goblinoids, Offensive Training vs. Orcs, Skill Affinity: Lore)\n02: Fighter(2): Power Attack\n04: Bard(1): STR+1, (STR=17)\n06: Red Dragon Disciple(1): Blind Fight\n08: Bard(2): STR+1, (STR=20)\n10: Red Dragon Disciple(4): (STR=22)\n12: Fighter(6): STR+1, Improved Critical: Longsword, Improved Knockdown, (STR=23)\n14: Fighter(7)\n16: Red Dragon Disciple(5): STR+1, (STR=24)\n18: Bard(4): Toughness\n20: Red Dragon Disciple(8): CON+1, (CON=19)\n22: Red Dragon Disciple(10): (STR=28), (CHA=8)\n24: Fighter(10): STR+1, Great Strength I, Overwhelming Critical: Longsword, (STR=30)\n26: Fighter(12): Devastating Critical: Longsword\n28: Bard(5): CON+1, (CON=21)\n30: Fighter(15): Great Constitution II, (CON=22)\n32: Fighter(17): STR+1, (STR=31)\n34: Fighter(19)\n36: Fighter(21): STR+1, Great Strength III, (STR=34)\n38: Bard(6)\n40: Fighter(24): STR+1, Armor Skin, (STR=36)\nStats:\nSkillpoints: 246\nSaving Throw bonuses: Spells: +6, Poison: +2\nAB (max, naked): 44 (melee), 29 (ranged)\nSpell Casting: \n\nDiscipline 43(56), Lore 43(55), Perform 13(12), Search 25(29), Spellcraft 16(20), Spot 25(24), Tumble 40(41), UMD 41(40)\n01: Discipline(4), Lore(4), Save(12)\n03: Discipline(1), Lore(1), Save(18)\n05: Discipline(1), Lore(1), Save(9)\n07: Discipline(1), Search(1), Spot(1), Save(2)\n09: Discipline(1), Search(2), Spot(2)\n11: Discipline(1), Save(4)\n13: Discipline(1), Perform(3), Tumble(5), UMD(5), Save(1)\n15: Discipline(1), Save(9)\n17: Discipline(1), Spot(1), Save(3)\n19: Search(3), Spot(2)\n21: Search(2), Spellcraft(2), Spot(1)\n23: Discipline(6)\n25: Discipline(1), Save(10)\n27: Discipline(1), Save(20)\n29: Discipline(1), Lore(5)\n31: Discipline(1), Lore(5)\n33: Discipline(1), Lore(5)\n35: Discipline(1), Save(10)\n37: Discipline(1), Save(20)\n39: Discipline(1), Lore(5)</details></div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:53 AM - Apr 02, 2018",
+      "content": "<div>Where do you intend to play Ralenus? <br/>\n<br/>\nIs it a persistent world (PW) or solo modules?<br/>\n<br/>\nIf you want to get something that is nearly indestructible then a pale-master warrior is your best bet, but in high-level modules or some very high-magic PW's there might be items that offer you the ability to be immune to critical hits so that powerful ability of pale-master warrior's is mitigated a lot (but not completely since the high armour class remains) by that. If however, you intend to play in medium-magic PW's or similar then a (fighter/bard/pale master) is really tough, followed closely by (fighter/bard/rdd) and dwarven defenders. Another choice that works better in high-ish magic environments is a dexterity-based character with epic dodge &amp; self-concealment, those are really hard to hit (in melee at least) and again spell-slingers a monk is a good idea.<br/>\n<br/>\nAs you see, there are many options, you just have to narrowed it down to the ones you prefer and then we can help you decide whats best for you.<br/>\n<br/>\nFor reference, here is a tough rdd for you in case you wanted an example.<br/>\n<br/>\n<span style=\"color:#CC0000\"><strong>Drago Mauler</strong></span> =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/draco-mauler-ftr-10-bard-4-rdd-26-t2352276.html#p612\" rel=\"noreferrer\" target=\"_blank\">draco-mauler-ftr-10-bard-4-rdd-26-t2352276.html#p612</a></div>"
+    },
+    {
+      "author": "Ralenus",
       "avatar": "no_avatar.png",
-      "timestamp": "2:43 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cheers. I made a mistake on the title by putting LG (was supposed to be LF (looking for)). Changed that to Request. I don't care too much about alignment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:59 AM - Apr 03, 2018",
+      "content": "<div>Since I haven't bought the game so far and I just want to prepar for it, I can't really say where I am going to play.<br/>\nAt least in the beginnig I would play the single player game, just to get used the the mechanics.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:15 PM - Apr 03, 2018",
+      "content": "<div>Ah, well in that case...the Original (Plague) Campaign will get you to level 17 or 18. If you get the official expansions (Shadows of Undrentide and Hordes of the Underdark), they're not a continuation of the OC and should be played with a new character from level 1. They'll get you to about level 28. If you want to take a character all the way to level 40 in modules (rather than Persistent Worlds), you might want to pay a trip to the Neverwinter Vault and grab the 3 parts of Mines of Twin Summit (which is ideal for taking you from the end of the OC comfortably up to level 40) and Sands of Fate (which will do likewise from the end of HotU). If you've been playing a Good-aligned Human, Elf or Half-Elf character in the OC, Aribeth's Redemption might appeal (which will get you from level 17/18 to about level 28). Alternatively, if you want your character to progress as far as possible within a single story, Aielund will take you from level 1 up to about level 36/37.<br/>\n<br/>\nSo, all in all this is me batting your request back to you until you've settled on how far you want your character to progress, lest we provide a toon that doesn't mature until its too late for you.<br/>\n<br/>\nHope this helps, and doesn't merely confuse!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "grom56",
+      "avatar": "10745842_1510287074.jpg",
+      "timestamp": "5:42 AM - Apr 08, 2018",
+      "content": "<div>It sure confused me Stag!\u00a0 Oh my aching head...\u00a0 I need a beer or five...\u00a0 Now I know why I play WoG...\u00a0 Mods sound to busy for me...\u00a0 \u00a0I have to play I have to play OC and HotU all the way through!\u00a0 Never been able to do that!\u00a0 \u00a0 I just started trying that UnderMount mod for the EE\u00a0 And still in the 2nd room!\u00a0 \u00a0LOL\u00a0\u00a0</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:46 AM - Apr 08, 2018",
+      "content": "<div><blockquote><div><cite>grom56 wrote:</cite>\nI have to play I have to play OC and HotU all the way through!\n</div></blockquote>\nNot with the same character, I hope. HotU is supposed to follow SoU, which starts at level 1, like the OC.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:31 PM - Apr 08, 2018",
+      "content": "<div>To be fair, you can follow the OC with HotU, though some of the plot-lines might jar a bit. When I started playing, I made the classic mistake of going OC, SoU, HotU, then wondered why SoU was so boring, starting at level 17. It's a considerably better game when played from the ground up!<br/>\n<br/>\nAnd sorry for the headaches, Grom - have a beer on Shaklone...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Ralenus",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:53 PM - May 26, 2019",
+      "content": "<div>So, after a year I try to ressurect this thread^^<br/>\n<br/>\nNow I want to try an online PW and I'd like to play in a medium to low magic setting. Thing is I don't really know which server I should pick, does anyone have a suggestion?<br/>\n<br/>\nAn additional note, I got the Enhanced Edition. I don't know if that is important but wanted to state it, just in case.</div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:37 PM - May 26, 2019",
+      "content": "<div>Valerfor mentioned World of Greyhawk. I play on that server and recommend it. I think some feel that it is a challenging server, especially for newer players. Don't be too concerned about dying, especially when new.</div>"
+    },
+    {
+      "author": "Ralenus",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:38 PM - May 26, 2019",
+      "content": "<div>Thanks a lot... Now I have to find a decent build^^<br/>\nSomething with Pale Master I think^^</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:13 AM - May 27, 2019",
+      "content": "<div><blockquote><div><cite>Ralenus wrote:</cite>\nThanks a lot... Now I have to find a decent build^^<br/>\nSomething with Pale Master I think^^\n</div></blockquote>\nUltra safe?<br/>\nLike nobody's business safe?<br/>\nSay no more, I have you covered <span class=\"text-emoji\">\ud83d\ude09</span><br/>\nThis Dwarf, can attain 80AC with no tricks 24/7 in just a +5 world, has a ton of immunities, resistances &amp; can deliver devastating cuts to his enemies.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://vignette.wikia.nocookie.net/icewind-dale/images/e/e9/Dwarf_Male_Fighter_Portrait_DMF_G.png/revision/latest?cb=20180522173904\"/><br/>\n<strong>The Warrior Eternal:</strong><br/>\nFTR 12/ BARD 4/ PM 24<br/>\n<br/>\nRACE: Dwarf<br/>\nALIGNMENT: True Neutral<br/>\nPLAYABILITY: PvM 1-40 lvl<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR \u2013 18 (<strong>30</strong>)<br/>\nDEX \u2013 10<br/>\nCON \u201316<br/>\nINT \u2013\u00a0 14<br/>\nWIS \u2013 08<br/>\nCHA \u2013 06<br/>\n<br/>\nImmunities: Stun, Hold, Paralysis, Sneak Attacks, Critical Hits<br/>\n<br/>\nResistance to Fire: 20/ \u2013 <br/>\n<br/>\nHit Points: 476<br/>\n<br/>\nSkill Points: 180<br/>\nDiscipline: 43 (53)<br/>\nSpellcraft: 43 (45)<br/>\nTumble: 40 (40)<br/>\nUMD: 42 (40) <br/>\nPerform: 12 (10)<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 28/ 20/ 20 \u2192 39/ 31/ 31 (Saves Vs Spells)<br/>\nNaked/ Armoured AC: 45 (Plate &amp; Shield) \u2192 46 AC (with Cat's Potion)<br/>\n<br/>\nBAB: 26 (Four attacks)<br/>\nAB: +40/ +35/ +30/ +25 (Bastard Sword)<br/>\nDMG: 1d10 +16/ 17-20 x2 (Bastard Sword)<br/>\n<br/>\nSpellcasting: UMD<br/>\nDevastating Critical DC: 40 (46)<br/>\nEpic Warding: Absorb 1200 Physical Damage, Lasts for 24 rounds<br/>\nEpic Mage Armour: +20 Total Armour Class, Lasts for 24 hours<br/>\n<br/>\nLEVELING GUIDE:<br/>\n01) Fighter(1): Weapon Proficiency Exotic, Weapon Focus: Bastard Sword<br/>\n02) Bard(1): <br/>\n03) Fighter(2): Power Attack, Cleave<br/>\n04) Fighter(3): <br/>\n05) Fighter(4): Weapon Specialization: Bastard Sword<br/>\n06) Fighter(5): Blind Fight<br/>\n07) Bard(2): <br/>\n08) Fighter(6): Knockdown<br/>\n09) Fighter(7): Improved Knockdown<br/>\n10) Fighter(8): Improved Critical: Bastard Sword<br/>\n11) Fighter(9) <br/>\n12) Fighter(10): Great Fortitude, Great Cleave<br/>\n13) Fighter(11) <br/>\n14) Bard(3): <br/>\n15) Pale Master(1): Lightning Reflexes<br/>\n16) Pale Master(2): <br/>\n17) Pale Master(3) <br/>\n18) Pale Master(4): Toughness<br/>\n19) Pale Master(5) <br/>\n20) Pale Master(6): <br/>\n21) Pale Master(7): Great Strength I<br/>\n22) Pale Master(8) <br/>\n23) Pale Master(9) <br/>\n24) Pale Master(10): Overwhelming Critical: Bastard Sword<br/>\n25) Pale Master(11) <br/>\n26) Pale Master(12) <br/>\n27) Pale Master(13): Devastating Critical: Bastard Sword, Epic Energy Resistance: Fire I*<br/>\n28) Pale Master(14): <br/>\n29) Pale Master(15) <br/>\n30) Fighter(12): Epic Weapon Focus: Bastard Sword, Epic Weapon Specialization: Bastard Sword<br/>\n31) Pale Master(16): Epic Spell: Epic Mage Armor<br/>\n32) Pale Master(17): <br/>\n33) Pale Master(18): Great Strength II<br/>\n34) Pale Master(19): Epic Spell: Epic Warding<br/>\n35) Pale Master(20) <br/>\n36) Pale Master(21): Epic Prowess<br/>\n37) Pale Master(22): Epic Energy Resistance: Fire II*<br/>\n38) Pale Master(23) <br/>\n39) Pale Master(24): Armor Skin<br/>\n40) Bard(4): <br/>\n<br/>\n*Fire resistance can switch to Acid depending on the equipment, point is to be able to tank (somewhat) the damage shields of Lich-Archmages.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:21 AM - May 27, 2019",
+      "content": "<div>If you find yourself wanting more Bardic skills throughout the build then switch to FTR 12/ BARD 6/ PM 22 &amp; space the extra two levels wherever you think it's appropriate. <br/>\nYou will lose 2AC &amp; 10 Fire resistance but you will have an easier way with your character. <br/>\nOne other option is to just leave the build as is but change the last Bard level to 37th, you lose almost nothing this way, except some discipline perhaps, but you should already be immune to knockdown anyway from your equipment (boots). <br/>\nGood luck!</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:47 AM - May 27, 2019",
+      "content": "<div>That's the picture I pretty much always use for my Icewind Dwarven tank - good to see him in cross-over!<br/>\n<br/>\nOh, and the build's alright too, I suppose. <span class=\"text-emoji\">\ud83d\ude09</span> Actually, I've just spent a few frustrating hours seeing how or if I could get DwD and PM into a build and you casually toss this fellow into the mix, rendering my project somewhat redundant. Lovely - another Sunday afternoon merely wasting paper and lead. I do really like him, though. <span class=\"text-emoji\">\ud83d\ude42</span><br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> But if you're going Exotic, what's wrong with a Dwarven Waraxe?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:48 AM - May 27, 2019",
+      "content": "<div>I did that on purpose so that you remain creative Stag <span class=\"text-emoji\">\ud83d\ude09</span><br/>\nGlad you liked it though.<br/>\n<br/>\n*Nothing, except the slightly worse critical range for Dev Crit &amp; the less frequent Dwarven Waraxes on WoG.</div>"
+    },
+    {
+      "author": "Ralenus",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:47 AM - May 27, 2019",
+      "content": "<div>May I kiss you?<br/>\n<br/>\nUhm I mean that looks amazing, thanks Valerfor</div>"
+    },
+    {
+      "author": "grom56",
+      "avatar": "10745842_1510287074.jpg",
+      "timestamp": "12:32 AM - Sep 18, 2019",
+      "content": "<div>Valerfor;\u00a0\u00a0 Something I keep meaning to ask all you builders:<br/>\nIn your skills, why is the ending skill levels sometimes lower then the starting skill points at times??\u00a0 I mean if your gonna lower the skill a few points, why put them there in the first place??</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:42 AM - Sep 18, 2019",
+      "content": "<div>Hm, not sure I understand what you wanted to say Grom, what is wrong with the skill levels?<br/>\n(I am assuming you meant these): <br/>\nSkill Points: 180<br/>\nDiscipline: 43 (53)<br/>\nSpellcraft: 43 (45)<br/>\nTumble: 40 (40)<br/>\nUMD: 42 (40) <br/>\nPerform: 12 (10)</div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:09 AM - Sep 18, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>Hm, not sure I understand what you wanted to say Grom, what is wrong with the skill levels?<br/>\n(I am assuming you meant these): <br/>\nSkill Points: 180<br/>\nDiscipline: 43 (53)<br/>\nSpellcraft: 43 (45)<br/>\nTumble: 40 (40)<br/>\nUMD: 42 (40) <br/>\nPerform: 12 (10)</div></blockquote>\nI'm assuming he means the UMD and Perform having a lower number in the brackets.<br/>\nAll of the skills are modified by ability scores, a positive modifier will add to the relevant skill (eg. Discipline, Spellcraft) and a negative one will subtract from it (eg. UMD, Perform)\u00a0</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:27 AM - Sep 18, 2019",
+      "content": "<div>Ah, I think I may know where Grom's coming from.<br/>\n<br/>\nThere are 2 things here (and please note, I didn't give my usual \"couple\" - I mean an actual 2)<br/>\n<br/>\n1. Skill points - the bracketed ones - reflect the result of those points you place in them (the non-bracketed ones). And each one is reliant for pluses and minuses on your atttributes/stats. Thus, Spellcraft relies upon your Intelligence score, Discipline your Stength, Tumble your Dexterity, and so on. So, for example, if you finish with a Strength score of 40, you'll get at least (other feats and equipment not included) 15 points added to your Discipline final score. The same applies downward - such that if you have a Dexterity of 8, you will get a minus 1 to your Tumble skill points, meaning if you invest 40 skill points in that skill, you'll end up with 39.<br/>\n<br/>\n2. However, some of the skills require a certain number of points invested to be effective, whereas others don't, and rely on post-modification numbers. For example, Tumble requires that you input 40 points in order to gain 8 AC, because it works on inputted points, even if you end up with 39. Spellcraft, however, relies on modified points, so - assuming a character with a stat of 8 in Intelligence, you'd need to input 41 points to get the 40 (modified) required to boost the saves against spells by that extra 1.<br/>\n<br/>\nHope that helps. Many of the skills work in multiples of five to bring a desired effect. Many others don't, and they're a right pain in the arse, but we can go into that further in the General Discussion forum, should you wish, Grom. We can also cover saving skill points and cross-classing them if you like, but I reckon that's probably enough for now.<br/>\n<br/>\nReading this back, I'm not surprised in the slightest that you choose to build on the hoof <span class=\"text-emoji\">\ud83d\ude42</span><br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:50 AM - Sep 18, 2019",
+      "content": "<div>Well explained Stag, I wish I was as eloquent as you !</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:53 AM - Sep 18, 2019",
+      "content": "<div>I'm a stag, not an elephant! Oh, hang on...<br/>\n<br/>\nSorry!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "grom56",
+      "avatar": "10745842_1510287074.jpg",
+      "timestamp": "12:07 PM - Sep 18, 2019",
+      "content": "<div>Ok, thanks guys....\u00a0\u00a0 I see where that's all coming from now.\u00a0\u00a0 I think I'm gonna go get something cold for my head....\u00a0 like a few beers.\u00a0 The mouth is part of the head after all....</div>"
     }
   ]
 }

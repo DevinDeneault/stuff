@@ -4,29 +4,118 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "005",
-  "name": "There is a new setting in the rules.2da to put a time limit on HiPS",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/there-is-a-new-setting-in-the-rules-2da-to-put-a-t-t2356317.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 2,
+  "name": "Can We Talk About Pale Masters?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/can-we-talk-about-pale-masters-t2356296.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": "15",
+  "views": "637",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:16 PM - Mar 07, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Heads up, folks!<br/>\n<br/>\nThere is now an official entry in the rules.2da that causes HiPS to have a cooldown when activated.\u00a0 One can set the cooldown time limit.<br/>\n<br/>\nSo just a heads up, who knows what Mod makers might implement.<br/>\n<br/>\nIt is now active on WoG.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:10 PM - Jan 16, 2025",
+      "content": "<div>Apart from the vaguely racist, slavey, name, I know next to nothing about this class. I read the wiki page, and could see the AC benefits (bear in mind my preference for melee-types), bards being able to take epic spells (though I'm unclear how that works in practice), and the increase in spell slot numbers, but it's this last one that brings me to my first question.<br/>\n<br/>\nWhat's the point in heavy investment in PM levels when you'll just have more crappy spells to cast? Surely\u00a0 you need to be able to cast some higher levels spells before more slots becomes advantageous?<br/>\n<br/>\nAlso, are their summons any use, or can a decent cleric/ pally/ arcanist/ and even ranger with a FE in undeads just blow 'em away, or even a simple grunt knock 'em into next week?<br/>\n<br/>\nOh, and are they INT or CHA casters, or does that depend on their \"mother\" class?<br/>\n<br/>\nLet's start with those three, though I imagine there will be more questions later. I've never played or built one (well, I did, but it was a kind of joke character from \"Kings of the Wyld\"), and we are sadly lacking in a Guide to the class here (which reminds me, I promised to draw up a CoT Guide about 150 years ago - someone prod me if it's still not forthcoming by March, eh?).<br/>\n<br/>\nInquiring minds need to know!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Ant_",
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:41 PM - Jan 16, 2025",
+      "content": "<div>PM is a PrC that is often used (10 levels) to impart immunity to Crits and SA.\u00a0 For most, that's where it ends.<br/>\n<br/>\nPM, however, is more, as it will also grant some pretty good AC bonuses as well.\u00a0 And, as you have mentioned, there is the 15 levels of PM that grant Epic Spell capability (re: selection).\u00a0 As to why, it's because of this \n<blockquote><div>all spellcasting classes capable of casting ninth level spells can learn how to cast them.</div></blockquote>\n\nPale Master requires a spellcaster that can cast 3rd level spells, so 3+1/2 of 15= 9th level spells, this is the reason, basically.<br/>\n<br/>\nIt is the only way for a Bard to get Epic Spells without going Sorc/Wizard etc, as they \"only\" get 6th level spells max.<br/>\n<br/>\nThe Pale Master is<strong> NOT </strong>implimented properly from the PnP source material, unfortunately.\u00a0 It is supposed to ALSO advance Caster Level (1/2 Pale Master levels), but for whatever reason, Bioware did not impliment this.\u00a0 Also, Pale Masters should allow for spell selection when their corresponding spellcasting Class gets them (something that Bioware also did not impliment).<br/>\n<br/>\nFor the most part, the best combination (besides the above mentioned Bard) is Wizard, because Wizards can get new spells from scrolls, allowing them use of higher spellslots through PM levels.\u00a0 Other Classes (Arcane only) can only do this through meta-magical means, which is subpaar.<br/>\n<br/>\nThe Deathless Master Touch should <strong>NOT</strong> be underestimated!\u00a0 It starts at\u00a0DC 17 fortitude save and the DC is raised by 1 for every 2 levels past 10th.\u00a0 It is a touch attack, and it totally slays anything that is not immune to death or has a low Fort save (like spellcasters).<br/>\n<br/>\nAs for the summons...well, the vanilla summons are super meh.\u00a0 I really do not know how a PM summons (like a Demilich) performs in an SP environment, and I am sure that in a low magic environment, they might actually perform somewhat, but for any other environment, they absolutely suck.\u00a0 Yes, I know that is a strong thing to say, but experience shows that this is true.\u00a0 Even on WoG, where they have been buffed, they still <strong>SUCK</strong>! <br/>\n<br/>\nYMMV<br/>\n<br/>\nP.S. We should have more of these types of deep dives into different Classes imo!\u00a0 Great stuff, Stag.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:00 PM - Jan 16, 2025",
+      "content": "<div>I agree with Web on this one!<br/>\nBoth the PM and RDD classes were introduced as prestige classes for spellcasters. However, they failed at that and their main use in power builds is for melee characters.<br/>\nPM offers a serious boost to AC and gets immunity to crits at level 10. It is a great way to defend against devastating critical.<br/>\nAt PM level 15 the character can start taking epic spells, no level 9 spell casting needed.<br/>\nPrimary saving throws are fortitude and will. That can be beneficial for some builds, but be careful and don't take too many levels pre epic with the 1/2 BAB progression of the PM class.<br/>\nFor casters, you get extra spell slots and access to new spell levels at half the normal rate.  Wizards can read up on spells and learn higher level spells that way. Sorcerers and bards can use the higher level slots for meta magic.<br/>\nThe <em>big problem</em> with PM casters is that the caster level does not scale with PM levels. There has been much talk about fixing this, but I do not know the current status.<br/>\n<br/>\nI have a build where I also use PM for it's class skills. It is a Wizard10/ PM2/ Assassin28, where I take the first PM level at character level 5 to benefit from the Hide and Move silently class skills of the PM class to qualify for Assassin at level 6. <br/>\nThe build has Int 16 and can learn level 6 spells with only 10 wizard levels because of the slots from PM.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "12:19 AM - Jan 17, 2025",
+      "content": "<div>A high Con WIZ FTR PM throwing up damage shields that uses a crossbow to create AOOs can be devastating - make it a gnome say in an Evards tentacles spell and watch the xp just fall into your lap <span class=\"text-emoji\">\ud83d\ude00</span></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:11 AM - Jan 17, 2025",
+      "content": "<div><blockquote><div><cite>BluntAxe wrote: <div class=\"responsive-hide\">12:19 AM - Jan 17</div></cite>A high Con WIZ FTR PM throwing up damage shields that uses a crossbow to create AOOs can be devastating - make it a gnome say in an Evards tentacles spell and watch the xp just fall into your lap <span class=\"text-emoji\">\ud83d\ude00</span></div></blockquote>\nWhat is the role of PM (and Fighter) in this build? Is PM there to protect against crits and sneaks? I would think that a high AC would be counterproductive with damage shields.<br/>\nA common wizard tactic is to cast the extended shields and enter iron golem shape. However, it won't be immune to Evard's black tentacles, and it won't use a ranged weapon to provoke AOOs.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:29 AM - Jan 17, 2025",
+      "content": "<div>Er, how about GDL's\u00a0<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">Mestil's Pale Emissary</a> , which is a W26/ PM10/ F4? Everyone seems to love it who's played it.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:51 AM - Jan 17, 2025",
+      "content": "<div>It was so successful, that it was nerfed hard on WoG (well, the build wasn't, but many m0bs got immunity to Acid, Fire) or at least acid and fire DR.</div>"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "5:59 PM - Jan 17, 2025",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">10:11 AM - Jan 17</div></cite><blockquote><div><cite>BluntAxe wrote: <div class=\"responsive-hide\">12:19 AM - Jan 17</div></cite>A high Con WIZ FTR PM throwing up damage shields that uses a crossbow to create AOOs can be devastating - make it a gnome say in an Evards tentacles spell and watch the xp just fall into your lap <span class=\"text-emoji\">\ud83d\ude00</span></div></blockquote>\nWhat is the role of PM (and Fighter) in this build? Is PM there to protect against crits and sneaks? I would think that a high AC would be counterproductive with damage shields.<br/>\nA common wizard tactic is to cast the extended shields and enter iron golem shape. However, it won't be immune to Evard's black tentacles, and it won't use a ranged weapon to provoke AOOs.</div></blockquote>\npretty much as you say low AC and high HPs plus shields - crit immune and sneak immune to limit damage</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:15 PM - Jan 17, 2025",
+      "content": "<div><blockquote><div><cite><a href=\"https://www.tapatalk.com/groups/nwnecbguild/memberlist.php?mode=viewprofile&amp;u=10404082&amp;sid=e6ebe122d402986ef9753721db44a526\">Stagmeister</a> wrote: <div class=\"responsive-hide\">11:29 AM - Jan 17</div></cite>Er, how about GDL's\u00a0<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">Mestil's Pale Emissary</a> , which is a W26/ PM10/ F4? Everyone seems to love it who's played it.</div></blockquote>\nI see that I commented on GDL's build more than 20 years ago... <span class=\"text-emoji\">\ud83d\ude35</span><br/>\nAnd he explained very thoroughly how the build works and what the contribution of the different classes are.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:13 PM - Jan 17, 2025",
+      "content": "<div>Aye, well I didn't want to mention that - time enjoys clipping us all around the ears, after all!<br/>\n<br/>\nThe Grizzled One did, of course, give us a variation of his MPE around 4 years ago: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/mestil-s-half-dead-juggernaut-wizard-26-pale-maste-t2355300.html\" rel=\"noreferrer\" target=\"_blank\">Mestil's Half-Dead Juggernaut</a>. Same class spread but with considerably higher CON (giving just under 1,000 hps) and lower INT.<br/>\n<br/>\nSee, I'm doing some background research as well as asking questions!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:45 AM - Jan 18, 2025",
+      "content": "<div>GDL has really shown us how PM can be a great part of a build, focusing on Damage shields, a high constitution and EDR. Fighter offers feats galore for EDR, and PM offers immunities, while you still have reasonably high Wizard levels with indispellability and a fair spell penetration. I really like the concept!<br/>\n<br/>\nOn the other hand, the PM class has had success as part of melee builds with a high AC, immunity to dev crit and sneak-/death attacks, and even offering epic spells. Most often these builds are based on bard to qualify for PM and also providing important class skills, such as tumble, discipline, listen, spellcraft and UMD. Then there are the songs!\u00a0<br/>\nFighter and Blackguard are popular classes to bring to the mix with full BAB and their weapon, armor and shield proficiencies.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "12:02 AM - Jan 19, 2025",
+      "content": "<div>I think that a 26 FTR 4 WIZ 10 PM dev crit strength build would work - make it a 2- handed devastating critter that's crit immune.<br/>\n<br/>\nAlso now that more classes can be added (if mods allow) a ftr/wiz/pm/wm could own in melee</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:03 PM - Jan 20, 2025",
+      "content": "<div>Okay, some of us learn by theory, some by practice, and some of us by demonstrating where our failings lie and asking for help. That latter would be me.<br/>\n<br/>\nSo, something Mick mentioned earlier about PM and RDD both being PRCs that benefited melee builds more than caster ones (by and large), so I thought \"why not sew the two together - and in a fairly extreme way\". So I have, and the results are below. Please note, I have not included this in the Build Request forum and that is because it's purely experimental in nature (unless, ofc, you like it, in which case I'll move it). I wanted it to be as purely melee-based as possible (given that it requires at least 3 levels of caster - well 5 in this case - and has 2 \"supernatural\" classes baked in), so no damage shields, acid sheaths, epic warding, etc. Just a sturdy fellow whose whole purpose is to block doors, bridges, vision, drains, and so forth. Admittedly, a DwD would be my normal go-to here, but I wanted to experiment.<br/>\n<br/>\nThus...<br/>\n<br/>\nBard 8/ RDD 22/ PM 10.<br/>\nDwarf [obviously], non-lawful, non-good<br/>\n<br/>\nStats<br/>\nSTR 16 (36)<br/>\nDEX 8<br/>\nCON 18 (22)<br/>\nWIS 8<br/>\nINT 12 (14)<br/>\nCHA 12 (14)<br/>\n<br/>\nHPs: 634<br/>\nAC: (naked) 31, (full plate) 39, (+ts) 42<br/>\nSaves: Fortitude 29, Will 25, Reflex 18. +11 v spells, +2 v poison, immune to Fire/ critical hits/ sneak attack/ paralysis/ stun/ hold/ sleep<br/>\nDR: 9/-<br/>\nSpells: Bard 4/ UMD<br/>\nSong: L8. +2 AB/ Damage, +1 saves/ skills, +8 THPs, 8 p/d 10 rounds each<br/>\nDragon Breath: 10d6, DC 22<br/>\nDeathless Master: Death touch attack, DC 17 v Fort<br/>\nBAB: 23 (3 APR)<br/>\nAB: (max, melee) 40, (ranged) 23<br/>\nSkills: 178. Discipline 43 (56), Perform 13 (15), Spellcraft 43 (45), Tumble 40 (39), UMD 33 (35). [I normally like a detect skill, but like I said, it's an experiment]<br/>\n<br/>\nLevelling<br/>\n1 B1: Heavy Armour Proficiency<br/>\n2 B2<br/>\n3 B3: Weapon Proficiency [Martial or Exotic]<br/>\n4 B4: STR+1 (17)<br/>\n5 B5<br/>\n6 RDD1: Weapon Focus [Battleaxe or Warhammer, Dwarven Waraxe or Bastard Sword]<br/>\n7 RDD2: {STR+2 (19)}<br/>\n8 RDD3: STR+1 (20)/ {2d10 Breath Weapon}<br/>\n9 RDD4: Knockdown/ {STR+2 (22)}<br/>\n10 RDD5<br/>\n11 RDD6<br/>\n12 RDD7: STR+1 (23)/ Blind Fight/ {CON+2 (20)}<br/>\n13 RDD8<br/>\n14 RDD9: {INT+2 (14)}<br/>\n15 RDD10: Improved Critical/ {CHA+2 (14)/ STR+4 (27)/ Immune to Fire, Paralysis, Sleep}<br/>\n16 PM1: STR+1 (28)<br/>\n17 B6<br/>\n18 PM2: Toughness/ {Animate Undead}<br/>\n19 PM3<br/>\n20 PM4: STR+1 (29)/ {Summon Undead}<br/>\n21 PM5: Epic Weapon Focus<br/>\n22 PM6<br/>\n23 PM7: (Immune to Stun/ Hold)<br/>\n24 PM8: CON+1 (21)/ Great Constitution I (22)<br/>\n25 PM9<br/>\n26 PM10: (Immune to Critical Hit/ Sneak Attack/ Deathless Master Touch)<br/>\n27 B7: EDR I<br/>\n28 RDD11: STR+1 (30)<br/>\n29 RDD12<br/>\n30 RDD13: EDR II<br/>\n31 RDD14: EDR III<br/>\n32 RDD15: STR+1 (31)<br/>\n33 RDD16: Great Strength I (32)<br/>\n34 RDD17<br/>\n35 RDD18: Epic Prowess<br/>\n36 RDD19: STR+1 (33)/ Great Strength II (34)<br/>\n37 B8<br/>\n38 RDD20<br/>\n39 RDD21: Great Strength III (35)<br/>\n40 RDD22: STR+1 (36)/ Armour Skin<br/>\n<br/>\nIt kinda works, but it just feels a bit \"wrong\". Please, rip it to bits!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:48 PM - Jan 20, 2025",
+      "content": "<div>I'd limit RDD to 10 levels, and then go PM - because PM 16 nets you Epic Spells, like Epic Mage Armor and Epic Warding.<br/>\n<br/>\nNot to mention that PM gives you more AC for your buck than RDD.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:39 PM - Jan 21, 2025",
+      "content": "<div>Valerfor has <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/andariel-maiden-of-anguish-bard-5-rdd-15-pm-20-t2350062.html\" rel=\"noreferrer\" target=\"_blank\">Andariel</a>.<br/>\nAnd if you search the 3 classes <a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">here</a>, you will find 22 Bard/PM/RDD builds with between 4 and 26 levels of bard, 4 and 26 levels of PM and between 4 and 24 levels of RDD. The most common combo though being Bard 14/ PM 16/ RDD10.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
-      "timestamp": "12:29 PM - Mar 08, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wasnt it on 6sec CD for quite a while now on WOG?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:19 PM - Mar 08, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it was done by TheKrit way back when.<br/>\n<br/>\nBut this is now a setting directly in the rules.2da that can be accessed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:27 AM - Mar 15, 2025",
+      "content": "<div>I was stuck in a hotel room with COVID-19 and my iPad while I quarantined, so I figured I would make a \"no-brainer\" build - one I didn't have to think about leveling.\u00a0 First 3 lvls Bard, 2 lvls PM, 10 lvls RDD and then the rest PM except for Bard Tumble dumps at 27 &amp; 37.\u00a0 Strength build with a spear.\u00a0 Only 3 APR, but decent AB, high AC, high HP, immune to almost everything and casts Epic Spells.\u00a0 I had no problems taking him to 40 as a tank in SOU/HOTU/SoF.<br/>\n<br/>\nHe's almost impossible to kill.</div>"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

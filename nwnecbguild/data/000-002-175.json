@@ -4,35 +4,67 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "175",
-  "name": "Build Question",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-question-t2355045.html",
-  "author": "Merc",
-  "avatar": "no_avatar.png",
-  "replies": 3,
+  "name": "Short-Term Godhood vs Reliable Hitting - The Problem with Pallies",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/short-term-godhood-vs-reliable-hitting-the-problem-t2355048.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": "7",
+  "views": "433",
   "posts": [
     {
-      "author": "Merc",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:27 PM - Mar 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Can Damage reduction be picked more than 10 times?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:31 PM - Mar 17, 2019",
+      "content": "<div>Hello all!<br/>\n<br/>\nIn my seemingly endless quest to come to grips with all the classes, this week it's the turn of the Paladin. And I'm having issues with it.<br/>\n<br/>\nThe most pressing of those is whether to focus on Charisma or Strength (or even Dexterity, but maybe that's for another time). It's one of those classes where min-maxing is nigh-on impossible - you need decent Cha in order to make use of many of the bonuses; decent Wis in order to use the spells; decent Int because you'll want at least <em>some </em>skills; and decent Str so you can hit stuff. So you're left with a dump in either Dex or Con, with everything else starting off around the not exactly inspiring 14 points. So the choice seems to be whether to excel in one - likely to be either Cha or Str - or to be mediocre in all.<br/>\n<br/>\nI can see the benefits of both, which is why I'm canvassing opinions from you good people. Let's assume a standard, medium-magic environment where you can't cap everything with gear: which would you prefer - a toon who could blow anything away a few times a day but was otherwise a bit meh, or one who could reliably batter things, albeit more slowly?<br/>\n<br/>\nI'm trying to work around it a little by incorporating CoT (and probably Rogue), but to go further down that road takes me closer to the Build Request sub-forum, and away from this more general enquiry.<br/>\n<br/>\nAnyway, all your opinions would be welcome, because I'm very torn atm.<br/>\n<br/>\nThanks</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Merc",
+      "author": "Mirnaia",
       "avatar": "no_avatar.png",
-      "timestamp": "11:40 PM - Mar 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh no I just read it can only be take 3 times doh<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:29 PM - Mar 17, 2019",
+      "content": "<div>A very non-comprehensive answer: just like monks, who also need a lot of attributes, paladins are weak early on, and neither can summon help. There is a reason why many builds take 1st level Expertise to even the odds.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:33 PM - Mar 17, 2019",
+      "content": "<div>Strength, constitution, wisdom and charisma are the most important. They should all have 14 or more.<br/>\nSpells will do a lot for you: Look at what they can do for your strength, charisma, AB, damage, saves and so on. <br/>\nYou definitely want the spells.<br/>\nAnd you want some charisma. Don't go over the top with it, unless you build a smiter. With a naked charisma of no more than 16, your capped charisma will be 28, enough for a +9 bonus for 9 rounds of DM and DS, and +9 to all saves. Nowadays I typically build my paladins with charisma 20 for a capped +11 bonus. Charisma is easy to cap. You have two stacking spells for it, so you don't need much in terms of item properties.<br/>\nYou are definitely right about strength being lower than in a focused strength build, but the way you can buff AB and damage with your spells compensates well for it, at least in a low- and mid magic mod.<br/>\n<br/>\nNow, if you feel you give up too much by starting with 14s and 15s, there is always the possibility to build with RDD and get a bonus to both strength and charisma. But that's not so different from what you do with Fighter/Bard/RDD builds.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:50 AM - Mar 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Perfectly true, Merc, you can only take the Epic Damage Reduction feat 3 times. However, if you go for a full 30 levels of Dwarven Defender you will automatically receive a further 7 Damage Reductions (1 each at levels 6, 10, 14, 18, 22, 26 and 30). So, technically, you can have 10 ranks of Damage Reduction, totalling DR of 30/-<br/>\n<br/>\nOh, and welcome to the Guild!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:51 PM - Mar 17, 2019",
+      "content": "<div>Thanks both!<br/>\n<br/>\nI suppose part of this query comes from my having recently completed a full Baldur's Gate 1+2 play-through as an Undead Hunter Pally, which is one of the most OP builds in town, so I was a little underwhelmed when looking at the NwN version. Then again, I suppose they were striving for some balance.<br/>\n<br/>\nI understand what you're saying, Mirnaia. It's about getting through those troublesome younger years to blossom later on. It's just that with Monks I've kind of got used to their foibles, while this is new for me.<br/>\n<br/>\nMIck, I confess that I did have a look at Tyr's various versions of Pally/RDD via Hip's filter, which is one reason I decided to leave that alone for now. (Apart from anything else, she cheats by going with Bard in a few of them.). The other reason was that I find if I'm going to actually understand the build I don't want \"artificial\" boosts to it - in a similar sort of way as when you prodded me to go full Sorcerer. Now, I'm not suggesting a full Pally build here, just looking for decent starting points.<br/>\n<br/>\nEqually, I don't think a full-on smiter is my kind of thing. At the moment I'm falling more into the \"would like to stay around for the full fight\" camp than the \"need to knock him out in the first round\" one. So all the stat stuff is very useful, thanks. It's interesting that you don't mention Intelligence, though. In an ideal world, I'd like full skills in Discipline, either Listen or Spot, Taunt, Tumble and UMD (why I was thinking Rogue for tertiary class - and Tumble being particularly important if I'm dumping Dex), with maybe Concentration or Spellcraft if there were any spares. However, I realize that ain't gonna happen, but the question is: by how much ain't that gonna happen? Pally only gets 2 skill points + Int modifier p/level (another reason for thinking about adding Rogue), so if I'm left with only 10 or 12 in Int, that's only 2 or 3 maxed skills - so what to drop? Discipline is a given keeper, so that doesn't leave a lot of leeway. <br/>\n<br/>\nI'm still feeling a bit \"Aargh!\"<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Merc",
-      "avatar": "no_avatar.png",
-      "timestamp": "3:12 AM - Mar 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Love this place.\u00a0 I'm almost embarrasses to say the character I tried to make was level 24 before I realized I had failed.\u00a0 Thanks Stag I was about to ask if they stacked.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:27 PM - Mar 17, 2019",
+      "content": "<div>Smiters, are very viable in modules. <br/>\nYou can do your smites &amp; then rest as often as you like, you can hit with the strength of a cannon with it, squatting bosses like flies.<br/>\nOf course, knowing you, you will opt for the more secure method first, slowly adapting to the more \"extreme\" ones later, but that's alright, the first step has begun...</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:55 PM - Mar 17, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nSmiters, are very viable in modules. <br/>\nYou can do your smites &amp; then rest as often as you like, you can hit with the strength of a cannon with it, squatting bosses like flies.<br/>\nOf course, knowing you, you will opt for the more secure method first, slowly adapting to the more \"extreme\" ones later, but that's alright, the first step has begun...\n</div></blockquote>\nWell, while that's true in the OC and expansions, there are rest restrictions in plenty of other modules - Aielund, certainly. That's kind of what triggered the query in the first place. Is it better to cry out, \"Feel my might!\" then go for a lie down after a couple of minutes, or to pitch in and deal with the whole thing?<br/>\n<br/>\nOn secure vs extreme, atm I'm fannying about between various constructions involving Pal/CoT/Rogue: with Pally between 15 and 26, CoT between 10 and 22, and 3 or 4 levels of Rogue. I'm not sure where these come on the scale. We'll get there, though!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "4:58 AM - Mar 18, 2019",
+      "content": "<div>Here's a build I made in 2015, but I never played it.\u00a0 It uses RDD to address the stretched-thin abilities. Bahamut is a powerful good-aligned dragon who is worshipped like a god, opposing the evil eqivalent, Tiamat (sp?).\n<details><summary>Spoiler</summary>\nPaladin of Bahamut (Paladin 26 / Sorcerer 4 / Red Dragon Disciple 10)\nPlayable 1 - 40\nAbilities:\nDEX: 8\nWIS: 14\nCHA: 14 (20)\nLeveling Guide:\n01: Paladin(1): Weapon Focus: Longsword, Luck of Heroes\n03: Paladin(3): Power Attack\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Blind Fight\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Divine Shield\n17: Paladin(17)\n19: Paladin(19)\n21: Sorcerer(1): Epic Weapon Focus: Longsword\n23: Sorcerer(3)\n25: Red Dragon Disciple(2): (STR=25)\n27: Red Dragon Disciple(4): Great Strength II, (STR=28)\n29: Red Dragon Disciple(6)\n31: Red Dragon Disciple(8)\n33: Red Dragon Disciple(10): Great Charisma I, {Darkvision}, (STR=34), (CHA=18)\n35: Paladin(22)\n37: Paladin(24)\n39: Paladin(26): Epic Reflexes, Epic Prowess\n\nHitpoints: 480\nSaving Throws (Fortitude/Will/Reflex): 35/24/25\nBAB: 30\nAC (naked/mundane armor/shield only): 19/30\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Lore(1), Save(1)\n04: Discipline(1), Lore(1), Save(1)\n06: Discipline(1), Save(2)\n08: Discipline(1), Save(4)\n10: Discipline(1), Save(6)\n12: Discipline(1), Save(8)\n14: Discipline(1), Save(10)\n16: Discipline(1), Save(14)\n18: Discipline(1), Save(18)\n20: Discipline(1), Save(22)\n22: Spellcraft(1), Tumble(1), Save(1)\n24: Discipline(4), Spellcraft(1), Save(1)\n26: Discipline(1), Spellcraft(1), Save(1)\n28: Discipline(1), Spellcraft(1), Save(1)\n30: Discipline(1), Spellcraft(1), Save(1)\n32: Discipline(1), Tumble(1)\n34: Discipline(1), Tumble(2)\n36: Discipline(1), Lore(1), Tumble(1)\n38: Discipline(1), Lore(3)\n40: Lore(1), Spellcraft(5)</details>\nI wonder now why I took four levels of Sorcerer, when one would have done the job and garnered me another Paladin bonus feat.\u00a0 Spellcraft skill dumps?\u00a0 Maybe, but Spellcraft is an RDD skill, too.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:13 PM - Mar 18, 2019",
+      "content": "<div>Thanks a lot Empyre, that's very helpful.<br/>\n<br/>\nMaybe there were a couple of reasons for 4 levels of Sorcerer. You need Sorc 1 before you can start on RDD, and if you wanted to max your Spellcraft you'd have to delay taking RDD or take Sorc 2 later, and if you did that then you may as well go for Sorc 4 because you can then access level 2 spells. Possible?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

@@ -4,143 +4,36 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "659",
-  "name": "An unexplored Bard build?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/an-unexplored-bard-build-t2355388.html",
-  "author": "SnorriHT",
-  "avatar": "no_avatar.png",
-  "replies": 21,
+  "name": "Two Handed Machine",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/two-handed-machine-t2355396.html",
+  "author": "dmcgrynch",
+  "avatar": "10758852_1517392315.jpg",
+  "replies": "3",
+  "views": "233",
   "posts": [
     {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:58 PM - Mar 08, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">G'day All,<br/>\n<br/>\nI was searching the ECB Guild Filter v2 and noticed there is no Bard/Fighter/CoT build?<br/>\n<br/>\nI thought something like a Bard 24 / Fighter 6 / CoT 10 would be an interesting choice because:<br/>\n<br/>\n1. Easy stat spread, can leave DEX and WIS low to pump CHA and STR;<br/>\n2. Fighter provides heavy armour and weapon focus, weapon specialisation at normal and epic levels;<br/>\n3. CoT providers extra feats allowing the easy allocation of Curse Song and Extra Music;<br/>\n4. CoT provides extra universal saves and synergises with a high CHA score for Divine Wrath, Smite Evil and Lay on Hands.<br/>\n<br/>\nAm I missing something here? Or do other combinations just do the above better?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "dmcgrynch",
+      "avatar": "10758852_1517392315.jpg",
+      "timestamp": "7:22 PM - Mar 13, 2020",
+      "content": "<div>Hey guys. I need some help with a build that i though but dont know how to make the best of it.  I play on a Server that has a subrace that allow you two hold two handed weapons in one hand and i was thinking to build a character this way but dont know how is the best way to build this. Can vou guys help me?</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "10:29 PM - Mar 08, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bard/Figh/CoT isn't a bad idea, it's just that other classes have better synergy with melee bards. CoT10 gives 5 feats, +5 universal saves (which counts towards the saves cap), and Divine Wrath (which is powerful but has a short duration). Smite Evil isn't really powerful enough to be a factor for this build. If you do make one then Bard26/Figh4/CoT10 is a better level layout than Bard24/Figh6/CoT10.<br/>\n<br/>\nThe four main classes melee bards take are BG, Figh, PM, and RDD. BG gives Divine Might, Divine Shield, and Dark Blessing (which doesn't count towards the saves cap), Figh gives more feats, PM gives the usual immunities, RDD gives both ability increases and several immunities.<br/>\n<br/>\nCompare a Bard26/Figh4/CoT10 to a Bard20/BG4/PM16, Bard24/Figh6/PM10, Bard24/Figh6/RDD10,\u00a0Bard26/BG4/PM10 or Bard26/BG4/RDD10. The Bard/Figh/CoT has more feats than any of the other builds, but it lacks immunities and divine feats that the other class combinatons have. Again, that doesn't mean that it's a bad idea, just that there are other builds that usually work better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:34 PM - Mar 13, 2020",
+      "content": "<div>We will need a lot more information to make a build that suits your needs. Most STR melee builds can be edited to take advantage of this subrace's ability so you will need to tell us more about what you're looking for.<br/>\n<br/>\nWhat is the maximum level on your server? 40 is the default for NWN but it might be different on your server.<br/>\nWill the build mainly be for PvM or PvP?<br/>\nWhat sort of magic level is available on the server? +5EB/+5AC items? Can you reach +12 to abilities via items?<br/>\nIs there a particular class that you want to play?<br/>\nDo you want a build that is optimised for the maximum level or do you want a build that is easier to play throughout the whole lifetime of the build?<br/>\n<br/>\nWhat stats does the subrace have?<br/>\nDoes it have a particular base race (eg half orc) or is it a separate race at character creation?<br/>\nDoes it have any ability increases/decreases or receive any extra feats?<br/>\n<br/>\nDoes two-handed refer to double-sided weapons as well (eg dire mace) or just normal two-handed weapons (eg greatsword)?<br/>\nCan you dual-wield two two-handed weapons at once (eg 2x greatswords) or just use a shield in the offhand (eg dire mace + shield or greatsword + shield)?<br/>\nDo these weapons still get the 1.5x STR modifier when wielded in one hand?</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:08 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think you could make quite a nice bard build from those classes.<br/>\nI like the bard 24 fighter 6 CoT 10 split. It allows WS pre epic and bard 12 fighter 5 CoT 3 to transfer a few bonus feats to epics<br/>\nHappy to cook something it's a promising concept and sounds fun with all the feats!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:57 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the insights :-)<br/>\n<br/>\nPlease see the spolier below for something I've thrown together for the City of Melnibone PW. There would be better feat choices for other environments. <br/>\n<br/>\nI've included extra smiting because I believe it is a source of divine damage (please confirm?) and thus would bypass physical damage reduction.<br/>\n<br/>\nA high listen and search is included because practically every zone has sneaky creatures and server side code that generates random traps.<br/>\n<details><summary>Spoiler</summary>Bard(24), Fighter(6), Champion of Torm(10), Human\nSTR: 15 (23)\nCON: 14\nINT: 14\n\u00a0\n01: Bard(1): Blind Fight, Point Blank Shot\n03: Bard(2): Power Attack\n05: Fighter(3)\n07: Fighter(4): Weapon Specialization: Scimitar\n09: Bard(5): Curse Song\n11: Champion of Torm(2): Improved Critical: Scimitar\n13: Bard(7)\n15: Bard(8): Still Spell\n17: Bard(10)\n19: Bard(11)\n21: Fighter(5): Epic Weapon Focus: Scimitar\n23: Bard(13)\n25: Champion of Torm(5)\n27: Champion of Torm(6): Great Strength I, Epic Prowess, (STR=18)\n29: Bard(17)\n31: Champion of Torm(7)\n33: Bard(20): Lasting Inspiration\n35: Bard(21)\n37: Champion of Torm(9)\n39: Champion of Torm(10): Great Charisma II, Epic Toughness I, (CHA=20)\n\u00a0\nSkillpoints: 269\nSaving Throw bonuses: Spells: +5\nAB (max, naked): 37 (melee), 28 (ranged)\nSpell Casting: Bard(6)\n\u00a0\n\u00a0\n01: Appraise(4), Heal(3), Listen(3), Lore(1), Perform(3), Search(2), Spellcraft(2), Tumble(4), UMD(4), \n03: Perform(3), Spellcraft(1), Tumble(1), UMD(1), Save(1), \n05: Discipline(1), Heal(1), Lore(1), Save(2), \n07: Discipline(2), Save(3), \n09: Discipline(2), Lore(1), Perform(1), Search(1), Tumble(1), \n11: Save(6), \n13: Listen(1), Perform(1), Spellcraft(2), Tumble(2), UMD(1), \n15: Appraise(1), Perform(2), Spellcraft(1), Tumble(1), UMD(2), \n17: Listen(2), Perform(1), Spellcraft(1), Tumble(1), UMD(2), \n19: Appraise(1), Perform(2), Search(1), Tumble(1), UMD(1), \n21: Discipline(3), Search(1), \n23: Appraise(1), Listen(1), Perform(3), Spellcraft(1), UMD(2), \n25: Discipline(3), Search(1), \n27: Discipline(2), Lore(1), Search(1), \n29: Appraise(1), Perform(1), Spellcraft(1), Tumble(3), UMD(1), \n31: Discipline(4), Lore(1), \n33: Listen(1), Perform(1), Search(1), Tumble(2), Save(1), \n35: Appraise(1), Perform(2), Spellcraft(2), Tumble(2), \n37: Discipline(3), Search(1), \n39: Appraise(1), Discipline(1), Heal(2), Save(1), \n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "3:05 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's been done plenty:<br/>\n<br/>\nBlade Chanter\u00a0bard 16 / fighter 14 / champion of Torm 10\u00a0(human?)\u00a0by ptlee00<br/>\nSling Blade (Fighting Bard-SONG Version)\u00a0bard 21 / fighter 4 / champion of Torm 15\u00a0(human)\u00a0by TyrTemplar<br/>\nOde to a Lily\u00a0bard 26 / fighter 4 / champion of Torm 10\u00a0(human?)\u00a0by I...Samphus<br/>\nThe Veteran Party-Leader V2\u00a0fighter 4 / bard 26 / champion of Torm 10\u00a0(human)\u00a0by Xylophone<br/>\nThe Veteran Party-Leader\u00a0fighter 6 / bard 24 / champion of Torm 10\u00a0(human?)\u00a0by Xylophone<br/>\nSwordmaiden of Torm\u00a0fighter 8 / bard 8 / champion of Torm 24\u00a0(human)\u00a0by Kaliban99<br/>\n<br/>\nI have a few myself, and one or two still running around on some PWs.\u00a0 They're very easy to level.\u00a0 I tend to take a 2-handed weapon, frontload pre-epic with lots of Bard, and then get Dev Crit, EWS and Lasting Inspiration by Level 30.\u00a0 Toss in ESF: Perform, Craft Wand and, if you can, Improved Disarm and IKD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "4:06 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi SnorriHT<br/>\n<br/>\nThis is what I would play, based on what you tell me about your environment (dev crit being disabled)<br/>\nYou can tweak it to whatever you would like<br/>\nI like my bards to be difficult to kill with the d6 hit die of the class.\u00a0It makes them one less liability to worry about in parties.<br/>\nHere this guy is only not a liability, he can tank implosions and death magic for the party\u00a0with 400+hp and a fort save of 37(44).<br/>\nI also put spot up nice and high. This is because I find spot more useful than listen, in general.<br/>\nListen is good for detecting enemies through walls and around corners, and helps with invisible enemies (although I find I have to stand next to them to detect them with listen). Unfortunately it gets worse with distance, which the value of detection is to detect them before they detect you.\u00a0<br/>\nSpot allows detection of enemies from a distance as long as they are in eyesight, and also prevents sneak attacks from stealth, which listen does not.<br/>\n<br/>\nYou will notice I put lingering song and lasting inspiration into the build, this is because it takes a while to get to lasting inspiration despite me rushing it<br/>\nImproved Disarm is an excellent feat for a bard with curse song (lowering your opponents AC and discipline) and high strength wielding a two handed. It is really fun to use and one can drop some saves feats for this.\u00a0<br/>\nIe drop strong soul and great fortitude for disarm/improved disarm.<br/>\n<br/>\nTaunt is also good, I think you wanted dual detect but you might have to make some compromises and take 43 points out of listen spot or spellcraft to get taunt as well, but I felt with a base AB of 41 + bard/curse song (effective +7AB/7AC) it could be overkill for your environment<br/>\n<details><summary>Spoiler</summary>Bard(24), Fighter(6), Champion of Torm(10), Human\nSTR: 16 (30)\nCON: 14\nINT: 14\n\n01: Bard(1): Strong Soul, Luck of Heroes\n03: Bard(2): Lingering Song\n05: Fighter(3)\n07: Fighter(4): Weapon Specialization\n09: Champion of Torm(1): Knockdown\n11: Bard(5)\n13: Bard(7)\n15: Champion of Torm(3): Great Fortitude, {Smite Evil}\n17: Bard(10)\n19: Bard(12)\n21: Bard(13): Epic Fortitude\n23: Bard(15)\n25: Bard(16)\n27: Champion of Torm(6): Great Strength I, Epic Weapon Focus, (STR=23)\n29: Bard(19)\n31: Fighter(5)\n33: Bard(21): Great Strength II, (STR=26)\n35: Champion of Torm(8): Armor Skin\n37: Bard(23): Epic Skill Focus: Perform\n39: Champion of Torm(10): Great Strength IV, Epic Prowess, (STR=29)\n\nSkillpoints: 269\nSaving Throw bonuses: Spells: +9, Death: +1\nAB (max, naked): 41 (melee), 27 (ranged)\nSpell Casting: Bard(6)\n</details>\n<strong>Edit:</strong>\u00a0<br/>\nSorry I forgot still spell, but you can easily fit that in there too, just a product of too much WoG.\u00a0<br/>\nI also don't know enough about smiting to comment, but with only 10 levels of champion of torm I don't believe you should invest in that<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "5:48 PM - Mar 14, 2020",
+      "content": "<div>I've tried dual-wielding 2h weapons before and the game engine doesn't really allow it. So unless the server has overrides I think you'll be stuck with a 2h weapon + a shield/smaller weapon. You can modify 2das to get a 2h equipped in both slots but the animations are janky. <br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "6:32 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Smite Evil/Good adds physical damage, not divine damage. Divine Might and Divine Wrath both give unblockable divine damage that bypasses both DI and DR. With CoT10 you get +10 physical damage from Smite Evil and +5 unblockable divine damage from Divine Wrath.<br/>\n<br/>\nOn your build\u00a0Orion2019 you go for a Bard12/Figh4/CoT4 pre-epic spread, which I think is best, but finish at Bard24/Figh6/CoT10 rather than Bard26/Figh4/CoT10. You can take EWS on a CoT level so you can switch to Bard26/Figh4/CoT10 for an improved Bard Song. Both builds have the same number of feats but Bard26/Figh4/CoT10 has a better Bard Song, although it requires rearranging your feat progression and it will need Perform boosting items to unlock a level 25 Bard Song.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "6:48 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"19589\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19589&amp;sid=9ef894294725aa12d1a18ba796e3a139#p19589\">\u2191</a><div class=\"responsive-hide\">Mar 09, 2020</div></cite>Smite Evil/Good adds physical damage, not divine damage. Divine Might and Divine Wrath both give unblockable divine damage that bypasses both DI and DR. With CoT10 you get +10 physical damage from Smite Evil and +5 unblockable divine damage from Divine Wrath.<br/>\n<br/>\nOn your build\u00a0Orion2019 you go for a Bard12/Figh4/CoT4 pre-epic spread, which I think is best, but finish at Bard24/Figh6/CoT10 rather than Bard26/Figh4/CoT10. You can take EWS on a CoT level so you can switch to Bard26/Figh4/CoT10 for an improved Bard Song. Both builds have the same number of feats but Bard26/Figh4/CoT10 has a better Bard Song, although it requires rearranging your feat progression and it will need Perform boosting items to unlock a level 25 Bard Song.</div></blockquote>\nGood variant Yunim<br/>\nI knew about the CoT EWS thing I tried to put all the good combat epic feats as bonus feats but overall your suggestion I think is better<br/>\nSnorriHT would only need +16 perform to get the Lvl 25 bard song from 59 -&gt; 75 perform<br/>\n\u00a0the Bard bonus epic feat could be Epic Skill Focus: Spot, Epic Will or Epic Skill Focus: Discipline<br/>\nSeems like a fair trade off for epic prowess or armor skin<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:29 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Grizzled, I'll follow up those other builds. I use the ECB Guild Filter V2, so I'm assuming it just shows the Creme de la Creme?<br/>\n<br/>\nThanks Orion, I appreciate the example build, very helpful indeed :-)<br/>\n<br/>\nFrom my original build I've removed extra smiting and changed to a strength build. Spot has been boosted to 26 and Listen reduced to 19.<br/>\n<br/>\nLingering Song has been added and both Lingering Song and Curse Song have been moved down feat list so the character will get to use them earlier. <br/>\n<br/>\nSkill Focus: Perform and Epic Skill Focus: perform have also been added. I'll tweak the build a bit more any may present it here, but only if it offers something different from the other Bard/Ftr/CoT builds.<br/>\n<br/>\n<br/>\nThank you everyone for contributing.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "8:16 AM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>SnorriHT wrote: <a data-post-id=\"19593\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19593&amp;sid=9ef894294725aa12d1a18ba796e3a139#p19593\">\u2191</a><div class=\"responsive-hide\">Mar 09, 2020</div></cite>Thanks Grizzled, I'll follow up those other builds. I use the ECB Guild Filter V2, so I'm assuming it just shows the Creme de la Creme?</div></blockquote>\nECB Guild Filter Search by DPA should be 2011 - mid 2019 if I am not mistaken<br/>\n<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/ecb-guild-build-archive-v2\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... archive-v2</a><br/>\n<br/>\nThere is also the ECB Archives which is 2002-2010, it has about 2000+ builds<br/>\nHere is one link:<br/>\n<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... index.html</a><br/>\n<br/>\nKamiryn has helped me with a solution to combine both databases together for a combined search.<br/>\nRight now I just need the time and motivation to put it together in excel<br/>\nAnd someone with javascript knowledge to help with the search engine make sure all the components work properly<br/>\nDPA unfortunately can't help due to RL<br/>\n<br/>\nI like you want to explore new ground and trying to add to what has already been done! Curious to find out what you come up with<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:23 PM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the kind words and the links Orion :-)<br/>\n<br/>\nI'm still deciding whether I need to invest in concentration. Only playing it on the PW will show whether out of combat casting is a reliable option. If not, I am hopeful that the character is tanky enough to deal with buffs being dispelled, or can disengage and safely rebuff. <br/>\n<br/>\nI know the PW does allow spell casting with expertise / improved expertise, so one solution is to use those feats to cast in combat instead of investing in concentration. Have you you ever used improved expertise for spellcasting?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:03 PM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If an environment is allowing Improved Expertise while spellcasting, it's like a \"get out of danger free\" card for spellcasters.<br/>\n<br/>\n+10 AC with no drawbacks?\u00a0 That's OP.<br/>\n<br/>\nIf your environment is allowing this, by all means invest in it!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:26 PM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Webshaman, I will do that<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:00 PM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Agree with Web on the Expertise / Improved Expertise and spellcasters<br/>\nAlthough Bards I kind of view like spellswords rather than casters, in contrast definitely on a sorc build its a must have if it is allowed<br/>\nConcentration tends to be optional in bard builds I have designed<br/>\nIn this case with high strength and AB and HP you could drop it and just avoid casting in the middle of melee<br/>\nThe alternative is to skill it up if enemies use taunt against you, as it could be helpful for taunt resistance<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:19 PM - Mar 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, if one has both, one can switch up between the two and none, as one wishes.<br/>\n<br/>\nIt's one of the unique forms of combat modes that allows this - one can select none, +5 AC or +10 (assuming one has taken both feats).<br/>\n<br/>\nSo it is pretty flexible.\u00a0 Imagine one can taunt a foe, hit the expertise for the +5 AC and still have a positive AB as a Bard.\u00a0 Hit that Song, Curse, and then Taunt, and then go Impr. Expertise.\u00a0 It's like wooohoooo! Next level stuff!<br/>\n<br/>\nNote that it will not work with ranged weapons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "O0ophrostbyteo0o",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:36 AM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"http://www.mwmdragon.com/worldofamon/builds/data/build117691.html\" rel=\"noreferrer\" target=\"_blank\">http://www.mwmdragon.com/worldofamon/bu ... 17691.html</a><br/>\n<br/>\nTry this. I\u2019m him, if you look up the Dwarven wall on this sub forum you\u2019ll know who I am. I just got this game on pc, and I\u2019m old school. Y\u2019all playing on a world?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:53 AM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Greets, O0ophrostbyteo0o!<br/>\n<br/>\nYes, we play on World of Greyhawk.\u00a0 This is the forum for that PW.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:08 AM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One day when I grow up I may play on WoG ;-)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:10 AM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would suggest taking the plunge - it is worth it!<br/>\n<br/>\nWoG really has some great play in it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:43 PM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"19664\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19664&amp;sid=97e861ead451e783e16ac94f04931d75#p19664\">\u2191</a><div class=\"responsive-hide\">Mar 11, 2020</div></cite>World of Greyhawk.\u00a0 This is the forum for that PW.</div></blockquote>\n<strong>This is the NWN Epic Character Builder's guild!\u00a0</strong><br/>\n<br/>\nFYI: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/index.php\" rel=\"noreferrer\" target=\"_blank\">WoG</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "3:32 PM - Mar 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oops, got my forums mixed up!<br/>\n<br/>\nMy bad!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:14 AM - Mar 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will join the WoG NWN:EE server :-)<br/>\n<br/>\nGive me some time to finish the Aielund campaign first with my mates, as I don't like mixing hakpaks.<br/>\n<br/>\nIs the WoG NWN:EE server West or East Coast USA?<br/>\n<br/>\nAlso I'm sure one of my mates may join as well, as he is loves Greyhawk; so much so I gave him my old Greyhawk Wars board game as a birthday present:\u00a0<a class=\"postlink\" href=\"https://boardgamegeek.com/boardgame/2307/greyhawk-wars\" rel=\"noreferrer\" target=\"_blank\">https://boardgamegeek.com/boardgame/2307/greyhawk-wars</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:24 AM - Mar 15, 2020",
+      "content": "<div>If that's the case for\u00a0dmcgrynch's server then you can pick almost any STR melee build on the ECB that is built to use a one-handed weapon + shield and edit it to use a two-handed weapon + shield.</div>"
     }
   ]
 }

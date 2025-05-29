@@ -4,65 +4,141 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "035",
-  "name": "Time Stop - how many spells?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/time-stop-how-many-spells-t2356136.html",
-  "author": "Gath",
+  "name": "Silence + quicken is it a bad idea?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/silence-quicken-is-it-a-bad-idea-t2356127.html",
+  "author": "Arkanis Gath",
   "avatar": "10759592_1664210509.jpg",
-  "replies": 8,
+  "replies": "20",
+  "views": "1.2K",
   "posts": [
     {
       "author": "Arkanis Gath",
       "avatar": "10759592_1664210509.jpg",
-      "timestamp": "1:56 AM - Aug 23, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectTimeStop#:~:text=Use%20Time%20Stop,more%20with%20Quicken\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... %20Quicken</a>).<br/>\n<br/>\nHow many spells can you cast during time stop? The link says you can cast more than 3 with AutoQuiken if iunderstand correctly.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Arkanis Gath",
-      "avatar": "10759592_1664210509.jpg",
-      "timestamp": "2:19 AM - Aug 23, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Arkanis Gath wrote: <a data-post-id=\"28408\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28408&amp;sid=e940e641427c32240b5e7813b1b66c4e#p28408\">\u2191</a><div class=\"responsive-hide\">Aug 23, 2023</div></cite><a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectTimeStop#:~:text=Use%20Time%20Stop,more%20with%20Quicken\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... %20Quicken</a>).<br/>\n<br/>\nHow many spells can you cast during time stop? The link says you can cast more than 3 with AutoQuiken if iunderstand correctly.\u00a0</div></blockquote>\n<strong><span style=\"color:#ff0000\">Just tested in Nwn diamond. It seems that you can cast only 3 spells in time stop if hasted, autoquicken, or both. Looks like the link is wrong.</span></strong><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:24 PM - Aug 01, 2023",
+      "content": "<div>As the title implies, I wonder if that's a good idea.<br/>\nQuickened spells occupy\u00a0spell slots\u00a0four levels higher than normal. Consequentially Silence can be casted as 6th lvl spell, bypassing completely every globe.<br/>\nNow immagine it with autosilence.\u00a0<br/>\nIs there any build out there that i missed?<br/>\nThanks for the attention</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:28 AM - Aug 23, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>There is no way to allow a creature to be excluded from the timestop effect, which is why maybe Bioware limited the effect to a mere 9 seconds duration (which with haste is still time for <strong>3 spell casts</strong>).</div></blockquote>\n\nThe link is accurate.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:58 PM - Aug 01, 2023",
+      "content": "<div>I'm pretty sure that NWN doesn't count Quickened Silence as a 6th level spell - though it should \n<blockquote><div>Spells modified by a metamagic feat use a spell slot higher than normal. This does not change the level of the spell, so the difficulty class for saving throws against it does not go up.<br/>\n<br/>\n<strong>Effects of metamagic feats on a spell:</strong> In all ways, a metamagic spell operates at its original spell level, even though it is prepared and cast as a higher-level spell. Saving throw modifications are not changed unless stated otherwise in the feat description. </div></blockquote>\n- <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Metamagic\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Metamagic</a><br/>\n<br/>\nProbably an Engine limitation.</div>"
     },
     {
-      "author": "Arkanis Gath",
-      "avatar": "10759592_1664210509.jpg",
-      "timestamp": "12:35 AM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28410\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28410&amp;sid=e940e641427c32240b5e7813b1b66c4e#p28410\">\u2191</a><div class=\"responsive-hide\">Aug 23, 2023</div></cite><blockquote><div>There is no way to allow a creature to be excluded from the timestop effect, which is why maybe Bioware limited the effect to a mere 9 seconds duration (which with haste is still time for <strong>3 spell casts</strong>).</div></blockquote>\n\nThe link is accurate.</div></blockquote>\nhow so? Can you explain? i didn't get it.\u00a0<br/>\nI'm referring to the part where it says: \"(under a Haste effect it allows 3 normal spells to be cast, potentially more with Quicken)\".<br/>\nfrom my tests it seems impossible to cast more than 3 spells.<br/>\nAm i missing something?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Arkanis Gath",
-      "avatar": "10759592_1664210509.jpg",
-      "timestamp": "12:45 AM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Aaand probably it's the wrong section :( sorry. Can someone move it to the right section? Again, sorry.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "BluntAxe",
+      "avatar": "10759579_1725807854.jpg",
+      "timestamp": "5:47 PM - Aug 01, 2023",
+      "content": "<div>^ what he said!<br/>\nUnless your server/module has removed all haste items and spells the quicken and autoquicken feats are pretty useless.\u00a0<br/>\n<br/>\nThey aren't even useful for sorcerer spell management</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:04 AM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>potentially more with Quicken</div></blockquote>\n\nAs Quicken and Haste do not stack, there is no \"potentially more\" possible than 3.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:21 PM - Aug 01, 2023",
+      "content": "<div>They do have one important use (though that is mostly for PvP and Dev side only) - and that is to make it almost impossible to Counterspell one's spells.<br/>\n<br/>\nAnd believe me, if the Devs of a Mod or PW have NOT done any work to prevent/counter Player Counterspelling, then ANY and all spellcasting Bosses will get absolutely wrecked by a Sorc (or specially prepared other spellcaster) in Counterspell mode.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:57 PM - Aug 01, 2023",
+      "content": "<div>Case in point - I used to Counterspell a particular baddie all the time on WoG...until DM Wise \"fixed\" it...</div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "11:55 AM - Aug 02, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Aug 01, 2023</div></cite>Case in point - I used to Counterspell a particular baddie all the time on WoG...until DM Wise \"fixed\" it...</div></blockquote>\nDon't think I have ever used Counterspell.\u00a0 \u00a0</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:34 PM - Aug 02, 2023",
+      "content": "<div>Well, it's not worth trying on WoG, anymore.<br/>\n<br/>\nBut it used to be an \"I win\" sort of deal.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "2:48 PM - Aug 02, 2023",
+      "content": "<div>I think I tried it once in the original campaigns but never tried it again after that...</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "4:15 PM - Sep 02, 2023",
+      "content": "<div>- What's the counterspell for maximized I'sGMS casted after hasted Mord with a high level caster, with some Time stop between the missiles ?<br/>\n.<br/>\n.<br/>\n.<br/>\n.<br/>\n- Resurrection.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:44 PM - Sep 02, 2023",
+      "content": "<div>Wrong.<br/>\n<br/>\nYou just click on Counterspell (radial, or, like me, use a programmable key) while being perma-hasted (cannot be Morded off).\u00a0 And all the IGMSs will be Counterspelled, as will the Mords...so will the Timestop.\u00a0 Just make sure you have enough Dispels (sorc is great for this).<br/>\n<br/>\nThe only thing that puts a damper on this is if the opponent is auto-quickened and perma-hasted, because to Counterspell it, one also has to be auto-quickened and perma-hasted. (note that one doesn't absolutely need to be perma- just hasted).</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "5:57 PM - Sep 02, 2023",
+      "content": "<div>Oh yes that IS beautiful. I wasn't aware of that yet. Thank you for the knowledge !<br/>\n<br/>\nAnd how to counterspell a \"Dragon sitting on a wizard\" spell ? <span class=\"text-emoji\">\ud83d\ude02</span></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:59 PM - Sep 02, 2023",
+      "content": "<div>*blinks*<br/>\n<br/>\nI think auto-quickened (Hasted) Greater Sanctuary is the counterspell...</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:59 PM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@Arkanis Gath</em> : No, no, this is in the right section, don't worry.<br/>\n<br/>\nAnd, as Webby says, Quicken and Haste don't stack, which is one reason why you'll find few builds with Quicken Spell as a feat in an environment where perma-haste items can relatively easily be found or purchased. (Get me, showing a little arcane knowledge - time to quit the meds)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Arkanis Gath",
-      "avatar": "10759592_1664210509.jpg",
-      "timestamp": "2:45 PM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm getting to the bottom of the matter here.<br/>\ni was confused by the link i posted, but i didn't read the most important thing:\u00a0the version of the game.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://nwnlexicon.com/index.php?title=EffectHaste#:~:text=Version-,1.62,-Example\" rel=\"noreferrer\" target=\"_blank\">https://nwnlexicon.com/index.php?title= ... 2,-Example</a><br/>\n<br/>\nProbably, but i can't test it, in version 1.62 and earlier it was possible to cast more than 3 spells per time stop (does anyone remember this by any chance?)<br/>\nI'm trying to solve a mystery here<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:42 PM - Sep 02, 2023",
+      "content": "<div>Or you could just keep your brittle wee stick of a wizard a sane distance from fat-arse dragons, maybe?<br/>\n<br/>\nAfter all - giving it some Jungle Book - \"That's what <span style=\"text-decoration:line-through\">friends</span> tanks are for.\"</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:05 PM - Aug 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My memory of the days of yore got erased along with the Bioware NWN forums...<br/>\n<br/>\nWhat a '*?`!\u00a7$%&amp;$ blow to the NWN Community that day was.<br/>\n<br/>\nIt's the day Bioware died, both literally and figuratively.<br/>\n<br/>\nThen EA bought them up, and they turned into instant trash.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:44 PM - Sep 02, 2023",
+      "content": "<div>UNLESS<br/>\n<br/>\nThat fat-arsed dragon has Monk levels and perma-haste...ouch! &gt;.&lt;<br/>\n<br/>\nHasted (Auto-Quicken) GS to the rescue!<br/>\n<br/>\nOf course, if we are playing with Contingency spells...hehe.\u00a0 Teleport, DD, etc come to mind...but I disgress.\u00a0 However, the PRC does have all this...and more!</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "6:48 PM - Sep 02, 2023",
+      "content": "<div>Dragon breath + dragon fart is able to reach a wizard even at a safe distance... if the dragon is autosilent, we're all dead.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:49 PM - Sep 02, 2023",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Sep 02, 2023</div></cite>UNLESS<br/>\n<br/>\nThat fat-arsed dragon has Monk levels and perma-haste...ouch! &gt;.&lt;<br/>\n<br/>\nHasted (Auto-Quicken) GS to the rescue!<br/>\n<br/>\nOf course, if we are playing with Contingency spells...hehe.\u00a0 Teleport, DD, etc come to mind...but I disgress.\u00a0 However, the PRC does have all this...and more!</div></blockquote>\nAh, Contingency...an absolutely priceless spell in BG (both baby and big brother). Shite in NwN. Mind you, the one I still miss most from BG and IWD is Chromatic Orb (I'm not saying it's the only thing that keeps me away from playing casters, but...)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:53 PM - Sep 02, 2023",
+      "content": "<div><blockquote><div>Shite in NwN</div></blockquote>\n\nYeah, more like non-existant in vanilla.<br/>\n<br/>\nThe PRC, on the other hand, has done the spell brilliantly.<br/>\n<blockquote><div>Dragon breath + dragon fart</div></blockquote>\n\nI...I am afraid to ask.\u00a0\u00a0<br/>\n<br/>\nHowever, as DB takes up a whole round...the hasted (auto-Quicken) GS goes before it does.\u00a0 Noice!</div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "12:59 PM - Sep 11, 2023",
+      "content": "<div><blockquote><div><cite>Pan Draconis wrote: <div class=\"responsive-hide\">Sep 02, 2023</div></cite>Dragon breath + dragon fart is able to reach a wizard even at a safe distance... if the dragon is autosilent, we're all dead.</div></blockquote>\nAutosilent but deadly....<br/>\n<br/>\nhope that dragon hadnt had any of Grom's chili....</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:18 PM - Sep 11, 2023",
+      "content": "<div>Grom's chili - killing gobbos since 1867.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:03 PM - Sep 11, 2023",
+      "content": "<div>Don't know what on oerth you're both on about - clears dwarven sinuses (among other places) instantly. Get yourselves some decent constitution!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "5:00 PM - Sep 11, 2023",
+      "content": "<div>I have a couple casters that have enough Con to handle the chili aromatics...\u00a0 \u00a0even have one with EDR3..\u00a0 she don't even mind the heated wind that chili causes...<br/>\n<br/>\ncleaning the drawers after gets bit expensive...\u00a0 \u00a0even them Jello cubes that wander in Undermountain cant get the stains out...</div>"
     }
   ]
 }

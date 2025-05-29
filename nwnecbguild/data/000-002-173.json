@@ -4,47 +4,138 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "173",
-  "name": "Epic Skill Focus: Discipline, Underrated Feat?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-skill-focus-discipline-underrated-feat-t2355080.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 5,
+  "name": "Damage Reduction Questions...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-reduction-questions-t2355036.html",
+  "author": "blksabbath74",
+  "avatar": "no_avatar.png",
+  "replies": "19",
+  "views": "1.1K",
   "posts": [
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "7:19 PM - Jun 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all ECBers!<br/>\n<br/>\n\u00a0I've googled it, and searched this forum, and just curious that this particular feat doesn't draw a lot of love, for any build that skills Discipline.\u00a0\u00a0Builds that I have found that use this feat (I am sure there are more if I search harder) are\u00a0Mick Dagger's Exalted Sorceress Minor Lvl 30 cap and Valefor's The Halberdier\u00a0<br/>\n<br/>\nTo me it seems +10 to Discipline is like a 50% reduction in the enemy's ability to knock you down or disarm you, unless there is a huge discrepancy (like 15+) in your opponents attack score and your discipline score (which could range between 41 in a Gnome with 6 Str, to 58 in a RDD build with 40 strength).\u00a0<br/>\n<br/>\nOr you have a huge AC like 80-90 AC and they can't hit you to begin with.<br/>\n<br/>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:39 AM - Feb 20, 2019",
+      "content": "<div>Epic Damage Reduction stacks separately with Monk's Perfect Self and with Barbarian/Dwarfen Defender Damage Reduction.<br/>\n<br/>\nTherefore, if you had a Monk 20/DwD 18/Rogue 2, with EDR3, how would that work?<br/>\n<br/>\nPresumably you would have;<br/>\n<br/>\n-Perfect self DR of 29/+1 (20+9)<br/>\n-Dwarven Defender DR of 21/- (12+9)<br/>\n<br/>\nWould one cancel the other out, or would both be applied to mundane physical damage?</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:24 PM - Jun 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There has been much debate over this, especially if you go back to the old forums. <br/>\nA strength build with a strength of 30 has a +10 modifier. A dexterity build would need the ESF feat to get approximately the same modifier. The same goes for any build based on other abilities.<br/>\nSince the Attack roll against you is the DC, you must compare your skill with your AC and see if the skill is worth taking at all. In high magic environments, the different sources of AC (Deflection, Natural...etc) add far more to AC than what is possible to add to AB, and you may end up with a \"battle of 20s\" where you only hit on a 20 roll, and it becomes impossible to spam Knockdowns. But even before that the AC will \"outclass\" the Discipline check.<br/>\nIn the case of dexterity builds, it is often easier to get a higher AC than what you get with a strength build. Dexterity builds also often have Epic dodge, that avoids the first melee attack in the round. That attack is also likely to have the highest AB. For these reasons many/most dex builds don't take Discipline at all, even if it is a class skill.<br/>\nBut to get the exact answer, you must know what you are up against and look at the numbers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:59 AM - Feb 20, 2019",
+      "content": "<div>Am trying to decide if it is worth it to get Monk 20, or if I would be better off going DwD 18, Rogue 13, Monk 9 and getting Epic Dodge.<br/>\n<br/>\nAlso not sure if I can feasibly get both Epic Dodge and Epic Damage Reduction...</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:44 AM - Feb 20, 2019",
+      "content": "<div>You could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!</div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:48 PM - Feb 20, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>You could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!</div></blockquote>Okay, I tried to send you private messages twice, but they have evaporated into the ether.<br/>\n<br/>\nWill send again when I have an opportunity to retype.<br/>\n<br/>\nThanks for all your help.<br/>\n<br/>\nSent from my SM-N950U using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "blksabbath74",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:03 PM - Feb 20, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nYou could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!\n</div></blockquote>\n\nSent a third PM, have you seen any of them?<br/>\n<br/>\nIf not, I'll just start a new thread or you can contact me at <a href=\"mailto:blksabbath74@yahoo.com\">blksabbath74@yahoo.com</a></div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:10 PM - Jun 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Best explanation I've seen to date, Mick - it even made sense to me!<br/>\n<br/>\nOn a more mundane level, and more in relation to PvM builds than at least some PvP ones, it will also depend upon how many feats or bonus feats you have \"spare\" after taking your must-haves.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:08 PM - Feb 20, 2019",
+      "content": "<div><blockquote><div><cite>blksabbath74 wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nYou could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!\n</div></blockquote>\n\nSent a third PM, have you seen any of them?<br/>\n<br/>\nIf not, I'll just start a new thread or you can contact me at <a href=\"mailto:blksabbath74@yahoo.com\">blksabbath74@yahoo.com</a>\n</div></blockquote>\n\nOi, there are others among us who'd like to see what materializes, you know! Don't go hoarding! Having played some of Valerfor's badass beardies, a new one is always welcome!<br/>\n<br/>\nEr, no offence...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:32 PM - Jun 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?</div></blockquote>\nNo, this isn't enough to protect you from everything becasuse the PWs are based on that level of discipline.<br/>\nWhen you wan to be \"immune\" or close to it, you have to go above &amp; beyond what they have based their calculations &amp; that's where the esf:discipline or the rdd humongus strength comes into play.<br/>\nIn high-magic PWs or modules though, this doesn't matter as there are knockdown immunity gear that has this as one of the properties of the item so you don't even need to sacrifice a slot or anything.<br/>\nOf course there is still disarm to worry about but this is so rare anymore that it doesn't matter so much as to base your build on this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:07 AM - Jun 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Orion2019 wrote:</cite>\nAnyway what's your take on it?\u00a0Is it because 43 discipline +str modifier is more than enough to stop opponents from knocking you down?</div></blockquote>\nNo, this isn't enough to protect you from everything becasuse the PWs are based on that level of discipline.<br/>\nWhen you wan to be \"immune\" or close to it, you have to go above &amp; beyond what they have based their calculations &amp; that's where the esf:discipline or the rdd humongus strength comes into play.<br/>\nIn high-magic PWs or modules though, this doesn't matter as there are knockdown immunity gear that has this as one of the properties of the item so you don't even need to sacrifice a slot or anything.<br/>\nOf course there is still disarm to worry about but this is so rare anymore that it doesn't matter so much as to base your build on this.\n</div></blockquote>\n<blockquote><div><cite>Mick Dagger wrote:</cite>\nThere has been much debate over this, especially if you go back to the old forums.\u00a0<br/>\nA strength build with a strength of 30 has a +10 modifier. A dexterity build would need the ESF feat to get approximately the same modifier. The same goes for any build based on other abilities.<br/>\nSince the Attack roll against you is the DC, you must compare your skill with your AC and see if the skill is worth taking at all. In high magic environments, the different sources of AC (Deflection, Natural...etc) add far more to AC than what is possible to add to AB, and you may end up with a \"battle of 20s\" where you only hit on a 20 roll, and it becomes impossible to spam Knockdowns. But even before that the AC will \"outclass\" the Discipline check.<br/>\nIn the case of dexterity builds, it is often easier to get a higher AC than what you get with a strength build. Dexterity builds also often have Epic dodge, that avoids the first melee attack in the round. That attack is also likely to have the highest AB. For these reasons many/most dex builds don't take Discipline at all, even if it is a class skill.<br/>\nBut to get the exact answer, you must know what you are up against and look at the numbers.\n</div></blockquote>\nThese are really lovely responses. So to summarise, in high Magic environments<br/>\n- your AC is going to likely be so much higher (at least 20) than attack rolls, especially for dexterity builds, that any knockdown attempt will fail 95% of the time by missing you anyway, and this is because AC has more than 6 potential sources (Deflection, Natural, Armor, Shield, Dodge, other such as dexterity/monk AC/monk wisdom/draconic armor/armor skin etc...) whereas there are much more limited sources of attack bonus. ie how is a +6 melee weapon going to hit an opponent with +6 deflection +6 natural, +6 armor +6 shield +6 dodge and other bonuses (ie +6 attack weapon vs cumulative more than +30 AC bonus already)<br/>\n- there will be knockdown immunity gear available meaning you could use this instead of investing 43 points +/- a feat into discipline<br/>\n<br/>\nSo I take it ESF:Discipline is only useful if you:<br/>\n- have enemies with knockdown or disarm\u00a0<br/>\n- you have low AC meaning the enemy can hit you (ie in a low magic environment)<br/>\n- there are no knockdown immune boots<br/>\n- you aren't playing a super high strength hero such as a RDD with multiple Great Strength levels with maxed discipline skill<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:29 PM - Feb 20, 2019",
+      "content": "<div>I will try &amp; make him extra-beardy just for you Stag, you will have the results soon I think, once I get a cup of good coffee first &amp; start putting the build down to paper :)</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:32 AM - Jun 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, and a couple of special cases like a charisma-based paladin/wm with str:18/cha:30 that gets his dmg mainly by multiplying that divine dmg but only has 47 discipline otherwise.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:34 AM - Feb 21, 2019",
+      "content": "<div>Paying homage to Warhammer Fantasy, this I feel is a proper Dwarven Slayer!<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/y43lU3z.jpg\"/><br/>\n[Fighter 10/ Rogue 4/ Dwarven Defender 26]<br/>\nRACE: DWARF<br/>\nALIGNMENT: LN (Smite proof)<br/>\nPLAYABILITY: PvM 1 \u2013 40<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR -\u00a0 17 (<strong>34</strong>)<br/>\nDEX -\u00a0 13<br/>\nCON - 16<br/>\nINT -\u00a0\u00a0 14<br/>\nWIS -\u00a0 08<br/>\nCHA - 06<br/>\n<br/>\nDR: 18/ \u2013 <br/>\nHit Points: 596<br/>\n<br/>\nSkill Points: 196<br/>\nDiscipline: 43 (55)<br/>\nListen/ Spot: 26 (25)<br/>\nTumble: 40 (41)<br/>\nSpellcraft: 18 (20) cc<br/>\nSet Traps: 14 (15)<br/>\nUMD: 37 (35)<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 26/19/19 \u2192 32/ 25/ 25 (Saves Vs Spells)<br/>\nNaked/ Armoured AC: 21/ 34 (Full Plate &amp; Def. Stance &amp; Dodge)<br/>\n<br/>\nBAB: 29 (Four attacks)<br/>\nAB: +45/ +40/ +35/ +30 (Great-Axe)<br/>\nDMG: 1d12 +24 / 19 \u2013 20 X3 (Great-Axe)<br/>\n<br/>\nDevastating Critical DC: 42 (48)<br/>\nDefensive Stance 13/ Day: +2 STR/ +4 CON/ +2 To all Saves/ +4 AC<br/>\nDefensive Awareness: Cannot be flanked, Immune to Sneak attacks while attacking<br/>\n<br/>\nLEVELING GUIDE:<br/>\n01) Fighter (01): Power Attack, Cleave<br/>\n02) Rogue (01): <br/>\n03) Fighter (02): WF: Great-Axe, Dodge<br/>\n04) Fighter (03): {STR +1}<br/>\n05) Fighter (04): WS: Great-Axe<br/>\n06) Fighter (05): Toughness<br/>\n07) Rogue (02): <br/>\n08) Fighter (06): Blind Fight, {STR +1}<br/>\n09) Dwarven Defender (01): Knockdown<br/>\n10) Dwarven Defender (02): <br/>\n11) Dwarven Defender (03): <br/>\n12) Dwarven Defender (04): IC: Great-Axe, {STR +1}<br/>\n13) Dwarven Defender (05): <br/>\n14) Dwarven Defender (06): <br/>\n15) Dwarven Defender (07): Improved Knockdown<br/>\n16) Dwarven Defender (08): {STR +1}<br/>\n17) Dwarven Defender (09): <br/>\n18) Dwarven Defender (10): Great Cleave<br/>\n19) Rogue (03): <br/>\n20) Fighter (07): {STR +1}<br/>\n21) Fighter (08): EWF: Great-Axe, Great Strength I<br/>\n22) Fighter (09): <br/>\n23) Fighter (10): EWS: Great-Axe<br/>\n24) Dwarven Defender (11): Great Strength II, {STR +1}<br/>\n25) Dwarven Defender (12): <br/>\n26) Dwarven Defender (13): <br/>\n27) Dwarven Defender (14): Overwhelming Critical, Great Strength III<br/>\n28) Dwarven Defender (15): {STR +1}<br/>\n29) Dwarven Defender (16): <br/>\n30) Dwarven Defender (17): Great Strength IV<br/>\n31) Dwarven Defender (18): Devastating Critical<br/>\n32) Dwarven Defender (19): {STR +1}<br/>\n33) Dwarven Defender (20): Great Strength V<br/>\n34) Dwarven Defender (21): <br/>\n35) Dwarven Defender (22): Armour Skin<br/>\n36) Dwarven Defender (23): Great Strength VI, {STR +1}<br/>\n37) Rogue (04): <br/>\n38) Dwarven Defender (24): <br/>\n39) Dwarven Defender (25): Great Strength VII<br/>\n40) Dwarven Defender (26): Epic Prowess, {STR +1}<br/>\n<br/>\nSPECIAL NOTES: <br/>\nDeadly Traps, Evasion, Improved Uncanny Dodge, Failureless Scroll-casting<br/>\nDevastating Critical w/High DC.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:46 AM - Feb 21, 2019",
+      "content": "<div>You bloody meant it when you said extra-beardy, didn't you!<br/>\n<br/>\nOn principle I like him, now I'll have to take a proper look. I can see he's a lot more aggressive than your re-worked Dwarven Wall, or any iteration of Grizz's Hearth Guard, but there are a few others (mostly yours) that I might like to have a glance at first. (Get me, going all smart-arse all of a sudden - like I know what I'm on about.)<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:41 AM - Feb 22, 2019",
+      "content": "<div>Just a quick note. Monks Perfect Self, Stoneskin etc do not stack with DR xx/-. They overlap, the strongest one matters. If you have DR 15/- and 20/+1 You would have 20 when hit by non-magic weapons, 15 otherwise.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:10 AM - Feb 23, 2019",
+      "content": "<div>Forgot to mention a variant,<br/>\n<br/>\nThe \"Dwarven Slayer\" can also be built with monk in place of rogue, same split &amp; all but because you do not need \"cleave\" (free from monk) you can take LoH at first level.<br/>\nNet results would be (+8 hp's, +3 fort/ +1 ref/ +3 will) &amp; free access to monk gear but you lose umd.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:43 AM - Feb 23, 2019",
+      "content": "<div>Oh bless you for that variant. But in this instance I think Rogue's the better option - much as I'd like to get all saves over 20 (it's just one of my things), full UMD beats Monk 4 here. Plus neither his name nor selfie seem to point at a monastic life...<br/>\n<br/>\nThough you'd think with all that sharp metal around he could grab an easy haircut (not the beard, obvs) - might be handy in case of a wind from behind.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "12:45 AM - Feb 24, 2019",
+      "content": "<div>Love the Slayer build. I've been crushing as that class in the latest Vermintide game. Monk does fit as well, the Slayers have a pretty methodical doctrine regarding the slaying of trolls. <br/>\n<br/>\nI'm going to roll this char on a new server I found. Seems like nwn builders just get better and better as the years go on.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:30 AM - Feb 24, 2019",
+      "content": "<div>I'm supposed to be weaning off Monk - don't make it harder!<br/>\n<br/>\n<span class=\"text-emoji\">\ud83d\ude1c</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "ratty_uk2011",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:39 PM - Jul 01, 2019",
+      "content": "<div>Excuse the resurrect - a question on DR please?<br/>\n<br/>\nWhich of these three stack with each other:<br/>\n<br/>\n1) x/- from the OC belts of Swordsman etc<br/>\n2) DwD innate\u00a0<br/>\n3) Epic feat<br/>\n<br/>\nWiki is a bit fuzzy on this.<br/>\n<br/>\nCheers!</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:14 PM - Jul 01, 2019",
+      "content": "<div>Hi Ratty - and welcome to the Guild!<br/>\n<br/>\nThe swordsman/ brawler/ archer belts give you resistances to, respectively, slashing, blunt, and piercing damage, but have no effect on other types of damage inflicted (iirc, it's 10 for the lesser belts and 25 for the greater ones).<br/>\n<br/>\nInnate DwD (and indeed Barbarian) DR does stack with the EDR feats, and applies to all forms of physical damage.<br/>\n<br/>\nBy and large, the belts will be more beneficial at lower levels, but if you're going heavy on DR and EDR you'll probably find better belts to occupy the slot later. However, it's always worth keeping hold of the belts just in case, because their specific types of resistance will stack with the innate stuff and the feats, which can be useful in particularly challenging encounters.<br/>\n<br/>\nHope this helps!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "ratty_uk2011",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:00 PM - Jul 01, 2019",
+      "content": "<div>Thank you Sir!<br/>\n<br/>\nI play on WoG and there's a couple of Bosses that hit hard esp if they Crit , and this char is designed to face tank them whilst the AA's in the party plink away from a safe distance.<br/>\n<br/>\nSo the ability to stack three sources of DR is very useful even at the cost of loosing the belt slot.</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "2:09 PM - Jul 01, 2019",
+      "content": "<div><blockquote><div><cite>ratty_uk2011 wrote:</cite>Thank you Sir!<br/>\n<br/>\nI play on WoG and there's a couple of Bosses that hit hard esp if they Crit , and this char is designed to face tank them whilst the AA's in the party plink away from a safe distance.<br/>\n<br/>\nSo the ability to stack three sources of DR is very useful even at the cost of loosing the belt slot.</div></blockquote>Barbarian, DwD and EDR feats do indeed all stack. They do not however, stack with the belts. Or Stoneskin, premonition, shapeshifted DR in f.ex. Dragonshape or the likes.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:18 PM - Jul 01, 2019",
+      "content": "<div>My pleasure, Ratty.<br/>\n<br/>\nI actually found out about the belts' stacking when soloing the Mines of Twin Summit modules. My DwD kept getting temporarily petrified by a magma elemental then battered by assorted earth elementals. I'd already got 30/-DR, but still kept pegging out, so tried slipping on a Greater Brawlers belt on my third reload. Still got petrified, but took no subsequent damage (having some regen equipment also helped). But what was particularly nice was that I was wearing armour that delivered electrical damage on a loop when hit. Killed four elementals while completely immobile. He-he.<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd by Grimnir. The belts do work in my experience (see main text of this post), but of course only for their particular damage type. I popped a screenshot of the said incident in \"The Good, The Bad, And The Ugly Thread\" in the General forum (it's on page 7). Maybe there are different implementations in different environments?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "2:37 PM - Jul 01, 2019",
+      "content": "<div><br/>\n<blockquote><div><cite>Stagmeister wrote:</cite>My pleasure, Ratty.<br/>\n<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd by Grimnir. The belts do work in my experience (see main text of this post), but of course only for their particular damage type. Maybe there are different implementations in different environments?</div></blockquote>\n\nYou are right. Dmg resistance do indeed stack with Damage reduction. The belts are Slash RESISTANCE etc. Sorry about that. My old PW hade some changes to this.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
     }
   ]
 }

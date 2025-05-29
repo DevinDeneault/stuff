@@ -4,53 +4,60 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "202",
-  "name": "New to the guild/game looking for some general insight as I work through a build.  Please help",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/new-to-the-guild-game-looking-for-some-general-ins-t2354717.html",
-  "author": "BraxxWarborn",
-  "avatar": "no_avatar.png",
-  "replies": 6,
+  "name": "Explaining Metamagic to a Monkey",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/explaining-metamagic-to-a-monkey-t2354779.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": "6",
+  "views": "364",
   "posts": [
     {
-      "author": "BraxxWarborn",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:00 PM - Jul 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am new to playing a cleric so I apologize before hand if this is a foolish question. I started my build as a paladin and at second level I swapped to cleric. I added war and trickery as my domains but I am unable to add these domain to my hotbar. Any advice would really be appreciated. Thanks all.     Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:22 PM - Nov 24, 2017",
+      "content": "<div>I've been following a thread or two that mention metamagic, and I've just read Hip's Glimpse into Metamagic in the Guides section. Sadly, this is now a very blurry glimpse indeed: moving to our new host seems to have successfully turned a lot of what I assume was actual language into hieroglyphs at best.<br/>\n<br/>\nThus, flaunting my ignorance once more, metamagic: what actually is it, please? What does it bring to the party, and what are the costs?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:10 PM - Nov 24, 2017",
+      "content": "<div>Simply put, metamagic is the manipulation of your spell slots to better fit your needs. <br/>\n<br/>\nYou have a good spell that you want to cast more times per day? Isaack's Greater Missile Storm is a good example, you can do all your 6th lvl spell slots, then if you have Empower Spell, you can also do it as an 8th lvl spell with increased effect as well. And if you are really into it, you could also Maximize it as a 9th lvl spell-slot. I am sure you have heard me or others talking about the \"Unbeatable\" Sorcerer that can cast Time Stop then 2X Maximixe IGMS then Time Stop then again 2X Maximizee IGMS and kill any (single) opponent without that opponent ever getting the chance to do anything about it. The unrestricted nature of resting in normal Neverwinter Nights permits that sort of things. Other modules or most PW's won't allow that though.<br/>\n<br/>\nMetamagic is also useful for other things, for example you could \"Still\" your spells for just a 1 lvl adjustment to cast in full armour &amp; shield, or you could \"Silence\" them to cast them in an area that no sound is permitted, (forgot what Cleric spell is that causes this effect) or \"Widen\" them to get more enemies into your Area of Effect (AoE) spells. It always cost something more than a normal spell but as you can see, the benefits can be great indeed.<br/>\n<br/>\nHope that helped a bit Stag,</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:24 PM - Jul 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Braxx, and welcome!<br/>\n<br/>\n Do you mean that you have to use the radial menu when accessing the domains, rather than the keys at the bottom of the screen? As one who doesn't do magic-users, does that make a big difference?<br/>\n<br/>\n Not terribly helpful, I know, I just wanted to extend a hand of greeting - someone who knows what they're talking about should be along soon.<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "BraxxWarborn",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:41 PM - Jul 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am unable to access them via radial menu or by using the F1-F12 cell \"keybinds\". Thank you for the timely response and warm welcome the information here is a valued resource. <br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:39 PM - Nov 24, 2017",
+      "content": "<div>Indeed it did Valerfor, thanks. However...<br/>\n<br/>\nPresumably, these are bonus feats for arcane types (divine, too?), which then free up these slots to boost the effectiveness of \"lesser\" spells. Does that mean one gets extra slots at those higher levels, or the number one would normally get are then filled with these badder dudes? So, for example, if I empower IGMS - thereby getting it as an 8th level spell, I wouldn't be able to use another \"real\" 8th level spell, or do I get an additional slot for this empowered casting?<br/>\n<br/>\nI only ask because I'd be a lot more tempted to try an arcanist build if I knew what the bloody hell was going on with it - and it seems pointless to pretend knowledge where there is none.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:44 AM - Jul 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Right-click the slot on the bottom of the screen where you want your domain power, select special abilities (straight to the left), then select Cleric, then your domain power. That will assign the domain power to that slot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:10 PM - Nov 24, 2017",
+      "content": "<div>Metamagic doesn't give you more spell slots.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "BraxxWarborn",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:51 AM - Jul 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The problem is I am not seeing Cleric powers even show up when I do this. If I start a fresh Cleric character the game defaults my domain powers into the hotbar cells. That said if I choose to move the powers to a different cell I am unable to do so as they do not show up in the radial menu. Is it possible my game is broken or am I just a little slow here?  Thanks for any advice guys. <br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:04 AM - Nov 25, 2017",
+      "content": "<div>Exactly, these feats as i said, \"manipulate\" your available spell slots to better fit your needs, they do not provide however \"additional\" spell slots. If you want to start a spell-slinger i suggest you try the easier way first, Clerics, no, Paladins are the best for a starter. Its basically a Warrior + , so you just do what you did already but you just have additional spells that buff your abilities. Then you go to melee Bards &amp; Clerics and after that you start a real arcanist like a Sorcerer first and finally Wizard. So to recap, from easier to hardest: Paladins &amp; Rangers, then Bards &amp; Clerics, then Sorcerer and finally Wizard.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:37 PM - Jul 06, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to remove anything from a quick-slot, right-click on the slot and select the * at the bottom.<br/>\n If you have difficulties adding something new, try to empty the slot first.<br/>\n You can add things to the quick slots by right-clicking the way empyre told you, but you can also add items and spells by dragging them to the slot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:00 AM - Nov 25, 2017",
+      "content": "<div>Hip's Glimpse is indeed corrupted, but some of it is still intact. What I have used that guide for is to check what metamagic feat you can use for any given spell. <br/>\nThere are two things I find important with metamagic:<br/>\nThe first is what alterations the different metamagic feats bring to your spell. Eg; Extend spell doubles the duration of your spell, Still spell removes the arcane spell failure from armor etc. They all have their uses. It comes at the cost of casting from a higher level slot, one or more levels depending on the actual feat.<br/>\nAnd that leads to the second important characteristic. These metamagic feats let you cast a spell from slots of a different level than the spell itself. You can use that for spell-book management. Eg; if your level 2 spell slots are full from all the Bull's and Cat's and whatnot, and you also want to memorize Ultravision and a couple of Darkness spells, you can solve that by memorizing some of the spells as extended in level 3 slots or empowered in level 4 slots.<br/>\n<br/>\nFor spontaneous casters there is no spell book to manage. You memorize all spells and can cast them as you see fit, with or without any metamagic. Metamagic adds enormously to that freedom, since you can not only cast a given spell from all the slots of it's level, but also from all the levels that your metamagic feats allow you to.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "BraxxWarborn",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:23 PM - Jul 06, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the input guys!  Greatly appreciate your patience and advice. Think I have a handle on the problem. Seems to be a server issue as I am able to add the domains as you suggest when I play campaign. <br/>\n<br/>\n<br/>\n<br/>\n Sent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:49 PM - Nov 25, 2017",
+      "content": "<div>That all seems to make sense - many thanks, everyone.<br/>\n<br/>\nIt seems, then, to reinforce the importance of getting a build \"right\" particularly for spell-chuckers - in effect (and put simply) becoming a fourth level in the building process, where the other three are stats, feats and skills.<br/>\n<br/>\nI shall have a closer look at how you good people have implemented the feats in some of your published builds.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

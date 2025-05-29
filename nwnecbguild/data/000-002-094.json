@@ -4,41 +4,37 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "094",
-  "name": "Favored class and multiclass penalty",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/favored-class-and-multiclass-penalty-t2355638.html",
+  "name": "Weapon Finesse and ability score loss",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weapon-finesse-and-ability-score-loss-t2355642.html",
   "author": "darktooth",
   "avatar": "10759000_1542893921.jpg",
-  "replies": 4,
+  "replies": "3",
+  "views": "303",
   "posts": [
     {
       "author": "darktooth",
       "avatar": "10759000_1542893921.jpg",
-      "timestamp": "12:04 PM - Dec 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">A multiclass human PC with highest level in a prestige class has two other base classes which are more than one level apart (e.g. Assassin 6/Fighter 4/Rogue 2). <br/>\n<br/>\nIf a prestige class is exempt from the multiclass xp rule, does it mean that it could not be considered as a favored class? Would the above example not suffer xp penalty?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:41 AM - Dec 24, 2020",
+      "content": "<div>Case 1:<br/>\n<br/>\nA PC who has Weapon Finesse later develops a base strength that is higher than his base dexterity, but then equips an item increasing his dexterity so that it becomes higher than his strength. Could this PC still benefit from Weapon Finesse?<br/>\n<br/>\n<br/>\nCase 2:\u00a0<br/>\n<br/>\nThe above PC does not have anything which grants ability score bonuses, so his strength is higher than his dexterity. While in combat he is dealt strength damage (temporary), and his strength becomes lower than his dexterity.\u00a0<br/>\n<br/>\na.) Would Weapon Finesse become active?<br/>\n<br/>\nb.) Would it be immediately after the strength reduction (while still in combat)?</div>"
     },
     {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "12:15 PM - Dec 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It would not.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:49 AM - Dec 24, 2020",
+      "content": "<div>Your PC benefits from the ability that is higher at the time. If it didn't have Weapon Finesse, however, he could not benefit from a higher Dexterity at all.</div>"
     },
     {
       "author": "Maximillian_Kane",
       "avatar": "10758866_1605883460.jpg",
-      "timestamp": "10:56 PM - Dec 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote: <a data-post-id=\"23170\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23170&amp;sid=7ff43355cc2a2dc55c89494a9099b8f8#p23170\">\u2191</a><div class=\"responsive-hide\">Dec 17, 2020</div></cite>It would not.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk</div></blockquote>\nit would not be considered or it would not suffer? :D<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:55 PM - Dec 24, 2020",
+      "content": "<div>Hey darktooth!<br/>\n<br/>\nYes to all, BUT, rememeber that the weapon the PC is wielding needs to be finessable for Weapon Finesse to take effect. If the PC is wielding a Longsword, even if he has the feat, it won't apply.<br/>\n<br/>\nI hope this answers your questions.<br/>\n<br/>\nCheers!\u00a0</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Ten Pura",
-      "avatar": "10759105_1562697297.png",
-      "timestamp": "11:09 PM - Dec 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail Darktooth,<br/>\nUnder standard rules, prestige classes are not considered by the routine which calculates XP penalties. It's like the class doesn't exist. This has 2 implications:<br/>\n1 - a human with a prestige class cannot have a XP penalty.<br/>\n2 - any character with 2 prestige classes cannot have a XP penalty.<br/>\n<br/>\nHope this sufficiently answers your question!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "darktooth",
-      "avatar": "10759000_1542893921.jpg",
-      "timestamp": "2:34 AM - Dec 24, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ten Pura wrote: <a data-post-id=\"23173\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23173&amp;sid=7ff43355cc2a2dc55c89494a9099b8f8#p23173\">\u2191</a><div class=\"responsive-hide\">Dec 17, 2020</div></cite>\nHope this sufficiently answers your question!</div></blockquote>\nThank you for the very clear answer.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "4:08 PM - Dec 24, 2020",
+      "content": "<div>Indeed.<br/>\n<br/>\nWhen I was new to NWN I made exactly this mistake. Played a dual-wielding dexer ranger with LONGSWORDS and wondered why the game was so hard, lol...</div>"
     }
   ]
 }

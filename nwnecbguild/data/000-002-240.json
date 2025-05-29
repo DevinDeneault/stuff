@@ -4,35 +4,42 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "240",
-  "name": "Skill Modifiers",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/skill-modifiers-t2354322.html",
-  "author": "Kalistez",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 3,
+  "name": "sorcerers, palemasters & scribe scroll",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/sorcerers-palemasters-scribe-scroll-t2354321.html",
+  "author": "SmkNThDrkNght",
+  "avatar": "no_avatar.png",
+  "replies": "4",
+  "views": "770",
   "posts": [
     {
-      "author": "Kalistez",
+      "author": "SmkNThDrkNght",
       "avatar": "no_avatar.png",
-      "timestamp": "1:10 AM - Sep 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi Guys,\u00a0<br/>\n<br/>\n Just a quick query.<br/>\n<br/>\n I decided to give Mick's Kama Shinobi a run and took 1 cross class open lock point at first level.<br/>\n<br/>\n However when I look at my skills, my open lock is showing at -3. \u00a0I assumed that 1 point plus a dex modifier of +4 would have it sitting at 5.<br/>\n<br/>\n Is this normal or do I need to bring it up as a bug with the devs of the world I am playing on ?<br/>\n<br/>\n Thanks for your help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:21 PM - Sep 17, 2014",
+      "content": "<div>Random thought &amp; I've never seen this question before.<br/>\n  I'm wondering if a sorcerer takes scribe scroll &amp; when leveling as a pm he gets the spell slots , if he's then able to scribe spells to his spellbook like a wiz can.<br/>\n Or is that just an innate ability wiz's have and I'm way off base in my thinking?<br/>\n Hope that made sense.<br/>\n Away from my cpu so can't test it myself. <br/>\n Anybody know?</div>"
+    },
+    {
+      "author": "MrZork",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:26 AM - Sep 18, 2014",
+      "content": "<div>The Scribe Scroll feat doesn't enable one to learn from scrolls. And, leveling in PM doesn't increase the known spells per level. There would be way more sorcerer (and bard) PMs running around otherwise! :-)</div>"
+    },
+    {
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:10 AM - Sep 18, 2014",
+      "content": "<div><blockquote><div><strong>MrZork wrote:</strong><hr/>The Scribe Scroll feat doesn't enable one to learn from scrolls. </div></blockquote>\n Wasn't sure, had to ask.\n<blockquote><div><strong>MrZork wrote:</strong><hr/> And , leveling in PM doesn't increase the known spells per level.</div></blockquote>\n I was thinking of this (from the wiki)  Upon reaching pale master levels 1, 3, 5, 7, and 9, the character gains new spells per day as if he had also gained a level in his highest caster class (bard, sorcerer or wizard). He does not learn any new spells through this ability, <blockquote><div><strong>MrZork wrote:</strong><hr/> There would be way more sorcerer (and bard) PMs running around otherwise! :-)</div></blockquote>\n<div align=\"left\"> </div>\n\n Probably an understatement.<br/>\n Thanks...</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:25 PM - Sep 18, 2014",
+      "content": "<div>Hey, I'm back. I couldn't log in for the longest time and apparently I wasn't the only one. As for your doubt, it only affects the number of casts per day. You gain a new slot to memorize spells per day if you're a Wizard and a new spell per day in a certain level if you are a Sorcerer.<br/>\n<br/>\n Take it EZ!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:14 AM - Sep 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Perhaps this has something to do with your negative modifier?<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Armor_check_penalty\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Armor_check_penalty</a><br/>\n<br/>\n<br/>\n Or it could be just an error of the old NWN engine, usually this is solved by a save/load, i had weird things happen to me as well in the past, especially with my AC for some reason.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:27 AM - Sep 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm wearing robes at the moment so I doubt its the armor check \u00a0penalty.<br/>\n<br/>\n Its almost like Im getting a -4 instead of + 4 as a dex modifier, its also affecting Hide, Move Silently etc.<br/>\n<br/>\n How do I go about doing a save/load if im playing on a PW ?<br/>\n<br/>\n Thanks<br/>\n<br/>\n Edit: \u00a0NVM, I relogged and it appears to have fixed itself.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:13 AM - Sep 18, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Exactly ;)<br/>\n<br/>\n I was sure it was the same problem with me as soon as you said it was affecting all your dex modifiers, heh..<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:28 PM - Sep 18, 2014",
+      "content": "<div>Welcome back man!<br/>\n<br/>\n And don't you make another year to show-up now, okay? ;)</div>"
     }
   ]
 }

@@ -4,53 +4,43 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "130",
-  "name": "Sequencer robes.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/sequencer-robes-t2354987.html",
-  "author": "Valkos",
-  "avatar": "10235425_1545159776.jpg",
-  "replies": 6,
+  "name": "Melee feats",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/melee-feats-t2355502.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": "4",
+  "views": "415",
   "posts": [
     {
-      "author": "Valkos",
-      "avatar": "10235425_1545159776.jpg",
-      "timestamp": "5:03 PM - Jan 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">When you have access to these, what spells do you normally put in them?<br/>\n<br/>\nFirst two I think of is Shadow Shield and Premonition.<br/>\n<br/>\nAfter a few looks at the spell list; Greater Spell Mantle, protection from spells, mind blank, energy buffer.<br/>\n<br/>\nAnything else you guys just cannot run without?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:46 PM - Jan 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sometimes the sequencer can be useful also with low level spells: <br/>\nWith my <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/a-shot-in-the-dark-bard-5-aa-9-assassin-26-t2354966.html\" rel=\"noreferrer\" target=\"_blank\">Bard 5/Assassin 26/AA 9</a> build I put the only level 2 bard spells I had; Cat's, Bull's and Fox's in a 3 spells sequencer. The character gets high enough dex to use robes, so I picked a sequencer robe once I could find a decent one. <br/>\nThe level 5 bard only has 3 known lvl 2 spells, and can only cast one per day. The sequencer let me store all 3 spells, one at a time, so I could cast them all every day, and at a much higher caster level than the puny 5 bard levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
       "author": "darktooth",
       "avatar": "10759000_1542893921.jpg",
-      "timestamp": "1:39 AM - Jun 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When casting spells from a sequencer, is there a chance of arcane spell failure, or is it interruptible? What if I\u2019m casting a combination of arcane and divine spells?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:12 AM - Jun 26, 2020",
+      "content": "<div>What is the best character level in picking each of the following feats for a pure fighter/melee class: Blind fight, Cleave, Dodge, Great cleave, Improved critical, Power attack, Toughness, Weapon focus, Weapon specialization? How would each one rank in importance? <br/>\n\u00a0<br/>\nRecommended button\u2019s order of priority: Power attack, Cleave, Great cleave, Improved critical, Weapon focus, Weapon Specialization, Dodge, Toughness, Blind fight.<br/>\n\u00a0<br/>\nThus, if one follows the recommended button for their selection and plays a melee class other than a fighter, then a feat like Blind fight would be acquired at a much later time. Could this be ideal?</div>"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "3:22 AM - Jun 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">TT (Tensor's Transformation - PnP version only).\u00a0 Aura of Vitality.<br/>\n<br/>\nSequencers cannot be interrupted nor is there a chance of spell failure.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "darktooth",
-      "avatar": "10759000_1542893921.jpg",
-      "timestamp": "7:12 AM - Jun 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bull's Strength, Bless, Aid, Improved Invisibility, Prayer, Divine Power, Battletide<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "11:43 AM - Jun 26, 2020",
+      "content": "<div>It depends a lot on what your build goals are and most definitely where you play and how things are balanced.  It is different for every world / module.<br/>\n<br/>\nI have, for example, played on persistent worlds where cleave/great cleave is important because the enemies have low HP but come in hoards.  I have also played on worlds where enemies have high HP so cleave is less effective.<br/>\n<br/>\nHowever, all things remaining equal, in general:<br/>\n1. The ability to hit something is the most critical.  So Weapon Focus is first on the list.<br/>\n2. The ability to damage something is the second most critical. Weapon specialisation offers damage with no downside/cost, so second on the list.  Power attack / cleave offer additional damage each with caveats and cleave requires power attack.<br/>\n3. You cannot hit or damage if you are not alive.  So things that keep you alive are either #1 on the list or #3 on the list depending on what is needed to keep you alive whilst you hit and deliver damage.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
     },
     {
       "author": "Aquarius 233",
       "avatar": "10714033_1519247364.jpg",
-      "timestamp": "11:05 AM - Jun 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Protection from spells + mind blank is a nice combo. I use it a lot especially with meelers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:58 AM - Jun 26, 2020",
+      "content": "<div>A melee feat that should be added in the list is knockdown (and, if possibile, its \"big brother\" improved knockdown).<br/>\nQuite valuable against sneakers and casters; I usually take it at level from 6 to 9, as in lower levels the chance of success is low (only time I took it at level 4 it was with a 19 STR half-orc, that plans an increase to 20 at lv 4).</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:15 AM - Jun 22, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Depends on consumables (wands, scrolls, potions) and items (ie. belt of guiding light - death immunity) available<br/>\nCertain spells are commonly found on potions (ie Bless/Aid, Bulls/Cats/Endurance, Barkskin tend to be pretty frequent)<br/>\n<br/>\nMy top 3:<br/>\n- improved invisibility, premonition, mind blank<br/>\n<br/>\nImproved invisibility plus premonition grants enormous physical defensive capabilities especially for a two handed build<br/>\n<br/>\nMind blank is nice because the\u00a0Spell level 8\u00a0CL 15 is the most dispel resistant of the mind immunity buffs.\u00a0<br/>\n- lesser mind blank spell level 5 CL 9, clarity spell level 2 CL 3, magic circle v alignment spell level 3 CL 5 or prot v alignment spell level 1 CL 5<br/>\n<br/>\nOthers<br/>\n- shadow shield/death ward (for death immunity, only if no death immunity item is equipped), flame weapon, keen edge (dev crit builds particularly), freedom (ideal from items but if no freedom items available)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:22 PM - Jun 26, 2020",
+      "content": "<div>Great question. There will be different preferences for different players.<br/>\n<br/>\nMy preferences:<br/>\n<br/>\nEssential feats: Blind Fight / Knockdown<br/>\n<br/>\nFeats to get AB to desired amount: WF/EWF/EP<br/>\n<br/>\nOrder of priority (very rough and quickly written):<br/>\nWeapon finesse level 1 or 3 for dex builds (usually 3, as lvl 1 tends to be a 3/4 BAB level)<br/>\nCleave asap (if getting it)<br/>\nExpertise asap (if getting it)<br/>\nWeapon focus asap<br/>\nWeapon specialization asap<br/>\nBlind fight asap<br/>\nImproved disarm asap\u00a0(if getting it)<br/>\nKnockdown level 6<br/>\nTwo weapon fighting / ambidexterity asap\u00a0(if getting it)<br/>\nImproved critical lvl 8-9+ (I think)<br/>\nImproved two weapon fighting level 9-10+ (I think)<br/>\nToughness - any time, only if needed<br/>\nGreat cleave - late pre-epic, only if needed<br/>\nCalled shot - only for hybrid melee/ranged builds, maybe some monks with 6-10 APR<br/>\nDodge / mobility / spring attack / whirlwind attack - only if needed for pre-requisites</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:36 PM - Jun 26, 2020",
+      "content": "<div>Massive question, darktooth. As Zanithar says, so much will depend on the type of build (there are many, many \"pure\" fighter types) and environment (solo/coop, modules/pws - and different types of both, Dev Crit-enabled or not, types of enemy you'll encounter, whether you need playability throughout or are just seeking L40 power, and so on).<br/>\n<br/>\nHowever, always hold at the front of your mind that the \"Recommended\" button awakens an idiot who proceeds to handicap any build at all times. Ignore it always, please.<br/>\n<br/>\nYou list 9 feats available pre-epic. Of those, I believe only Blind Fight is absolutely necessary. When you take it will depend on where you play, and when folk will start casting darkness and/or sneaking on you. A meleer has one job, and one alone, and that's to fight. If you're just standing there like a dummy you'll get hit and it will hurt, and you can't respond. Take it early (levels 1-6, unless there are more pressing demands on your schedule).<br/>\n<br/>\nYou left Knockdown out (and possibly its bigger brother) of your list. This is also a necessity (as is IKD if you're a Hin or Gnome - stats permitting). Mages in particular are bastards. Stop 'em casting by flattening them then chopping them to bits. KD will gimp your AB, so there's no point taking it until you've a reasonable chance of it working - probably between levels 6 and 9.<br/>\n<br/>\nThe only other necessity is if you're going for a DEX build, in which case you'll want Weapon Finesse (probably at level 1-3).<br/>\n<br/>\nObviously you can only take WS on or after Fighter 4 (always on a Fighter level). My advice would be to take it as early as possible. Your defences will be weak at lower levels, and your AB will be relatively low, so when you do hit enemies you want it to hurt as much as possible.<br/>\n<br/>\nWeapon Focus is traditional (some with more than one, others with none) because it bumps AB by 1, which is always good. But it's with a particular weapon type, so it helps to know your environment again (are there any decent morningstars/Dwarven waraxes/scythes/etc available?), or you might end up being great with a weapon that there are none of where you play. If taking the feat, and knowing where you play, take it when it's of most value. That's likely to be early, but if you know Dwarven waraxes aren't available for the first 18 levels, you might want to wait before focusing in it.<br/>\n<br/>\nCleave is a nice feat to have. If you're playing a STR build, taking Power Attack is a pita though (unless you've got some Monk, of course). PA in itself is only really useful for DEX builds, or if you're going for Dev Crit or wanting some Blackguard. Great Cleave is only useful if going for Dev Crit. Others may argue, but they're wrong. You can easily get caught in a GC loop: you're in a chokepoint with enemies in the portal and there's an ill-tempered mage behind them. You want to cut through so you can reach the mage before everyone (mostly you) is dead, but GC virtually guarantees you'll be chopping into the mob for the duration. Not good. If you have to take it, make it between levels 18 and 20 - depending on Toughness.<br/>\n<br/>\nSpeaking of which, Toughness is a luxury. And it needs to be taken as a General Feat. If you're playing a tank, fair enough, roll another 40 hps up. But if you're going for a straight front-liner or flanker you'd be better served with other feats, otherwise it's a bit like saying \"I have no confidence in this build\". Of course, there are exceptions when it's a prerequisite for another class, but if you're taking it just because you can, take it at level 18.<br/>\n<br/>\nDodge is handy, particularly at early levels, for +1AC against a single enemy you're facing, but soon loses its value. It is, however, a prerequisite for several other classes and feats. Another one that doesn't hurt, but also a bit of a luxury.<br/>\n<br/>\nImproved Critical is definitely a should-have. Your job is to carve things to bits, and if you can do at least double damage by landing a crit on them, then critting them as often as possible has to be a good thing. Probably best taken between levels 9 and 15.<br/>\n<br/>\nThat'll probably do for now. The Disarm twins, dual-weapons, and epic feats can wait for another time. As can more defensive feats such as save boosts and how skills play into a build.<br/>\n<br/>\nI write as one who plays melee characters (without any arcane/divine mucking about) a good 90% of the time, so I hope this helps a bit.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

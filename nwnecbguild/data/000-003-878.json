@@ -4,257 +4,50 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "878",
-  "name": "Trying to build a Ranger/SD/WM",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/trying-to-build-a-ranger-sd-wm-t2355039.html",
-  "author": "Dagger",
-  "avatar": "10235235_1549015559.jpg",
-  "replies": 40,
+  "name": "Level 20 Melee Cleric Build (Good Aligned)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-20-melee-cleric-build-good-aligned-t2355046.html",
+  "author": "EatPreyLuv",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "3.8K",
   "posts": [
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "3:06 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I look at a build concept with a class combo that seems to be new. I want it to become a strength based dual wielding stealth build with HIPS and Dev crit if possible.<br/>\nI look to combine the Ranger, Weaponmaster and Shadowdancer classes. There are no such builds here, and there are only 3 builds with that class combo in the old forums. Two of them are dex based. The third one, another good build by Cinnabar Dinn, is strength based, but has a too strong Ranger focus for my use.<br/>\nWeaponmaster is feat demanding and for that reason often combined with Fighter. You already want WF with every build, and Dodge/Mobility opens up SD. Expertise is fine sometimes, so the only less useful feats are Spring attack and WWA.<br/>\nRanger gives a good class skill selection with early access to SD and gets the Dual wield feats for free without having to take dex 15.<br/>\nI could have made a strength based dual wielding stealth build with Ranger and SD alone and gotten a character with wis 14 and full Ranger spellbook and a dual wield AB of 41 or 42.<br/>\nSo why pay the price for WM? I can get a dual wield AB of 47 or 48 (49 or 50 with a single weapon) I also get a better threat range and have a very high AB to confirm the threats. <br/>\nMy only concern is if I can live with the feat starvation, especially so if I try to reach for Dev crit.<br/>\nRanger Dual wield needs fighting in light armor. How well does that fit a strength build? And will I need to take Armor proficiency heavy?<br/>\nWith a dexterity of 14, the best AC you can get from medium armor is from Breast plate/Chain mail with 5 + 2 = 7. Once you can self buff with Cat's, a dexterity of 18 will give 4 + 4 = 8 in Chain shirt/Scale mail, or 3 + 4 = 7 in Studded/ Hide. Not quite as good as 8 + 1 = 9 from full plate. If you have access to dexterity boosting items, dex 22 gives AC 8 in leather and capped dex 26 gives AC 9 in padded armor.<br/>\nSo improving dex becomes important if you want to have a competing AC and dual wield in light armor. If you need better AC than that, you can single wield and grab a shield, activate expertise, or HIPS away.<br/>\nAny thoughts?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:33 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick,<br/>\n<br/>\nI think I'm going to have to crap on the idea of a potential Dev Crit build - sorry. Assuming you go human for the extra feat, you're still only going to have 8 pre-epic feats, and WF, Dodge, Mobility, Expertise and the Spring and WW Attacks, make 6. That gives no room for all of PA, Cleave, GCleave and Imp Crit, unless, of course, you're happy taking a couple of them in epic levels. And even then you'd have no room for KD or Blind Fight, let alone heavy armour (the long-term merits of which I'm not sure about in any case).<br/>\n<br/>\nAn interesting stat spread that I recall is Valerfor's <strong>Dodji Domotai</strong> (apologies, links still don't seem to be working for me atm). I have played the build and enjoyed doing so. Admittedly, it's an elf Fighter16/ Rogue17/ WM7 and was apparently made with a particular purpose in mind, and has ED, but the stats are fairly unique: Str 16(26), Dex 18(25), Con 10, Wis 8, Int 14, Cha 8. Don't know if that helps or not <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nAt least losing Dev Crit opens other avenues, maybe? I'll keep thinking...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "4:34 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very interesting. I think the balance point for AC is what you can max get in leather armor (or studded leather). It means you will have to spend some points on dexterity, so you will not really save the dex investment you need on a fighter build for dualwield. That in itself may make one question why ranger. It's not like the ranger spellbook is extremely good. Also, the companion is seldom useful on PW:s (even if some, like Blackstone Keep has buffed the familiars/companions).<br/>\n<br/>\nMy feeling is that this is a dead end, but I'm sincerely hoping you will prove me wrong. I will be following this with interest!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:45 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, and given what you say about Cin's build being too Ranger based, would I be right in thinking you're not wanting to go much further than 9 or 10 in that class? I don't get a feel for whether you're looking to go WM-heavy or maybe taking SD to 10 or beyond.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "4:49 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just to throw in an idea:<br/>\nThe minimum is to go SD10 for Improved Evasion, R9 for DualWield and the rest WM for AB. Although, you need 12 ranger levels to get the feats needed for WM, so you might as well go Ranger 13 (which will give you 3rd level spells which is enough since 4th level spells suck), WM 7 pre-epic to keep max pre-epic AB. Then add 10 SD and 10 WM post-epic. I'm thinking it's gonna be hard finding another split that makes sense (but please prove me wrong).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "5:06 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">First quick draft (be gentle, I just had 15 minutes before dinner):\n<details><summary>Spoiler</summary>Ranger(13), Weapon Master(17), Shadowdancer(10), Human\nSTR: 16 (29)\nCON: 10\nINT: 14\n\n01: Ranger(1): Dodge, Mobility, Favored Enemy: Dragons, {Dual Wield}\n03: Ranger(3): Weapon Focus: Morning Star\n05: Ranger(5): Favored Enemy: Undeads\n07: Ranger(7)\n09: Ranger(9): Spring Attack, {Improved Two-Weapon Fighting}\n11: Ranger(11)\n13: Ranger(13)\n15: Weapon Master(2): Improved Critical: Morning Star\n17: Weapon Master(4)\n19: Weapon Master(6)\n21: Shadowdancer(1): Cleave, {Hide in Plain Sight}\n23: Shadowdancer(3)\n25: Shadowdancer(5): {Defensive Roll}\n27: Shadowdancer(7): Great Strength I, {Slippery Mind}, (STR=23)\n29: Shadowdancer(9)\n31: Weapon Master(9)\n33: Weapon Master(11): Epic Prowess\n35: Weapon Master(13): Overwhelming Critical: Morning Star\n37: Weapon Master(15)\n39: Weapon Master(16): Great Strength III, Devastating Critical: Morning Star, (STR=28)\n\nSkillpoints: 287\nSaving Throw bonuses: Spells: +2, Traps: +2\nAB (max, naked): 46 (melee), 33 (ranged)\nSpell Casting: Ranger(3)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:07 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now you're not going to like this, but I can get you to Dev Crit if you take just 1 pre-epic feat post-level 20 (Great Cleave), and you get IKD as well (sadly, still no Blind Fight). You know where this is going, don't you...You'd have to swap SD for Monk (and you'd only need 9 levels to get Imp Evasion - though 10 would be better unless you're prepared to wait for it until the late 30s). It would also allow for d-w kamas and Monk apr. The big BUT, of course, is the loss of HiPS.<br/>\n<br/>\nSorry<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:44 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Only me thinking aloud again, and I know it's counter-intuitive, but a half-orc might just work here. I appreciate you'd need 13 Int for Expertise and one feat goes down the can, but that Str bump could really help, and there's no Dex penalty (nor xp with 2 prestige classes - I'm trying to leave Monk alone unless permitted). Think of him as a more chilled-out Barbarian, if that helps.<br/>\n<br/>\nBet you're glad you asked now, aren't you? <em>(Hears a sobbing mutter of, \"Where are the cogent and coherent discussions of yore?\" from the black-clad fellow with his head in his hands at the back, a solitary tear-splash rippling in his deep red wine.)</em><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "6:25 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Impressive response! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nED is not available, I was thinking strength based. All the rant about dex was solely for what buffs or item properties one needs for AC in light armor.<br/>\nIt is possible to get Ra 9/SD 3/WM 8 at lvl 20, because with Ranger, unlike Fighter, you can take SD already at lvl 8.<br/>\nWithout Dev crit, there can be room for 2 more pre epic feats. BF, I crit and KD come to mind. With Dev crit there are none and one has to spend 2 epic feat slots on pre reqs. <br/>\nI experiment with a Ra 10/ SD 5/ WM 25 split atm.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:33 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is funny you know,<br/>\nThe other day I was contemplating a build with SD because Stag was on a search for a kind of unique RDD build and I thought to myself \"hey what about a hinder RDD?\"<br/>\nFrom what I remember this was actually a suggestion by someone in one of my builds, in the past.<br/>\nSo I searched for it in the old ECB and found nothing of the sort I wanted to make (all dex-builds with very low AB etc) while I wanted a strength-based one that uses SD only for the HiPS &amp; Evasion...<br/>\nAnd yes, I made the (not so quick) draft &amp; actually achieved 40 strength with it (and I was laughing, imagining a being with the strength of Hercules hiding like Scooby-doo). <br/>\nAnd then I deleted the file because I thought, the whole darn thing is silly in the first place. I mean he had no sneaks or CS, so what's the deal with hiding? Who would play such a thing?!<br/>\nAnd now I see the SD again!<br/>\n<br/>\nAnyway, let's be serious for a moment here, why do you have to take Dev Crit in the first place with this build again Mick?<br/>\nYou could make it, yes, but at what cost?<br/>\nYou want to make this one of the old \"achievement builds\" of the past or something that actually works &amp; plays well?<br/>\nIf you want to have Dev Crit anyway, then the solution is to take as many Weapon-Master levels as possible &amp; ditch the extra SD levels, something like Ranger 15/ SD 3/ Weapon-Master 22 or similar.<br/>\nBut there is another way too, I am kinda fond of Cin's \"Baneblade\", but to perfect it I would actually take even more Ranger levels, I think Ranger 30/ SD 3/ Weapon-Master 7 would work like a charm.<br/>\nThink about it, full Ranger spells &amp; Animal Companion, HiPS, Bane of Enemies, 30-32 Strength, Dual-Kukris, Weapon-Master Crits, yummy...<br/>\n<br/>\nAnyway, this is getting long, so farewell for now ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:52 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well if you're not committed to Dev Crit, I'm getting even more keen on half-orc. Yes, I know, you could only take one of KD/BF/IC, but come on, roll with it for a moment. You're walking down a corridor whistling a merry tune when a seven foot lunatic appears from nowhere, knocks your head through a wall, smiles, nicks your purse, and is gone. I've even got the name...wait for it...\"The Invisible Hulk\". Got to be worth it!<br/>\n<br/>\nI like Valerfor's suggested R15/ SD3/ WM22 split, btw. Ample to get full BAB if you're prepared to hold SD until epic levels, or just dip by 1 if you want early HiPS. Presumably the last two SD levels are more for tumble dumps than anything. SD5 brings Def Roll, but you'd normally only want that on the way to ED, wouldn't you?<br/>\n<br/>\nThere are still sacrifices, of course. No Imp Evasion, no UMD, no (your choice) KD/BF/IC, limited skills options, unpleasant saves. But if anyone can do it, Mick can!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:59 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK Val, it was never intended as an \"achievment build\", but as it turns out, it may end up as something like that.<br/>\nWhat I wanted to make was a heavy hitter that uses stealth for tactical reasons and HIPS for crowd control. That \u00a0is not so silly. I do it a lot with rogues and the likes. <br/>\nA hasted dual wielder with warrior BAB has 3 attacks in flurry 1, 2 in flurry 2 etc. and you win the initiative from stealth. And with an extended threat range and a stellar AB... Now stop drooling, I have not mentioned Dev crit yet. <br/>\nSo that is what I try to build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:46 AM - Mar 14, 2019",
+      "content": "<div>1) PvM or PvP - A bit of Both<br/>\n<br/>\n2) Level cap - 20<br/>\n<br/>\n3) Race preference - Elf or Human (Preferably Elf)<br/>\n<br/>\n4) Class preference - Just cleric really but open to 1-2 level multiclass ideas that buff its survivability would prefer at least 17 cleric for 9th level spells<br/>\n<br/>\n5) Melee preference - Strength, and/or Cha, Sword and Board<br/>\n<br/>\n6) Range preference - WIS (spells)<br/>\n<br/>\n7) Weapon preference - Longsword<br/>\n<br/>\n8) Maximum item enhancement - +1/+2 stat, +4/+5 ac/attack/enhancement<br/>\n<br/>\n9) Spellcasting - Buffing spells and AOE battlefield control spells<br/>\n<br/>\n10) Custom factors - divine might/shield is 5 rounds + cha modifier</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:36 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would go for Fighter instead of Ranger.\u00a0 You would have to get 15 DEX for dual wielding, but in exchange for that, you get lots of feats, including WS/EWS and free Heavy Armor.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:51 PM - Mar 14, 2019",
+      "content": "<div>How about this?\n<details><summary>Spoiler</summary>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)\nPlayable 1 - 20, PvM\n\nSTR: 14\nCON: 14\nINT: 12\n\nHuman: (Quick to Master)\n02: Fighter(1): Weapon Focus: Longsword\n04: Cleric(3): WIS+1, (WIS=16)\n06: Cleric(5): Extend Spell\n08: Cleric(7): WIS+1, (WIS=17)\n10: Cleric(9)\n12: Cleric(11): WIS+1, Divine Shield, (WIS=18)\n14: Cleric(12)\n16: Cleric(14): WIS+1, (WIS=19)\n18: Cleric(16): Toughness\n20: Cleric(18): WIS+1, (WIS=20)\nStats:\nSkillpoints: 92\nSaving Throw bonuses: Spells: +4\nAB (max, naked): 18 (melee), 14 (ranged)\nSpell Casting: Cleric(9)\n\nConcentration 23(25), Discipline 16(18), Heal 14(19), Spellcraft 19(20), Tumble 10(9)\n01: Concentration(4), Heal(4), Spellcraft(4), Save(4)\n03: Concentration(1), Spellcraft(2), Tumble(1)\n05: Concentration(1), Spellcraft(1), Tumble(1)\n07: Concentration(1), Spellcraft(1), Tumble(1)\n09: Concentration(1), Spellcraft(1), Tumble(1), Save(2)\n11: Concentration(1), Spellcraft(1), Save(6)\n13: Concentration(1), Discipline(11)\n15: Concentration(1), Spellcraft(1), Tumble(1), Save(1)\n17: Concentration(1), Tumble(2)\n19: Concentration(1), Heal(3)\n</details>\n\nI made an alternate version in case you decide that Divine Might and Divine Shield aren't worth it with only 14 CHA.\n<details><summary>Spoiler</summary>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)\nPlayable 1 - 20, PvM\nAbilities:\nDEX: 12\nWIS: 15 (20)\nCHA: 8\nLeveling Guide:\n01: Cleric(1): Power Attack, Cleave, Domain Magic, Domain Trickery\n03: Cleric(2): Blind Fight\n05: Cleric(4)\n07: Cleric(6)\n09: Cleric(8): Knockdown\n11: Cleric(10)\n13: Fighter(2): Improved Critical: Longsword\n15: Cleric(13): Empower Spell\n17: Cleric(15)\n19: Cleric(17)\n\nHitpoints: 224\nSaving Throws (Fortitude/Will/Reflex): 16/16/7\nBAB: 15\nAC (naked/mundane armor/shield only): 13/24\nAlignment Changes: 0\nSkills:\n\n02: Concentration(1), Discipline(5), Heal(1)\n04: Concentration(1), Heal(1), Spellcraft(1), Tumble(1), Save(1)\n06: Concentration(1), Heal(1), Spellcraft(1), Tumble(1), Save(1)\n08: Concentration(1), Heal(1), Spellcraft(1), Save(3)\n10: Concentration(1), Heal(1), Spellcraft(1), Save(5)\n12: Concentration(1), Heal(1), Spellcraft(1), Save(9)\n14: Concentration(1), Heal(1), Spellcraft(2), Tumble(1)\n16: Concentration(1), Heal(1), Spellcraft(1), Tumble(1)\n18: Concentration(1), Heal(1), Lore(2), Spellcraft(1)\n20: Concentration(1), Heal(1), Lore(2), Spellcraft(1)</details></div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:20 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will have a closer look at both Monk and Fighter. <br/>\nMonk has a lot to offer in terms of feats and skills. Fighter has feats galore, but is weak on skills. And you have to take some Fighter levels to be able to get the dual wield feats and still have some extra for BF, the KD feats and Dev crit prereqs. And do you (or I) have the nerve <em>not</em> to take WS and EWS at the cost of even 2 more feats?<br/>\nQuestions, questions...<br/>\n<br/>\nThank you all for the great feedback! That is why I posted this, to get your input and hopefully spur some creativity to help me find a way to do this.<br/>\nKeep it coming!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:35 PM - Mar 14, 2019",
+      "content": "<div>Is this okay?\u00a0<br/>\n<br/>\nLevel 20 Melee Cleric (Cleric 19 / Paladin 1)<br/>\nElf, Good<br/>\nPlayable 1 - 20, PvM<br/>\n<br/>\n<br/>\nAbilities:<br/>\nSTR: 14<br/>\nDEX: 8<br/>\nCON: 12<br/>\nWIS: 15 (20)<br/>\nINT: 12<br/>\nCHA: 14<br/>\n<br/>\nLeveling Guide:<br/>\n01: Cleric(1): Power Attack, Domain Magic, Domain Trickery<br/>\n02: Cleric(2)<br/>\n03: Cleric(3): Blind Fight<br/>\n04: Cleric(4): WIS+1, (WIS=16)<br/>\n05: Cleric(5)<br/>\n06: Cleric(6): Extend Spell<br/>\n07: Cleric(7)<br/>\n08: Cleric(8): WIS+1, (WIS=17)<br/>\n09: Cleric(9): Divine Might<br/>\n10: Cleric(10)<br/>\n11: Cleric(11)<br/>\n12: Cleric(12): WIS+1, Divine Shield, (WIS=18)<br/>\n13: Cleric(13)<br/>\n14: Cleric(14)<br/>\n15: Cleric(15): Weapon Focus: Longsword<br/>\n16: Cleric(16): WIS+1, (WIS=19)<br/>\n17: Cleric(17)<br/>\n18: Cleric(18): Toughness<br/>\n19: Cleric(19)<br/>\n20: Paladin(1): WIS+1, (WIS=20)</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:45 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nI would go for Fighter instead of Ranger.\u00a0 You would have to get 15 DEX for dual wielding, but in exchange for that, you get lots of feats, including WS/EWS and free Heavy Armor.\n</div></blockquote>\nAah, but Mick never seems to travel with any friends, bless him - just mumbles on to himself. At least Ranger gives him something to talk to - that's got to be worth 4 or 5 feats, hasn't it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nHee hee<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:13 PM - Mar 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, I'm parking half-orc (mostly 'cos you're ignoring it), so how about a human Ranger 23/ Monk10/ WM 7? Or is that too much Ranger for your liking? You'd only need Great Cleave as the infiltrator into epic, and you could start with all the required stats for the feats. One issue would be whether to go for Wis or Dex as (to put it crudely) the monk pump to AC. My temptation might be to go for Wis. Yes, it hurts at early levels, where you wouldn't be using d-w anyway, so you could pop on some medium armour and grab a shield, but you need a positive Wis for Ranger anyway, and it doesn't suffer from being flat-footed like Dex does. My thinking is that later on you can d-w with monk apr and speed while wearing a nice blouse.<br/>\n<br/>\nTo be fair, I've not thought this all the way through...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:47 AM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAlright, I'm parking half-orc (mostly 'cos you're ignoring it), so how about a human Ranger 23/ Monk10/ WM 7? Or is that too much Ranger for your liking? You'd only need Great Cleave as the infiltrator into epic, and you could start with all the required stats for the feats. One issue would be whether to go for Wis or Dex as (to put it crudely) the monk pump to AC. My temptation might be to go for Wis. Yes, it hurts at early levels, where you wouldn't be using d-w anyway, so you could pop on some medium armour and grab a shield, but you need a positive Wis for Ranger anyway, and it doesn't suffer from being flat-footed like Dex does. My thinking is that later on you can d-w with monk apr and speed while wearing a nice blouse.<br/>\n<br/>\nTo be fair, I've not thought this all the way through...\n</div></blockquote>\nI must apologise Stag for not replying to every post here. I've been busy traveling by train, seeing family and trying to respond in between.<br/>\nAs for half-orc, I've parked it already. It has extra strength, but less intelligence, skills and feats than human. You even need a double buy point to get to int 13 for WM.<br/>\nThe attack schedule of Monk is always tempting with multiple attacks. The threat range and multiplier of kamas is not quite so tempting. So I have to look further into it.<br/>\nAs for Ranger I was thinking of wis 12, but that is for 10 levels of Ranger, so I may be flexible here if something else demands other abilities.<br/>\nWhen I go beyond WM 7, it is because I chase AB here.<br/>\nBut don't lose courage, I appreciate every bit of feedback, and I still wonder where this will take me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:59 AM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>Aah, but Mick never seems to travel with any friends, bless him - just mumbles on to himself. At least Ranger gives him something to talk to - that's got to be worth 4 or 5 feats, hasn't it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nYou must be refering to my Aielund solo run where I played a sorcerer that only shared the company of a skeleton and a hovering eye, and only for a very few levels. Not much in tems of communication there. So maybe a warm blooded pet is in order. The only problem is if I end up with a spider companion.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:02 AM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Str (19) Dex (13) Con (8) Int (13) Wis (12) Cha (6)<br/>\nHmm, he barely fits but it will only be for the brave ones.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:56 AM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\nAlright, I'm parking half-orc (mostly 'cos you're ignoring it), so how about a human Ranger 23/ Monk10/ WM 7? Or is that too much Ranger for your liking? You'd only need Great Cleave as the infiltrator into epic, and you could start with all the required stats for the feats. One issue would be whether to go for Wis or Dex as (to put it crudely) the monk pump to AC. My temptation might be to go for Wis. Yes, it hurts at early levels, where you wouldn't be using d-w anyway, so you could pop on some medium armour and grab a shield, but you need a positive Wis for Ranger anyway, and it doesn't suffer from being flat-footed like Dex does. My thinking is that later on you can d-w with monk apr and speed while wearing a nice blouse.<br/>\n<br/>\nTo be fair, I've not thought this all the way through...\n</div></blockquote>\nI must apologise Stag for not replying to every post here. I've been busy traveling by train, seeing family and trying to respond in between.<br/>\nAs for half-orc, I've parked it already. It has extra strength, but less intelligence, skills and feats than human. You even need a double buy point to get to int 13 for WM.<br/>\nThe attack schedule of Monk is always tempting with multiple attacks. The threat range and multiplier of kamas is not quite so tempting. So I have to look further into it.<br/>\nAs for Ranger I was thinking of wis 12, but that is for 10 levels of Ranger, so I may be flexible here if something else demands other abilities.<br/>\nWhen I go beyond WM 7, it is because I chase AB here.<br/>\nBut don't lose courage, I appreciate every bit of feedback, and I still wonder where this will take me.\n</div></blockquote>\nNo need for apologies Mick - the half-orc thing was just me trying to be creative, and as Valerfor points out, it would take almost insane bravery to give it a whirl. Train journeys do seem to trigger interesting thoughts though - my messing about with GDL's Hearth Guard was the result of one.<br/>\n<br/>\nI know what you mean about kamas, but I'm not sure how much better other dual-wield weapons would fare. Kukris would be nice, but you don't have a spare feat to go exotic really (if you did, a double-bladed sword or axe might be fun instead). It's trying to strike the balance between the monk attack schedule and the better threat/multiplier of other weapons.<br/>\n<br/>\nOne other thing in monk's favour is that, while it remains true you can't get UMD, you do get to wear all the groovy monk gear, which should help with AC/speed. (I've just realized that while I'm supposed to be weaning myself off monk builds, I'm now trying to push them onto other people - oops!)<br/>\n<br/>\nIf you're looking for more AB, maybe Ranger 10/ Monk 11/ WM 19 might cut it?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:39 PM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He could play with hatchets, which is what Cin took for his Baneblade as well, 16-20X4 sounds good to me.<br/>\nI believe Mick also made that exact build you mentioned Stag, it was in a thread about the praying mantis &amp; legacy kukri master if memory serves.<br/>\n<br/>\nI still believe that 30/3/7 is a better, more complete build overall. Yes, it won't have 51AB, it will have 48AB but so what...<br/>\nAnyway, I am just voicing my thoughts loudly here, Mick don't let my \"loud\" thoughts steer you from your target ;)\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:15 PM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nMick don't let my \"loud\" thoughts steer you from your target ;)\u00a0\n</div></blockquote>\nNo worries, I appreciate the feedback!<br/>\n<br/>\nEdit: Baneblade is the build by Cin that i was referring to in my earlier post<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:32 PM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is something I have put together.\n<details><summary>Spoiler</summary>Ranger(10), Weapon Master(25), Shadowdancer(5), Human\n\nDEX: 14\nWIS: 12\nCHA: 8\n01: Ranger(1): Dodge, Expertise, Favored Enemy: Undeads, {Dual Wield}\n03: Ranger(3): Weapon Focus: Shortsword\n05: Ranger(5): Favored Enemy: Constructs\n07: Ranger(7)\n09: Ranger(8): Spring Attack\n11: Shadowdancer(2): {Darkvision, Evasion, Uncanny Dodge I}\n13: Weapon Master(1): Weapon of Choice: Shortsword\n15: Weapon Master(3): Improved Critical: Shortsword\n17: Weapon Master(5)\n19: Weapon Master(7)\n21: Ranger(10): Cleave, Epic Weapon Focus: Shortsword\n23: Weapon Master(10)\n25: Weapon Master(12)\n27: Shadowdancer(4): Great Strength I, (STR=22)\n29: Weapon Master(15)\n31: Weapon Master(17)\n33: Weapon Master(19): Great Strength III, Devastating Critical: Shortsword, (STR=26)\n35: Weapon Master(21)\n37: Shadowdancer(5): {Defensive Roll}\n39: Weapon Master(24): Great Strength V, (STR=29)\n\nSaving Throws (Fortitude/Will/Reflex): 21/17/24\nBAB: 29\nThreat range and multiplier (mundane shoretsword): 15-20/x3 ( 13-20/x3 with keen)\nAC (naked/mundane armor/shield only): 22/30\nAlignment Changes: 0\nSkillpoints: 261\n\n01: Animal Empathy(1), Discipline(4), Hide(4), Intimidate(1), Listen(4), Move Silently(4), Search(4), Set Trap(1), Tumble(2), \n03: Discipline(1), Hide(1), Intimidate(1), Listen(1), Move Silently(1), Search(1), Tumble(1), \n05: Discipline(1), Hide(1), Intimidate(1), Listen(1), Move Silently(1), Search(1), Tumble(1), \n07: Discipline(1), Hide(1), Listen(1), Move Silently(1), Search(1), Tumble(1), Save(2), \n09: Discipline(2), Hide(1), Intimidate(1), Listen(1), Move Silently(1), Search(1), \n11: Hide(1), Listen(1), Move Silently(1), Search(1), Spot(2), Tumble(3), \n13: Discipline(3), Listen(1), Spot(1), \n15: Discipline(1), Listen(1), Save(6), \n17: Discipline(1), Listen(1), Save(12), \n19: Discipline(1), Listen(1), Save(18), \n21: Discipline(1), Hide(9), Listen(1), Move Silently(9), Search(4), Save(4), \n23: Discipline(1), Listen(1), Save(10), \n25: Discipline(1), Listen(1), Save(16), \n27: Hide(6), Listen(1), Move Silently(6), Tumble(15), \n29: Discipline(1), Listen(1), Spot(2), Save(1), \n31: Discipline(1), Listen(1), Save(7), \n33: Discipline(1), Listen(1), Save(13), \n35: Discipline(1), Listen(1), Save(19), \n37: Hide(10), Listen(1), Move Silently(10), Tumble(10), \n39: Discipline(1), Listen(1), Spot(3), \n</details>\nThe non dev crit version has str 32, AB 50, Blind fight and 40 extra hitpoints from epic toughness<br/>\n<br/>\nWhile you dissect this build, I'll have a closer look at the options you have come up with. I will also see what RDD has to offer.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:27 PM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Don't know if it would be worth it to you, but you could get your Str/AB up by 2. However, it comes at a price. If you take EWF as the WM13 bonus feat, EP at WM16 and AS at WM19, you could take Great Strength 1 at level 21. You'd also have to drop your starting Con by 2 and Int or Dex by 1 (or even Wis - I think you only need a starter of 11 for Ranger, but I might be wrong). So is 1AB worth 60 hps, either 1AC or 40 skill points or Ranger spells, and delaying EWF by 5 levels, EP by 10 and AS by 4? It wouldn't be for me, but I'm just saying that you could.<br/>\n<br/>\nThe lack of Blind Fight and Knockdown does still worry me, though. This fellow seems pretty much a one-trick pony, I'm afraid, and while the Dev Crit DC isn't at all bad, it's not stellar, and it comes fairly late in the build (and you play on hardcore as well, which ain't going help, is it?). I just wonder whether the same feat starvation that afflicted my thoughts about Bard/ WM/ RDD is similarly applicable here.<br/>\n<br/>\nDon't get me wrong, this is probably as optimized as it's going to get, I just wouldn't fancy trying it myself.<br/>\n<br/>\nNow, the non-Dev Crit version might be a different story...<br/>\n<br/>\nSorry to sound so downbeat <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\n<em><strong>EDIT:</strong></em> Oh, and just to be selfish, shortswords are poo - go for hatchets! And they fit with Ranger.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "8:43 PM - Mar 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's a good one Mick, nothing much to say that Stag did not already mention &amp; I would also like to see the other versions but if I am to make some constructive criticism, then three things.<br/>\na) You already have listen so take some points from spot &amp; put them into deadly traps.<br/>\nb) take armour skin before epic prowess<br/>\nc) start with 16 strength &amp; take either blind-fight or epic save booster (your choice).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:56 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you guys, I appreciate the feedback.<br/>\nI have done some research with other classes, like you suggested.<br/>\nhere is the first one:<br/>\n<br/>\n<details><summary>Spoiler</summary>Fighter(12), Weapon Master(25), Shadowdancer(3), Human\n\nDEX: 15\nWIS: 8\nCHA: 8\n01: Fighter(1): Dodge, Expertise, Weapon Proficiency Exotic\n03: Fighter(3): Two-Weapon Fighting\n05: Fighter(5)\n07: Fighter(7)\n09: Weapon Master(1): Improved Two-Weapon Fighting, Weapon of Choice: Kukri\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Power Attack\n17: Fighter(10): Cleave\n19: Weapon Master(9)\n21: Weapon Master(11): Great Strength I, (STR=22)\n23: Weapon Master(12)\n25: Fighter(11)\n27: Weapon Master(15): Great Strength II, (STR=24)\n29: Weapon Master(17)\n31: Weapon Master(19): Epic Weapon Focus: Kukri\n33: Fighter(12): Weapon Specialization: Kukri, Epic Weapon Specialization: Kukri\n35: Weapon Master(21)\n37: Weapon Master(23)\n39: Shadowdancer(3): Great Strength IV, (STR=29)\n\nSaving Throws (Fortitude/Will/Reflex): 22/15/22\nBAB: 30\nAC (naked/mundane armor/shield only): 22/32\nSkillpoints: 227\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:02 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And here is the next one:<br/>\n<br/>\n<details><summary>Spoiler</summary>Monk(20), Ranger(10), Champion of Torm(10), Human\n\nDEX: 10\nWIS: 14\nCHA: 8\n01: Ranger(1): Luck of Heroes, Expertise, Favored Enemy I, {Dual Wield}\n03: Ranger(3): Blind Fight\n05: Ranger(5): Favored Enemy II\n07: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n09: Ranger(8): Weapon Focus: Kama\n11: Monk(2): {Deflect Arrows}\n13: Monk(4)\n15: Monk(6): Great Fortitude, {Knockdown, Improved Knockdown}\n17: Monk(7)\n19: Monk(8)\n21: Champion of Torm(4): Great Strength I, Epic Weapon Focus: Kama, (STR=23)\n23: Champion of Torm(5)\n25: Champion of Torm(7)\n27: Monk(10): Great Strength III, (STR=26)\n29: Champion of Torm(10): Armor Skin\n31: Monk(11)\n33: Monk(13): Great Strength V, (STR=30)\n35: Monk(15)\n37: Monk(17)\n39: Monk(19): Great Strength VII, (STR=33)\n\nSaving Throws (Fortitude/Will/Reflex): 34/28/28\nBAB: 28\nAC (naked/mundane armor/shield only): 26/28\nAlignment Changes: 0\nSkillpoints: 238\n</details>\nEdit: Starting with Str 15 Dex 14 and Int 14 is an option here<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:06 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And here is one more:<br/>\n<details><summary>Spoiler</summary>Bard(16), Fighter(14), Red Dragon Disciple(10), Human\n\nDEX: 15\nWIS: 8\nCHA: 14 (16)\n01: Bard(1): Curse Song, Power Attack\n03: Fighter(2): Weapon Proficiency Exotic, Weapon Focus: Kukri\n05: Fighter(4): Blind Fight\n07: Bard(2)\n09: Red Dragon Disciple(3): Improved Knockdown\n11: Fighter(5)\n13: Fighter(6): Ambidexterity\n15: Fighter(8): Two-Weapon Fighting, Improved Two-Weapon Fighting\n17: Bard(4)\n19: Red Dragon Disciple(7): (CON=12)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Kukri, (INT=16)\n23: Red Dragon Disciple(10): {Darkvision}, (STR=28), (CHA=16)\n25: Fighter(10): Devastating Critical: Kukri\n27: Fighter(12): Great Strength I, Armor Skin, (STR=30)\n29: Fighter(13)\n31: Bard(7)\n33: Bard(9): Great Strength III, (STR=34)\n35: Bard(11)\n37: Bard(13)\n39: Bard(15): Great Strength V, (STR=37)\n\nSaving Throws (Fortitude/Will/Reflex): 24/21/20\nBAB: 27\nAC (naked/mundane armor/shield only): 26/36\nSpell Casting: Bard(6)\nSkillpoints: 272\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:26 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a \"full\" Ranger without WM, just for comparison:<br/>\n<details><summary>Spoiler</summary>Ranger(30), Shadowdancer(4), Fighter(6), Human\n\nDEX: 13\nWIS: 14\nCHA: 8\n01: Ranger(1): Power Attack, Cleave, Favored Enemy I, {Dual Wield}\n03: Fighter(2): Dodge, Knockdown\n05: Fighter(3)\n07: Ranger(3)\n09: Ranger(4): Blind Fight\n11: Ranger(6)\n13: Ranger(8)\n15: Ranger(10): Improved Critical, Favored Enemy III\n17: Shadowdancer(2): {Darkvision, Evasion, Uncanny Dodge I}\n19: Ranger(13)\n21: Ranger(15): Great Strength I, Epic Weapon Focus, (STR=22)\n23: Fighter(6): Epic Weapon Specialization\n25: Ranger(17)\n27: Shadowdancer(3): Overwhelming Critical\n29: Ranger(20): Epic Prowess\n31: Ranger(22)\n33: Ranger(24): Armor Skin\n35: Ranger(26): Favored Enemy V\n37: Shadowdancer(4)\n39: Ranger(29): Great Strength IV, Favored Enemy VI, (STR=29)\n\nSaving Throws (Fortitude/Will/Reflex): 24/17/19\nBAB: 29\nAC (naked/mundane armor/shield only): 21/32\n\nDiscipline 43(53), Hide 43(44), Listen 43(45), Move Silently 43(44), Search 19(20), Tumble 40(41), remaining skillpoints 18\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:30 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Mick - good grief, you've put the time in here, haven't you!<br/>\n<br/>\nYou probably won't be surprised to hear that the 2nd (Monk 20/ Ranger 10/ CoT 10) and 3rd (Bard 16/ Fighter 14/ RDD 10) builds are my favourites in terms of playability.<br/>\n<br/>\nInteresting that, even with your best endeavours, you still can't shoehorn KD and Blind Fight into the first build (Fighter 12/ WM 25/ SD 3) despite all those Fighter bonus feats. The only way I can see is to drop 3 levels of WM for 2 more Fighter and 1 more SD, and dropping kukri for a non-exotic weapon. I think that's only a 1 point hit to AB, but it might be 2. I notice that you take ESkF in both Hide and MS as general feats and wondered whether 2 more Great Strengths might redress that AB dip? As a genuine question about those ESkF feats, if you've got HiPS, do higher Hide and MS skills make much difference?<br/>\n<br/>\nDamn - I've just realized that dropping 3 WM levels would mean losing either AS or EP (probably EP), so still entailing a loss of 1 AB. Sorry.<br/>\n<br/>\nA very impressive set of builds, though!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:11 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nInteresting that, even with your best endeavours, you still can't shoehorn KD and Blind Fight into the first build (Fighter 12/ WM 25/ SD 3) despite all those Fighter bonus feats\n</div></blockquote>\nNo, the only way to push everything into a build like that (Dev Crit, ITWF, Exotic weapons, BF, IKD, Weapon-master Crits) is to make it like I build Musashi (Ftr28-30/xx/Wm7).<br/>\nYou will have to be content with \"only\" 46-48AB however.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:46 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Epic WM gets a bonus feat every 3rd levels. Fighter gets one every 2nd. So as long as you have something to put into the WM feat slots, you must drop 6 levels of WM with the loss of 2AB to gain one extra feat from Fighter.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "6:17 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nHi Mick - good grief, you've put the time in here, haven't you!\n</div></blockquote>\n\nI have put some time into it. But maybe not quite like you think. <br/>\nI have studied the different input you have posted. Then I started to browse my folders thoroughly, and it occured to me that this must have been a recurring build idea on my part. So I have posted several builds that share some of the same ideas. None of them have been completed optimally, but still serve as ideas of how to approach this in different ways. <br/>\nThey are here for you to comment and improve upon, if you feel like it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "EatPreyLuv",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:24 PM - Mar 14, 2019",
+      "content": "<div>I also did this, the goal being that it's melee is coupled with some implosion use:<br/>\n<br/>\nLevel 20 Melee Cleric (Cleric 18 / Fighter 2)<br/>\nElf, Lawful Good<br/>\n<br/>\n<br/>\nAbilities:<br/>\nSTR: 14<br/>\nDEX: 10<br/>\nCON: 14<br/>\nWIS: 15 (20)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nLeveling Guide:<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Blind Fight, Domain Magic, Domain Trickery<br/>\n02: Fighter(1): Weapon Focus: Longsword<br/>\n03: Cleric(2): Extend Spell<br/>\n04: Cleric(3): WIS+1, (WIS=16)<br/>\n05: Cleric(4)<br/>\n06: Cleric(5): Empower Spell<br/>\n07: Cleric(6)<br/>\n08: Cleric(7): WIS+1, (WIS=17)<br/>\n09: Cleric(8): Knockdown<br/>\n10: Cleric(9)<br/>\n11: Cleric(10)<br/>\n12: Cleric(11): WIS+1, Improved Knockdown, (WIS=18)<br/>\n13: Fighter(2): Improved Critical: Longsword<br/>\n14: Cleric(12)<br/>\n15: Cleric(13): Toughness<br/>\n16: Cleric(14): WIS+1, (WIS=19)<br/>\n17: Cleric(15)<br/>\n18: Cleric(16): Spell Focus: Evocation<br/>\n19: Cleric(17)<br/>\n20: Cleric(18): WIS+1, (WIS=20)</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:16 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the RDD one best.\u00a0 The AB and AC are both pretty good, and Blind Fight and Knockdown/IKD are present.\u00a0 You won't get as many critical threats as the WM version, but the DC is higher.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:59 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've been trying my best to come up with something on the Ranger/ Monk/ CoT build but getting WM in instead of CoT to try to help in the original concept. Thought I'd come up with something decent as a Ranger 23/ Monk 10/ WM 7 with a 48 AB, 30 STR and BoE...then I realized I'd forgotten to take Imp Crit. Room now covered in confetti and despair. I think the neighbours are worried by the howling.<br/>\n<br/>\nI'll keep having attempts at different combos to try to be constructive and helpful. But honestly - can wide open, worms every-bloody-where! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nCheers Mick!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:45 PM - Mar 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite> As a genuine question about those ESkF feats, if you've got HiPS, do higher Hide and MS skills make much difference?</div></blockquote>\n\nHIPS let you hide in plain sight, as opposed to getting out of the line of sight before you can hide. You still have to use your hide skill to hide successfully (avoid being spotted), and your MS skill to move around undetected (among listening foes).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:18 AM - Mar 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll go against the grain &amp; say that I like the last one. Not only it is the most difficult to do from the four but it just feels more complete.<br/>\nYou could also make him a (Ranger 32/ SD 2/ Fighter 6) &amp; gain 1AB at the cost of HiPS coming at 22nd level as your (Ftr 12/SD 3/Wm 25) does.<br/>\nFurthermore, I would drop IKD for plain KD &amp; BF &amp; take kukris because of the theme of the build (strike first &amp; annihilate your opponent).<br/>\nThat build would then have 44 AB (42 Dual-Wield) +2AB when attacking one of the seven FE's, BF &amp; KD, HiPS &amp; Dev Crit, full Ranger spells, a strong animal companion, deadly traps &amp; a detection skill.<br/>\nIt would be a fun character to play with lots of abilities, but that's just me.<br/>\n<br/>\nEdit: I wanted to say that I enjoyed all of the builds though, you have put some considerable thought in making them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:32 AM - Mar 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick. It took me a few minutes to grasp what you meant (my fault, not yours), but got it now.<br/>\n<br/>\nCheers<br/>\n<br/>\nAnd in the time it took me to get it, I got ninja'd by Valerfor!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:28 AM - Mar 15, 2019",
+      "content": "<div>The second build looks good.\u00a0 Note, you will have a 20% experience penalty starting at level 4 because neither Cleric nor Fighter is the favored class for an Elf.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Mirnaia",
       "avatar": "no_avatar.png",
-      "timestamp": "10:11 AM - Mar 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Very niche point: if you have HiPS, then when using it to avoid retaliation, MS makes less of a difference, as there is less ground to cover between disappearing and re-engaging. But for all intents and purposes, put it as high as you can.<br/>\n<br/>\nI like the idea of devcritting from hiding, and this has been a very interesting thread.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Thorsson",
-      "avatar": "10758835_1513245773.jpg",
-      "timestamp": "10:38 AM - Mar 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">But the Hide/MS checks are once a round (twice a round with Elf), so can you HiPS and attack before the 'Spot' check triggers?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:04 PM - Mar 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Thorsson wrote:</cite>\nBut the Hide/MS checks are once a round (twice a round with Elf), so can you HiPS and attack before the 'Spot' check triggers?\n</div></blockquote>\n\nGood question Thorsson!<br/>\nI have no idea how this is programmed, but I experience that if you HIPS, it cancels remaining attacks in that round. What fires first in the round, a spot check or the first flurry of attacks, I don't know.<br/>\nIf you hide and are detected, you can reverse that by going out of stealth and enter stealth (HIPS) again immediately. If you can do that more often than the spot checks, it raises the question if you can avoid or at least escape detection by spamming HIPS even if your hide skill is very low.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:10 PM - Mar 15, 2019",
+      "content": "<div>If you're only going to take a few levels of one more class, Monk goes best with Cleric, 8 Str, high Dex high Wis. Monk attack schedule + DP + DF + DF = slaughter ass.<br/>\nEDIT: Right, apparently I didn't get the strength-based bit, sorry. I tend to forget Str exists as an ability score for clerics :)</div>"
     }
   ]
 }

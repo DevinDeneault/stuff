@@ -4,77 +4,49 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "595",
-  "name": "Vapor Monk?? M30/SD5/HS5",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/vapor-monk-m30-sd5-hs5-t2355488.html",
-  "author": "MentalDekay",
-  "avatar": "10759116_1563898639.jpg",
-  "replies": 10,
+  "name": "Darth Vader Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/darth-vader-build-t2355493.html",
+  "author": "NeruBlack",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "1.2K",
   "posts": [
     {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "7:04 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just something that came to me... I wanted a pure-as-possible monk and started from monk40 (speed, UA damage, SR), but Epic Dodge and Self-Concealment were highly desired.\u00a0<br/>\n<br/>\nElf for the Dexterity bump. Shadowdancer gets me Epic Dodge. Harper came from searching for a 3rd flavor to add (monk35/SD5 seemed strong), it let me squeeze in SCV and an extra +1 dexterity. This was at the cost of some monk speed and AC, stunning fist DC, 10 SR...<br/>\n<br/>\nIt seems like it is a bit stronger with the Harper Scout added, but less of a dedicated Mage killer maybe?<br/>\n<br/>\nOpinions? Comments? Ideas? Inspirations?<br/>\n<details><summary>Spoiler</summary>\nMonk(30), Shadowdancer(5), Harper Scout(5), Elf\nSTR: 10\nCON: 10\nINT: 10\n\n01: Monk(1): Dodge, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(3): Weapon Finesse\n05: Monk(5)\n07: Monk(7)\n09: Monk(9): Mobility, {Improved Evasion}\n11: Monk(11)\n13: Monk(13)\n15: Monk(15): Alertness\n17: Shadowdancer(1): {Hide in Plain Sight}\n19: Shadowdancer(3)\n21: Monk(17): Epic Weapon Focus: Unarmed\n23: Harper Scout(2)\n25: Harper Scout(4)\n27: Shadowdancer(5): Epic Dodge, {Defensive Roll}\n29: Monk(19)\n31: Monk(21)\n33: Monk(23): Self Concealment II\n35: Monk(25): Self Concealment III\n37: Monk(27)\n39: Monk(29): Great Dexterity IV, (DEX=33)\n\nSkillpoints: 182\nSaving Throw bonuses: Mind Effects: +6, Traps: +3\nAB (max, naked): 40 (melee), 37 (ranged)\nSpell Casting:\u00a0\n\n\n01: Disable Trap(1), Hide(4), Move Silently(4), Open Lock(1), Tumble(4),\u00a0\n03: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n05: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n07: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n09: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n11: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n13: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n15: Hide(1), Move Silently(1), Persuade(1), Tumble(1),\u00a0\n17: Hide(1), Move Silently(1), Persuade(2), Search(1), Tumble(1),\u00a0\n19: Hide(1), Move Silently(1), Persuade(1), Search(2), Tumble(1),\u00a0\n21: Discipline(4), Hide(1), Move Silently(1), Tumble(1),\u00a0\n23: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n25: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n27: Hide(1), Move Silently(1), Tumble(1), Save(3),\u00a0\n29: Hide(1), Move Silently(1), Tumble(1), Save(5),\u00a0\n31: Hide(1), Move Silently(1), Tumble(1), Save(7),\u00a0\n33: Hide(1), Move Silently(1), Tumble(1), Save(9),\u00a0\n35: Hide(1), Move Silently(1), Tumble(1), Save(11),\u00a0\n37: Hide(1), Move Silently(1), Tumble(1), Save(13),\u00a0\n39: Hide(1), Move Silently(1), Tumble(1), Save(15),\u00a0\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "NeruBlack",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:21 AM - Jun 07, 2020",
+      "content": "<div>I need help crafting Vader in NWN. I think i want to start with fighter and possibly add a sorcerer level or two for force powers along with blackguard<br/>\n<br/>\nSent from my LM-Q720 using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:24 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like the use of Harper to get Great Dex and access to Cat's Grace and potion of Cat's Grace.<br/>\n<br/>\nI think it is a cool idea, good thinking outside of the box.<br/>\n<br/>\nWhat I do think is something to consider, is the feat cost (pre-req for HS) and skill costs, and lack of UMD.\u00a0 If only HS had UMD...wouldn't that be something?<br/>\n<br/>\nED and 50% Concealment is a powerful combination imo.\u00a0 It does sort of make the Monk ability Empty Body a bit useless, however.\u00a0 <br/>\n<br/>\nIn any regards, whenever I see some HS in a build, it always catches my attention.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:43 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like it, MD! I had similar intent in my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/truesilver-s-hand-monk-30-dwd-5-sd-5-t2355093.html\" rel=\"noreferrer\" target=\"_blank\">Truesilver's Hand</a> build, but with less focus on SC - letting Defensive Awareness, HiPS and ED take more of the strain as a Monk 30/ SD 5/ DwD 5. I only include it here for compare and contrast purposes: the stats are broadly similar. Nice to see HS come out for a stroll in the sun!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:01 PM - Jun 07, 2020",
+      "content": "<div>Vader is a strong Force user, maybe the strongest ever seen.<br/>\n<br/>\nAnd he likes to use the Force to hold others in place, crush their windpipe with an \"invisible hand\" and move things about - quite heavy things.<br/>\n<br/>\nAs such, he probably has many more levels of Sorc, I am thinking.\u00a0 Also, with his crippled body, probably almost half machine, that should somehow be taken into account.<br/>\n<br/>\nSo what about Sorc/PM/Blackguard?</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:03 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "8:08 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>I like the use of Harper to get Great Dex and access to Cat's Grace and potion of Cat's Grace.</div></blockquote>\nI can't remember who highlighted that, but it does seem like a boon for a Dex-based build.<br/>\n<blockquote><div>What I do think is something to consider, is the feat cost (pre-req for HS) and skill costs, and lack of UMD.\u00a0 If only HS had UMD...wouldn't that be something?<br/>\n<br/>\nED and 50% Concealment is a powerful combination imo.\u00a0 It does sort of make the Monk ability Empty Body a bit useless, however.\u00a0\u00a0</div></blockquote>\nThe feat cost is high. I had to give up blindfight and something else (circle kick? can't remember now). You're pointing to Empty Body is good tho. Do any concealments (empty body, SC, ghostly visage, etc) stack?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "8:11 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"20846\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20846&amp;sid=ef3e7ba3b36c90abef7802d08e4296c1#p20846\">\u2191</a><div class=\"responsive-hide\">Jun 04, 2020</div></cite>I like it, MD! I had similar intent in my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/truesilver-s-hand-monk-30-dwd-5-sd-5-t2355093.html\" rel=\"noreferrer\" target=\"_blank\">Truesilver's Hand</a> build, but with less focus on SC - letting Defensive Awareness, HiPS and ED take more of the strain as a Monk 30/ SD 5/ DwD 5. I only include it here for compare and contrast purposes: the stats are broadly similar. Nice to see HS come out for a stroll in the sun!<br/>\n<br/>\nCheers</div></blockquote>\nWhen looking for that last splash (accidental <a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/Last_Splash\" rel=\"noreferrer\" target=\"_blank\">Breeders reference)</a>, I definitely saw your build. But I liked the Dex from elf.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "8:20 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"20847\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20847&amp;sid=ef3e7ba3b36c90abef7802d08e4296c1#p20847\">\u2191</a><div class=\"responsive-hide\">Jun 04, 2020</div></cite>Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.</div></blockquote>\nAs mentioned in the reply to Web, I forgot about that monk skill. I'm also unsure how or if concealment stacks. You guys are making me think that having it \"always on\" with SCV is probably not necessary.<br/>\n<br/>\nSo that begs several questions then (that probably comes down to play environment):\u00a0<br/>\n- keep Harper Scout? Still get some usefulness out of it with the great dex and cat's grace<br/>\n-- If I keep it, what are good ideas for the 5 epic level feats? More Great Dex? Epic prowess? All the energy resistances? Armor skin? More spell resistance?<br/>\n- is there another splash that would add significantly?\u00a0<br/>\n-- I did think about a one level dip of Rogue at 40 for UMD.<br/>\n-- I also considered have fighter 4 (or so). that'd offer weapon specialization.<br/>\n-- Assassin is another idea. But that would limit RP'ing. Maybe assassin is something for those PW's where story isn't as important.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:26 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Haha - did you see the \"genre\" label in your Breeders reference? \"Alternative Rock, Noise Pop\" <em>Noise Pop!</em><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "MentalDekay",
-      "avatar": "10759116_1563898639.jpg",
-      "timestamp": "8:29 PM - Jun 04, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Concealment\" rel=\"noreferrer\" target=\"_blank\">Concealment</a>\u00a0does not stack.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:07 AM - Jun 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you have 4 pre-epic levels of CoT, you could get 1 more attack per round with no EXP penalty, but that comes at the cost of shorter Empty Body duration, less Spell Resistance, and -1 AC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:58 PM - Jun 07, 2020",
+      "content": "<div>Vader is also good with a sword, so how about Fighter 6 / Blackguard 8 / Sorcerer 26, with Fighter 4 / Blackguard 8 / Sorcerer 8 pre-epic for 4 attacks per round?\u00a0 The\u00a0 CHA would end at 20 and the STR at probably around 24 or 26 or so.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:46 PM - Jun 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>MentalDekay wrote: <a data-post-id=\"20851\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20851&amp;sid=669b1280f24382dddfc9aa405f861ef2#p20851\">\u2191</a><div class=\"responsive-hide\">Jun 04, 2020</div></cite><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"20847\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=20847&amp;sid=669b1280f24382dddfc9aa405f861ef2#p20847\">\u2191</a><div class=\"responsive-hide\">Jun 04, 2020</div></cite>Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.</div></blockquote>\nAs mentioned in the reply to Web, I forgot about that monk skill. I'm also unsure how or if concealment stacks. You guys are making me think that having it \"always on\" with SCV is probably not necessary.<br/>\n<br/>\nSo that begs several questions then (that probably comes down to play environment):\u00a0<br/>\n- keep Harper Scout? Still get some usefulness out of it with the great dex and cat's grace<br/>\n-- If I keep it, what are good ideas for the 5 epic level feats? More Great Dex? Epic prowess? All the energy resistances? Armor skin? More spell resistance?<br/>\n- is there another splash that would add significantly?\u00a0<br/>\n-- I did think about a one level dip of Rogue at 40 for UMD.<br/>\n-- I also considered have fighter 4 (or so). that'd offer weapon specialization.<br/>\n-- Assassin is another idea. But that would limit RP'ing. Maybe assassin is something for those PW's where story isn't as important.</div></blockquote>\nRE Harper Scout - up to you, 2 dex is great *I think* the Harper Cat's *might* stack with standard Cat's when I looked it up months ago. But not 100% sure.<br/>\nIf you dropped it you have lots of choices, rogue seems nice for 1d6-3d6 sneak attack damage combined with 5-7 APR.\u00a0 Fighter 5 you can get epic weapon specialization if you take EWS as a general epic feat on a fighter 5 level.\u00a0Multiclass penalty with both, assassin and CoT/Blackguard/Arcane Archer (for BAB 26+) being alternatives to dodge the multiclass penalties.<br/>\nRE Epic Level Feats - I like Epic Prowess and Armor Skin. The other feats could be Improved Spell Resistance, Epic Fortitude (those darn Implosions that go through death immunity, although with that monk speed you *could* kind of dodge them, if you aren't mobbed), even toughness / great constitution to push the base HP closer to 400 for a meleer. Up to you what you like really. Epic Energy Resistances depend on the environment and what you are facing.\u00a0<br/>\nRE UMD - its a powerful skill<br/>\nRE Assassin - can understand the issues with being an evil assassin monk<br/>\n<br/>\nTumble can be 40 ranks in the build rather than 43 btw<br/>\n<br/>\n<strong>Edit:</strong>\u00a0The Harper Cat's Grace Feat (but not crafted potion) appeared to stack with standard Cat's Grace spell/potion when I playtested it in July 2019 preparing <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/brew-potion-craft-harper-item-craft-wand-scribe-sc-t2355097.html\" rel=\"noreferrer\" target=\"_blank\">this guide</a>.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:25 PM - Jun 07, 2020",
+      "content": "<div><strong><span style=\"font-size:150%;line-height:normal\">Darth Vader</span></strong><br/>\n<br/>\nCool idea! I used <span style=\"text-decoration:line-through\">RDD </span><em>Jedi </em>here rather than Fighter.\u00a0<br/>\n<br/>\nYou will need to learn the ways of the force, my young padawan, before you earn the right to construct your own lightsabre (getting BAB 6 and your first Blackguard level)...<br/>\n<br/>\n<strong><img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202006/10759084_ef69b11c24d7ee436542ffcafbe8e475.jpg\"/></strong><br/>\n<span style=\"font-size:50%;line-height:normal\">Source:\u00a0<a class=\"postlink\" href=\"https://s.yimg.com/aah/gallerydirectart/raymond-swanland-star-wars-limited-edition-art-conquering-shadow-darth-vader-15.png\" rel=\"noreferrer\" target=\"_blank\">https://s.yimg.com/aah/gallerydirectart ... der-15.png</a></span><br/>\n<details><summary>Spoiler</summary>Sorcerer(20), \nLawful Evil\nSTR: 16 (38)\nCON: 14 (16)\nINT: 12 (14)\n\n01: Sorcerer(1): Blind Fight, Power Attack\n03: Sorcerer(3): Cleave\n05: Sorcerer(5)\n07: Red Dragon Disciple(1)\n09: Red Dragon Disciple(3): Toughness\n11: Blackguard(1)\u00a0Lightsabre, {Smite Good}, (STR=23)\n14: Blackguard(4)\n16: Blackguard(6): STR+1, (STR=24)\n18: Blackguard(8): Divine Might\n20: Blackguard(10): STR+1, (STR=25)\u00a0Lightsabre\u00a0\n23: Red Dragon Disciple(7): (CON=16)\n25: Red Dragon Disciple(9): (INT=14)\n27: Sorcerer(7): Great Charisma II, (CHA=20)\n29: Sorcerer(9)\n31: Sorcerer(11)\n33: Sorcerer(13): Great Strength II, (STR=34)\n35: Sorcerer(15)\n37: Sorcerer(17)\n39: Sorcerer(19): Great Strength IV, (STR=37)\n\nSkillpoints: 187\nSaving Throw bonuses: Spells: +5\nAB (max, naked): 43 (melee), 25 (ranged)\nSpell Casting: Sorcerer(9)\n\nSneak Attack: 3d6\nConcentration 22(25), Discipline 29(43), Hide 5(4), Lore 8(10), Search 8(10), Spellcraft 23(25), Spot 24(23), Taunt 23(28), Tumble 20(19)\n</details></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:22 AM - Jun 08, 2020",
+      "content": "<div>Not having the time to write the build, but off the top of my head, I would go with something like Sorcerer 30/ Fighter 6/ Blackguard 4 &amp; replace BG with Paladin for Jedi Masters like Mace Windu, to better represent the \"power in the force\". Perhaps Sorc 32/ Ftr 4/ BG 4 even, depending on the epic spellcasting feats. Orion's build is also a good take on them if you go for raw power instead, few things can match an RDD build. <br/>\nI remember this concept has appeared in WoG forums as well, from what I remember they went with Sorc/Monk/Ftr instead, which is an interesting approach too. If you search a little on their build section I'm sure you'll find the thread.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:56 AM - Jun 08, 2020",
+      "content": "<div>Hey I found this one too. Sorc 27 / BG 4 / Monk 9.<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-planar-kensai-spellsword-sorcerer-27-blackguar-t2355318.html#p18686\" rel=\"noreferrer\" target=\"_blank\">The Planar Kensai Spellsword</a>.<br/>\nDraft stage. AB 37 3 APR with <span style=\"text-decoration:line-through\">greatsword </span><em>lightsabre</em>.<br/>\nMore Sorc for more force powers.<br/>\nMight help with some ideas.</div>"
     }
   ]
 }

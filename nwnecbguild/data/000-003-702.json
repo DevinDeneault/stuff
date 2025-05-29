@@ -4,149 +4,66 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "702",
-  "name": "Mage-Fist (Sorcerer 25 / Monk 5 / RDD 10)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/mage-fist-sorcerer-25-monk-5-rdd-10-t2355330.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 22,
+  "name": "Combat medic/support",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/combat-medic-support-t2355333.html",
+  "author": "Conviction",
+  "avatar": "no_avatar.png",
+  "replies": "8",
+  "views": "213",
   "posts": [
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "8:29 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">Mage-Fist</span></strong><br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202001/10759084_44f0d85d167f1720cb8739d56b96a58c_t.jpg\" />\n</dl>\n</span><span style=\"font-size:50%;line-height:normal\">Image source:\u00a0<a class=\"postlink\" href=\"https://img5.goodfon.com/wallpaper/nbig/2/26/paren-muzhchina-ruka-magiia-mag.jpg\" rel=\"noreferrer\" target=\"_blank\">https://img5.goodfon.com/wallpaper/nbig ... ia-mag.jpg</a></span><br/>\n<br/>\n<br/>\nThis class combination attempts to marry great parts of each class, and somehow the stats look quite nice.<br/>\n<br/>\nSorcerer 25 for spellpower, ie summons, damage shields, ILMS/IGMS, stoneskin/greater stoneskin/premonition, improved invisibility, BBoD, greater sanc, time stop, mords, epic mage armor, epic warding<br/>\nMonk 5 for Monk UBAB, evasion, 5-7 APR,\u00a0<br/>\nRDD 10 for very solid strength gains, AC gains, and other gains.<br/>\nManually took knockdown to avoid waiting till lvl 40 odd for the free feat.<br/>\n<br/>\nEnds up with Base 38 Strength (cap-able to 50), Base AB 40, nearly 400 HP, 13 bonus AC, 200+ skill points etc.<br/>\n<br/>\nHad a look in the ECB archives, the most similar build being <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build245169.html\" rel=\"noreferrer\" target=\"_blank\">The Zen Spellblade</a> (Sorc 26/Monk 4/RDD 10) which is a Kama user 2 less AB 4 less Str 40 less hp and 2 more AC.<br/>\n<br/>\nIn the ECB Tapatalk Forum, Empyre65 has his <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-the-wyrm-17-monk-25-sorcerer-1-rdd-14-upd-t515525.html\" rel=\"noreferrer\" target=\"_blank\">Order of the Wyrm build</a> which is a much stronger 'Monk' than Sorc.\u00a0<br/>\n<br/>\nFists which do 1-20 damage and mind immunity for example, are sorely missed here!\u00a0<br/>\n<br/>\nIt also has 11 more AC, which I have attempted to compensate with the sorcerer spell kit including epic mage armor.<br/>\n<br/>\nAnyway looked pretty cool to me, thought I would share this one, see if you guys had any interest / suggested tweaks.<br/>\n<br/>\nTheres something cool about a monk who wanders around with extended expedious retreat, flings out 3-4 fireballs, casts Time Stop/Mords then eliminates the enemy mage, with damage shields and Epic Warding up then proceeds to beat up the enemy with 50 str fists....<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202001/10759084_8dc5820dd2bb70f71bbe89768e6bda55_t.jpg\" />\n</dl>\n</span><br/>\n<span style=\"font-size:50%;line-height:normal\">Image source:\u00a0</span><span style=\"font-size:50%;line-height:normal\"><a class=\"postlink\" href=\"https://i.pinimg.com/originals/9a/a4/44/9aa4440d06f28d9efa7e3b32be236fc2.jpg\" rel=\"noreferrer\" target=\"_blank\">https://i.pinimg.com/originals/9a/a4/44 ... 236fc2.jpg</a></span><br/>\n<br/>\n<br/>\n<details><summary>Spoiler</summary>Sorcerer(25), Monk(5), Red Dragon Disciple(10), Human\nSTR: 16 (38)\nCON: 14 (16)\nINT: 12 (14)\n\n01: Monk(1): Toughness, Blind Fight, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(2): Weapon Focus: Unarmed, {Deflect Arrows}\n05: Sorcerer(3)\n07: Monk(3)\n09: Sorcerer(6): Craft Wand\n11: Sorcerer(8)\n13: Red Dragon Disciple(2): (STR=21)\n15: Red Dragon Disciple(4): Knockdown, (STR=23)\n17: Monk(4)\n19: Red Dragon Disciple(7): (CON=16)\n21: Red Dragon Disciple(9): Epic Weapon Focus: Unarmed, (INT=14)\n23: Sorcerer(9)\n25: Sorcerer(11)\n27: Sorcerer(13): Great Strength II, (STR=32)\n29: Sorcerer(15)\n31: Sorcerer(17)\n33: Sorcerer(19): Great Strength IV, (STR=35)\n35: Sorcerer(21)\n37: Sorcerer(23): Epic Spell: Epic Warding\n39: Sorcerer(25): Great Strength V, (STR=37)\n\nSkillpoints: 207\nSaving Throw bonuses: Spells: +7, Mind Effects: +2\nAB (max, naked): 40 (melee), 22 (ranged)\nSpell Casting: Sorcerer(9)\n\n\n01: Concentration(4), Discipline(4), Listen(4), Lore(4), Open Lock(1), Save(6),\u00a0\n03: Concentration(1), Discipline(2), Listen(2), Lore(1), Tumble(5), Save(3),\u00a0\n05: Concentration(1), Lore(1), Save(7),\u00a0\n07: Concentration(1), Discipline(4), Listen(4), Tumble(5), Save(2),\u00a0\n09: Concentration(1), Save(8),\u00a0\n11: Concentration(1), Save(14),\u00a0\n13: Concentration(1), Discipline(1), Listen(1), Save(4),\u00a0\n15: Concentration(1), Discipline(1), Listen(1), Save(6),\u00a0\n17: Concentration(1), Discipline(1), Listen(1), Tumble(10),\u00a0\n19: Concentration(1), Discipline(1), Listen(1), Search(1),\u00a0\n21: Concentration(1), Discipline(1), Listen(1), Search(2),\u00a0\n23: Concentration(1), Spellcraft(4),\u00a0\n25: Concentration(1), Spellcraft(4),\u00a0\n27: Concentration(1), Save(7),\u00a0\n29: Concentration(1), Save(15),\u00a0\n31: Concentration(1), Save(23),\u00a0\n33: Concentration(1), Spellcraft(4), Save(23),\u00a0\n35: Concentration(1), Spellcraft(4), Save(23),\u00a0\n37: Concentration(1), Save(28),\u00a0\n39: Concentration(1), Save(36),\u00a0</details>\n\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:41 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Problem is, those Fists suffer from low damage (not enough Monk levels to get to 1d20).\u00a0 It is \"only\" 1d8.<br/>\n<br/>\nOf course, Str will add to that damage - but with moar Monk, that would be even more damage!<br/>\n<br/>\nAlso, Fists cannot be FWed or GMWed...so that would probably just leave one with TT (Though BS, CG, etc buffs are nice!).<br/>\n<br/>\nA general \"problem\" with Fist monks.<br/>\n<br/>\nAs this will be a Str build, AC will suffer (not that there was a chance to nail down the Dex AC with UD).<br/>\n<br/>\nThen there is the AC \"dilemma\" - I guess one could go full Damage Shields and Pre/SH/GrSk.\u00a0 <br/>\n<br/>\nI have looked into doing this - I just did not like the results that much.\u00a0 It is nice to damage with Str (I would go Kama with this build, personally) - and RDD brings the pain!\u00a0 Sorc levels are nice, high, and juicy, with the right spell choices will definitely be a factor.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "8:52 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Web for the feedback. Great to hear you have been working on a similar project yourself.<br/>\n<br/>\n1d8 is the same as a standard longsword :)\u00a0<br/>\nCombined with a Warrior's AB, and up to 50 Strength, I see no problem here, continue moving along now...<br/>\n<br/>\nI could get the 1-20 damage fists with the build but I would have to drop RDD and go Sorc 24/Monk 16. I would probably want to go dexterity based then. Or drop spellcasting and play Empyre65's build. He has already done all the ground work, no need to reinvent the wheel if you really want those 1-20 damage fists.\u00a0<br/>\n<br/>\nI didn't like Kama because it can get disarmed as a small weapon pretty easily and sometimes one gets sick of equipping em.\u00a0<br/>\n<br/>\nI have ignored dex AC due to the build not having uncanny dodge.<br/>\n<br/>\nIt has heaps of spells starting from summons at level 2, improved invisibility, empowered and extended spell buffs and ending with Epic Mage Armor to help compensate for this.<br/>\n<br/>\nI also did not pump it particularly high for the option of damage shields.\u00a0<br/>\n<br/>\nThat being said, the build gets +13 AC from Tumble (8), RDD (4) and Monk (1).\u00a0<br/>\n<br/>\nI adjusted the build for a Sorc 25 / Monk 5 / RDD 10 split, I just took knockdown manually, its too long to wait till lvl 40 to have that feat.\u00a0<br/>\n<br/>\nIt does have potentially lots of Bigby spell castings, but I am wary of spell resistant opponents.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "9:32 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Not to dissuade you, I like the build.  But to further Webs point, in NWN, you do not get Enhancement bonuses on gloves, just Attack bonuses.  The reason fists can climb to 1d20 is to attempt to balance (+5 1d20+0 20x2) them against the (+5 1d8+5 19-20 x2) longsword. It works to a degree, until you drop keen, flaming, paly spells, etc on the longsword ... then not so much.<br/>\n<br/>\nStill, I have been playing a bunch with fist builds, Web peaked my interest in them again ... and hell an RDD can punch most stuff to death without the monk bonuses :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "9:44 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you want to keen/flame/GMW the weapon a very viable alternative is just to change the weapon focus to greatsword or halberd and dish out the pain.<br/>\n<br/>\nYou drop the APR from 5-7 to 3-4 and lose deflect arrows but get 1.5 str damage. Which is great here.<br/>\n<br/>\nOr go kama if you really want.<br/>\n<br/>\nI don't see a problem.<br/>\n<br/>\nFists are good, combined with a warriors AB and RDD's strength and a full sorc spellbook, very nice.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "10:04 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is less a problem than just ensuring an educated decision and you asked for feedback.  1d8 fists are nothing like a 1d8 longsword.  There are lots of things that can and are applied to a longsword or any weapon which invalidate the comparison.  A comparison that looks viable on the surface until you understand how fists work,.<br/>\n<br/>\nIf you do understand and choose to proceed with the fist build you want, great.  I am just offering clarification and making sure to articulate and define why 1d20 fist barely compare to a 1d8 longsword and, more importantly ... why.  Or, as I like to say, fists are kinda fubar in NWN and the attempt to correct/balance them just make them more difficult to understand :)<br/>\n<br/>\nSo, all good, I have no personal preference or ask here, just wanting to ensure it all makes sense is all.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:14 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No need to be defensive. <br/>\nI am interested in ways to improve the build. The 1d20 fists belong to a different build.<br/>\n<br/>\nThere are pros and cons between using fists vs kamas vs two handed.<br/>\n<br/>\nWeb has suggested Kama. Very valid choice.<br/>\nI liked fists. Mostly with bludgeoning damage / not disarmable and theme wise.<br/>\nBoth are viable.<br/>\nThere's 40 base melee AB and 38-50 Str.<br/>\n<br/>\nI wasnt sure i understood your own preference. <br/>\nDid you prefer kama too or two handed? Or fists here if you were to play the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "10:25 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I do not have a preference and I am not meaning to be defensive I do not really have a horse in the race as it were, my goal is just to provide the basic info to make an educated decision.   I just meant to expand on what web said a bit to provide more clarity.<br/>\n<br/>\nOn a build front, I struggle with shoehorning a melee build into an arcane framework in NWN.  They always seem really awkward for me to play as a true merge.  Either you cast or you fight, you cannot do both in NWN and both are offensive classes.  So when I merge them, I tend to be very specific goal orientated.  Meaning I may add sorcercer for animal buffs and damage shield to my melee kinda approach ... but it is a melee build.  Or, I may add quick movement and move cap breakage to my caster build ... but it is a caster build.<br/>\n<br/>\nI would probably end up treating this build as a straight caster, nullifying most of the value of it I suspect.  <br/>\n<br/>\nIn summary, I struggle to play these properly and so I also struggle with that exact preference ... If you pushed me for a choice, I would go single Kama probably and that based entirely on a kama to unarmed comparison at a weapon/damage level on a non-full melee build.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:27 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another tweak might be to include dev crit in the build.<br/>\n<br/>\nBy dropping toughness and one of empower spell/craft wand or blind fight for power attack and great cleave.<br/>\n<br/>\nThen drop two great strengths for overwhelming and devastating critical.<br/>\n<br/>\nOne loses 1 AB 2 Str 1 damage, HP and metamagic feat/blind fight for the privilege.<br/>\n<br/>\nAny thoughts / opinions? The 50 Str is nice though. I would miss it!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:32 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Spellswords (spell fist in this case) are great in many ways, you get to experience and learn about two classes at once...<br/>\n<br/>\nA fence sitter!!! Surely there are rules against that here hehe... it's always win / win to give your opinion! Always happy to learn something<br/>\n<br/>\nEdit: noted the ninja edit! Thanks Zanithar!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:33 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, as I said, I was looking into this - and the Kama route just makes more sense.<br/>\n<br/>\nCompare 1d8 Fist + Str (+AB from gloves, perhaps).<br/>\n<br/>\nWith<br/>\n<br/>\nKama 1d6+Str, can be GMW+FW, can also be + AB AND Damage.<br/>\n<br/>\nThe 1d2 difference is...very, very small.<br/>\n<br/>\nThat is why I suggest Kama(s). Btw - you can FoB with Kama(s).<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "10:33 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, theme wise, fists rock ...<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:37 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There aren't a lot of great monk portraits wielding kamas - at least I found two nice ones with fists!<br/>\n<br/>\nI also found a few awesome quarterstaff arcane monk pics... with all that STR in the build it could definitely work in my opinion!<br/>\n<br/>\nSurely availability of good portraits counts towards the viability of builds!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:41 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like this <span style=\"text-decoration:line-through\">spellsword</span> spellfist build, if nothing else for it's high AB.<br/>\nIt is well put together.<br/>\nSpell DC is not a priority with charisma 19, so you will often have to rely on non-save spells.<br/>\nSpell penetration will pierce SR 26 every time, but you will need Breach/ Mord to improve penetration against more resistent\u00a0 foes.<br/>\nThe low AC may pose a problem, but it can be solved if you have wisdom and dexterity gear and buff with empowered owl's and cat's.<br/>\nA sorcerer 24/ monk 6/ RDD 10 split is tempting. You retain undispellability, get slightly weaker penetration, but get an extra mid epic skill dump. KD/IKD is not so important as long as you can spam Bigby VI. Anyway, dropping KD would free up a pre epic feat slot. Maximise would add to spontaneous caster flexibility.<br/>\nI would consider a slightly different pre epic leveling order: 1) Monk (1), 7) Monk (2), 12) Monk (3) and 17) Monk (4).<br/>\nIt delays the first tumble dump, but you get spells (among them Ghostly visage and Stoneskin) and the first RDD level one level earlier.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:50 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Mick for your awesome suggestions.<br/>\nFiguring out ways to mitigate against the low AC issue early on was a priority for me. <br/>\nI take sorc 1 early for the summons but pushing sorc higher earlier makes it even easier to level. <br/>\nI did initially put maximise in but took it out for knockdown because of SR fears. As you rightly point out there are ways around it. I probably need to work on practicing lowering spell resistance of opponents more with mords and breaches<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:08 AM - Jan 31, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div> I probably need to work on practicing lowering spell resistance of opponents more with mords and breaches</div></blockquote>\n\nThat is a great idea!<br/>\n<br/>\nLesser Breach (and Empowered LB!) is a great spell for a Sorcerer until they get a level high enough to do Greater Breach! <br/>\n<br/>\nAnd, of course, the King, Mord's!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:36 AM - Feb 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Does anyone know if the SR from breaches stacks?<br/>\nLike if I cast two lesser spell breaches on a mage, does the SR go down by 3 or 6? (ie does the same spell stack on itself?)<br/>\nOr if I cast a lesser spell breach and a greater spell breach, does the SR go down by 5 or 8? (ie does different breach spells stack?)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:31 AM - Feb 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I do know that Nature's Balance and Mord's stacks.<br/>\n<br/>\nI have done this before with great results for my Puff the Magic Dragon Character (Druid/Wiz/Mk).<br/>\n<br/>\nI do not know if Lesser Breach stacks with Lesser Breach, or if Mord's stacks with Mord's.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:56 PM - Feb 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a quick update, I've playtested this guy to level 9 (Monk 1, Sorc 8).<br/>\n<br/>\nI've followed Mick's excellent advice to go sorcerer heavy early, and it has been ok to level, much more than a pure monk build for sure.<br/>\n<br/>\nNow that I've got a few sorc levels its getting a lot easier.\u00a0<br/>\n<br/>\nFrom a gameplay point of view, there are summons, bulls strength, mage armor, shield, prot v evil, haste and I've got improved invis now.<br/>\n<br/>\nI can hit 3 APR with flurry and 4 with haste. The spells help with AB and defense, and I can stick a damage shield up too.\u00a0<br/>\n<br/>\n<br/>\nI went quarterstaff early on because I had a +2 quarterstaff drop, but have switched to fists for now, mostly for fun rather than power (although they still are quite effective).<br/>\n<br/>\nWhat some of you might not be aware is there is an 'ars magus' combat style that was created as a mod. It is available in WoG (and probably in other servers too) and it looks pretty cool here, levitating and smashing things with arcane hands.<br/>\n<br/>\nDid a bit of partying with Zanithar too. He was amused when he heard of the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/i-m-the-batman-m19-r5-sd16-draft-batman-build-for--t2355086-s20.html\" rel=\"noreferrer\" target=\"_blank\">ECB Batman build</a> written by myself and Demos with all the suggestions from everyone. (I attached a link in case he or others wanted to read it)<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202002/10759084_4eddd92af7531f4fcf027284b1e92173_t.jpg\" />\n</dl>\n</span><br/>\n~~~<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202002/10759084_0b774364e1cddcf0e3d32e745d5288e2_t.jpg\" />\n</dl>\n</span><br/>\n~~~<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202002/10759084_6d5c7711c75b083d6ad787ed4943cb94_t.jpg\" />\n</dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:02 PM - Feb 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Keep posting, I'm interested in when you hit the Epic Levels!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "11:00 PM - Feb 01, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was equal parts amused and horrified :). Thanks for the link!  I\u2019ll check out the melee style, it rather looks like you are having a dance off with that Orc :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Conviction",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:44 PM - Feb 02, 2020",
+      "content": "<div>Hi I am new to the forums. Sorry if the format is off.<br/>\n<br/>\n1-40 PVM, Default modules and then later customs. <br/>\n<br/>\nNo particular race preferred, I was considering ELF for the weapon feat freely given.<br/>\nI am considering longbow + zen archery, or scimitar. <br/>\n<br/>\nMy goal is to build a party faveorite cleric or druid or bard with maximum possible wisdom (CHA if bard but, it seems the least likely pick) for spell effect and count. I am uncertain of the domains to choose. I am considering travel with strength for cat/aura or one of the domains that give invisibility or stoneskin. I would like to be able to contribute to the fighting however probably not in the form of offensive magic. I would prefer to have all of my prepared spells in the form of support and healing or crowd control. <br/>\n<br/>\nWhen it comes to skills I feel as though I haven't the slightest idea where to begin. I was thinking about Concentration, Spellcraft, Lore, and Heal. I noticed that the spot and listen skills are wisdom modified but, I don't know how practical they would be to the character.\u00a0 I also am uncertain if I should get craft wand or potion for haste/invisibility/barkskin/stoneskin additional uses outside of my daily limit or if they would require use magical device since they are gained through domains and are not natural to the cleric if I go the cleric route.<br/>\n<br/>\nWhen deciding my attributes would it be safe to leave dex and charisma at base or 10 due to support from spells and feats for accuracy and, unless there is a way to add rogue or similar levels and use light armor the reflex saves will probably be too low to benefit? <br/>\n<br/>\nWhen picking the prepared spells for each day would it be more optimal to choose the hour/class level spells and extend the more potent turn/class level spells? Is it safe to keep strength at 10-12 and use bull's strength to improvise? Also how reliable is find traps is it able to fail?<br/>\n<br/>\nIs there options to increase AC values besides taking a level of Monk for the wisdom to AC trait? I am not oposed to using monk it's just that I am uncertain how to get value out of utilizing the level for a skill dump or not waste some of their feats.<br/>\n<br/>\nThank you in advance for reading through this long winded post and any feedback provided.</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "3:59 AM - Feb 02, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did some testing regarding the SR decrease in NWN EE. Neither Nature's Balance nor any of the breach spells stack when it comes to reducing SR, only the highest decrease is applied.<br/>\n<br/>\nBear in mind that Nature's Balance can be dispelled by casting Mords, so the SR decrease from Nature's Balance can be removed by Mords and the target will end up with -10 SR even if the Nature's Balance SR decrease was higher. However multiple casts of Nature's Balance each have their own dispel check, so if you cast 3 Nature's Balance spells with an SR decrease greater than -10 then the Mords will have to dispel all 3 of those debuffs in order to reduce the SR decrease to -10.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:38 PM - Feb 02, 2020",
+      "content": "<div>I would recommend a WIS caster Cleric, with a few Monk levels and either Rogue or CoT for your third class. The exact build would depend on the environment though, there are a lot of ways to make a decent caster cleric. The best races are probably elf, halfling, human, and gnome, although the best choice depends on the build.<br/>\n<br/>\nRegarding domains, it depends on what is available in your environment. If permahaste is available then Travel is worthless, if permahaste isn't available then it is one of the best domain choices. Trickery is another solid domain choice too, you get both Improved Invisibility and Divine Trickery. For a caster cleric the best alternative domains are probably Heal, Magic, Plant, Strength, and War. I usually go for Magic/Trickery or Travel/Trickery on my caster clerics, depending on whether permahaste is available or not.<br/>\n<br/>\nI suggest leaving CHA at 8, but the DEX would depend on the build. I usually go for 14 DEX on my clerics for the extra AC, although if AC isn't important then you can drop that to 8 as well. Divine Power increases STR to 18 and has a duration of Rounds/Level so at higher levels you won't be as bothered by low STR. Clerics don't have many skill points, so try to aim for 14 INT (even as a human). CON is also very important, try to avoid using it as a dump stat.<br/>\n<br/>\nClerics can craft wands of Haste and Improved Invisibility and then use those wands without UMD, so that won't be a problem. However whether it is worth getting Craft Wand or not depends on the environment, particularly if there are rest restrictions or if Craft Wand has been modified.<br/>\n<br/>\nFor feats, I suggest taking Epic Spell Focus: Evocation, Extend Spell, and Silent Spell. Even if you plan on being a support healer, a caster cleric makes for a very strong offensive caster. Harm/Heal and Implosion are some of most powerful spells in vanilla NWN. Armor Skin, Blind Fight, Empower Spell, ESF: Concentration, and Zen Archery are all very useful feats too.<br/>\n<br/>\nFor skills, Concentration and Spellcraft are the important ones. As a cleric you can ignore Heal, since your spells will be much more effective at higher levels. How useful Lore is depends on your environment, so sometimes it's worth investing in and sometimes it isn't. Monks get Discipline and Tumble as class skills, those are the main ones that you don't get from cleric. Discipline is useful for avoiding Knockdown and other combat feats, Tumble increases AC and prevents AoOs from moving around during combat. As a healer you will probably spend a lot of time moving around the battlefield so you should aim for at least 15 Tumble. Assassin and Rogue both get UMD which can also be very useful, a Cleric/Monk can't be a Bard without alignment changes so that's probably not an option. If you have vanilla True Seeing then Listen/Spot aren't that useful for you, if True Seeing is modified to give See Invisibility and a Spot bonus (which is the most common modification) then they can be very useful.<br/>\n<br/>\nWhen it comes to AC you either go Monk or wear heavy armor and use a shield. At low levels heavy armor is better but once your WIS starts increasing Monk will be a better option. If you plan on sticking with heavy armor then you will need to have a decent STR score. In addition to AC and skills, Monk also gives Evasion and a speed increase. Deflect Arrow and Improved Knockdown can also be very useful depending on your environment and how you build.</div>"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:30 AM - Feb 02, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Interesting!<br/>\n<br/>\nThx for checking this!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "8:41 PM - Feb 02, 2020",
+      "content": "<div>Demolition Man - Cleric 38 / Monk 1 / Rogue 1<br/>\n<a class=\"postlink\" href=\"https://r.tapatalk.com/shareLink/topic?share_fid=1923037&amp;share_tid=515420&amp;url=https%3A%2F%2Fwww%2Etapatalk%2Ecom%2Fgroups%2Fnwnecbguild%2Fviewtopic%2Ephp%3Ft%3D515420&amp;share_type=t&amp;link_source=app\" rel=\"noreferrer\" target=\"_blank\">https://r.tapatalk.com/shareLink/topic? ... source=app</a><br/>\n<br/>\nThis should suit, it is the standard for such things <span class=\"text-emoji\">\ud83d\ude01</span><br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "8:44 PM - Feb 02, 2020",
+      "content": "<div>Sprinkle in more rogue if you feel the need.  Also, for Domains:<br/>\nTravel &gt; War &gt; Plant/Death/Trickery &gt; everything else<br/>\n<br/>\nIf where you are playing has a permanent wearable or haste item then Travel can be dropped.<br/>\n<br/>\nAny should suit for the campaign however.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "8:47 PM - Feb 02, 2020",
+      "content": "<div>Also, give this a read regarding spells:<br/>\n<br/>\nAn Insight into the Cleric Class<br/>\n<a class=\"postlink\" href=\"https://r.tapatalk.com/shareLink/topic?share_fid=1923037&amp;share_tid=515461&amp;url=https%3A%2F%2Fwww%2Etapatalk%2Ecom%2Fgroups%2Fnwnecbguild%2Fviewtopic%2Ephp%3Ft%3D515461&amp;share_type=t&amp;link_source=app\" rel=\"noreferrer\" target=\"_blank\">https://r.tapatalk.com/shareLink/topic? ... source=app</a><br/>\n<br/>\nIt should help with what and where.<br/>\n<br/>\nExtend is used both as a spell book optimisation (get more and/or move to a different level to free up prior level) as well as to double low time durations.<br/>\n<br/>\nDouble duration on things like: Aura of Vitality, Bless, Haste, Improved invis, battle cry, regen, aid, prayer, etc <br/>\n<br/>\nMove or increase the number of castings of things like: Heal<br/>\n<br/>\nSome are both like: Divine Power <br/>\n<br/>\nDid I mention ... Clerics are my favourite class :)<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
+    },
+    {
+      "author": "Conviction",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:57 PM - Feb 02, 2020",
+      "content": "<div><blockquote><div><cite>Yunim wrote: <div class=\"responsive-hide\">Feb 02, 2020</div></cite>When it comes to AC you either go Monk or wear heavy armor and use a shield. At low levels heavy armor is better but once your WIS starts increasing Monk will be a better option. If you plan on sticking with heavy armor then you will need to have a decent STR score. In addition to AC and skills, Monk also gives Evasion and a speed increase. Deflect Arrow and Improved Knockdown can also be very useful depending on your environment and how you build.</div></blockquote>\nThank you very much for your very informative post. <br/>\n<br/>\nThis part about improving AC has me slightly confused. If I take levels in monk do I need to wear light armor in order to obtain the additional AC from wisdom? I wouldn't be oposed to this, honestly I would prefer to lighten the weight of the character. <br/>\n<br/>\nThis is very encouraging to make a light(if viable), bow based high wisdom cleric. I want to take the feats you recommended for spell focus evocation silent spell and extended spell. Is there anything else in particular I need besides zen archery to enable the bow portion of the build? Is there an advantage to be had in choosing Elf here for the bow proficiency or would I still have the advantage playing human? (I have no preferences among the races)<br/>\n<br/>\nEDIT: I read the details for the demolition man build and further information on cleric. Thank you as well for the insight this is exactly what I was looking for. You guys are great.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "9:09 PM - Feb 02, 2020",
+      "content": "<div>Monks only get bonus AC from WIS when wearing robes, so you won't be using any armor or shields at all.<br/>\n<br/>\nIf you want to use a longbow you will need to be either an elf or have Weapon Proficiency Martial (either from a class or by selection).<br/>\nIf you want to use a heavy crossbow you don't need any proficiency feats but you will need to take Rapid Reload.<br/>\n<br/>\nBlind Fight helps against concealment with both your ranged attacks and your touch attacks (Harm/Heal). Weapon feats (WF, IC, EWF, Epic Prowess), Called Shot, Point Blank Shot, and Rapid Shot (can't be used with crossbows) are the standard ranged feats. Honestly you can get by with just Zen Archery since you can self-buff your AB and use speed and acceptable casualties/party members to avoid getting into melee range. However if you want to focus on the archery over casting then those are feats to consider, there is a lot of flexibility when it comes to caster clerics.<br/>\n<br/>\nHumans get an extra feat and an extra skill. Elves get higher DEX, lower CON, free longbow proficiency, and Keen Senses. There are arguments for either race so whichever one you pick is up to you.</div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "9:16 PM - Feb 02, 2020",
+      "content": "<div>Also, to add more insight on monk AC.  It is often the case, even with a low level monk class dip that you ignore all the monk \u201cdo not wear armor\u201d bonuses and clank about in full plate and a shield until the stuff that makes the monk bonuses work (Wis and Dex) get to the level they out weigh what full plate and a shield offer.<br/>\n<br/>\nSo, my clerics that start with level 1 monk (often for skill points and those early feats like cleave) shift out of plate/shield in the early teens.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
+    },
+    {
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "2:34 AM - Feb 03, 2020",
+      "content": "<div><blockquote><div><cite>Zanithar wrote:</cite>Sprinkle in more rogue if you feel the need.  Also, for Domains:<br/>\nTravel &gt; War &gt; Plant/Death/Trickery &gt; everything else<br/>\n<br/>\nIf where you are playing has a permanent wearable or haste item then Travel can be dropped.<br/>\n<br/>\nAny should suit for the campaign however.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div></blockquote>\n\nI figure I would add to this/mesh to what was said above.  Adding Dex to a cleric start is useful for AC.  There are two ways to add this, one is to take extra Dex as a base stat.  The other is to take a domain that nets Cat\u2019s Grace (this is subject to the +12 &lt;usually&gt; stat cap). This is not the primary reason I rate War as the #2 Domain choice but is also a solid reason.  The reason War is #2 is that you also net Aura of Vitality.  On a deep cleric build an area spell that gives you +4 Str/Dex/Con offers a bunch of equipment flexibility AND the ability to buff all your friends.  It is a fantastic support spell for a deep caster cleric focusing on support.<br/>\n<br/>\nI personally prefer to have some flexibility on those extra \u201cDex\u201d allocation points and often drop them into another stat like Int/Con or even Charisma (for builds that take divine might) which cannot be \u201chelped\u201d using War Domain.  Depending on the build, they may well stay in Dex ... but it is nice to have the same flexibility offered to the other stats with the zoo/animal buffs.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>"
     }
   ]
 }

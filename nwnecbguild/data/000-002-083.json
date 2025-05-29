@@ -4,59 +4,55 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "083",
-  "name": "Dex v DR",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dex-v-dr-t2355700.html",
-  "author": "Dingpot",
-  "avatar": "10759398_1682113117.jpg",
-  "replies": 7,
+  "name": "The Nerfing of the Rak",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-nerfing-of-the-rak-t2355745.html",
+  "author": "grizzled_dwarflord",
+  "avatar": "10758933_1548854436.jpg",
+  "replies": "6",
+  "views": "1.2K",
   "posts": [
     {
-      "author": "Dingpot",
-      "avatar": "10759398_1682113117.jpg",
-      "timestamp": "1:25 PM - Apr 02, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">There is probably a guide for this somewhere but I haven't been able to find it. As I understand it even on a finesse build, damage is still based on strength. What are the options for getting over this on monsters with high damage reduction?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "10:59 AM - Jul 02, 2021",
+      "content": "<div>Maybe it's time for\u00a0<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Shifted_ability\" rel=\"noreferrer\" target=\"_blank\">this article in the NWNWiki</a>\u00a0to be updated, for I have found zero evidence in EE that Rakshasa Shape can conduct Empowered or Maximized Ice Storms through quickslots.\u00a0 Further, I have found no evidence to support any advantage gained by Druid levels for determining damage dice.\u00a0 In my clinical trials, a Rakshasa with 8 Druid levels and a Rakshasa with 28 Druid levels consistently did the same amount of damage for Ice Storm: 30-40 points.<br/>\n<br/>\nWas this something documented by EE in one of their updates?\u00a0 I don't recall if it was.\u00a0 And can anyone confirm they get the same results as me for using the metamagic quickslots.\u00a0 If all of this is true, it's kind of a big change and will throw a bucket of ice water on a lot of old (and new) Druid Shifter builds.</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:51 AM - Jul 02, 2021",
+      "content": "<div>Yes, Dwarflord, this was indeed changed, making the Rak-a-waka-eeeyy-ey a lot less attractive. I read it in an update somewhere. Ice storm in the blood for a lot old builds for sure. It's not like it was OP or anything.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:45 PM - Apr 02, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, there's good news and there's bad news, Dingpot...<br/>\n<br/>\nThe good news is that you're right, always nice to know.<br/>\n<br/>\nThe bad news is that raw damage is always based on strength.<br/>\n<br/>\nHowever, there are exceptions (aren't there always?). I'm leaving out the obvious: spells, below.<br/>\n<br/>\nAA damage comes from enchanted arrows (+1 to both AB and damage every odd level taken), but that, of course, is only with ranged attacks.<br/>\n<br/>\nWeapon Specialization and its big brother will give +6 to damage, but you need at least 4 levels of Fighter to get them (if you take EWS at the same level as F4 in epic levels), though 6 levels is more traditional (the last 2 of which could be CoT, for EWS). I believe it's also do-able with 5, if you take F5 on a general feat in epic levels, but I can't promise that.<br/>\n<br/>\nAll Monks get d20 damage + STR modifier from fists at level 16, whether finessed or not (except for Halflings and Gnomes, who only reach d12).<br/>\n<br/>\nDwarven Defender gets +2 to STR when in Defensive Stance. Bard Song can increase damage (by how much depends on how good your song is).<br/>\n<br/>\nRDD gives up to 3 STR boosts (+2 at L2, +2 at L4, +4 at L10 - all stacking).<br/>\n<br/>\nDepending on your foe, critical hits can be immensely helpful.<br/>\n<br/>\nAnd then, of course, there's Sneak Attack (and Death Attack, for Assassins), which gives +1d6 damage every odd level, but again is dependent on the nature of the enemy you face.<br/>\n<br/>\nOther than those options, there's always the aforementioned spells, as well as traps to consider.<br/>\n<br/>\nSo it's not all bad!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:54 PM - Apr 02, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you can get a weapon with higher enhancement and/or elemental damage, that will help, too.<br/>\n<br/>\nIt would also help to find a weapon that does a different type of damage from what the enemy if resisting.<br/>\n<br/>\nFinally, some types of DR can be bypassed entirely by a high enough enhancement.\u00a0 For example, in SoU Chapter 2, the Wise Wind will take full damage from a +3 weapon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "5:32 PM - Apr 02, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Dingpot! There are different types of DR and the answer is different for each different type:<br/>\n<br/>\n- Intrinsic DR (like from a Dwarven Defender), which will be shown as follows: 15/-\u00a0<br/>\nThis type of DR you simply can't overcome with anything. It will apply regardless of what you do and it applies to all physical damage types. The way to overcome that is to do other types of damage (like with Divine Favor, Greater Magic Fang, Darkfire, Flame Weapon, etc..<br/>\n<br/>\n- Damage-type DR (like from a Greater Archer's Belt)<br/>\nThis type of DR can be overcome by either switching to a different weapon or adding damage of a type that isn't the resisted type (the above methods of adding damage to a weapon also work here)<br/>\n<br/>\n- Weapon-enhancement DR (like with the Stoneskin spell or some forms of DR from undeads), which is shown as 15/+3, where this second number is the enhancement bonus up to which it applies.<br/>\nThis type of DR is tied to the enhancement bonus of the weapon you use, so for example a Tyrantfog Zombie will be immortal if you're using nonmagical weapons, but if you use a +1 weapons, he will die in 1 round. So, to overcome this type of DR you need a weapon with a higher enhancement bonus than the type of DR covers, or if it's a spell you just need to eat through it until it ends.<br/>\n<br/>\n- Damage immunity (50% or 100%, like from some undeads to slashing and piercing or red dragons with fire)<br/>\nThis type of DR can be overcome by switching damage types. Typically, you want to have at least one blunt and one either piercing or slashing weapon, and that should have you covered in most situations. If you only carry the weapons in which you have focus, then that's why you're struggling.<br/>\n<br/>\nThe rest my mates have already explained, so I'm out!<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:04 PM - Jul 02, 2021",
+      "content": "<div>Don't know whether this helps or not:\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/needing-help-asap-for-rakaska-form-t2354996.html\" rel=\"noreferrer\" target=\"_blank\">Rak form</a>. Afraid I can't find where the info first came from, but it will have have been sometime in 2019.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:03 PM - Apr 02, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Awww, man, one of my fav's was left out!<br/>\n<br/>\nRanger, doods!<br/>\n<br/>\nFEs and of course Bane of Enemies!\u00a0 Adds some nice damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:51 PM - Jul 02, 2021",
+      "content": "<div>Raks got their spell-like ability Ice Storm nerfed (no more meta-magic versions).<br/>\n<br/>\nOther than that, I don't think there is any other nerf to Rak form.</div>"
     },
     {
-      "author": "frebe13",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:46 AM - Jun 29, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Dingpot wrote: <a data-post-id=\"24103\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=24103&amp;sid=dd26e6a81c37225e30829947fc679568#p24103\">\u2191</a><div class=\"responsive-hide\">Apr 02, 2021</div></cite>There is probably a guide for this somewhere but I haven't been able to find it. As I understand it even on a finesse build, damage is still based on strength. What are the options for getting over this on monsters with high damage reduction?</div></blockquote>\nThe obvious solution is Sneak Attack :) With 5 levels of Rogue included you gain enough to compensate for lower strength. Also other fixed damage additions such as Divine Favour and Darkfire. Power attack isn't bad either. The point of DEX builds is that a single stat adds to both AB and AC so there is really no trade-off needed. Just max out at every opportunity. There are lots of good and efficient ways to trigger sneak attacks but the simplest are Cleric spells (Word of Faith and Darkness). <br/>\n<br/>\nAlso you don't need low strength to be a finesse fighter. You can still get 14 str. <br/>\n<br/>\nHehe just getting back into the game with Enhanced Edition playing Nordock again :) Rogue 5+/Cleric 26+/Fighter 2+ something. Not sure how it will end up. But damage output is great even with just 14 str.<br/>\n<br/>\nThe main point to avoid though is playing \"builds\" that takes lots of levels to come together. In this case its just the first Rogue level that kind of sucks since you'll have an extremely weak Rogue as you need to invest in Wisdom. As soon as its Rogue 1/Cleric 1 its fine with summons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "9:06 PM - Jul 02, 2021",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Jul 02, 2021</div></cite>Raks got their spell-like ability Ice Storm nerfed (no more meta-magic versions).<br/>\n<br/>\nOther than that, I don't think there is any other nerf to Rak form.</div></blockquote>\nWell, there is the damage dice.\u00a0 It did use the primary caster level (chosen by which class was taken at first level), so a 28th level druid in rak form would get the damage dice equivalent to 11d6 cold and 3d6 bludgeoning.\u00a0 There was always a payoff for Raks when they went heavy druid because all spell-like abilities acquired in these scenarios used the caster level to determine damage dice.\u00a0 Not so much anymore.\u00a0 It appears to be the same whether you have 1 or 100 druid levels.\u00a0 Just a static 5d6 cold.\u00a0 I'm hoping someone can prove me wrong.</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:36 PM - Jun 29, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With D&amp;D, there is always supposed to be some \"negatives\" with the positives - it is supposed to keep things in \"balance\".<br/>\n<br/>\nMeaning Str does damage and AB (and carrying capacity), Dex does AC and AB.\u00a0 They sort of offset one another - one can have a high AC and AB, but deal less damage (and against crit/sneak immunes, it can be a real PITA) OR one can have a high AB and Damage output, but lower AC.<br/>\n<br/>\nOne way to get around this (IMO) is to be a monk with fists (because fists do 1-20 damage at level 20 with med sized characters).\u00a0 Note that I am not including any spells here, because they are both temporary and can be dispelled (and in an Anti-Magic area, cannot be used at all - the bane of battle clerics!).<br/>\n<br/>\nAFAIK, there is no guide to dex based builds and DR (re: outputting damage vs crit/sneak/high DR opponents) because...well, see above.\u00a0 Basically the only way to deal with physical DR like that of a Barb, DwD, etc, is with additional elemental damage on one's weapon (divine and positive being ones that are rarely, if ever, resisted).\u00a0 As this heavily depends on the environment where one plays, it severely limits what one could put into a guide imo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:36 PM - Jul 02, 2021",
+      "content": "<div>That sounds off.<br/>\n<br/>\nI'll have to test my Rak<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
-      "author": "frebe13",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:05 AM - Jun 30, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Obviously there are trade-offs but NWN isn't really true to the D&amp;D campaign rules. Its much easier to compensate for the low damage caused by a mediocre 14 or so Str than it is for the AC you get from having a higher Dex score.\u00a0 Just Power Attack is worth 10 Str. It just comes down to what magic items you have available. But mostly it depends on how a module is balanced. Anyway if Rogues can make it in a module at all then a Dex based Cleric can make it also. Cleric by default has better options for dealing with undead in any case...or even constructs. I always liked Cleric for Dex-based characters anyway. Also Rangers or Paladins for Strength base ones.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "5:15 AM - Jul 03, 2021",
+      "content": "<div>Rakshasa (along with other polymorph forms)\u00a0was nerfed in EE, metamagic can't be used with shifted abilities anymore.<br/>\nIn 1.69 you could quickslot a maximized Ice Storm and cast it while polymorphed, in EE your character won't be able to cast it.<br/>\nYou can still quickslot spells without metamagic and use them while polymorphed.<br/>\n<br/>\nHowever, the spell level rules are the same for both 1.69 and EE.<br/>\nIf you quickslot Ice Storm from a spellbook (eg Druid spellbook) then the caster level of the Ice Storm while polymorphed will be equal to the level of that class.<br/>\nIf you quickslot Ice Storm from the shifter ability section or cast Ice Storm with a right click while shifted then the caster level of the Ice Storm will be equal to the level of your first class.<br/>\nSo a Druid28/Shifter10/Monk2 would have a level 28 Ice Storm when shifted, while a\u00a0Monk2/Druid28/Shifter10 would have a level\u00a02 Ice Storm.<br/>\nIf you quickslot Ice Storm from the Druid spellbook and use that then both of the above builds would have a level 28 Ice Storm.</div>"
     }
   ]
 }

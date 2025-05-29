@@ -4,227 +4,87 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "866",
-  "name": "Strange idea, but.... Did anyone try making a F10/WM10/B20?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/strange-idea-but-did-anyone-try-making-a-f10-wm10--t2355053.html",
-  "author": "Cornflower",
-  "avatar": "10759006_1545641562.jpg",
-  "replies": 35,
+  "name": "Crouching Mouse, Hidden Hamster",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/crouching-mouse-hidden-hamster-t2355062.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": "10",
+  "views": "357",
   "posts": [
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "9:56 AM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Right now I can't be bothered to make it myself, so as a lazy person I ask you guys... Wouldn't a F10/WM10/B20 be a nice combo? You get full attacks and full AB if you take all bard levels post-epic. You get around +3 AB and +5AC from the bard song. You can get UMD and Tumble as well as Lingering Song. You get some magic.<br/>\n<br/>\nThoughts from the pros?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "11:52 AM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>Right now I can't be bothered to make it myself, so as a lazy person I ask you guys... Wouldn't a F10/WM10/B20 be a nice combo? You get full attacks and full AB if you take all bard levels post-epic. You get around +3 AB and +5AC from the bard song. You can get UMD and Tumble as well as Lingering Song. You get some magic.<br/>\n<br/>\nThoughts from the pros?</div></blockquote>Simple one first. WM 8, 9 and 10 gives nothing. Better take Fighter levels. I would level this guy Fighter16/WM7/Bard17. Or bard 16/WM16/fighter8 and eat the 1 AB loss for better levelling.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:13 PM - May 06, 2019",
+      "content": "<div>Right. Valerfor's been messing with my head again (see his \"The Last Shinobi\" thread in the NwN Tavern sub-forum - though the rest of them could just be in hiding), so I thought I'd have a look at building a Monk/ Rogue/ Shadowdancer. This is very much first thoughts, so please feel free to do as you please with it (within the bounds of decency, of course). I went for unarmed rather than kama because the damage is so much better once you hit Monk 16 - that and the fact that I didn't exactly have feats to burn. And I sacrificed Epic Prowess to get those extra 2 Dex points, so it comes out the same as far as AB goes.<br/>\n<br/>\n<strong>Monk 26/ Rogue 13/ SD 1</strong><br/>\nHalfling, any lawful<br/>\nPvM 1-40<br/>\n<br/>\n<strong>Stats</strong><br/>\n<br/>\nSTR 10 <em>(gods, that hurts me to do)</em><br/>\nDEX 19 (34)<br/>\nCON 12<br/>\nWIS 12<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHPs - 334<br/>\nAC - (naked) 31 (+1 Dodge, +5 Expertise)<br/>\nSaves - Fort 22, Will 22, Reflex 37. +2 vs mind spells, +2 vs fear-type spells, +4 vs spells, +2 vs traps <em>(or maybe more, I can't remember my UD stuff)</em>, immune to mind spells, immune to disease and poison<br/>\nEpic Dodge<br/>\nEmpty Body - 2xpd 50% concealment<br/>\nSpell Resistance - 36 (undispellable)<br/>\n7xd6 sneak attack<br/>\nBAB - 25<br/>\nAB - (max, unarmed) 41/ 38/ 35 <em>(7 APR with Monk progression and hasted - I think)</em>: (max, ranged) 38 (+1 with thrown weapons)<br/>\nDamage - (unarmed, melee) d20 (crit 19-20x2), penetrate DR 3/-<br/>\nSpells - UMD<br/>\nSPs - 281. <em>(Not fully worked out, but certainly including...)</em> Tumble 40 (52), UMD 34 (33), Spellcraft 19 (20), Hide 43, Move Silently 43, then some Listen, Dis Trap, Set Trap, Search and Open Lock <em>(need to do some more sums)</em><br/>\n<br/>\n<strong>Levelling</strong><br/>\n<br/>\n1 R1 - Dodge<br/>\n2 M1 - (Cleave/ Evasion/ FoB/ Stun Fist/ Imp Unarmed Strike)<br/>\n3 R2 - Weapon Finesse<br/>\n4 R3 - (Uncanny Dodge I)/ DEX+1 (20)<br/>\n5 M2 - (Deflect Arrows)<br/>\n6 M3 - (Monk Speed/ Still Mind)/ WF: Unarmed<br/>\n7 M4<br/>\n8 M5 - (Purity of Body)/ DEX+1 (21)<br/>\n9 M6 - (KD/ IKD)/ Expertise<br/>\n10 M7 - (Wholeness of Body)<br/>\n11 M8<br/>\n12 M9 - (Imp Evasion)/ Blind Fight/ DEX+1 (22)<br/>\n13 R4<br/>\n14 M10 - (Ki Strike 1)<br/>\n15 M11 - (Diamond Body)/ Imp Crit: Unarmed<br/>\n16 M12 - (Diamond Soul)/ DEX+1 (23)<br/>\n17 R5<br/>\n18 R6 - Mobility<br/>\n19 R7<br/>\n20 R8 - DEX+1 (24)<br/>\n21 SD1 - (HiPS)/ EWF: Unarmed<br/>\n22 R9<br/>\n23 R10 - Defensive Roll<br/>\n24 M13 - (Ki Strike 2)/ Great Dex I (25)/ DEX+1 (26)<br/>\n25 M14<br/>\n26 M15 - (Quivering Palm)<br/>\n27 M16 - (Ki Strike 3/ d20 fists)/ Epic Dodge<br/>\n28 M17 - DEX+1 (27)<br/>\n29 M18 - (Empty Body)<br/>\n30 M19 - Great Dex II (28)<br/>\n31 M20 - (Perfect Self)<br/>\n32 R11 - DEX+1 (29)<br/>\n33 R12 - Great Dex III (30)<br/>\n34 M21<br/>\n35 M22<br/>\n36 M23 - Great Dex IV (31)/ DEX+1 (32)<br/>\n37 R13 - Crippling Strike<br/>\n38 M24<br/>\n39 M25 - Great Dex V (33)/ Armor Skin<br/>\n40 M26 - DEX+1 (34)<br/>\n<br/>\nDoes it look reasonable as a principle?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:25 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With Bard 16 / WM 16 / Fighter 8, you don't lose an AB, but actually gain an AB.\u00a0 You get +1 AB at WM\u00a0 13, negating the AB loss for taking Bard 4 pre-epic, and then another +1 AB at WM 16.\u00a0 Also, you want at least 1 level of Fighter in epic for EWS.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:20 AM - May 07, 2019",
+      "content": "<div>If you start with 18 DEX, you have 3 points to spend, so you can have 12 STR and 14 INT.\u00a0 That leaves a feat free for Epic Prowess, so your AB is the same, and you get slightly better STR and more skill points, which is great for a Rogue.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:14 PM - May 07, 2019",
+      "content": "<div>Oh, that's a good idea, thanks Empyre. It will cost 1AC and 1Reflex, but I know I'll feel more comfortable with a STR of 12 (particularly in light of what you said in the Last Shinobi thread about hin only attaining d12 fists). The extra skill points will also come in handy, as - for the first time - I want to make good use of the trapping skills as well as stealth.<br/>\n<br/>\nI'll save doing the edit until I've worked out some more of the details - and in case anyone else has something to contribute.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:47 PM - May 07, 2019",
+      "content": "<div>A couple things. One is minor, well perhaps both are minor. Your reported ac is too low, I am sure when you put it in the spread sheet this would be evident, but 10 + 12(dex) +8 (tumble) + 5(monk) +1 (fling) =36<br/>\n<br/>\nThe other is sorta minor, but something you talk about. Or maybe it was in another thread.<br/>\nFlings aren't going to ever get 1d20 fists...they are small.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:56 PM - May 07, 2019",
+      "content": "<div>Thanks gkorjax - good catch on the AC. I do my builds in pencil and paper and forgot to add in the monk AC bumps. I'll change it in the edit.<br/>\n<br/>\nYeah, I didn't know about the non-availability of d20 fists (or age is conspiring against my memory again) for hins until Empyre pointed it out. Might mean some head-scratching on my part as far as race goes. That said, from the video Valerfor provides, it appears that ninja/shinobi foci are stealth and intelligence-gathering, but with the ability to defend oneself, and my intention with this one is to use stealth and traps (going wildly against my natural instincts, but one should keep learning, yes?) more than physical presence, so we'll see...<br/>\n<br/>\nThanks for the feedback!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:43 PM - May 07, 2019",
+      "content": "<div>Oh bugger, I'm now thinking about an elf - but that puts me in Mick's Kama-Shinobi headlights...Except this isn't meant to be a dual-wielder or a kama-user - and I would get the d20 fists, and elves are traditionally a stealthy bunch. CON would take a hit, but STR wouldn't, so things could balance out. There would, however, be an xp penalty...Arse. Yes, I know I could go human or half-elf, but it just doesn't seem to hit the spirit of the thing.<br/>\n<br/>\nCurrently in mulling mode...</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:39 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He wants the perma-song that's why the 20 levels.<br/>\nFighter 10/ Wm 7/ Bard 23 is what you want, but still is gonna struggle a bit with the feats.<br/>\nCoT 10/ Wm 7/ Bard 23, that's also an option.<br/>\nBy going with Fighter/CoT 12 instead of 10 you gain nothing because perma-song requires a feat that Bard 23 gives you anyway &amp; you also get a better caster-level.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "7:02 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>He wants the perma-song that's why the 20 levels.<br/>\nFighter 10/ Wm 7/ Bard 23 is what you want, but still is gonna struggle a bit with the feats.<br/>\nCoT 10/ Wm 7/ Bard 23, that's also an option.<br/>\nBy going with Fighter/CoT 12 instead of 10 you gain nothing because perma-song requires a feat that Bard 23 gives you anyway &amp; you also get a better caster-level.\u00a0</div></blockquote>Nothing in this case can be EWS. Just saying.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "7:03 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div>Nothing in this case can be EWS. Just saying.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk</div></blockquote>\nForget it. There is room for Fighter 10 in Epic.<br/>\n<br/>\nLasting inspiration is overrated in most aettings.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "7:25 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Grimnir wrote:</cite>\n<blockquote><div>Nothing in this case can be EWS. Just saying.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk</div></blockquote>\nForget it. There is room for Fighter 10 in Epic.<br/>\n<br/>\nLasting inspiration is overrated in most aettings.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk\n</div></blockquote>\nLasting inspiration is rated highly in my case, since it's an \"not-annoying\" thing. You don't have to re-sing every 30 seconds, which is very annoying if you have to do.<br/>\nNow, the question is valid though, is it worth dropping Lasting inspiration to gain 1 or 2 AB (although I'm not sure exactly how much)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "7:31 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bard 20 gives you Lasting Inspiration. F13/WM7 gives you max AB pre-epic, but not EWS, etc. etc. Lots of parameters here. I think if you can live without Lasting Inspiration, the best split is probably B16/F8/WM16, since as Empyre stated above, it gives you +2AB from WM levels, one fighter level post-epic (EWS). <br/>\n<br/>\nOr, am I missing something?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mirnaia",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:51 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lasting inspiration allows you to spend your song charges on curse song, using it basically every fight, and makes its use a lot safer. Because you have the buff song up \"all the time\", you just curse and start fighting immediately. If you don't, you have to buff very often (even more often than a cleric!), and you lose a round of the song while you curse. 1 round out of 10-15 is a lot more than that same round out of 100. Lasting inspiration is not only convenient, but broadens your possibilities.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "8:01 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wonder.... I really don't feel like doing all the work, but it would be interesting to test. Can you get all of these in one build:<br/>\nDivine Might + Shield<br/>\nDev Crit Battleaxe (or another martial weapon)<br/>\nLasting Inspiration<br/>\nWM7<br/>\nAlso, which combo gives you most AB+AC?<br/>\nWhat happens if you can live without Lasting Inspiration, how much AB will you gain?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:08 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I might be way off-beam here, but how about a Fighter 10/ WM 7/ Bard 23: taking 9 levels of Fighter, 7 of WM and 4 of Bard pre-epic, followed by 1 Fighter and 19 Bard in epic levels? Yes, you dip 1 on the BAB, but you will get LI.<br/>\n<br/>\nJust a thought<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "8:22 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>I might be way off-beam here, but how about a Fighter 10/ WM 7/ Bard 23: taking 9 levels of Fighter, 7 of WM and 4 of Bard pre-epic, followed by 1 Fighter and 19 Bard in epic levels? Yes, you dip 1 on the BAB, but you will get LI.<br/>\n<br/>\nJust a thought</div></blockquote>This is why LI is usually overrated. You get it at lvl 39. I would have 8-12 bard levels pre-epic. That way you get it before or around lvl 30.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:34 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nI wonder.... I really don't feel like doing all the work, but it would be interesting to test. Can you get all of these in one build:<br/>\nDivine Might + Shield<br/>\nDev Crit<br/>\nLasting Inspiration<br/>\nWM7<br/>\nAlso, which combo gives you most AB+AC?<br/>\nWhat happens if you can live without Lasting Inspiration, how much AB will you gain?<br/>\n<br/>\nHere's one part of the answer. F8/WM16/B16 will get 47/21 with song 49AB/26AC:<br/>\n(Yes, I know, it's not finished, but the first step in this excercise... The CHA is too low for instance...)<br/>\n</div></blockquote>\nHere's one problem. Feats. Assuming you go human (thus gaining a feat at L1) you'll still need 4 more feats - which is 6 levels of Fighter or 8 of CoT - to give the necessary WF, Expertise, Dodge, Mobility, Spring Att, WwAtt, Power Att, Cleave, Grt Cleave, Imp Crit, Div Shield, Div Might - the latter 2 of which you can't have without Pally or Cleric anyway. And that's without any KD or Blind Fighting. And, of course, we find we've run out of classes before even looking at factoring in at least 20 levels of Bard (incompatible with Pally in any case) in for LI.<br/>\n<br/>\nSo the simple answer is, no.<br/>\n<br/>\nSorry.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "8:44 PM - Apr 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Another problem will be stat distribution in a build like that. You'll need som CHA, at least 14, and 13 DEX and INT. And you must reach 25 STR. Even if you could get it all, it's not a good idea.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:51 AM - May 08, 2019",
+      "content": "<div>Stag, you rock it (again) with the name.<br/>\nAnd this is a reasonably powerful build, not bad for something that isn't your specialty.<br/>\n<br/>\nDefinitely explore other races if you think that they would be better suited to the task though.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:21 AM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you drop WM, a Bard/BG/RDD build can manage LI, Dev Crit and the divine feats. But you end up feat starved.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "7:40 AM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\nIf you drop WM, a Bard/BG/RDD build can manage LI, Dev Crit and the divine feats. But you end up feat starved.\n</div></blockquote>\n\nYeah, that was the origin of the question, I was trying to improve on that one. First I thought I wanna be good, so I'll go Bard/CoT/RDD, then I thought, but I wanna be a WM, so that's why I started thinking about the F/WM/B combo.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "7:44 AM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nI might be way off-beam here, but how about a Fighter 10/ WM 7/ Bard 23: taking 9 levels of Fighter, 7 of WM and 4 of Bard pre-epic, followed by 1 Fighter and 19 Bard in epic levels? Yes, you dip 1 on the BAB, but you will get LI.<br/>\n<br/>\nJust a thought\n</div></blockquote>\n<blockquote><div><cite>Valerfor wrote:</cite>\nHe wants the perma-song that's why the 20 levels.<br/>\nFighter 10/ Wm 7/ Bard 23 is what you want, but still is gonna struggle a bit with the feats.<br/>\nCoT 10/ Wm 7/ Bard 23, that's also an option.<br/>\nBy going with Fighter/CoT 12 instead of 10 you gain nothing because perma-song requires a feat that Bard 23 gives you anyway &amp; you also get a better caster-level.\u00a0\n</div></blockquote>\nThere seems to be some kind of concensus about this. I'm beginning to think that this is the optimum alternative. It will give you +2AB/+5AC from Bard levels (+6AC if you can boost your Perform skill) and you'll only lose 1 AB from taking bard levels pre-epic. You can also get EWS and DevCrit.<br/>\nThe CoT option is not working, you need at least 10 levels of bard pre-epic, since you need 7BAB before you can take your first CoT.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "8:24 AM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, here's a build. Quick and dirty, so I probably missed a lot, but... Net AB/AC: 44/26<br/>\n<details><summary>Spoiler</summary>Fighter(10), Weapon Master(7), Bard(23), Human\nSTR: 16 (28)\u00a0\u00a0 \u00a0\nCON: 12\u00a0\u00a0 \u00a0\nINT: 13\u00a0\u00a0 \u00a0\n\u00a0\u00a0 \u00a0\n01: Fighter(1): Weapon Focus: Battleaxe, Dodge, Mobility\u00a0\u00a0 \u00a0\n03: Fighter(3): Power Attack\u00a0\u00a0 \u00a0\n05: Fighter(5)\u00a0\u00a0 \u00a0\n07: Fighter(7)\u00a0\u00a0 \u00a0\n09: Weapon Master(1): Great Cleave, Weapon of Choice: Battleaxe\u00a0\u00a0 \u00a0\n11: Weapon Master(3)\u00a0\u00a0 \u00a0\n13: Weapon Master(5)\u00a0\u00a0 \u00a0\n15: Weapon Master(7): Blind Fight\u00a0\u00a0 \u00a0\n17: Fighter(9)\u00a0\u00a0 \u00a0\n19: Bard(3)\u00a0\u00a0 \u00a0\n21: Bard(5): Epic Weapon Focus: Battleaxe\u00a0\u00a0 \u00a0\n23: Bard(7)\u00a0\u00a0 \u00a0\n25: Bard(9)\u00a0\u00a0 \u00a0\n27: Bard(11): Lingering Song\u00a0\u00a0 \u00a0\n29: Fighter(10): Epic Weapon Specialization: Battleaxe\u00a0\u00a0 \u00a0\n31: Bard(14)\u00a0\u00a0 \u00a0\n33: Bard(16): Overwhelming Critical: Battleaxe\u00a0\u00a0 \u00a0\n35: Bard(18)\u00a0\u00a0 \u00a0\n37: Bard(20)\u00a0\u00a0 \u00a0\n39: Bard(22): Armor Skin\u00a0\u00a0 \u00a0\n\u00a0\u00a0 \u00a0\nSkillpoints: 218\u00a0\u00a0 \u00a0\nSaving Throw bonuses: Spells: +8\u00a0\u00a0 \u00a0\nAB (max, naked): 42 (melee), 30 (ranged)\u00a0\u00a0 \u00a0\nSpell Casting: Bard(4)\u00a0\u00a0 \u00a0\n\u00a0\u00a0 \u00a0\n\u00a0\u00a0 \u00a0\n01: Discipline(4), Intimidate(2), Save(8), \u00a0\u00a0 \u00a0\n03: Discipline(1), Intimidate(1), Save(12), \u00a0\u00a0 \u00a0\n05: Discipline(1), Intimidate(1), Save(16), \u00a0\u00a0 \u00a0\n07: Discipline(1), Save(22), \u00a0\u00a0 \u00a0\n09: Discipline(1), Spot(1), Save(2), \u00a0\u00a0 \u00a0\n11: Discipline(1), Save(8), \u00a0\u00a0 \u00a0\n13: Discipline(1), Save(14), \u00a0\u00a0 \u00a0\n15: Discipline(1), Save(20), \u00a0\u00a0 \u00a0\n17: Discipline(1), Save(26), \u00a0\u00a0 \u00a0\n19: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n21: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n23: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n25: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n27: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n29: Discipline(1), Save(3), \u00a0\u00a0 \u00a0\n31: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n33: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \u00a0\u00a0 \u00a0\n35: Discipline(1), Lore(1), Perform(1), Spellcraft(2), Tumble(1), \u00a0\u00a0 \u00a0\n37: Discipline(1), Heal(2), Lore(1), Perform(1), Tumble(1), \u00a0\u00a0 \u00a0\n39: Discipline(1), Heal(2), Lore(1), Perform(1), Tumble(1), \u00a0\u00a0 \u00a0\n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "8:38 AM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, here's the F8/WM16/B16. Same feats, but slightly better values. Net AB/AC: 47/26<br/>\n<details><summary>Spoiler</summary>Fighter(8), Weapon Master(16), Bard(16), Human\nSTR: 16 (28)\nCON: 12\nINT: 13\n\n01: Fighter(1): Weapon Focus: Battleaxe, Dodge, Mobility\n03: Fighter(3): Power Attack\n05: Fighter(5)\n07: Fighter(7)\n09: Weapon Master(1): Cleave, Weapon of Choice: Battleaxe\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Great Cleave\n17: Weapon Master(9)\n19: Bard(3)\n21: Bard(5): Epic Weapon Focus: Battleaxe\n23: Bard(7)\n25: Bard(9)\n27: Bard(11): Lingering Song\n29: Fighter(8): Epic Weapon Specialization: Battleaxe\n31: Bard(14)\n33: Weapon Master(10): Overwhelming Critical: Battleaxe\n35: Weapon Master(12)\n37: Weapon Master(14)\n39: Weapon Master(16): Great Strength II, Epic Prowess, (STR=27)\n\nSkillpoints: 204\nSaving Throw bonuses: Spells: +8\nAB (max, naked): 45 (melee), 31 (ranged)\nSpell Casting: Bard(4)\n\n\n01: Discipline(4), Intimidate(2), Save(8), \n03: Discipline(1), Intimidate(1), Save(12), \n05: Discipline(1), Intimidate(1), Save(16), \n07: Discipline(1), Save(22), \n09: Discipline(1), Spot(1), Save(2), \n11: Discipline(1), Save(8), \n13: Discipline(1), Save(14), \n15: Discipline(1), Save(20), \n17: Discipline(1), Save(26), \n19: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n21: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n23: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n25: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n27: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n29: Discipline(1), Save(3), \n31: Discipline(1), Perform(1), Spellcraft(2), Tumble(2), UMD(1), \n33: Discipline(1), Save(4), \n35: Discipline(1), Save(10), \n37: Discipline(1), Save(16), \n39: Discipline(1), Save(22), \n</details>\nI think this one's pretty good actually. Now, It's a quick-and-dirty build, so feel free to optimize it a bit.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "5:09 PM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nI wonder.... I really don't feel like doing all the work, but it would be interesting to test. Can you get all of these in one build:<br/>\nDivine Might + Shield<br/>\nDev Crit Battleaxe (or another martial weapon)<br/>\nLasting Inspiration<br/>\nWM7<br/>\nAlso, which combo gives you most AB+AC?<br/>\nWhat happens if you can live without Lasting Inspiration, how much AB will you gain?\n</div></blockquote>\n\nThat's a lot to try to squeeze into one build.\u00a0 If you drop WM, a Bard / Cleric / Fighter could get everything else on your list.\u00a0 If you drop Bard, a Paladin / Fighter / WM could get everything else in your list.\u00a0 If you drop Divine Might/Shield, a Fighter / Bard / Weapon Master could get everything else on your list.<br/>\n<br/>\nEDIT: I did it again!\u00a0 There was a whole other page of replies I didn't see before posting this.\u00a0 I am leaving it here, anyway.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:44 PM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I gave it a five-minute treatmen and got +2AB out of it, provided that you will use wands for buffing anyway.<br/>\n<br/>\nFighter(10), Weapon Master(7), Bard(23), Human<br/>\n\u00a0\u00a0 \u00a0<br/>\nSTR: <span style=\"text-decoration:line-through\">16</span> 18(<strong>30</strong>)\u00a0\u00a0 \u00a0<br/>\nDEX: 13\u00a0\u00a0 \u00a0<br/>\nCON: 12\u00a0\u00a0 \u00a0<br/>\nWIS: 8\u00a0\u00a0 \u00a0<br/>\nINT: 13\u00a0\u00a0 \u00a0<br/>\nCHA: <span style=\"text-decoration:line-through\">14</span> 8<br/>\n\u00a0\u00a0 \u00a0<br/>\nHuman: (Quick to Master)\u00a0\u00a0 \u00a0<br/>\n01: Fighter(1): Weapon Focus: Battleaxe, Dodge, Mobility\u00a0\u00a0 \u00a0<br/>\n02: Fighter(2): Expertise\u00a0\u00a0 \u00a0<br/>\n03: Fighter(3): Power Attack\u00a0\u00a0 \u00a0<br/>\n04: Fighter(4): STR+1, Spring Attack, (STR=19)\u00a0\u00a0 \u00a0<br/>\n05: Fighter(5)\u00a0\u00a0 \u00a0<br/>\n06: Fighter(6): Cleave, Whirlwind Attack\u00a0\u00a0 \u00a0<br/>\n07: Fighter(7)\u00a0\u00a0 \u00a0<br/>\n08: Bard(1): STR+1, (STR=20)\u00a0\u00a0 \u00a0<br/>\n09: Weapon Master(1): <span style=\"text-decoration:line-through\">Great Cleave</span> Blind Fight, Weapon of Choice: Battleaxe\u00a0\u00a0 \u00a0<br/>\n10: Weapon Master(2)\u00a0\u00a0 \u00a0<br/>\n11: Weapon Master(3)\u00a0\u00a0 \u00a0<br/>\n12: Weapon Master(4): STR+1, Improved Critical: Battleaxe, (STR=21)\u00a0\u00a0 \u00a0<br/>\n13: Weapon Master(5)\u00a0\u00a0 \u00a0<br/>\n14: Weapon Master(6)\u00a0\u00a0 \u00a0<br/>\n15: Weapon Master(7): <span style=\"text-decoration:line-through\">Blind Fight</span> Great Cleave<br/>\n16: Fighter(8): STR+1, Weapon Specialization: Battleaxe, (STR=22)\u00a0\u00a0 \u00a0<br/>\n17: Fighter(9)\u00a0\u00a0 \u00a0<br/>\n18: Bard(2): <span style=\"text-decoration:line-through\">Resist Energy: Sonic</span> Curse Song<br/>\n19: Bard(3)\u00a0\u00a0 \u00a0<br/>\n20: Bard(4): STR+1, (STR=23)\u00a0\u00a0 \u00a0<br/>\n21: Bard(5): Epic Weapon Focus: Battleaxe\u00a0\u00a0 \u00a0<br/>\n22: Bard(6)\u00a0\u00a0 \u00a0<br/>\n23: Bard(7)\u00a0\u00a0 \u00a0<br/>\n24: Bard(8): STR+1, Great Strength I, (STR=25)\u00a0\u00a0 \u00a0<br/>\n25: Bard(9)\u00a0\u00a0 \u00a0<br/>\n26: Bard(10)\u00a0\u00a0 \u00a0<br/>\n27: Bard(11): Armor Skin<br/>\n28: Bard(12): STR+1, (STR=26)\u00a0\u00a0 \u00a0<br/>\n29: Fighter(10): Epic Weapon Specialization: Battleaxe\u00a0\u00a0 \u00a0<br/>\n30: Bard(13): Great Strength II, (STR=27)\u00a0\u00a0 \u00a0<br/>\n31: Bard(14)\u00a0\u00a0 \u00a0<br/>\n32: Bard(15): STR+1, (STR=28)\u00a0\u00a0 \u00a0<br/>\n33: Bard(16): Overwhelming Critical: Battleaxe\u00a0\u00a0 \u00a0<br/>\n34: Bard(17)\u00a0\u00a0 \u00a0<br/>\n35: Bard(18)\u00a0\u00a0 \u00a0<br/>\n36: Bard(19): STR+1, Devastating Critical: Battleaxe, (STR=29)\u00a0\u00a0 \u00a0<br/>\n37: Bard(20)\u00a0\u00a0 \u00a0<br/>\n38: Bard(21)\u00a0\u00a0 \u00a0<br/>\n39: Bard(22): Epic Prowess<br/>\n40: Bard(23): STR+1, <span style=\"text-decoration:line-through\">Curse Song</span> Lasting Inspiration, (STR=30)\u00a0\u00a0 \u00a0<br/>\n\u00a0\u00a0 \u00a0<br/>\nHitpoints: 348\u00a0\u00a0 \u00a0<br/>\nSkillpoints: 218\u00a0\u00a0 \u00a0<br/>\nSaving Throws (Fortitude/Will/Reflex): 20/18/23\u00a0\u00a0 \u00a0<br/>\nSaving Throw bonuses: Spells: +8\u00a0\u00a0 \u00a0<br/>\nBAB: 29\u00a0\u00a0 \u00a0<br/>\nAB (max, naked): 44 (melee), 30 (ranged)\u00a0\u00a0 \u00a0<br/>\nAC (naked/mundane armor/shield only): 21/32<br/>\nSpell Casting: <span style=\"text-decoration:line-through\">Bard(4)</span> UMD\u00a0 <br/>\nAlignment Changes: 0\u00a0\u00a0 \u00a0<br/>\n\u00a0\u00a0 \u00a0<br/>\nDiscipline 43(53), Intimidate 4(6), Lore 8(32), Perform 43(42), Spellcraft 39(40), Spot 1(0), Tumble 40(41), UMD 36(35)\u00a0\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:59 PM - May 08, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nStag, you rock it (again) with the name.</div></blockquote>\nIt kind of reminds me of a DM avatar I used from time to time back in the days on the Anchorome PW. It was a little mouse, a very tiny creature, so small that most players didn't notice it. But some did, and it sparked a lot of interesting roleplay. One of the players realized that it was me playing the mouse and named it Mickey.\u00a0<span class=\"text-emoji\">\ud83d\udc2d</span><br/>\nAfter that I made an NPC mouse named Mickey and we put it in a park-like part of the main city. Since some people are afraid of mice, I gave him a fear aura that triggered if people started messing with him.\u00a0<span class=\"text-emoji\">\ud83d\ude07</span></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:58 PM - Apr 04, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nI gave it a five-minute treatment\n</div></blockquote>\nTwo things: 1) very impressive work, my friend; and 2) well now you're just showing off <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Just to attempt something more constructive... Might it be an idea to take Fighter 10 at 21 to get both EWF and EWS at the same time? It's not like you're delaying anything else for it - unless I'm mistaken about something again. And I'd probably take Power Attack and Cleave at level 1, with options for Dodge and Mobility later, but that's more about personal preference. I'm also wondering whether it might be worth holding WM back a level and taking WS at level 8, then 4 of WM, 1 of Bard at 13, then as planned.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:27 PM - May 08, 2019",
+      "content": "<div>So, we could have a troop of small animal adventurers now...There's the aforementioned Mickey, Mopab the talking squirrel (from Nashkel in BG1), Mellicamp the chicken for mage duties, and Boo as their intrepid leader. Hurrah!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:04 PM - May 08, 2019",
+      "content": "<div>Hahaha!</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:41 AM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's what I call an insanely focused build Valerfor.  23 levels of bard and charisma 8!!!  <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /> lol<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:48 AM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nI gave it a five-minute treatment\n</div></blockquote>\nTwo things: 1) very impressive work, my friend; and 2) well now you're just showing off <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:22 AM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<br/>\nNot my intention Stag, I assure you, it is just that the game runs on my head after that many years so I don't even need Pen &amp; Paper anymore. <br/>\nIn fact, I would like we had a bigger pool of spells/feats/prestige-classes to chose from, so that we could make even better builds than those. <br/>\nFor your second comment, you are absolutely right &amp; should be done anyway as is a straight improvement.\n</div></blockquote>\nNever in my thought for a second, mi amigo - just attempting a smidgeon of humour, albeit a failed one, you Zen-builder!<br/>\n<br/>\nI'm not sure about that bigger pool. I know I get frustrated by some of the rules laid down - some being stupidly arbitrary - but therein lies the challenge. If you can't have everything (which I believe is a good approach), it's about making the most of what you <strong>can</strong> have.<br/>\n<br/>\nMore importantly, I got a suggestion right - virtual drinks all round! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:39 AM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\n<br/>\nNot my intention Stag, I assure you, it is just that the game runs on my head after that many years so I don't even need Pen &amp; Paper anymore. <br/>\nIn fact, I would like we had a bigger pool of spells/feats/prestige-classes to chose from, so that we could make even better builds than those. <br/>\nFor your second comment, you are absolutely right &amp; should be done anyway as is a straight improvement.\n</div></blockquote>\nNever in my thought for a second, mi amigo - just attempting a smidgeon of humour, albeit a failed one, you Zen-builder!<br/>\n<br/>\nI'm not sure about that bigger pool. I know I get frustrated by some of the rules laid down - some being stupidly arbitrary - but therein lies the challenge. If you can't have everything (which I believe is a good approach), it's about making the most of what you <strong>can</strong> have.<br/>\n<br/>\nMore importantly, I got a suggestion right - virtual drinks all round! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nAbout that bigger pool of spells/feats etc. The number of choices would remain the same but imagine we also had the stuff from 3.5 D&amp;D like NwN 2 has, there are some things from there that I would like to see here as well, like the Frenzy Berserker, Great Falchions and more! Then the struggle would be real as we would have so many good choices to take &amp; only limited space, leading to many diverse &amp; beautiful builds!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:51 PM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The PRC would give you an overwhelming range of choices.\u00a0 I have never tried it myself, but I rememeber poring over the on-line documentation with fascination.\u00a0 There are such bizarre classes as Acolyte of the Skin and Ooze Master, but also a lot of classes, races, and feats that sound like they would be fun to play.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:08 PM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The PRC is from what I've heard rather unbalanced, at least for some of the classes. That being said, I would also welcome some added diversity. You will find that in several PWs where they have included more races and some custom classes. On Arelith they have taken it further with changes to the already available classes and an option to buy gifts at character creation for a given ECL penalty.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:44 PM - Apr 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Alright, I can understand where you're all coming from. You've all been around for ages and have constructed virtually everything possible from the available bricks, so are enthused by new materials - which is all fine and dandy.<br/>\n<br/>\nI think Mick uses an interesting word in \"unbalanced\", and while \"Faster, Higher, Stronger,\" is a great motto (for the Olympic Games, iirc), one has to be careful to maintain that balance. A toon needs to have strengths <strong>and</strong> weaknesses to be both a challenge and an enjoyment - squidgy mages and easily-baffled grunts. Who would take delight from simply marching through a campaign in no real peril? (Oh, by all the gods above and below, I'm starting to sound like Max - don't tell him, please!)<br/>\n<br/>\nSorry, my involvement in the hijacking of this thread is now over (probably). Sorry, Cornflower.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "9:53 AM - Apr 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nSorry, my involvement in the hijacking of this thread is now over (probably). Sorry, Cornflower.\n</div></blockquote>\nNot a problem. Feel free to hijack anytime, your input is interesting and enjoyable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Demos",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:16 PM - Apr 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bard 20 would need to be taken at 39 since that\u2019s the last level for feats, so you have to eat a BAB point. You could try FTR 12 / WM 7 / BD 21 and go FTR 11 / WM 7 / BD 2 per-epic (save FTR 12 for level 40 to get EWS).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:40 PM - Apr 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Why would taking Bard 20 at level 39 cost you a BAB?\u00a0 At levels 21 and up, you get +1 BAB every other level no matter what class you take, very much unlike levels 1 - 20.\u00a0 Also, if you went Fighter 9 / WM 7 Bard 4 pre-epic, your BAB would be same as your suggested F 11 / WM 7 / B 2, but you could get EWS much earlier, at level 21.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Demos",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:01 AM - Apr 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was comparing the BAB to a full FTR-type pre-epic build (FTR 10 / WM 10) the OP mentioned to kick off the the thread.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "10:53 AM - Apr 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Cornflower wrote:</cite>\nSo, here's the F8/WM16/B16. Same feats, but slightly better values. Net AB/AC: 47/26<br/>\n<details><summary>Spoiler</summary>Fighter(8), Weapon Master(16), Bard(16), Human\nSTR: 16 (28)\nCON: 12\nINT: 13\n\n01: Fighter(1): Weapon Focus: Battleaxe, Dodge, Mobility\n03: Fighter(3): Power Attack\n05: Fighter(5)\n07: Fighter(7)\n09: Weapon Master(1): Cleave, Weapon of Choice: Battleaxe\n11: Weapon Master(3)\n13: Weapon Master(5)\n15: Weapon Master(7): Great Cleave\n17: Weapon Master(9)\n19: Bard(3)\n21: Bard(5): Epic Weapon Focus: Battleaxe\n23: Bard(7)\n25: Bard(9)\n27: Bard(11): Lingering Song\n29: Fighter(8): Epic Weapon Specialization: Battleaxe\n31: Bard(14)\n33: Weapon Master(10): Overwhelming Critical: Battleaxe\n35: Weapon Master(12)\n37: Weapon Master(14)\n39: Weapon Master(16): Great Strength II, Epic Prowess, (STR=27)\n\nSkillpoints: 204\nSaving Throw bonuses: Spells: +8\nAB (max, naked): 45 (melee), 31 (ranged)\nSpell Casting: Bard(4)\n\n\n01: Discipline(4), Intimidate(2), Save(8), \n03: Discipline(1), Intimidate(1), Save(12), \n05: Discipline(1), Intimidate(1), Save(16), \n07: Discipline(1), Save(22), \n09: Discipline(1), Spot(1), Save(2), \n11: Discipline(1), Save(8), \n13: Discipline(1), Save(14), \n15: Discipline(1), Save(20), \n17: Discipline(1), Save(26), \n19: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n21: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n23: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n25: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n27: Discipline(1), Perform(1), Spellcraft(2), Tumble(1), UMD(1), \n29: Discipline(1), Save(3), \n31: Discipline(1), Perform(1), Spellcraft(2), Tumble(2), UMD(1), \n33: Discipline(1), Save(4), \n35: Discipline(1), Save(10), \n37: Discipline(1), Save(16), \n39: Discipline(1), Save(22), \n</details>\nI think this one's pretty good actually. Now, It's a quick-and-dirty build, so feel free to optimize it a bit.\n</div></blockquote>\n\nStill think this is probably the best compromise, especially if you don't have a full set of wands.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:33 AM - Apr 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Cornflower, sorry I missed this earlier. I have a few thoughts, if that's ok?<br/>\n<br/>\nFirst of all - and I'm assuming this is for BSK - is Dev Crit that desirable? If it is, then your DC (Difficulty Class) isn't going to be that high, so you might want to think about scimitar rather than battle-axe.<br/>\n<br/>\nIf it's not, then that frees up several feats - for example 2 more Great Strengths and Knockdown, if you choose to keep Power Attack and Cleave. Of course, if you lose them, that would allow for taking Curse and Lingering Song pre-epic if you juggle your Bard levels around a bit (like taking Bard 1 at level 3, 6 or 9, and Bard 2 at level 12) and altering the order in which you take your feats. If you did that, that's 2 more general epic feats freed up for more strength.<br/>\n<br/>\nAlso, as far as the skills are concerned, you only need a modified Perform of 30 to max your level 16 Song, and it would be good to take UMD to at least a modified 33 (gives you guaranteed success with any scroll), or even 35. That would leave a spare 10 or 12 points to allocate, and with Bard as the final level, you can boost Spellcraft by a further 5 ranks to give another +1 vs spells.<br/>\n<br/>\nI'd also be looking to take WS before Spring Attack (at Fighter 4), btw.<br/>\n<br/>\nHope this helps!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "10:41 AM - Apr 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nHi Cornflower, sorry I missed this earlier. I have a few thoughts, if that's ok?<br/>\n<br/>\nFirst of all - and I'm assuming this is for BSK - is Dev Crit that desirable? If it is, then your DC (Difficulty Class) isn't going to be that high, so you might want to think about scimitar rather than battle-axe.<br/>\n<br/>\nIf it's not, then that frees up several feats - for example 2 more Great Strengths and Knockdown, if you choose to keep Power Attack and Cleave. Of course, if you lose them, that would allow for taking Curse and Lingering Song pre-epic if you juggle your Bard levels around a bit (like taking Bard 1 at level 3, 6 or 9, and Bard 2 at level 12) and altering the order in which you take your feats. If you did that, that's 2 more general epic feats freed up for more strength.<br/>\n<br/>\nAlso, as far as the skills are concerned, you only need a modified Perform of 30 to max your level 16 Song, and it would be good to take UMD to at least a modified 33 (gives you guaranteed success with any scroll), or even 35. That would leave a spare 10 or 12 points to allocate, and with Bard as the final level, you can boost Spellcraft by a further 5 ranks to give another +1 vs spells.<br/>\n<br/>\nI'd also be looking to take WS before Spring Attack (at Fighter 4), btw.<br/>\n<br/>\nHope this helps!<br/>\n<br/>\nCheers\n</div></blockquote>\nYes. It's primarily BSK, but also Glorwing if that one gets online anytime soon. DevCrit on BSK is +35% bonus damage, so it's useful and cool, but has no DC.<br/>\nI'll see if I can work your feedback into a new build (or builds, one for BSK and one for Glorwing). It most definitely helps, thank you very much for the feedback!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:45 PM - May 08, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\n<strong>Monk 26/ Rogue 13/ SD 1</strong><br/>\nHalfling<br/>\nDoes it look reasonable as a principle?</div></blockquote>\nIt does look reasonable. <br/>\nAs for Epic Prowess, you can do what Empyre suggests, or you can free up a general feat by taking Epic dodge on a rogue bonus feat rather than Crippling strike and gain +1 AB.<br/>\nOr you can make a Monk 20/ Rogue 19/ SD1 build and start with Dex 18 like Empyre suggests, but take both EP and AS on general feats and have 4 rogue bonus feats for Defensive roll, Epic dodge, Crippling strike and another free feat for Slippery mind, Skill mastery or an Epic skill focus.<br/>\n<br/>\n20 Monk compared to 26 cost 20% speed bonus, 6 SR and 1 AC<br/>\n19 Rogue compared to 13 gains 3d6 SA damage, 24 skill points and an Epic bonus feat.<br/>\nIf you keep the same pre epic split, the saves will not change.</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

@@ -4,23 +4,44 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "231",
-  "name": "CBC bug - wrong assassin poison save",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/cbc-bug-wrong-assassin-poison-save-t2354419.html",
-  "author": "Kane",
-  "avatar": "10235235_1549015559.jpg",
-  "replies": 1,
+  "name": "Spot or Listen ?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/spot-or-listen-t2354431.html",
+  "author": "Kalistez",
+  "avatar": "no_avatar.png",
+  "replies": "4",
+  "views": "1.5K",
   "posts": [
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:39 PM - Apr 14, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have discovered that the CBC sheet has a bug when calculating the poison saves bonus for assassins. The assassin\u2019s save bonus vs. poison increases by +1 every 2 levels from +1 at level 2 to +15 at level 30.<br/>\n For some reason it stops at +6 even if the build has more than 12 assasin levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:31 PM - May 11, 2015",
+      "content": "<div>I'm sure it's been asked a million times but I cannot seem to find any posts about it.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "11:41 PM - Apr 15, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would never have caught this. I don't give a crap about saves LOL. Good clinical eye, Mick!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:37 PM - May 11, 2015",
+      "content": "<div>It depends on where you play and the custom settings. In default Neverwinter Nights, Listen is better than Spot, because it allows you to \"see through walls\".  You still can't target the enemy without line of sight, but you see them as though they were invisible. However, many servers have implemented a modification to True Seeing where it adds to Spot instead of auto-detecting the enemy. If that's the case, go for Spot.<br/>\n<br/>\n Take it EZ!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:52 PM - May 11, 2015",
+      "content": "<div>Read the posts by Stanley Woo in <a class=\"postlink\" href=\"http://web.archive.org/web/20090211050528/http://nwn.bioware.com/forums/viewtopic.html?topic=549835&amp;forum=42&amp;sp=15\" rel=\"noreferrer\" target=\"_blank\"><em>this old thread</em>.</a></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:12 PM - May 11, 2015",
+      "content": "<div>As mentioned, Listen lets you \"see\" through walls, but it won't help you see enemies that aren't moving like Spot can.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:36 PM - May 16, 2015",
+      "content": "<div>Well, for what is worth it, i always had a soft spot for \"Listen\" before \"Spot\" on any of my builds, it has served me well so far.<br/>\n<br/>\n @ Mick, your google-fu is amazing.</div>"
     }
   ]
 }

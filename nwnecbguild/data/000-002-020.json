@@ -4,89 +4,55 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "020",
-  "name": "How to enter combat without causing an Attack of Opportunity",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-to-enter-combat-without-causing-an-attack-of-o-t2356238.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 12,
+  "name": "Divine power",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-power-t2356198.html",
+  "author": "Vinleboiteux",
+  "avatar": "10759636_1701929568.jpeg",
+  "replies": "6",
+  "views": "750",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:00 AM - Jun 04, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Does anyone know how to enter combat with an opponent without causing an AoO with NWN:EE with the current patch?<br/>\n<br/>\nNot only do I find this to be extremely difficult atm, but also, I notice that the first attack(s) seem to have bonuses to hit!<br/>\n<br/>\nThis is frustrating.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:05 AM - Jun 05, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Walk instead of running?\u00a0 Wait for them to approach you, drawing AoO from you?\u00a0\u00a0 I'm just brainstorming ideas, not spouting facts.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:56 AM - Jun 05, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's a pic of what I mean :<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "8:59 AM - Jun 05, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you examine the above, you will see a few things :<br/>\n<br/>\nThe roll for initiative (of which I have a 30).<br/>\n<br/>\nThese Bugbears do not have a Dex bonus, so they add nothing to Initiative.\u00a0 Even with a nat 20, they can't beat my 30, so why are their flurries going before mine??<br/>\n<br/>\nIn this case, the PC has a high enough tumble to avoid the AoO from entering combat, but it still does not explain how this whole combat thing works.\u00a0 The bugbears were not in combat before I attacked them (that I am aware of).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:23 PM - Jun 05, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I haven't studied your screenshot in detail, Web, but the whole issue reminds me of an old bug (at least in vanilla NWN) where NPCs were always able to have a first attack, even if you won the initiative check and darted off immediately before they should be able to react, EG if playing with a stalker HIPS assassin.<br/>\nI found that using RANGED attacks solved it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:31 AM - Jun 06, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote: <a data-post-id=\"29233\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29233&amp;sid=d846d1df2c085bcc52ee97923e2d9b50#p29233\">\u2191</a><div class=\"responsive-hide\">Jun 05, 2024</div></cite>Walk instead of running?\u00a0 Wait for them to approach you, drawing AoO from you?\u00a0\u00a0 I'm just brainstorming ideas, not spouting facts.</div></blockquote>\nI do know you are providing feedback, and I am thankful for that, but I tried doing these both.\u00a0 What happens most of the time is that the opponents have \"reach\" - meaning they can start combat <em>BEFORE </em>I get into weapon range.\u00a0 Meaning that if I try to initiate combat beforehand, AoOs, and in the pic below, despite winning initiative, getting flurries of attacks against me beforehand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:36 AM - Jun 06, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"29236\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29236&amp;sid=d846d1df2c085bcc52ee97923e2d9b50#p29236\">\u2191</a><div class=\"responsive-hide\">Jun 05, 2024</div></cite>I haven't studied your screenshot in detail, Web, but the whole issue reminds me of an old bug (at least in vanilla NWN) where NPCs were always able to have a first attack, even if you won the initiative check and darted off immediately before they should be able to react, EG if playing with a stalker HIPS assassin.<br/>\nI found that using RANGED attacks solved it.</div></blockquote>\nWell, that is of course interesting, and ranged does \"solve\" the question of attacking first against melee opponents (which, of course, is a no-brainer), but it really doesn't answer the question here.\u00a0 How does one enter melee combat without causing AoO (and is not stealthed, etc)?\u00a0 It looks to me, more and more, that this is almost impossible to accomplish.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:32 PM - Jan 07, 2024",
+      "content": "<div>Hey everyone,<br/>\n<br/>\nMore noob questions.<br/>\n<br/>\nSo divine power grants Bab equal to your characters level right ? So lets say im cleric 10 monk 1 cot 1 i will get the BAB of a level 12 fighter right ? Not just cleric levels?<br/>\n<br/>\nOn the same note, the extra attacks per round are for character level or cleric levels ? Do they appear on character sheet ? <br/>\n<br/>\nThanks everyone :)</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:00 AM - Jun 06, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's what the wiki has to say: <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Attack_of_opportunity\" rel=\"noreferrer\" target=\"_blank\">Attack of Opportunity</a>.<br/>\n<br/>\nI'm sure this is something you know already, Web, but others may not. Btw, going through the \"Talk\" page isn't that helpful as it only deals with spells and innate special abilities (such as Shifter ones). It rather loses me when the .2da stuff gets discussed, but maybe that has something to do with it?<br/>\n<br/>\nOr it could be yet another example of the AI being quicker than a player's reactions...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:42 PM - Jan 07, 2024",
+      "content": "<div>See if this helps - it's from Max's Guide to the Cleric Class, and puts the merits of Divine Power as clearly as I've seen.<br/>\n<br/>\n[url=<a class=\"postlink\" href=\"http://THE\" rel=\"noreferrer\" target=\"_blank\">http://THE</a> BEST SPELL IN THE GAME: DIVINE POWER:  * This spell gives you, as an AB enhancement, whatever amount you lack to acheive the BAB of a Fighter of the same level. So if at level 20 you have 13 BAB, where a pure Fighter would have 20, Divine Power will give you a +7 AB enhancement. It's sick, I know. Not only that, but whenever that same fighter would have one more attack per round than your poor little self, this spell will also give you an EXTRA ATTACK PER ROUND AT FULL BAB (which makes a Cleric with DP better than a Fighter of the same level). And as a minor property but still very good for DEX-based toons, it sets your Strength to 18 if it's any lower. If it's higher it remains as is.  Now the above is also very common knowledge within the ECB, but perhaps what I'm about to demonstrate next isn't. For the sake of simplicity, let's assume that you go straight Cleric for the first 20 levels, and draw conclusions based on the observation of how Divine Power works.  Fighter-types gain an extra attack at levels 6, 11 and 16. So from levels 6-10, they have 2 APR (Attacks Per Round), from 11-15 they have 3 APR and from 16 on 4 APR.  Clerics and all +3/4 per level BAB classes gain an extra attack at levels 8 and 15 so from levels 8-14 they have 2 APR and from 15 on they have 3 APR.  By cross-examining these two charts, we can see that Clerics get Divine Power at level 7 (not considering Strength domain here), so at level 7 they get an extra attack per round. At level 8, Clerics gain another attack per round, so Divine Power no longer gives you an extra attack until level 11, when fighter-types gain the third attack per round. Then from 11-14 it goes back to giving you an extra attack per round, but at 15, Clerics gain their third attack per round so DP won't give you an extra attack till you reach level 16, when Fighters reach their fourth attack per round (which pure Clerics can't acheive with BAB), so from that level on, DP will always give you an extra attack per round.  However, to make things simpler, I will state the following: IN MOST CASES, Divine Power gives you an extra attack from level 11 on. Peroid. Now why would I do that? Simple, I explained the whole mechanism so you would understand, but there are a few things that weren't taken into account. The first one is that at level 7, Divine Power only lasts 7 Rounds, which is VERY LITTLE, and all your other buffs are at a lousy +2 each (except Shield of Faith, which is at +3), so I generally don't bother using DP till level 9, when you can extend it for an 18 round duration and also your other buffs have increased to +3. Secondly, you're likely to have taken another non-full BAB class for skill dumps by then, save few exceptions. If you go, say Cleric 14 Wizard 1 (like my Magical Master build), you won't reach level 15 being a Cleric 15, so you won't gain that extra attack till level 16, when Fighter-types get their fourth attack and DP will forever grant you that juicy extra attack at full BAB.  If you have a full attack schedule, attained with pre-epic BAB 16 or higher, then you don't get that extra attack at full BAB, so a Cleric should NEVER EVER EVER try to go over 15 pre-epic BAB. EVER!]Divine Power[/url]</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "gkorjax",
+      "author": "Vinleboiteux",
+      "avatar": "10759636_1701929568.jpeg",
+      "timestamp": "2:51 PM - Jan 07, 2024",
+      "content": "<div>Yeah I read it. Seem to imply its from character levels though not explicitly said. I totally could have missed it too. Does that mean the extra attacks don\u2019t show up on character sheet ? Cuz I don\u2019t see them on my cleric 10 monk1 cot 1 char</div>"
+    },
+    {
+      "author": "HarperDaniels",
       "avatar": "no_avatar.png",
-      "timestamp": "5:27 PM - Jun 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't believe that these are actually Attacks of Opportunity. I think the engine would identify them as such in the combat log. I've had a problem with initiative for a long time, it's never worked without an issue for me. I think this is just some hidden mechanic, perhaps related to weapon reach, that is hard to mitigate. I remember being perturbed about this on a permadeath modern zombie survival server.<br/>\n<br/>\nI'd suggest maybe trying with a longer weapon and seeing if that helps the issue. I'd check myself but I'm not actively playing now, trying to finish Elden Ring before the DLC drops.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:50 AM - Apr 08, 2024",
+      "content": "<div>Thanks for the info, I also want to know it. I appreciate you for answering, you made my day.\u00a0</div>"
+    },
+    {
+      "author": "MasonJones",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:01 PM - Jun 13, 2024",
+      "content": "<div>Thanks for the link.\u00a0</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:43 PM - Jun 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've tried every weapon type on WoG (which is all I have access to for testing) and the opponents of medium or bigger always go first. From Greatsword, to Halberd, to TH Spear, nothing has longer reach than a critwall buggy with either a Greataxe or a Katana, apparently.\u00a0 Luckily, the Greataxe users will suck down a potion of barkskin, often giving you the advantage, but if they notice your \"aggro\" beforehand, they will drink the potion as you are out of range.\u00a0 I've done Greataxe vs Greataxe, Katana vs Katana, and everything else inbetween, but nothing actually makes any difference.<br/>\n<br/>\nI do think it is a matter of reach - the \"reach\" of the opponents is just longer (unless they are small vs our medium).\u00a0 The AI reacts quicker, of course, and you can see this when they rush you, stop right outside of your reach, and attack...which goes first.<br/>\n<br/>\nThe AoO is when you go into combat against them (meaning you move to engage after you have clicked the weapon pointer on them, activating attack).\u00a0 Unless you have a way to mitigate it, such will cause AoO.\u00a0 Walking into combat will keep this from happening, but then, they will attack you first, again.<br/>\n<br/>\nAnyway, I just want to thank everyone for their replies, insights, and posts.\u00a0 I guess this is just a NWN Engine thing that is inherent to it.\u00a0 I just wish I coild find a way around it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:50 PM - Jun 09, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"29243\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29243&amp;sid=69e6f04bb91e2844bbfaa0235d40786c#p29243\">\u2191</a><div class=\"responsive-hide\">Jun 09, 2024</div></cite> I guess this is just a NWN Engine thing that is inherent to it.\u00a0 I just wish I coild find a way around it.</div></blockquote>\nI'm not sure about this - if you go look at some of the 'way-back-when' builds from the WoG archives (I confess, I'm particularly thinking of the Grizzled One's <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build215900.html\" rel=\"noreferrer\" target=\"_blank\">Hearth Guard</a>, which is a build I love, and he strikes me as a one not easily given to whimsy!), a fair amount of builders included at least the early Initiative, which seems to point to a decision made...somewhere...to make the feat as redundant as Parry became as a skill. I fear it's still a \"Fight the Powers that Be\" scenario...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:29 AM - Jun 10, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When attacking a non player creature from stealth with a dexterity based character with an inherently high initiative, killing the NPC in the first flurry - and still getting hit.\u00a0<br/>\nIt can't be about initiative, and it can hardly be about reach when you already are within striking distance with your own weapons when you break stealth and attack.<br/>\nIt looks like a bug to me.<br/>\n(And it wouldn't surprise me if you got hit, even when attacking a stunned or otherwise incapacitated NPC.) (But I can't remember if I tested that.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:59 PM - Jun 13, 2024",
+      "content": "<div><blockquote><div><cite>Vinleboiteux wrote: <div class=\"responsive-hide\">Jan 07, 2024</div></cite>Yeah I read it. Seem to imply its from character levels though not explicitly said. I totally could have missed it too. Does that mean the extra attacks don\u2019t show up on character sheet ? Cuz I don\u2019t see them on my cleric 10 monk1 cot 1 char</div></blockquote>\nNo, the extra attacks do not show up on the character sheet (which often lies).</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:41 AM - Jun 10, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's bongo banana bad if you ask me.<br/>\n<br/>\nI can't make heads or tails of it.\u00a0 Even combat logging just makes it even more confusing as to how this is all calculated by the NWN Engine.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:02 PM - Jun 13, 2024",
+      "content": "<div>And to clear up the level quandry, this - <blockquote><div>Base attack bonus improves to that of a fighter of the same <em>character</em> level; caster level is ignored for this aspect of the spell. For example, this spell grants any level 14 character the base attack bonus of a level 14 fighter (i.e. +14/+9/+4), regardless of that character's classes and class levels.</div></blockquote>\n<br/>\nFrom - <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Divine_power\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Divine_power</a><br/>\n<br/>\nBasically, this means that the BAB gain is based on ALL levels of the Character, not just the Cleric levels.<br/>\n<br/>\nAnd yes, DP is broken as all getout!\u00a0 So abuse the holy (unholy) heck out of it!</div>"
     }
   ]
 }

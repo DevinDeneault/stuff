@@ -4,59 +4,18 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "550",
-  "name": "Looking for a 4 fighter/16 Bard /10 AA build?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-a-4-fighter-16-bard-10-aa-build-t2355581.html",
-  "author": "Avatar6666",
-  "avatar": "10759045_1549305707.jpg",
-  "replies": 7,
+  "name": "Druid 19 Monk 1 by fairouz33",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-19-monk-1-by-fairouz33-t2355603.html",
+  "author": "fairouz33",
+  "avatar": "no_avatar.png",
+  "replies": "0",
+  "views": "77",
   "posts": [
     {
-      "author": "Avatar6666",
-      "avatar": "10759045_1549305707.jpg",
-      "timestamp": "4:28 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Looking for a 4 fighter/16 Bard /10 AA build?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
+      "author": "fairouz33",
       "avatar": "no_avatar.png",
-      "timestamp": "7:10 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This would be a good place to start,<br/>\n<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... index.html</a><br/>\nI suspect that members of this guild have refined the builds from the old days...so there might be some better ones in the level 40 builds section of these forums...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:12 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Damn..not sure why I can't edit my own post yet...I see...level 30...well...I'd still suggest using the search engine, and looking in both the level 30 and level 40 sections of these forums...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:43 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I looked, there isn't anything for level 30 that he wants.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:08 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A couple of questions, if I may, Avatar6666?<br/>\n<br/>\n- Where do you intend to play the build? Is it a level 30 PW, or is it for specific modules? Are there any particular variations from vanilla NwN rules?<br/>\n- Why have you chosen the classes you have, and in the numbers you have?<br/>\n- Would xp penalties be important for you or not?<br/>\n<br/>\nIt would really help if you could follow the <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/build-request-guidelines-t515448.html\" rel=\"noreferrer\" target=\"_blank\">Build Request Guidelines</a>. It helps us to help you get what you want.<br/>\n<br/>\nThanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Avatar6666",
-      "avatar": "10759045_1549305707.jpg",
-      "timestamp": "8:34 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am trying to build a bard that can do damage on Knights of Normath server.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:53 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Avatar6666 wrote: <a data-post-id=\"22274\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=22274&amp;sid=99bdeeb9efbda568a5170216d550b70d#p22274\">\u2191</a><div class=\"responsive-hide\">Oct 12, 2020</div></cite>I am trying to build a bard that can do damage on Knights of Normath server.</div></blockquote>\nWell, like I said, we need to know more about that server and its rules. Follow the guidelines.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:04 PM - Oct 12, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Do you mean Knights of Noromath?<br/>\n<br/>\nI don't see AA listed there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:04 AM - Oct 20, 2020",
+      "content": "<div><em>This is moved from another forum where it was posted by fairouz33 on october the 20th.</em><br/>\n<br/>\ni really appreciate this build guide for druids! <br/>\ni thought i'd share my favorite version of a zen archery druid. i have played it in a couple of the standard campaigns now with slight variations 1-30ish. will just give the 1-20 build. very playable all throughout, good power curve. not as crazy powerful as a melee buff monster cleric (melee cleric kinda ruined me from my first playthrough of the OC), but this is more fun imo.\u00a0 focuses on pets/summons, buffs, and archery until you get more spell slots. then raining arrows &amp; aoe over your minions when you have empower and stuff. rapid shot, zen archery, and haste are great at 6 if you can find the monk robes or something.<br/>\n<br/>\nposting my version with just 1 monk level at 17, as i tend to not need wildshape until later when the pet AC lags behind. you do have an exp penalty after that. i have taken it earlier at 2, 7, or 12, if i want tumble and maybe monk specific AC or haste items. if i take the monk dip sooner, i'll use human and a sling instead. AC ends up higher that way too. could swap extend for silent spell for more casts of your favorite aoe also. have swapped tumble for persuade or lore, depending on the campaign\n<details><summary>Spoiler</summary>\n<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></details>\n<em>Edit by Mick Dagger</em></div>"
     }
   ]
 }

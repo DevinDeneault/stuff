@@ -4,23 +4,31 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "259",
-  "name": "Henchmen Portraits",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/henchmen-portraits-t2335778.html",
-  "author": "Kane",
-  "avatar": "10235244_1510287070.jpg",
-  "replies": 1,
+  "name": "Help With Getting Epic Dodge on level 24",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/help-with-getting-epic-dodge-on-level-24-t2340031.html",
+  "author": "Bawookles",
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "590",
   "posts": [
     {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "4:42 PM - Jun 16, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail, my mates!<br/>\n<br/>\nI was wondering today, I've been getting into a feel of playing my Henchmen builds, and would love to start with Valen Shadowbreath, but I don't have the portrait, which for me is kind of important. Is there a way of downloading it somewhere? Or maybe one of you guys can be so nice as to send it to me? I would also like Nathyrra's, Daelan Red Tiger's, Dorna's. I have Tomi's, Linu's, Sharwyn's, Xanos', and some others, even Lord Nasher and Fenthick Moss...<br/>\n<br/>\nThanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Bawookles",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:51 AM - Aug 13, 2013",
+      "content": "<div>Hey, there.<br/>\n<br/>\n So I want to do a Monk 20/Shadowdancer 5/ Cleric 15 build and I want to get Epic Dodge on level 24. <br/>\n<br/>\nI start my Monk with Dex 18 and pump it up every chance I get so I can get to the Dex 25 requirement for Epic Dodge. So on 20th level I get him to Dex 23, I give him the Greater Dexterity feat on level 21 to get him to Dex 24 and by level 24 I can get him to Dex 25 so no problem there. <br/>\n<br/>\nI have been adding to tumble on every level to get to 30 ranks. I already have improved evasion from the monk levels and the fifth level of Shadowdancer gets him the defensive roll feat necessary for Epic Dodge. <br/>\n<br/>\n So, I'm testing this all out and on the 24th level I give him his 5th Shadowdancer level, I give him Dex 25 and.... when I get to feat selection Epic Dodge is not available!!! <br/>\n<br/>\nWhat am I doing wrong??? Do I have to have tumble at 30 UNMODIFIED ranks for the feat? And thus won't be able to get Epic Dodge until level 27???<br/>\n<br/>\nThanks!</div>"
     },
     {
-      "author": "Mardus",
+      "author": "Bawookles",
       "avatar": "no_avatar.png",
-      "timestamp": "12:27 PM - Aug 06, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just downloaded this: <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=portraits.detail&amp;id=5363\" rel=\"noreferrer\" target=\"_blank\">http://nwvault.ign.com/View.php?view=po ... il&amp;id=5363</a> and I think it may have the portraits you need.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:37 AM - Aug 13, 2013",
+      "content": "<div>Arghh! Okay, nevermind I just figured it out. Yeah, it's the unmodified Skill ranks for the feat. Duh. So I can get Epic Dodge at level 27. Sorry if I wasted anyone's time!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:29 PM - Aug 13, 2013",
+      "content": "<div><blockquote><div><strong>Bawookles wrote:</strong> Yeah, it's the unmodified Skill ranks for the feat. Duh. So I can get Epic Dodge at level 27. </div></blockquote>\nIndeed!<br/>\nYou figured it out - and saved us a lot of time explaining</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

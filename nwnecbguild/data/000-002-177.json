@@ -4,77 +4,103 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "177",
-  "name": "How do Recipro-Damage Caster Builds work?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-do-recipro-damage-caster-builds-work-t2355032.html",
+  "name": "How do monk-based Sword Saint builds work?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-do-monk-based-sword-saint-builds-work-t2355028.html",
   "author": "blksabbath74",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 10,
+  "avatar": "no_avatar.png",
+  "replies": "14",
+  "views": "3.2K",
   "posts": [
     {
       "author": "blksabbath74",
       "avatar": "no_avatar.png",
-      "timestamp": "5:09 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I saw on of these scrolling through, and wanted to better understand how they work.<br/>\n<br/>\nThanks in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:25 PM - Feb 14, 2019",
+      "content": "<div>I have seen a number of these, and am very interested in them, the strengths of a monk with the power of a sword, but I don't understand what makes the build tick.</div>"
+    },
+    {
+      "author": "supercocho",
+      "avatar": "10759053_1550164774.jpg",
+      "timestamp": "6:28 PM - Feb 14, 2019",
+      "content": "<div>How do you play it? Without armor (or very limited armor by choosing a light armor feat and risking arcane spell failure) you might be thinking you'll play it the way everyone is playing the Magus anyways: focus on rapier, taking weapon finesse feat and pushing up dexterity.....<br/>\n.. WRONG!!! ..\u00a0<br/>\nWe are playing a magical weapon master who has dedicated attack, power and defense to a single weapon (gaining Chosen Weapon lvl1), using her/his intelligence through study and exercise (gaining Canny Defense feat lvl1) to put this into practice. So what we want to do, at the start and early game (1-4) is \"meditate\" on our practice (push for high intelligence). At lvl 4, training in our art will bear fruit (gaining perfect strike feat) so choosing a weapon with powerful potential is ideal.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "7:08 PM - Feb 14, 2019",
+      "content": "<div>Er, nothing magical involved in Weapon Master, just training and loads of prerequisite feats. You certainly don't need high INT (though if you've stat points to spare it wouldn't hurt, of course).<br/>\n<br/>\nYou play in robes so you retain monk speed and AC - and normally with a 2-hander because carrying a shield would likewise disable the speed and AC. So you're exchanging monk apr for 1.5x damage p/hit. It's also handy that monk gives you so many free feats (IKD and Cleave for example) when WM requires so many largely useless ones. Monk saves are also excellent, and it is a class with both Tumble and Discipline.<br/>\n<br/>\nValerfor bosses the sword saint builds (no offence intended to anyone else), so I'll wait for any input from him before further comment.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "blksabbath74",
       "avatar": "no_avatar.png",
-      "timestamp": "5:26 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Also, in general, what spells are effective for a sub-optimal caster level?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:02 PM - Feb 14, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\nEr, nothing magical involved in Weapon Master, just training and loads of prerequisite feats. You certainly don't need high INT (though if you've stat points to spare it wouldn't hurt, of course).<br/>\n<br/>\nYou play in robes so you retain monk speed and AC - and normally with a 2-hander because carrying a shield would likewise disable the speed and AC. So you're exchanging monk apr for 1.5x damage p/hit. It's also handy that monk gives you so many free feats (IKD and Cleave for example) when WM requires so many largely useless ones. Monk saves are also excellent, and it is a class with both Tumble and Discipline.<br/>\n<br/>\nValerfor bosses the sword saint builds (no offence intended to anyone else), so I'll wait for any input from him before further comment.<br/>\n<br/>\nCheers\n</div></blockquote>\n\nMakes sense, it was his Raigeki buid that I saw first...</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:51 AM - Feb 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wizards, in general, have two spells that are doing heavy damage (120 plus, if both are active) against those who strike them in melee.<br/>\nThese spells are a flame-shield (like fire shield-red/blue from ad&amp;d) and an acid-shield respectively.<br/>\nBut wait, aren't wizards in general fragile with low constitution &amp; hit points?<br/>\nSo, there comes the \"optimized\" part. You can do it in two ways, one requires a spell, the other a class.<br/>\nThe spell is shapechange into an Iron Golem which makes you immune to a ton of stuff, including criticals &amp; sneaks plus giving you hundreds of temporary hit points.<br/>\nThe class is Pale Master and it does the same thing basically, but constantly.<br/>\nOf course, a wise warrior would never engage the wizard in melee when the shields are up, which in turn suits the wizard just fine cause he now has all the time in the world to fry the poor warrior with his spells.<br/>\nOf course, things are more complicated than that, with counters &amp; anti-counters for both sides, but those are the basics so you can understand how this works in general.<br/>\n<br/>\nHere is an example, a build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:17 AM - Feb 15, 2019",
+      "content": "<div>For me, it comes down to Speed!<br/>\n<br/>\nWhen you are forced to slog your way into large maps &amp; killing creatures or when you find yourself in situations where you need to back-out fast you wish you had more Speed.<br/>\nThis type of build (especially hasted because Monk's speed multiplies with it) moves &amp; fights in a frantic pace, as long as you have mapped your combat feats to the F-Keys you can reach enemy mages, ranged attackers, dangerous monsters etc in the blink of an eye &amp; destroy them, and you can just as easily back-out when the situation demands. It does help that level twenty Monks are immune to a ton of things as well... <br/>\n<br/>\nAs for the weapon used, it is a personal choice, kamas are effective for sure but what is life without some style? ;)</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:23 AM - Feb 15, 2019",
+      "content": "<div>And since we're talking about Kensai...<br/>\nCan't do this without Kyuzo from Seven Samurai, right?<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.pinimg.com/originals/c0/df/82/c0df8221d5e4767d16e83e549b11be53.jpg\"/></div>"
     },
     {
       "author": "blksabbath74",
       "avatar": "no_avatar.png",
-      "timestamp": "9:47 PM - Feb 18, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nWizards, in general, have two spells that are doing heavy damage (120 plus, if both are active) against those who strike them in melee.<br/>\nThese spells are a flame-shield (like fire shield-red/blue from ad&amp;d) and an acid-shield respectively.<br/>\nBut wait, aren't wizards in general fragile with low constitution &amp; hit points?<br/>\nSo, there comes the \"optimized\" part. You can do it in two ways, one requires a spell, the other a class.<br/>\nThe spell is shapechange into an Iron Golem which makes you immune to a ton of stuff, including criticals &amp; sneaks plus giving you hundreds of temporary hit points.<br/>\nThe class is Pale Master and it does the same thing basically, but constantly.<br/>\nOf course, a wise warrior would never engage the wizard in melee when the shields are up, which in turn suits the wizard just fine cause he now has all the time in the world to fry the poor warrior with his spells.<br/>\nOf course, things are more complicated than that, with counters &amp; anti-counters for both sides, but those are the basics so you can understand how this works in general.<br/>\n<br/>\nHere is an example, a build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a>\n</div></blockquote>\n\nThanks for posting, I just spent a long weekend looking through all (well, not all) those archived builds. Amazing resource!<br/>\n<br/>\nSo what happened to World of Greyhawk?<br/>\n<br/>\nThe only one I see on EE is a 1-20 server, and frankly, I'd still play there on pre-epic builds if they had their hacks set up to download automatically to mobile devices.<br/>\n<br/>\nGhost Tower of Inverness and White Plume Mountain are my #1 &amp; 2 favorite modules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:27 PM - Feb 15, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nAnd since we're talking about Kensai...<br/>\nCan't do this without Kyuzo from Seven Samurai, right?<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.pinimg.com/originals/c0/df/82/c0df8221d5e4767d16e83e549b11be53.jpg\"/>\n</div></blockquote>\n\nMore of a Kikuchiyo guy myself...have you ever attempted a Sword Saint build that incorporated Rogue levels?</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:28 PM - Feb 18, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">All I know is that WoG's still up and running 1-40, though I can't promise EE compatibility. It's also available as a solo module (Max posted about it in this section last year, I think).<br/>\n<br/>\nBut I can almost hear the rumblings of the waking behemoth who shall be nameless now to give you more details...<br/>\n<br/>\nThat said, I know others have/do play there (including Valerfor).<br/>\n<br/>\nBtw, I'm trying so hard to either deliberately include or exclude the words \"paranoid\", \"war\", \"pigs\", \"iron\" and \"man\" in responses to your good self, blksabbath. And I think I've just failed in both, damn it.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:20 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">World of Greyhawk is primarily running on it's EE server. I believe the player counts are higher there.<br/>\nSort by module name and scroll all the way down to World of Greyhawk. Levels 1-40<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "6:45 PM - Feb 15, 2019",
+      "content": "<div>Yes, and I have posted that here as well, in one of the request builds threads, but I don't remember where atm.<br/>\nIt was a (Ftr/ Monk/ Rog) with Dev Crit.</div>"
     },
     {
       "author": "blksabbath74",
       "avatar": "no_avatar.png",
-      "timestamp": "3:52 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>\nWorld of Greyhawk is primarily running on it's EE server. I believe the player counts are higher there.<br/>\nSort by module name and scroll all the way down to World of Greyhawk. Levels 1-40\n</div></blockquote>\n\nFound it. I thought they were 1-20, but that must have been a different server.<br/>\n<br/>\nUnfortunately, regardless, the mobile version of EE doesn't allow manual manipulation of the hacks, so unless it is set up to automatically d/l through EE, mobile users can't play...which is sad...because I'm Straight Outta' Hommlet.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:44 PM - Feb 15, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nYes, and I have posted that here as well, in one of the request builds threads, but I don't remember where atm.<br/>\nIt was a (Ftr/ Monk/ Rog) with Dev Crit.\n</div></blockquote>\n\nThanks, will look for it...</div>"
     },
     {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "3:53 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nAll I know is that WoG's still up and running 1-40, though I can't promise EE compatibility. It's also available as a solo module (Max posted about it in this section last year, I think).<br/>\n<br/>\nBut I can almost hear the rumblings of the waking behemoth who shall be nameless now to give you more details...<br/>\n<br/>\nThat said, I know others have/do play there (including Valerfor).<br/>\n<br/>\nBtw, I'm trying so hard to either deliberately include or exclude the words \"paranoid\", \"war\", \"pigs\", \"iron\" and \"man\" in responses to your good self, blksabbath. And I think I've just failed in both, damn it.<br/>\n<br/>\nCheers\n</div></blockquote>\n\nAt least you avoided mentioning the footwear choices of faeries...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "rangerswg",
+      "avatar": "10759057_1551021784.jpg",
+      "timestamp": "4:25 PM - Feb 24, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\nEr, nothing magical involved in Weapon Master, just training and loads of prerequisite feats. You certainly don't need high INT (though if you've stat points to spare it wouldn't hurt, of course).<br/>\n<br/>\nYou play in robes so you retain monk speed and AC - and normally with a 2-hander because carrying a shield would likewise disable the speed and AC. So you're exchanging monk apr for 1.5x damage p/hit. It's also handy that monk gives you so many free feats (IKD and Cleave for example) when WM requires so many largely useless ones. Monk saves are also excellent, and it is a class with both Tumble and Discipline.<br/>\n<br/>\nValerfor bosses the sword saint builds (no offence intended to anyone else), so I'll wait for any input from him before further comment.<br/>\n<br/>\nCheers\n</div></blockquote>\nHe got his Pathfinder and NWN mixed up. Sword Saint is a Magus archetype in Paizo-world.\u00a0</div>"
     },
     {
-      "author": "Mirnaia",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:17 AM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can also download a solo version from the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/gameworld/world-greyhawk-persistent-world-ee\" rel=\"noreferrer\" target=\"_blank\">NWN Vault</a>, if you want to experiment.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:38 PM - Feb 24, 2019",
+      "content": "<div>Eh, it is rather the opposite in fact.<br/>\nPaizo was looking for \"cool words\" for naming the archetypes &amp; gave this to a spell-sword.<br/>\nHaven't you heard about Miyamoto Musashi?<br/>\n<a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/Miyamoto_Musashi\" rel=\"noreferrer\" target=\"_blank\">https://en.wikipedia.org/wiki/Miyamoto_Musashi</a></div>"
     },
     {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:34 PM - Feb 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mirnaia wrote:</cite>\nYou can also download a solo version from the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/gameworld/world-greyhawk-persistent-world-ee\" rel=\"noreferrer\" target=\"_blank\">NWN Vault</a>, if you want to experiment.\n</div></blockquote>\n\nSame thing, I can't access d/l modules on EE. Not sure if that will change when it gets out of beta, but currently you can't manually mess with your files...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "rangerswg",
+      "avatar": "10759057_1551021784.jpg",
+      "timestamp": "4:41 PM - Feb 24, 2019",
+      "content": "<div>I love them. But they're more off-tank material through the mid-levels. Your HP is going to be low for a front-liner for much of the build. The more monk you want, the more difficult it gets to bring on line. But, honestly, the more you simply wade through to dice people once it does. Also because you're going to deal with the same issues as STR-based Monks: You're MAD as Pandemonium for most of the build. WIS for AC and Saving throws. Dex for AC or you sacrifice the monk feats you're trying to pick up. STR because, sword. You're never weak in this build, mind you. But it's not the guy I'd put in the doorway to hold the line. He's a flanker. Perfect for hunting mages and squishies then coming in to mop up. Use the speed to avoid getting stuck going toe-to-toe with heavy-armored behemoth 1v1.<br/>\n<br/>\nI build them for Aielund. Savant drops some juicy monk robes in the late game. Just when this build starts to shine. The 1st one I did as the Blademaster (though I added a couple more monk levels at the end. Stopped WM earlier.) Bonus points because Aielund has No-Dachi swords. So you can play samurai without taking the exotic feat to pick up Katana. On a PVP-friendly PW I played a couple that were more monk-based. Annoyed people to no end because their scythe-wielders could only hit me on 20. And then monk saves, so I passed Dev-Crit anyway. :P</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:01 AM - Feb 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\na build that uses pale-master plus high constitution &amp; some DR to complement the reciprocate-shield strategy.<br/>\nMestil's Pale Emissary =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252820.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 52820.html</a>\n</div></blockquote>\nSorry, didn't check the cited build before posting earlier, but now I have and I absolutely bloody love it! The pacifist juggernaut - just a shame PM means it can't be good aligned (but no point reopening a long-running sore). A stunning take, the like of which I have not seen before. Thanks for finding it - and Grizz, come on, step up to the mark and play with us again - we know you're out there!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "rangerswg",
+      "avatar": "10759057_1551021784.jpg",
+      "timestamp": "4:44 PM - Feb 24, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nEh, it is rather the opposite in fact.<br/>\nPaizo was looking for \"cool words\" for naming the archetypes &amp; gave this to a spell-sword.<br/>\nHaven't you heard about Miyamoto Musashi?<br/>\n<a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/Miyamoto_Musashi\" rel=\"noreferrer\" target=\"_blank\">https://en.wikipedia.org/wiki/Miyamoto_Musashi</a>\n</div></blockquote>\n\nI have. But the Kensai kit goes back to 2nd edition AD&amp;D. So it was objectively 1st in that system. Paizo lifted it and renamed it for the archetype much later. Not that I hate Pathfinder. Currently having a lot of fun w/ Pathfinder Kingmaker.\u00a0</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:50 PM - Feb 24, 2019",
+      "content": "<div>Nope, the Kensai class (which is different than what is presented to us in Baldur's Gate II by the way), has its origins in Oriental Adventures for 1st Edition Advanced Dungeons &amp; Dragons published in 1985.<br/>\nI enjoy Paizo's modules as well, having DM'ed/ played a lot of them through the years.<br/>\n<br/>\nWelcome to the guild rangerswg!</div>"
+    },
+    {
+      "author": "rangerswg",
+      "avatar": "10759057_1551021784.jpg",
+      "timestamp": "5:25 PM - Feb 24, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nNope, the Kensai class (which is different than what is presented to us in Baldur's Gate II by the way), has its origins in Oriental Adventures for 1st Edition Advanced Dungeons &amp; Dragons published in 1985.<br/>\nI enjoy Paizo's modules as well, having DM'ed/ played a lot of them through the years.<br/>\n<br/>\nWelcome to the guild rangerswg!\n</div></blockquote>\nI've been around a looooong time. Just had to change the ID for a new computer.\u00a0</div>"
     }
   ]
 }

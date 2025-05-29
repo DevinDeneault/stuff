@@ -4,41 +4,110 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "926",
-  "name": "Ranger/Weapon Master?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/ranger-weapon-master-t2354950.html",
-  "author": "campgod",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 4,
+  "name": "PW-adapted special build needed",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/pw-adapted-special-build-needed-t2354962.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": "15",
+  "views": "379",
   "posts": [
     {
-      "author": "campgod",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:58 PM - Nov 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello, I was thinking about a Ranger/Weapon Master.<br/>\n1)I would like it to be for PvP though I do have to lvl it. I can re-lvl him once he hits 40 so play-ability isnt a must.<br/>\n2)Race: doesn't matter to me, just whatever helps the build the best.\u00a0<br/>\n3)Class: Ranger/Weapon Master sounds cool. Server does give a +2 AC bonus for just having 2 classes, but if it makes a better toon would consider a 3rd, maybe SD for cheese HiPS?<br/>\n4)Melee preference: I was thinking since Rangers seem to like to duel, go with a Double-axe or something? or even would entertain a bow?\u00a0<br/>\n\u00a0<br/>\nI know having a WM sucks up feats, so not sure how doable it is to have all that I want. BoE would be cool, but if not at least I would pick some of the Races for PvP.<br/>\nI would like to see a heavy sided Ranger and a heavy sided WM if possible. Thank you guys a head of time for your thoughts and ideas.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:52 AM - Dec 24, 2018",
+      "content": "<div>Last year I've been playing on a very popular PW and I've become increasingly frustrated. Here's my problem:<br/>\nEnd-game bosses have somewhere around 85AC and 100AB, as well as occasionally stuff like OnHit Harm, OnHit Dispel and are usually plentiful. Usually they are also equipped with lots of Damage Reductions, so they take all day to kill. The only way to clear up end-game areas is a team of one WM-killer and one DD-tank. But, I have become obsessed with the idea of solo-ing those areas.<br/>\n<br/>\nI've tried most every pure build I can find. Wizard can sometimes win the fight with lots of scrolls, timestop, etc, etc. But, my wish is to find some kind of melee character that really can kick arse. Is there a build with the AC of a DEX-fighter, the hitting power of a STR-based RDD/Barbarian, the toughness of a Dwarven Defender that I can use? I understand there has to be compromises, so priorities are: 1. Massive overpowered damage. 2. Ability to survive lots of magic and damage raining down. 3. Anything else.<br/>\n<br/>\nThere are plenty of treasure in this PW, you can create a +20 weapon with 2d10+2d10 damage bonuses and 2d12 massive crits, so you can actually do some damage. The question is more, who will do the damage? Any wild ideas? I can see some interesting builds in the lvl40-area, but which should I choose?<br/>\n<br/>\nAny assistance is very much appreciated.</div>"
     },
     {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "7:05 PM - Nov 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I built a couple 8f these guys, they have some problems, but hit like a damn truck. Do a quick search.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:16 PM - Dec 24, 2018",
+      "content": "<div>With such high-powered weapons, I am picturing a dual-kama Monk, with up to 10 attacks per round. A Monk / Fighter / Rogue would give you Uncanny Dodge, Epic Dodge, UMD for scrolls, and sneak attacks, but a rather low AB. A Monk / Fighter / WM would lose all those Rogue benefits (except you would still have Tumble from Monk), but your AB would be much higher and you would have more critical hits with a higher multiplier.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:13 PM - Nov 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is this <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/robin-hood-wildwood-warrior-ranger9-ftr12-wm19-t2302002.html\" rel=\"noreferrer\" target=\"_blank\">Robin Hood</a> by Tyr here in our lvl 40 section. An interesting build, even if it is a a bit low on AC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "campgod",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:01 PM - Nov 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That Robin Hood looks to have nice AB. I also did a search and cant find any of your builds Grimnir...I must be doing it wrong lol.<br/>\nI did find Demos's Ghost Viper which looked cool. Lower AB then the Hood one unless the BoE covers that?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:43 PM - Dec 24, 2018",
+      "content": "<div>With all that additional weapon damage available, dex builds may be an option after all.<br/>\nWhat remedies that work against a high AC high AB boss depends on spell resistance, saves and what immunities and vulnerabilities they have. <br/>\nWill dev crit work, sneak attacks, certain spells etc.?<br/>\nIn a battle of 20s the monks have most attacks per round.<br/>\nIf you want to challenge the AC, you may want to try an Arcane archer. With ranged attacks you may also avoid some of the on hit effects and that +100 AB.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:32 PM - Nov 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You will have to take into account the magic level of your server campgod, if the magic level is high then the best choice would be an insane number of attacks over everything else (attacks that hit, that is). That makes ranger/monk/wm the best choice because of the 10 attacks/round thing. There was a build from gdl \"praying mantis\" if I remember correctly that did this. Otherwise, either dual-kukris or scyther is the best, kill them before they kill you builds. Safer would be a scimitar sword &amp; board style wm, but that one would have a significantly lower amount of dmg output that the rest of choices and probably would lose to the other ones since if you invest on defense then you must go all-out to be really good. Drow fencer would do well in mid-to-high level PW's for example as he has ED &amp; high AC &amp; the magic enchantments would take care of his dmg problems.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:12 PM - Dec 24, 2018",
+      "content": "<div>Okay, this is a tough case no matter how you look at it. <br/>\nMy first answer to something like that would be a Sorceress as she is probably the only one that can solo anything with enough preparation &amp; knowledge of the game. That has been the case since the invention of DnD &amp; it ever will be. the thing, of course, is that you do not want such a build &amp; I understand this completely, so let's see what else can we do.<br/>\n<br/>\nBeing a tank \"MMO terminology, but let's roll with it for the moment\" doesn't actually prevent you from dealing some good damage yourself. Here is the thing, Magaiti's Dwarven Defender is a weapon master in addition to that (search the 40's section) and he has as high an AB as he could get for such a defensive build. His total (mundane) AB is 43, that makes it 43 +6 +20= 69AB for your PW. With flanking assumed (+2) he will be able to actually hit the hardest Bosses although no so consistently as you might like. His crits will hurt though! (X4 multiplier).<br/>\n<br/>\nAnother case could be made for Andariel (Bard 5/ RDD 15/ PM 20). I have her listed with a Scythe but if you take a medium weapon &amp; shield, she has a super-high AC of 47 with mundane gear. Assuming +10 defensive items for your PW fully equipped she would have 102 AC. She can go higher than that with a Bard's blessings (because she isn't maxed on her dodge AC) but let's assume personal buffs only. You see that even this isn't gonna cut it but perhaps it will stop the Bosses from power-attacking her. Then she is completely immune to critical hits, that should help a lot for actually surviving the damn thing. She is strength-based (54 Strength, buffed) so her damage should be alright, although she is gonna use a one-handed weapon &amp; she is no weapon master herself. <br/>\n<br/>\nArcane archers are another choice, although I know nothing for the Bow &amp; Arrow enchantments on your server. They have the highest AB from all builds though &amp; are able to fully attack from a distance, so that should help. <br/>\n<br/>\nFrom discussing this thing, the obvious choice that comes to mind is team-work. I think that Bosses &amp; high-level mobs are this way in order to force co-operation. <br/>\nGood luck.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:20 PM - Dec 24, 2018",
+      "content": "<div>As for your original question, there is such a build that has everything but that's mostly in medium-magic worlds/modules since it doesn't scale well in high-magic environments. <br/>\nOrder of J\u00f6rmungandr (by Kail) is the name &amp; he is a Dragon able to achieve over 1000 hit points, 87 AC &amp; 7 attacks/ round with cleric buffs on a +5 world.<br/>\nTremendous power but as I said it doesn't scale very well on high-magic.<br/>\nStill worth mentioning though!</div>"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "9:32 PM - Dec 24, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nWith all that additional weapon damage available, dex builds may be an option after all.<br/>\nWhat remedies that work against a high AC high AB boss depends on spell resistance, saves and what immunities and vulnerabilities they have. <br/>\nWill dev crit work, sneak attacks, certain spells etc.?<br/>\nIn a battle of 20s the monks have most attacks per round.<br/>\nIf you want to challenge the AC, you may want to try an Arcane archer. With ranged attacks you may also avoid some of the on hit effects and that +100 AB.\n</div></blockquote>\nI am from the same server and was interested in this issue, so just wanted to note that Dev. Crit has been nerfed to do only 35% of additional physical dmg when landing one.<br/>\n<br/>\nAlso please note that the +20 weapons we can have are +20 AB, not +20 enchantment weapons. There is an AB stacking CAP so bless, prayer, battletide, divine favor, etc. a dozen others are useless once you have the +20 weapon as the cap is already reached.<br/>\n<br/>\nAn end game Scythe for example could look like this with maxed out crafting slots used:<br/>\n*by maxed out I mean, it cannot fit anymore bonuses than this, and can risk the weapon becoming above lvl 40...<br/>\nIf you are lucky the bonuses can be better of course.<br/>\n<br/>\n======<br/>\n+20 AB<br/>\nDamage Bonus Acid 2d12 (randomized)<br/>\nDamage Bonus Sonic 1d6<br/>\nKeen<br/>\nMassive Crits 2d4 (randomized)<br/>\nVamp Regen +6<br/>\n======<br/>\n<br/>\n<strong><span style=\"text-decoration:underline\">Also, all the end game mobs mostly have True Seeing.</span></strong></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:53 AM - Dec 25, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nWith all that additional weapon damage available, dex builds may be an option after all.<br/>\nWhat remedies that work against a high AC high AB boss depends on spell resistance, saves and what immunities and vulnerabilities they have. <br/>\nWill dev crit work, sneak attacks, certain spells etc.?<br/>\nIn a battle of 20s the monks have most attacks per round.<br/>\nIf you want to challenge the AC, you may want to try an Arcane archer. With ranged attacks you may also avoid some of the on hit effects and that +100 AB.\n</div></blockquote>\nRelevant questions. I'm not sure on exactly what immunities they have (no invulnerabilities...), but in general they are not high on Sonic/Acid/Divine resists. Magick damage always works. (That's the reason for me always going for WF:Battleaxe, you can find a battleaxe with 2d10 magic damage that you can modify.)<br/>\nDev crit, as mentioned above is nerfed to 35% extra damage, so basically, just barely worth it. Sneak not working, most spells I have no clue, sorry.<br/>\nArcane Archer might actually be worth trying. I just need some good invisibility so I can get past all the bodyguards.</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:55 AM - Dec 25, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nAs for your original question, there is such a build that has everything but that's mostly in medium-magic worlds/modules since it doesn't scale well in high-magic environments. <br/>\nOrder of J\u00f6rmungandr (by Kail) is the name &amp; he is a Dragon able to achieve over 1000 hit points, 87 AC &amp; 7 attacks/ round with cleric buffs on a +5 world.<br/>\nTremendous power but as I said it doesn't scale very well on high-magic.<br/>\nStill worth mentioning though!\n</div></blockquote>\n\nWhere can I find it? No luck with google....</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "10:13 AM - Dec 25, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nOkay, this is a tough case no matter how you look at it. <br/>\nMy first answer to something like that would be a Sorceress as she is probably the only one that can solo anything with enough preparation &amp; knowledge of the game. That has been the case since the invention of DnD &amp; it ever will be. the thing, of course, is that you do not want such a build &amp; I understand this completely, so let's see what else can we do.<br/>\n<br/>\nBeing a tank \"MMO terminology, but let's roll with it for the moment\" doesn't actually prevent you from dealing some good damage yourself. Here is the thing, Magaiti's Dwarven Defender is a weapon master in addition to that (search the 40's section) and he has as high an AB as he could get for such a defensive build. His total (mundane) AB is 43, that makes it 43 +6 +20= 69AB for your PW. With flanking assumed (+2) he will be able to actually hit the hardest Bosses although no so consistently as you might like. His crits will hurt though! (X4 multiplier).<br/>\n<br/>\nAnother case could be made for Andariel (Bard 5/ RDD 15/ PM 20). I have her listed with a Scythe but if you take a medium weapon &amp; shield, she has a super-high AC of 47 with mundane gear. Assuming +10 defensive items for your PW fully equipped she would have 102 AC. She can go higher than that with a Bard's blessings (because she isn't maxed on her dodge AC) but let's assume personal buffs only. You see that even this isn't gonna cut it but perhaps it will stop the Bosses from power-attacking her. Then she is completely immune to critical hits, that should help a lot for actually surviving the damn thing. She is strength-based (54 Strength, buffed) so her damage should be alright, although she is gonna use a one-handed weapon &amp; she is no weapon master herself. <br/>\n<br/>\nArcane archers are another choice, although I know nothing for the Bow &amp; Arrow enchantments on your server. They have the highest AB from all builds though &amp; are able to fully attack from a distance, so that should help. <br/>\n<br/>\nFrom discussing this thing, the obvious choice that comes to mind is team-work. I think that Bosses &amp; high-level mobs are this way in order to force co-operation. <br/>\nGood luck.\n</div></blockquote>\nFirst of all, I'd love to know about that sorceress build. I'm currently trying a wizard, but I've always been partial to sorceresses.<br/>\nMagaiti's Dwarven Defender is not found in the 40's section. It's mentioned, but I can't find it. Still, I already have a DD that can go toe-to-toe with most monsters. The trouble with her is that the No2 Boss (second to last) regenerates faster than I can hit him since I only hit with 20.<br/>\nAndariel seems interesting (or, less diplomatically, really, really weird). I have only ever once played a PM, so why not try again. I'll take a closer look on her.<br/>\nAA might be viable, but I'm not sure (the areas are very crowded with lots of mobs in small rooms, so, not sure).<br/>\n<br/>\nThe reason I'm looking is because teamwork is hard for me to arrange. I play at the wrong times. At peaks, there are like 30 people online, but when I'm playing we've been down to 5-6 players, so it's not easy to form a team.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:04 PM - Dec 25, 2018",
+      "content": "<div>Here are the links to both,<br/>\n<br/>\nWeaponized Wall =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/weaponized-wall-fighter-7-weapon-master-7-dwarven--t2354271.html\" rel=\"noreferrer\" target=\"_blank\">weaponized-wall-fighter-7-weapon-master ... 54271.html</a><br/>\nOrder of Jormundgandr =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build225446.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 25446.html</a><br/>\n<br/>\nAnd this is a bonus, but if you need a really high damage dealer that is not a Scythe master, then Mick's \"Kukri Saint\" is definitely worth a look, 51 AB/ 7 attacks/round/ Strength-based/ 50% Crit chance,<br/>\nKukri Saint =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/kukri-saint-fighter-12-wm-25-rogue-3-t2353598.html#p642\" rel=\"noreferrer\" target=\"_blank\">kukri-saint-fighter-12-wm-25-rogue-3-t2353598.html#p642</a></div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "4:48 PM - Dec 25, 2018",
+      "content": "<div>I love the Kukri Saint Fighter, especially if you make him a halfling. The irony.... Love it! Thank you so much!<br/>\nThank you for the others too, I'm gonna read up on those and I will definitely delete one of my current projects and replace with Andariel.<br/>\n<br/>\nNow, the sorceress? You mentioned a sorceress, that I'm very much interested in.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:22 PM - Dec 25, 2018",
+      "content": "<div>You mean the Exalted Sorceress?<br/>\nAny almost pure Sorceress will do, basically, you need a lot of casting power &amp; high penetration. Then you add some token levels of Paladin (for the huge boost in saves) &amp; Monk (for more AC &amp; free evasion) and you're done. I am gonna give you two links but I suspect they need some modification for your server (for example replace expertise feats with other stuff, adjust you spell focus, change the epic feats to the ones they are best there etc).<br/>\n<br/>\nExalted Sorceress =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/exalted-sorceress-sorcerer-38-paladin-1-monk-1-t515460.html\" rel=\"noreferrer\" target=\"_blank\">exalted-sorceress-sorcerer-38-paladin-1 ... 15460.html</a><br/>\nSpeed Caster =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/speed-caster-sorceror-36-monk-3-paladin-1-t515365.html\" rel=\"noreferrer\" target=\"_blank\">speed-caster-sorceror-36-monk-3-paladin-1-t515365.html</a><br/>\n<br/>\nNow, you have to keep in mind what is best for your world. For example, Exalted Sorceress goes for full casting-in-armour but I made my calculations &amp; she is gonna hit (92 AC) with divine shield &amp; the dodge cap cranked up to the max, definitely a very good AC for a Sorceress but if you don't need that, Speed Caster abandon this for a much higher Charisma total, which is maybe what you want for the PW you are playing. The Exalted Sorceress can be optimized further depending on what you want, for example, she doesn't start with the full 18 Charisma. I think she can be pushed to a healthy (34 Charisma) and still retain her Auto-still feats. Epic warding might also be redundant against the Bosses of your server because I suspect they hit with the equivalent of +20 claws/whatever, in that case, change her Epic Warding to another epic feat, similarly, do that to Andariel's build as well.</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:12 AM - Dec 26, 2018",
+      "content": "<div>Thank you so much. Now my only problem is I have too much to choose from. I think I will use your sword saint build for relaxing. Nothing like just dropping off the worries of optimisation and just run amok with a greatsword.....</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:19 AM - Dec 26, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nYou mean the Exalted Sorceress?<br/>\nAny almost pure Sorceress will do, basically, you need a lot of casting power &amp; high penetration. Then you add some token levels of Paladin (for the huge boost in saves) &amp; Monk (for more AC &amp; free evasion) and you're done. I am gonna give you two links but I suspect they need some modification for your server (for example replace expertise feats with other stuff, adjust you spell focus, change the epic feats to the ones they are best there etc).<br/>\n<br/>\nExalted Sorceress =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/exalted-sorceress-sorcerer-38-paladin-1-monk-1-t515460.html\" rel=\"noreferrer\" target=\"_blank\">exalted-sorceress-sorcerer-38-paladin-1 ... 15460.html</a><br/>\nSpeed Caster =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/speed-caster-sorceror-36-monk-3-paladin-1-t515365.html\" rel=\"noreferrer\" target=\"_blank\">speed-caster-sorceror-36-monk-3-paladin-1-t515365.html</a><br/>\n<br/>\nNow, you have to keep in mind what is best for your world. For example, Exalted Sorceress goes for full casting-in-armour but I made my calculations &amp; she is gonna hit (92 AC) with divine shield &amp; the dodge cap cranked up to the max, definitely a very good AC for a Sorceress but if you don't need that, Speed Caster abandon this for a much higher Charisma total, which is maybe what you want for the PW you are playing. The Exalted Sorceress can be optimized further depending on what you want, for example, she doesn't start with the full 18 Charisma. I think she can be pushed to a healthy (34 Charisma) and still retain her Auto-still feats. Epic warding might also be redundant against the Bosses of your server because I suspect they hit with the equivalent of +20 claws/whatever, in that case, change her Epic Warding to another epic feat, similarly, do that to Andariel's build as well.\n</div></blockquote>\nOh and a perhaps somewhat uninsightful question (or dumb question as it is sometimes known...): What prevents me from using a wizard combo instead of the sorceress?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "7:33 PM - Dec 26, 2018",
+      "content": "<div>Nothing.<br/>\nBut they are different characters, even though they share the same spell list.<br/>\nWizards don't get to add their charisma modifier to their saving throws for example (which can be as much as +18 to all saves with a \"fixed\" exalted sorceress).<br/>\nNor do they get that spontaneous casting that sorcerers get.<br/>\nThey do get a lot more skill points though &amp; five more feats, which is important.<br/>\nIf you didn't play on a very high PW then sorcerers have an additional advantage, with a (35/3/2) build they can get divine shield as well, but that doesn't matter in your case as the dodge cap is already reached.</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "11:47 AM - Dec 27, 2018",
+      "content": "<div>Thank you.</div>"
     }
   ]
 }

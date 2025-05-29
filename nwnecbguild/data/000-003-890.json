@@ -4,29 +4,91 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "890",
-  "name": "Blackstone Keep Crafter",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/blackstone-keep-crafter-t2355019.html",
-  "author": "ADW",
-  "avatar": "10759006_1545641562.jpg",
-  "replies": 2,
+  "name": "Bard/SD/RDD",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/bard-sd-rdd-t2355022.html",
+  "author": "zelda_",
+  "avatar": "10758976_1537367992.jpg",
+  "replies": "12",
+  "views": "1.1K",
   "posts": [
     {
-      "author": "ADW",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:23 AM - Feb 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">This is a build request for a crafting-specialized character for the Blackstone Keep (EE) persistent world.<br/>\n<br/>\nRequirements that I've heard of (hoping more experienced BSK players like <em class=\"mention\">@Cornflower</em>\u00a0will chime in with any additional reqs):\n<ul>\n<li>80 Craft Armor skill</li>\n<li>80 Craft Weapon skill</li>\n</ul>\n\nNice to have:\n<ul>\n<li>Easy to level (most likely in a party)</li>\n</ul>\n\nI've been told by a more experienced player on this PW that a suitable crafter build is 21 wiz / 19 bard, since with song and 12+ to int, you get you right to 80 in both crafting skills.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "zelda_",
+      "avatar": "10758976_1537367992.jpg",
+      "timestamp": "12:15 AM - Feb 09, 2019",
+      "content": "<div>Hi guys! I need help with a build, but I'm not very good to create it. So... can you help me? I'm looking for this one: Bard 16/ Shadow Dancer 10/ Red Dragon Disciple 14 based on dexterity if possible.<br/>\nThank you so much for your attention :)</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:30 AM - Feb 09, 2019",
+      "content": "<div>That is a very \"special\" combination of classes, Zelda, kudos for trying something like that.<br/>\nJust don't fall into the trap of \"Epic-Dodging/ Devastating-Critical/ SCV\" thing, otherwise, you will have a perfect-on-paper character that won't hit (AB&lt;36) anything, ever.</div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "3:15 AM - Feb 09, 2019",
+      "content": "<div>Hey Zelda I notice you want Red Dragon Disciple on a Dex build. I'm not sure what you need, but I can think of 2 options:<br/>\n<br/>\n1. Str primary + Dex skills, or basically a sneaky str damage dealer with lots of bard buffs<br/>\n<br/>\n2. Dex primary and use the +8 Str from RDD as just bonus damage. I assume you want SD at 10 because you like epic dodge.</div>"
+    },
+    {
+      "author": "zelda_",
+      "avatar": "10758976_1537367992.jpg",
+      "timestamp": "3:49 AM - Feb 09, 2019",
+      "content": "<div>I don't need epic dodge or devastating critical. I just wanna try something different. I like the option \"Str primary + Dex skills\" I need something like this, nothing so complicated ^^ I know you're both very good with builds, I'm playing a lot of characters using those you've created so I trust you. I've played 20bard/10 rdd/ 10Sd based on strenght, I wanna try this one now but on dex but I don't know how to build it correctly.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:01 AM - Feb 09, 2019",
+      "content": "<div>Ah, in this case then, ignore the second line, you're gonna be fine.<br/>\nAnd like Sky said, you are qualified for ED, so I see no reason not to take it as well.<br/>\nAs long as you don't mess with Dev. Crit in this build (not enough feats for one) and SCV (use Imp. Invisibility instead) then this character has some serious potential.</div>"
+    },
+    {
+      "author": "zelda_",
+      "avatar": "10758976_1537367992.jpg",
+      "timestamp": "4:08 AM - Feb 09, 2019",
+      "content": "<div>Perfect so how do you reccomend me to proceed?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:27 AM - Feb 09, 2019",
+      "content": "<div>Let it run its natural course,<br/>\nStart with (non min-max version): Str 14(22) Dex 18(32) Con 12(14) Int 14(16) Wis 10 Cha 8(10) <br/>\nThen go for an Bard(8)/ Rdd(8)/ SD(4) Pre-epic split to maximize your AB and time the 10th SD level at 27th which is a General Epic Feat level, then take Epic Dodge there.<br/>\nFor Pre-epic Feats: WF: Rapier, IC: Rapier, BF, KD, IKD, Dodge, Mobility<br/>\nFor Epic Feats: EWF: Rapier, Epic Prowess, Armour Skin, Epic Dodge, Great DEX IV<br/>\nDon't forget to take Epic Prowess at your 14th Rdd level, they have it as a bonus epic feat in their list. <br/>\nAll-in-all a HiPS, ED, with sufficient strength character with lot's of skills &amp; some combat tricks up his sleeve.<br/>\n<br/>\nEDIT: Forgot to mention: <br/>\nRace: Elf<br/>\nFinal AB: 40<br/>\nFinal AC w/Shield: 38! plus ED &amp; HiPS<br/>\nHuman without KD feats should be able to get ITWF as well.<br/>\n<br/>\nI run this of the top off my head, so (maybe) I have done a mistake somewhere, but the layout should be clear enough.</div>"
+    },
+    {
+      "author": "zelda_",
+      "avatar": "10758976_1537367992.jpg",
+      "timestamp": "4:33 AM - Feb 09, 2019",
+      "content": "<div>Thank you so much for your suggestions, Valerfor. Very kind, I'm going to try it tomorrow :)</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:52 AM - Feb 09, 2019",
+      "content": "<div>Wait,<br/>\nI forgot the Song...<br/>\nBetter be Human for this one, you need all the feats you can get &amp; you can't start with 8 Charisma as a Bard.<br/>\nNeed some caffeine damn it...<br/>\n<br/>\nRace: Human<br/>\nStr: 10(18) Dex 18(32) Con 10(12) Int 12(14) Wis 08 Cha 14(16)<br/>\nPre-epic Feats: WF: Rapier. Weapon Finesse, Blind-Fight, Dodge, Mobility, Lingering-Song, Curse-Song, Knockdown OR Still-Spell<br/>\nEpic Feats: EWF: Rapier, Epic Prowess, Armour Skin, Epic Dodge, Great DEX IV<br/>\n<br/>\nAlrighty, should be fine now,<br/>\nBasically, you get what you had before but now you also have 6th level Bard spells, 16th level Bard/ Curse Song and the means to cast in armour.</div>"
+    },
+    {
+      "author": "EasternPromises",
+      "avatar": "10759017_1547723389.jpg",
+      "timestamp": "4:53 AM - Feb 09, 2019",
+      "content": "<div>Ok so you only have classes that have 3/4 Base Attack so getting 4 attacks naturally is not really possible. I did my best to get you all the essentials with the limited feats I had to work with:<br/>\n<br/>\nBard(16), Shadowdancer(10), Red Dragon Disciple(14), Elf<br/>\n\u00a0<br/>\nSTR: 12 (20)<br/>\nDEX: 18 (32)<br/>\nCON: 10 (12)<br/>\nWIS: 8<br/>\nINT: 14 (16)<br/>\nCHA: 14 (16)<br/>\n\u00a0<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Bard(1): Dodge<br/>\n02: Bard(2)<br/>\n03: Bard(3): Weapon Finesse<br/>\n04: Bard(4): DEX+1, (DEX=19)<br/>\n05: Bard(5)<br/>\n06: Bard(6): Extend Spell<br/>\n07: Bard(7)<br/>\n08: Bard(8): DEX+1, (DEX=20)<br/>\n09: Bard(9): Weapon Focus: Rapier<br/>\n10: Bard(10)<br/>\n11: Red Dragon Disciple(1)<br/>\n12: Bard(11): DEX+1, Improved Critical: Rapier, (DEX=21)<br/>\n13: Red Dragon Disciple(2): (STR=14)<br/>\n14: Red Dragon Disciple(3)<br/>\n15: Red Dragon Disciple(4): Blind Fight, (STR=16)<br/>\n16: Red Dragon Disciple(5): DEX+1, (DEX=22)<br/>\n17: Bard(12)<br/>\n18: Red Dragon Disciple(6): Mobility<br/>\n19: Red Dragon Disciple(7): (CON=12)<br/>\n20: Red Dragon Disciple(8): DEX+1, (DEX=23)<br/>\n21: Shadowdancer(1): Armor Skin, {Hide in Plain Sight}<br/>\n22: Shadowdancer(2): {Darkvision, Evasion, Uncanny Dodge I}<br/>\n23: Red Dragon Disciple(9): (INT=16)<br/>\n24: Red Dragon Disciple(10): DEX+1, Epic Weapon Focus: Rapier, (STR=20), (DEX=24), (CHA=16)<br/>\n25: Bard(13)<br/>\n26: Bard(14)<br/>\n27: Bard(15): Great Dexterity I, (DEX=25)<br/>\n28: Bard(16): DEX+1, (DEX=26)<br/>\n29: Shadowdancer(3)<br/>\n30: Shadowdancer(4): Great Dexterity II, (DEX=27)<br/>\n31: Shadowdancer(5): {Defensive Roll}<br/>\n32: Shadowdancer(6): DEX+1, (DEX=28)<br/>\n33: Shadowdancer(7): Great Dexterity III, {Slippery Mind}, (DEX=29)<br/>\n34: Shadowdancer(8)<br/>\n35: Shadowdancer(9)<br/>\n36: Red Dragon Disciple(11): DEX+1, Great Dexterity IV, (DEX=31)<br/>\n37: Red Dragon Disciple(12)<br/>\n38: Red Dragon Disciple(13)<br/>\n39: Shadowdancer(10): Epic Dodge, {Improved Evasion}<br/>\n40: Red Dragon Disciple(14): DEX+1, Epic Prowess, (DEX=32)<br/>\n\u00a0<br/>\nHitpoints: 348<br/>\nSkillpoints: 267<br/>\nSaving Throws (Fortitude/Will/Reflex): 21/23/31<br/>\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +2<br/>\nBAB: 25<br/>\nAB (max, naked): 40 (melee), 37 (ranged)<br/>\nAC (naked/mundane armor/shield only): 35/38<br/>\nSpell Casting: Bard(6)<br/>\nAlignment Changes: 0<br/>\n\u00a0<br/>\nPerform 27(30), Hide 42(53), Lore 8(27), Move Silently 42(53), Spellcraft 37(40), Spot 42(43), Tumble 40(51), UMD 31(34)<br/>\n\u00a0<br/>\n<br/>\nHere you get decent attack, full bard song and spells, hide in plain sight,and some good strength to back up damage. I would go rapier+shield and simply key your shield on your toolbar to unequip it before casting. Only issue I have with this one is you have to choose what gets left until the end, here I chose to leave epic dodge off until last so I could get one final tumble / hide / move silently dump.<br/>\n<br/>\nThat said I also have a Bard 20 SD 10 CoT 10 that I built for you which is a dual wielding roguish fighter. Same concept but way more feats to play with and you get Lasting Inspiration from level 20 Bard. Where are you planning to play this character? If you want me to post it I will but it's not the class split you originally said.<br/>\n<br/>\n*Edit: I shot for Bard level 4 spells for Imp Invis ASAP, then shot for bard 16 for max song soon after. It is perfectly fine to change up the leveling order but keep in mind the rule of 4s.</div>"
+    },
+    {
+      "author": "zelda_",
+      "avatar": "10758976_1537367992.jpg",
+      "timestamp": "4:56 AM - Feb 09, 2019",
+      "content": "<div>Thank you both guys really :) Now I know how to build it, I appreciate a lot your help.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:11 AM - Feb 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Look no further <br/>\n<a class=\"postlink\" href=\"https://blackstonekeep.com/viewtopic.php?f=25&amp;t=3229\" rel=\"noreferrer\" target=\"_blank\">https://blackstonekeep.com/viewtopic.php?f=25&amp;t=3229</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:19 PM - Feb 09, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\n<br/>\nJust don't fall into the trap of \"Epic-Dodging/ Devastating-Critical/ SCV\" thing, otherwise, you will have a perfect-on-paper character that won't hit (AB&lt;36) anything, ever.\n</div></blockquote>\nFunny that you should bring that up Valerfor\u00a0 <span class=\"text-emoji\">\ud83d\ude42</span><br/>\nI have of course tried different approaches to the ED/ SCV/ Dev crit. combo with these 3 classes. They are all Rapier wielding elves and none were worth posting here.<br/>\nA Bard 8/ RDD 10/ SD 22 with \"only\" <strong>ED</strong> and <strong>SCV</strong> ended with Str 22, Dex 32 and AB 40<br/>\nA Bard 11/ RDD 10/ SD 19 with <strong>ED</strong> and <strong>Dev crit</strong> ended with Str 28, Dex 25 and AB 38<br/>\nA Bard 8/ RDD 10/ SD 22 with <strong>ED, SCV and Dev crit</strong> ended with Str 26, Dex 30 and AB 36. It was so feat starved that there was not even room for Weapon finesse and Epic prowess.<br/>\nI don't know if anybody can do it better, but it was indeed disappointing.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Cornflower",
-      "avatar": "10759006_1545641562.jpg",
-      "timestamp": "4:55 PM - Feb 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">See Mick's link and check out the build of \"ming\". I use a very similar build to that, since it's comparatively easy to level up, even if you end up 75ish with INT-bonus and need items and song to get to 80+.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:13 AM - Feb 11, 2019",
+      "content": "<div>I know what you mean Mick,<br/>\nSD class-features are very disappointing after the first few levels...</div>"
     }
   ]
 }

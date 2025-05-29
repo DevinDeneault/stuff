@@ -4,47 +4,54 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "145",
-  "name": "Searching for existing builds",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/searching-for-existing-builds-t2355343.html",
-  "author": "Shia_Luck",
-  "avatar": "10758897_1524612892.jpg",
-  "replies": 5,
+  "name": "Change to how Uncanny Dodge II works",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/change-to-how-uncanny-dodge-ii-works-t2355369.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "6",
+  "views": "253",
   "posts": [
     {
-      "author": "Shia_Luck",
-      "avatar": "10758897_1524612892.jpg",
-      "timestamp": "9:46 PM - Feb 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Do we have a tool these days to enable us to search previous builds so we are not duplicating something? Thanks :)<br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:12 AM - Feb 22, 2020",
+      "content": "<div>Apparently Uncanny Dodge II changed since patch 1.74<br/>\n<br/>\nIt basically makes anyone who has it \"immune\" to Sneaks from flanking if they are higher level (it does say combined levels of Barb, Rogue, Blackguard, Assassin) than the attacking sneak attacker.<br/>\n<br/>\nFlatfooted still produces the expected results (i.e. one can sneak attack them).<br/>\n<br/>\nWhat this really changes (other than PvP) are all the Monsters that have Uncanny Dodge II and more levels in the above classes as any Rogue (or combination of above with sneaks).\u00a0 Kinda really put a massive crimp in the Gloomrazer build from GDL that I was levelling.<br/>\n<br/>\nOthers might want to test this.</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "9:49 PM - Feb 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">ECB Build Search: [<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... index.html</a>]<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:53 AM - Feb 22, 2020",
+      "content": "<div>It can be helpful in PvM, depending on how the builders make monsters. Creatures that have high Death/Sneak Attack die but no Ass/BG/Rog levels are a lot easier to fight with the changes. This only matters if the builders add Death/Sneak Attack via feats rather than actually giving the monsters class levels in a Death/Sneak Attack class though.</div>"
     },
     {
-      "author": "Shia_Luck",
-      "avatar": "10758897_1524612892.jpg",
-      "timestamp": "10:08 PM - Feb 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you very much Yunim :) <br/>\n<br/>\nHow up to date is it? I remember having to use an offline archive for a while for some older builds. That is not necessary now I take it?\u00a0 Thanks again :)<br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:13 AM - Feb 22, 2020",
+      "content": "<div>That is a 3.5 D&amp;D change to Uncanny Dodge &amp; it shouldn't be on an otherwise unaltered\u00a0 3.0 Neverwinter Nights ruleset. <br/>\n<br/>\nWhy the guys doing the patch-work select only singular elements from the ruleset &amp; leave others as they are?<br/>\n<br/>\nAnyway, I suppose this is a net gain for the Barbarians out there.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:41 PM - Feb 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Shia<br/>\n<br/>\nYunim links to the ECB Archives which covers builds I believe to early 2011.<br/>\nIt is an excellent search tool and covers perhaps a few thousand builds<br/>\nIt only searches lvl 40 builds.<br/>\n<br/>\n<br/>\nIf you want even newer builds the team have been working on an updated guild archive. <em class=\"mention\">@DoesntPlayAnymore</em>\u00a0coded this in his spare time. This engine searches newer finalised level 40 builds between 2011 to mid 2019.\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/tool/ecb-guild-build-archive-v2\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... archive-v2</a><br/>\n<br/>\nWe are hoping to link the two together so we can have a 3000+ build search engine, however we are still looking for someone with the appropriate technical expertise.<br/>\n<br/>\n<br/>\n<br/>\nOther ways to search is:<br/>\n<br/>\nTapatalk forum search (see the search bar above), not very fun to search<br/>\n<br/>\nGoogle Search:<br/>\n<br/>\n<blockquote><div>site:<a class=\"postlink\" href=\"http://www.tapatalk.com/groups/nwnecbguild\" rel=\"noreferrer\" target=\"_blank\">www.tapatalk.com/groups/nwnecbguild</a> \"Druid\" \"Monk\"</div></blockquote>\n\nAlthough this is less user friendly, those who are familiar with google search it may work well<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "4:17 AM - Feb 22, 2020",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Feb 22, 2020</div></cite>\nWhat this really changes (other than PvP) are all the Monsters that have Uncanny Dodge II and more levels in the above classes as any Rogue (or combination of above with sneaks).\u00a0 Kinda really put a massive crimp in the Gloomrazer build from GDL that I was levelling.\n</div></blockquote>\nYes, this was one of their \"changes\".\u00a0 In effect it is like the Dwarven Defenders Stance in that it grants protection against Flanking.\u00a0 As Valerfor pointed out, this is nice boon to Barbarians, but it basically waters down the Dwarven Defender since now anyone with Uncanny Dodge II (not just Uncanny Dodge) now has the Defensive Awareness feat.\u00a0 Not sure if that's what Beamdog intended, but I'm going to gripe about it on their website.<br/>\n<br/>\nEventually though, you should outgain your opponent in a Gloomrazor-style build since it nets 24 Rogue levels.\u00a0 Unless your opponent has a butt-ton of Rogue/Assn/Barb levels.\u00a0 Then you'll need to resort to some IKD or attacking from a stealthed position.</div>"
     },
     {
-      "author": "Shia_Luck",
-      "avatar": "10758897_1524612892.jpg",
-      "timestamp": "11:44 PM - Feb 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Orion2019, thanks :)<br/>\n<br/>\n@DoesntPlayAnymore sounds like a true hero if they really don't anymore. I wish I could help but my skillset does not include coding. This must be an update to what I had so thank you very much to all who helped put it together. I see some of the usual suspects in the credits *grin*. <br/>\n<br/>\nHave fun :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:41 AM - Feb 22, 2020",
+      "content": "<div>Yeah - I was enjoying some XP hunting until I ran into Bodyguards of Trok...<br/>\n<br/>\nJust nasty!  Took everything I had just to deal with one of those beasts!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
-      "author": "UrbanHermit",
-      "avatar": "10759229_1581741214.jpg",
-      "timestamp": "4:18 AM - Feb 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"18944\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=18944&amp;sid=5b0fb1717493f38a2d9129cbfd008a98#p18944\">\u2191</a><div class=\"responsive-hide\">Feb 06, 2020</div></cite>ECB Build Search: [<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/buildsearch/index.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... index.html</a>]</div></blockquote>\nLove that archive. You can get lost there for hours and hours. But I prefer the formatting in the <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">downloadable version</a> from The Vault, even though I can only seem to get it to work with IE.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "6:51 AM - Feb 27, 2020",
+      "content": "<div>See Sherincall's comments to my question:\u00a0<a class=\"postlink\" href=\"https://forums.beamdog.com/discussion/78400/uncanny-dodge-ii#latest\" rel=\"noreferrer\" target=\"_blank\">Uncanny Dodge</a></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:56 AM - Feb 27, 2020",
+      "content": "<div>Thank you very much for this information, GDL!<br/>\n<br/>\nI had no idea that this was present in vanilla NWN ala patch 1.69 (albeit in a bugged form, apparently).<br/>\n<br/>\nSo, it looks like it is WAD.<br/>\n<br/>\nThis basically means that creatures can be built in the Toolset that do not have immunity to sneaks that are, in essence, immune to sneaks because they can have more than 40 levels (though not concurrently - but the case of UD, the Classes <strong>ADD</strong> to each other for the effect), outmatching Players.<br/>\n<br/>\nMan, I wonder what other \"gems\" are hidden away, that no-one knows about...</div>"
     }
   ]
 }

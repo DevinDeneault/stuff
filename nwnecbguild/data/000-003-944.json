@@ -4,53 +4,50 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "944",
-  "name": "Anemoi Builds",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/anemoi-builds-t2354931.html",
-  "author": "Brabeum",
-  "avatar": "10758905_1525336315.jpg",
-  "replies": 6,
+  "name": "lvl 30 pugilist",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/lvl-30-pugilist-t2354935.html",
+  "author": "samurainostalgique",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "370",
   "posts": [
     {
-      "author": "Brabeum",
-      "avatar": "10758905_1525336315.jpg",
-      "timestamp": "5:08 AM - Jul 29, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">So I just started playing on this Arelith offshoot PW that just opened called Anemoi. I am still new and could use some advice and suggestions for builds.\u00a0<br/>\n<br/>\nIn addition to all the Arelith changes to feats, classes, skills, and the added stuff,\u00a0 paths like Kensai and Favored Soul, +2 to up to 2 stats at character creation, this new server is capped at level 15.<br/>\n<br/>\nYou progress further by purchasing feats, even epic ones from a trainer for gold. Almost every PRC and feat has had its minimum requirements reduced and levels lowered to be obtainable.<br/>\n<br/>\nSo long story short, you could eventually train every feat your class qualifies for and cap every class skill by taking just one level of in that class. Which kinda makes feats and skills not really relevant. Just get the ones you want the most first.\u00a0<br/>\n<br/>\nIt seems to me, what really matters is which 3 classes to choose, and how many levels to put in each class. So what would you play on this server and why?<br/>\n<br/>\n<br/>\n<br/>\n\u00a0 \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:28 PM - Aug 06, 2018",
+      "content": "<div>Hello ecbguilders!<br/>\n<br/>\nHere I am building yet another unarmed specialist, this time for Solarune, a relatively low magic (+3/+4 items are generally the best you can find, and I think there are no permahaste items) level 30 persistent world in which you start at level 10 (there is already a thread about this PW, but it just shows the subraces bonuses and maluses: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/fr-solarune-t2354562.html\" rel=\"noreferrer\" target=\"_blank\">fr-solarune-t2354562.html</a> ). <br/>\n<br/>\nI will be using the avariel elf subrace, which has the following bonuses:<br/>\n<br/>\nFavored Class: Cleric<br/>\nProperties:<br/>\nAbility Bonus: Dexterity +2<br/>\nAbility Bonus: Intelligence +2<br/>\nAbility Bonus: Wisdom +2<br/>\nSkill Bonus: Spot +2<br/>\n<br/>\nIn this PW, the subraces bonuses and maluses are applied like magic buffs and debuffs on top of the race's normal modifiers and feats. So, for example, an avariel gets all the usual elven traits, including +2 dexterity, and on top of that gets a further +2 dexterity bonus that counts toward the magic bonus cap, and doesn't count when trying to qualify for feats (as well of course as similar bonuses to wisdom, intelligence and spot, as seen above).<br/>\n<br/>\n\u00a0 <br/>\nI was thinking about going with this:<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n(MONK 20/ FIGHTER 5/ SHADOWDANCER 5)<br/>\nRace: Elf-Avariel<br/>\nAlignment: Lawful-neutral<br/>\n<br/>\nSTARTING/ ENDING STATS (without avariel bonuses):<br/>\nSTR -\u00a0 14<br/>\nDEX -\u00a0 19 (26) <br/>\nCON - 11 <br/>\nINT \u2013\u00a0 08 <br/>\nWIS -\u00a0 14 <br/>\nCHA - 08<br/>\n<br/>\n<br/>\n01) Monk (01): Luck of heroes<br/>\n02) Monk (02): <br/>\n03) Monk (03): Weapon Finesse<br/>\n04) Monk (04):\u00a0 DEX +1 (20)<br/>\n05) Monk (05):<br/>\n06) Monk (06): WF: Unarmed<br/>\n07) Monk (07): <br/>\n08) Monk (08): DEX +1 (21)<br/>\n09) Monk (09): Blind-Fighting<br/>\n10) Monk (10): <br/>\n11) Monk (11): <br/>\n12) Monk (12): Improved Critical: Unarmed, DEX +1 (22)<br/>\n13) Monk (13): <br/>\n14) Monk (14): <br/>\n15) Monk (15): Toughness<br/>\n16) Monk (16): DEX +1 (23)<br/>\n17) Fighter (01): Dodge<br/>\n18) Fighter (02): Mobility, Great Fortitude<br/>\n19) Fighter (03): <br/>\n20) Fighter (04): WS: Unarmed, DEX +1 (24)<br/>\n21) Shadowdancer (01): EWF: Unarmed<br/>\n22) Shadowdancer (02): <br/>\n23) Shadowdancer (03):<br/>\n24) Fighter (05): EWS: Unarmed, DEX +1 (25)<br/>\n25) Shadowdancer (04): <br/>\n26) Shadowdancer (05):<br/>\n27) Monk (17): Epic Dodge<br/>\n28) Monk (18): DEX +1 (26)<br/>\n29) Monk (19): <br/>\n30) Monk (20): Epic Prowess (not sure about this one. You get more bang for your buck with Armor Skin than with Epic Prowess on one hand, but on the other hand this character needs AB more than AC)<br/>\n<br/>\nHit points: 280<br/>\nSkill points: 132<br/>\n<br/>\nTumble: 30 (38)<br/>\nHide: 33 (41)<br/>\nMove silently: 33 (41)<br/>\nHeal: 3 (5)<br/>\n<br/>\n<br/>\nBAB: 21<br/>\nAB: +33/+30/+27/+24/+21/+18 (Unarmed)<br/>\nDamage: 1D20 +8<br/>\n<br/>\nSaving throws: 23/25/19<br/>\n<br/>\nNaked AC: 31<br/>\n<br/>\nThere is an XP penalty from level 17 onwards, but I'll deal with it.<br/>\n<br/>\nI reckon that this guy is tight on skill points and HP. In fact, I considered starting at 18 dexterity, 12 constitution and 10 intelligence, and investing in spellcraft, or maybe spot (there are a lot of stealth users in this PW, but this is more of a PVP and roleplay concern whereas I think that spellcraft would be more useful against mobs), using an epic feat for great dexterity, instead of epic prowess, but losing one point of AB is a hard decision of course...<br/>\n<br/>\nWhat do you think about it?</div>"
     },
     {
-      "author": "Brabeum",
-      "avatar": "10758905_1525336315.jpg",
-      "timestamp": "7:27 AM - Jul 29, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Currently I am thinking a dual wielding rogue for access to all those fun skills and nifty epic rogue feats like Slippery Mind, Crippling Strike, etc. Then throw in a few cleric levels for buffs, the war domain, and access to all the metamagic feats. and their perks, yoink and such. Third is the one I am on the fence about. Sneaky Assassin? Zen PDK Mounted archer? Tanky Dwarven Defender? Wise Summoner?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:11 PM - Aug 06, 2018",
+      "content": "<div>How about Monk 17 Fighter 8 / SD 5? You could use the 2 added Fighter feats in epic levels for EWS and Armor Skin, freeing up a general feat for Great DEX, which would allow you to start with 18 DEX and still end with 26 DEX. The only downsides I see are 3 less Spell Resistance and a 50% Monk Speed bonus instead of 60%.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:54 PM - Jul 30, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about hitpoints, stats (str/dex etc), saves and spell progression, can you buy them with gold too?<br/>\nEG: If I have a character with 1 wizard level, can I buy the ability to cast high level magic with a high spell penetration?<br/>\nIf that is the case, then what purpose has character levels?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:23 PM - Aug 06, 2018",
+      "content": "<div>Well, it would also make me lose the perfect mind feat from monk 20, as well as empty body, which is nice when soloing since I can't cast improved invisibility. I kinda like the idea of perfect mind from an RP point of view, plus it's nice not to have to worry about getting caught by a mind affecting effect without clarity, or getting your clarity dispelled. The benefits from such a trade off are tempting, but I think I still prefer keeping perfect mind.</div>"
     },
     {
-      "author": "Brabeum",
-      "avatar": "10758905_1525336315.jpg",
-      "timestamp": "12:28 PM - Aug 01, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, you can buy them with gold too. You can buy hit points by buying the toughness feats. You can train in the many feats that improve saving throws, including the \"must be taken at level one\" ones. You can also purchase a few spell slots in each of the first 5 spell levels with one level in the class (and a high enough prerequisite stat.)\u00a0 But your spells that improve with caster level will suffer.<br/>\n<br/>\nThe purpose of 15 levels? I would imagine to give players some more hit points, to give a progressive feel to the content, to make balancing easier, and so more people will be able to play together. No 9th level spells.\u00a0<br/>\n<br/>\nStill thinking I want to play cleric and rogue. still debating what to take third.\u00a0 Oh and clerics on this server are synergistic. Whatever spell they cast on others they cast for free on themselves as well. So slotting and then casting stuff like Slay Living would be a bad idea. Buffing a partner and yourself on the other hand is twice as easy as before.\u00a0<br/>\n<br/>\nSo my thinking is heavy on the cleric so buffs last a while, something like 11 cleric / 3 Rogue / 1 Fighter maybe?\u00a0 Rogue is for locks and traps, and epic rogue feats like slippery mind and crippling strike, fighter for all the combat feats including weapon spec,\u00a0 the rest cleric for heals and buffs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:34 PM - Aug 06, 2018",
+      "content": "<div>Yeah, it feels sad when you are so close to the two best special features for the Monk and you do not get them.</div>"
     },
     {
-      "author": "Brabeum",
-      "avatar": "10758905_1525336315.jpg",
-      "timestamp": "7:06 PM - Aug 01, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So I guess given the level makeup, I'd like to know what starting stats to take (Including taking up to two Arelith gifts of +2 to two stats.) Should I go DEX or STR? WIS? I would prefer STR if possible. I only get the three +1s to stats from levels 4, 8, and 12 and as far as feats, I did not see the Greater STR/DEX/WIS feats at the trainer. \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:22 PM - Aug 06, 2018",
+      "content": "<div>You make a good point.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Brabeum",
-      "avatar": "10758905_1525336315.jpg",
-      "timestamp": "7:06 PM - Aug 01, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh and the race is human.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "12:24 AM - Aug 03, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well it looks like a crazy setup, far from normal NWN, and i have no experience with it. From what you tell, I would have focused on the cleric class for buffing and support. You get some very potent buffs from 15 cleric levels, so I would be careful not to stray away from that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "samurainostalgique",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:20 PM - Aug 07, 2018",
+      "content": "<div>So, what would you choose between having more HPs, fortitude and another full skill, and having one more point of AB (or maybe metal skin for 2 more points of AC)? I'm still torn about that choice lol.<br/>\n<br/>\nDev crit is allowed here by the way.</div>"
     }
   ]
 }

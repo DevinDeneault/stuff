@@ -4,101 +4,43 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "003",
-  "name": "A big heads up regarding Shifter changes in the new patch!",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-big-heads-up-regarding-shifter-changes-in-the-ne-t2356298.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 14,
+  "name": "Looking for a build:",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-a-build-t2356330.html",
+  "author": "Ius",
+  "avatar": "10759755_1728346783.jpg",
+  "replies": "4",
+  "views": "228",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:35 AM - Jan 20, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">As of now, the new patch has changed Shifters so that Polymorphed (re: Shifted) forms that have spell abilities (aka like Rak form Ice Storm) now use SHIFTER levels to determine things like DC, Damage, Caster Level, etc.<br/>\n<br/>\nAs one may know, it used to be that position (re: Class) 0 (meaning the first one taken) used to do this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "10:59 AM - Jan 20, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">They just murdered the shape for good, in the altar of \"intended behaviour\" and \"consistency\". Lord, do I sound salty, apologies for that.<br/>\n<br/>\nA small caveat, if a Druid/Shifter quick-slots ice storm from the spellbook (instead of using the wheel) it would have the Caster Level of the Shifter and the Damage Dice of the Druid.<br/>\n<br/>\nMeaning a Druid 28 Monk 2 Shifter 10 casting the ability as mentioned would get: 10+d20 spell penetration (CL=10) and 3d6\u00a0bludgeon + 11d6 cold damage (CL=28).<br/>\n<br/>\nConsistent indeed.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ius",
+      "avatar": "10759755_1728346783.jpg",
+      "timestamp": "1:08 AM - Apr 23, 2025",
+      "content": "<div>I apologize for making a whole new thread just to ask one question. That being said I SWEAR I saw a build once called The Charismatic Ranger, but I've been looking high and low for it all day and haven't found it. Does anyone have a link, or a copy of the build draft? Thanks!<br/>\n<br/>\nSent from my moto g 5G - 2024 using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:50 PM - Jan 20, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not \"murdered\", it is changed, meaning we also have to adjust to the changes, that is all.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:32 AM - Apr 23, 2025",
+      "content": "<div>*blinks*<br/>\n<br/>\nWould you happen to know which Classes the build contained besides Ranger?<br/>\n<br/>\nI was only able to find this - <a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build216038.html\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... 16038.html</a><br/>\n<br/>\nMighty Warrior of the North (Ranger 21/Paladin 15/HS 4)</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:54 PM - Jan 20, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, if I'm reading this right, it makes better sense now to leave Druid alone after level 5 and pile more heavily into Shifter (as a general rule of thumb).<br/>\n<br/>\nI could well be wrong, ofc, but regardless, thanks for bringing this change to our attention!<br/>\n<br/>\nBtw, I'm moving this thread up to the General Discussion forum, as it will have an impact on building in the future. Hope you don't mind.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:26 AM - Apr 23, 2025",
+      "content": "<div>I've found 4 in the currently-configured ECB archive. They're all in our level 40 forum, all by Tyr Templar, and all originally posted in November 2012. Afraid I don't seem able to make links atm, sorry, but they should be relatively easy to find. (They were part of Tyr's Robin Hood theme of the time)<br/>\n<br/>\nLionheart Ranger: Ranger 26/ Paladin 4/ CoT 10 (CHA 16)<br/>\nLionheart Paladin: Paladin 24/ Ranger 10/ CoT 6 (CHA 16)<br/>\nDark Warden: Ranger 26/ Fighter 10/ BG 4 (CHA 16)<br/>\nAlan-A-Dale: Bard 15/ Ranger 25 (CHA 15)<br/>\n<br/>\nHope this helps</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "6:55 PM - Jan 22, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"29961\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29961&amp;sid=d57cb49b78c366e763c7a5ec02f27cc3#p29961\">\u2191</a><div class=\"responsive-hide\">5:50 PM - Jan 20</div></cite>It's not \"murdered\", it is changed, meaning we also have to adjust to the changes, that is all.</div></blockquote>\nJust tested today: Rakshasa's ice storm has now the CL of the Shifters (for spell penetration purposes) and\u00a0Druid's level damage dice (?!).<br/>\n<br/>\nSo now we have the worst outcome possible, going shifter heavy punishes damage, and caster heavy (ironically) makes the spell less penetrating.<br/>\n<br/>\nEdit: same with Mestil's Acid Breath. Somehow damage is calculated by Druid level.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ius",
+      "avatar": "10759755_1728346783.jpg",
+      "timestamp": "5:06 PM - Apr 23, 2025",
+      "content": "<div>Thanks guys! These are very helpful<br/>\n<br/>\nSent from my moto g 5G - 2024 using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:45 PM - Jan 22, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Only if you take it from the Druid's spellbook, right?<br/>\n<br/>\nTry doing it only from the radial.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "11:29 AM - Jan 23, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I went to <em>nwn developer discord</em> before writing here with my findings and the scripts behave as stated: CL for spell penetration grabs shifter levels, and damage is calculated by Druid (first class?) CL.<br/>\n<br/>\nReason being they didn't go deep enough on backwards compatibility, or the behaviour is deeply ingrained on the engine itself and on not modifiable scripts.<br/>\n<br/>\nAnother argument about how this changes has a cascade of unforeseen consequences is that now, if you go shifter heavy for spellcasting purposes you can't qualify to automatic metamagic feats since the require a class being able to cast IX level spells (meaning having 17 levels of a caster class!).<br/>\n<br/>\nThere's currently a debate, so let's see what comes out of it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:03 PM - Jan 23, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the info!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "1:42 PM - Jan 24, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, as far as I understand, the issue comes from this shape using true spells (not spell-like-abilities) and those, as of now,\u00a0 to get caster level you invoke:<br/>\n<em><strong><br/>\nint\u00a0</strong>GetCasterLevel(<br/>\n</em><br/>\n<em>\u00a0\u00a0\u00a0\u00a0<strong>object</strong>\u00a0oCreature</em><br/>\n<em>);</em><br/>\n<br/>\nThis still returns the Cl corresponding for class_0, that being the first class. <em>BUT</em> the baffling thing is when the spell if fired, you need to check resistances, so now, the script is:<br/>\n<em><br/>\n<strong>int</strong>\u00a0MyResistSpell(<br/>\n</em><br/>\n<em>\u00a0\u00a0\u00a0\u00a0<strong>object</strong>\u00a0oCaster,</em><br/>\n<em>\u00a0\u00a0\u00a0\u00a0<strong>object</strong>\u00a0oTarget,</em><br/>\n<em>\u00a0\u00a0\u00a0\u00a0<strong>float</strong>\u00a0fDelay = 0.0f</em><br/>\n<em>);</em><br/>\n<br/>\nThe perceptive reader would notice that\u00a0 oCaster \u2260 oCreature , meaning the spell resistance check looks (somehow) at a different parameter other than the \"caster level\" calculated in the first script. The recent patch seems to have set this oCaster parameter be the Shifter levels so there's a mismatch between damage and spell penetration.<br/>\n<br/>\nTake this interpretation as an unreliable one since I stared at assembly code for an hour, to crawl back to something more readable and got to this conclusion.<br/>\nI did my best to present this issue to the devs but I wasn't able to read the room to get an idea if this is gonna be fixed in the future (or ever for that matter), so in conclusion, approach shifter builds at your own peril since the class is messier than before.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:08 PM - Jan 24, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just scrap it all, and go with Nature's Spell feat.<br/>\n<br/>\nIMO.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "7:51 PM - Mar 04, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">New update (sort of)!<br/>\n<br/>\nHad a chance to try the developer beta and the old rakshasa behaviour has been restored, meaning spells\u00a0 calculate damage and penetration of druid's caster class.<br/>\n<br/>\nIt's a work in progress of course, and subject to change, but I think is good news if they go through with this.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "abelvff",
-      "avatar": "10758850_1517392315.jpg",
-      "timestamp": "10:15 PM - Mar 13, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The last path reverted the changes and we are back to old behaviour: <br/>\n<br/>\nRak's spells are tied again to druid or class 0 CL again (I'll have yet to test to which one) so many legacy builds are back into working order again.<br/>\n<br/>\nTime to celebrate leveling one.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Jenova91",
+      "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
-      "timestamp": "10:52 AM - Mar 22, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is it definitive ? Can you also use metamagic ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "10:54 AM - Mar 25, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>abelvff wrote:</cite>The last path reverted the changes and we are back to old behaviour: <br/>\n<br/>\n!</div></blockquote>\n\nThe new old or the old old?<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:34 AM - Mar 25, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe it is the new old...<br/>\n<br/>\nRight?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:26 AM - Apr 29, 2025",
+      "content": "<div>AI brings up a Charismatic Ranger discussion for NWN2.</div>"
     }
   ]
 }

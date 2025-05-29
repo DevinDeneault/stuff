@@ -4,29 +4,31 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "211",
-  "name": "Question about parry and two weapon fighting",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/question-about-parry-and-two-weapon-fighting-t2354684.html",
-  "author": "UselessPoint",
-  "avatar": "10577588_1510287072.jpg",
-  "replies": 2,
+  "name": "Hit Point Rolls and what they mean?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/hit-point-rolls-and-what-they-mean-t2354689.html",
+  "author": "Jack Bauer",
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "284",
   "posts": [
     {
-      "author": "UselessPoint",
+      "author": "Jack Bauer",
       "avatar": "no_avatar.png",
-      "timestamp": "9:16 AM - Mar 21, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello to everyone,\u00a0<br/>\n I'd like to ask another question. Since you can parry a number of attack per round equal to the number of attacks you've got (with the exception of the flurry rule), what if you got two weapon fighting? will you have then the chance to parry more attacks?<br/>\n<br/>\n Thanks for any answer!<br/>\n<br/>\n p.s: I know parry is broken and useless, but still wanted to know this.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:34 AM - Apr 15, 2017",
+      "content": "<div>I have been playing a character, and I have been attempting to maximize my hit point rolls for each level. Is it possible to achieve this by deleveling your character by a couple hundred exp repeatedly until you roll the highest possible amount of hit points? Could someone please explain how it works? I am trying to maximize on how much HP all my characters can get and knowing if I was losing hp on each level would be a big help. Thank you and much love &lt;3<br/>\n<br/>\n -JB.</div>"
     },
     {
-      "author": "hunearo",
-      "avatar": "10572442_1552585393.jpg",
-      "timestamp": "9:44 AM - Mar 21, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As long as you got one more flurry from using a second weapon, you got one more parry chance. For example on lvl1 you can parry only one attack with a single weapon, and two attacks with two weapons. However if you already have three flurries with a single weapon (for example you have 11 pre-epic BAB) you will not gain another parry chance when fighting with two weapons.<br/>\n<br/>\n However I also have a question about parry. Is it possible to tweak the game somehow, so the parry skill works as it was intended?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:45 PM - Apr 15, 2017",
+      "content": "<div>Hi Jack (no pun intended!).<br/>\n<br/>\n Simply put, your max HP per level will be whatever HPs your class attracts at that level. For most fighter-types that will be 10 (though it's 12 for Barbarian and Dwarven Defender), others will be 8 (eg, Cleric), 6 (eg, Rogue), or even 4 for wizardly sorts (can't guarantee that one, never having played an arcanist). In any case, when you level up and choose your class, it will tell you in the description of that class. Then you add your CON modifier (+2, -1, and so on). And finally, anything else that modifies HPs, such as the Toughness feat (+1 HP per level, regardless of class and applied retrospectively, giving an overall +40 HPs) or its Epic variations (a one-off +20 HPs each time it's taken).<br/>\n<br/>\n I'm sure there will be a way to set the game to give you max HPs each time, but I don't know what it is, so I simply keep re-rolling until I get what I know to be the max for that level/class. It's a little annoying, because I've already done everything else before the HP roll, so have to keep re-inputting whatever feats and skills I want each time, but it generally won't take longer than 2 or 3 minutes before you hit the max.<br/>\n<br/>\n I must confess that I don't really know what you mean by \"deleveling your character by a couple hundred exp\", but I hope this helps a bit.<br/>\n<br/>\n Cheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "4:23 PM - Mar 21, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>hunearo wrote:</strong><hr/>However I also have a question about parry. Is it possible to tweak the game somehow, so the parry skill works as it was intended?</div></blockquote>It's a question for modders, hunearo.\u00a0 Shadooow may have addressed this in his CPP but I wouldn't know since I never installed it (there are MANY mechanical changes implemented).\u00a0 So if you are truly interested what the community has already addressed with customizations in that regard, I recommend you post this inquiry in the <a class=\"postlink\" href=\"https://neverwintervault.org/forums/neverwinter-nights-1/nwn1-custom-content\" rel=\"noreferrer\" target=\"_blank\">Custom Content forum</a> on the NWVault or, perhaps, PM Shadooow directly there.\u00a0 We don't get very many modders checking in here at the ECB, unfortunately. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /> posting here on the ECB is a learning process).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:32 PM - Apr 15, 2017",
+      "content": "<div>D&amp;D purists will play with what the dice proffer but there are few PnP environments around these days so if you want to always accrue the maximum HP each level, in the <span style=\"font-family:MONOSPACE\">[Server Options]</span> section of your <em>nwnplayer.ini</em>, set the following variable:\u00a0 <span style=\"font-family:MONOSPACE\">Max Hit Points=1</span>.\u00a0 For PnP, you'd use: <span style=\"font-family:MONOSPACE\">Max Hit Points=0</span> to be subject to the mercy of the dice.<br/>\n<br/>\nDuring server play, it's customary to keep quitting the level-up confirmation screen until the HP total reaches the maximum level.<br/>\n<br/>\nFor SP, if you feel your current HP total does not reflect the maximum number (probably because you haven't adjusted the player.ini yet), you can delevel/relevel.\u00a0\u00a0 At toon creation (level 1), the values are automatically maxed (or should be) so you'd need to delevel back to level 1 to recapture any missed HP. <br/>\n<br/>\nThe fastest way to accomplish what you are seeking is to use the console command <span style=\"font-family:MONOSPACE\">dm_givelevel &lt;x&gt;</span> while in debug mode and then target your PC.\u00a0 In your case, the number &lt;x&gt; would be a negative number governed by how many levels you decide to relevel (and where &lt;x&gt; would be the positive inverse to the delevel).\u00a0 Jot down your XP total before using the console because you may need to add a bit of XP back on after the final relevel.\u00a0\u00a0 As an example, a level 4 toon would use <span style=\"font-family:MONOSPACE\">dm_givelevel -3 </span>then target the PC, followed immediately by <span style=\"font-family:MONOSPACE\">dm_givelevel 3</span>\u00a0 (and target again) to add back the same number of levels.\u00a0 Use <span style=\"font-family:MONOSPACE\">dm_giveXP &lt;x&gt;</span> to make up any difference between the XP at level 4 and what you jotted down.<br/>\n<br/>\nNaturally, you'd want to make the player.ini change before going through all this tedium.</div>"
     }
   ]
 }

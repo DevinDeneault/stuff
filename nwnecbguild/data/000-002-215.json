@@ -4,35 +4,50 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "215",
-  "name": "An Epic Dodge Question...",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/an-epic-dodge-question-t2354654.html",
-  "author": "HipRedux",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 3,
+  "name": "Questions about called shot and bards",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/questions-about-called-shot-and-bards-t2354657.html",
+  "author": "Aquarius 233",
+  "avatar": "10714033_1519247364.jpg",
+  "replies": "5",
+  "views": "896",
   "posts": [
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:42 PM - Dec 19, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all, me with more dumb-assery.<br/>\n<br/>\n Is it possible to take ED at the same time as either Defensive Roll or Imp Evasion? A scenario for you, to illustrate: a toon takes level 30 as Rogue 13 and takes Defensive Roll as the Rogue BF. It already has Imp Evasion at Rogue 10 and has the 30 ranks in Tumble and a DEX of 25 (all at level 27), together with a further DEX+1 at level 28. Is it then possible for said toon to take ED as the general feat at level 30? Or would it have to wait?<br/>\n<br/>\n I've looked at the wiki and the discussions thereon about ED, as well as the rest of this General Discussion sub-forum for the entries on ED, and I'm still none the wiser. Sorry.<br/>\n<br/>\n Thanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "3:12 PM - Dec 31, 2016",
+      "content": "<div>Hi all!<br/>\n I have some questions related to the following matters:<br/>\n<br/>\n 1) When \"called shot\" can/should be used? For DEX-build? For STR-builds?<br/>\n \u00a0\u00a0\u00a0 I need general advices for dealing with this feat; at the beginning of my NWN experience I thought it was useless, but I didn't considered that a mean of raising AC is also lowering the enemy's AC.<br/>\n<br/>\n 2) I would like to create a Bard mainly as a support character: would it be consistent for offline/server play?<br/>\n \u00a0\u00a0\u00a0 Should I multiclass with other classes (e.g. arcane archer, in order to have a decent ranged attack)?<br/>\n<br/>\n Thank you for your answers!<br/>\n Aquarius \u00a0\u00a0<br/>\n \u00a0</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:09 PM - Dec 31, 2016",
+      "content": "<div>Hi Aquarius!<br/>\n Called shot has 2 uses; attack against your opponents arm or leg. The attacks are made vs a discipline check. The effects of a successful hit lasts for 4 rounds and are cumulative if you make more hits.<br/>\n An arm attack lowers the AB by 2. A leg attack lowers dexterity by 2 and speed by 20%.<br/>\n Arm attacks are great for melee. Leg attacks are also great for melee against dex builds, but are most often used by archers to slow down their target and keep the distance.<br/>\n<br/>\n Bard is one of the strongest classes and play an important part in many of the strongest builds that are.<br/>\n But if you want to make a bard based support character with AA, I will recommend to take more than 20 levels of bard for LI and probably 24 or more levels for indispellability. The song boni will be awesome if you manage to get a high perform skill. Use the song to buff your party and curse song to debuff your opponents. A high taunt skill will also help your party if you can taunt difficult bosses successfully.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "2:53 PM - Jan 01, 2017",
+      "content": "<div>Thank you for the reply, Mick!<br/>\n<br/>\n But, how can you determine which level provides indispellability?<br/>\n You have said \"and probably 24 or more levels for indispellability\": can you provide me a mathematical example (with involved calculations), in order to fully understand this topic?<br/>\n<br/>\n Besides, relating to the build itself: for a 40-level PC I would think to create a 25 Bard/15 Arcane archer; Bard 25 can provide me a bonus/malus of 6 AC with bard/curse song, and by gaining odd levels of AA I can benefit of Enchanted Arrow's bonuses (+8 ench). Do you agree?<br/>\n And, what if I had to create a 30-level character? What would be the preferred split?<br/>\n<br/>\n P.S.: Happy New Year!</div>"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "10:16 PM - Dec 19, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The selection order is: Skills, Bonus Feat, General Feat.<br/>\n<br/>\nSo, yes.\u00a0 ED is possible at earliest of Level 27 but you'll need DEX 25 before that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:31 PM - Jan 01, 2017",
+      "content": "<div>I'll leave the rest of the answers about bards to Mick, however...<br/>\n<br/>\nRegarding what most folks refer to as <em>\"indispellability\"</em>, check the wiki article about <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Greater_dispelling\" rel=\"noreferrer\" target=\"_blank\">Greater Dispelling</a>.</strong>\u00a0 Naturally, a Mord will dispel all but pure caster (Level 40) buffs but except on high-magic realms, Mords are rare and likewise do not appear on items, via UMD or non-class-specific custom items. Dispelling comes down to nothing more than caster levels and a dice roll.\u00a0 For each caster level less than 24, add another 5% likelihood that the buffs will be dispelled.<br/>\n<br/>\nAlso, Called Shot effectiveness only depends on AB.\u00a0 You should be asking yourself\u00a0 \"Does my toon have an AB high enough to assure that Arm or Leg shots will land reliably or will I be missing those attempts most of the time?\" An AA can hit anything but are limited as to special attacks more typically implemented via melee.\u00a0 WMs also attain those lofty ABs that allow it to breach the penalties associated with special attacks so usually excel with them as well.\u00a0 Whether the AB is based on DEX or STR (or somewhat more rare, on WIS via Zen) does not matter.\u00a0 It still comes down to reaching a reliable AB in any manner possible, with any ability+focus+prowess combo to achieve that number (with the additional caveat of AC-reducing effects like Taunt, Curse, etc.).<br/>\n<br/>\nA somewhat related factor of Called Shot effectiveness is the opposed Freedom effect.\u00a0 Whether it is applied by an item property or via a spell buff, those possessing Freedom are immune to Leg Shots and all mobility-related spells and effects.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:46 PM - Dec 19, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Hip! I suspect the point is now moot as far as my \"illustrative example\" is concerned, and it gives answer to a question I won't now feel obliged to ask, so a double hit with one short answer - splendid!<br/>\n<br/>\n Actually, a third thanks is also in order. I had assumed that the order of levelling up activities was fairly arbitrary - after all, you couldn't do it all at once, so some sort of ordering was necessary - but it's good to know exactly what that ordering is. Very useful for the future. Oh, and by the same logic, I'll therefore assume that a basic stat increase (eg CON+1, as opposed to a Great CON feat) occurs before the skills implementation. Unless you tell me otherwise.<br/>\n<br/>\n You'd think, wouldn't you, that with 40 levels to play with, things should be easier than sliding razorblades through hairs? Perversely, it's the fact that they're not that makes this game so appealing to me...well, it's one of the things.<br/>\n<br/>\n Cheers <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:37 PM - Jan 01, 2017",
+      "content": "<div>Happy new year to you as well!<br/>\n By undispellable we mean immune to lesser dispel, dispel magic and greater dispel. If you look up <strong><a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Greater_dispelling\" rel=\"noreferrer\" target=\"_blank\">greater dispel</a></strong> in the NWN wiki, you will find a good explaination.<br/>\n Note that this does not give immunity to the breach spells and Mordenkainen's disjunction.<br/>\n The 25/ 15 split is absolutely an option.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "HipRedux",
-      "avatar": "10577588_1510287072.jpg",
-      "timestamp": "12:59 AM - Dec 20, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, you could \"sneak\" either an HS level or Level 14 of AA and/or assassin in any time, like at Level 25 or 26 (or both) but those bonus would be in the form of Great DEX (in the case where your race/ability spread may not have been aggressive enough to reach the DEX 25 prereq early on its own merit).<br/>\n<br/>\nDidn't mean to cloud the possibilities with rarely-used permutations, but there it is, nonetheless.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "7:45 PM - Jan 03, 2017",
+      "content": "<div>Ok thank you all for the replies!<br/>\n I will think of a build and, if not already posted, I will post in this forum...</div>"
     }
   ]
 }

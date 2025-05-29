@@ -4,47 +4,108 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "891",
-  "name": "The Face Trapper Tank: Rogue 16 Bard 4 PM 20",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-face-trapper-tank-rogue-16-bard-4-pm-20-t2355017.html",
-  "author": "EasternPromises",
-  "avatar": "10759017_1547723389.jpg",
-  "replies": 5,
+  "name": "OC and DLC's build needed",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/oc-and-dlc-s-build-needed-t2355021.html",
+  "author": "Dlightfull",
+  "avatar": "no_avatar.png",
+  "replies": "14",
+  "views": "525",
   "posts": [
     {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "10:33 PM - Jan 31, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good afternoon ECB, it's about time I posted another high magic build. <br/>\n<br/>\nMeandering about my high magic server when I came up with this guy. I love me a monk/cleric combo but with +10 gear shields just overtake wisdom for AC. With the 20 or so AA's I find myself partying with I designed this guy to be the stalwart shield of the group. I discovered the interaction of dropping epic traps on top of people's faces while doing just that. Add skill mastery and you're good to go. Uncanny dodge lets you keep your dex bonus at least if not your dodge bonus, plus you can stagger trap laying as you see fit. <br/>\n<br/>\nBut even without this synergy which I discovered late you have a high AC tank with some reverence paid to his saves. On my server I have near permanent darkfire and 2-3 extra sources of damage on weapons, plus UMD for DP. <br/>\n<br/>\n112 AC: 46 base + 6 dex buffs + 10 armor + 10 Shield + 10 Boots + 10 amulet + 10 ring + 4 haste + 5 EMA + 1 MA = 112 AC without expertise, also epic dodge. <br/>\n<br/>\nFort/will/ref saves 26/24/35 (35/33/44 against spells)<br/>\n<br/>\n40 unbuffed AB, respectable but nothing special. Popping True Strike right before IKD is still very viable though :) - If you aren't burning through tons of gold per fight you're not really fighting. <br/>\n<br/>\nCloses thing I could find was KailPendragon's \"Paler Sneaker\" but that was a dual wielding stealth flanker without skill mastery and worse saves. Still, very similar concept. <br/>\n<br/>\nWith all that said I feel like this guy could be optimized more. You have a couple feats that can be changed out to accomplish something else. <br/>\n<br/>\nHere he is:<br/>\n<br/>\nRogue(16), Bard(4), Pale Master(20), Halfling<br/>\n\u00a0<br/>\nSTR: 8<br/>\nDEX: 20 (32)<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 8<br/>\n\u00a0<br/>\nHalfling: (Fearless, Good Aim, Lucky, Skill Affinity: Listen, Skill Affinity: Move Silently, Small Stature)<br/>\n01: Rogue(1): Expertise<br/>\n02: Bard(1)<br/>\n03: Bard(2): Weapon Finesse<br/>\n04: Bard(3): DEX+1, (DEX=21)<br/>\n05: Pale Master(1)<br/>\n06: Rogue(2): Weapon Focus: Mace, {Evasion}<br/>\n07: Rogue(3): {Uncanny Dodge I}<br/>\n08: Rogue(4): DEX+1, (DEX=22)<br/>\n09: Rogue(5): Knockdown<br/>\n10: Rogue(6)<br/>\n11: Rogue(7)<br/>\n12: Rogue(8): DEX+1, Improved Knockdown, (DEX=23)<br/>\n13: Rogue(9)<br/>\n14: Rogue(10): Improved Evasion<br/>\n15: Rogue(11): Iron Will<br/>\n16: Bard(4): DEX+1, (DEX=24)<br/>\n17: Rogue(12)<br/>\n18: Pale Master(2): Toughness<br/>\n19: Pale Master(3): {Darkvision}<br/>\n20: Pale Master(4): DEX+1, (DEX=25)<br/>\n21: Pale Master(5): Armor Skin<br/>\n22: Pale Master(6)<br/>\n23: Pale Master(7)<br/>\n24: Pale Master(8): DEX+1, Epic Weapon Focus: Mace, (DEX=26)<br/>\n25: Pale Master(9)<br/>\n26: Pale Master(10)<br/>\n27: Rogue(13): Epic Dodge, Defensive Roll<br/>\n28: Pale Master(11): DEX+1, (DEX=27)<br/>\n29: Pale Master(12)<br/>\n30: Pale Master(13): Epic Prowess, Epic Energy Resistance: Sonic I<br/>\n31: Pale Master(14)<br/>\n32: Pale Master(15): DEX+1, (DEX=28)<br/>\n33: Pale Master(16): Epic Fortitude, Epic Spell: Epic Mage Armor<br/>\n34: Pale Master(17)<br/>\n35: Pale Master(18)<br/>\n36: Pale Master(19): DEX+1, Great Dexterity I, Epic Spell: Epic Warding, (DEX=30)<br/>\n37: Rogue(14)<br/>\n38: Rogue(15)<br/>\n39: Rogue(16): Great Dexterity II, Skill Mastery, (DEX=31)<br/>\n40: Pale Master(20): DEX+1, (DEX=32)<br/>\n\u00a0<br/>\nHitpoints: 388<br/>\nSkillpoints: 294<br/>\nSaving Throws (Fortitude/Will/Reflex): 26/24/35<br/>\nSaving Throw bonuses: Spells: +9, Traps: +3, Fear: +2<br/>\nBAB: 24<br/>\nAB (max, naked): 40 (melee), 38 (ranged)<br/>\nAC (naked/mundane armor/shield only): 44/46<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n\u00a0<br/>\nDisable Trap 42(46), Listen 43(48), Perform 10(9), Search 42(44), Set Trap 32(45), Spellcraft 43(45), Tumble 40(51), UMD 42(41)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:01 AM - Feb 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A tank attacking with epic traps is an interesting idea. Just make sure that you don't  get roasted by your own electric traps. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nHigh AC and ED is a good place to start with a tank build. Here you reach the dodge AC cap with +10 equipment.<br/>\nOther features a tank can have are self concealment and DR. Here you can get a wand or a stack of Improved invisibility scrolls to help you out. As for DR you rely on items like swordsman belt etc. <br/>\nIf you are going to tank for a party of archers, knockdown may not be the best idea. Prone creatures are harder to hit with ranged weapons.<br/>\nIf you test the build, let us know how it fares. It does have potential.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "1:03 AM - Feb 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Jeez mick if you wanted DR you should have said something!<br/>\n<br/>\nRogue(16), Dwarven Defender(18), Champion of Torm(6), Dwarf<br/>\n\u00a0<br/>\nSTR: 9<br/>\nDEX: 17 (28)<br/>\nCON: 18 (22)<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 6<br/>\n\u00a0<br/>\nDwarf: (Darkvision, Defensive Training vs. Giants, Stonecunning, Hardiness vs. Poison, Hardiness vs. Spells, Offensive Training vs. Goblinoids, Offensive Training vs. Orcs, Skill Affinity: Lore)<br/>\n01: Rogue(1): Dodge<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}<br/>\n04: Rogue(4): DEX+1, (DEX=18)<br/>\n05: Rogue(5)<br/>\n06: Rogue(6): Weapon Focus: Rapier<br/>\n07: Rogue(7)<br/>\n08: Rogue(8): DEX+1, (DEX=19)<br/>\n09: Rogue(9): Toughness<br/>\n10: Rogue(10): Improved Evasion<br/>\n11: Dwarven Defender(1): {Defensive Stance}<br/>\n12: Dwarven Defender(2): CON+1, Knockdown, {Defensive Awareness I}, (CON=19)<br/>\n13: Dwarven Defender(3)<br/>\n14: Dwarven Defender(4)<br/>\n15: Dwarven Defender(5): Improved Knockdown<br/>\n16: Dwarven Defender(6): CON+1, (CON=20)<br/>\n17: Dwarven Defender(7)<br/>\n18: Dwarven Defender(8): Blind Fight<br/>\n19: Dwarven Defender(9)<br/>\n20: Champion of Torm(1): CON+1, (CON=21)<br/>\n21: Champion of Torm(2): Epic Weapon Focus: Rapier, Epic Damage Reduction I<br/>\n22: Champion of Torm(3): {Smite Evil}<br/>\n23: Champion of Torm(4): Epic Damage Reduction II<br/>\n24: Champion of Torm(5): DEX+1, Great Dexterity I, (DEX=21)<br/>\n25: Champion of Torm(6): Epic Damage Reduction III<br/>\n26: Dwarven Defender(10)<br/>\n27: Dwarven Defender(11): Great Dexterity II, (DEX=22)<br/>\n28: Rogue(11): DEX+1, (DEX=23)<br/>\n29: Rogue(12)<br/>\n30: Rogue(13): Great Dexterity III, Defensive Roll, (DEX=24)<br/>\n31: Rogue(14)<br/>\n32: Rogue(15): DEX+1, (DEX=25)<br/>\n33: Rogue(16): Epic Dodge, Skill Mastery<br/>\n34: Dwarven Defender(12)<br/>\n35: Dwarven Defender(13)<br/>\n36: Dwarven Defender(14): DEX+1, Great Dexterity IV, Armor Skin, (DEX=27)<br/>\n37: Dwarven Defender(15)<br/>\n38: Dwarven Defender(16)<br/>\n39: Dwarven Defender(17): Great Dexterity V, (DEX=28)<br/>\n40: Dwarven Defender(18): CON+1, Epic Prowess, (CON=22)<br/>\n\u00a0<br/>\nHitpoints: 652<br/>\nSkillpoints: 286<br/>\nSaving Throws (Fortitude/Will/Reflex): 30/21/34<br/>\nSaving Throw bonuses: Spells: +6, Traps: +4, Poison: +2<br/>\nBAB: 27<br/>\nAB (max, naked): 40 (melee), 37 (ranged)<br/>\nAC (naked/mundane armor/shield only): 29/32<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n<br/>\nThe real pain of tanking in this game: DR or AC? Seems like you can't have ultra in both... or can you? Brb posting my DD PM build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:50 AM - Feb 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>\nJeez mick if you wanted DR you should have said something!</div></blockquote>\n<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<blockquote><div>The real pain of tanking in this game: DR or AC? Seems like you can't have ultra in both... or can you? Brb posting my DD PM build.\n</div></blockquote>\nSo true! You cannot have everything in a build. If you try too hard, you end up with something weaker.<br/>\nIn my opinion you have to build to meet the challenges where you play. In a high magic module you can find items that protect you against almost everything and also add a lot to your attacks. Then you have to ask yourself: What can the build itself add that you cannot get from items? Then you focus on doing that right and let items take care of the rest.<br/>\nThat is how dexers often are better in high magic environments. They have features that make them hard to hit, and even more so when you equip them with everything. At the same time weapon enhancements give them that extra damage that many of them lack so painfully in low magic worlds.<br/>\nA situation you may end up with in high magic is the \"battle of 20s\", when nobody has high enough AB to be able to hit the high AC opponents and you only hit on a 20 roll. In that case the high AC, ED, SCV builds win the toe to toe combat simply by not being hit, and they win faster when they have many attacks per round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:10 AM - Feb 06, 2019",
+      "content": "<div>Hello guys,<br/>\n<br/>\nSo, i thought i\u2019d try again to play this game. I have tried before, i have the game a long time (it\u2019s NWN:EE), but i never got farther than chapter 1.<br/>\n<br/>\nThe thing is i\u2019m a perfectionist when it comes to character building. I play and develop a char and if somewhere on the way i understand that my char is not the best i can get, i just lose interest in the game itself. I am not an RP\u2019er, i like to build very powerful chars that roll almost everything in their path, so i can just enjoy the story.<br/>\n<br/>\nNow to the specifics. Please help me find a build that would suit my play style. Here is what i have in mind:<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The char is mainly for OC and the DLC\u2019s. So the level cap would be 28, as i understand. After that i might get it for a ride in other modules that would get it to 40, if i\u2019ll like the char.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I want to play solo, i don\u2019t like henchmen and companions (i just want all the xp for myself and i hate to micromanage). I might use one for a little bit when i am too weak, but i don;t want to rely on them for too long.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I prefer elfs, but it\u2019s not at all important, if another race suits better the build, i\u2019ll pick that instead.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I don\u2019t really have a class preference, but I always liked archers the most in other games. As I understand, archers are a bit lacking in the area of AoE in NWN, which gets to the next point<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The build should have some AoE potential, to kill fast weaker monsters.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I hate to micromanage, so I don\u2019t like builds that have to buff before each fight. I can cast long lasting buffs (like an 100 rounds song, for example), I can buff before an important fight, but having to buff before every fight would kill the game for me.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I don\u2019t really have weapon preferences, I don\u2019t care about what armor to wear, I don\u2019t care which type of magic to cast etc.<br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 I want my char to be as powerful as possible, as soon as possible. I can grind a little, if it\u2019s needed for the build to shine later, but I am not willing to grind 40 levels J. <br/>\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 If it\u2019s not a caster, I\u2019d like to not have to click to many buttons, it should work as passively as possible.<br/>\n<br/>\nSo, form my little understanding of the game, seeing how archers would get annoying to deal with weak monsters, I guess I need either a caster, or a melee build. If you happen to know archer builds that can deal with the crowd efficiently, please let me know.<br/>\n<br/>\nIf it\u2019s a caster, I\u2019d like to be focusing on offensive spells. I\u2019d try a sorcerer, but I don\u2019t know what and when to add to the mix, to squeeze the maximum out of the char.<br/>\nThank you in advance for your help and sorry for my bad English, it\u2019s not my first language.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:36 PM - Feb 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Much as I like the DwD build, Sky (or Eastern Promises, which do you prefer?) - and I do a lot, it's also really pissed me off. I've spent the last couple of days working on something similar, but, as it transpires, worse (it was going to be a Rogue 16/ DwD 14/ CoT 10, EDRIII, ED build) <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Hmm, I don't see a way to do it. Best I can come up with is ED and SCIV. Sorry, deflecting from main point of this thread, I'll start another one...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:03 AM - Feb 06, 2019",
+      "content": "<div>Hi Dlightfull, and welcome!<br/>\n<br/>\nBefore we dismiss archers completely, the Arcane Archer class can be ridiculously powerful. Have a look at Mick Dagger's guide to the class in the Game Guides section for all the details. It's restricted to elves and half-elves, and you need at least 1 level of either Bard/ Sorcerer/ Wizard. That means the earliest you can start to take the class is level 8 (essentially, the end of chapter 1 of the OC, so you'd be spending that chapter building up to it), because you need a BAB of +6. If you're looking to take out weak mobs early, at level 2 AA gets the imbue arrow feat, so 3 times a day you can shoot a 10d6 fireball, which should help.<br/>\n<br/>\nAnyway, have a read and a think.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "6:01 PM - Feb 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I always saw posts (admittedly elsewhere) talking about how DwDs (OwOs?) and AAs were king in high magic, but when I look at DD all i see is mid magic tank. I really think andariel or this face trapper is better suited.<br/>\n<br/>\nGranted I'm assuming needing to deal with bosses with 80-100 AB. If not I can see why high hp/dr might be better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:11 AM - Feb 06, 2019",
+      "content": "<div>Thank you, I've read it, but i've also read somewhere that later on in the game, archers do not deal very good with crowds. Melee's have great cleave and Whirlwind for that, casters have spells, obviously, but archers don't have anything powerful enough.\u00a0<br/>\n<br/>\nAlso, i forgot to mention that i'd rather play a non-evil character, but it's not that important.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:51 AM - Feb 06, 2019",
+      "content": "<div>Archers have to deal with crowds in a different way than melee characters. The archer guide has a chapter on how to deal with that.\u00a0<br/>\nBut maybe what you need is a simple \"point and click\" melee brute lika a Fighter/Bard/RDD. They handle crowds well and are easy to play.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:10 PM - Feb 06, 2019",
+      "content": "<div>Maybe you're right! :) Do you have any specific build in mind?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:19 PM - Feb 06, 2019",
+      "content": "<div><blockquote><div><cite>Dlightfull wrote:</cite>\nMaybe you're right! :) Do you have any specific build in mind?\n</div></blockquote>\nIf you have a look around the lvl 40's section or the old archives, you will find several builds with different focus.<br/>\nI have a build here that has focus on being easy to play all the way, and still have a respectable end game power. It has feats like knockdown and expertise, taunt skill and a weak bard song that let you press a few buttons if you feel like it (remember to quick slot the things you do often). There is also the UMD skill that let you use items and scrolls meant for other classes etc. I have chosen to focus on the Longsword, but feel free to choose any other martial weapon.<br/>\n<details><summary>Spoiler</summary>Fighter(24), Bard(6), Red Dragon Disciple(10), Human\nSTR: 16 (38)\nCON: 16 (21)\nINT: 14 (16)\n\n01: Fighter(1): Power Attack, Cleave, Expertise\n03: Fighter(2): Weapon Focus: Longsword, Knockdown\n05: Fighter(4): Weapon Specialization: Longsword\n07: Bard(2)\n09: Red Dragon Disciple(3): Improved Knockdown\n11: Red Dragon Disciple(5)\n13: Red Dragon Disciple(6)\n15: Red Dragon Disciple(8): Iron Will\n17: Red Dragon Disciple(10): {Darkvision}, (STR=28), (CHA=10)\n19: Fighter(5)\n21: Fighter(7): Great Strength I, (STR=30)\n23: Fighter(9)\n25: Fighter(11)\n27: Bard(5): Great Strength III, (STR=33)\n29: Fighter(14): Epic Weapon Specialization: Longsword\n31: Fighter(16): Armor Skin\n33: Fighter(18): Great Strength IV, Epic Damage Reduction I, (STR=34)\n35: Fighter(20): Epic Damage Reduction II\n37: Bard(6)\n39: Fighter(23): Great Strength VI, (STR=37)\n\nSaving Throws (Fortitude/Will/Reflex): 28/24/20\nBAB: 26\nDevastating critical DC: 44\nSpell Casting: Bard(0)\n\nDiscipline 43(57), Listen 40(39), Lore 8(17), Perform 12(12), Search 18(21), Spellcraft 12(15), Taunt 40(40), Tumble 40(41), UMD 25(25), remaining skillpoints 13\n01: Discipline(4), Lore(4), Save(12), \n03: Discipline(1), Lore(1), Save(9), \n05: Discipline(1), Lore(1), Save(15), \n07: Discipline(1), Listen(1), Perform(3), Tumble(5), UMD(6), \n09: Discipline(1), Listen(1), Search(1), Save(2), \n11: Discipline(1), Search(1), Save(7), \n13: Discipline(1), Listen(2), Search(2), \n15: Discipline(1), Listen(3), Search(1), \n17: Discipline(1), Listen(1), Save(5), \n19: Discipline(1), Save(5), \n21: Discipline(1), Save(15), \n23: Discipline(1), Save(25), \n25: Discipline(1), Save(35), \n27: Discipline(1), Listen(9), Taunt(18), Tumble(10), UMD(10), \n29: Discipline(1), Save(10), \n31: Discipline(1), Save(20), \n33: Discipline(1), Save(30), \n35: Discipline(1), Save(40), \n37: Listen(10), Perform(2), Spellcraft(12), Taunt(20), Tumble(10), \n39: Discipline(1), Save(8), </details></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:24 PM - Feb 06, 2019",
+      "content": "<div>thank you very much!</div>"
+    },
+    {
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:39 PM - Feb 06, 2019",
+      "content": "<div>I have one question though. What is the reason that you don't start as a bard, to get more skillpoints?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:05 PM - Feb 06, 2019",
+      "content": "<div>It is a give and take. What you get is the fighter feats and full armor at level 1 and a skilldump for tumble 5 at lvl 2 for an early +1 AC. The price is 8 skill points, but I think this build already has the skill points it needs.<br/>\n<strong>Edit:</strong>\n<blockquote><div><cite>Empyre65 wrote:</cite>\nIf you take Bard at level, you must have at least 11 Charisma, which would hurt the Easy Adventurer build.\u00a0\n</div></blockquote>\nOf course, how could I forget the most obvious...\u00a0<span class=\"text-emoji\">\ud83d\ude42</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:35 PM - Feb 06, 2019",
+      "content": "<div>If this is for the Un-modded O.C/SoU/HotU, then take a Greatsword and start cleaving people/monsters in half,<br/>\nI would go as far as to take Great Cleave way earlier too, making sure that these goblins/plain Orcs/early Drows/sewer Rats etc will definitely bear the brunt of your (Great)sword,<br/>\nmaybe take Persuade instead of Taunt if you like to be charming &amp; bend others to your will, or if you are interested in persuading Aribeth in Hell.<br/>\n<br/>\nYou'll end-up taking Dickin anyway...</div>"
+    },
+    {
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:44 PM - Feb 06, 2019",
+      "content": "<div>I have no idea if my game is modded. It's the GOG version of NWN:EE. The greatsword sounds fun, but I am playing Mick's build now (lvl3, using longsword and tower shield plus the biggest armor I had money for) and have some problems in peninsula area fighting those thug leaders. They are pretty tough. I can only have them one at a time. I am afraid that greatsword will make me easier to hit. <br/>\n<br/>\nAnyway, thank you very much for the idea. Will definitely try and see how it goes.<br/>\n<br/>\nWhat about the caster route? Are there some powerful and interesting builds that can easily tackle the OC solo?</div>"
+    },
+    {
+      "author": "neo.dietrich",
+      "avatar": "10759013_1546875159.jpg",
+      "timestamp": "11:25 PM - Feb 06, 2019",
+      "content": "<div>If you're going to do a solo caster run, I'd suggest a sorcerer build. Not as versatile as a wizard, but you'll be using most of your spells to blow crap up. They're really easy to build, too. Either go straight-up sorcerer, or add in a level of paladin (or 2 blackguard for evil characters) for the save bonuses and access to heavy armor and shields (which you'd use later in the game with Auto Still Spell).</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:16 AM - Feb 07, 2019",
+      "content": "<div>If you take Bard at level, you must have at least 11 Charisma, which would hurt the Easy Adventurer build.\u00a0 That build will steamroll through either the OC + Mines of Twin Summit (going to level 40), or SoU, HotU, and Sands of Fate (also going to level 40).\u00a0 Remember that the OC and SoU both start at level 1, and HotU is designed to follow SoU.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Dlightfull",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:39 AM - Feb 07, 2019",
+      "content": "<div><blockquote><div>If you're going to do a solo caster run, I'd suggest a sorcerer build. Not as versatile as a wizard, but you'll be using most of your spells to blow crap up. They're really easy to build, too. Either go straight-up sorcerer, or add in a level of paladin (or 2 blackguard for evil characters) for the save bonuses and access to heavy armor and shields (which you'd use later in the game with Auto Still Spell).</div></blockquote>\nWhen should i do that, from the start, or later? Isn't there more to gain from having more levels of other classes in a sorc build? Maybe there's some build on these forums that would be easy to play in OC? I looked at all the builds, but i seldom know the game and can't understand if it's going to be easy or not so easy to solo OC.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:18 AM - Feb 07, 2019",
+      "content": "<div>Soloing a sorcerer or wizard is fine once you know how to play one. IMO it is not the place to start if you are unfamiliar with the game.<br/>\nPlaying a pure sorcerer can feel a bit like dealing with a glass cannon. And during the earlier levels it is most fragile and no cannon at all. You have to know your spells, because you will live, or die, by your spells.<br/>\nThere are builds that add defensive properties, like the Exalted sorceress does. But even that build starts out as, and remains a pure sorcerer for a long time.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

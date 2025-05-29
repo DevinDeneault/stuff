@@ -4,35 +4,104 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "151",
-  "name": "For the OC and Expansions",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/for-the-oc-and-expansions-t2354551.html",
-  "author": "OmegaSage",
+  "name": "Ranger Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/ranger-build-t2354554.html",
+  "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 3,
+  "replies": "14",
+  "views": "831",
   "posts": [
     {
-      "author": "OmegaSage",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "8:48 AM - Jun 15, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I wanna try out the Shifter. I stumbled across one posted with 5M/6D/11SH, and I guess it looks cool. Not entirely sure why the Monk levels instead of say... umm.... no clue what if anything synergizes with Shifter though. XD I saw wnth post, I think it was a note left on the old epic builds, saying for Dragon form you need 18 in Druid? So how would (pre-20) 5M/11SH/4D then building to somehting like 18D/5M/11SH????<br/>\n<br/>\n Are there any online planners available for this game by chance, would help a lot. Love theory crafting builds and stuff.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:37 AM - Jun 24, 2016",
+      "content": "<div>What kind of Ranger Build would you make with this subclass??<br/>\n<br/>\n Lupinal<br/>\n Restrictions: Race - Human<br/>\n Favored Class: Ranger<br/>\n Benefits: +2 Str, +2 Con, +2 Cha, +3 Dex<br/>\n Feats:<br/>\n Weapon Focus Long Bow<br/>\n Rapid Shot<br/>\n Favored Enemy Elf and Dragon<br/>\n Bane of Enemies<br/>\n Negatives: -2 Int<br/>\n ECL: 3</div>"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "10:07 AM - Jun 15, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's not clear exactly what you are looking to do.\u00a0 For the OC, you will need a level 18 build.\u00a0 For SoU/HotU, one capped at 28.\u00a0 Neither of those are suitable for a dragon shape focus even with bridge modules stuck in.\n<blockquote><div><strong>OmegaSage wrote:</strong><hr/>\n So how would (pre-20) 5M/11SH/4D then building to somehting like 18D/5M/11SH????<br/>\n<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n You need at least Dru 5 to qualify for shifter.\u00a0 Also, only 10 levels of shifter is available during pre-epic.\u00a0 If you go shifter, you don't need Dru 18 unless you want that many levels.\u00a0 That's for a druid dragon shape.\u00a0 Ummm... let's see if I can capsulize...<br/>\n<br/>\n For <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Dragon_shape\" rel=\"noreferrer\" target=\"_blank\"><span style=\"color:#0000FF\"><strong>Dragon Shape</strong></span></a> only druid 18 (WildShp x6)\u00a0 or shifter 10 is required.\u00a0 Your main problem will be reaching WIS 30 and for the earliest DS possible, CoT must be used. Either dru/mnk/CoT or dru/shf/CoT requires Level 30 to qualify for DS, the earliest unless custom content changes those requirements.<br/>\n<br/>\n Monk AC, WIS AC, monk speed and feats merge with all forms.\u00a0 Monk attack progression (-3 BAB) only merges with shapes that use creature weapons.<br/>\n<br/>\n edit:\u00a0 Just to give you a taste of playing shifter in a limited campaign, here is a sample build to try out.\u00a0 After becoming more familiar with how shifting works, leave your impressions in this thread.\u00a0 I've played a Risen Lord before in the SoU/HotU combo with success so once you have established your own style, I could dig that one up for a 28-level cap build.<br/>\n<br/>\n This one, however, focuses on (but not limited to) 3 shapes: Wyrmling, Minotaur, Drider... in that order.\u00a0 For stronger minotaur (in case Level 18/shf 5 seems unreachable), use alternate feat sequence.\u00a0 Only wyrmling (and other unarmed shapes) will benefit from the monk attack progression.\u00a0 The merge is always better for armed shapes. 93 skill points are left open for allocation of your personal preference (eg. high stealth, heal or xclass skills).\u00a0 Attack: 3 APR w/weapons, 4 APR unarmed. Dru 7 @ Lvl 11 assures full druid circle quest is available.\u00a0 Ignore the native combat stats because they will be adjusted by the current shape.<br/>\nSpoiler [+]<br/>\n<br/>\n OC Shifter: Druid(7), Monk(6), Shifter(5), Lawful Neutral Human<br/>\n<br/>\n STR: 10<br/>\n DEX: 14<br/>\n CON: 14<br/>\n WIS: 16 (20)<br/>\n INT: 14<br/>\n CHA: 8<br/>\n<br/>\n 01: Dru(1): Alertness, Blind Fight<br/>\n 02: Mnk(1)<br/>\n 03: Dru(2): Toughness (effective for all shapes)<br/>\n 04: Dru(3): WIS+1 (17)<br/>\n 05: Dru(4)<br/>\n 06: Dru(5): Extend Spell<br/>\n 07: Dru(6)<br/>\n 08: Shf(1): WIS+1 (18)<br/>\n 09: Shf(2): Dodge (or <em>Expertise</em> if you plan on spamming lots of wyrmling breath attacks)<br/>\n 10: Shf(3)<br/>\n 11: Dru(7) ---&gt; Stoneskin available for unarmed shape DR penetration<br/>\n 12: Mnk(2): WIS+1 (19), ImpCrit: Unarmed (Alt: WP Martial)<br/>\n 13: Mnk(3)<br/>\n 14: Mnk(4)<br/>\n 15: Mnk(5): ImpCrit: Spear\u00a0 (Alt: WF: Battleaxe)<br/>\n 16: Shf(4): WIS+1 (20)<br/>\n 17: Mnk(6)<br/>\n 18: Shf(5): WF: Spear (Alt: ImpCrit: Battleaxe)<br/>\n<br/>\n Monk feats accrued: Cleave, Evasion, Imp Unarmed Strike, Stunning Fist, Deflect Arrows, KD/IKD<br/>\n WIS 20 slot bonus: 2,1,1,1<br/>\n<br/>\n HP: 198<br/>\n Saves (F/W/R): 16/16/13 (19/19/16 v spells)<br/>\n Add'l saves:\u00a0 Mind Effects: +2, Fear: +2<br/>\n BAB: 12<br/>\n AB (max, naked): 13 (melee), 14 (ranged)<br/>\n AC (naked/mundane armor/shield only): 22/24<br/>\n<br/>\n Animal Empathy 1(0), Discipline 20(20), Spellcraft 13(15), Tumble 20(22), remaining -----&gt; 93<br/>\n<br/>\n 01: Animal Empathy(1), Spellcraft(4), Save(23)<br/>\n 02: Discipline(5), Tumble(5), Save(20)<br/>\n 03: Spellcraft(2), Save(25)<br/>\n 04: Spellcraft(1), Save(31)<br/>\n 05: Spellcraft(1), Save(37)<br/>\n 06: Spellcraft(1), Save(43)<br/>\n 07: Spellcraft(1), Save(49)<br/>\n 08: Save(56)<br/>\n 09: Save(63)<br/>\n 10: Save(70)<br/>\n 11: Spellcraft(3), Save(74)<br/>\n 12: Discipline(10), Tumble(10), Save(61)<br/>\n 13: Discipline(1), Tumble(1), Save(66)<br/>\n 14: Discipline(1), Tumble(1), Save(71)<br/>\n 15: Discipline(1), Tumble(1), Save(76)<br/>\n 16: Save(83)<br/>\n 17: Discipline(2), Tumble(1), Save(87)<br/>\n 18: Save(94)<br/>\n<br/>\n<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:20 AM - Jun 24, 2016",
+      "content": "<div>Since you get WF: LB &amp; BoE for free I'd raise WIS up enough to self-buff with both ranger and cleric spells for a divine archer with monk WIS AC &amp; tumble. maybe rgr10/clc15/mnk15 to avoid XP penalty else just monk for dumps.\u00a0 Take wpn finesse if you decide to DW kamas.\u00a0 I'd play it in robes anyway and still take PBS for close encounters when leg shots aren't slowing them fast enough.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:00 PM - Jun 15, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Omega Sage, and welcome <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\n I don't know if it helps, but there are excellent guides to to both Druid and Shifter in the Game Guides forum in this section of the Guild, as well as guides to playing and building for NwN1. Also, in the NWN World section, there are fora on the different Modules and Persistent Worlds.<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "OmegaSage",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "11:56 PM - Jun 15, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks HipRedux for the build as well as the insight and suggestions. I'll definitely repost later after playing the base game with my impressions.<br/>\n<br/>\n Greetings to you as well Stagmeister. Thank you for pointing those out, I'll definitely give those a look-see.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:38 PM - Jun 25, 2016",
+      "content": "<div>I was thinking something like Ranger Bard AA</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:49 PM - Jun 25, 2016",
+      "content": "<div>I like Ranger 26/ Fighter 4/ Champion of Torm 10<br/>\n<br/>\n Thoughts?</div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "7:12 PM - Jun 25, 2016",
+      "content": "<div>Are you seeking a pure archer or an archer/DW finesser concept?\u00a0 AAs can do finessing but have no way to increase damage for melee unless heavy rgr FEs.\u00a0 Lotsa FEs means a gimped AA attack bonus (not enough AA levels).</div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "7:29 PM - Jun 25, 2016",
+      "content": "<div><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>I was thinking something like Ranger Bard AA</div></blockquote>\n<div align=\"left\">With the favored human class being ranger, you really have no other choice for an AA.<br/>\n<br/>\n In most environments, I feel Rogue AA's are the most powerful (outside of divine ones, that is) but the XP penalty is there in this case.\u00a0 The only downside of ranger is that the WIS 14 needed for spellcasting will drain away some potential DEX AB which can be a boon for stealthy AAs.\u00a0 But at least the divine casting can be successful wearing armor so leaving the Bard as a singer only, you need not compound the problem further by boosting CHA for arcane casting and trying to fit Still Spell into a feat-starved design.</div></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:14 PM - Jun 25, 2016",
+      "content": "<div>A Human can be an AA in that PW? AA is usually confined to Elf and Half-Elf only.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:37 PM - Jun 25, 2016",
+      "content": "<div>That is correct.\u00a0 I forgot that.\u00a0 That is why I changed it to Ranger 26/ Fighter 4/ Champion of Torm 10<br/>\n<br/>\n I want a build that is really good with the long bow.<br/>\n<br/>\n Was thinking the fighter and Champion of Torm would give me plenty of feats<br/>\n<br/>\n David</div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "9:35 PM - Jun 25, 2016",
+      "content": "<div>You are going to need to explain how a subclass is implemented.\u00a0 It says Ranger is the Favored Class but it doesn't say it is a REQUIRED CLASS.\u00a0 In the first case, it is just a matter of affecting XP penalty and in the second it is a prerequisite for the subclass.\u00a0 So which is it?\u00a0 Must Lupinal contain ranger levels and, if so, how many minimum?<br/>\n<br/>\n Don't want to discover Lupinal subclass has other \"hidden\" features or requirements before tossing out suggestions.\u00a0 I have some ideas but need to understand the consequences of different alternatives first.<br/>\n<br/>\n Subraces.\u00a0 Subclasses.\u00a0 Doesn't anyone play AD&amp;D anymore? :(</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:13 PM - Jun 25, 2016",
+      "content": "<div><blockquote><div><strong>HipRedux wrote:</strong><hr/>You are going to need to explain how a subclass is implemented.\u00a0 It says Ranger is the Favored Class but it doesn't say it is a REQUIRED CLASS.\u00a0 In the first case, it is just a matter of affecting XP penalty and in the second it is a prerequisite for the subclass.\u00a0 So which is it?\u00a0 Must Lupinal contain ranger levels and, if so, how many minimum?<br/>\n<br/>\n Don't want to discover Lupinal subclass has other \"hidden\" features or requirements before tossing out suggestions.\u00a0 I have some ideas but need to understand the consequences of different alternatives first.<br/>\n<br/>\n Subraces.\u00a0 Subclasses.\u00a0 Doesn't anyone play AD&amp;D anymore? :(<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">\n<br/>\n It is favored but not required.\u00a0 You can have no Ranger levels if you want.\u00a0 There are no \"hidden\" features or requirements.\u00a0 You can have any class you want.<br/>\n What you see is what you get.\u00a0 Though there are restrictrions on Pale Master though.\u00a0 What are your ideas?<br/>\n<br/>\n I would love to play AD&amp;D if I could find enough people to get together to play<br/>\n<br/>\n David</div></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:49 AM - Jun 26, 2016",
+      "content": "<div>From the description, it looks like Lupinal is a subrace of Humans, not a subclass. Even though Ranger is not required, the free Bane of Enemies would not be useful without favored enemies from Ranger (or maybe Harper Scout).<br/>\n<br/>\n Perhaps your Ranger 26 / Fighter 4 / CoT 10 idea would be pretty good after all. You might be better off making that a melee build, and for an archer, use Elf or a subrace of Elf with AA. There is nothing in the Ranger class that makes it a better at archery than melee. Archery without AA is generally weaker than melee, which is probably why AA was added in the first expansion pack (SoU).</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:56 AM - Jun 26, 2016",
+      "content": "<div>With BoE as a free feat and no use for DW, the only advantage taking lots of ranger levels is for more FEs and divine casting (mainly Cat's Grace &amp; Aid).\u00a0 But that would cost at least 2 AB and 2 AC.\u00a0 I think there are better ways to use those free feats and ability changes.\u00a0 Here's the first one that came to mind...<br/>\n<br/>\n ...one that avoids XP penalty without ranger levels (I hope I figured the subclass adjustments right, though):<br/>\n<br/>\n Fighter16 - Assassin22 - Shadowdancer2, Any evil Human<br/>\nSpoiler [+]<br/>\n<br/>\n STR: 9 +2 = 11<br/>\n DEX: 17 +3 = 20 (38) all ability boosts to DEX<br/>\n CON: 8 +2 = 10<br/>\n WIS: 8<br/>\n INT: 18 -2 = 16<br/>\n CHA: 8 +2 = 10<br/>\n<br/>\n 01: Ftr(1): Luck of Heroes, Dodge, WF: Longbow<br/>\n 02: Ftr(2): Mobility<br/>\n 03: Ftr(3): Toughness<br/>\n 04: Ftr(4): DEX+1 (21), WS: Longbow<br/>\n 05: Ftr(5)<br/>\n 06: Ftr(6): Iron Will, PBS<br/>\n 07: Ftr(7)<br/>\n 08: Ftr(8): DEX+1 (22), Called Shot<br/>\n 09: Ftr(9): Great Fort<br/>\n 10: Ftr(10): Blind Fight<br/>\n 11: Ftr(11)<br/>\n 12: Ftr(12): DEX+1 (23), SF: Listen, IC: Longbow<br/>\n 13: Ftr(13)<br/>\n 14: Asn(1)<br/>\n 15: SD(1): SF: Hide, {HiPS}<br/>\n 16: Asn(2): DEX+1 (24)<br/>\n 17: Asn(3)<br/>\n 18: Asn(4): SF: Move Silently<br/>\n 19: Asn(5)<br/>\n 20: Asn(6): DEX+1 (25)<br/>\n 21: Ftr(14): EWF: Longbow, EWS: Longbow<br/>\n 22: Ftr(15)<br/>\n 23: Ftr(16): Armor Skin<br/>\n 24: Asn(7): DEX+1 (26), Epic Prowess<br/>\n 25: Asn(8)<br/>\n 26: Asn(9)<br/>\n 27: Asn(10): Grt DEX (27)<br/>\n 28: Asn(11): DEX+1 (28)<br/>\n 29: Asn(12)<br/>\n 30: Asn(13): Grt DEX (29)<br/>\n 31: Asn(14): Grt DEX (30)<br/>\n 32: Asn(15): DEX+1 (31)<br/>\n 33: Asn(16): Grt DEX (32)<br/>\n 34: Asn(17)<br/>\n 35: Asn(18): Grt DEX (33)<br/>\n 36: Asn(19): DEX+1 (34), Grt DEX (35)<br/>\n 37: Asn(20)<br/>\n 38: SD(2): {Evasion}<br/>\n 39: Asn(21): Grt DEX (36)<br/>\n 40: Asn(22): DEX+1 (37), Grt DEX (38)<br/>\n<br/>\n Hitpoints: 348<br/>\n Saves (F/W/R): 22/18/34\u00a0 (26/22/38 v spells)<br/>\n Add'l saves: Traps: +2, Poison: +6<br/>\n BAB: 27<br/>\n AB (max, naked): 27 (melee), 45 (ranged)<br/>\n AC (naked/mundane armor/shield only): 35/35<br/>\n<br/>\n Hide 43(58), Listen 43(45), Move Silently 43(58), Spellcraft 21(24), Tumble 40(52), UMD 33(32), remaining ----&gt; 36 (Search?)<br/>\n<br/>\n AB 27 + 3 (wf/ewf) +1 (prowess) + 14 (dex38) = 45 (43 w/RS)<br/>\n AC 10 +1 (dodge) +2 (as) + 8 (tumble) + 14 (dex) = 35 (naked)<br/>\n<br/>\n DA DC = 10 + 22 + 3 = 35<br/>\n DA dmg = 11 to 66<br/>\n<br/>\n<br/>\n<br/>\n The trick is to xclass the stealth skills until Lvl 14 and then all will be class skills from there on.\u00a0 One Fox pot will increase saves v spells by 1 for 3 hrs.\u00a0 Feats selected are mainly those to enhance archery combat, boost saves and boost stealth.\u00a0 SD2 was taken solely for free Evasion.\u00a0 With WS, BoE and the occasional DA dmg, I doubt damage will become a problem.\u00a0<br/>\n<br/>\n<em>edit:</em> I see Empyre chimed in on the reliance of BoE on FEs so in this case you'd on get a bane weapon attack vs. elves and dragons since you get those FEs for free.<br/>\n As far as enhancement just for an archer, I think the other freebies are far more valuable than the BoE anyway.<br/>\n<br/>\n I just noticed that I didn't make the adjustment in the skill set for the subthing boosts so all the DEX\u00a0 skills will be a few points higher and UMD will be a modified 33. Also, you get another pre-epic feat since I had to select WF to get all the other weapon-related feats later on.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:05 AM - Jun 26, 2016",
+      "content": "<div>Would using an elf race defeat the purpose of wanting to use the subrace Lupinal?</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:13 AM - Jun 26, 2016",
+      "content": "<div>I like it.\u00a0 Here is another idea though.\u00a0 The Guardsman (FTR 13 /HS 5/CoT 22)<br/>\n<br/>\n What do you think??<br/>\n<br/>\n David</div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "9:53 PM - Jun 26, 2016",
+      "content": "<div><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>Would using an elf race defeat the purpose of wanting to use the subrace Lupinal?</div></blockquote>\n<div align=\"left\">According to what you posted, it must be human to get Lupinal.\u00a0\u00a0\u00a0<br/>\n<br/>\n Empyre suggested you build a straight elven AA to compare how much benefit Lupinal actually lends to an archer build.\u00a0 The AA will undoubtedly have much higher AB and damage but the free feats may open up other advantages.\u00a0 The mage tertiary qualifier will cost -4AC unless you include some tumble class.\u00a0 The minor consequence is that AA levels will be postponed later in pre-epic because of AA's BAB prereq (+6).\u00a0 Fighter-types can reach that in 6 levels, tumble classes need 8.</div></div>"
     }
   ]
 }

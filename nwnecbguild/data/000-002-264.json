@@ -4,29 +4,81 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "264",
-  "name": "Embarrassed",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/embarrassed-t2317143.html",
-  "author": "10235326",
+  "name": "Epic spell focus.penetration or just Int?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-spell-focus-penetration-or-just-int-t2318309.html",
+  "author": "greyfey",
   "avatar": "no_avatar.png",
-  "replies": 2,
+  "replies": "10",
+  "views": "3.1K",
   "posts": [
     {
-      "author": "10235326",
+      "author": "greyfey",
       "avatar": "no_avatar.png",
-      "timestamp": "5:02 AM - Jan 26, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Wow, I feel really dumb. <br/>\nSo I was bored today and decided to take a foray back into NWN playing on some old PWs. I immediately went back to the Epic Character Builders search engine to bring back some build ideas. All day I've been using this archive: <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/buildsearch/\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhawk/buildsearch/</a> and forums while thinking this community of builders has unfortunately been looong dead and gone. I just randomly stumbled across these forums from a Google search and after my initial joy I thought this looked familiar. So I entered a typical login name and password I use and sure enough I've been here before. D'Oh! Can't believe I forgot!<br/>\n<br/>\nAnyways, on to a real question I have. <br/>\nI've never played a Dragon Shape build before but I would like to try one on my PW. I've been looking through that old archive and realized that most of those builds are 5+ years old and some are probably illegal after 1.69.  So I'm wondering what the best current Dragon Builds are (if there are any)? <br/>\n<br/>\nSorry if this is a noobish question, or the improper place to post...or if this has been addressed somewhere else. I've been out of the game for awhile.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:39 PM - Feb 01, 2013",
+      "content": "<div>I have the start on my Wizard char..I am going for a 35 wizard/3 rogue/2 ftr.build that I have tweaked a bit for the server and RP purposes.[she,ll be a Fey/pixie type,someones familiar].<br/>\n<br/>\nRogue for tumble umd and locks/traps,[familiar].<br/>\nFtr purely for the extra feats,HP boost...mainly the feats.<br/>\n<br/>\nOk,now I have it roughly worked out,no save spell,s,damage shields and umd for wands ,scrolls and robes etc.<br/>\nAt the moment she has spell focus,Grt. spell focus and Epic spell focus,and Spell penetration,Grt,spell pen. and Epic spell pen.<br/>\nAlso Extend, maximize,empower and still for more slot,s.<br/>\nHowever,she will end up with 32 int,would it be worth dropping the focus line and/or the penetration line and just grabbing more Int?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:54 PM - Feb 01, 2013",
+      "content": "<div><blockquote><div><strong>greyfey wrote:</strong>I have the start on my Wizard char..I am going for a 35 wizard/3 rogue/2 ftr.build that I have tweaked a bit for the server and RP purposes.[she,ll be a Fey/pixie type,someones familiar].</div></blockquote>\nInteresting RP concept! \n<blockquote><div>Rogue for tumble umd and locks/traps,[familiar].<br/>\nFtr purely for the extra feats,HP boost...mainly the feats.</div></blockquote>\nWhat feats? A wizard with 9 bonus feats normally isn't feat starved\n<blockquote><div>Ok,now I have it roughly worked out,no save spell,s,damage shields and umd for wands ,scrolls and robes etc.</div></blockquote>\nNo save spells?  If you plan on only casting spells that don't allow a save, you don't need any spell focus.<br/>\nSince you are a wizard, you don't need umd for wands and scrolls\n<blockquote><div>At the moment she has spell focus,Grt. spell focus and Epic spell focus,and Spell penetration,Grt,spell pen. and Epic spell pen.<br/>\nAlso Extend, maximize,empower and still for more slot,s.<br/>\nHowever,she will end up with 32 int,would it be worth dropping the focus line and/or the penetration line and just grabbing more Int? </div></blockquote>\nWith 35 caster-levels you don't need the penetration feats for piercing standard toolset SR (32). If you know that you will come across creatures with higher SR, you can take the feats you need to penetrate their SR. Dropping 2 fighter levels for wizard will also improve your penetration by 2.<br/>\nInt 38 is the max you can get with your setup. With Int 32, the DC of your spells will be 22 for lvl 1 spells and 30 for lvl 9 spells. If you take epic spell focus, the DCs for that school will be 28 for lvl 1 spells and 36 for lvl 9 spells.<br/>\nWith int 38 the DCs will be +3 better, but then you have to find room for 6 Great int feats. You have to start with int 18 and only take int at lvl up.<br/>\nWith int buffed to the cap (+12) the DC will improve by +6.<br/>\n<br/>\nSuggested feats:<br/>\nextend sp, silent sp, empower sp, max sp, quicken sp, craft wand, spell focus x2, g sp focus x2, epic s focus x2, Great int x8, epic mage armor, epic warding, leaving room for 1 more pre epic feat (2 if based on human character)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "greyfey",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:05 PM - Feb 01, 2013",
+      "content": "<div>Hmm,food for thought there,prob drop ftr altogether and go 37/3,and keeping the Rogue for skills and tumble,mainly for RP though...thanks i,ll make my brain hurt a bit more on this</div>"
+    },
+    {
+      "author": "Chaozrulez",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:17 PM - Feb 19, 2013",
+      "content": "<div>Certainly don't need SF Penetration, with lvl9 Mord you can also decrease the target's SR which will save you 3 skill slots.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "11:39 AM - Jan 26, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is the perfect place to post this question, mate. Welcome to the new ECB. I have to tell you that the Dragon Shape builds pre-1.69 are probably all illegal because as of 1.69 18 levels of Druid are necessary to obtain it, whereas before only 14 were required. I have one such build, which is inspired by many others but it's not very playable for the non-experienced, so I wouldn't recommend it to you. However, it can serve you as a rough guide. What I would suggest in order to make this build more playable would be to drop 4 Druid levels for 4 Monk levels, and go 12 Druid 4 Monk 4 CoT pre-epic. That way you will have Wisdom bonus to AC from the start. Also, you won't need KD and IKD, which you can then swap for Disarm. If you feel comfortable with your NWN skills and Druid usage in general, then you can try to use it as described in the build's original post.<br/>\n<br/>\nThe last thing is, I wrote a guide on druids, to which I will also refer you the link. So here it goes:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/champion-of-the-wilderness-druid-28-cot-10-monk-2-t515398.html\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.44.forumer.com/champ ... 15398.html</a> is the link to the build<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/nature-s-strongest-defenders-a-guide-to-druids-t515540.html\" rel=\"noreferrer\" target=\"_blank\">http://nwnecbguild.44.forumer.com/natur ... 15540.html</a> is the link to the guide.<br/>\n<br/>\nHave fun, brother!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:48 AM - Feb 21, 2013",
+      "content": "<div>Mayhaps you need a more basic explanation...<br/>\n<br/>\nSpell Penetration increases your caster levels when trying to beat a certain SR. Maximum Toolset (non-character or custom boss with monk levels) SR is 32, so you should be able to beat them without the spell penetration line of feats. There are also spells that lower enemy SR in case you need them: Lesser Spell Breach, Greater Spell Breach and Mordenkainen's Disjunction (which lowers it by 10 points!!!!!!) in the Wizard spellbook and Nature's Balance which is a Druid spell and you should have access to it through scrolls and UMD.<br/>\n<br/>\nAs for INT and Spell Focus, both affect the spell DC (the difficulty class the enemies have to beat in order not to suffer the effects of your spell). The higher your INT score, the higher your DCs, and you can further increase your spell DCs with the Spell Focus line of feats, just pick a school. I'd go for necromancy, because if they fail the save, they die, and if they succeed, generally speaking nothing happens (except Finger of Death, but even that one just does 3d6 negative energy damage, which is basically worthless). Wail of the Banshee, which is a 9th level area death spell, does nothing if the enemy makes the save. I would definitely prioritize the spell DCs even against some epic spells like Greater Ruin (which will no doubt have a lower DC than your high level SF school spells).<br/>\n<br/>\nI hope this helps.<br/>\n<br/>\nTake it EZ!</div>"
     },
     {
-      "author": "10235326",
+      "author": "greyfey",
       "avatar": "no_avatar.png",
-      "timestamp": "8:00 PM - Jan 26, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, thank you Maximillian!<br/>\n<br/>\nI've been pondering some combination of Druid/Monk/ClassX (maybe Cleric, DD, PM, CoT, Shifter, etc.). I'll take a look at your build and see what I can do. Dragon Shape by level 31 is nice. <br/>\n<br/>\nI'm confident in my NWN playing skills, however I haven't played a Druid-based character in forever. I actually found and read that Druid guide yesterday as well. Very well written mate!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:50 PM - Feb 21, 2013",
+      "content": "<div>With all this advice i have changed her too 37 wiz, generalist.3 rogue,at lvl 1,for skillpoints and getting through the first few lvl,s.<br/>\nlvl,20,middle skill dump for umd and tumble,possibly trapsetting too,still investigating that on the server.<br/>\nlvl,39,just too top it all up,umd for goodies,tumble for ac, etc.<br/>\nNo spell pen feats ,but,spell focii in Necro, and Evocation,sp. focus,grt. sp. focus and epic spell focus in each,and taking The initial courteous Magocracy at lvl 1 .<br/>\nExtend,Empower, Maximize...possibly Still,most probably...and rest too Grt. Int feats.<br/>\nI was tempted too just take 2 rogue lvl,s,possibly even just one...but the concept of her being the standard caster,s familiar would of been compromised...I even copied the Fey Bio,and managed too get the fey voiceset <br/>\nAlso the caster im playing the familiar of,has the same name for her Fey.<br/>\nAlready been asked how do you pick stuff up,sell things while possessing her?</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:29 AM - Feb 22, 2013",
+      "content": "<div>I would stick with 35 / 2 / 3 if I were you. The 2 feats you get with the Fighter bonus feats are IMO better than 2 extra caster levels. If you went Wiz 38 Rogue 2, then it`d be an about even trade. 1 less feat, but 3 more caster levels. 37/3 IMO is unnecessary and a waste of 2 levels  I'm obviously only considering the powergaming portion of this build, RP-wise, anything is acceptable.<br/>\n<br/>\nTake it EZ!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:32 AM - Feb 24, 2013",
+      "content": "<div><blockquote><div><strong>Maximillian Kane wrote:</strong>I would stick with 35 / 2 / 3 if I were you. The 2 feats you get with the Fighter bonus feats are IMO better than 2 extra caster levels.// I'm obviously only considering the powergaming portion of this build...\n</div></blockquote>\nI'm curious what fighter feats will make this epic wizard more powerful, unless you want to make a fighter - mage and take martial combat feats in the first place.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:28 PM - Feb 25, 2013",
+      "content": "<div>Armor Skin, which would give an extra 2 AC and perhaps Epic Prowess for Shapechanging. Minor, granted, but better than not having either for 2 CLs in an already CL-abundant build.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:25 PM - Feb 25, 2013",
+      "content": "<div>If I should take only 35 wizard levels, 5 levels of rogue is also an alternative for more skillpoints and more frequent skilldumps.<br/>\nIf I took 2 levels of fighter for the two feats, expertise and improved expertise are hot candidates, unless casting in expertise mode is cancelled.<br/>\nBut once you start thinking AC, tumble becomes important and sooner or later you consider still spell, and even the auto-still series, since fighter gives you the armor and shield feats. Continue that trail of thoughts and you add discipline and it's epic skillfocus (to compensate for your low strength). And once you are there, armor skin becomes interesting too.   <br/>\nBetter stop while your build still is a wizard.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "8:05 PM - Feb 25, 2013",
+      "content": "<div>indeed. I was assuming that casting in IE is disabled, at least everywhere I have ever played it is, so I was taking it for granted. But, ESF discipline doesn't sound so bad as a replacement for Epic Prowess. Keep talking, u''re getting somewhere!</div>"
     }
   ]
 }

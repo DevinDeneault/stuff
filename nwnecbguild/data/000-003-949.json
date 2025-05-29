@@ -4,143 +4,49 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "949",
-  "name": "Rogue Bard lv 20 request",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-bard-lv-20-request-t2354916.html",
-  "author": "alessiaccio",
-  "avatar": "10758936_1531050487.jpg",
-  "replies": 21,
+  "name": "Input requested ^^; Fighter16/Bard4/Pale Master20",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/input-requested-fighter16-bard4-pale-master20-t2354925.html",
+  "author": "umbrellamonk",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "253",
   "posts": [
     {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "9:00 PM - Jul 08, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi guys!<br/>\nI'm beating NWN single player for the first time, but the character building is really complex for me, 'cause i'm new to the D&amp;D mechanics. I want to beat the game with an Elf rogue with some bard levels, i like the jack of all trades characters, can anyone suggest me a good build?<br/>\nVery thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:27 AM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I usually choose either Rogue or Bard because the two classes have a lot of overlap. They both have Tumble and UMD and they both are 3/4 AB classes. Also, since neither of those classes are the favored class for an Elf, you would either have to keep the classes even with each other, or suffer a 20% experience point penalty.<br/>\n<br/>\nAlso, what modules and campaigns are you playing? I recommend the OC followed by Mines of Twin Summits to get all the way to level 40, and then starting over in SoU, HotU, and Sands of Fate to once again reach level 40, and finally, the Aielund Saga to go from level 1 to level 36. There are plenty of other things to play after that, but these will keep you busy for a while.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "11:00 AM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the answer! I'm playing the original campaign of the original game, so no expansions, no prestige classes, no epic building (and no tumble).<br/>\nI thought the two classes pairs up nicely, but it seems i were wrong! :)<br/>\nSo what are some good builds for a non melee rogue? And what are the skills and the feats worth of attention in the original game?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:32 AM - Jul 17, 2018",
+      "content": "<div>Edit: Hello, first time posting, though I've lurked intermittently for as long as the original ECB on, IGN was it?.<br/>\n<br/>\nI've been trying to make a melee build that's got good AB, decent dev crit (DC40+), Pale Master defenses and access to at least epic warding, preferably also EMA.\u00a0 I tried cramming dev crit into Valerfor's Andariel, but it proved to be too feat-starved.\u00a0 Then I came across Grizzled Dwarflord's Charnel Lord, and it was exactly what I was looking for in a PM fighter build, except the AB was a little low.\u00a0 So I took a rusty scalpel and shiny new hammer to it and here's what I came up with.\u00a0 I've looked through he forums and text searched the downloaded ECB build index so I hope I didn't miss something.\u00a0 I know Grizzled Dwarflord has a build with this exact spread (Myrmidon Eternal), but it turns out quite different (no dev crit, earlier PM levels, only one epic spell etc. etc.).<br/>\n<br/>\nFighter16/Bard4/Pale Master20<br/>\n<br/>\n1 Fighter1, Expertise, Blindfight, Luck of Heroes*<br/>\n2 Bard1<br/>\n3 Fighter2, Power Attack, Cleave<br/>\n4 Fighter3, Str19<br/>\n5 Fighter4, WF<br/>\n6 Fighter5, WS<br/>\n7 Bard2<br/>\n8 Fighter6, Great Cleave, Str20<br/>\n9 Fighter7, Improved Crit<br/>\n10 Fighter8, Improved Expertise<br/>\n11 Fighter9<br/>\n12 Fighter10, Knockdown, Improved Knockdown, Str21<br/>\n13 Fighter11<br/>\n14 Bard3<br/>\n15 Fighter12, Disarm, Improved Disarm<br/>\n16 Fighter13, Str22<br/>\n17 Pale Master1<br/>\n18 Pale Master2, Toughness<br/>\n19 Pale Master3<br/>\n20 Pale Master4, Str23<br/>\n21 Pale Master5, Overwhelming Crit<br/>\n22 Pale Master6<br/>\n23 Pale Master7<br/>\n24 Pale Master8, Great Str I, Str25<br/>\n25 Pale Master9<br/>\n26 Pale Master10<br/>\n27 Fighter14, Great Str II, Dev Crit<br/>\n28 Palemaster11, Str27<br/>\n19 Fighter15<br/>\n30 Fighter 16, Epic Weapon Focus, Epic Weapon Specialization<br/>\n31 Palemaster12<br/>\n32 Palemaster13, Epic Energy Resistance (Acid), Str 28<br/>\n33 Palemaster14, Great Str III<br/>\n34 Palemaster15<br/>\n35 Palemaster16, Epic Spell: Epic Warding<br/>\n36 Palemaster17, Great Str IV, Str31<br/>\n37 Palemaster18<br/>\n38 Palemaster19, Epic Spell: Epic Mage Armor<br/>\n39 Palemaster20, Epic Prowess<br/>\n40 Bard4, Str32<br/>\n<br/>\nCombat Vitals:<br/>\nAC: 38 (mundane plate)<br/>\nAB: 42/37/32/27 (Any weap keeping dev crit in mind, I picked greatsword.\u00a0 Man I wish falchions were in NWN1 &gt;____&gt;)<br/>\nHP: 452<br/>\nResistances: Acid, 10/-<br/>\nImmunities: All the Pale Master goodies i.e. immune to crit, paralysis, stun, holds<br/>\nFighty Abilities: DC41 Dev Crit, IKD, Improved Disarm, Improved Expertise, Power Attack<br/>\n<br/>\nSaves<br/>\nFort: 26 (37)<br/>\nWill: 21 (32)<br/>\nReflex: 19 (30)<br/>\n<br/>\nSkills:<br/>\nDiscipline: 43(54)<br/>\nSpellcraft: 43(45)<br/>\nTaunt: 43(42)<br/>\nTumble: 43<br/>\nUMD: 41(40)<br/>\n<br/>\nThe first 14 levels are more or less the same as Charnel Lord, with some feat order swapped around on account of personal preference.\u00a0 I wanted to minimize pre-epic PM levels to eke out more AB, and at the same time didn't want to take one too many fighter feats pre-epic.\u00a0 The order can probably be more optimized for playability.<br/>\n<br/>\nI'm not building with any particular environment in mind.\u00a0 Primarily PvM, but with all the combat abilities and defenses, only thing I see holding it back in pvp is the low AB.<br/>\n<br/>\nI believe I can trade in Great Strength III and IV for one more epic spell and a free feat (either armor skin or ESF: Discipline I think).\u00a0 That would bring AB down to 41 though and I dunno if any of the remaining spells are worth that tradeoff.<br/>\n<br/>\nI've also got a version that takes PM down even further, to Fighter20/Bard4/PM16, leaving just epic warding in exchange for more AB and feats.\u00a0 Might post it but I want to know if I'm on the right track first.\u00a0\u00a0<br/>\n<br/>\nI want to say I've done good here, but I can't help but feel that compared to Grizz's build that I started with, I've bartered away a lot of goodies for that extra bit of fightiness in the form of AB and fighter feats.\u00a0 I dunno, am I overvaluing' AB here?<br/>\n<br/>\nAgain, I hope I haven't inadvertently copied some build out there I missed.\u00a0 NWN been around so long that I find it hard to imagine there's something absolutely no one's tried before.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:31 AM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Non-melee rogue eh? Well, a Sorcerer with a pixie! <br/>\n<br/>\n\"runs away\"...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:31 AM - Jul 17, 2018",
+      "content": "<div>Welcome to the guild umbrellamonk, you might want to take a look at this.<br/>\n<br/>\nDeathkiss --&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/deathkiss-fighter-20-bard-4-pale-master-16-t515535.html#p216\" rel=\"noreferrer\" target=\"_blank\">deathkiss-fighter-20-bard-4-pale-master ... .html#p216</a></div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:28 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>alessiaccio wrote:</cite>\nThanks for the answer! I'm playing the original campaign of the original game, so no expansions, no prestige classes, no epic building (and no tumble).<br/>\nI thought the two classes pairs up nicely, but it seems i were wrong! :)<br/>\nSo what are some good builds for a non melee rogue? And what are the skills and the feats worth of attention in the original game?\n</div></blockquote>\nAh, so no Blind Fight, Expertise, Luck of Heroes, Curse Song or Lingering Song either...<br/>\n<br/>\nThe lack of those latter two would make me lean more towards Rogue than Bard. And if you want to play an elf and avoid an xp penalty, you might want to think about Wizard - a class about which I know nothing.<br/>\n<br/>\nI don't know if you've had the chance to read Hip's Original Campaign 2002 Revisited thread in the Modules forum, but it might be informative. Interestingly enough, when Hip himself did a playthrough he did it as a Wizard 16/ Rogue 2 (albeit as a gnome rather than an elf), with - guess what - a pixie familiar! He also relied heavily on trapping, which you may or may not fancy trying your hand at. I seem to recall playing it through as a Monk 16/ Rogue 2 human - as much as for all the free stuff Monk attracts as anything.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:36 AM - Jul 17, 2018",
+      "content": "<div>Wow...how did I miss that one.\u00a0 It never occured to me to try and cram the two epic spells into 16 levels of PM.\u00a0 Thanks!</div>"
     },
     {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "12:50 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks man!<br/>\nI played my last run with a rogue/wizard Elf. I like rogues very much, they're great fun for my tastes. But i have not played in a very optimized or competitive way, so i wanted to play a non thuggish rogue more intelligently for my next run.<br/>\nI am open to suggestions!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:09 AM - Jul 17, 2018",
+      "content": "<div>Sorry for the double post...I just ran that build.\u00a0 It's interesting, we kind of end up in the exact same place in terms of AC, strength, AB...everything.\u00a0 In place of 4 pre-epic save feats (strong soul, great fort, iron will, lightning reflexes) I got improved disarm and improved expertise.\u00a0 We also skilled up differently with the same number of points, but other than that I'm looking at the thing and the only difference at level 40 is Kail squeezed out 11 more hp!<br/>\n<br/>\nCourse, his also looks to be much more playable, especially from leveling from 20 onwards, but it's funny how these things can kind of converge XD</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:24 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hm, I seem to recall that Adam's Miller campaign only requires the base game without the expansions, it was in \"hall of fame\" for many years, about equal length with the OC and comes in a nice executable format, one-click away from playing it.<br/>\n<br/>\nAdam Miller's Campaign =&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/shadowlords-dreamcatcher-and-demon-campaigns\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... -campaigns</a><br/>\n<br/>\nNow for your rogue, I recommend a (rogue 16/ fighter 4) dexterity-based but with 14 starting strength so that you can carry lots of stuff and add some damage to your bow. Plenty of composite ones for taking...Add crippling strike, point blank shot, rapid shot, weapon specialization &amp; 8d6 worthy of sneak attacks along with some nice elemental arrows and you can punch holes in them in no time. Use darkness scrolls so you can deliver your sneaks easily and traps to soften up bosses. Because of the rule of four, this build will end up with 16 bab, letting you shred your opponents with as many as six shots per round. Persuade will lead you to better rewards throughout the game and listen will let you perceive what's happening behind walls.<br/>\n<br/>\nHave fun!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:36 AM - Jul 17, 2018",
+      "content": "<div>Here is how it may look if you can live without the epic spells. I like this better!\n<details><summary>Spoiler</summary>\nFighter(24), Bard(6), Pale Master(10), Human\nSTR: 18 (34)\nCON: 14\nINT: 14\n\n02: Fighter(2): Expertise\n04: Fighter(3): STR+1, (STR=19)\n06: Fighter(5): Blind Fight\n08: Bard(2): STR+1, (STR=20)\n10: Fighter(8): Improved Knockdown\n12: Fighter(10): STR+1, Lightning Reflexes, Improved Critical, (STR=21)\n14: Fighter(12): Disarm\n16: Fighter(14): STR+1, Improved Disarm, (STR=22)\n18: Bard(3): Great Cleave\n20: Pale Master(2): STR+1, (STR=23)\n22: Fighter(17)\n24: Fighter(19): STR+1, Great Strength I, (STR=25)\n26: Pale Master(3): {Darkvision}\n28: Pale Master(4): STR+1, (STR=27)\n30: Pale Master(6): Great Strength III, (STR=28)\n32: Bard(5): STR+1, (STR=29)\n34: Pale Master(9)\n36: Fighter(21): STR+1, Great Strength V, (STR=32)\n38: Fighter(23)\n40: Bard(6): STR+1, (STR=34)\nHitpoints: 474\nSaving Throw bonuses: Spells: +7\nAB (max, naked): 44 (melee), 29 (ranged)\n\nDiscipline 43(55), Listen 43(42), Perform 13(12), Spellcraft 33(35), Taunt 39(38), Tumble 40(40), UMD 16(15)\n</details></div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:35 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just spit-balling here, but what about something like a sneaky halfling Monk 11 or 12/ Rogue 6 or 7? Monk 12 gives you undispellable Spell Resistance of 22, whereas Rogue 7 gives you +1d6 sneak attack - so, your call as to what you'd prefer.<br/>\n<br/>\nYou could start with stats of STR 12, DEX 18 (rising to 22), CON 14, WIS 10, INT 14, CHA 8.<br/>\n<br/>\nFeat-wise, I'd be tempted to dual-wield kamas - even with the weapon size penalty for halflings - and take Dodge, Weapon Finesse, Weapon Focus (kama), 2-W Fighting, Ambidexterity, Imp 2-W Fighting, and Imp Critical (kama). Not necessarily in that order.<br/>\n<br/>\nMight it hold some interest?<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd by Valerfor again! Who makes an excellent suggestion<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "2:04 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks guys, two very interesting builds! ;)<br/>\nGreat stuff!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:17 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've been having a little think, and I wonder - with the build I posit above - whether it might even be worth going Monk 12/ Rogue 2/ Fighter 4? That would give an xp penalty, but would bring 3 bonus feats, one of which would be WS. It would mean you could also take Mobility, which might mitigate the loss of Tumble a little bit. The final one could be used for Exotic Weapons, where kukri rears its head, but you'd lose the Monk APR schedule, so probably isn't worth it. But it does leave some shuffle room. On the downside, your sneak attack would suffer, as would your number of skill points.<br/>\n<br/>\nJust musings...<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Sorry, meant to mention, it also bumps the BAB by +1, though it's left at a still less than radiant 14. That's where the Monk attack schedule tries to help. Valerfor tries to sneak a BAB of 16 into his idea, but it's a chimera (no offence meant, Valerfor), because we all know the OC ends at level 18, not 20, so that's also a 14 in reality (you know what I mean). Nonetheless, if you want a non-melee Rogue, it's still an excellent suggestion.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "10:07 PM - Jul 09, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I recommend that you get the full game, probably the new EE version from Beamdog. Both SoU and HotU are generally regarded as better than the OC, and they are required for most of the user-made content, much of which is also better then the OC. There is such a huge amount of excellent user-made content, with more still being made now, that it is a great bargain. It will keep you entertained for years. Also, if you ever want to play in a persistent world server (I never have), I doubt that there are any that don't require the expansions.<br/>\nI got the Platinum Edition when it was the latest version. It has both expansions and some premium modules, but not as many as Diamond Edition, so I don't know how to build for the OC only, without the other classes, feats, and skills.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "12:47 PM - Jul 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nI recommend that you get the full game, probably the new EE version from Beamdog. Both SoU and HotU are generally regarded as better than the OC, and they are required for most of the user-made content, much of which is also better then the OC. There is such a huge amount of excellent user-made content, with more still being made now, that it is a great bargain. It will keep you entertained for years. Also, if you ever want to play in a persistent world server (I never have), I doubt that there are any that don't require the expansions.<br/>\nI got the Platinum Edition when it was the latest version. It has both expansions and some premium modules, but not as many as Diamond Edition, so I don't know how to build for the OC only, without the other classes, feats, and skills.\n</div></blockquote>\nThanks for the advice man, i'll take it ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:14 PM - Jul 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Awesome! Then you will be able to take my earlier advice about what campaigns to play.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "8:56 PM - Jul 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">oh, and with all the expansions and the prestige classes available there is a good way to mix rogue and bard or it is in every case a bad multiclass option?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:38 PM - Jul 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The main reason to add a little bit of either Rogue or Bard is for Tumble. If you have a lot of one and a little bit of the other, that second one is not adding much. I could make a pretty good build with a medium amount of both.<br/>\nHow about a Dwarf Rogue 16 / Fighter 8 / Bard 16? (I chose Dwarf because Fighter is the favored class, so you would have no experience penalty as long as you keep Rogue and Bard even.<br/>\nAnother option would be a Human or Halfling Rogue 16 / Bard 16 / CoT 8. Actually, an Elf would be possible without experience penalty if you keep Rogue and Bard even. Using CoT instead of Fighter would cost you the Fighter 1 feat and you couldn't take Weapon Specialization and its epic follow-up.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:08 PM - Jul 10, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Champion of Torm is an amazing prestige class for something like that. It will give you more BAB and will boost your saving throws, while it also has a synergy with the \"charisma\" aspect of the Bards. For example (Bard 17/ Rogue 13/ CoT 10) will give you so much stuff, you won't know what to do with them. If you take human as your race, you will also have zero exp-penalty for that build. If you want to play something more sinister, then both Bard and Rogue synergize incredibly well with Blackguards too. Lot's of possibilities with the expansions added, literally hundreds of builds open to you.<br/>\n<br/>\nThat being said, the base game will still offer you a ton of gameplay hours and Adam Miller's campaign will still run on vanilla Neverwinter Nights.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:04 AM - Jul 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nChampion of Torm is an amazing prestige class for something like that. It will give you more BAB and will boost your saving throws, while it also has a synergy with the \"charisma\" aspect of the Bards. For example (Bard 17/ Rogue 13/ CoT 10) will give you so much stuff, you won't know what to do with them. If you take human as your race, you will also have zero exp-penalty for that build. \n</div></blockquote>\nAnd as a fan of the small folk, halfling also works well with that split - indeed might be seen as born to that role (I know, I know, you lose a feat and 43 skill points, but meh)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "12:50 AM - Jul 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rogue+Bard+CoT and Rogue+Bard+Blackguard are both very fascinating builds! In your opinions Rogue+Bard+Shadowdancer is too redundant on the same things? The fact is that i like supportive characters (persuade, open locks, traps, hide, that kind of things) more than the bashing-your-skull thing. But i don't want to bother all of you with bad bulds requests either! Feel free to tell me \"ehi, don't do it, it's just bad\" ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:26 AM - Jul 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It all really depends on how you want to play - and believe me, that will vary, sometimes wildly, once the game truly grabs you. And it will. You have the advantage of having played NwN in its initial incarnation, so can better grasp its fundamental mechanics, and so appreciate more what SoU/ HotU brings to the table - not so much in terms of storyline or adventuring, more what different classes, feats and skills can do for you.<br/>\n<br/>\nI'm only 3 and a half years in, and I hope I learn something every day here (gods, I can see the firing squad lining up). There are amazing people in this Guild - even the evil ones - who will never let you sink when you have a problem, or fail to cheer when you succeed.<br/>\n<br/>\nAs to your specifics: I haven't a clue, other than wondering about the amount of replication that might go on between Bard, Shadow Dancer and Rogue. Apart from anything else, your AB would take a bit of a kicking - a max BAB of 15 pre-epic, so fewer potential hits per round (you need a BAB of 16 before you get 4 attacks per round). The prestige classes (except I can't remember PDK) with full BAB are CoT/ WM/ DwD/ AA/ BG, and everything I've learned so far is that you've got to hit your enemy to make it die. Of course, there are magical means of getting your AB up, but I refer you to my first sentence.<br/>\n<br/>\nSo, how do you like to play?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:51 PM - Jul 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a build I made for you, but I just might play it myself. This build can find and disarm all traps, open all locks, and sing a Bard 16 song (the sweet spot) with no need for Perform-boosting gear. It should play fine in any of the campaigns I suggested, but if you play this in SoU, HotU, and Sands of Fate, choose short sword instead of rapier and get a certain talking longsword in early HotU to change to a short sword (rapier is not an option for him).\n<details><summary>Spoiler</summary>\nElf of All Trades (Rogue 16 / Bard 16 / Champion of Torm 8)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 16 (30)\nWIS: 8\nCHA: 14 (15)\nLeveling Guide:\n01: Rogue(1): Blind Fight\n03: Rogue(2): Weapon Finesse, {Evasion}\n05: Rogue(3): {Uncanny Dodge I}\n07: Rogue(4)\n09: Rogue(5): Knockdown\n11: Rogue(6)\n13: Champion of Torm(1)\n15: Rogue(7): Toughness\n17: Champion of Torm(4): Improved Critical: Rapier\n19: Rogue(8)\n21: Rogue(9): Epic Weapon Focus: Rapier\n23: Champion of Torm(5)\n25: Rogue(10): Improved Evasion\n27: Rogue(11): Great Dexterity II, (DEX=24)\n29: Champion of Torm(8): Armor Skin\n31: Rogue(12)\n33: Rogue(13): Epic Dodge, Defensive Roll\n35: Rogue(14)\n37: Rogue(15)\n39: Bard(16): Great Dexterity IV, (DEX=29)\n\nHitpoints: 352\nSaving Throws (Fortitude/Will/Reflex): 23/22/40\nBAB: 26\nAC (naked/mundane armor/shield only): 30/33\nAlignment Changes: 0\nSkills:\n\n02: Lore(1), Perform(4), Spellcraft(5), Tumble(1), UMD(1), Save(6)\n04: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n06: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n08: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n10: Spellcraft(2), Tumble(1), UMD(1), Save(8)\n12: Spellcraft(2), Tumble(1), UMD(1), Save(10)\n14: Spot(1), Save(15)\n16: Spot(1), Save(9)\n18: Spellcraft(6), Tumble(3), UMD(3), Save(6)\n20: Perform(3), Spellcraft(1), Tumble(1), UMD(1)\n22: Spellcraft(1), Tumble(1), UMD(1), Save(3)\n24: Spot(1), Save(8)\n26: Spellcraft(5), Tumble(1)\n28: Spot(1), Save(3)\n30: Perform(3), UMD(5), Save(4)\n32: Lore(1), Tumble(5)\n34: Perform(1), Tumble(1), UMD(4)\n36: Perform(4), Tumble(1), UMD(1)\n38: Perform(5), UMD(1)\n40: Disable Trap(3), Open Lock(3), Search(3), Spot(3), UMD(1)\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:56 PM - Jul 11, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, he's bloody good at this, isn't he, that Empyre fellow?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "alessiaccio",
-      "avatar": "10758936_1531050487.jpg",
-      "timestamp": "12:47 AM - Jul 12, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nHere is a build I made for you, but I just might play it myself. This build can find and disarm all traps, open all locks, and sing a Bard 16 song (the sweet spot) with no need for Perform-boosting gear. It should play fine in any of the campaigns I suggested, but if you play this in SoU, HotU, and Sands of Fate, choose short sword instead of rapier and get a certain talking longsword in early HotU to change to a short sword (rapier is not an option for him).\n<details><summary>Spoiler</summary>\nElf of All Trades (Rogue 16 / Bard 16 / Champion of Torm 8)\nPlayable 1 - 40, PvM\nAbilities:\nDEX: 16 (30)\nWIS: 8\nCHA: 14 (15)\nLeveling Guide:\n01: Rogue(1): Blind Fight\n03: Rogue(2): Weapon Finesse, {Evasion}\n05: Rogue(3): {Uncanny Dodge I}\n07: Rogue(4)\n09: Rogue(5): Knockdown\n11: Rogue(6)\n13: Champion of Torm(1)\n15: Rogue(7): Toughness\n17: Champion of Torm(4): Improved Critical: Rapier\n19: Rogue(8)\n21: Rogue(9): Epic Weapon Focus: Rapier\n23: Champion of Torm(5)\n25: Rogue(10): Improved Evasion\n27: Rogue(11): Great Dexterity II, (DEX=24)\n29: Champion of Torm(8): Armor Skin\n31: Rogue(12)\n33: Rogue(13): Epic Dodge, Defensive Roll\n35: Rogue(14)\n37: Rogue(15)\n39: Bard(16): Great Dexterity IV, (DEX=29)\n\nHitpoints: 352\nSaving Throws (Fortitude/Will/Reflex): 23/22/40\nBAB: 26\nAC (naked/mundane armor/shield only): 30/33\nAlignment Changes: 0\nSkills:\n\n02: Lore(1), Perform(4), Spellcraft(5), Tumble(1), UMD(1), Save(6)\n04: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n06: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n08: Perform(2), Spellcraft(2), Tumble(1), UMD(1), Save(6)\n10: Spellcraft(2), Tumble(1), UMD(1), Save(8)\n12: Spellcraft(2), Tumble(1), UMD(1), Save(10)\n14: Spot(1), Save(15)\n16: Spot(1), Save(9)\n18: Spellcraft(6), Tumble(3), UMD(3), Save(6)\n20: Perform(3), Spellcraft(1), Tumble(1), UMD(1)\n22: Spellcraft(1), Tumble(1), UMD(1), Save(3)\n24: Spot(1), Save(8)\n26: Spellcraft(5), Tumble(1)\n28: Spot(1), Save(3)\n30: Perform(3), UMD(5), Save(4)\n32: Lore(1), Tumble(5)\n34: Perform(1), Tumble(1), UMD(4)\n36: Perform(4), Tumble(1), UMD(1)\n38: Perform(5), UMD(1)\n40: Disable Trap(3), Open Lock(3), Search(3), Spot(3), UMD(1)\n</details>\n</div></blockquote>\nMan, that was freaking amazing!<br/>\nIt seems fun as hell! Thank you for the effort! ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "umbrellamonk",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:09 PM - Jul 17, 2018",
+      "content": "<div>Nice, it's kind of a sliding scale of defensive tools with more PM levels versus more solid combat vitals with more fighter levels.\u00a0 Now, if I wanted to cram ESF: Discipline in there, what's the most painless feat to replace?\u00a0 I'm thinking either EWS or Armor Skin.</div>"
     }
   ]
 }

@@ -4,71 +4,43 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "305",
-  "name": "Paladin Barbarian DD challenge",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/paladin-barbarian-dd-challenge-t2354270.html",
-  "author": "KidMiracleman",
-  "avatar": "10235222_1510287070.jpg",
-  "replies": 9,
+  "name": "Request for Sorcerer help (Arelith)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/request-for-sorcerer-help-arelith-t2354277.html",
+  "author": "Hafen",
+  "avatar": "no_avatar.png",
+  "replies": "4",
+  "views": "1.6K",
   "posts": [
     {
-      "author": "KidMiracleman",
+      "author": "Hafen",
       "avatar": "no_avatar.png",
-      "timestamp": "11:12 AM - Jul 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I am looking for a nice Paladin Barbarian Dwarven Defender build<br/>\n<br/>\n Thank you<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:42 PM - Jul 18, 2014",
+      "content": "<div>This is supposed to be a PVP character, level cap is 30rd, race drow (basic elf race with/without drow subrace gifts). Our faction consistes from 90% of meleers and all enemies rely purely on their arcane spellcasters.<br/>\n<br/>\n I want to keep it low ECL, so i post ECLs i wanna to choose from - availeble gifts: drow subrace (adds +2 char +2 int 32 SR for 2ECL), mark of humilty (-2ECL, but - 2 to all abilities)<br/>\n<br/>\n For multiclassing the basic rule of Arelith - 3 followings lvls in each class must be taken when multiclassing.<br/>\n<br/>\n From role play reasons i dont wish to employ Pale Master, i am not wishing to role play out being undead/partial undead.<br/>\n<br/>\n Cheers.<br/>\n<br/>\n<br/>\n \u00a0</div>"
     },
     {
-      "author": "Dante2377",
+      "author": "MrZork",
       "avatar": "no_avatar.png",
-      "timestamp": "1:55 PM - Jul 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">uhhh....what sort of world, what's most important in the build, mostly party or solo, what are you looking to get out of DD (e.g. lots of DR, some DR, just 5 levels for sneak immunity while you have action on the stack, etc).  You're going to be stretched for stats if you try to \"do it all\" as you'll need your attack stat, CON for rage and possibly EDR, and wisdom 14 to get full Paladin spell use (that's not even counting attempting to use CHA for Divine feats since dwarves get a penalty there) and it also means you'll be limited in skill points since you're not human, wont have a lot of stats to go around, and assuming you want more Paladin and DD than Barbarian that's a lot of 2pt/level class levels.  Also, I'd assume that alignment shifts aren't a problem since you have 2 classes that require lawful and 1 that can't be lawful.<br/>\n<br/>\n you basically showed up to a car dealer and said \"please build me a car\" without giving any criteria...try to narrow it down a bit.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:51 PM - Jul 18, 2014",
+      "content": "<div>Just curious because I am not very familiar with the Arelith system: Why bother with both the drow subrace and the humility gifts? Is it just for role-play purposes? Humility nerfs all of the advantages of the drow subrace except for 32 SR and darkness 1/day, which seems like a poor trade for no net gain in INT, CHA, or DEX, and -2 STR, -2 WIS, and -4 CON. Meanwhile, the evil-only alignment restrictions preclude taking paladin for the saving throw bonuses and possible divine shield.<br/>\n<br/>\n Obviously, if you mean that you might create a drow sorcerer without the humility \"gift\" (or even the drow subrace gift), then that may work out fine. Having +2 CHA and INT could be a nice edge for this build (especially as sorcerers are often skill starved). I would definitely not take humility. If level advancement with +2 ECL will be too slow, then drop the drow subrace gift, but that would depend on how quickly you need the toon to advance.</div>"
+    },
+    {
+      "author": "Hafen",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:46 PM - Jul 18, 2014",
+      "content": "<div>The original thougt was that subrace offers sr which renders me ost immuneto scrolls and wands. Qlso bpnus to charisma and int would counter the penalty from humility.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:30 PM - Jul 18, 2014",
+      "content": "<div>You would still have -2 on your STR, DEX, CON, and WIS. That's <strong>huge</strong>. You are better off with the ECL from Drow, or taking no gift at all.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "HipMaestro",
       "avatar": "10235222_1510287070.jpg",
-      "timestamp": "1:55 PM - Jul 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Level 40? Low- or mid- or high-magic environment? DevCrit? Dual-wield? \u00a0Smiter? \u00a0Please be more specific.<br/>\n<br/>\n Also, I am assuming the server provides an alignment manager since you will likely be toggling back and forth on the law-chaos axis during the build progression. \u00a0Is that what you want?\u00a0<br/>\n<br/>\n<em>edit: \u00a0I see Dante ninja'd similar sentiments. \u00a0This is not a place-your-order and sit back venue unfortunately. It's where players come to learn how to build toons.</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:41 PM - Jul 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am just looking for enough Paladin levels for the fear immunity.  I want as much damage reduction as possible.  The server is tornado of souls<br/>\n it has a place where you can change alignment.  I was thinking 14 DD 24 Barbarian and 2 paladin<br/>\n<br/>\n Thank you<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "12:01 AM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Brb8/Dwd30/Pal2 (your split is much lower DR; this split is 21/-)<br/>\n Str17(32), Dex13, Con16, Wis8, Int14, Cha6<br/>\n Brb1, Pal 2-3, Brb 4-7, Dwd 8-17, Brb 18-20 // Dwd 21-<strong>4</strong>0 (can swap around pre-epic a bit if you want to reduce number of shifts)<br/>\n After level 5 there will be a constant -10% XP penalty to deal with, if that matters.<br/>\n<br/>\n Pre-epic feats: WF, dodge, toughness, Imp Crit, Power attack, cleave, grt cleave (blind fight is epic, unfortunately)<br/>\n Epic feats:\u00a0EWF, 5xGrt Str, OverCrit, DevCrit, Amor skin, Prowess, Blind Fight + one more bonus feat of choice\u00a0<br/>\n<br/>\n There's enough skill points to max Discipline, Spellcraft18(20), Tumble 20(21) with 75 to use as needed. \u00a0You can max Conc if you expect to get taunted regularly.<br/>\n DevCrit DC = 10 + 20 + 11 + 2 raging = 43 (base without equipment boosts to STR). Base HP around 630 or so with AB of 45 (710HP AB47 raging).<br/>\n<br/>\n Rage will be 3x/day for 1 turn each use.<br/>\n<br/>\n I'll leave you to figure saves and damage but I suggest either rapier or scimi as WoC for the most crit opps. \u00a0Vs. uber AC foes, you may want a higher base damage weapon if you so choose but with DevCrit you just want to stand there taking damage and swinging as often as possible waiting to crit.<br/>\n<br/>\n If this isn't what you are looking for you are going to need to document the most significant idiosyncrasies of your server or your own preferences in more detail. Without being participants on your server (at least I have never played there), the guild members are all pretty much in the dark as to what this build needs to do.<br/>\n<br/>\n<em>edit: oops, corrected typo\u00a0&amp; furnished some more raging stats</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:21 AM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That is exactly what I am looking for.  The subrace I use give you blind fight for free so that is not a problem.<br/>\n<br/>\n Thank you<br/>\n<br/>\n David<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:51 AM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I forgot to mention that DevCrit has been disabled.  Not sure if that makes a difference<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "4:10 AM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>I forgot to mention that DevCrit has been disabled. Not sure if that makes a difference</div></blockquote>\n<div align=\"left\">Naturally. \u00a0The build I furnished is one that will not be effective without DevCrit working. \u00a0Without it, crits are not an end-all like with killing blows, they just create more damage. \u00a0DevCrit DC means nothing now.<br/>\n<br/>\n There are several options without going the DevCrit route. \u00a0You also didn't mention whether this was intended for PvM or PvP so I'll assume PvP for now.<br/>\n<br/>\n I'd keep Power Attack but lose Cleave/Grt Cleave which are only useful in PvM and mainly when being flanked. Imp PA is needed instead. \u00a0You'll need to try to create as much damage as possible. \u00a0When you begin to face AC's beyond your capacity to hit them regularly (probably in the 65+ range), that's when to queue IPA mode. \u00a0Make that 5% count as much as possible. \u00a0If you find that your DR and HP soak are working well with a shield, you can explore chancing a 2-hand weapon like scythe that does x4 on crits. \u00a0But you'd need to refocus to take advantage, of course. \u00a0There should be room for Exotic proficiency if needed. Since you don't need BF at all, there's a spare feat pre-epic and another in epic. \u00a0In pre-epic, perhaps KD (or Exotic Prof as mentioned). \u00a0Mobility really does not get used with the way a DwD fights but is handy if you are displacing while in combat. It's a matter of combat style.<br/>\n<br/>\n Without OverCrit/DevCrit in epic, there's room for two more Grt Str (total of 7x). \u00a0Take them for extra damage &amp; AB (i.e. Str 17(34) ). \u00a0There are only 3 really useful bonus feats, Prowess, AS &amp; EWF. \u00a0I guess 2x Epic Toughness for the two others else 20/- for some energy resistance help (it stacks with other non-feat sources). \u00a0Your choice.<br/>\n<br/>\n Anyhoo...<br/>\n<br/>\n Get in the habit of explaining in detail what you want in your request. \u00a0Include every possible factor that could affect how the toon will interact with the environment and/or \u00a0circumstance. Many guild members will not bother to reply to poorly-defined requests. \u00a0Believe it or not, we are all pressured by RL responsibilities, yet try to fit in a few moments to furnish some helpful advice when we can. \u00a0Please help make those moments efficient ones. \u00a0Thanks. \u00a0And good luck!</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KidMiracleman",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:52 PM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will try to  Most of the time I do not think of things until somebody asks about them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "11:23 PM - Jul 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>KidMiracleman wrote:</strong><hr/>I will try to Most of the time I do not think of things until somebody asks about them.</div></blockquote>\n<div align=\"left\">That gets old really fast. If ToS doesn't have a website for NWN gaming, you'll need to extract them yourself while on the server (unless an admin is gracious enough to email a copy of the rules to you). \u00a0There's really no need for you to keep them all in your head. \u00a0Just document them so the guild members can spend their time building for you rather than asking questions, please.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:20 AM - Jul 19, 2014",
+      "content": "<div>I agree with the the others that the gift appears to be more a curse than a gift and would decline it unless there is some RP reason to penalize your toon.<br/>\n<br/>\n The most obvious multiclass for synergy would be to go LG with 4 levels of pally... nothing innovative naturally, but you'll get great saves, an AC bonus from Div Shield that will stack with EMA and if you decide to melee using a polymorph (eg. tenser's or FE golem), you can select Div Might (along w/DS), castable while polymorphed. \u00a0<br/>\n<br/>\n With high CHA, the benefits will be significant and still will be able to avoid dispels other than Mords with 26 levels of sorc (even a pure Sorc 30 can be dispelled by Mords anyway). \u00a0Pretty much run-of-the-mill exploit for a CHA build. Actually, you could even add 3 levels of a tertiary dump class (perhaps one idea might be to grab monk progression for use with polymorphs using creature weapons and a late tumble dump plus some handy \"monkish\" feats) since Sorc 23 should still be able to grab a few epic spells (though I haven't actually sketched it out myself yet).</div>"
     }
   ]
 }

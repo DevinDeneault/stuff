@@ -8,37 +8,38 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/karairyu-s-hands-install-issues-t2354923.html",
   "author": "eltalstro",
   "avatar": "10758878_1582351977.jpg",
-  "replies": 4,
+  "replies": "4",
+  "views": "285",
   "posts": [
     {
       "author": "eltalstro",
       "avatar": "10758878_1582351977.jpg",
       "timestamp": "1:17 AM - Jul 13, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I've been reinstalling overrides and haks\u00a0after reinstalling my game recently but I can't for the life of me get the hands to work again. I downloaded from here: <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/combined/kurairyus-hands-cep-version\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ep-version</a> and put the overrides in the override folder and the haks in the hak\u00a0folder. Any tips from others who've used this? Also is Issig's\u00a0any better or easier to install. Wish there was a readme. Any help would be appreciated.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I've been reinstalling overrides and haks\u00a0after reinstalling my game recently but I can't for the life of me get the hands to work again. I downloaded from here: <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/combined/kurairyus-hands-cep-version\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ep-version</a> and put the overrides in the override folder and the haks in the hak\u00a0folder. Any tips from others who've used this? Also is Issig's\u00a0any better or easier to install. Wish there was a readme. Any help would be appreciated.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
       "timestamp": "9:20 PM - Jul 14, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Maybe a driver issue? The last Nvidia drivers made the cloaks not visible in mine. <br/>\n<br/>\nAnyway, I'm always using the \"detailed hands\" since day 1, never had problems with them, but the thing is that after I complete my setup for Neverwinter Nights I forget what version of which component I installed (there are many things I change) but I keep a backup of a working override for such purposes. I even managed to get coloured cloaks in \"lord of terror\" as well. Seems either the original or the \"Issig hands\" are the ones that you should be using though, Lilura is using them as well. <br/>\n<br/>\nIssig Hands --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/issig-hands-phenos\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... nds-phenos</a><br/>\nKurairyu's Hands --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/model/kurairyus-hands\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ryus-hands</a><br/>\n<br/>\nAnd just to see how much better Neverwinter Nights can look, here is one big package, all-in-one solution that has almost everything. That is also very useful because it contains working links to all the individual components that are used in the package, so you can select the ones you want yourself if you want to do this manually. Keep a backup of your override somewhere else if you want to revert back though.<br/>\n<br/>\nGrand Override Compilation of Ages --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/combined/grand-override-compilation-ages\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ation-ages</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Maybe a driver issue? The last Nvidia drivers made the cloaks not visible in mine. <br/>\n<br/>\nAnyway, I'm always using the \"detailed hands\" since day 1, never had problems with them, but the thing is that after I complete my setup for Neverwinter Nights I forget what version of which component I installed (there are many things I change) but I keep a backup of a working override for such purposes. I even managed to get coloured cloaks in \"lord of terror\" as well. Seems either the original or the \"Issig hands\" are the ones that you should be using though, Lilura is using them as well. <br/>\n<br/>\nIssig Hands --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/issig-hands-phenos\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... nds-phenos</a><br/>\nKurairyu's Hands --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/model/kurairyus-hands\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ryus-hands</a><br/>\n<br/>\nAnd just to see how much better Neverwinter Nights can look, here is one big package, all-in-one solution that has almost everything. That is also very useful because it contains working links to all the individual components that are used in the package, so you can select the ones you want yourself if you want to do this manually. Keep a backup of your override somewhere else if you want to revert back though.<br/>\n<br/>\nGrand Override Compilation of Ages --&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/hakpak/combined/grand-override-compilation-ages\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ation-ages</a></div>"
     },
     {
       "author": "eltalstro",
       "avatar": "10758878_1582351977.jpg",
       "timestamp": "4:14 AM - Jul 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Valerfor. I was a bit deflated when Lord of Terror wouldn't let me use the character customiser but have been enjoying the module a lot all the same. I'm going to give this GOCoA a try. Do you just extract everything to the override folder?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Thanks, Valerfor. I was a bit deflated when Lord of Terror wouldn't let me use the character customiser but have been enjoying the module a lot all the same. I'm going to give this GOCoA a try. Do you just extract everything to the override folder?</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
       "timestamp": "5:49 AM - Jul 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You just extract the file somewhere and it will produce two folders, one is \"tlk\", the other \"override\" after that is a matter of copy &amp; paste to their respective folders (the files inside the folders, not the folders themselves) and you're done! The GUI is really nice as is Aribeth's picture on the starting screen ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>You just extract the file somewhere and it will produce two folders, one is \"tlk\", the other \"override\" after that is a matter of copy &amp; paste to their respective folders (the files inside the folders, not the folders themselves) and you're done! The GUI is really nice as is Aribeth's picture on the starting screen ;)</div>"
     },
     {
       "author": "eltalstro",
       "avatar": "10758878_1582351977.jpg",
       "timestamp": "4:36 PM - Jul 15, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow! Mission accomplished. There is some amazing stuff in there. Having it all compiled makes things very convenient. There are a few things I don't like or that may take some getting used to (town interiors, weird looking spell scrolls) but they are far outweighed by the amazeballs stuff like the outdoor environments and the FRICKEN WEREWOLVES! And I got my non-fists of doom hands too! Thanks a heap for the tip!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Wow! Mission accomplished. There is some amazing stuff in there. Having it all compiled makes things very convenient. There are a few things I don't like or that may take some getting used to (town interiors, weird looking spell scrolls) but they are far outweighed by the amazeballs stuff like the outdoor environments and the FRICKEN WEREWOLVES! And I got my non-fists of doom hands too! Thanks a heap for the tip!</div>"
     }
   ]
 }

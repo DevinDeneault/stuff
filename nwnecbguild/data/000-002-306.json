@@ -4,29 +4,60 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "306",
-  "name": "Either a bug or in need of clarification: Zen & Wisdom",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/either-a-bug-or-in-need-of-clarification-zen-wisdo-t515361.html",
-  "author": "HipMaestro",
-  "avatar": "10235222_1510287070.jpg",
-  "replies": 2,
+  "name": "Are the pre-epic builds archived?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/are-the-pre-epic-builds-archived-t515366.html",
+  "author": "butterflypinkdye",
+  "avatar": "no_avatar.png",
+  "replies": "7",
+  "views": "787",
   "posts": [
     {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "12:33 AM - Jul 15, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I'm trying to build a zen archer but have come upon a stumbling block.<br/>\n<br/>\nWhen I buff the archer with Owl's Wisdom, the modifier increases just fine to either +1 or +2 additional, but the attack bonus doesn't change.  Yet if I equip either a +2 or +4 Wis ammy, the AB bumps up as would be expected.<br/>\n<br/>\nSo what's the deal here?  Is this yet another burp on the character sheet or does zen archery treat temporary wisdom increases differently than permanent ones?  I know from experience that when I buff with Cat's Grace on a standard dexer archer, the AB changes as it should. Confusing.<br/>\n<br/>\nTemporary inconvenience, permanent improvement (I hope!).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "butterflypinkdye",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:50 AM - Jul 19, 2011",
+      "content": "<div>I've been glancing over some various servers that I'm interested in joining and most of them happen to max out levels at mid-epic character levels. I wanted to get a few ideas for fun, interesting, and most importantly, effective character builds that don't include trying to cheese my way through explaining another Bard/Fighter/RDD.<br/>\n<br/>\nIf these aren't archived, anyone have an idea to toss my way?</div>"
     },
     {
       "author": "HipMaestro",
       "avatar": "10235222_1510287070.jpg",
-      "timestamp": "4:16 AM - Jul 15, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No worries.<br/>\n<br/>\nJust checked it with combat debugging and the Wisdom bump is being calculated properly.  So here is another gliche on the character sheet to be aware of.<br/>\n<br/>\nBack to the task at hand.  Thanks for stopping by to read my ravings.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:23 AM - Jul 19, 2011",
+      "content": "<div>Others may have more accurate information but I am pretty certain all the pre-epic builds from the legacy ECB are lost forever because they were never ported to WoG (unless The_Krit is stashing them in his back pocket somewhere).  Actually, all those builds were really just adjuncts of pre-epic  &amp; mid-epic requests tacked onto the ECB main guild.  I do know that there was never any search engine for those genres so was just a huge list that had to be visually scrolled to find what you were interested in (and hopefully, the title was descriptive enough to make it an time-economical venture).<br/>\n<br/>\nWhat IS of interest to me though is whether these new non-lvl 40 ECB builds will be able to be perused with The_Krit's ECB search engine.  At least that will give full access to locating such builds from this point forward.  Not that TK needs anything else laid on his plate, though. <br/>\n<br/>\nThis place seems a good place to start compiling them so why not get the ball rolling and post the requests of those which interest you?</div>"
     },
     {
       "author": "KailPendragon",
       "avatar": "10235214_1540245864.jpg",
-      "timestamp": "8:46 PM - Jul 15, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Interesting, I never noticed this glitch. One more reason not to look at the character sheet, ah!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:18 PM - Jul 19, 2011",
+      "content": "<div>To the best of my knowledge the Pre Epic Character Builder Guild (the guild were lvl 20 and lvl 30 builds were being published) was never archived at all. I am planning to repost here my handful of lvl 20/30 builds and I do invite anyone to post their own builds in order to make these boards richer for the benefit of all.<br/>\n<br/>\nThe Pre Epic Character Builder Guild was not a huge archive by a long shot, I guess we can easily enough \"rebuild\" its content here with a little effort. And we can also hope for the Legacy fora and guilds to be back, eventually.</div>"
+    },
+    {
+      "author": "grom",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:18 AM - Jul 23, 2011",
+      "content": "<div>This may be a silly question....   But wouldn't \"Pre-Epic\" builds be 1st through 20th?   I thought Epic came at 20th or 21st level.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:42 PM - Jul 24, 2011",
+      "content": "<div>And I have to correct myself. The Pre-epic Character Builds guild has been archived by the almighty The_Krit <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Other.Detail&amp;id=1468\" rel=\"noreferrer\" target=\"_blank\">here</a> at the vault. Download and enjoy. Link added in the <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=21&amp;t=8\" rel=\"noreferrer\" target=\"_blank\">Tools of the builder</a> thread.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "10:44 PM - Jul 24, 2011",
+      "content": "<div><blockquote><div><strong>grom wrote:</strong>This may be a silly question....   But wouldn't \"Pre-Epic\" builds be 1st through 20th?   I thought Epic came at 20th or 21st level.</div></blockquote>Aye, but since the ECB guild handled only lvl 40 builds the Pre-epic Character Builds Guild incorporated the lvl 21-30 ones too, despite the guild's name. One of the reasons a different guild was needed was the limit of available forum boards a guild could have at the BW legacy forums.</div>"
+    },
+    {
+      "author": "grom",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:18 AM - Jul 26, 2011",
+      "content": "<div>Ah..  I see, thanks for the info Kail...   Here...  have a mug of the good stuff... On GDL's tab, of course!</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "3:53 AM - Jul 26, 2011",
+      "content": "<div><blockquote><div><strong>KailPendragon wrote:</strong>And I have to correct myself. The Pre-epic Character Builds guild has been archived by the almighty The_Krit <a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Other.Detail&amp;id=1468\" rel=\"noreferrer\" target=\"_blank\">here</a> at the vault. Download and enjoy. Link added in the <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=21&amp;t=8\" rel=\"noreferrer\" target=\"_blank\">Tools of the builder</a> thread.</div></blockquote>\nThat TK is a maniac!  I even found my one-and-only build right there where it is supposed to be.  TK should light some flares when he does this stuff.   It would have saved me an hour digging through my papers looking for it when the legacy boards went *poof*. Gotta luv it!   Thanks for the alert, Kail!</div>"
     }
   ]
 }

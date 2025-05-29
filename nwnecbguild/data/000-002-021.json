@@ -4,47 +4,95 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "021",
-  "name": "HiPS mechanics questions",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/hips-mechanics-questions-t2356236.html",
-  "author": "TheSquid",
-  "avatar": "10759318_1592552655.jpg",
-  "replies": 5,
+  "name": "How to enter combat without causing an Attack of Opportunity",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-to-enter-combat-without-causing-an-attack-of-o-t2356238.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "12",
+  "views": "388",
   "posts": [
     {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "5:36 PM - May 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello, I have some doubts about Hide in Plain Sight (HiPS).<br/>\nI understand that if A is casting a targeted spell at B and B enters stealth mode with HiPS, then A stops casting the spell. A PC can \"dodge\" magical attacks in this way. I think this works exactly the same as when one breaks line of sight by e.g. hiding behind a corner.<br/>\n<br/>\n1. What if A has very high detection scores and can see B at the first check? I imagine this does not matter, as the check will not happen instantaneously. I welcome confirmation of this.<br/>\n2. What if, in addition, A has Keen Senses?<br/>\n2b. Is there a difference between Listen and Spot here? I think in some cases one cannot directly target a character who is only heard, right?<br/>\n3. What if A has (vanilla) True Seeing? I suspect the trick does not work at all in this case, but again I welcome the experts' take.\u00a0<br/>\n<br/>\nMany thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:00 AM - Jun 04, 2024",
+      "content": "<div>Does anyone know how to enter combat with an opponent without causing an AoO with NWN:EE with the current patch?<br/>\n<br/>\nNot only do I find this to be extremely difficult atm, but also, I notice that the first attack(s) seem to have bonuses to hit!<br/>\n<br/>\nThis is frustrating.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:05 AM - Jun 05, 2024",
+      "content": "<div>Walk instead of running?\u00a0 Wait for them to approach you, drawing AoO from you?\u00a0\u00a0 I'm just brainstorming ideas, not spouting facts.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:56 AM - Jun 05, 2024",
+      "content": "<div>Here's a pic of what I mean :</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:59 AM - Jun 05, 2024",
+      "content": "<div>If you examine the above, you will see a few things :<br/>\n<br/>\nThe roll for initiative (of which I have a 30).<br/>\n<br/>\nThese Bugbears do not have a Dex bonus, so they add nothing to Initiative.\u00a0 Even with a nat 20, they can't beat my 30, so why are their flurries going before mine??<br/>\n<br/>\nIn this case, the PC has a high enough tumble to avoid the AoO from entering combat, but it still does not explain how this whole combat thing works.\u00a0 The bugbears were not in combat before I attacked them (that I am aware of).</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:47 PM - May 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a link to the <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Hide_in_plain_sight\" rel=\"noreferrer\" target=\"_blank\">talk page</a> of the HIPS topic in the NWNWiki.<br/>\nThere, some of your questions are discussed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "11:30 PM - May 30, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks. I remembered to check the wiki but not the talk page. Only question 3 remains open I guess (I can't find an answer in the page at least), but TheKrit's answer suggests that True Seeing will allow the caster to keep sight on you and therefore not interrupt the spell.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:23 PM - Jun 05, 2024",
+      "content": "<div>I haven't studied your screenshot in detail, Web, but the whole issue reminds me of an old bug (at least in vanilla NWN) where NPCs were always able to have a first attack, even if you won the initiative check and darted off immediately before they should be able to react, EG if playing with a stalker HIPS assassin.<br/>\nI found that using RANGED attacks solved it.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:34 PM - Jun 03, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nope.<br/>\n<br/>\nVanilla TS will still not stop the Action Queue from being emptied - but it does mean that the target will be immediately acquired again, afterwards. This will seem like in melee that it is not interrupted (the Combat AI is far, far quicker than a Human is) but for spells, it will disrupt the casting - note that this does require that one use advanced HiPS spamming techniques, however.<br/>\n<br/>\nAdvanced HiPS spamming : you put Attack (the Sword Icon on the radial) and HiPS adjacent on the Quickbar, and using the corresponding F keys, you toggle between them (if in combat, otherwise, just toggle the HiPS button when against a vanilla TS opponent who is spellcasting). This will cause the Action Queue of your opponents to empty (though if they have vanilla TS, they will immediately re-acquire you as a target).\u00a0 By doing this, you can disrupt enemy spellcasters with vanilla TS from casting spells at you.<br/>\n<br/>\nOh, you need to have the cursor on the enemy in question (nearby, preferrably) so that you can go back to \"attacking\" so that you can complete the cycle.\u00a0 Attack [break Attack], HiPS, Attack [hit Attack again], HiPS, rinse, repeat.\u00a0 Just tap the Attack with one finger of the left hand, for example, then HiPS with the other, and continue again with the other finger in cadence - dum dum dum.<br/>\n<br/>\nI myself as a caster have had this happen many, many times (in an environment where vanilla TS is available and no cooldown for HiPS exists for enemies).\u00a0 It was impossible to target with a spell without it getting disrupted.\u00a0 What one can do is target the area NEAR the enemy in question.<br/>\n<br/>\nIt's one of the main reasons why there is often a cooldown timer put on HiPS in online environments - even vanilla TS will not prevent the Action Queue emptying.<br/>\n<br/>\nOn WoG, for example, we have a cooldown timer for HiPS (for both Players and Opponents).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "4:43 PM - Jun 03, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, that is very interesting. Now i kinda want to try it vs one of WoG's Big Bad True Seeing endgame enemies.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:31 AM - Jun 06, 2024",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote: <div class=\"responsive-hide\">Jun 05, 2024</div></cite>Walk instead of running?\u00a0 Wait for them to approach you, drawing AoO from you?\u00a0\u00a0 I'm just brainstorming ideas, not spouting facts.</div></blockquote>\nI do know you are providing feedback, and I am thankful for that, but I tried doing these both.\u00a0 What happens most of the time is that the opponents have \"reach\" - meaning they can start combat <em>BEFORE </em>I get into weapon range.\u00a0 Meaning that if I try to initiate combat beforehand, AoOs, and in the pic below, despite winning initiative, getting flurries of attacks against me beforehand.</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:50 PM - Jun 03, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It works kind of ok, but you have to keep in mind that on WoG, you have the cooldown timer (important to keep in mind here).<br/>\n<br/>\nThough you can still clear the queue by using it, it will \"fail\" (HiPS) until the timer expires, meaning you will get pummeled if you mess up the rhythm (because you are usually surrounded by enemies).\u00a0 It is not wise to drop out of combat in the middle of a bunch of high level baddies doing their best to reduce you to a pulp with prejudice...<br/>\n<br/>\nHad this experience against Trok&amp;Co (Stone giant boss) with one of my HiPSer PCs once.<br/>\n<br/>\nOtherwise, it works quite well...just don't mess up (and saying that to a human is like...yeah.\u00a0 You know you are going to).<br/>\n<br/>\nHowever, I have found that if you combine this with high AC, Epic Dodge, and 50% Concealment, you normally do quite well...hey, I wonder if my Deadly Nightshade build does this...(yes, that is tongue in cheek and a shameless plug, all in one!) - of course, she never gets targeted by spells unless the enemies are absolutely desperate (which, come to think of it, they usually are! :D )<br/>\n<br/>\nOops, I did it again! O_o<br/>\n<br/>\nI wish that we had the ability to post videos - you would think in this day and age that it should be possible, considering that TikTok&amp;Co do it all the time!\u00a0 A video showing this would be worth a thousand words typed in this format imo.<br/>\n<br/>\nYeah, we are old and using ancient technology!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:36 AM - Jun 06, 2024",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Jun 05, 2024</div></cite>I haven't studied your screenshot in detail, Web, but the whole issue reminds me of an old bug (at least in vanilla NWN) where NPCs were always able to have a first attack, even if you won the initiative check and darted off immediately before they should be able to react, EG if playing with a stalker HIPS assassin.<br/>\nI found that using RANGED attacks solved it.</div></blockquote>\nWell, that is of course interesting, and ranged does \"solve\" the question of attacking first against melee opponents (which, of course, is a no-brainer), but it really doesn't answer the question here.\u00a0 How does one enter melee combat without causing AoO (and is not stealthed, etc)?\u00a0 It looks to me, more and more, that this is almost impossible to accomplish.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:00 AM - Jun 06, 2024",
+      "content": "<div>Here's what the wiki has to say: <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Attack_of_opportunity\" rel=\"noreferrer\" target=\"_blank\">Attack of Opportunity</a>.<br/>\n<br/>\nI'm sure this is something you know already, Web, but others may not. Btw, going through the \"Talk\" page isn't that helpful as it only deals with spells and innate special abilities (such as Shifter ones). It rather loses me when the .2da stuff gets discussed, but maybe that has something to do with it?<br/>\n<br/>\nOr it could be yet another example of the AI being quicker than a player's reactions...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:27 PM - Jun 09, 2024",
+      "content": "<div>I don't believe that these are actually Attacks of Opportunity. I think the engine would identify them as such in the combat log. I've had a problem with initiative for a long time, it's never worked without an issue for me. I think this is just some hidden mechanic, perhaps related to weapon reach, that is hard to mitigate. I remember being perturbed about this on a permadeath modern zombie survival server.<br/>\n<br/>\nI'd suggest maybe trying with a longer weapon and seeing if that helps the issue. I'd check myself but I'm not actively playing now, trying to finish Elden Ring before the DLC drops.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:43 PM - Jun 09, 2024",
+      "content": "<div>I've tried every weapon type on WoG (which is all I have access to for testing) and the opponents of medium or bigger always go first. From Greatsword, to Halberd, to TH Spear, nothing has longer reach than a critwall buggy with either a Greataxe or a Katana, apparently.\u00a0 Luckily, the Greataxe users will suck down a potion of barkskin, often giving you the advantage, but if they notice your \"aggro\" beforehand, they will drink the potion as you are out of range.\u00a0 I've done Greataxe vs Greataxe, Katana vs Katana, and everything else inbetween, but nothing actually makes any difference.<br/>\n<br/>\nI do think it is a matter of reach - the \"reach\" of the opponents is just longer (unless they are small vs our medium).\u00a0 The AI reacts quicker, of course, and you can see this when they rush you, stop right outside of your reach, and attack...which goes first.<br/>\n<br/>\nThe AoO is when you go into combat against them (meaning you move to engage after you have clicked the weapon pointer on them, activating attack).\u00a0 Unless you have a way to mitigate it, such will cause AoO.\u00a0 Walking into combat will keep this from happening, but then, they will attack you first, again.<br/>\n<br/>\nAnyway, I just want to thank everyone for their replies, insights, and posts.\u00a0 I guess this is just a NWN Engine thing that is inherent to it.\u00a0 I just wish I coild find a way around it.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:50 PM - Jun 09, 2024",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Jun 09, 2024</div></cite> I guess this is just a NWN Engine thing that is inherent to it.\u00a0 I just wish I coild find a way around it.</div></blockquote>\nI'm not sure about this - if you go look at some of the 'way-back-when' builds from the WoG archives (I confess, I'm particularly thinking of the Grizzled One's <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build215900.html\" rel=\"noreferrer\" target=\"_blank\">Hearth Guard</a>, which is a build I love, and he strikes me as a one not easily given to whimsy!), a fair amount of builders included at least the early Initiative, which seems to point to a decision made...somewhere...to make the feat as redundant as Parry became as a skill. I fear it's still a \"Fight the Powers that Be\" scenario...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:29 AM - Jun 10, 2024",
+      "content": "<div>When attacking a non player creature from stealth with a dexterity based character with an inherently high initiative, killing the NPC in the first flurry - and still getting hit.\u00a0<br/>\nIt can't be about initiative, and it can hardly be about reach when you already are within striking distance with your own weapons when you break stealth and attack.<br/>\nIt looks like a bug to me.<br/>\n(And it wouldn't surprise me if you got hit, even when attacking a stunned or otherwise incapacitated NPC.) (But I can't remember if I tested that.)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:41 AM - Jun 10, 2024",
+      "content": "<div>It's bongo banana bad if you ask me.<br/>\n<br/>\nI can't make heads or tails of it.\u00a0 Even combat logging just makes it even more confusing as to how this is all calculated by the NWN Engine.</div>"
     }
   ]
 }

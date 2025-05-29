@@ -4,17 +4,49 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "022",
-  "name": "Do summons worth it at level 40 environment? Question for Wizard/Sorcerer",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/do-summons-worth-it-at-level-40-environment-questi-t2356232.html",
-  "author": "NobleSky",
-  "avatar": "10759314_1592061680.jpg",
-  "replies": 0,
+  "name": "HiPS mechanics questions",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/hips-mechanics-questions-t2356236.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": "5",
+  "views": "216",
   "posts": [
     {
-      "author": "NobleSky",
-      "avatar": "10759314_1592061680.jpg",
-      "timestamp": "4:17 PM - May 19, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Do summons worth the spell slot or feat slot in the case of epic summon at level 40 environment? I'm currently running a Wizard 35/ Rogue 3/ SD 2 character and he's wearing robe. Currently I'm playing near the end of interlude chapter of SoU module and even with my henchman and animal companion (panther), my spider summon (from summon creature IV) don't last long against horde of red slaads. I wonder if this is going to become a trend in the long run where summons will eventually become obsolete and at best summons become a distraction against enemies or at worst, a waste of spell slot in modules with level 40 like Sands of Fate? Or maybe this is the case where my tactics are not good enough against trash mobs as spellcaster. I'm trying to compile a list of summons that I think might be worth it.<br/>\n<br/>\n<br/>\n<table class=\"post_content_table\"><tbody><tr><td><strong>Spell name</strong></td>\n<td><strong>Spell lvl</strong></td>\n<td><strong>Summon</strong></td>\n<td><strong>Pro</strong></td>\n<td><strong>Con</strong></td>\n</tr>\n<tr><td>Greater planar binding</td>\n<td>8</td>\n<td>Celestial Avenger</td>\n<td>High AC and AB</td>\n<td>Only available for Good alignment</td>\n</tr>\n<tr><td>Create undead</td>\n<td>8</td>\n<td>Spectre</td>\n<td>undead immunities to\u00a0critical hits,\u00a0death magic,\u00a0disease,\u00a0level drain,\u00a0ability drain,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attack</td>\n<td>Frail with 18 AC and 55 HP; won't last long against hard hitting enemies and there are more optimized undead summons</td>\n</tr>\n<tr><td>Summon creature IX</td>\n<td>9</td>\n<td>Elder air/fire/water elemental</td>\n<td>elemental immunities to\u00a0critical hits,\u00a0disease,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attacks</td>\n<td>Can't control which elemental to summon so you might have to rest and recast the spell; might struggle against enemies with element damage immunity</td>\n</tr>\n<tr><td>Gate</td>\n<td>9</td>\n<td>Balor</td>\n<td>high AC and AB with moderate HP and bunch of fire spells like destruction, fireball, fire storm, implosion, and meteor swarm (limited use per day)</td>\n<td>Need to have a 'protection against element' spell line active when summoning to keep it friendly; might struggle against enemies with fire element immunity</td>\n</tr>\n<tr><td>Black blade of disaster</td>\n<td>9</td>\n<td>Black blade of disaster</td>\n<td>Immune to damage with high AB and can instant kill any enemies that fails 17 DC fortitude saving throws</td>\n<td>Vulnerable to Dispel or Mordenkainen's disjunction spells; you can't take any actions that would undo your summon such as\u00a0attacking, casting a spell (including spells from items),\u00a0counterspelling,\u00a0disabling a trap,\u00a0flagging a trap,\u00a0picking a pocket, and\u00a0taunting</td>\n</tr>\n<tr><td>Epic spell dragon knight</td>\n<td>Epic</td>\n<td>Red dragon</td>\n<td>Dragon\u00a0immunities\u00a0to\u00a0mind-affecting\u00a0spells,\u00a0paralysis\u00a0and\u00a0sneak attacks\u00a0plus immunity to\u00a0fear. It has permanent\u00a0true seeing. Limited use per day of aura of dragon fear, fire breath,\u00a0dispel magic,\u00a0flame arrow, and\u00a0Isaac's lesser missile storm</td>\n<td>Need to invest in epic spell dragon knight feat; summons have large size so can't pass small door or hallway</td>\n</tr>\n<tr><td>Epic spell mummy dust</td>\n<td>Epic</td>\n<td>Warrior lord</td>\n<td>Undead immunities to\u00a0critical hits,\u00a0death magic,\u00a0disease,\u00a0level drain,\u00a0ability drain,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attacks;\u00a0\u00a0inflicts\u00a0poison\u00a0on-hit, which causes 1 or 2 points of\u00a0dexterity\u00a0damage\u00a0if a\u00a0fortitude\u00a0save is failed against a\u00a0DC\u00a0of 22; can use aura of fear once per day</td>\n<td>Need to invest in epic spell mummy dust feat; frail with 24 AC and 143 HP</td>\n</tr>\n</tbody></table><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "5:36 PM - May 30, 2024",
+      "content": "<div>Hello, I have some doubts about Hide in Plain Sight (HiPS).<br/>\nI understand that if A is casting a targeted spell at B and B enters stealth mode with HiPS, then A stops casting the spell. A PC can \"dodge\" magical attacks in this way. I think this works exactly the same as when one breaks line of sight by e.g. hiding behind a corner.<br/>\n<br/>\n1. What if A has very high detection scores and can see B at the first check? I imagine this does not matter, as the check will not happen instantaneously. I welcome confirmation of this.<br/>\n2. What if, in addition, A has Keen Senses?<br/>\n2b. Is there a difference between Listen and Spot here? I think in some cases one cannot directly target a character who is only heard, right?<br/>\n3. What if A has (vanilla) True Seeing? I suspect the trick does not work at all in this case, but again I welcome the experts' take.\u00a0<br/>\n<br/>\nMany thanks!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:47 PM - May 30, 2024",
+      "content": "<div>Here is a link to the <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Talk:Hide_in_plain_sight\" rel=\"noreferrer\" target=\"_blank\">talk page</a> of the HIPS topic in the NWNWiki.<br/>\nThere, some of your questions are discussed.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "11:30 PM - May 30, 2024",
+      "content": "<div>Thanks. I remembered to check the wiki but not the talk page. Only question 3 remains open I guess (I can't find an answer in the page at least), but TheKrit's answer suggests that True Seeing will allow the caster to keep sight on you and therefore not interrupt the spell.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:34 PM - Jun 03, 2024",
+      "content": "<div>Nope.<br/>\n<br/>\nVanilla TS will still not stop the Action Queue from being emptied - but it does mean that the target will be immediately acquired again, afterwards. This will seem like in melee that it is not interrupted (the Combat AI is far, far quicker than a Human is) but for spells, it will disrupt the casting - note that this does require that one use advanced HiPS spamming techniques, however.<br/>\n<br/>\nAdvanced HiPS spamming : you put Attack (the Sword Icon on the radial) and HiPS adjacent on the Quickbar, and using the corresponding F keys, you toggle between them (if in combat, otherwise, just toggle the HiPS button when against a vanilla TS opponent who is spellcasting). This will cause the Action Queue of your opponents to empty (though if they have vanilla TS, they will immediately re-acquire you as a target).\u00a0 By doing this, you can disrupt enemy spellcasters with vanilla TS from casting spells at you.<br/>\n<br/>\nOh, you need to have the cursor on the enemy in question (nearby, preferrably) so that you can go back to \"attacking\" so that you can complete the cycle.\u00a0 Attack [break Attack], HiPS, Attack [hit Attack again], HiPS, rinse, repeat.\u00a0 Just tap the Attack with one finger of the left hand, for example, then HiPS with the other, and continue again with the other finger in cadence - dum dum dum.<br/>\n<br/>\nI myself as a caster have had this happen many, many times (in an environment where vanilla TS is available and no cooldown for HiPS exists for enemies).\u00a0 It was impossible to target with a spell without it getting disrupted.\u00a0 What one can do is target the area NEAR the enemy in question.<br/>\n<br/>\nIt's one of the main reasons why there is often a cooldown timer put on HiPS in online environments - even vanilla TS will not prevent the Action Queue emptying.<br/>\n<br/>\nOn WoG, for example, we have a cooldown timer for HiPS (for both Players and Opponents).</div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "4:43 PM - Jun 03, 2024",
+      "content": "<div>Thanks, that is very interesting. Now i kinda want to try it vs one of WoG's Big Bad True Seeing endgame enemies.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:50 PM - Jun 03, 2024",
+      "content": "<div>It works kind of ok, but you have to keep in mind that on WoG, you have the cooldown timer (important to keep in mind here).<br/>\n<br/>\nThough you can still clear the queue by using it, it will \"fail\" (HiPS) until the timer expires, meaning you will get pummeled if you mess up the rhythm (because you are usually surrounded by enemies).\u00a0 It is not wise to drop out of combat in the middle of a bunch of high level baddies doing their best to reduce you to a pulp with prejudice...<br/>\n<br/>\nHad this experience against Trok&amp;Co (Stone giant boss) with one of my HiPSer PCs once.<br/>\n<br/>\nOtherwise, it works quite well...just don't mess up (and saying that to a human is like...yeah.\u00a0 You know you are going to).<br/>\n<br/>\nHowever, I have found that if you combine this with high AC, Epic Dodge, and 50% Concealment, you normally do quite well...hey, I wonder if my Deadly Nightshade build does this...(yes, that is tongue in cheek and a shameless plug, all in one!) - of course, she never gets targeted by spells unless the enemies are absolutely desperate (which, come to think of it, they usually are! :D )<br/>\n<br/>\nOops, I did it again! O_o<br/>\n<br/>\nI wish that we had the ability to post videos - you would think in this day and age that it should be possible, considering that TikTok&amp;Co do it all the time!\u00a0 A video showing this would be worth a thousand words typed in this format imo.<br/>\n<br/>\nYeah, we are old and using ancient technology!</div>"
     }
   ]
 }

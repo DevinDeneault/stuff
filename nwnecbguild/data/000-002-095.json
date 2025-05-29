@@ -4,155 +4,43 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "095",
-  "name": "Fishing for 20s",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/fishing-for-20s-t2355629.html",
-  "author": "TheSquid",
-  "avatar": "10759318_1592552655.jpg",
-  "replies": 23,
+  "name": "Favored class and multiclass penalty",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/favored-class-and-multiclass-penalty-t2355638.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": "4",
+  "views": "314",
   "posts": [
     {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "10:37 AM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all<br/>\n<br/>\nWhat is the best character at \"fishing for 20s\" in melee fights? Say an endgame boss has 200 AC (even when flat-footed) and is spell immune. She also dwells in a very tight room where you can't snipe her or set up traps. How do you build your level 40 character in order to defeat her? It should be somewhat playable 1-40 and retain honest AC and/or HP, as the boss will also try to hit you. Let's say +5 environment.\u00a0<br/>\nI can think of several ways to boost your average damage output on lucky 20s, but what's the most effective combination?\n<ul>\n<li>Improved Power Attack</li>\n<li>EWS</li>\n<li>Buffs (GMW, Divine Favor, Flame Weapon etc)</li>\n<li>High STR (RDD? Dragon Shape?)</li>\n<li>Many attacks (twin kama Monk? Flurry does not work with IPA I think)</li>\n<li>Sneak attacks (you can have at most 4/round, correct?)</li>\n<li>Ranger feats</li>\n<li>Divine Might</li>\n<li>Using a two-handed weapon</li>\n<li>Bard song</li>\n<li>Divine Wrath</li>\n</ul>\nI probably forgot several things. Remember, AB is irrelevant, so one can be creative. Like two bastard swords with no need to take Ambidexterity.<br/>\nWhat would you do?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:51 AM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Monk \"woodpecker\" with 10 attacks/round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:27 AM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">^ Yup, this is the way!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:04 PM - Dec 17, 2020",
+      "content": "<div>A multiclass human PC with highest level in a prestige class has two other base classes which are more than one level apart (e.g. Assassin 6/Fighter 4/Rogue 2). <br/>\n<br/>\nIf a prestige class is exempt from the multiclass xp rule, does it mean that it could not be considered as a favored class? Would the above example not suffer xp penalty?</div>"
     },
     {
       "author": "Grimnir",
       "avatar": "10235237_1517392314.jpg",
-      "timestamp": "11:37 AM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Reciproc shields? <br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:40 AM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That would, of course, be the way to go if elemental damage works (Acid, Fire, Divine, Sonic, Magic).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "12:21 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>Monk \"woodpecker\" with 10 attacks/round.</div></blockquote>\nI don't think this is the way. Unless you have a build in mind that deals more than 90 damage per hit, Improved Power Attack is better than Flurry of Blows and so 9 attacks trumps 10.<br/>\n<blockquote><div>Reciproc shields?</div></blockquote>\nThat would probably be the answer, doesn't count :)<br/>\nElemental damage is fine by me, but it has to be delivered by the weapon.<br/>\n<br/>\nI just drafted a dual-wielding Cleric/Bard/RDD that is better than a Monk unless the Monk can deal more than ~33 damage/hit, which is definitely doable. STR-based Monk/Fighter/Ranger maybe? Monk/Cleric/X?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "1:36 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Without performing an actual damage calc I'd guess that a Rang23/Cler16/Monk1 probably out-damages most other builds against this specific mob. Making it playable is asking for too much though, you can either minmax for damage or make it playable.<br/>\n<br/>\nThis is assuming that the mob doesn't have concealment, DI/DR, or Epic Dodge. If it has any defensive abilities other than high AC then my recommendation might change.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "1:55 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was doing some calculations, and I think you are spot-on, Yunim. STR-based Ranger23/Cleric16/Monk1 (with BoE, Divine Might and IPA) gets up to 500 dmg/round vs 0 AC, or 25 dmg/round against our hypothetical enemy. By contrast, Cleric/Bard/RDD and Cleric/Druid/Monk get around 400. I'll try to concoct a playable build based on this idea.<br/>\n<br/>\nOut of curiosity, what would change if you took concealment into account? I think I can see what effect DR/DI would have (builds with fewer, stronger attacks are better), and Epic Dodge would mean that more attacks are better.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "2:36 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Some of the more extreme min-maxed DPS builds I've made sacrifice Blind Fight for more damage. If your target has concealment then the extra damage probably isn't worth dropping Blind Fight. The Rang23/Cler16/Monk1 can fit in Blind Fight since it doesn't need IC: Kama, but other min-maxed builds might not have enough feats to spare.<br/>\n<br/>\nDI/DR mainly affects weapon choice and the amount of unblockable damage that you should aim for. If the boss has 50% Pie DI and 50% Sla DI but no Blu DI then a 9 APR kama build might be outdamaged by a 7 APR dire mace build. If the boss has 50% DI to all damage types then going CHA focused with Divine Might is probably better than going STR focused for more physical damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:54 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think ScV, ED, and a high AC are worth considering just for staying alive long enough in that small room.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "3:34 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I did a quick damage calc and it seems that a human Rang21/Cler18/Monk1 with 30STR/18CHA is probably the best you can do without Sneak Attack. When using IPA it does a whopping 33.9 average damage per round (32.7 with FoB), much higher than the measly 33.4 average damage per round\u00a0(32.2 with FoB) that a Rang23/Cler16/Monk1 does. This might change depending on the defensive abilities of the mob though, for the reasons stated above.<br/>\n<br/>\nIt only has 3 FE races but it should out-damage almost all other builds against this specific mob, provided that it's one of your FEs. It can heal and cast Improved Invisibility too, so the survivability shouldn't be too bad (for a DPS build anyway).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:15 PM - Dec 17, 2020",
+      "content": "<div>It would not.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Maximillian_Kane",
       "avatar": "10758866_1605883460.jpg",
-      "timestamp": "10:46 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about a dual-Kama Paladin / Monk / CoT with DM and high CHA? CoT bonus feats can be used in epics to get Great Wisdoms, which means the stat requirements to cast 4th level spells could be met that way, allowing you to pump STR and CHA up by a bunch. Perhaps Paladin 16 / Monk 6 / CoT 18 would work, but I'd have to test it. I don't know if it'd do more damage than Yunim's suggested build (probably not, since he's the math genius in the house), but it would be high up there, for sure! Paladins have Deafening Clang and Holy Sword, as well as all the Cleric damage buffs, so they do considerably more damage, not to mention Smite Evil!<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:56 PM - Dec 17, 2020",
+      "content": "<div><blockquote><div><cite>Grimnir wrote: <div class=\"responsive-hide\">Dec 17, 2020</div></cite>It would not.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk</div></blockquote>\nit would not be considered or it would not suffer? :D</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "11:39 PM - Dec 05, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've also been thinking Paladin. I do think however, that Fighter&gt;CoT despite the Great Wisdom. Fighter gives +6 from EWS and I don't think 2 points extra STR will compete. <br/>\n<br/>\nFighter gives +6 damage.<br/>\nRanger gives 5+2d6, another +1 for every 5 levels above 20.<br/>\nMonk increases all damage with about 33%, going from 7 to 10 attacks.<br/>\n<br/>\nI think all the above trumps RDD. <br/>\n<br/>\nSo I think we are left with <br/>\nRanger/Cleric/Monk or<br/>\n<br/>\nRanger/Paladin/Monk.<br/>\n<br/>\n<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ten Pura",
+      "avatar": "10759105_1562697297.png",
+      "timestamp": "11:09 PM - Dec 17, 2020",
+      "content": "<div>Hail Darktooth,<br/>\nUnder standard rules, prestige classes are not considered by the routine which calculates XP penalties. It's like the class doesn't exist. This has 2 implications:<br/>\n1 - a human with a prestige class cannot have a XP penalty.<br/>\n2 - any character with 2 prestige classes cannot have a XP penalty.<br/>\n<br/>\nHope this sufficiently answers your question!</div>"
     },
     {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "12:54 AM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cleric will out-damage Paladin assuming that the mob doesn't have any DI/DR. It's 2 (unblockable) Magical from Battletide and 1d6 +9 Fire from Darkfire vs 3 Sonic from Deafening Clang and 1d6 Divine vs Evil from Holy Sword.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "1:59 AM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"23037\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23037&amp;sid=93e0fab18fa28c8f5e963243fba6495d#p23037\">\u2191</a><div class=\"responsive-hide\">Dec 06, 2020</div></cite>Cleric will out-damage Paladin assuming that the mob doesn't have any DI/DR. It's 2 (unblockable) Magical from Battletide and 1d6 +9 Fire from Darkfire vs 3 Sonic from Deafening Clang and 1d6 Divine vs Evil from Holy Sword.</div></blockquote>\nThat might actually be true, but it also might not. Unless you're talking about a really gimped Cleric with low Wisdom. A Paladin will only need 14 WIS, which would theoretically mean they can get a higher STR for normal damage or CHA for Divine damage. I'm not sure which one would outdo the other. Also, are we assuming there are no DR/DIs for the purposes of this discussion?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "4:31 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A min-maxed Rang23/Pal16/Monk1 would have either +2STR or +2CHA compared to a min-maxed Rang21/Cler18/Monk1. So the Cleric version would still do the most damage since it's 1d6 +11 vs 1d6 +4. If the mob had lower (but still high) AC then things might be different, since Darkfire isn't affected by critical hits and so Holy Sword could potentially out-damage Darkfire. However for this specific mob the cleric version is better, since critical hits don't matter.<br/>\n<br/>\nWithout knowing what the DI/DR actually is there's no way to adjust for them so it's best to just assume the mob doesn't have any. As I've said in previous comments, if it does have any defensive abilities other than high AC then my answer for best DPS build might change.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mirnaia",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:08 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is a really interesting topic. I think the opposite had popped up about a year ago (max damage against 0 AC, or Bobo from PGCC) which is almost the same question, as both basically ignore hit chance - the only real difference is criticals. I had a flashback when I read the Ranger/Cleric/Monk combo, as that was the theoretical winner in the other thread, too.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mirnaia",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:22 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Found it!<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=13709#p13709\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=13709#p13709</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "9:26 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mirnaia wrote:</cite>This is a really interesting topic. I think the opposite had popped up about a year ago (max damage against 0 AC, or Bobo from PGCC) which is almost the same question, as both basically ignore hit chance - the only real difference is criticals. I had a flashback when I read the Ranger/Cleric/Monk combo, as that was the theoretical winner in the other thread, too.</div></blockquote>I am sorry for this derail, but I'm pretty sure a Ranger21/Cleric12/WM7 beats it. Even with lesser buffs. <br/>\nMaybe Fighter/Cleric/WM too. It's hard to beat the kukri 12+/x3 crits.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "9:35 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No worries @Grimnir, that would be the obvious follow-up question, which I had avoided as the math becomes more unpleasant.<br/>\n<em class=\"mention\">@Yunim</em>\u00a0, concerning your proposed build: do I understand correctly that STR bonus damage is halved on off-hand attacks? If so, would pumping CHA not beat pumping STR?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "10:07 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It would, I went with STR because it makes for a more playable build. An 18STR/30CHA variant would have 3 more damage on it's OffHand attacks compared to a 30STR/18CHA variant at the cost of 6 AB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "10:12 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Yunim wrote: <a data-post-id=\"23053\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23053&amp;sid=ac414e7b6cf602dcacb3099bf43823df#p23053\">\u2191</a><div class=\"responsive-hide\">Dec 06, 2020</div></cite>It would, I went with STR because it makes for a more playable build. An 18STR/30CHA variant would have 3 more damage on it's OffHand attacks compared to a 30STR/18CHA variant at the cost of 6 AB.</div></blockquote>\nActually, if you're going CHA, STR should go to 8, since you're doing Divine Power, and it already sets it to 18, perhaps then Weapon Finesse and something like 14 DEX (or however much you can spare) would be better?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "10:28 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div><cite>Maximillian_Kane wrote:</cite>\nActually, if you're going CHA, STR should go to 8, since you're doing Divine Power, and it already sets it to 18, perhaps then Weapon Finesse and something like 14 DEX (or however much you can spare) would be better?</div></blockquote>\n\nNo. For the simple reason you'll miss out on Improved PA.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "10:36 PM - Dec 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Actually it is possible to do better than 18STR/30CHA, I was starting with balanced ability scores so the damage is slightly lower.<br/>\n<br/>\nRang21/Cler18/Monk1 has BoE and G STR/CHA 6 for it's epic feats, Rang23/Cler16/Monk1 has G STR/CHA 7 for it's epic feats. Rang21/Cler18/Monk1 gets 1 more damage from Darkfire compared to a Rang23/Cler16/Monk1, so the potential +2 STR/CHA of a Rang23/Cler16/Monk1 is offset by that.<br/>\n<br/>\nHuman is the best race, since the build needs a minimum of 13 STR, 15 WIS, and 13 CHA, plus it focuses on STR/CHA so Half Orc won't work.<br/>\n<br/>\nA balanced starting ability spread would be 16STR/8DEX/8CON/16WIS/8INT/16CHA, which can end at 16STR/32CHA. If you want more CHA then you can either get 15STR/8DEX/9CON/15WIS/8INT/17CHA or 14STR/8DEX/8CON/15WIS/8INT/18CHA. Both spreads need 6 G STR/CHA feats, to end at either 16STR/32CHA or 14STR/34CHA respectively.<br/>\nGoing from 16STR/32CHA to 18STR/30CHA results in the same damage but +1 AB, so the ending ability spreads are either 18STR/30CHA or 14STR/34CHA. 14STR/34CHA has +1 damage on it's OffHand Attacks.<br/>\n<br/>\nSo the most min-maxed version would be a human Rang21/Cler18/Monk1 with starting abilities of 14STR/8DEX/8CON/15WIS/8INT/18CHA, ending at 14STR/34CHA.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:34 AM - Dec 24, 2020",
+      "content": "<div><blockquote><div><cite>Ten Pura wrote: <div class=\"responsive-hide\">Dec 17, 2020</div></cite>\nHope this sufficiently answers your question!</div></blockquote>\nThank you for the very clear answer.<span class=\"text-emoji\">\ud83d\ude0c</span></div>"
     }
   ]
 }

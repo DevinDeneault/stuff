@@ -4,17 +4,99 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "596",
-  "name": "The Eternal Flailer (Fighter 20 / Bard 4 / PM 16)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-eternal-flailer-fighter-20-bard-4-pm-16-t2355481.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 0,
+  "name": "Looking for a 20 Monk.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-a-20-monk-t2354912.html",
+  "author": "Infra93",
+  "avatar": "no_avatar.png",
+  "replies": "13",
+  "views": "2.0K",
   "posts": [
+    {
+      "author": "Infra93",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:47 PM - Jul 03, 2018",
+      "content": "<div>I am looking to make a pure monk character.\u00a0<br/>\n<br/>\n-Race: Any medium sized, Human favored.<br/>\n-Could be based on either str-dex-wis, I am not picky about it.<br/>\n<br/>\n<br/>\nThanks,<br/>\n-Infra</div>"
+    },
+    {
+      "author": "yamuchaop",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:54 PM - Jun 05, 2020",
+      "content": "<div>Hmm, it's been a while since i played but i seem to recall the \"popular\" build pre-HoU was:<br/>\nElf Monk - Lawful neutral<br/>\nMax Dex, High Wis, Some constitution<br/>\nFeats:<br/>\nLevel 1: Luck of heroes<br/>\nLevel 3: Weapon finesse &lt;--- very important!<br/>\nLevel 6: Weapon focus: Unarmed<br/>\nLevel 9: Toughness<br/>\nLevel 12: Improved critical: Unarmed<br/>\nLevel 15: Blind fight<br/>\nLevel 18: Dodge, or well whatever suits you really<br/>\n<br/>\nMax out Spellcraft, Tumble (Technically you just need 20 hard points) and Discipline.<br/>\n<br/>\nPVP'ers picked disarm and improved disarm as i recall it.<br/>\n<br/>\nIt doesn't hit very hard though. Another good option is to make a cleric with 1 level of monk. You can use a full plate, kama and shield. Cast divine power and flurry away. This allows you to be strength based and you get powerful spells like Harm to aid you. It will actually attack faster than the pure monk.</div>"
+    },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "3:56 AM - May 30, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">The Eternal Flailer</span></strong><br/>\n<br/>\nGreetings all!<br/>\n<br/>\nThis build draft looked nice:<br/>\n- High fighter for all the combat feats you could want<br/>\n- Bard for great skill dumps, and to qualify for PM<br/>\n- Palemaster for high AC (+18 AC from Tumble 40 and PM 16), crit/sneak immunity, epic mage armor / epic warding<br/>\n<br/>\nThe more I play PM, the more I want higher AB than the typical low 40s, I get to mundane AB 45 here with Str 34-&gt;46. Taunt can add effective +6 AB to 51, improved disarm situational AB up to +8 AB to 59<br/>\nWith all that PM AC, crit/sneak immunity plus expertise means taunting should be very safe.<br/>\n<br/>\nI go human and put Int to 16 to make maximal use of the skills available from Bard, it just keeps wanting more skill points. Dwarf adds 40hp at the cost of 43 skill points (likely needing to drop Taunt)<br/>\n<details><summary>Spoiler</summary>Fighter(20), Pale Master(16), Bard(4), Human\nAny non-lawful (neutral for smite/alignment spell immunity)\n\nDEX: 8\nWIS: 8\nCHA: 8\nHuman: (Quick to Master)\n02: Fighter(2): Weapon Focus: Heavy Flail\n04: Fighter(4): STR+1, Weapon Specialization: Heavy Flail, (STR=19)\n06: Fighter(6): Great Fortitude, Knockdown\n08: Bard(1): STR+1, (STR=20)\n10: Fighter(9)\n12: Fighter(11): STR+1, Cleave, (STR=21)\n14: Fighter(12): Disarm\n16: Fighter(14): STR+1, Improved Disarm, (STR=22)\n18: Fighter(16): Lightning Reflexes, Improved Knockdown\n20: Bard(3): STR+1, (STR=23)\n22: Pale Master(1)\n24: Pale Master(3): STR+1, Great Strength II, {Darkvision}, (STR=26)\n26: Pale Master(5)\n28: Pale Master(7): STR+1, (STR=28)\n30: Pale Master(9): Great Strength IV, (STR=29)\n32: Pale Master(11): STR+1, (STR=30)\n34: Pale Master(13): Epic Energy Resistance: Acid I\n36: Pale Master(15): STR+1, Epic Spell: Epic Mage Armor, (STR=32)\n38: Fighter(19)\n40: Fighter(20): STR+1, Epic Prowess, (STR=34)\nHitpoints: 423\nSaving Throws (Fortitude/Will/Reflex): 26/21/20\nBAB: 29\nAC (naked/mundane armor/shield only): 27/38\nAlignment Changes: 0\nDiscipline 43(55), Listen 42(41), Open Lock 1(0), Perform 10(9), Search 6(9), Spellcraft 42(45), Taunt 41(40), Tumble 40(39), UMD 34(33)\n\n02: Discipline(1), Save(19),\u00a0\n04: Discipline(1), Save(27),\u00a0\n06: Discipline(1), Save(35),\u00a0\n08: Discipline(1), Listen(9), Perform(4), Taunt(11), Tumble(10), UMD(11),\u00a0\n10: Discipline(1), Save(10),\u00a0\n12: Discipline(1), Save(20),\u00a0\n14: Discipline(1), Search(1), Save(3),\u00a0\n16: Discipline(1), Save(13),\u00a0\n18: Discipline(1), Save(23),\u00a0\n20: Discipline(1), Listen(8), Perform(3), Spellcraft(5), Taunt(7), Tumble(5), UMD(7),\u00a0\n22: Listen(2), Spellcraft(9),\u00a0\n24: Listen(2), Spellcraft(4),\u00a0\n26: Listen(1), Spellcraft(1), Save(8),\u00a0\n28: Listen(1), Spellcraft(1), Save(16),\u00a0\n30: Listen(1), Spellcraft(1), Save(24),\u00a0\n32: Listen(1), Spellcraft(1), Save(32),\u00a0\n34: Listen(1), Spellcraft(1), Save(40),\u00a0\n36: Listen(1), Spellcraft(1), Save(48),\u00a0\n38: Discipline(13), Save(45),\u00a0\n40: Discipline(6),\u00a0\n</details>\n\nIf one wants dev crit swap lightning reflexes for great cleave, and two great strengths for overwhelming / devastating critical, Str 32, AB 44,\u00a0<br/>\nI am honestly happy to play less dev crit builds, sometimes it is satisfying to see those huge numbers without a combatant being terminated too soon.<br/>\n<br/>\nThese are similar builds:<br/>\n- <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/lord-of-gruumish-fighter-20-bard-4-pm-16-t2355187.html#p17219\" rel=\"noreferrer\" target=\"_blank\">Lord of Gruumish</a>\u00a0- 45 AB half orc PM 16 build draft, goes dev crit at level 21, less skill points, I want to boost the saves a bit more reading it again<br/>\n- <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build252934.html\" rel=\"noreferrer\" target=\"_blank\">The Myrmidon Eternal</a> by Grizzled_Dwarflord, 42 AB PM 20 great build<br/>\n- <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build303254.html\" rel=\"noreferrer\" target=\"_blank\">The Charnel Lord</a> by Grizzled_Dwarflord, 40 AB PM 24 dev crit, lots of epic spells<br/>\n- <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build215845.html\" rel=\"noreferrer\" target=\"_blank\">DeathDozer </a>by\u00a0Faign, same level split, 42 AB, has three epic spells\u00a0<br/>\n<br/>\nI was interested to adjust the ending PM levels to add an extra epic level spell in there like DeathDozer does, but I was unsure if spells like greater ruin, hellball, mummy dust or dragon knight would add more to the build than higher AB. It was an interesting idea.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:48 AM - Jun 06, 2020",
+      "content": "<div><blockquote><div><cite>yamuchaop wrote: <div class=\"responsive-hide\">Jun 05, 2020</div></cite>It doesn't hit very hard though. Another good option is to make a cleric with 1 level of monk. You can use a full plate, kama and shield. Cast divine power and flurry away. This allows you to be strength based and you get powerful spells like Harm to aid you. It will actually attack faster than the pure monk.</div></blockquote>\nHail Infra93 and yamuchaop<br/>\nCleric and Monk is a nice combo.\u00a0<br/>\nTo clarify full plate (or any armor other than robes) and shields will disable the monk abilities however, so for the maximal attacks / round one will want to wear robes and not use a shield.\u00a0<br/>\n<br/>\nWill be good to know what environment you want to play your build in. PvM? PvP? is it low magic or high magic equipment? What sorts of enemies are you facing?\u00a0</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:20 AM - Jun 06, 2020",
+      "content": "<div>Just another update, I had a look through the pre-epic Bioware ECB guild data (see the NWN Vault) and it doesn't look like a Monk 20 build was ever put in the pre-epic section. Not that will matter, because Empyre's got a few great high monk builds.\u00a0<br/>\nEmpyre65 wrote a <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/concept-yardstick-builds-t2293896-s10.html#p3452\" rel=\"noreferrer\" target=\"_blank\">Yardstick level 40 monk build</a>, in the Yardstick section post number 11.\u00a0<br/>\nPerhaps the first 20 levels could be used? It looks nice to me. The one I linked is dex based.\u00a0<br/>\nThere's also another version which goes low strength for more dex on <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/concept-yardstick-builds-t2293896-s10.html#p3486\" rel=\"noreferrer\" target=\"_blank\">post 20</a>, if you want that, but I like the first one better with more strength in the build.</div>"
+    },
+    {
+      "author": "yamuchaop",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:24 AM - Jun 06, 2020",
+      "content": "<div><blockquote><div><cite>Orion wrote: <div class=\"responsive-hide\">Jun 06, 2020</div></cite><blockquote><div><cite>yamuchaop wrote: <div class=\"responsive-hide\">Jun 05, 2020</div></cite>It doesn't hit very hard though. Another good option is to make a cleric with 1 level of monk. You can use a full plate, kama and shield. Cast divine power and flurry away. This allows you to be strength based and you get powerful spells like Harm to aid you. It will actually attack faster than the pure monk.</div></blockquote>\nHail Infra93 and yamuchaop<br/>\nCleric and Monk is a nice combo.\u00a0<br/>\nTo clarify full plate (or any armor other than robes) and shields will disable the monk abilities however, so for the maximal attacks / round one will want to wear robes and not use a shield.\u00a0<br/>\n<br/>\nWill be good to know what environment you want to play your build in. PvM? PvP? is it low magic or high magic equipment? What sorts of enemies are you facing?\u00a0</div></blockquote>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Flurry_of_blows\" rel=\"noreferrer\" target=\"_blank\">Straight from the wiki.</a>\u00a0I tested it in the newest version of the EE and i can use Flurry of blows with Kama's and unarmed while wearing a full plate, but i can't use kama+shield. Still works unarmed though.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:34 AM - Jun 06, 2020",
+      "content": "<div>That's an interesting observation yamuchaop<br/>\nFull plate and/or shield should disable <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Unarmed_base_attack_bonus\" rel=\"noreferrer\" target=\"_blank\">the Monk UBAB</a>\u00a0which is the important one, losing all those attacks / round, Monk AC, Monk Speed and Spell Resistance and Wis AC are other important ones as well.<br/>\nLess important if you only take a single monk level.<br/>\nNever thought about flurry though. That is a nice observation and I learned something.<br/>\nCheck the log. Does it say \"Your Monk abilities are disabled\" or something along those lines? That is more what I meant.<br/>\nIf it does you will know that your monk is not doing as many attacks per rounds as you would like, or have the monk AC / speed bonuses.</div>"
+    },
+    {
+      "author": "yamuchaop",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:42 AM - Jun 06, 2020",
+      "content": "<div><blockquote><div><cite>Orion wrote: <div class=\"responsive-hide\">Jun 06, 2020</div></cite>That's an interesting observation yamuchaop<br/>\nFull plate and/or shield should disable <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Unarmed_base_attack_bonus\" rel=\"noreferrer\" target=\"_blank\">the Monk UBAB</a>\u00a0which is the important one, losing all those attacks / round, Monk AC, Monk Speed and Spell Resistance and Wis AC are other important ones as well.<br/>\nLess important if you only take a single monk level.<br/>\nNever thought about flurry though. That is a nice observation and I learned something.<br/>\nCheck the log. Does it say \"Your Monk abilities are disabled\" or something along those lines? That is more what I meant.<br/>\nIf it does you will know that your monk is not doing as many attacks per rounds as you would like, or have the monk AC / speed bonuses.</div></blockquote>\nThat is a very good question which i don't know the answer to at the moment. I'd really like to know as i'm trying to build a character around this simply for the cool factor ;)<br/>\n<br/>\nEdit: From a limited test it would seem that you do loose the monk UBAB, but you still gain the flurry of blows extra attack.</div>"
+    },
+    {
+      "author": "yamuchaop",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:09 PM - Jun 06, 2020",
+      "content": "<div>Not to spam you with replies, but a halfling is also a pretty solid choice for a dex monk :)</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:47 PM - Jun 06, 2020",
+      "content": "<div>Halfling as a dex monk only if one is going to be using kamas.<br/>\n<br/>\nAs a Fister, it is really not good at all.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:08 PM - Jun 06, 2020",
+      "content": "<div>Sorry, all, this one slipped through the net, so I've moved it to the Build Request forum where it more properly belongs.<br/>\n<br/>\nCheers<br/>\n<br/>\nOh, and Web's right about Hin monks - apart from anything else they can't get d20 damage fists</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:22 PM - Jun 06, 2020",
+      "content": "<div>A Halfling will get an AB penalty if they dual-wield kamas because the kama in the off-hand is not a size smaller than the character.<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Dual-wield\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Dual-wield</a><br/>\n<br/>\nOne could go iconoclastic (against type) and make a Halfling version of my unarmed Order of the Wyrm and have no problem doing damage.\u00a0 Wait,\u00a0 nevermind.\u00a0 You are looking for a level 20 build.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:21 PM - Jun 06, 2020",
+      "content": "<div>Good call on the dual wield.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:34 PM - Jun 06, 2020",
+      "content": "<div>This is true, but it brought back to me a discussion I had with Hip back in 2016 (when mammoths still roamed the earth) on this very subject:\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/hin-monks-kamas-t2354603.html\" rel=\"noreferrer\" target=\"_blank\">Hin Monks and Kamas</a> .<br/>\n<br/>\nThat was what led to my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/arvoreen-s-silent-sting-monk-21-rogue-13-cot-6-t2354604.html\" rel=\"noreferrer\" target=\"_blank\">Arvoreen's Silent Sting</a> build, which is far from perfect but was fun to play...<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:01 AM - Jun 07, 2020",
+      "content": "<div>Well, it is a malus, even if it is -1.<br/>\n<br/>\nKinda nit-picky, but there it is.</div>"
     }
   ]
 }

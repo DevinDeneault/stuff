@@ -4,29 +4,79 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "167",
-  "name": "Spell DC and Spell Penetration Targets",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/spell-dc-and-spell-penetration-targets-t2355149.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 2,
+  "name": "Slashing vs. Bludgeoning two-handers",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/slashing-vs-bludgeoning-two-handers-t2355152.html",
+  "author": "ratty_uk2011",
+  "avatar": "no_avatar.png",
+  "replies": "10",
+  "views": "562",
   "posts": [
+    {
+      "author": "ratty_uk2011",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:00 AM - Sep 05, 2019",
+      "content": "<div>Morning all<br/>\n<br/>\nAssuming Martial weapons only, and I'll be crafting something (hopefully) so stats are a wash.\u00a0<br/>\n<br/>\nGreat axe / great sword vs heavy flail for WoG ?\u00a0<br/>\n<br/>\nCheers!</div>"
+    },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:08 AM - Sep 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Just another question that was brewing in my mind<br/>\n<br/>\nWhat are reasonable Spell DC and Spell Penetration Targets for ECB spellcaster and spellsword (ie hybrid) lvl 40 builds?<br/>\n<br/>\nNote I've written 'ECB' - I know it all depends on the environment, but lets just assume we want to create something that will work in most environments<br/>\n<br/>\nAlso the DCs depend on the spell cast -&gt; for an AOE long duration spell (ie Stonehold) a lower chance of success is probably acceptable, whereas a instantaneous particularly a single target spell (ie Finger of Death) a very high chance of success is very desirable<br/>\n<br/>\n<em>Spell Penetration</em><br/>\nMy understanding is the max toolset SR is 32<br/>\n<br/>\nSo perhaps a spell penetration of 28 would allow 75% of spells on spell resistant creatures, and will generally work well on the rest who are not as spell resistant<br/>\n<br/>\nSo 'in general' perhaps one only needs to stand thinking about spell penetration feats when final caster levels are less than 28?<br/>\n<br/>\n<em>Spell DC</em><br/>\nRegarding DCs a high base save is 22, add in say a modifier of 4 -&gt; 26. Low base save is 16 add modifier 4 -&gt; 20<br/>\n<br/>\nFor AOE long duration DC<br/>\nSay 50% success against weak saves -&gt; 30. 50% success against strong saves -&gt; 36<br/>\n<br/>\nSubtract 6 from this if you can cap the ability modifier DC (ie Owl's Insight for Druids, items etc) or whatever value in the environment. Leads to a base DC of 24 for weak saves and 30 for strong saves<br/>\n<br/>\nFor single target or instantaneous DC<br/>\nSo for 75% success against weak saves ?DC 35. 75% success against high saves ?DC 41<br/>\n<br/>\nAgain subtract 6 from this if you can cap the ability modifier DC (ie Owl's Insight for Druids, items etc)\u00a0Leads to a base DC of 29 for weak saves and 35 for strong saves<br/>\n<br/>\nAnyway what are your thoughts? Just a question for the spell slingers in the forum, whether they be visible or lurking :)<br/>\n<br/>\nI've probably confused the non-spell slingers in the forum :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:24 PM - Sep 05, 2019",
+      "content": "<div>I have two great sword characters. Arcane Dwarven Dreadlord and modified Mithdradates The Enforcer. They have dev crit and access to keen edge so thats why I chose that weapon.\u00a0<br/>\n<br/>\nTheir best weapon LOL is +4 greatsword but if I had reliable access to GMW 15 i could use some lesser weapons with added elemental damage... erm until I get mord'ed...<br/>\n<br/>\nI think some of the more experienced WoG players should comment on this - I think one could use any weapon really<br/>\n<br/>\nI have a particular weakness for small characters wielding scimitars in two hands...</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:07 AM - Sep 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Natural response here would be: \"as much as you can afford\", but I will be nicer than that.<br/>\n<br/>\nMinimum DC for anything I would like to count as \"effective\" would be main stat 20 plus ESF in chosen school.<br/>\nMinimum CL for mages can be lower than the rest because of Mord's Disjunction (-10). <br/>\nThe rest, is better when they have at least 26-28 CL, although if you care for penetration mostly, this can be augmented by the relevant feats. <br/>\nToolset SR max is 32 but modules/PW's can have any value really. Typical for drow is level +10, so high-level drow are a pain to deal with. <br/>\nMages especially can get away with no DC spells at all, Clerics have Harm &amp; Word of Faith only.<br/>\nInterestingly, a hybrid red-mage would have a lot of \"cheat\" spells that simply ignore DCs altogether but the challenge there is to get the penetration high enough.<br/>\nI guess, a Mage 23/ Cleric 17, can get his penetration values high enough, especially with Mord's.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:24 PM - Sep 05, 2019",
+      "content": "<div>Greatsword, for playability/availability reasons.<br/>\n<br/>\nAlthough, the Epic Greataxe, is a thing of beauty, for getting there...Greatsword.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:29 PM - Sep 05, 2019",
+      "content": "<div>I saw a good Halberd or two out there in WoG too<br/>\n<br/>\nI thought it might be a problem if an enemy has resistance to both piercing and slashing</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:06 PM - Sep 05, 2019",
+      "content": "<div>The best weapons are those who assemble or find yourself anyway. <br/>\n<br/>\nI once found a \"mercenary\" blade with five or six sockets, can't remember exactly. <br/>\nI went then &amp; opened the secret chest I had, full of gems\u00a0 that I gathered from countless battles (partner also helped with his), but never used till then &amp; managed to add +20 elemental/divine dmg to that thing...<br/>\nThen used umd to turn that thing into +5, flaming-weapon, keen-edge, +20 elemental/divine dmg Greatsword. <br/>\nI was playing Lord Soth (Ftr/Rog/BG) so I had something like 40+ strength &amp; divine might &amp; sneak-attack &amp; IKD &amp; devastating critical &amp; that weapon. <br/>\nEach hit, was like a damn THUNDERSTRIKE! <br/>\nHit &amp; Fatality.</div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:32 PM - Sep 05, 2019",
+      "content": "<div>Valerfor, Out of the corners of my mind I remember the name Lord Soth, but I cannot recall from where it comes, so I ask you where?<br/>\nAnd of course I want to know what build you mean.<br/>\n<br/>\nOn Greyhawk, I often choose Greataxe over Greatsword, but I do not use devastating critical.<br/>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:11 PM - Sep 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nNatural response here would be: \"as much as you can afford\"...</div></blockquote>\nThat would be my response too.\u00a0<br/>\nHow much spell penetration you need depends on the spell resistance of the creatures you are up against. In a way you can compare it with the relation between AB and AC. if you want to be prepared for \"everything\", spell penetration should be high. Overcoming the standard toolkit SR 32 is a target for hybrid builds. Mord's and the breach spells can help some if you struggle. It can be a matter of taste, but also of what is possible with a given build how much you are willing to, or have to, depend on those debuffers.<br/>\nSpells DC will be countered by saves. Saves vary much between different creatures, and that is what you must prepare for. A paladin/CoT build with a high spellcraft skill will have very high saves against spells, and especially so against spells with a fortitude save. A warrior class build with no saves boosters will have lousy will saves. So you may need a high DC in some cases. And you are more likely to succeed if you can target the weak save of your opponent. A high casting stat is always beneficial. It may pay well off to have more than one spell focus, or at least have a spell selection that targets all three groups of saves with a reliable DC (F/W/R). If you play a spellsword, or another hybrid mage, your casting stat often is too low for a good DC on your attack spells. Spell focus feats help some. But if they don't help enough, you can always use non-save spells, such as IGMS.\u00a0<br/>\nIf you only want to cast buffing spells, you don't need to pay any attention to DC or penetration.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:43 PM - Sep 05, 2019",
+      "content": "<div><blockquote><div><cite>gkorjax wrote:</cite>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.\n</div></blockquote>\nGood point!<br/>\nIt makes me wonder if there are any great scythes for even more carnage.\u00a0</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:58 PM - Sep 05, 2019",
+      "content": "<div>I think this is Valerfor's Lord Soth build?<br/>\n<br/>\nLooks wicked to me\u00a0<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-antipaladin-infernal-devastator-ftr-8-rog-4-bg-t2351520.html\" rel=\"noreferrer\" target=\"_blank\">the-antipaladin-infernal-devastator-ftr ... 51520.html</a><br/>\n<br/>\ngreataxe or scythe sounds really awesome. those x4 and x5 modifiers :)<br/>\n<br/>\nWe should be asking DMs to build more scythe wielding opponents who can keen their weapons :)<br/>\n<br/>\nSpear doesn't sound too bad actually with a x3 modifier but I don't think it looks as cool? Something about it just doesnt cut it for me, I don't quite understand<br/>\n<br/>\nHeavy flail on the other hand... :) I like. wish it could be keen weapon'ed though</div>"
+    },
+    {
+      "author": "stephenratcliffe809",
+      "avatar": "10759100_1561880327.jpg",
+      "timestamp": "9:10 PM - Sep 05, 2019",
+      "content": "<div>Remember on WoG there's a crafting gem that adds Keen property to Blunt and Piercing weapon blanks<br/>\n<br/>\nSent from my SM-T810 using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:15 PM - Sep 05, 2019",
+      "content": "<div><blockquote><div><cite>gkorjax wrote:</cite>\nValerfor, Out of the corners of my mind I remember the name Lord Soth, but I cannot recall from where it comes, so I ask you where?<br/>\nAnd of course I want to know what build you mean.<br/>\n<br/>\nOn Greyhawk, I often choose Greataxe over Greatsword, but I do not use devastating critical.<br/>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.\n</div></blockquote>\nThe build was the one Orion linked but I went with even bigger strength 17(32), by sacrificing the esf:taunt for another great str.<br/>\n<br/>\nLord Soth is from the Dragonlance modules/novels of TSR era. <br/>\nA bad-ass Ex-Paladin - now a Death-Knight, that has to listen to spirits each night moaning about his sins in life forever.<br/>\nThe Queen of Darkness herself tried to coerce him into joinning her forces in the upcoming war of the lance &amp; he just told her to piss off (He doesn't care if he dies, for him is salvation). <br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://orig00.deviantart.net/0154/f/2007/110/0/1/dragonlance_5_by_jprart.jpg\"/><br/>\n<strong>Like a Boss</strong><br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://66.media.tumblr.com/tumblr_lmyfb3HPoz1qlar3zo1_1280.jpg\"/></div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:50 AM - Sep 06, 2019",
+      "content": "<div>You've made me want to make a blackguard now, what a cool character concept!</div>"
     }
   ]
 }

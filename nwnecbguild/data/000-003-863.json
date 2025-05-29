@@ -4,77 +4,162 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "863",
-  "name": "Crouching Mouse, Hidden Hamster",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/crouching-mouse-hidden-hamster-t2355062.html",
-  "author": "Stagmeister",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 10,
+  "name": "Bard/CoT for Aielund",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/bard-cot-for-aielund-t2355055.html",
+  "author": "i300",
+  "avatar": "no_avatar.png",
+  "replies": "22",
+  "views": "2.0K",
   "posts": [
+    {
+      "author": "i300",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:46 AM - Apr 11, 2019",
+      "content": "<div>Greetin's, first build request post here even though I've been consulting these forums for some time.<br/>\n<br/>\nI've noticed a lot of bard/x/x builds, which is far from surprising, and a lot of x/x/CoT builds, but surprisingly haven't found many x/Bard/CoT melee builds, given that both benefit from having decent CHA. Is there a reason the combination is not viewed favorably around here?<br/>\n<br/>\nI'm probably looking for something like Fighter/Bard/CoT for the weapon specialization line of feats, preferably BAB 27-29 range (so not too many Bard levels, although I could be won over by the benefits of Bard16 with BAB26), and skills to fit an Aielund playthrough.<br/>\n<br/>\nRDD builds need not apply. Have at it, if you will!</div>"
+    },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:13 PM - May 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Right. Valerfor's been messing with my head again (see his \"The Last Shinobi\" thread in the NwN Tavern sub-forum - though the rest of them could just be in hiding), so I thought I'd have a look at building a Monk/ Rogue/ Shadowdancer. This is very much first thoughts, so please feel free to do as you please with it (within the bounds of decency, of course). I went for unarmed rather than kama because the damage is so much better once you hit Monk 16 - that and the fact that I didn't exactly have feats to burn. And I sacrificed Epic Prowess to get those extra 2 Dex points, so it comes out the same as far as AB goes.<br/>\n<br/>\n<strong>Monk 26/ Rogue 13/ SD 1</strong><br/>\nHalfling, any lawful<br/>\nPvM 1-40<br/>\n<br/>\n<strong>Stats</strong><br/>\n<br/>\nSTR 10 <em>(gods, that hurts me to do)</em><br/>\nDEX 19 (34)<br/>\nCON 12<br/>\nWIS 12<br/>\nINT 13<br/>\nCHA 8<br/>\n<br/>\nHPs - 334<br/>\nAC - (naked) 31 (+1 Dodge, +5 Expertise)<br/>\nSaves - Fort 22, Will 22, Reflex 37. +2 vs mind spells, +2 vs fear-type spells, +4 vs spells, +2 vs traps <em>(or maybe more, I can't remember my UD stuff)</em>, immune to mind spells, immune to disease and poison<br/>\nEpic Dodge<br/>\nEmpty Body - 2xpd 50% concealment<br/>\nSpell Resistance - 36 (undispellable)<br/>\n7xd6 sneak attack<br/>\nBAB - 25<br/>\nAB - (max, unarmed) 41/ 38/ 35 <em>(7 APR with Monk progression and hasted - I think)</em>: (max, ranged) 38 (+1 with thrown weapons)<br/>\nDamage - (unarmed, melee) d20 (crit 19-20x2), penetrate DR 3/-<br/>\nSpells - UMD<br/>\nSPs - 281. <em>(Not fully worked out, but certainly including...)</em> Tumble 40 (52), UMD 34 (33), Spellcraft 19 (20), Hide 43, Move Silently 43, then some Listen, Dis Trap, Set Trap, Search and Open Lock <em>(need to do some more sums)</em><br/>\n<br/>\n<strong>Levelling</strong><br/>\n<br/>\n1 R1 - Dodge<br/>\n2 M1 - (Cleave/ Evasion/ FoB/ Stun Fist/ Imp Unarmed Strike)<br/>\n3 R2 - Weapon Finesse<br/>\n4 R3 - (Uncanny Dodge I)/ DEX+1 (20)<br/>\n5 M2 - (Deflect Arrows)<br/>\n6 M3 - (Monk Speed/ Still Mind)/ WF: Unarmed<br/>\n7 M4<br/>\n8 M5 - (Purity of Body)/ DEX+1 (21)<br/>\n9 M6 - (KD/ IKD)/ Expertise<br/>\n10 M7 - (Wholeness of Body)<br/>\n11 M8<br/>\n12 M9 - (Imp Evasion)/ Blind Fight/ DEX+1 (22)<br/>\n13 R4<br/>\n14 M10 - (Ki Strike 1)<br/>\n15 M11 - (Diamond Body)/ Imp Crit: Unarmed<br/>\n16 M12 - (Diamond Soul)/ DEX+1 (23)<br/>\n17 R5<br/>\n18 R6 - Mobility<br/>\n19 R7<br/>\n20 R8 - DEX+1 (24)<br/>\n21 SD1 - (HiPS)/ EWF: Unarmed<br/>\n22 R9<br/>\n23 R10 - Defensive Roll<br/>\n24 M13 - (Ki Strike 2)/ Great Dex I (25)/ DEX+1 (26)<br/>\n25 M14<br/>\n26 M15 - (Quivering Palm)<br/>\n27 M16 - (Ki Strike 3/ d20 fists)/ Epic Dodge<br/>\n28 M17 - DEX+1 (27)<br/>\n29 M18 - (Empty Body)<br/>\n30 M19 - Great Dex II (28)<br/>\n31 M20 - (Perfect Self)<br/>\n32 R11 - DEX+1 (29)<br/>\n33 R12 - Great Dex III (30)<br/>\n34 M21<br/>\n35 M22<br/>\n36 M23 - Great Dex IV (31)/ DEX+1 (32)<br/>\n37 R13 - Crippling Strike<br/>\n38 M24<br/>\n39 M25 - Great Dex V (33)/ Armor Skin<br/>\n40 M26 - DEX+1 (34)<br/>\n<br/>\nDoes it look reasonable as a principle?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:26 AM - Apr 11, 2019",
+      "content": "<div>Hello and welcome i300!<br/>\n<br/>\nInterestingly enough, I'm currently honing a Bard 16/ Barbarian 16/ CoT 8 with Noctem in the \"Maybe I'm just plain outta my head...\" thread. Would that be of any interest? It should work fine for Aielund with a little jiggling. It's a 29 BAB build with a greatsword.<br/>\n<br/>\nIf you're keen on getting WS/ EWS, maybe something like a Fighter 6/ Bard 16 or 20/ CoT 14 or 18 could work? Bearing in mind that Aielund will finish at about level 36-7, so you're pretty well guaranteed to lose a general feat (L39) and the stat bump at L40.<br/>\n<br/>\nBtw, does Bard still attract extra skill points in the EE version of Aielund?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:06 PM - Apr 11, 2019",
+      "content": "<div>If you play Aielund with <strong>EMS</strong> there are several <strong>changes to the Bard class:</strong><br/>\n<br/>\nYou get <strong>Weapon Proficiency Rogue</strong>.<br/>\n<br/>\nYou get<strong> 6 skill points</strong> per level + int bonus (x4 at lvl 1)<br/>\n<br/>\nYou have the following <strong>extra spells</strong> to choose from:<br/>\nAcid Splash as C0<br/>\nBanishment as C5<br/>\nDeafening Clang as C1<br/>\nDominate Monster as C6<br/>\nElectric Jolt as C0<br/>\nEndurance as C2<br/>\nEndure Elements as C1<br/>\nFreedom Of Movement as C4<br/>\nGreat Thunderclap as C5<br/>\nGreater Shadow Conjuration as C5<br/>\nHorizikaul's Boom as C1<br/>\nMass Charm as C6<br/>\nProtection From Elements as C3<br/>\nRay Of Frost as C0<br/>\nResist Elements as C2<br/>\nShadow Conjuration as C4<br/>\nShield as C1<br/>\nStoneskin as C4<br/>\n<br/>\n<strong>The Bard song and Curse song\u00a0 are changed:</strong><br/>\nPerform requirement is Bard-level +3 for each song ( 4 for lvl 1 song, 5 for level 2 song etc)<br/>\nEvery 6 levels starting at Bard 1: +1 AB, +1 Damage (Bard 1, 7, 13, 19, 25 etc)<br/>\nEvery 6 levels starting at Bard 2: +1 DodgeAC\u00a0 (Bard 2, 8, 14, 20, 26 etc)<br/>\nEvery 6 levels starting at Bard 3: +1 Fort<br/>\nEvery 6 levels starting at Bard 4: +1 Will<br/>\nEvery 6 levels starting at Bard 5: +1 Reflex<br/>\nEvery 6 levels starting at Bard 6: +1 Skills, +6 HP<br/>\nThere is no level 30 song cap<br/>\n<br/>\nAt lvl 16 the bonus is: +3 AB, +3 Damage, +3 AC, +3 Fort, +3 Will, +2 Refl, +2 skills, +12 HP, and there is not a clearly defined \"Sweet spot\" at lvl 16 anymore.<br/>\n<br/>\n<strong>Lasting Impression</strong> is only 2x normal song duration (i.e. 20 rounds)</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "i300",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:11 AM - Apr 13, 2019",
+      "content": "<div>Wow, pity... those are some interesting changes to Bard in EMS, but aside from a small handful of spells which were solid, simple changes (for which I've extracted the .ncs files for into the override folder) I've decided to give that component a wide berth on my install of Aielund after a closer examination of the readme file and actually looking up the tabletop source material. In a nutshell, it's all over the place; some changes are understandable, but others are from a wild mix of 3.0e (which NWN1 was based on), 3.5e, and some random changes that follow neither editions nor bioware's implementation (intended or otherwise) and imo have little justification. I'm sure the author had his reasons, but the overall tone/philosophy that's conveyed by his notes combined with the fact his documentation at times is inaccurate or misleading ('per PHB' even though it's clearly not the case at times) was rather offputting.<br/>\n<br/>\nThanks for the welcome Stagmeister; I did see the barb/bard/CoT thread and was intrigued, but in the end decided I'd prefer fighter for WS/EWS. I also like having as feats as possible/varied tactical options to represent a smart, skilled fighter vs pure brute force, part of the reason I'm not fond of RDD builds (aside from having developed a distaste for them from seeing scores of of min/max RDD clones running around PWs). The F6/Bard16/CoT sounds promising. Are there any specific builds here I've missed or do you have something in mind?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "8:02 AM - Apr 13, 2019",
+      "content": "<div>Give me some time and I will give you one heck of a Bard i300.<br/>\nThe reason I can't give you the build right now is that I have made it for a Dev. Crit environment, so I need to modify it to fir your case and Saturday is a nice day for doing that.<br/>\nOne warning, this ain't your normal singing Bard, but rather a hardcore Berserker, that happens to know a few hymns...So, don't expect a lot of Bard in there.</div>"
+    },
+    {
+      "author": "i300",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:16 AM - Apr 13, 2019",
+      "content": "<div>Hmm... Berserker as in Barbarian levels? I'd really prefer Fighter/Bard/CoT ... :)\u00a0<br/>\nLots of ways to do this certainly, but something with skills suited for Aielund would be ideal.\u00a0<br/>\n<br/>\nBtw, I've seen some Aielund melee builds (such as Empyre's Katana builds <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/weaponmaster-for-campaigns-t2354938.html\" rel=\"noreferrer\" target=\"_blank\">weaponmaster-for-campaigns-t2354938.html</a>) that seem to completely ignore Concentration; there's definitely quite a bit of taunting going on by foes in ch.1 at least - is there a reason people are dropping Concentration? Seems like such a glaring oversight I'm wondering if Aielund features boatloads (there's definitely an overabundance of magical items which unfortunately is typical of CRPGs imo) of magic item with immunity to taunt that's loaded with too many goodies to pass up or some such?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:26 AM - Apr 13, 2019",
+      "content": "<div>No, Berserker like the kit from Fighter's Handbook from 2nd Edition AD&amp;D.<br/>\nPure carnage with EWS &amp; Maximum Human strength, ridiculous saves &amp; destructive battle wrath. <br/>\nDon't worry he will also have some concentration &amp; more since he has about 240 skills.\u00a0</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:25 PM - Apr 13, 2019",
+      "content": "<div><blockquote><div><cite>i300 wrote:</cite>\nBtw, I've seen some Aielund melee builds (such as Empyre's Katana builds <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/weaponmaster-for-campaigns-t2354938.html\" rel=\"noreferrer\" target=\"_blank\">weaponmaster-for-campaigns-t2354938.html</a>) that seem to completely ignore Concentration; there's definitely quite a bit of taunting going on by foes in ch.1 at least - is there a reason people are dropping Concentration? Seems like such a glaring oversight I'm wondering if Aielund features boatloads (there's definitely an overabundance of magical items which unfortunately is typical of CRPGs imo) of magic item with immunity to taunt that's loaded with too many goodies to pass up or some such?\n</div></blockquote>\nThe problem isn't so much an oversight as a question of priorities. You need to be maxing Discipline, Tumble (40 unmodified ranks), UMD (where possible - certainly up to a modified 33), and a perception skill (Listen or Spot). That's about 160 points. Then, for a Bard, you need some Perform for the song, so you're up around 175/180 points. It's rare to have a melee build with many more than 200/220 points, so it becomes a contest between Concentration and Spellcraft (and maybe Taunt if classes permit), both of which have their merits. In Empyre's particular build, you need to use 8 points to get the 4 Intimidate required for WM as well. Craft Weapon has a particular use in Aielund, too, so there's not much scope left. In a CoT build, rather than a WM one, you're going to have much better saves, so the lure of Spellcraft is lessened somewhat, but is still hard to ignore. It's the old \"you can't have everything you want,\" problem again.<br/>\n<br/>\nHope this helps.<br/>\n<br/>\n<strong><em>EDIT:</em></strong> @ Valerfor - Looking forward to seeing the results of your endeavours!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:20 AM - May 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you start with 18 DEX, you have 3 points to spend, so you can have 12 STR and 14 INT.\u00a0 That leaves a feat free for Epic Prowess, so your AB is the same, and you get slightly better STR and more skill points, which is great for a Rogue.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:48 PM - Apr 13, 2019",
+      "content": "<div>Stag did a great job of explaining why my build didn't have Concentration.\u00a0 There just wasn't room for it.\u00a0 I have put points in it in other Aielund builds.<br/>\n<br/>\nThere is a reason RDD is used so often that it is a cliche.\u00a0 It is a really good powerful class.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:44 AM - Apr 14, 2019",
+      "content": "<div><strong><span style=\"text-decoration:underline\">KYRA SILVERBLADE</span></strong><br/>\n(FTR 6/ BARD 8/ COT 26)<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://i.imgur.com/r5KfIcd.jpg\"/><br/>\nRACE: Human<br/>\nALIGNMENT: Any Non-Evil/ Non-Lawful<br/>\nPLAYABILITY: PvM 1-40 lvl<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR \u2013\u00a0 16 (<strong>32</strong>)<br/>\nDEX \u2013\u00a0 08<br/>\nCON \u2013 12<br/>\nINT \u2013\u00a0\u00a0\u00a0 14<br/>\nWIS \u2013\u00a0 08<br/>\nCHA \u2013 16<br/>\n<br/>\nHit Points: 448<br/>\n<br/>\nSkill Points: 237<br/>\n<br/>\nConcentration: 24 (25)<br/>\nDiscipline: 43 (54)<br/>\nTaunt: 43 (<strong>59</strong>)<br/>\nTumble: 40 (39)<br/>\nPerform: 12 (15)<br/>\nSpellcraft: 43 (45)<br/>\nUMD: 32 (35)<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 37/ 35/ 31 \u2192 46/ 44/ 40 (Saves Vs Spells)<br/>\nNaked/ Armoured AC: 19/ 30 (Full Plate &amp; Shield)<br/>\n<br/>\nBAB: 29 (Four Attacks w/Bastard Sword)<br/>\nAB: +44/ +39/ +34/ +29 (Bastard Sword)<br/>\nDMG: 1D10 +17/ 17-20 x2 (Bastard Sword)<br/>\n<br/>\nSpellcasting: Bard 3rd lvl Spells plus UMD<br/>\nBard Song: +2 AB/ +2 DMG/ +1 All Saving Throws/ +1 All Skills/ +8 HP's <br/>\nCurse Song: Reverse all of the above for your foes, Duration is 15 rounds<br/>\nDivine Wrath: +11 AB/ +11 DMG/ +11 (+7) All Saving Throws/ DMG Reduction 20/ +4<br/>\nSmite Evil: 3x Day: +3 (+9) Attack/ +26 Damage<br/>\n<br/>\nLEVELING GUIDE:<br/>\n01) Bard (01): Lingering Song, Curse Song<br/>\n02) Fighter (01): Exotic Weapons<br/>\n03) Fighter (02): WF: Bastard Sword, Expertise<br/>\n04) Fighter (03): <br/>\n05) Fighter (04): WS: Bastard Sword<br/>\n06) Fighter (05): Knockdown<br/>\n07) Bard (02): <br/>\n08) Fighter (06): Improved Knockdown<br/>\n09) CoT (01): SF: Taunt<br/>\n10) CoT (02): Blind Fighting<br/>\n11) CoT (03): <br/>\n12) Bard (03): Extra Music<br/>\n13) CoT (04): Power Attack<br/>\n14) CoT (05): <br/>\n15) CoT (06): Extra Smiting, Cleave<br/>\n16) CoT (07): <br/>\n17) CoT (08): Called-Shot<br/>\n18) Bard (04): Toughness<br/>\n19) CoT (09): <br/>\n20) CoT (10): Improved Expertise<br/>\n21) CoT (11): Great Strength I<br/>\n22) Bard (05): <br/>\n23) CoT (12): <br/>\n24) CoT (13): Great Strength II<br/>\n25) CoT (14): EWF: Bastard Sword<br/>\n26) CoT (15): <br/>\n27) Bard (06): Great Strength III<br/>\n28) CoT (16): <br/>\n29) CoT (17): <br/>\n30) CoT (18): Great Strength IV, EWS: Bastard Sword<br/>\n31) CoT (19): <br/>\n32) Bard (07): <br/>\n33) CoT (20): Great Strength V<br/>\n34) CoT (21): <br/>\n35) CoT (22): Armour Skin<br/>\n36) CoT (23): Great Strength VI<br/>\n37) CoT (24): <br/>\n38) CoT (25): <br/>\n39) CoT (26): ESF: Taunt, Epic Prowess<br/>\n40) Bard (08): <br/>\n<br/>\nSPECIAL NOTES: <br/>\n-- Strong, Warrior alike attack, without any buffs<br/>\n-- Superior saving throws, essentialy failing his saves only on a roll of \"1\"<br/>\n-- Tremendus Taunt de-buff, 60 Taunt without items!<br/>\n-- Enough feats for everything!<br/>\n<br/>\nCONS:<br/>\n-- Not enough skill points for everything <br/>\n-- Dev. Crit version is slightly stronger, partly because of the altered class-split, so that it gains the most powerful feats earlier<br/>\n<br/>\nBIC* File, to examine the character by yourself in any trainer.</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:49 AM - Apr 14, 2019",
+      "content": "<div>You will have to modify the build to your tastes of course, because Aielund ends at 37th level.<br/>\nESF: Taunt especially, can go anywhere, depending on how much do you use it. <br/>\n<br/>\nLet me know what you think &amp; tell me if the bic* file works properly for all of you folks.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:14 PM - May 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, that's a good idea, thanks Empyre. It will cost 1AC and 1Reflex, but I know I'll feel more comfortable with a STR of 12 (particularly in light of what you said in the Last Shinobi thread about hin only attaining d12 fists). The extra skill points will also come in handy, as - for the first time - I want to make good use of the trapping skills as well as stealth.<br/>\n<br/>\nI'll save doing the edit until I've worked out some more of the details - and in case anyone else has something to contribute.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:01 AM - Apr 14, 2019",
+      "content": "<div>Oh, I'll be playing this one for sure!<br/>\n<br/>\nAs to a Naming Ceremony, I'm tempted by - as a sort of homage to one of Baldur's Gate: Dark Side of the Sword Coast heroines - <strong>Kyra Silverblade</strong> (Keiria Silverstring's more physical cousin, yet still retaining the ginger gene and vocal talents).<br/>\n<br/>\nAny use?<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Of course, if you want to make it all a bit more mystical, you could try <strong>Hymn of Glory</strong>, maybe?</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "gkorjax",
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:46 AM - Apr 14, 2019",
+      "content": "<div>Kyra Silverblade will do Stag, Thanks!</div>"
+    },
+    {
+      "author": "i300",
       "avatar": "no_avatar.png",
-      "timestamp": "3:47 PM - May 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A couple things. One is minor, well perhaps both are minor. Your reported ac is too low, I am sure when you put it in the spread sheet this would be evident, but 10 + 12(dex) +8 (tumble) + 5(monk) +1 (fling) =36<br/>\n<br/>\nThe other is sorta minor, but something you talk about. Or maybe it was in another thread.<br/>\nFlings aren't going to ever get 1d20 fists...they are small.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:56 PM - May 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks gkorjax - good catch on the AC. I do my builds in pencil and paper and forgot to add in the monk AC bumps. I'll change it in the edit.<br/>\n<br/>\nYeah, I didn't know about the non-availability of d20 fists (or age is conspiring against my memory again) for hins until Empyre pointed it out. Might mean some head-scratching on my part as far as race goes. That said, from the video Valerfor provides, it appears that ninja/shinobi foci are stealth and intelligence-gathering, but with the ability to defend oneself, and my intention with this one is to use stealth and traps (going wildly against my natural instincts, but one should keep learning, yes?) more than physical presence, so we'll see...<br/>\n<br/>\nThanks for the feedback!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:43 PM - May 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh bugger, I'm now thinking about an elf - but that puts me in Mick's Kama-Shinobi headlights...Except this isn't meant to be a dual-wielder or a kama-user - and I would get the d20 fists, and elves are traditionally a stealthy bunch. CON would take a hit, but STR wouldn't, so things could balance out. There would, however, be an xp penalty...Arse. Yes, I know I could go human or half-elf, but it just doesn't seem to hit the spirit of the thing.<br/>\n<br/>\nCurrently in mulling mode...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:19 AM - Apr 14, 2019",
+      "content": "<div>Wow, 59 Taunt! Definitely adds a certain flair (as well as being mechanically useful) which I like. I might be tempted to raise the Dex some and maybe knock down CHA a bit mainly for flavor if it doesn't mess things up too badly (looking at the picture provided I just don't see Dex 8!). Also makes me wonder if 14 INT is really needed for a CoT build (though I realize the effectiveness of Expertise in tight spots - love me lots of skills but can live with a bit less if s/he's a stunningly effective combatant... alas, can't have it all indeed) vs say a WM one which requires minimum 13.\u00a0<br/>\nI also play with EMS disabled for the most part which means Eagle's Splendor lasts hour/lvl per NWN/3.0e rather than the 3.5e version EMS modded to; NWN stacking rules means a 14 CHA will hit 20-22 range by Ch1 for a decent stretch... good enough perhaps for the smites? Most CoT builds I've seen here don't seem to emphasize CHA/smites at all actually, with many base CHA 8 builds, giving me the impression it's seen as a bonus but not\u00a0 a vital contribution. Am I forgetting about something besides smite (and lay on hands, which really doesn't seem that big a deal if it's not a heavy CHA/pallyCOT build) that CHA14 rather than 16 would impact significantly?</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:51 AM - May 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag, you rock it (again) with the name.<br/>\nAnd this is a reasonably powerful build, not bad for something that isn't your specialty.<br/>\n<br/>\nDefinitely explore other races if you think that they would be better suited to the task though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:42 AM - Apr 14, 2019",
+      "content": "<div>Yeah, I decided to go for a bit more organic/ flavorful build with her and that's why she has 16 cha, it also helps with the duration of divine wrath &amp; gives an extra level-three spell.<br/>\nFeel free to change it as much as you like, these Ftr/xx/CoT builds are a godsend for those who love tinkering with their characters &amp; stay always strong, if build right.<br/>\nYou can always try her first as is, to see for yourself before you change her by putting the bic* file in your local vault folder and loading PGC3 or a similar module, for a quick fight in the arena.</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:59 PM - May 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nStag, you rock it (again) with the name.</div></blockquote>\nIt kind of reminds me of a DM avatar I used from time to time back in the days on the Anchorome PW. It was a little mouse, a very tiny creature, so small that most players didn't notice it. But some did, and it sparked a lot of interesting roleplay. One of the players realized that it was me playing the mouse and named it Mickey.\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:22 PM - Apr 14, 2019",
+      "content": "<div>You want to lower your CHA?\u00a0 You said that the CHA synergy was why you wanted a Bard / xx / CoT.<br/>\n<br/>\nSeeing those EMS changes for Bard has inspired me to make a Bard-heavy build for Aielund for myself, and anybody else who wants to play it, too.\u00a0 I am thinking Bard 20 / Fighter 10 / RDD 10.\u00a0 I'll post that build later in the Aielund thread.\u00a0 Somebody please remind me if I forget to do it.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:27 PM - May 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, we could have a troop of small animal adventurers now...There's the aforementioned Mickey, Mopab the talking squirrel (from Nashkel in BG1), Mellicamp the chicken for mage duties, and Boo as their intrepid leader. Hurrah!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:38 PM - Apr 14, 2019",
+      "content": "<div>Oh, I will, Empyre - just because I'm looking forward to it! <span class=\"text-emoji\">\ud83d\ude03</span></div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:04 PM - May 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hahaha!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Asturonethoriusaline",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:33 PM - May 21, 2019",
+      "content": "<div>Have you thought about a Pal/Bard/Cot?<br/>\n<br/>\n1,2,3 less feats, which can be made up with more Cot levels, since Cot gets feats every other level, just like a fighter.<br/>\n<br/>\nJust get to Cot soon as possible, and take more Cot levels.<br/>\n<br/>\nYour gona be a little tiny bit weaker on the front end, but will be delayed power stronger on mid to back end.<br/>\n<br/>\nBetter abilities, skillsets.<br/>\n<br/>\nMaybe 1, or 2,  less feats, or same feats if take enough Cot Levels.<br/>\n<br/>\nGet the most out of Cha.<br/>\n<br/>\nSAVING THOW MAN<br/>\n<br/>\n(Should never fail a save by the time this guy is completely built.)<br/>\n<br/>\nWould love to see some good Pal/Bard/Cot builds here</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:04 PM - May 21, 2019",
+      "content": "<div><blockquote><div><cite>Asturonethoriusaline wrote:</cite>\nHave you thought about a Pal/Bard/Cot?<br/>\n<br/>\nWould love to see some good Pal/Bard/Cot builds here\n</div></blockquote>\nIt really depends on where you play. I know there are some PWs where Paladin/ Bard combinations will be allowed, but the standard is that they won't because of alignment restrictions - Lawful Good and Non-Lawful. Unless specifically asked for, it's legal builds only here, I'm afraid.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:45 PM - May 08, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<strong>Monk 26/ Rogue 13/ SD 1</strong><br/>\nHalfling<br/>\nDoes it look reasonable as a principle?</div></blockquote>\nIt does look reasonable. <br/>\nAs for Epic Prowess, you can do what Empyre suggests, or you can free up a general feat by taking Epic dodge on a rogue bonus feat rather than Crippling strike and gain +1 AB.<br/>\nOr you can make a Monk 20/ Rogue 19/ SD1 build and start with Dex 18 like Empyre suggests, but take both EP and AS on general feats and have 4 rogue bonus feats for Defensive roll, Epic dodge, Crippling strike and another free feat for Slippery mind, Skill mastery or an Epic skill focus.<br/>\n<br/>\n20 Monk compared to 26 cost 20% speed bonus, 6 SR and 1 AC<br/>\n19 Rogue compared to 13 gains 3d6 SA damage, 24 skill points and an Epic bonus feat.<br/>\nIf you keep the same pre epic split, the saves will not change.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:54 PM - May 22, 2019",
+      "content": "<div>As per NWN rules and how the game engine checks if builds are legal, builds with classes of conflicting aligment are considered legal.<br/>\nBut to be able to build such builds without cheating, the mod (or a DM) must give alignment changes according to your character's actions.<br/>\nSeveral PWs also have rules that prohibit certain class combinations, and Paladin/ Bard may easily end up on such a list.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:38 PM - Jun 05, 2019",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\nSeeing those EMS changes for Bard has inspired me to make a Bard-heavy build for Aielund for myself, and anybody else who wants to play it, too.\u00a0 I am thinking Bard 20 / Fighter 10 / RDD 10.\u00a0 I'll post that build later in the Aielund thread.\u00a0 Somebody please remind me if I forget to do it.\n</div></blockquote>\n*<em>Ahem</em>...*<br/>\n<br/>\n(Well, you did ask!)<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:38 AM - Jun 07, 2019",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Empyre65 wrote:</cite>\nSeeing those EMS changes for Bard has inspired me to make a Bard-heavy build for Aielund for myself, and anybody else who wants to play it, too.\u00a0 I am thinking Bard 20 / Fighter 10 / RDD 10.\u00a0 I'll post that build later in the Aielund thread.\u00a0 Somebody please remind me if I forget to do it.\n</div></blockquote>\n*<em>Ahem</em>...*<br/>\n<br/>\n(Well, you did ask!)<br/>\n<br/>\nCheers\n</div></blockquote>\n\nI already did, back in April, <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-aielund-saga-t515487-s390.html#p14703\" rel=\"noreferrer\" target=\"_blank\">in the Aielund thread</a>.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:11 AM - Jun 07, 2019",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\n<blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Empyre65 wrote:</cite>\nSeeing those EMS changes for Bard has inspired me to make a Bard-heavy build for Aielund for myself, and anybody else who wants to play it, too.\u00a0 I am thinking Bard 20 / Fighter 10 / RDD 10.\u00a0 I'll post that build later in the Aielund thread.\u00a0 Somebody please remind me if I forget to do it.\n</div></blockquote>\n*<em>Ahem</em>...*<br/>\n<br/>\n(Well, you did ask!)<br/>\n<br/>\nCheers\n</div></blockquote>\n\nI already did, back in April, <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-aielund-saga-t515487-s390.html#p14703\" rel=\"noreferrer\" target=\"_blank\">in the Aielund thread</a>.\n</div></blockquote>\nOh bloody hell - sorry, Empyre - don't know how that one passed me by.<br/>\n<br/>\nThanks</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

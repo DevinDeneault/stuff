@@ -4,65 +4,128 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "221",
-  "name": "Dev Crit, Epic Dodge, BAB 40+, Dev Crit DC 40+",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dev-crit-epic-dodge-bab-40-dev-crit-dc-40-t2354430.html",
-  "author": "Fist",
-  "avatar": "10235244_1510287070.jpg",
-  "replies": 8,
+  "name": "Grim Stonefoot (Fighter 18 / DD 15 / WM 7)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/grim-stonefoot-fighter-18-dd-15-wm-7-t2354435.html",
+  "author": "Stagmeister",
+  "avatar": "10404082_1510287071.jpg",
+  "replies": "16",
+  "views": "1.7K",
   "posts": [
     {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:11 AM - May 09, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><span style=\"color:#4C5D77\">1) PvM or PvP - Both</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">2) Level cap - 40</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">3) Race preference - any</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">4) Class preference - Open, but I see FTR/COT/SD or BRD/RDD/(SD or ROG)</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">5) Melee preference - Sword and Board</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">6) Range preference - DEX archery\u00a0</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">7) Weapon preference - Scimitar</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">8) Maximum item enhancement - Call it +5</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">9) Spellcasting - No need</span><br/>\n<br/>\n<span style=\"color:#4C5D77\">10) Custom factors - Not looking for SC V, just want to kill, then dodge his buddies</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:22 PM - May 21, 2015",
+      "content": "<div>Hello All,<br/>\n<br/>\n Here's my first solo attempt at a full build, so please only beat me with soft sticks.<br/>\n<br/>\n I had one of those moments of lassitude, so I thought: enough of all this running around agility - how about a lazy wee bugger who'll just stand there, beckon foes to him, soak damage and knock them all into the middle of next week - so here's my stab at him.<br/>\n<br/>\n (I'm afraid I seem to have forgotten how to calculate AC properly, and I'm aware that his saves aren't great - perhaps some of you good folk could advise, please.)<br/>\n<br/>\n GRIM STONEFOOT<br/>\n<br/>\n Fighter 18 / Dwarven Defender 15 / Weapon Master 7<br/>\n Dwarf - Lawful Neutral<br/>\n (PvM L1-40)<br/>\n<br/>\n STR 17 (32)<br/>\n DEX 13<br/>\n CON 16<br/>\n INT 14<br/>\n WIS 8<br/>\n CHA 6<br/>\n<br/>\n Hit Points: 590<br/>\n Skill Points: 172 - Discipline 43 (54), Intimidate 4 (2), Listen 41 (40), Spellcraft 18 (20), Tumble 20 (21)<br/>\n<br/>\n BAB: 51<br/>\n AB: +56/+51/+46/+41<br/>\n Damage (Heavy Flail): 1D10+17 / 15-20 x3<br/>\n<br/>\n AC (naked): 17<br/>\n Saves: Fortitude 25, Reflex 16, Will 19<br/>\n<br/>\n Levelling Guide<br/>\n<br/>\n L1 Fighter 1: Dodge / Weapon Focus - Heavy Flail<br/>\n L2 Fighter 2: Mobility<br/>\n L3 Fighter 3: Expertise<br/>\n L4 Fighter 4: Weapon Specialization - Heavy Flail / (STR+1 - 18)<br/>\n L5 Fighter 5:<br/>\n L6 Fighter 6: Spring Attack / Blind-Fighting<br/>\n L7 Fighter 7:<br/>\n L8 Fighter 8: Whirlwind Attack / (STR+1 - 19)<br/>\n L9 WM 1: Improved Critical - Heavy Flail / (Weapon of Choice - Heavy Flail / Ki Damage 1)<br/>\n L10 WM 2: (Ki Damage 2)<br/>\n L11 WM 3: (Ki Damage 3)<br/>\n L12 WM 4: Power Attack / (Ki Damage 4) / (STR+1 - 20)<br/>\n L13 WM 5: (Increased Multiplier / Superior Weapon Focus / Ki Damage 5)<br/>\n L14 WM 6: (Ki Damage 6)<br/>\n L15 WM 7: Cleave / (Ki Critical / Ki Damage 7)<br/>\n L16 Fighter 9: (STR+1 - 21)<br/>\n L17 Fighter 10: Toughness<br/>\n L18 DD 1: Great Cleave / (Defensive Stance 1)<br/>\n L19 DD 2: (Defensive Awareness I)<br/>\n L20 DD 3: (Defensive Stance 2) / (STR+1 - 22)<br/>\n L21 Fighter 11: Great Strength I (STR 23)<br/>\n L22 Fighter 12: Overwhelming Critical - Heavy Flail<br/>\n L23 Fighter 13:<br/>\n L24 Fighter 14: Great Strength II / Devastating Critical - Heavy Flail / (STR+1 - 25)<br/>\n L25 DD 4:<br/>\n L26 DD 5: (Defensive Awareness II / Defensive Stance 3)<br/>\n L27 DD 6: Epic Weapon Focus - Heavy Flail / (Damage Reduction 3/-)<br/>\n L28 DD 7: (Defensive Stance 4) / (STR+1 - 26)<br/>\n L29 DD 8:<br/>\n L30 Fighter 15: Epic Will<br/>\n L31 Fighter 16: Epic Weapon Specialization - Heavy Flail<br/>\n L32 DD 9: (Defensive Stance 5) / (STR+1 - 27)<br/>\n L33 DD 10: Great Strength III (STR - 28) / (Defensive Awareness III / Damage Reduction 6/-)<br/>\n L34 DD 11: (Defensive Stance 6)<br/>\n L35 DD 12:<br/>\n L36 Fighter 17: Great Strength IV / (STR+1 - 30)<br/>\n L37 Fighter 18: Armor Skin<br/>\n L38 DD 13: (Defensive Stance 7)<br/>\n L39 DD 14: Great Strength V (STR 31) / Epic Prowess (Damage Reduction 9/-)<br/>\n L40 DD 15: (Defensive Stance 8) / (STR+! - 32)<br/>\n<br/>\n Skills Distribution<br/>\n<br/>\n L1: Discipline 4 / Intimidate 2 / Spellcraft 2 / Tumble 2<br/>\n L2: Discipline 1 (Save 3)<br/>\n L3: Discipline 1 / Intimidate 1 / Spellcraft 1 / Tumble 1<br/>\n L4: Discipline 1 (Save 3)<br/>\n L5: Dicsipline 1 / Intimidate 1 / Spellcraft 1 / Tumble 1<br/>\n L6: Discipline 1 (Save 3)<br/>\n L7: Discipline 1 / Spellcraft 1 / Tumble 1 (Save 2)<br/>\n L8: Discipline 1 (Save 5)<br/>\n L9: Discipline 1 / Listen 4 / Spellcraft 1 / Tumble 1<br/>\n L10: Discipline 1 / Listen 3<br/>\n L11: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L12: Discipline 1 / Listen 1 / Tumble 1<br/>\n L13: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L14: Discipline 1 / Listen 1 / Tumble 1<br/>\n L15: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L16: Discipline 1 / Tumble 1 (Save 1)<br/>\n L17: Discipline 1 / Spellcraft 1 / Tumble 1<br/>\n L18: Discipline 1 / Listen 3<br/>\n L19: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L20: Discipline 1 / Listen 1 / Tumble 1<br/>\n L21: Discipline 1 / Spellcraft 1 (Save 1)<br/>\n L22: Discipline 1 / Tumble 1 (Save 2)<br/>\n L23: Discipline 1 / Spellcraft 1 (Save 3)<br/>\n L24: Discipline 1 / Tumble 1 (Save 4)<br/>\n L25: Discipline 1 / Listen 3 / Spellcraft 1 / Tumble 1<br/>\n L26: Discipline 1 / Listen 3<br/>\n L27: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L28: Discipline 1 / Listen 1 / Tumble 1<br/>\n L29: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L30: Discipline 1 / Tumble 1 (Save 1)<br/>\n L31: Discipline 1 / Spellcraft 1 (Save 2)<br/>\n L32: Discipline 1 / Listen 3 / Tumble 1<br/>\n L33: Discipline 1 / Listen 1 / Spellcraft 1<br/>\n L34: Discipline 1 / Listen 1 / Tumble 1<br/>\n L35: Discipline 1 (Save 3)<br/>\n L36: Discipline 1 / Tumble 1 (Save 4)<br/>\n L37: Discipline 1 (Save 7)<br/>\n L38: Discipline 1 / Listen 8 / Tumble 1<br/>\n L39: Discipline 1 / Heal 1 / Listen 2<br/>\n L40: Discipline 1 / Heal 3<br/>\n<br/>\n And there you have it - you may shoot now!<br/>\n<br/>\n<em><strong>EDIT</strong></em>: Hope the sums work in the amendments. Btw - where is everyone (not you, Empyre, obviously!)? All gone on holiday together?</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:26 AM - May 09, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is the one that first springs to mind Theo<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.forumer.com/topic/515494/Tear-of-the-Dragon-Bard-16Rogue-14Red-Dragon-Disciple-10#.VU2Z8PmqpBc\" rel=\"noreferrer\" target=\"_blank\">Tears of the Dragon</a><br/>\n<br/>\n Falls a couple of points short in that the Dev Crit DC is 38 and AB is 37 unbuffed but I'm not sure it is possible to get much better.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:01 PM - May 21, 2015",
+      "content": "<div>It looks like a solid build. However:<br/>\n<br/>\n It would be nice if you could cross-train Tumble to 20. That would gain you +4 AC. I think that might be preferable over Concentration. A failed save against Taunt will cost you up to 6 AC for 5 rounds, but failure to get that 20 Tumble will cost you 4 AC all the time.<br/>\n<br/>\n I know that 4 Intimidate is required for WM, but why did you cross-train another 2 Intimidate? Heal or even Lore would be less useless.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:40 AM - May 09, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Essentially this is exactly on the mark, Kalistez, with Curse Song/ Bard Song, even without adding War Cry to the mix, the AB becomes 44 &amp; the DC for Dev. Crit. becomes 40 because of the penalty to the saves for your opponents. You can do this combo enough times a day too.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:16 PM - May 09, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, I saw him. \u00a0Since I wasn't interested in casting Bard spells, etc., I was wondering if there was a version with higher AB. \u00a0I'm not sure if this is posible without RDD. \u00a0There are a couple BRD/RDD/SD combos with ED and DC, but their ABs are in the 33-35 range.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:29 PM - May 09, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, if you want to\u00a0 really optimize him, you could start with Elf and 18 DEX/ 18 STR/ 10 CON/ 10 INT/ 8 WIS/ 8 CHA and finish with 30 STR/ 26 DEX/ 12 CON/ 12 INT/ 8 WIS/ 10 CHA, of course you won't be able to cast spells but the Curse Song/ Bard Song remains as is the UMD and everything else. There is your 40 AB/ 40 DC Dev. Crit.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:42 PM - May 10, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I also found this one <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build198954.html\" rel=\"noreferrer\" target=\"_blank\">Shadow Warrior</a> by Mith<br/>\n<br/>\n Ubuffed DW AB of 38, Dev Crit DC of 38 and HiPS<br/>\n<br/>\n I know the AB and DC are a bit lower than you wanted (although AB is 40 if you don't DW) but it has HiPS and you don't have spells to worry about.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:38 PM - May 21, 2015",
+      "content": "<div>@ Empyre - Thanks, 'solid' was pretty much bang on what the lad should be - and better than I'd hoped!<br/>\n<br/>\n To answer your questions: I love Tumble, and would have headed there except that everyone seems to recommend Concentration. Now I have a trusted expert on side, I shall amend - particularly as it helps the crappy AC, which still remains problematic - as do the saves. As to the additional Intimidate ranks, that was simply down to me not thinking there'd be additional value in taking a 'new' skill at that late stage. Again, I will edit (probably for Heal).<br/>\n<br/>\n While I think on it, I've noticed the Spot v Listen debate elsewhere on the forum, so if anyone wants to swap the one for the other, that's grand - i went for Listen primarily because Mr Stonefoot won't run round corners - or anywhere else - unless he has to.<br/>\n<br/>\n Please bear with me for the edit - I'm using pen and paper (very old-school, I know).</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "12:33 PM - May 12, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Theo, if I may weigh in here, having ED and DC means splitting stats between STR and DEX, which means LOW AB no matter what. Self-buffing might be the only way to raise the AB to acceptable levels. So, why don't you want to cast Bard spells?<br/>\n<br/>\n Take it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:17 PM - May 21, 2015",
+      "content": "<div>HAIL,<br/>\n<br/>\n Your stats are wrong, Stag. BAB is 30, AB is 51 and your damage is also wrong. You seem to be counting capped STR in your stats.<br/>\n<br/>\n AB = BAB + STR + WF, EWF, EP. <br/>\n<br/>\n I think your AC will be low no matter what, so I wonder why you took Armor Skin. It's not going to increase your AC to a point where you won't be hit, and since you're relying on DR, I wonder why you didn't go for the EDR feats or more DD levels.<br/>\n<br/>\n Basically, DD and WM don't really add up all that well. If you are going to stand in front of them and ignore damage, then you don't need Crit Enhancements (AB enhancements would be more useful). Conversely, if you are going to devcrit them or just crit a lot and break skulls, then you don't need DR all that much.<br/>\n<br/>\n For the OCs, anything will work, so if that's where you're planning to play it, go for it. otherwise, you'll be in trouble for the most part, as your DR isn't high enough to stand in front of them with a 2-hander with such low AC and your AB isn't high enough for you to hit (let alone crit) on a regular basis.<br/>\n<br/>\n That's my true honest opinion of this guy.<br/>\n<br/>\n Take it EZ!</div>"
     },
     {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:33 PM - May 12, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My thinking is that the points that go into CHA for spellcasting could go into STR or DEX. \u00a0There is generally enough STR boosting gear that Bull's is useless after the early 20s. \u00a0Plus, the caster level will be so low that HOTU level monsters can dispel buffs. \u00a0Bard Song will give +2 AB. \u00a0If 6 from CHA (14 to 8) go into STR (say 15 to 17), that could mean up to 3 more AB down the road, plus increase CON or something else.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "12:49 AM - May 22, 2015",
+      "content": "<div>@ Maximillian Kane - Sorry, must have been editing while you posted.<br/>\n<br/>\n Forgive me if I've got this wrong, but don't Fighter, WM and DD all have +1/level BAB - which gives 40, not 30? I don't know what you mean by 'capped STR'? Genuine ignorance, I ask simply for knowledge.<br/>\n<br/>\n I ummed and aahed about Armor Skin, but whether to take that feat or Epic Reflexes. I'd already gone through the Epic DR debate in my mind, and held to the view that adding 5 to CON (and thereby losing 5 STR) wasn't something I was prepared to do. By the same token, I thought that taking the OW/Dev Crit route would mean I'd have to soak less damage before enemies popped their clogs in any event. I had contemplated giving him a Warhammer (fed up with Dwarfs and axes) and shield, but thougt a Heavy Flail would be a nice variation - and it's the only bludgeoner with a 19-20 critical threat. Happy to change it, though.<br/>\n<br/>\n I know you have a downer on the OC (and you're not alone in that - but let's not forget we wouldn't have the game at all without it), but this was meant as a build that could be either a solo traveller wheresoever he roamed, or a handy doorstop in a party, to allow the flash boys to show off. He was, in other words, never going to be the definitive DD or WM, or even Fighter - it's about levels of balance. Nearly 600 HPs ain't too shoddy, I think - and equally, nor is the AB.<br/>\n<br/>\n I do appreciate your comments/advice, though I don't see the WM/DD dichotomy - it's surely a sensible offense/defense mix - tell me why I'm wrong, please!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:50 AM - May 22, 2015",
+      "content": "<div>The name of this build is cool <span class=\"text-emoji\">\ud83d\ude0e</span><br/>\n And it fits an ugly DD well.<br/>\n<br/>\n I agree with Empyre's suggestions. Get some tumble, even if cross classed.<br/>\n Max is right about the BAB, it is 30. The AB is 46: 30 from BAB, 11 From strength, 4 from WF, EWF and EP. The last AB point comes from SWF at WM 5.<br/>\n The AC is a bit low for playing with a two-hander, at least by ECB standards. It may work though, if you play somewhere where the defensive gear is better than the weapon enhancements you get.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:08 AM - May 22, 2015",
+      "content": "<div>Thanks Mick, I give good ugly!<br/>\n<br/>\n Please, though, someone tell me <em>why</em> the the BAB is only 30 - at the moment I just don't get it. I'm not trying to defend anything, I really don't see it.<br/>\n<br/>\n Much as a growly wee bugger with a heavy flail would look <em>so</em> cool, maybe it's hammer time....</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "11:12 PM - May 12, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Theophilus Fist wrote:</strong><hr/>My thinking is that the points that go into CHA for spellcasting could go into STR or DEX. \u00a0There is generally enough STR boosting gear that Bull's is useless after the early 20s. \u00a0Plus, the caster level will be so low that HOTU level monsters can dispel buffs. \u00a0Bard Song will give +2 AB. \u00a0If 6 from CHA (14 to 8) go into STR (say 15 to 17), that could mean up to 3 more AB down the road, plus increase CON or something else.</div></blockquote>\n<div align=\"left\">\n Well, 15 to 17 means 5 stat points. It will technically give you 1 AB (+1 modifier). The Warcry spell alone gives you 2 AB. Now, considering stat buffs, such as Bull's Strength, you can gain +1 or +2 AB more, GMW will give you +5 to AB (neglectible on HoTU, but very useful on non-uber-magic worlds and up to that point too). And when have you ever seen a HoTU monster cast dispel? LOL! They never do! And isn't it great that you only need 14 CHA to cast your spells cuz RDD will GIVE YOU the other 2 to CHA for free? As I see it, it's a win / win situation. Your Warcry is a short duration buff,\u00a0and with 16 Bard levels, you can extend it at level 6, since you won't have any known spells on that level, but will be able to cast 6th level spells\u00a0and since you have such high DEX, Arcane Spell Failure can be avoided with a simple unequipping of the shield.<br/>\n<br/>\n Take it EZ!</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:39 AM - May 22, 2015",
+      "content": "<div><blockquote><div><strong>Stagmeister wrote:</strong><hr/>Thanks Mick, I give good ugly!<br/>\n<br/>\n Please, though, someone tell me <em>why</em> the the BAB is only 30 - at the moment I just don't get it. I'm not trying to defend anything, I really don't see it.<br/>\n<br/>\n Much as a growly wee bugger with a heavy flail would look <em>so</em> cool, maybe it's hammer time....</div></blockquote>\n<div align=\"left\">\n You should read my \"Complete Guide for the Basics of Building\" in the Game Guides section. It describes a lot of important concepts that u need to grasp to be a good character builder. BAB progression is one of them. It grows at the rate of 1 every odd level after 20 and for the first 20 levels it's class-related. In your case, u only took classes that have a full BAB progression, so you have 20 BAB from the first 20 levels and 10 from levels 21-40. 30 is not bad, it's the MAXIMUM BAB that you can have with any character.<br/>\n<br/>\n The problem in this build is not much the way you built the character, but your choice of classes. DD is a defensive class which needs to be taken heavily to achieve its bets results. WM is a very good offensive class that also needs to be taken heavily to achieve good results. Since you only have 40 levels to juggle, they don't work well together.<br/>\n<br/>\n Take it EZ!</div></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:04 AM - May 22, 2015",
+      "content": "<div><blockquote><div><strong>Stagmeister wrote:</strong><hr/>Thanks Mick, I give good ugly!<br/>\n<br/>\n Much as a growly wee bugger with a heavy flail would look <em>so</em> cool, maybe it's hammer time....</div></blockquote>\n<div align=\"left\"> </div>\n\n With DevCrit it is scimitar time - or maybe even rapier time, but a flimsy rapier is ugly by any dwarven standard.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:47 AM - May 22, 2015",
+      "content": "<div>@ Mick Dagger - Dwarf and Scimitar? Excellent - his attitude would be even worse with all the mocking from his gnarly comrades! (And you're right, rapiers are naught but toothpicks as far as the rock-eating community are concerned.)<br/>\n<br/>\n @ Maximillian Kane - thanks for the explanation - a 'duh' moment from me, sorry. I have read your guide (even though I may forget a few bits occasionally), and grand reading it was,thank you. However, surely the point of having a guild like this is not to simply follow accepted practice - otherwise there would be definitive 'best builds' which would be uncontestable - but to strive for builds that are a joy to play, quirks and all? Now, if we accept that, is there a problem with trying to merge an 'optimum' defence class with an 'optimum' offence class? If my way is slapdash, fine, let's correct it, but if it's a deeper issue, please tell me what it is. Of course, if we don't accept it, why are we even bothering?<br/>\n<br/>\n \"Magic is impressive, but now Minsc leads - swords for everyone!\"<br/>\n<br/>\n<em><strong>EDIT</strong></em> - Sorry, forgot to say that I'll make all relevant changes soon - but I need sleep now. Cheers!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:15 AM - May 22, 2015",
+      "content": "<div>Here's an idea for a bigger change, submitted for your approval:<br/>\n Drop Dev Crit, Overwhelming Crit, Epic Will, and Great Cleave. This would allow you to change 8 levels from Fighter to DD (2 pre-epic and 6 epic), using DD feats for EWF, EP, and AS, and using all 7 epic general feats for Great STR, ending with 34 STR. You would gain +1 AB and damage from STR, 6 more points of damage reduction, and 4 more uses of Defensive Stance. Also, it would then be fine to stick with a heavy flail.<br/>\n With all that STR damage (times 1.5 for a 2-handed weapon) + EWS + crits powered up by WM, you won't miss Dev Crit much.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:01 AM - May 22, 2015",
+      "content": "<div>Hey Stag!<br/>\n<br/>\n I have explained the 30 BAB thing in my last post, but in case you didn't get it, it's only class related for the first 20 levels. In epics, you gain 1 BAB at every odd level regardless of class (if you wanted, you could take 20 Wizard levels and you'd still end up on 30 BAB). I hope this helps.<br/>\n<br/>\n As for combining defense and offense, the problem you face here is the tradeoff (every point you put in STR in one less point you put in CON and every WM level is one less DD level). Buy, if you still want to make this concept work and balance things out, I suggest fewer Fighter levels and more WM. The GREAT thing you get with WM is not the crit enhancement, it's the AB bonus from ESWF. You could try to make him a Fighter 10 WM 16 DD 14. You'd lose 2 feats, which you can easily accomodate by dropping Devcrit (I agree with Empyre on this one). You'd gain 2 AB for your trouble. I think this alternative spread would be much more balanced and help you achieve your goal. Pre-epic you can go Fighter 7 WM 7 DD 6 or even Fighter 9 WM 7 DD 4 depending on the number of feats you need for all your combat essentials. You'll have 2 WM bonus Feats for EWF and EP, one or two Fighter bonus feats for EWS (and maybe Epic Fortitude) and the DD bonus Feat for Armor Skin, which would work better with a shield. <br/>\n<br/>\n That's my 2c on this concept.<br/>\n<br/>\n Take it EZ!</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:06 AM - May 22, 2015",
+      "content": "<div>Empyre's suggestion is also a good one. Basically, drop Devcrit and Fighter levels and go either more DD for tankability as per Empyre's suggestion or WM for kickassability. Your call. <span class=\"text-emoji\">\ud83d\ude1c</span></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:34 PM - May 22, 2015",
+      "content": "<div>Thanks Empyre and Max - my poor old brain needs to do some crunching now: whether to boost WM or DD. At least we're all agreed on dropping the Dev Crit route (I think I probably got overly attached to it because of the great use my little elven tank put it to) and taking Fighter down to 10 levels.<br/>\n<br/>\n Being the shallow git that I am, I do like the idea of keeping Heavy Flail (axes are <em>so</em> last year!), so my immediate thought is to boost DD as per Empyre's suggestion, but I'll sod off now and do the sums. I'll get back to you.<br/>\n<br/>\n Cheers for all the help!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:49 PM - May 22, 2015",
+      "content": "<div>Right - I've had a look at both options, and by my reckoning (which, of course, stands every chance of being faulty) - and comparing the two re-builds - the WM focused build would bring me an extra 2 AB and +2 on my Reflex saves, while the DD focused one brings 18 more HPs, +1 to both Fort and Will saves, and DR of 11/- with 12 Defensive Stances. So, on balance, I'm going down the F10/WM7/DD23 route. Thanks both!<br/>\n<br/>\n Now I've just got to get on with the edit...(oh, and the title of this thread may become a tad misleading. Such is life...)<br/>\n<br/>\n<strong><em>EDIT</em></strong> - A thought occurs: maybe it'd be a better idea if I gave Grim a new topic heading - just to save confusion...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:34 PM - May 22, 2015",
+      "content": "<div>I thought I saw you asking about EWS. You would use the Fighter 10 feat for that, leaving the general feats still free for Great STR. According to what I read in NWNWiki, your damage reduction would be 15/-,\u00a0 not just 11/-.<br/>\n<a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Dwarven_defender\" rel=\"noreferrer\" target=\"_blank\">http://nwn.wikia.com/wiki/Dwarven_defender</a><br/>\n<br/>\n To make your character building easier, you could use the character build calculator, and if you don't have Excel, you can use the free Open Office, like I do.<br/>\n<a class=\"postlink\" href=\"http://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc\" rel=\"noreferrer\" target=\"_blank\">http://neverwintervault.org/project/nwn ... ulator-cbc</a><br/>\n<a class=\"postlink\" href=\"http://www.openoffice.org/\" rel=\"noreferrer\" target=\"_blank\">http://www.openoffice.org/</a></div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:59 PM - May 22, 2015",
+      "content": "<div>@ Empyre - that's great, thank you - the calculator will certainly save the many trees I get through! You did see something about EWS, but I worked out the Fighter bit (as you mentioned) so removed the edit - I thought before anyone had noticed! Equally, I have clocked my dumbness re Damage Reduction and have corrected this in the new thread just posted - Grim 2.0.</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

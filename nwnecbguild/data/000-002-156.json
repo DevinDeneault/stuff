@@ -4,23 +4,79 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "156",
-  "name": "NWN1 EE / Question",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn1-ee-question-t2355256.html",
-  "author": "n3xu5",
+  "name": "Craft Weapon - Help Needed",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/craft-weapon-help-needed-t2355269.html",
+  "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 1,
+  "replies": "9",
+  "views": "1.2K",
   "posts": [
     {
-      "author": "n3xu5",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:22 PM - Dec 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I picked up the NWN1 EE for the PS4 and am trying to play thru the original campaign first, then HOU/SOTU.<br/>\n<br/>\nThe build I'm trying to follow picked fighter (1), and then bard (2)... problem is bard cannot be chosen on level 2.<br/>\n<br/>\n1. Can anyone please explain why and if there's a reference guide I can read up on regarding class progression/caps/restrictions?<br/>\n2.\u00a0 Can I carry over my character from the OC to HOU/SOTU and what would the level caps be?\u00a0<br/>\n<br/>\nThanks in advance!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:53 PM - Dec 17, 2019",
+      "content": "<div>Apologies for this, but I appear to be having a brain-freeze. I'm trying out a build in Aielund\u00a0 atm and can't remember for the life of me how to perform Craft Weapon (those who know the modules will know where). I've taken the requisite points in the skill, just can't recall how to get it done.<br/>\n<br/>\nIirc, there's no difference from vanilla in Aielund as far as this goes. And your assistance might also help others to apply the skill.<br/>\n<br/>\nThanks in advance for helping the numpty.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "10:42 PM - Dec 17, 2019",
+      "content": "<div>You need Craft Wand feat, which means uou need to be able to cast 3rd level spells innately. Then you need a minimum of 5 ranks of craft weapon. Then you need a large bone if no bones are available. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:57 PM - Dec 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello N3xu5, and welcome to the Guild!<br/>\n<br/>\nFirst off I'd better confess that I don't play EE or on PS4, so things may be different there - others will know better.<br/>\n<br/>\nHowever, in ordinary, vanilla rules, there should be no problem with taking Fighter at level 1 and Bard at level 2 provided you haven't picked a lawful-aligned character (Bards can't be lawful). If you took them the other way around, that would be ok, but you'd need to start with a Charisma of 11. You'd gain skill points, but lose on stat points (unless you intend to be particularly charismatic, of course).<br/>\n<br/>\nAs far as carrying characters over from the OC to the expansions (which I initially did), you <em>can</em>, but it isn't advisable. SoU is designed to start with a level 1 character, much as the OC is, and you finish the OC at about level 17/18. You'd finish SoU at about level 13/14, so to play one after the other will make you massively overpowered. You <em>can</em> go from the OC straight to HotU (which ends at around level 28), but it's designed to be a follow-up to SoU.<br/>\n<br/>\nIf you want to take your character up to level 40, I'm afraid you'll have to download some modules or get into a Persistent World (where you can play with others). For modules, I'd suggest the OC and then into the Mines of Twin Summits trilogy, or SoU/ HotU then Sands of Fate - and we can give you details of them another time if you're interested.<br/>\n<br/>\nHope this helps a bit.<br/>\n<br/>\nCheers<br/>\n<br/>\nEDIT: Sorry, nearly forgot, the NwN wiki will help with some knowledge of what works and what doesn't, but, particularly if you're playing a Bard, I'd also recommend having a read of Mick Dagger's guide to the class in our Game Guides forum. In fact, what sort of overall build are you looking for?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:54 PM - Dec 17, 2019",
+      "content": "<div>Sorry, Dwarflord - it's Craft Weapon I'm talking of, not Craft Wand.<br/>\n<br/>\nBut thanks for the thought!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "10:58 PM - Dec 17, 2019",
+      "content": "<div>You need the <strong>Craft Wand</strong> feat to Craft Weapons?? That seems as convoluted as the <a class=\"postlink\" href=\"https://www.macmillandictionary.com/us/dictionary/american/welter#welter__1\" rel=\"noreferrer\" target=\"_blank\">welter</a>*\u00a0of different NWN2 crafting mechanics.<br/>\n<br/>\nI assume you have a blob of ore in your inventory Stag, and would like to actually use it ;)<br/>\n<br/>\n*new word for the day\u00a0<span class=\"text-emoji\">\ud83e\udd13</span></div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "11:00 PM - Dec 17, 2019",
+      "content": "<div><img class=\"post-image\" loading=\"lazy\" src=\"http://vignette3.wikia.nocookie.net/cardfight/images/6/6b/Ninjad2.png/revision/latest?cb=20140408124405\"/></div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "11:04 PM - Dec 17, 2019",
+      "content": "<div>I am assuming that you are in early chapter 4, the only place in the Aielund Saga where crafting is relevant, iirc.\u00a0 Right click on one of the small crafting components and choose Craft Weapon, then click on the larger component that you want to combine with it, which should bring up the crafting dialog.\u00a0 Unless you have a good enough Craft Weapon skill for 100% chance of success, save the game first so you can have a chance to try again.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:22 PM - Dec 17, 2019",
+      "content": "<div>Okay, maybe I haven't been clear enough - for which, apologies. No feat is needed for Craft Weapons, this is simply about the application of the skill. As far as I recall, all I need are the requisite components needed for the weapon and the skill level needed to use them to make, for example, a mundane shortsword, bow, or handaxe.<br/>\n<br/>\nAs far as I know, no ore blobs are necessary.<br/>\n<br/>\nAnd welter is a fine word.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:27 PM - Dec 17, 2019",
+      "content": "<div>Also ninja'd ('phone calls, eh?)! Thanks Empyre, that's the very chap (I knew you'd know). I'd been focusing on the PC actions, rather than the items themselves - no wonder I was getting nowhere!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "1:09 AM - Dec 18, 2019",
+      "content": "<div>Totally misread one word. Thought he said craft wand. Doh. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:04 AM - Dec 18, 2019",
+      "content": "<div>On the plus side, Dwarflord, I now know how to craft a wand as well - no knowledge is wasted!</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

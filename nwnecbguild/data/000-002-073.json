@@ -4,83 +4,61 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "073",
-  "name": "Search Question for Non-Rogues",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/search-question-for-non-rogues-t2355804.html",
+  "name": "Shifter Question:  How do we compute shifted AB?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/shifter-question-how-do-we-compute-shifted-ab-t2355807.html",
   "author": "Roxiee",
   "avatar": "10759502_1634104825.jpg",
-  "replies": 11,
+  "replies": "7",
+  "views": "376",
   "posts": [
     {
       "author": "Roxiee",
       "avatar": "10759502_1634104825.jpg",
-      "timestamp": "7:09 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello!<br/>\n<br/>\nI found this in the NWNWiki:<br/>\n<br/>\n<em>\"Check: Detecting a trap is an opposed test, pitting the character's search check against a difficulty class equal to the set trap skill check, plus the strength of the trap. Only rogues may detect traps with a DC greater than 35.\"</em><br/>\n<br/>\nIf I'm understanding this correctly, does this mean the most efficient skill point allocation for a non-rogue SCOUT is 35?<br/>\n<br/>\nFor more context on the build, here it is (Ba26/ SD13/ Ra1):<br/>\n<details><summary>Spoiler</summary>\nJinn\n20% exp penalty lvl 39-40\nSTR: 8\nCON: 10\nINT: 16\n\n01: Bard(1): Dodge\n03: Bard(3): Weapon Finesse\n05: Bard(5)\n07: Bard(7)\n09: Shadowdancer(2): Blind Fight, {Darkvision, Evasion, Uncanny Dodge I}\n11: Bard(9)\n13: Bard(11)\n15: Bard(13): Toughness\n17: Bard(15)\n19: Shadowdancer(4)\n21: Shadowdancer(5): Great Dexterity I, {Defensive Roll}, (DEX=23)\n23: Shadowdancer(7): {Slippery Mind}\n25: Bard(18)\n27: Bard(20): Lasting Inspiration\n29: Shadowdancer(9)\n31: Bard(21)\n33: Bard(23): Epic Weapon Focus: Rapier, Epic Skill Focus: Perform\n35: Shadowdancer(12)\n37: Bard(24)\n39: Ranger(1): Armor Skin, Epic Prowess, {Dual Wield}\n\nSkillpoints: 327\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Traps: +2\nAB (max, naked): 38 (melee), 35 (ranged)\nSpell Casting: Bard(6)\n\n\n01: Hide(4), Listen(1), Move Silently(4), Perform(4), Spellcraft(4), Taunt(2), Tumble(4), UMD(4), Save(1), \n03: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), Save(1), \n05: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), Save(1), \n07: Hide(1), Lore(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n09: Hide(1), Move Silently(1), Tumble(1), Save(10), \n11: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n13: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n15: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n17: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n19: Hide(1), Move Silently(1), Tumble(1), Save(10), \n21: Hide(1), Listen(6), Move Silently(1), Tumble(1), Save(2), \n23: Hide(1), Move Silently(1), Tumble(1), Save(12), \n25: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n27: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n29: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(6), \n31: Hide(1), Move Silently(1), Perform(4), Spellcraft(4), Taunt(4), Tumble(1), UMD(4), \n33: Hide(1), Move Silently(1), Perform(1), Spellcraft(1), Taunt(1), Tumble(1), UMD(1), \n35: Hide(1), Listen(1), Move Silently(1), Tumble(1), Save(5), \n37: Hide(1), Listen(1), Move Silently(1), Perform(4), Spellcraft(4), Taunt(4), Tumble(1), UMD(1), \n39: Hide(1), Listen(3), Move Silently(1), Save(2), \n</details>\n<br/>\nAnd for more explanation -- I'm a scout/support in my party and we're at level 6, currently running through SoU (then HotU, then SoF).\u00a0 I will most likely take my first Shadowdancer level in our next Friday session and that's where Search opens up.\u00a0 I'd like to get your advice if it's worth it to cannibalize Spellcraft to get 35 Search.<br/>\n<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:09 AM - Oct 18, 2021",
+      "content": "<div>I'm not sure where to get the AB for shifted forms.\u00a0 I've searched our game guides but I can't find if the un-shifted AB has any effect on the shifted one. <br/>\n<br/>\nI've seen articles about the item merges, and I'm assuming that if I find a +10 weapon, that +10 will be counted towards the AB.\u00a0 But the base AB or attack schedule, how do I compute it for the different shapes?<br/>\n<br/>\nThanks!</div>"
     },
     {
-      "author": "DzmitryB",
-      "avatar": "10759489_1631608138.jpg",
-      "timestamp": "7:40 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>Search<br/>\n<br/>\nModified skill ranks needed to:<br/>\n<br/>\nDETECT non-epic traps, all classes<br/>\nEventual: 22 - 20 = 2 <br/>\nImmediate: 22 - 1 = 21 <br/>\n<br/>\nDETECT epic traps, rogue only<br/>\nEventual: 43 - 20 = 23 <br/>\nImmediate: 43 - 1 = 42 </div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Roxiee",
-      "avatar": "10759502_1634104825.jpg",
-      "timestamp": "7:43 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you for that.\u00a0 Just curious, what is the -1 for?<br/>\n<br/>\nAnd modified means I can just put 17 points in Search and a level 16 bard song can take it to Immediate detection right?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:34 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The -1 means that you succeed with a roll of a 1 on the d20 skill check.\u00a0 If you use -20 instead, you get the Search skill need to eventually detect the trap when you finally get a roll of 20.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "10:39 AM - Oct 18, 2021",
+      "content": "<div>The same\u00a0way you compute AB for non-shifters, BAB + STR/DEX + Feats + Effects + Size Modifier.<br/>\nBear in mind that for unarmed shifter forms only Epic Prowess gives AB (no\u00a0WF/EWF: Unarmed) and that AB from\u00a0weapons\u00a0won't merge in vanilla NWN.</div>"
     },
     {
       "author": "Roxiee",
       "avatar": "10759502_1634104825.jpg",
-      "timestamp": "9:15 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I won't pretend that I fully understand those <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />, but I kinda get the notion that it takes into consideration the minimum roll you can get.<br/>\n<br/>\nThanks Empyre!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:49 AM - Oct 18, 2021",
+      "content": "<div>Hi Yunim, thank you.<br/>\n<br/>\nI'm taking the Epic Kobold Commando here as example (stats below for reference).\u00a0 With +13 BAB and 25 DEX + WF/EWF: Shortsword (if I take it) + Epic Prowess (if I take it) + 6 Kobold Commando Sword = 41 AB?\u00a0 Is it correct?<br/>\n<br/>\n---<br/>\n\u00a0\u00a0 ST:\u00a0\u00a0\u00a0 DX:25\u00a0 CN:\u00a0\u00a0\u00a0 IN:\u00a0\u00a0\u00a0 WS:\u00a0\u00a0\u00a0 CH:<br/>\n\u00a0\u00a0 AC: 29 (+13 Natural +6 DX)<br/>\n\u00a0\u00a0 HP: +70<br/>\n\u00a0\u00a0 To Hit: BAB+13<br/>\n\u00a0\u00a0 Attacks: +6 Kobold Commando Sword 1d6 (19-20/x2) +2d4 acid +6 slashing<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Massive Criticals 2d6<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 OnHit: Poison [DC=24] 1d2 DX<br/>\n\u00a0\u00a0 Special: Hide In Plain Sight, Weapon Finesse, Dodge, Use Poison,<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Improved Evasion<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Darkvision<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sneak Attack +5d6<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Freedom of Movement<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Hide +10, Listen +5, Move Silently +10, Open Lock +7,<br/>\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Set Trap +7, Spot +5, Tumble +10<br/>\n\u00a0\u00a0 Unarmed: No<br/>\n\u00a0\u00a0 Merge: Weapon, Armor, Items</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "11:02 AM - Oct 18, 2021",
+      "content": "<div>The BAB refers to your specific character's Base Attack Bonus, that\u00a0will vary depending on the build. The \"BAB + x\"\u00a0written on the\u00a0wiki is effectively factoring in STR/DEX and AB from weapons, it might be confusing to read.<br/>\n<br/>\neg:\u00a0epic kobold commando /\u00a0BAB +14<br/>\nThe +14 comes from +7 (DEX) +6 (Weapon)\u00a0+1 (Size) = +14.<br/>\nIt doesn't mean that your BAB is 14.<br/>\n<br/>\nIf you\u00a0want your full AB it's best to calculate it completely, that\u00a0way you won't get confused.<br/>\nSo AB = BAB (depends on your build) + 7 (DEX) + 4 (Feats) + 6 (Weapon AB) + 1 (Size) = BAB +18.<br/>\nAssuming that your BAB is\u00a025 at level 40, that's an AB of +43 at level 40. With +11 DEX you could reach +49 AB\u00a0when fully buffed.</div>"
     },
     {
       "author": "Roxiee",
       "avatar": "10759502_1634104825.jpg",
-      "timestamp": "10:25 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Found DzmitryB's reference:\u00a0 <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/unravelling-the-world-of-nwn-traps-a-primer-t2176824.html\" rel=\"noreferrer\" target=\"_blank\">unravelling-the-world-of-nwn-traps-a-pr ... 76824.html</a><br/>\n<br/>\nThis is another helpful bit from that guide:<br/>\n<br/>\n<em>DISARM traps DC &lt; 36, all classes (See Note 3)<br/>\n<br/>\n 31 - 20 = 11 (9 w/synergy); XCL</em><br/>\n<br/>\n---<br/>\nBased on those info, here's what I came up with:<br/>\n<br/>\nAppraise 1(4), Bluff 1(4), <span style=\"color:#FF0000\">Disable Trap 4(7)</span>, Hide 43(52), Listen 20(31), Lore 1(30), Move Silently 43(52), Perform 43(56), Persuade 1(4), <span style=\"color:#FF0000\">Search 12(17)</span>, Spellcraft 38(41), Taunt 43(56), Tumble 40(49), UMD 33(36)<br/>\n<br/>\nAre those correct? <br/>\n<br/>\nI put those ranks in pre-epic with Bard Song 16 in mind (+4 skills) since I want to enjoy those perks for majority of our adventure rather than just dumping them randomly (my INT bonus is at +3 for my entire career btw).<br/>\n<br/>\nI eventually get Bard Song 21 (+9 skills) but that's at level 40 so I don't want to build around that.<br/>\n<br/>\nThank you again!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:12 AM - Oct 18, 2021",
+      "content": "<div>That makes a lot more sense now, thank you again.<br/>\n<br/>\nSince my level 40 BAB is 24, that means I will have 42 AB on my Epic Kobold Form.<br/>\n<br/>\nAnd that means that my Risen Lord Shape's un-buffed AB is a bit abysmal (21 STR (+5), +5 enhancement +4 feats):\u00a0 38</div>"
+    },
+    {
+      "author": "Roxiee",
+      "avatar": "10759502_1634104825.jpg",
+      "timestamp": "11:43 AM - Oct 18, 2021",
+      "content": "<div>Oh but you know what, at the level I'm getting Risen Lord Shape, it's not bad at all.\u00a0 My level 23 BAB is 16 + 3 feats (no Epic Prowess yet) + 10 = 29<br/>\n<br/>\nIn comparison with a high BAB character such as Stag's <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/firewing-of-corellon-bard-8-cot-22-rdd-10-t2355058.html\" rel=\"noreferrer\" target=\"_blank\">Firewing of Corellon</a> who gets 27 AB at level 23, 29 AB is quite good (barring the Shifter magical item merge limitations).<br/>\n<br/>\nI guess a Shifter can still at least keep up at those levels, but I would assume it gets left behind starting mid-epic levels.\u00a0 I think I can live with that.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:55 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's up to you, of course, but I'd be tempted to get Search up to 16 (21). I'd do this by dropping the Spellcraft by 1 point to 37 (40) (it works in multiples of 5 modified ranks, unlike Tumble which relies on inputted ranks), and either UMD to 30 (33) (though as a Bard you don't really need that many ranks in any case) or lose Appraise, Bluff and Persuade completely.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:01 PM - Oct 18, 2021",
+      "content": "<div>One of the problems with going for both kobold and Risen Lord shapes is which stats get overwritten. With kobold it's DEX, so you can pile your stat bumps into STR, whereas with Risen Lord it's STR, so you'd want to boost DEX. With both, you either find yourself not excelling in either shape or you excel in one at the expense of the other. It can all get very confusing!<br/>\n<br/>\nHere are a couple of links which highlight what I mean:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/yip-yip-you-re-dead-druid-6-shifter-7-assassin27-t2355014.html\" rel=\"noreferrer\" target=\"_blank\">Yip Yip, You're Dead</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/lord-of-terror-barbarian-20-druid-8-shifter-12-t2354506.html\" rel=\"noreferrer\" target=\"_blank\">Lord of Terror</a><br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Roxiee",
       "avatar": "10759502_1634104825.jpg",
-      "timestamp": "11:07 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh Search to 21 so I don't need to have Bard Song active to detect right?\u00a0 Which makes me think now that I'm getting too caught up with these song bonuses that I forgot to consider the practicality of it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:38 AM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Exactly so. After all, if you're off scouting, you'll be on your own and stealthy, so why waste a song? I know you'll have lots of them by the end - and when LI kicks in you can basically sing all day every day - but still...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Roxiee",
-      "avatar": "10759502_1634104825.jpg",
-      "timestamp": "12:07 PM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No, you are very right.\u00a0 It's not very practical to use my song while scouting especially at lower levels.\u00a0 And I \"heard\" that resting in Sands of Fate can affect quests so it's probably wise not to waste songs.<br/>\n<br/>\nI removed the social skills and 1 Spellcraft in favor of Search 16 (21), so I can keep UMD 33 (36).\u00a0 <br/>\n<br/>\n--<br/>\nDon't wanna veer off topic but UMD 36 + 4 from song 16 will allow me to access certain class items of specific cost right?\u00a0 I'm just thinking of investing in case we get some goodies that are worth using.<br/>\n<br/>\nAnd the reason I think highly of UMD can be illustrated in this example (item spoiler for SoU ahead):<br/>\n<details><summary>Spoiler</summary>\nIn the Tomb of Kel-Garas mission, we happened upon a treasure room and we got:\n\n\n\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:30 PM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good stuff!<br/>\n<br/>\nOh, and I don't know whether you've seen this Guide yet: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/a-mini-guide-to-designing-with-the-umd-skill-t2354638.html\" rel=\"noreferrer\" target=\"_blank\">UMD Guide</a>. It's from Hip Maestro, who was an inveterate UMD addict, and is well worth a look.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Roxiee",
-      "avatar": "10759502_1634104825.jpg",
-      "timestamp": "12:33 PM - Oct 13, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That looks like a good read - I will definitely be looking at that.\u00a0 Thanks Stag!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:15 PM - Oct 18, 2021",
+      "content": "<div>As always, thank you Stag.<br/>\n<br/>\nI've seen both of those.\u00a0 I'm actually focusing on a DEX-based Risen Lord Shape with Epic Dodge, with the Kobold Form as a \"primary\" shape since I get infinite transformations.\u00a0 I wasn't planning on sharing this (at least until after I've played with it), but here it is:<br/>\n<br/>\nJuan Talbot, Gumshoe for Hire (Ro17 /Sh17 /Dr6)<br/>\n<details><summary>Spoiler</summary>\nDruid(6), Rogue(17), Shifter(17), Human\nSTR: 14\nCON: 12\nINT: 16\n\n01: Rogue(1): Knockdown, Blind Fight\n03: Druid(2): Weapon Finesse\n05: Druid(4)\n07: Rogue(2): {Evasion}\n09: Shifter(2): Weapon Focus: Shortsword\n11: Shifter(4)\n13: Shifter(6)\n15: Rogue(3): Weapon Proficiency Exotic, {Uncanny Dodge I}\n17: Shifter(9)\n19: Druid(6)\n21: Shifter(11): Epic Weapon Focus: Scythe\n23: Shifter(13): Undead Shape\n25: Shifter(15)\n27: Shifter(17): Epic Prowess\n29: Rogue(6)\n31: Rogue(8)\n33: Rogue(10): Great Dexterity I, Improved Evasion, (DEX=25)\n35: Rogue(12)\n37: Rogue(14)\n39: Rogue(16): Great Dexterity II, Skill Mastery, (DEX=27)\n\nSkillpoints: 424\nSaving Throw bonuses: Spells: +5, Traps: +4, Fear: +2\nAB (max, naked): 37 (melee), 34 (ranged)\nSpell Casting: \n\n\n01: Disable Trap(4), Hide(4), Listen(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(2), Tumble(4), UMD(4), Save(14), \n03: Animal Empathy(1), Spellcraft(1), Save(18), \n05: Animal Empathy(1), Spellcraft(1), Save(30), \n07: Disable Trap(6), Hide(6), Listen(6), Move Silently(6), Open Lock(6), Search(6), Tumble(6), UMD(6), \n09: Animal Empathy(1), Hide(1), Listen(1), Save(9), \n11: Animal Empathy(1), Hide(1), Listen(1), Save(19), \n13: Animal Empathy(1), Hide(1), Listen(1), Save(29), \n15: Disable Trap(8), Hide(1), Listen(1), Move Silently(8), Search(8), Tumble(8), UMD(8), Save(4), \n17: Animal Empathy(1), Hide(1), Listen(1), Save(13), \n19: Animal Empathy(1), Spellcraft(13), Save(12), \n21: Animal Empathy(2), Hide(1), Listen(1), Save(4), \n23: Animal Empathy(1), Hide(1), Listen(1), Save(14), \n25: Hide(1), Listen(1), Save(25), \n27: Listen(1), Save(38), \n29: Disable Trap(1), Listen(1), Search(1), Set Trap(6), Tumble(1), UMD(1), Save(1), \n31: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(5), Tumble(1), UMD(1), \n33: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Search(1), Set Trap(5), Tumble(1), UMD(1), \n35: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(5), Search(1), Tumble(1), UMD(1), \n37: Disable Trap(1), Hide(1), Listen(1), Move Silently(1), Open Lock(5), Search(1), Tumble(1), UMD(1), \n39: Disable Trap(1), Hide(3), Listen(1), Move Silently(3), Open Lock(3), Search(1), \n</details>\n\nI'm planning on running him on Swordflight (which I'm currently enjoying with my Bard26 /SD13 /Ra1 drow).<br/>\n<br/>\nTalbot is supposed to be a private eye, which I haven't seen yet in a high fantasy setting.\u00a0 My inspiration comes from Neil Gaiman's version of Lawrence Talbot (the Wolf Man) in his short \"Only the End of the World Again\" where Talbot is a claims adjuster (and a werewolf) who happens upon Innsmouth (Lovecraftian setting).<br/>\n<br/>\nShifter/Rogue seems like a good fit for a private eye.\u00a0 16 INT again since I like focusing on skills + he gets trap skills and Skill Mastery to compensate for the Shifter \"losses\" deep into epic.\u00a0 At least that's how I see it on paper.<br/>\n<br/>\nOne note, Juan Talbot shares the same class split as Zelle's <a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build117710.html\" rel=\"noreferrer\" target=\"_blank\">The Scamp</a>, however, I'm pretty sure they're very different builds both in feat/skill selection and concept.</div>"
     }
   ]
 }

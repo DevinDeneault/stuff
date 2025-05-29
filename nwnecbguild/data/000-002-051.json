@@ -4,89 +4,272 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "051",
-  "name": "Heroic shield uses per day",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/heroic-shield-uses-per-day-t2356013.html",
-  "author": "TheSquid",
-  "avatar": "10759318_1592552655.jpg",
-  "replies": 12,
+  "name": "The 2 HP per level challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-2-hp-per-level-challenge-t2355412.html",
+  "author": "Mick Dagger",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": "38",
+  "views": "2.6K",
   "posts": [
     {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "8:42 AM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I was playing a PDK in a group, and idly spamming Heroic Shield while waiting for the last member. At some point I noticed that there was a counter on the icon, as if the number of uses per day were not infinite. It must have appeared at some point, it definitely is not there when I rest, and only appears after several uses. Anyone knows what's going on? Might be a WoG thing as the ability is changed there, but I thought only in duration. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:24 PM - Mar 24, 2020",
+      "content": "<div>Hi <br/>\nI was inspired by an exchange of ideas in a recent thread and wanted to see what it is like to play a character with extremely low HP.<br/>\nI decided to play a sorcerer with its d4 die.\u00a0 As for module , I chose the OC (plague campaign).\u00a0 It is not too difficult and can serve as a well-known reference module.<br/>\n<br/>\nTo make it interesting I made the following rules:\n<ul>\n<li>No henchmen</li>\n<li>No summons to hide behind in combat</li>\n<li>No familiar in combat</li>\n<li>Can use familiar out of combat for scouting, rogue skills etc.</li>\n<li>No constitution enhancing items are allowed.</li>\n<li>Can use spells\u00a0and potions\u00a0to enhance constitution.</li>\n<li>Hardcore DnD difficulty mode</li>\n<li>Permadeath \u2013 no reloading, no respawning.</li>\n</ul>\n\nThe build:<br/>\nElven sorceress<br/>\nStr 12, Dex 16,\u00a0<strong>Con 6</strong>, Int 12, Wis 8, Cha 18<br/>\nSkills: Concentration, Spellcraft and Search (x-classed)<br/>\nPlanned pre-epic feats: SF Evocation, Extend spell, Silent spell, Empower spell, SF Necromancy, GSF Necromancy, Maximize spell.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:09 AM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As far as I know, Heroic Shield lasts one round and can be used once per round unlimited, so I don't know why there is a counter. Maybe you should ask in the WoG forums.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:27 AM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's a WoG thing - due to the duration change, etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "11:53 AM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK I tested in PGCC, and it happens there too. It's not actually unlimited.<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_24af8ee3760013e3d47dc289bc61320e_t.png\" />\n</dl>\n</span><br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_0b02620fc9ab735177d0f18302899308_t.png\" />\n</dl>\n</span><br/>\nThere is a counter counting *attempted* uses, not even successful ones. Not sure how high it starts (as it does not show above 99!), maybe 200?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:57 AM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Have Beamdog been buggering around with it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:59 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Weird.<br/>\n<br/>\nWell, try \"using\" them all up...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:15 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok, after firing up one of my PDK characters, I am not showing this - my heroic shield icon looks normal and behaves normally ingame, even after multiple uses, see graphic below.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TheSquid",
-      "avatar": "10759318_1592552655.jpg",
-      "timestamp": "2:52 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can see in my second picture that indeed I can use them all up. And get the message \"you have no uses remaining for this feat\" if I try again.<br/>\nWeird it's not the same for you. Did you test with *many* attempted uses? Like 100+<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:17 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, I did.<br/>\n<br/>\nI never got any limited numbers for the feat.<br/>\n<br/>\nNot on the QBar and not on the Radial.<br/>\n<br/>\nNow, I know that WoG changed the feat, so that may be overriding BeamDog's version of Heroic Shield.\u00a0 I haven't tried a non-WoG version of a PDK.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:27 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:44 PM - Mar 24, 2020",
+      "content": "<div>Just spawned in after character creation<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202003/10235235_8b6f8eedd28c36dc17a847859d052a97_t.jpg\"/></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:13 PM - Oct 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"27369\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27369&amp;sid=7017895f2a26938ea880b07b978202b4#p27369\">\u2191</a><div class=\"responsive-hide\">Oct 25, 2022</div></cite>...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!</div></blockquote>\nIf you want to be good at this, you have to know the ropes. <br/>\nI think this is a fine game to be obsessed with.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:11 PM - Mar 24, 2020",
+      "content": "<div>Spoiler alert!!!!<br/>\nIf you are new to this game and/or have not played the official campaign yet, beware!<br/>\n<br/>\nThe Academy<br/>\nFirst I went to the merchant. He gave my charactert a robe of fire resistance that I decided to keep for later. Then I grabbed every item in the containers and sold to the store for a good price, except a heavy x-bow and some leftover scrolls that I wanted to keep. \u00a0I did the caster quest and quick-slotted the frost wand.<br/>\nI went to see Beth for what should have been the initiation ceremony. Afterwards I buffed up with the Mage armor and Shield spells for a temporary AC of 20 before returning to face the goblin invasion.<br/>\nIt is rather scary to face even the weak goblins when playing a character with no armor and only 2 HP. Even if they only can hit you on a very high roll, when they hit, they deal 1 HP damage, 50% of your total HP pool. Get hit twice and you are dead.<br/>\nI tried to keep distance and avoid damage. The weak goblins were slow moving one-hit kills. The weak skeletons were faster, but also they were easy to put to rest.<br/>\nJust before I met up with the NPC that let you level up for the first time, there was a <em>Tough Goblin</em>, faster than the previous ones, with more HP and a heavier attack.<br/>\nHe landed a devastating 3 HP hit \u2013 and that was the end of the <em>permadeath challenge!</em><br/>\n<br/>\n\u00a0<br/>\nI decided to keep playing, but after having died already I had to drop the permadeath rule. So I reloaded and this time I was able to run and gun and survive to reach the first level up.<br/>\nI felt a bit more confident now with 4 HP. It all went well until I had to face the mage in the large hall, just before the end of the prelude. He cast frost rays. They damage 2-5 HP, meaning with 4 HP there is a 50% death risk from one hit, so my character bit the dust once more. I regretted badly that I had not picked the Endure elements spell on the level up. However, I had a wand with two fireball spells that had dropped from the aforementioned tough goblin. I was able to direct the fireballs near the mage, without being detected. The two fireballs ended the fight.<br/>\nAfter reaching level 3 I almost felt invincible with 6 HP.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:15 AM - Oct 26, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, I agree Mick (few more so - and I'm still learning), but was just inserting my trademarked facetiousness!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:15 PM - Mar 24, 2020",
+      "content": "<div>Let it never be said that M Dagger doesn't like to push himself! I look forward to hearing more, along with reports from equally unhinged types who might also participate.<br/>\n<br/>\nI wish you all the best\u00a0<span class=\"text-emoji\">\ud83d\ude42</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:23 PM - Mar 24, 2020",
+      "content": "<div>Beggar's nest<br/>\nI now entered the city and decided to start with the Beggar's nest. Normally I start with the Peninsula, but in this case it was too tempting to level up my character by clearing the streets of slow moving zombies, using a ranged weapon and the wand of frost.<br/>\nWith level 4 I got the first lvl 2 spell. I chose Ghostly visage for the 5/+1 DR effect. Later I was able to buy a robe with DR 5/+1 and then picked Endurance and Melf\u2019s acid arrow on the next level up.<br/>\nAs for level 1 spells I took MA, Shield, Endure elements, Magic missile and Protection from alignment. I think it was in that order.<br/>\nI cleared the entire Beggars nest except the final boss fight with Gulnan and reached level 6 with a whopping 12 HP and my first level 3 spell \u2013 Fireball.<br/>\nMy character died twice in the process. One death was from being careless and stepping on a floor trap. The second was a one hit kill when fighting the spider before entering the graveyard.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:54 PM - Mar 24, 2020",
+      "content": "<div>Peninsula<br/>\nThe Peninsula was not so hard after first leveling up in the Beggars nest. <br/>\nIt was a joy to fireball the escaped prisoners. But beware that on Hardcore DnD difficulty fireballs can be suicidal, especially with the low HP. You soon get a feel for where to direct the spell so you don\u2019t hit yourself. The safest is to aim at a fixed spot on the floor. It is easier to hit a group of moving targets if you aim the spell at a character in the middle of the group. But that can be a little hazardous if they are running towards you. If you cast too late, you risk being hit by our own spell. Casting an elemental resistance spell on yourself or wearing fire resist robes cuts you a little\u00a0 slack.<br/>\nThe fight against the sorcerer on level 2 in the prison was interesting. We were at about the same level and used much the same spells against each other. Wearing fire protection helped a lot, but I suffered one death.<br/>\nThe different gang leaders and the boss on level 3 in the prison, were too hard to face toe to toe, so I practiced some run\u2019n gun/Fireball/Melf\u2019s/MM tactics. To wear them down this way can be a bit tedious, especially when they start quaffing healing potions. With a little patience, they run out of potions and fall in the end.<br/>\nAfter convincing the enthralled prison guards to leave and then putting some arrows in their chief, I could stand and cast spells at the devourer until it succumbed.<br/>\n<br/>\nAfterwards I returned to the Beggars nest for the boss fight with Gulnan. On the first attempt, my character was killed by a negative energy spell. I reloaded and enjoyed a prolonged battle against a boss that was able to resist some of my spells and could heal herself with both spells and potions.<br/>\n<br/>\nWith level 7 I had also taken Lightning bolt and Lesser dispel. Lightning bolt is very good for close combat because you do not risk burning yourself like with the fireball. It is also great for zapping foes chasing you in a line. Mestil\u2019s acid breath is an alternative spell here for close combat, but I chose the Lightning bolt for its slightly longer reach. Lesser dispel was useful against mages and other buffed creatures that now started to appear from time to time.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:12 PM - Mar 24, 2020",
+      "content": "<div>Next: Blacklake<br/>\nTo be continued...</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "3:38 AM - Oct 26, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rope-a-dopes! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:10 PM - Mar 24, 2020",
+      "content": "<div>Makes sure on LevelUp that you reroll until you only get 1 HP per level...<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:36 AM - Mar 25, 2020",
+      "content": "<div>Hi Mick, great to read of your adventures with the 2hp sorc!<br/>\nGreat portrait! Curious to know where you got it from!<br/>\n<br/>\nWeb is correct from level 4 onwards (approximately) you can get 1hp/level<br/>\nIf we want to increase the challenge level even higher for the next playthrough</div>"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "9:48 AM - Mar 25, 2020",
+      "content": "<div>I like it hard....ok very hard too...but not pushing it to the extreme. That's why I take my hat off to anyone who undertakes such a journey.<br/>\nCongrats!<br/>\n<br/>\nWill be delightful to know your progress ;)</div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "4:12 AM - Mar 26, 2020",
+      "content": "<div>Been a bit y'all (work, hobbies, Morrowwind, Aielund, Arkhalia PW, kids, not catching novel diseases, etc been keeping me busy), but Mick inspired me to give this a try (sorta). I'm interested to see how far I'll get with a permadeath, hardcore OC playthru. <br/>\n<br/>\nOn spoilers: is it wrong to assume everyone reading this has played thru the OC?<br/>\n<br/>\nI used henchmen/Pavil, familiar and summons to get thru the prelude because there's no real exp penalty, but I expect I'll curtail that now that I'm starting chapter 1 (I absolutely hate the exp penalties <span class=\"text-emoji\">\ud83d\ude20</span>). I'm also going to avoid +Con/HP items, spells and feats. Just for funsies. One more thing MaxHitPoints 1 is in my nwn.ini file. Sorry, not sorry. <br/>\n<br/>\nBuild outline:<br/>\nElf wizard<br/>\nStr 12<br/>\nDex 18<br/>\nCon 6<br/>\nWis 8<br/>\nInt 18<br/>\nCha 8<br/>\n<br/>\nPixie familiar (useful and also for the theme of a paper tiger in combat}<br/>\nConcentration, lore and spellcraft skills for now but I expect I'll CC with tumble. I'm undecided on what else I'll mix in.<br/>\nI've been (mostly) using the longbow to take advantage of the high Dex. <br/>\nAs for feats, by level 3 I've got expertise and extend spell. Going forward I'm weighing other meta magics, improved expertise, weapon prof longbow, weapon finesse, called shot, and point blank shot. Not sure exactly what order I'll choose tho..<br/>\n<br/>\nAnd given RL considerations, this won't be some super speed run. I'll try to drop a line if something got hectic or the permadeath things goes yits up on some epic bad roll. Even with my helpers in the prelude I saw 1hp a couple times <span class=\"text-emoji\">\ud83d\ude2c</span>. <br/>\n<br/>\nKeep on trucking everyone (from a socially safe distance)!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:04 PM - Mar 26, 2020",
+      "content": "<div>Blacklake<br/>\n<br/>\nThe first part of Blacklake was quite easy now, fighting diseased mobs and rabid dogs. The half-orc bully that ruled the neighborhood was much tougher. His axe was far too dangerous for close combat, threatening one hit kills even if I buffed my sorcerer with Endurance for potentially 28 HP.\u00a0So I pulled him out of his house and ran down the streets casting all manners of spells in his direction until he fell.<br/>\nI hit level 8 while doing the Never\u2019s Tomb quest in Blacklake. The floating swords are dangerous, but it helps to keep the distance and they take full damage from magic.<br/>\n<br/>\nStoneskin was my first level 4 spell. Armed with my new protection I went to the tavern\u00a0to join the fight arena. All my adversaries there were spell resistant, this was obviously not a quest for mages. There was absolutely no use in attack spells. They cast Dispel on you when you enter the ring, so you cannot buff up before battle. Well,\u00a0there I was with my now 16 HP, wearing robes and facing seasoned gladiators, some of them flanked by large cats and wolves. I wore the DR robe and casted Stoneskin on entering the ring. That bought me time to get up the rest of my defensive spells. I also had a brawler belt I could use against the unarmed fighter.<br/>\nI wanted to keep the distance and used the bow to harm most of them. The unarmed fighter was only vulnerable to blunt weapons.\u00a0I had a club that was able to hit\u00a0him, but I could also have used a sling. In hindsight, I wonder if a reciprocal damage shield, the death armor, could have helped. I could even have extended it for a 16 rounds duration.<br/>\nThe last combatant played foul and entered the ring fully buffed. I was able\u00a0to handle that with Lesser dispel. Finally, and against the odds, I had defeated all my adversaries and won the tavern.<br/>\n<br/>\nI entered two estates\u00a0to get\u00a0the\u00a0quest items for Ophala. I let my Pixie take care of traps and locks. Combat against the guards turned out to be quite easy. I simply let my familiar hang back while frying them with different kinds of spells.<br/>\nThe Zoo was about the same difficulty as the two estates, only there were two lesser bosses that it took a few more spells to defeat.<br/>\nAt this point my 16 HP character started to feel powerful the way you would expect with any other lvl 8 sorcerer.<br/>\n<br/>\nEntering the Meldanen estate changed that feeling. \u00a0Here was a mixture of locks and traps, regular guards, watch dogs, magical creatures and spell casters of varying difficulty. Suffering a two hit kill from a Stag beetle reminded me to be more cautious.<br/>\nThe boss himself went down on my second attempt. On the first try he fired some kind of mind- or hold spell and won easily. On my second attempt I leaped out of sight and won the fight by spamming fireballs on him so he failed all his concentration checks.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:21 PM - Mar 26, 2020",
+      "content": "<div>Thanks for the continuation, Mick, I'm enjoying your exploits - and I'm even learning! For example, even after all this time, I never knew that No-man's Land boss would come out of his tower: that would have saved me a mahussive amount of grief as a low level archer or monk (I tend to go Peninsula then Blacklake as my first two ports of call, 'cause they irk me most, and then go Beggar's and Docks, where it's more fun). And I've always left Never's Tomb in Blacklake until just before going to see Nasher, by which time I can deal with the swords.<br/>\n<br/>\nBeing the type of player I am by nature, I've always just looked at the gladiator thing as cheap xp, but it puzzles me that as a sorcerer you didn't persuade the woman to ensure the last bout was fair.<br/>\n<br/>\nSo, did you dispatch Meldanen, or just take his tooth after you won the \"who's got more nasty spells\" contest?<br/>\n<br/>\nI remain very impressed, Mick <span class=\"text-emoji\">\ud83d\udc4f</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "10:29 PM - Mar 26, 2020",
+      "content": "<div>Awesome Mick!<br/>\n<br/>\nI demand moar!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:15 PM - Mar 26, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Mar 26, 2020</div></cite>Thanks for the continuation, Mick, I'm enjoying your exploits</div></blockquote>\nYour welcome, Stag!\n<blockquote><div>Being the type of player I am by nature, I've always just looked at the gladiator thing as cheap xp, but it puzzles me that as a sorcerer you didn't persuade the woman to ensure the last bout was fair.</div></blockquote>\nI tried of course to persuade her, but failed the roll and went with that. My own dispelling solved it.\n<blockquote><div>So, did you dispatch Meldanen, or just take his tooth after you won the \"who's got more nasty spells\" contest?</div></blockquote>\nHe gave up the fight and tried to negotiate. My character didn't like his terms and didn't accept his surrender. Being close up, I think the final spell I chose must have been a lightning bolt. The level 3 attack spells are rather nasty at this stage of the game.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:17 PM - Mar 26, 2020",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Mar 24, 2020</div></cite>Makes sure on LevelUp that you reroll until you only get 1 HP per level...</div></blockquote>\nPerhaps I'll save that for Aielund <span class=\"text-emoji\">\ud83d\ude09</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:43 AM - Mar 27, 2020",
+      "content": "<div>Lightning bolt to the face!<br/>\n<br/>\nI like it!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "7:35 PM - Mar 27, 2020",
+      "content": "<div>A few lame-o punks in the Peninsula District was all it took to end the HC run.\u00a0<span class=\"text-emoji\">\ud83d\ude22</span><br/>\n<br/>\nI was over by the Helmite DB when I thought could kite the 3 guys that hang out in the most SE corner of the map. There's also a couple guards near by and my pixie was ready to take some hits for me.\u00a0<br/>\n<br/>\nI snuck between the buildings and lobbed an arrow at one of them. HIT! though only enough to get him to his 50% health range. This made him kinda mad (can't really blame him, right?) And APPARENTLY, there is honor amongst thiefs and thugs because as I retreated to the guards', I attracted the attention of the 5 or 6 of his former fellow convicts (fellow, former convicts?) that weren't interested in mugging that hapless butler. I switched to my dagger and tried to make sure Expertise was enabled. Adding that to my ~22 Dex (18 + Cat's) and Mage's Armor my character sheet (which might have been listening to <a class=\"postlink\" href=\"https://youtu.be/3tigVYfHVmQ\" rel=\"noreferrer\" target=\"_blank\">Jonny Lang</a>) said I was sporting a 25AC. I felt ok-ish even tho I knew I'd only be delivering damage on natural 20's (don't you melee with a -3 AB?).\u00a0<br/>\n<br/>\n30 seconds, and one or two hits, later my luck and my 6HP were all used up. Sad horns.<br/>\n<br/>\nLessons learned? Be stupidly careful, especially early on. Defense, defense, defense; everybody is a threat. And if your familiar dies you're HP are going to approach nil (I had forgotten that nugget). Also, instead of Extend Spell, I think I should have taken Point Blank Shot or Weapon Finesse at level 3 to capitalize on my high Dex if I got backed into a corner.\u00a0<br/>\n<br/>\nMy character portrait in retrospect:<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://art.pixilart.com/cc45e02f6316c3b.png\"/></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:06 PM - Mar 27, 2020",
+      "content": "<div>Great story MD!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:09 PM - Mar 27, 2020",
+      "content": "<div>Glass Joe!<br/>\n<br/>\nOh man...that brings back memories!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:00 PM - Mar 30, 2020",
+      "content": "<div>The Docks<br/>\n<br/>\nClearing the streets of Muggers, Thugs and different ruffians was not so hard now at level 8. Soon level 9 was reached. <br/>\nI chose ILMS for my next level 4 spell. Other candidates would be Improved invisibility, Ice storm and Elemental shield. I chose ILMS for now because I wanted a non-save non-elemental single target attack spell that was better than MM and I already had several area of attack spells. I also upgraded from the level 1 spell Endure elements to its level 3 counterpart Protection from elements. I took Expeditious retreat in the free level 1 slot to improve the run speed for 18 rounds when extended. I could have taken Haste instead, but wanted to save my level 3 and 4 casting for other spells at this stage. I could always drink a Haste potion if I needed a higher casting rate.<br/>\nAt this level up, I also took the Empower spell feat. \u00a0I started to buff with empowered Endurance for a larger HP pool and empowered Eagles for a better spells DC. With a lucky roll (50%), I could now reach 45 HP with empowered Endurance, which is getting close to the base HP of a normal sorcerer build. There is still the danger of being dispelled or trying to rest with low HP, taking your HP below 0 and killing you when the spell runs out.<br/>\nMost of the Bloodsailors were easy. Some of their officers took a little longer to defeat. In the Silver Sails trading company building there were several vermin, some of them rather tough. All in all the Docks, including the side quests and the Callik fight was not very challenging now.\u00a0<br/>\n<br/>\nHelm\u2019s hold<br/>\n<br/>\nI entered the hold through the cave and cleared the cellar/dungeon of zombies. The false Helmites fell easily. I used speed tactics in the large hall and library before the stairs up, to herd the undead foes together to use AOE spells on them. <br/>\nThe undead in the courtyard turned out to be a rather difficult fight. There spawned two Bodaks among the other undead. With no death protection items and no death protection spells, it was best to stay away from their death gaze. The best solution was to split them apart by pulling them one by one out the gate, and attacking from distance. My sorcerer died twice before I was able to get it right.<br/>\nAfter clearing all areas, I released the guardian armors and killed them one by one for the extra xp.<br/>\nAt the altar, I chose the good solution and pocketed a ring of elemental protection.<br/>\n\u00a0<br/>\nDesther<br/>\n<br/>\nThis was a tough fight for two reasons. The first is the sheer number of undead you have to fight before you get to the boss, and the second is that Desther will dispel you and cast slay living among other attack spells.<br/>\nThere is no place to rest and you cannot return downstairs once you are up on the top floor. <br/>\nYou have to save your spells.\u00a0 Scrolls and wands help. <br/>\nI was able to handle most of the undead by first taking care of the small rooms one by one. I even survived another Bodak.<br/>\nWhen I opened the door to the main hall, I created a choke point in the door opening and cast a couple of fireballs on the amassed undead. I had enough elemental protection and HP to survive that.<br/>\nThe ritual creatures were resistant to spells, so I picked them from a distance with the bow. I was able to do that without being detected by edging along the walls near the door. <br/>\nThe one on one fight with Desther was a disaster until I discovered a fatal weakness on his part; he can not have any concentration skill to speak of. When I was out of attack spells, I was still able to stall him by firing from a bow and from a MM wand. I used the extended Expeditious retreat to stay ahead of him.<br/>\nHe has very high HP, but he surrendered while still only being barely damaged.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:49 PM - Mar 30, 2020",
+      "content": "<div>Thanks for the update, Mick - valuable as ever!<br/>\n<br/>\nI generally enjoy the Docks - by the time I get there I'm feeling pretty comfortable in my skin, whether it be as a sneaker or a tank or a full-on front-liner, and have started to play more intuitively in tune with the build I'm using. It's a point of principle now for me to clear the streets and houses (other than Seedy's, obviously) in one pass and without pots.<br/>\n<br/>\nBodaks in Helm's Hold?! Blimey. I can only assume that's for one of two reasons. Either it's because you're on Hardcore rules, or you've hit a level that ups the difficulty of spawns (I'm normally level 8 when I'm there). Btw, have you - or anyone else - ever been able to open that trapped chest at the far end of the zombie dungeon? It remains a persistent itch to me.<br/>\n<br/>\nDesther is an odd fish. There are times he'll keep battling until he's down to almost dead, but also times when he'll give up at barely injured. I'd still like to have the option of introducing his face to his sphincter, however. I know it would spoil the cutscene, but the man irks me.<br/>\n<br/>\nAnd into Chapter 2 marches the intrepid Herr Dagger!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:04 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>\nBodaks in Helm's Hold?! Blimey. I can only assume that's for one of two reasons. Either it's because you're on Hardcore rules, or you've hit a level that ups the difficulty of spawns (I'm normally level 8 when I'm there). Btw, have you - or anyone else - ever been able to open that trapped chest at the far end of the zombie dungeon? It remains a persistent itch to me.</div></blockquote>\nThe Bodaks were probably triggered by being at level 9 then.<br/>\nMy Pixie had no problems with opening the \"boss\" chest in the zombie dungeon.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:16 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>\nMy Pixie had no problems with opening the \"boss\" chest in the zombie dungeon.</div></blockquote>\nOh, you are a tease, Mick! Spoiler me. <em>Please</em>.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:42 PM - Mar 30, 2020",
+      "content": "<div>With increasing levels I feel that the 2HP challenge becomes less and less of a challenge (trying not to get too cocky here). Of course it is still a handicap, but there are more and more ways to get around it. Damage reduction and damage resistance from spells (and items) help a lot. Being able to buff with empowered constitution also gives a temporary HP pool. Polymorph, tensers and scapechange will offer forms with increased HP if there is no way around soaking up damage.<br/>\nAnother point is that the easy way to survive low levels with an arcane caster is to use summons as meat shields. It was part of this challenge not to do that, and I have now reached a level where I normally would go without summons in combat unless there are rest restrictions. That means that I have passed that part of the challenge.<br/>\n<br/>\nI wonder if there is any point in going on with this now since it becomes more and more like playing a normal sorcerer.<br/>\nOf course there is the adventure and sometimes it is good to read what others do and how they handle things.<br/>\n<br/>\nTaking the adventure to Aielund, but with 1 HP this time (thank you Web for the idea), with a slightly different magic system (EMS hak) and trying to survive act 1 (ending at level 10) is tempting at this stage.<br/>\n<br/>\nWhat do you think?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "3:46 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>\nMy Pixie had no problems with opening the \"boss\" chest in the zombie dungeon.</div></blockquote>\nOh, you are a tease, Mick! Spoiler me. <em>Please</em>.</div></blockquote>\nWhat is there to say? The Pixie familiar is a rogue and performs such tasks for you.\u00a0<span class=\"text-emoji\">\ud83d\ude07</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "4:00 PM - Mar 30, 2020",
+      "content": "<div>I think you are probably right Mick, it gets easier as one gets more levels and spells and reflects Yunim's experience fighting an 80hp level 40 sorceror<br/>\nWhether it is worth doing the 43hp sorceress challenge is up to you, it might just end up being conceptually similar<br/>\nStill its super cool<br/>\nDoing it on WoG I find it impossible without summons, or craft wand, I haven't gone past level 5 for now</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:00 PM - Mar 30, 2020",
+      "content": "<div>Keep going (much as I want to see your Aielund run), but gimp yourself further, say I. No Con buffs or damage reduction/resistance (I'll allow DR from spells and elements at a push). In essence, only offensive spells permitted (though some of us find all spells offensive). And maybe restrict your resting as well.<br/>\n<br/>\nBut at the end of the day, it's your self-imposed challenge, and if you're not enjoying it any more, stop. I wouldn't want you to keep going just to sate the interest of us voyeurs.<br/>\n<br/>\nThat said, I would still like you to spill the beans on what's in the Zombie Lord chest.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:35 PM - Mar 30, 2020",
+      "content": "<div>Yeah, that is the power of Mages, really.<br/>\n<br/>\nSpells allow a Mage to cover the weak points, and exploit the enemies weak points simultaneously.<br/>\n<br/>\nThe \"1 hit point\" insight is not my idea - I give credit where it is due; Orion spoke to me about it.<br/>\n<br/>\nI just used the opportunity here to express it, because it was appropriate imo.<br/>\n<br/>\nTBH - even 0 hps a level would only slow a Mage down until it can get protections that exclude damage.\u00a0 Then it is a moot point.<br/>\n<br/>\nI'm sure I could level a 1 hp/level Mage on WoG to level 40 with no problems.\u00a0 But I don't want to do this atm, because Mick is doing his run.\u00a0 I don't want to steal his thunder, and I'm really digging his posts.<br/>\n<br/>\nIf you all are really interesting in \"calling my crap\" I will do it, of course.\u00a0 Just after Mick is done.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:15 PM - Mar 30, 2020",
+      "content": "<div>The 80 HP Wiz40 I fought was originally a 43 HP Wiz40 before the server introduced max HP per level and he had to relevel it. A low HP DC mage has a much easier time in PvP than in PvM since it usually only fights a few opponents at a time rather than large groups. ESF: Ench/Evo/Necro and Epic Warding will work against most builds that have a weak save to exploit in low/medium magic PvP. It might work in PvM but that depends on the immunities and saves of opposing mobs, it would only work on about half of the PvM servers that I've played on.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:21 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>That said, I would still like you to spill the beans on what's in the Zombie Lord chest.</div></blockquote>\n<details><summary>Spoiler</summary>\nThe chest is no different from any other big locked and trapped chest with scorch marks in front of it. It has random high quality loot based on your level.\n</details></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "8:23 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>The \"1 hit point\" insight is not my idea - I give credit where it is due; Orion spoke to me about it.</div></blockquote>\nThank you Orion for the idea! <span class=\"text-emoji\">\ud83d\ude0a</span></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:36 PM - Mar 30, 2020",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Mar 30, 2020</div></cite>That said, I would still like you to spill the beans on what's in the Zombie Lord chest.</div></blockquote>\n<details><summary>Spoiler</summary>\nThe chest is no different from any other big locked and trapped chest with scorch marks in front of it. It has random high quality loot based on your level.\n</details>\n</div></blockquote>\nWell that's a little deflating. I suppose I'd built it up to be something particularly uber-cool because it's the only one I've never been able to bash or pick.<br/>\n<br/>\nThanks, though!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Aquarius 233",
+      "avatar": "10714033_1519247364.jpg",
+      "timestamp": "11:30 AM - Mar 31, 2020",
+      "content": "<div>Thank you Mick, it's great to learn how experienced mages deal with obstacles that come in playthroughs, with strategies other than summons.<br/>\n<br/>\nOther challenges (by anyone) are welcomed <span class=\"text-emoji\">\ud83d\ude09</span></div>"
+    },
+    {
+      "author": "The Flying Rodent",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:19 AM - Apr 07, 2020",
+      "content": "<div>Well, it's been a while. I had to create a new account to reply to this because the internets swallowed my old one. But we made it, so yay!<br/>\n<br/>\nFor context on who I am, I'm this guy ...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/bearded-battlemage-oc-wizard-15-fighter-2-monk-1-t2354619.html\" rel=\"noreferrer\" target=\"_blank\">bearded-battlemage-oc-wizard-15-fighter ... 54619.html</a><br/>\n<br/>\n... and seeing a post about completing the OC with a funky spellcaster piqued my interest.<br/>\n<br/>\nI may not go through with this personally, but if someone perhaps wants to: there is a very nice tactic that arcane spellcaster can use for the Prelude in the first Chapter. To quote myself:<br/>\n<br/>\n<blockquote><div>One can run through the entire Prelude, picking up the 2 levels from the conversations, and then backtrack through killing all the monsters picking up ANOTHER level. This will get your character to level 4 by the beginning of Chapter 1, and makes things a lot easier!<br/>\n<br/>\nThe trick is to run through under the cover of Faerie Dragon invisibility. After fighting the initial wave and talking with Aribeth, summon your familiar and rest. This will give you a familiar summon charge for later on. Possess your Faerie Dragon, then left, top left, right on the radial menu to access Improved Invisibility and cast it on the player. Given you're level 1 wizard, it'll only last a minute, so you'll have to be quick. Unsummon your dragon after invising yourself, and run to Gerand. If you're lucky, you can find him and shut the door behind you 'just' before it wears off.<br/>\n<br/>\nWith enemies nearby, you won't be able to rest here. Level up to level 2 [but take wizard this time], summon your familiar again, and repeat! Smash all the goblins in front of Fenthick/Desther, and take a 3rd Wizard level. Take Ghostly Visage and Flame Weapon. Backtrack through the Prelude and smash/frost rod everything.</div></blockquote>\n<br/>\nPerhaps someone undertaking the challenge can adopt this tactic and use it to get an easy level 4. <br/>\n<br/>\nBeen a fun read. Looks like a good challenge, might have to try it myself at some point when I'm not swamped with work lol.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:26 PM - Nov 15, 2022",
+      "content": "<div>I finally took the build to Aielund and played through act 1. I rerolled for 1 HP per level (except for level 1-3) and ended up with lvl 10 and 13 HP.<br/>\nIn many ways Aielund is harder than the OC and especially the early challenges when everything is low magic and your character is weak.\u00a0 <br/>\nBut some things worked in my favour. With EMS the spell Mage armor gives a +4 armor AC bonus and the spell Shield gives a +4 shield AC bonus making it much easier for a mage to buff up a fair amount of AC. And that was especially important with a fragile build like this one. <br/>\nOnce I was able to collect about 5K gold (and it takes some time), I could buy a pair of boots\u00a0 that grants permanent +50% speed, just like a permanent expeditious retreat spell, so i could run and gun (or cast spells). <br/>\nThere is also an item that let you cast lvl5 Magic missile unlimited, saving you a lot of resting, but you cannot afford to buy it right\u00a0 from the start. Once you get it, it helps you through several levels until you need (and get) spells with more oomph. All in all those items made early levelling much easier.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202211/10235235_ad12b4d1b36c82b48a3d30feef21d089_t.jpg\"/></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:44 PM - Nov 16, 2022",
+      "content": "<div>How in all the hells did you deal with the wyvern (and babies) all on your lonesome? You'd be, what, level 6 by then? That huge crossbow? Mucho kudos, Mick!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:09 PM - Nov 16, 2022",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Nov 16, 2022</div></cite>How in all the hells did you deal with the wyvern (and babies) all on your lonesome? You'd be, what, level 6 by then? That huge crossbow? Mucho kudos, Mick!</div></blockquote>\nI pulled them all with me and sprinted down to the narrow path across the water behind the ballista. The wyvern is too big to cross and blocks the way at this choke point. Then I fireballed* them from the other side.<br/>\n<br/>\n* edit: is that even an English word?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:01 PM - Nov 16, 2022",
+      "content": "<div>Sean Connery says \"yes\" :D<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

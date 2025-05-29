@@ -4,23 +4,57 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "115",
-  "name": "29 level Shifter build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/29-level-shifter-build-t2354607.html",
-  "author": "KidMiracleman",
-  "avatar": "10577588_1510287072.jpg",
-  "replies": 1,
+  "name": "Rogue/wiz preepic",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-wiz-preepic-t2354610.html",
+  "author": "Kyhe",
+  "avatar": "no_avatar.png",
+  "replies": "6",
+  "views": "503",
   "posts": [
     {
-      "author": "KidMiracleman",
+      "author": "Kyhe",
       "avatar": "no_avatar.png",
-      "timestamp": "6:25 PM - Sep 26, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">There are areas in my server that have areas for levels 29 and under.\u00a0 Was wondering if anybody had any good<br/>\n \u200bideas for a 29th level build that had elemental shifting abilities and or other shifting abilities too<br/>\n<br/>\n \u200bDavid<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:05 AM - Sep 30, 2016",
+      "content": "<div>Hey, im building a rogue wizard on a pre epic server, wanting to Dualwield, how Many lvls Would you take In rogue vs wizard? Got 18 dex and 16 int, putting the extra points towards int. Im already up two rogue lvls</div>"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "8:44 PM - Sep 26, 2016",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For just elemental shapes, go with a high druid build.\u00a0 For shapes that use weapons, go shifter with 5-8 levels of druid.\u00a0 Both will benefit from some monk.<br/>\n<br/>\n Elemental shapes (just like all shapes that are limited to using creature attacks) only merge armor, shield, hat.\u00a0 The most DR they can penetrate is +3 unless pre-buffed with Stoneskin or equivalent DR spell effect.\u00a0 You'll need at least Dru 20 to gain access to elder elemental shapes (the +3 DR ones).<br/>\n<br/>\n Weapon-using shapes merge every slot except gloves.\u00a0 The amount of DR that can be penetrated is only limited by the enhancement of the weapon before merging or the shapes' default weapon, whichever is highest.<br/>\n<br/>\n Epic shifter shapes generally require a substantial WIS investment, but not all of them like Undead shape. Druid's elemental shapes only require enough WIS for the unmorphed druid to cast spells.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:26 PM - Sep 30, 2016",
+      "content": "<div>I'd restart if I were you.\u00a0 Starting with 18 DEX is putting you in a hole.\u00a0 You also failed to mention the race.\u00a0 It should be elf.\u00a0 Neither human nor gnome reaches as high an AB.\u00a0 Halfling results in XP penalty.\u00a0 Elf will also provide a full martial weapon selection over the small races.<br/>\n<br/>\n The best ability spread for a DWing stealth (dexer) spellsword would be STR 14, DEX 17 (22), CON 12, WIS 8, INT 16, CHA 8.<br/>\n<br/>\n You will need at least 12 feats for a decent pre-epic spellsword and rog/wiz won't cut it.\u00a0 Your optimal split will be Wiz12/Ftr4/Rog4.\u00a0 The list of feats you will need:<br/>\n<br/>\n Blind Fight, Wpn Finesse<br/>\n WF/WS/ImpCrit: some finessable<br/>\n Ambidexterity/TWF/ITWF<br/>\n KD/IKD<br/>\n Extend/Empower Spell<br/>\n<br/>\n I'm estimating something like Conc 23(24), Disc 23(25), Hide 21(27), Lis 21(22), Mv Sil 21(27), Spcr 22(25), Tumb 20(26) with a few points left for UMD.\u00a0 You'll need to space your tumble and discipline dumps out as evenly as possible for ideal playability.<br/>\n<br/>\n Even with the BAB boost from fighter levels, the highest APR you will reach is 5 while DWing, 6 hasted.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:44 PM - Sep 30, 2016",
+      "content": "<div>Halfling will not get an xp penalty in a rogue/wizard build, and will even get an extra AB point from small stature. But a halfling will be restricted to tiny weapons (like daggers) if you want to dual-wield.<br/>\n The advice from Hip is valid if you want a spellsword. Things will be much easier if you want something like an \"arcane trickster\" that can focus on magic and rogue skills.<br/>\n Another point is that in a pre epic build, the effect of arcane spells on AB and defence will even let a mage be a decent melee character \u00e1 la the \"Melee Mage\"</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Kyhe",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:50 AM - Oct 02, 2016",
+      "content": "<div>i catch your drift Hip, and i understand what you mean. with that said, i think im going more for the arcane trickster idea that mick mentions and thought a hafling build with TWF would be fun for that idea</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:40 PM - Oct 02, 2016",
+      "content": "<div><span style=\"font-size:100%;line-height:normal\">Have a look at this build and see if you can use it. It has level 9 spells and rogue skills. Wizard has spells for opening locks and disarming traps. They also have invisibility spells, so if you don't want stealth skills, you can take pickpocket and a social skill like persuade instead. A pixie familiar will add to the rogue part.<br/>\n The dual wielding costs 3 feats (5 if you sum up all combat feats), but doubles the number of attacks per round. The AB is not impressive by any standard, but you should at least be able to fight some mobs if you buff up.</span><br/>\n<br/>\n<br/>\n Wizard(17), Rogue(3), Halfling<br/>\n STR: 12<br/>\n DEX: 18<br/>\n CON: 14<br/>\n WIS: 8<br/>\n INT: 15 (20)<br/>\n CHA: 8<br/>\n<br/>\n 01: Rogue(1): Expertise<br/>\n 02: Wizard(1): {Scribe Scroll}<br/>\n 03: Wizard(2): Weapon Finesse<br/>\n 04: Wizard(3): INT+1, (INT=16)<br/>\n 05: Wizard(4)<br/>\n 06: Wizard(5): Weapon Focus: Dagger, Extend Spell<br/>\n 07: Wizard(6)<br/>\n 08: Wizard(7): INT+1, (INT=17)<br/>\n 09: Rogue(2): Empower Spell, {Evasion}<br/>\n 10: Wizard(8)<br/>\n 11: Wizard(9)<br/>\n 12: Wizard(10): INT+1, Two-Weapon Fighting, Spell Focus: Evocation, (INT=18)<br/>\n 13: Wizard(11)<br/>\n 14: Wizard(12)<br/>\n 15: Wizard(13): Ambidexterity<br/>\n 16: Wizard(14): INT+1, (INT=19)<br/>\n 17: Wizard(15): Greater Spell Focus: Evocation<br/>\n 18: Wizard(16): Improved Two-Weapon Fighting<br/>\n 19: Rogue(3): {Uncanny Dodge I}<br/>\n 20: Wizard(17): INT+1, (INT=20)\u00a0\u00a0\u00a0<br/>\n<br/>\n Hitpoints: 126<br/>\n Saving Throws (Fortitude/Will/Reflex): 9/11/13<br/>\n Saving Throw bonuses: Spells: +5, Fear: +2<br/>\n BAB: 10<br/>\n AB (max, naked): 16 (melee), 16 (ranged)<br/>\n AC (naked/mundane armor/shield only): 19/22<br/>\n Spell Casting: Wizard(9)<br/>\n Alignment Changes: 0<br/>\n \u00a0<br/>\n Skillpoints: 155<br/>\n Concentration 23(25), Hide 22(30), Listen 22(27), Move Silently 22(32), Search 4(9), Spellcraft 21(26), Tumble 20(24), UMD 21(20)\u00a0\u00a0<br/>\n 01: Hide(4), Listen(4), Move Silently(4), Search(4), Tumble(4), Save(20),<br/>\n 02: Concentration(5), Spellcraft(5), Save(14),<br/>\n 03: Concentration(1), Spellcraft(1), Save(16),<br/>\n 04: Concentration(1), Spellcraft(1), Save(19),<br/>\n 05: Concentration(1), Spellcraft(1), Save(22),<br/>\n 06: Concentration(1), Spellcraft(1), Save(25),<br/>\n 07: Concentration(1), Spellcraft(1), Save(28),<br/>\n 08: Concentration(1), Spellcraft(1), Save(31),<br/>\n 09: Hide(8), Listen(7), Move Silently(8), Tumble(8), UMD(11),<br/>\n 10: Concentration(2), Spellcraft(2), Save(1),<br/>\n 11: Concentration(1), Spellcraft(1), Save(4),<br/>\n 12: Concentration(1), Spellcraft(1), Save(8),<br/>\n 13: Concentration(1), Spellcraft(1), Save(12),<br/>\n 14: Concentration(1), Save(17),<br/>\n 15: Concentration(1), Save(22),<br/>\n 16: Concentration(1), Save(27),<br/>\n 17: Concentration(1), Save(32),<br/>\n 18: Concentration(1), Save(37),<br/>\n 19: Hide(10), Listen(11), Move Silently(10), Tumble(8), UMD(10),<br/>\n 20: Concentration(2), Spellcraft(5),<br/>\n<br/>\n \u00a0</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "2:46 AM - Oct 03, 2016",
+      "content": "<div>Neither Blind Fight nor ImpCrit: Dagger.\u00a0 Ouch!<br/>\n<br/>\n Not sure how much Expertise mode will get used. If the toon has trouble hitting anything DWing at +14/+9/+14/+9, it'll do nothing at all at +9/+4/+9/+4 hoping to roll a 20.\u00a0 Unless the plan is to just buff with Empowered Endurance, whatever DR spell is handy and all recipro shields... then just stand there healing while the shields do the damage.\u00a0 Trying to cast offensively within melee range will just result in multiple AoOs anyway.\u00a0 Not a pleasant scenario.<br/>\n<br/>\n I'd say this build needs to stack deadly traps... desperately.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:09 PM - Oct 03, 2016",
+      "content": "<div>@ Hip: The OP wanted a rogue/ wizard. I have given wizard priority in this build. In a preepic environment the DR spells and reciproke shields are very strong. Expertise is there primarily for casting, hopefully to make the DR spells last longer. <br/>\n If you want to fight: With GMW and empowered cat's the AB bonus becomes +22/+17/+22/+17. The main damage comes from weapon enhancements (GMW , Flame weapon) and empowered Bull's. Flame weapon is an on hit effect, and Imp crit will only effect the damage from the weapon. This is not a spellsword, but the weapons are not there only to look cool. I pointed at fighting mobs if need be.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

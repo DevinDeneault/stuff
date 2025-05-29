@@ -4,131 +4,36 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "172",
-  "name": "Damage Reduction Questions...",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/damage-reduction-questions-t2355036.html",
-  "author": "blksabbath74",
-  "avatar": "10235237_1517392314.jpg",
-  "replies": 19,
+  "name": "The Grease Spell (vs Knockdown feat) and Finger of Death: random thoughts during a Druid playthrough...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-grease-spell-vs-knockdown-feat-and-finger-of-d-t2355090.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "3",
+  "views": "658",
   "posts": [
     {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:39 AM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Epic Damage Reduction stacks separately with Monk's Perfect Self and with Barbarian/Dwarfen Defender Damage Reduction.<br/>\n<br/>\nTherefore, if you had a Monk 20/DwD 18/Rogue 2, with EDR3, how would that work?<br/>\n<br/>\nPresumably you would have;<br/>\n<br/>\n-Perfect self DR of 29/+1 (20+9)<br/>\n-Dwarven Defender DR of 21/- (12+9)<br/>\n<br/>\nWould one cancel the other out, or would both be applied to mundane physical damage?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:59 AM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Am trying to decide if it is worth it to get Monk 20, or if I would be better off going DwD 18, Rogue 13, Monk 9 and getting Epic Dodge.<br/>\n<br/>\nAlso not sure if I can feasibly get both Epic Dodge and Epic Damage Reduction...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "9:24 PM - Jul 01, 2019",
+      "content": "<div><strong>A good Druid Grease Spell makes Knockdown feat look really weak...</strong><br/>\n<br/>\nAnyway I thought I'd share this thought playing through the Druid class during a Solo play through of World of Greyhawk PW. This particularly thought is not going to be news to the uber Druid players out there, and certainly not for Maximillan Kane, if he is still out there..., having read some of his famous posts... (<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build316635.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 16635.html</a>)<br/>\n<br/>\nI'm playing through World of Greyhawk Persistent World. Taking on one of the tougher areas, Critwall. Which I was advised not to go to unless I enjoyed running or taking a dirt nap. What the heck I want a challenge. Lets go.<br/>\n<br/>\nI break the Critwall Siege and go one area west. Solo Druid 17/Monk 1, with Knockdown / Spell Focus: Conjuration / Greater Spell Focus Conjuration.<br/>\n<br/>\nI'm fighting two tough Bugbear Warriors. I cast Grease, turn into elemental shape. Fight in the Grease like a carnival mudpit. Or a Wild Pig in Mud. Happy times!<br/>\n<br/>\nThey simply cannot stand up to fight me for the whole duration of the spell!!! (7 rounds) No need to try to knockdown them down.. what's the mechanics here?<br/>\n<details><summary>Spoiler</summary>\n\n\nMaybe add +4 (Dex 18) for high reflex save types and +2 (Dex 14) for low reflex save types. Probably too generous here for the other types.\n-&gt; Reflex class save 16 Non reflex class save 8 vs DC 27</details>\n<br/>\nI think I have found my new favourite spell... I honestly thought as a shapechanger I would have to use the Knockdown feat .... no sir cast grease instead... Well if I run out of spells or shape changes I guess it might be useful...<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_66d654d41ad9981892f449aae08b469e_t.jpg\"/><br/>\n<br/>\n<strong>Finger of Death looks very strong...</strong><br/>\n<br/>\nOk I'm working through this enemy outpost just to the southeast of the area I described. I whittle the enemy down one by one. But at the end there is this big bad Ogre Mage, who I struggle to defeat despite my efforts. His name is Satchamo.<br/>\n<br/>\nI cast all sorts of spells. Empowered Ice Storm. Storm of Vengance. Summon Creature 8. Call lightning. etc etc... Doesn't touch him.<br/>\nI try to hit him with my strongest forms. Monk bear and Monk Water Elemental tickle him.\u00a0<br/>\nRun away, rack my brain for a solution.<br/>\nLets try Finger of Death. I wait for his Death Ward buff to wear off (by returning to the area later). He dies instantly.\u00a0<br/>\nHappy days... the mechanics of it all?<br/>\n<details><summary>Spoiler</summary>Finger of Death (Druid) DC: 10 + 8 (spell level) + 12 (wis modifier) = 30.\nProbable saving throw for high fortitude save Lvl 20 enemies: 12 (base) + 4 (assume Cons 18) = 16\n95% chance of death for non-high fortitude save enemies at Lvl 20</details>\nSeems super strong...<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201907/10759084_4b83b7ea4df0b66c0b89e4c09eb3f613_t.jpg\"/><br/>\n<br/>\nAnyway hope you enjoyed this post!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:44 AM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:29 PM - Jul 01, 2019",
+      "content": "<div>Critwall already? Get some screenshots from your fight with Arbas, will ya (in WoG's thread)?<br/>\n<br/>\nAlso, FoD is really good on Druids, preach!<br/>\n<br/>\nTip: That hill, right there was/is the place of epic fights...The two boxes up there are both weapon focus chests.<br/>\nMore useful when you are melee of course.</div>"
     },
     {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:48 PM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>You could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!</div></blockquote>Okay, I tried to send you private messages twice, but they have evaporated into the ether.<br/>\n<br/>\nWill send again when I have an opportunity to retype.<br/>\n<br/>\nThanks for all your help.<br/>\n<br/>\nSent from my SM-N950U using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "blksabbath74",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:03 PM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nYou could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!\n</div></blockquote>\n\nSent a third PM, have you seen any of them?<br/>\n<br/>\nIf not, I'll just start a new thread or you can contact me at <a href=\"mailto:blksabbath74@yahoo.com\">blksabbath74@yahoo.com</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:08 PM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>blksabbath74 wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nYou could but your AB would suffer unnecessarily.<br/>\nWhy so defensive, don't you want to enjoy the game more &amp; hit hard with your hammer?<br/>\nUnless of course, you're playing in a particularly difficult PW where survival is needed, then I understand your reasoning.<br/>\n<br/>\nIf you're interested in a Dwarf with about 600 hp's &amp; 18 DR (I would say that's pretty tough already) then let me make you a build that will rock the house offensively!\n</div></blockquote>\n\nSent a third PM, have you seen any of them?<br/>\n<br/>\nIf not, I'll just start a new thread or you can contact me at <a href=\"mailto:blksabbath74@yahoo.com\">blksabbath74@yahoo.com</a>\n</div></blockquote>\n\nOi, there are others among us who'd like to see what materializes, you know! Don't go hoarding! Having played some of Valerfor's badass beardies, a new one is always welcome!<br/>\n<br/>\nEr, no offence...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:20 PM - Jul 01, 2019",
+      "content": "<div>I will keep an eye out for this Arbas and have a potion of speed ready to run just in case he sounds tough!<br/>\n<br/>\nWas there good loot in some chest that I missed? LOL when I redo the area I better check them out again</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:29 PM - Feb 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I will try &amp; make him extra-beardy just for you Stag, you will have the results soon I think, once I get a cup of good coffee first &amp; start putting the build down to paper :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:34 AM - Feb 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Paying homage to Warhammer Fantasy, this I feel is a proper Dwarven Slayer!<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.imgur.com/y43lU3z.jpg\" /><br/>\n[Fighter 10/ Rogue 4/ Dwarven Defender 26]<br/>\nRACE: DWARF<br/>\nALIGNMENT: LN (Smite proof)<br/>\nPLAYABILITY: PvM 1 \u2013 40<br/>\n<br/>\nSTARTING/ ENDING STATS:<br/>\nSTR -\u00a0 17 (<strong>34</strong>)<br/>\nDEX -\u00a0 13<br/>\nCON - 16<br/>\nINT -\u00a0\u00a0 14<br/>\nWIS -\u00a0 08<br/>\nCHA - 06<br/>\n<br/>\nDR: 18/ \u2013 <br/>\nHit Points: 596<br/>\n<br/>\nSkill Points: 196<br/>\nDiscipline: 43 (55)<br/>\nListen/ Spot: 26 (25)<br/>\nTumble: 40 (41)<br/>\nSpellcraft: 18 (20) cc<br/>\nSet Traps: 14 (15)<br/>\nUMD: 37 (35)<br/>\n<br/>\nSaving Throws (Fort/Ref/Will): 26/19/19 \u2192 32/ 25/ 25 (Saves Vs Spells)<br/>\nNaked/ Armoured AC: 21/ 34 (Full Plate &amp; Def. Stance &amp; Dodge)<br/>\n<br/>\nBAB: 29 (Four attacks)<br/>\nAB: +45/ +40/ +35/ +30 (Great-Axe)<br/>\nDMG: 1d12 +24 / 19 \u2013 20 X3 (Great-Axe)<br/>\n<br/>\nDevastating Critical DC: 42 (48)<br/>\nDefensive Stance 13/ Day: +2 STR/ +4 CON/ +2 To all Saves/ +4 AC<br/>\nDefensive Awareness: Cannot be flanked, Immune to Sneak attacks while attacking<br/>\n<br/>\nLEVELING GUIDE:<br/>\n01) Fighter (01): Power Attack, Cleave<br/>\n02) Rogue (01): <br/>\n03) Fighter (02): WF: Great-Axe, Dodge<br/>\n04) Fighter (03): {STR +1}<br/>\n05) Fighter (04): WS: Great-Axe<br/>\n06) Fighter (05): Toughness<br/>\n07) Rogue (02): <br/>\n08) Fighter (06): Blind Fight, {STR +1}<br/>\n09) Dwarven Defender (01): Knockdown<br/>\n10) Dwarven Defender (02): <br/>\n11) Dwarven Defender (03): <br/>\n12) Dwarven Defender (04): IC: Great-Axe, {STR +1}<br/>\n13) Dwarven Defender (05): <br/>\n14) Dwarven Defender (06): <br/>\n15) Dwarven Defender (07): Improved Knockdown<br/>\n16) Dwarven Defender (08): {STR +1}<br/>\n17) Dwarven Defender (09): <br/>\n18) Dwarven Defender (10): Great Cleave<br/>\n19) Rogue (03): <br/>\n20) Fighter (07): {STR +1}<br/>\n21) Fighter (08): EWF: Great-Axe, Great Strength I<br/>\n22) Fighter (09): <br/>\n23) Fighter (10): EWS: Great-Axe<br/>\n24) Dwarven Defender (11): Great Strength II, {STR +1}<br/>\n25) Dwarven Defender (12): <br/>\n26) Dwarven Defender (13): <br/>\n27) Dwarven Defender (14): Overwhelming Critical, Great Strength III<br/>\n28) Dwarven Defender (15): {STR +1}<br/>\n29) Dwarven Defender (16): <br/>\n30) Dwarven Defender (17): Great Strength IV<br/>\n31) Dwarven Defender (18): Devastating Critical<br/>\n32) Dwarven Defender (19): {STR +1}<br/>\n33) Dwarven Defender (20): Great Strength V<br/>\n34) Dwarven Defender (21): <br/>\n35) Dwarven Defender (22): Armour Skin<br/>\n36) Dwarven Defender (23): Great Strength VI, {STR +1}<br/>\n37) Rogue (04): <br/>\n38) Dwarven Defender (24): <br/>\n39) Dwarven Defender (25): Great Strength VII<br/>\n40) Dwarven Defender (26): Epic Prowess, {STR +1}<br/>\n<br/>\nSPECIAL NOTES: <br/>\nDeadly Traps, Evasion, Improved Uncanny Dodge, Failureless Scroll-casting<br/>\nDevastating Critical w/High DC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:46 AM - Feb 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You bloody meant it when you said extra-beardy, didn't you!<br/>\n<br/>\nOn principle I like him, now I'll have to take a proper look. I can see he's a lot more aggressive than your re-worked Dwarven Wall, or any iteration of Grizz's Hearth Guard, but there are a few others (mostly yours) that I might like to have a glance at first. (Get me, going all smart-arse all of a sudden - like I know what I'm on about.)<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "8:41 AM - Feb 22, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a quick note. Monks Perfect Self, Stoneskin etc do not stack with DR xx/-. They overlap, the strongest one matters. If you have DR 15/- and 20/+1 You would have 20 when hit by non-magic weapons, 15 otherwise.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:10 AM - Feb 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Forgot to mention a variant,<br/>\n<br/>\nThe \"Dwarven Slayer\" can also be built with monk in place of rogue, same split &amp; all but because you do not need \"cleave\" (free from monk) you can take LoH at first level.<br/>\nNet results would be (+8 hp's, +3 fort/ +1 ref/ +3 will) &amp; free access to monk gear but you lose umd.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:43 AM - Feb 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh bless you for that variant. But in this instance I think Rogue's the better option - much as I'd like to get all saves over 20 (it's just one of my things), full UMD beats Monk 4 here. Plus neither his name nor selfie seem to point at a monastic life...<br/>\n<br/>\nThough you'd think with all that sharp metal around he could grab an easy haircut (not the beard, obvs) - might be handy in case of a wind from behind.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "wildleaf",
-      "avatar": "10747696_1523894257.png",
-      "timestamp": "12:45 AM - Feb 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Love the Slayer build. I've been crushing as that class in the latest Vermintide game. Monk does fit as well, the Slayers have a pretty methodical doctrine regarding the slaying of trolls. <br/>\n<br/>\nI'm going to roll this char on a new server I found. Seems like nwn builders just get better and better as the years go on.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:30 AM - Feb 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm supposed to be weaning off Monk - don't make it harder!<br/>\n<br/>\n<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "ratty_uk2011",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:39 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Excuse the resurrect - a question on DR please?<br/>\n<br/>\nWhich of these three stack with each other:<br/>\n<br/>\n1) x/- from the OC belts of Swordsman etc<br/>\n2) DwD innate\u00a0<br/>\n3) Epic feat<br/>\n<br/>\nWiki is a bit fuzzy on this.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:14 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Ratty - and welcome to the Guild!<br/>\n<br/>\nThe swordsman/ brawler/ archer belts give you resistances to, respectively, slashing, blunt, and piercing damage, but have no effect on other types of damage inflicted (iirc, it's 10 for the lesser belts and 25 for the greater ones).<br/>\n<br/>\nInnate DwD (and indeed Barbarian) DR does stack with the EDR feats, and applies to all forms of physical damage.<br/>\n<br/>\nBy and large, the belts will be more beneficial at lower levels, but if you're going heavy on DR and EDR you'll probably find better belts to occupy the slot later. However, it's always worth keeping hold of the belts just in case, because their specific types of resistance will stack with the innate stuff and the feats, which can be useful in particularly challenging encounters.<br/>\n<br/>\nHope this helps!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "ratty_uk2011",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:00 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you Sir!<br/>\n<br/>\nI play on WoG and there's a couple of Bosses that hit hard esp if they Crit , and this char is designed to face tank them whilst the AA's in the party plink away from a safe distance.<br/>\n<br/>\nSo the ability to stack three sources of DR is very useful even at the cost of loosing the belt slot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "2:09 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>ratty_uk2011 wrote:</cite>Thank you Sir!<br/>\n<br/>\nI play on WoG and there's a couple of Bosses that hit hard esp if they Crit , and this char is designed to face tank them whilst the AA's in the party plink away from a safe distance.<br/>\n<br/>\nSo the ability to stack three sources of DR is very useful even at the cost of loosing the belt slot.</div></blockquote>Barbarian, DwD and EDR feats do indeed all stack. They do not however, stack with the belts. Or Stoneskin, premonition, shapeshifted DR in f.ex. Dragonshape or the likes.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:18 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My pleasure, Ratty.<br/>\n<br/>\nI actually found out about the belts' stacking when soloing the Mines of Twin Summit modules. My DwD kept getting temporarily petrified by a magma elemental then battered by assorted earth elementals. I'd already got 30/-DR, but still kept pegging out, so tried slipping on a Greater Brawlers belt on my third reload. Still got petrified, but took no subsequent damage (having some regen equipment also helped). But what was particularly nice was that I was wearing armour that delivered electrical damage on a loop when hit. Killed four elementals while completely immobile. He-he.<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd by Grimnir. The belts do work in my experience (see main text of this post), but of course only for their particular damage type. I popped a screenshot of the said incident in \"The Good, The Bad, And The Ugly Thread\" in the General forum (it's on page 7). Maybe there are different implementations in different environments?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "2:37 PM - Jul 01, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><br/>\n<blockquote><div><cite>Stagmeister wrote:</cite>My pleasure, Ratty.<br/>\n<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Ninja'd by Grimnir. The belts do work in my experience (see main text of this post), but of course only for their particular damage type. Maybe there are different implementations in different environments?</div></blockquote>\n\nYou are right. Dmg resistance do indeed stack with Damage reduction. The belts are Slash RESISTANCE etc. Sorry about that. My old PW hade some changes to this.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:34 AM - Jul 02, 2019",
+      "content": "<div>Oh yes, some of the best in fact, depending on level &amp; luck &amp; you need to have a focus of course.<br/>\n<br/>\nI won't spoil anything, but let's just say that Arbas is near (except if they have moved him).<br/>\n<br/>\nAlso, I do not recognize that particular named mage, back then it was just an ugly Ogre Magi (but enhanced) very tough opponent.</div>"
     }
   ]
 }

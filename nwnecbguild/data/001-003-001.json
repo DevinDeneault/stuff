@@ -8,61 +8,64 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/party-size-penalty-manager-no-xp-loss-override-t2355122.html",
   "author": "DoesntPlayAnymore",
   "avatar": "10759108_1563558681.png",
-  "replies": 8,
+  "replies": "8",
+  "views": "1.3K",
   "posts": [
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "6:15 PM - Jul 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Plug and play for single player campaigns. No need to open the module or anything like that.\u00a0<br/>\n<br/>\nThis script periodically adjusts a single player module's xp scale to accurately offset loss of XP from Party Size Penalty.<br/>\n<br/>\nLink:\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/script/party-size-penalty-manager-no-xp-loss-override\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... s-override</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Plug and play for single player campaigns. No need to open the module or anything like that.\u00a0<br/>\n<br/>\nThis script periodically adjusts a single player module's xp scale to accurately offset loss of XP from Party Size Penalty.<br/>\n<br/>\nLink:\u00a0<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/script/party-size-penalty-manager-no-xp-loss-override\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... s-override</a></div>"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "6:16 PM - Jul 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Finally got it done with help from the neverwintervault forums!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Finally got it done with help from the neverwintervault forums!</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
       "timestamp": "6:58 PM - Jul 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is a great contribution to the community DPA!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>This is a great contribution to the community DPA!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "7:05 PM - Jul 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you! I've been annoyed by the Party Size Penalty (along with Magic Crafting Xp cost\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /> )my entire adult life.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Thank you! I've been annoyed by the Party Size Penalty (along with Magic Crafting Xp cost\u00a0<span class=\"text-emoji\">\ud83d\ude07</span> )my entire adult life.</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
       "timestamp": "9:55 AM - Jul 30, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Congrats! Thanks for doing this. Hopefully some of the module creators will make use of the work you have done!\u00a0<br/>\n<br/>\nIt looks like the NWN vault guys were much quicker at doing the tech stuff of installing the scripts etc than I was, in fact they seemed so impressed they uploaded it immediately? :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Congrats! Thanks for doing this. Hopefully some of the module creators will make use of the work you have done!\u00a0<br/>\n<br/>\nIt looks like the NWN vault guys were much quicker at doing the tech stuff of installing the scripts etc than I was, in fact they seemed so impressed they uploaded it immediately? :)</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
       "timestamp": "1:09 PM - Jul 30, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Great work, DPA!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Great work, DPA!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "1:15 PM - Jul 30, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\nCongrats! Thanks for doing this. Hopefully some of the module creators will make use of the work you have done!\u00a0\n</div></blockquote>\nOooh, nono, this is for players like you and me. It's plug and play for single player campaigns, no need to open the module or anything like that. I should clarify that in the OP and project description.\u00a0<br/>\nFor module creators that want to mess with the xp system I suggest using a more powerful XP overhaul system.\u00a0<br/>\n<blockquote><div>It looks like the NWN vault guys were much quicker at doing the tech stuff of installing the scripts etc than I was, in fact they seemed so impressed they uploaded it immediately? :)</div></blockquote>\nActually, a different solution that works for both v1.69 and and EE: So instead of using the exclusive-to-EE function AddEvent to call a script on a player character's Heartbeat Event (just a script that fires every 6 seconds) user TheBarbarian showed me a different script he had come up with (link to topic:\u00a0<a class=\"postlink\" href=\"https://forum.neverwintervault.org/t/need-help-compiling-script-for-nwn-ee/2164/3\" rel=\"noreferrer\" target=\"_blank\">https://forum.neverwintervault.org/t/ne ... -ee/2164/3</a>)<br/>\n<br/>\nBasically, he \"fakes\" the heart beat even with a function that calls it self with a delay in a loop if a flag value is present on the Player. It's simple and elegant and worked immediately when applied.<br/>\n<br/>\nThe beautiful thing is: Nothing is actually overridden. The script is it's completely own little thing and doesn't mess with anything other than the XPScale.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><blockquote><div><cite>Orion2019 wrote:</cite>\nCongrats! Thanks for doing this. Hopefully some of the module creators will make use of the work you have done!\u00a0\n</div></blockquote>\nOooh, nono, this is for players like you and me. It's plug and play for single player campaigns, no need to open the module or anything like that. I should clarify that in the OP and project description.\u00a0<br/>\nFor module creators that want to mess with the xp system I suggest using a more powerful XP overhaul system.\u00a0<br/>\n<blockquote><div>It looks like the NWN vault guys were much quicker at doing the tech stuff of installing the scripts etc than I was, in fact they seemed so impressed they uploaded it immediately? :)</div></blockquote>\nActually, a different solution that works for both v1.69 and and EE: So instead of using the exclusive-to-EE function AddEvent to call a script on a player character's Heartbeat Event (just a script that fires every 6 seconds) user TheBarbarian showed me a different script he had come up with (link to topic:\u00a0<a class=\"postlink\" href=\"https://forum.neverwintervault.org/t/need-help-compiling-script-for-nwn-ee/2164/3\" rel=\"noreferrer\" target=\"_blank\">https://forum.neverwintervault.org/t/ne ... -ee/2164/3</a>)<br/>\n<br/>\nBasically, he \"fakes\" the heart beat even with a function that calls it self with a delay in a loop if a flag value is present on the Player. It's simple and elegant and worked immediately when applied.<br/>\n<br/>\nThe beautiful thing is: Nothing is actually overridden. The script is it's completely own little thing and doesn't mess with anything other than the XPScale.</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
       "timestamp": "5:53 AM - Jul 31, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for clarifying! Add-on if you are sick of exp penalties from companions. Module makers to do a proper overhaul if they are serious about it!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Thanks for clarifying! Add-on if you are sick of exp penalties from companions. Module makers to do a proper overhaul if they are serious about it!</div>"
     },
     {
       "author": "DoesntPlayAnymore",
       "avatar": "10759108_1563558681.png",
       "timestamp": "12:36 PM - Jul 31, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><em class=\"mention\">@Orion2019</em>\u00a0Yeah, if you already have a module open you can pop in a custom XP system from The Vault and circumvent the normal events on creature kills entirely. Question is: Who wants to open every Module they play and do that? And then remove it later if they don't like it? And what about the Module creator's vision?<br/>\n<br/>\nEasier just to do one console command.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div><em class=\"mention\">@Orion2019</em>\u00a0Yeah, if you already have a module open you can pop in a custom XP system from The Vault and circumvent the normal events on creature kills entirely. Question is: Who wants to open every Module they play and do that? And then remove it later if they don't like it? And what about the Module creator's vision?<br/>\n<br/>\nEasier just to do one console command.</div>"
     }
   ]
 }

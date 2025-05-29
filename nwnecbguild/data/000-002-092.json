@@ -4,71 +4,223 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "092",
-  "name": "Lore and Item IDing",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/lore-and-item-iding-t2355652.html",
-  "author": "Maximillian_Kane",
-  "avatar": "10758866_1605883460.jpg",
-  "replies": 9,
+  "name": "Factoring Devastating Criticals into average damage",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/factoring-devastating-criticals-into-average-damag-t2355654.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": "33",
+  "views": "1.1K",
   "posts": [
     {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "2:07 AM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hail Mighty Mathematicians!<br/>\n<br/>\nYes, i'm not addressing the regular ECB folk, but those of you who understand how Lore works.<br/>\n<br/>\nHow do you determine how much Lore is needed to ID an item? What are the factors taken into account? What custom modifications impact it?<br/>\n<br/>\nThanks in advance!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:21 AM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I hope this page has the answers you seek:<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Lore\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Lore</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "10:16 AM - Jan 14, 2021",
+      "content": "<div>It started with me imagining a fight between two lvl40 melee characters, A and B:<br/>\n\u00a0<br/>\nA: Strength 41<br/>\n\u00a0 \u00a0 \u00a0AC 54<br/>\n\u00a0 \u00a0 \u00a0HP 640<br/>\n\u00a0 \u00a0 \u00a0AB 59 (5 APR when hasted)<br/>\n\u00a0 \u00a0 \u00a0Damage: 1-8 + 20 (Critical: 15-20/ x2)<br/>\n\u00a0 \u00a0 \u00a0+2d6 elemental damage<br/>\n\u00a0 \u00a0 \u00a0+10 physical damage<br/>\n\u00a0 \u00a0 \u00a0Fortitude: 40<br/>\n\u00a0<br/>\nB: Strength 52<br/>\n\u00a0 \u00a0 \u00a0AC 76<br/>\n\u00a0 \u00a0 \u00a0HP 460<br/>\n\u00a0 \u00a0 \u00a0AB 63 (5 APR when hasted)<br/>\n\u00a0 \u00a0 \u00a0Damage: 1-6 + 30 (Critical: 12-20/ x2)<br/>\n\u00a0 \u00a0 \u00a0+2d6 elemental damage<br/>\n\u00a0 \u00a0 \u00a0+10 physical damage<br/>\n\u00a0 \u00a0 \u00a0Fortitude: 42<br/>\n\u00a0<br/>\nObviously, B would win if they are pitted against each other. But curiosity drove me to determine how much damage B can inflict against A, and vice versa. I don\u2019t have the tools, such as Kamiryn\u2019s CBC or Yunim\u2019s ADPPRCalc, so I only used a basic calculator to compute. I included Dev crit chance in my computations.<br/>\n\u00a0<br/>\nA against B: <br/>\nAPR of +59/+54/+49/+44/+59 against 76 AC will land 11 hits in 20 rounds, all criticals, will have 10% Dev crit chance against 42 Fortitude<br/>\n\u00a0<br/>\nMy formula:<br/>\n1-8 +20 = 24.5 (average damage on normal hit)<br/>\nOverwhelming critical: 24.5 x 2 + 3.5 (average of 1d6) + 7 (average elemental damage) + 10 physical damage = 69.5 damage<br/>\n10% Dev crit chance means 1.1 out of 11 hits dealing 460 damage (B's HP) each<br/>\nTotal damage in 20 rounds: (1.1 x 460) + (9.9 x 69.5) = 1194.05 damage<br/>\n\u00a0<br/>\nB against A:<br/>\nAPR of +63/+58/+53/+48/+63 against 54 AC will land 91 hits in 20 rounds, 45 of them criticals, will have 50% Dev crit chance against 40 Fortitude<br/>\nNormal hits: 50.5 x 46 (number out of 91) = 2,323 damage<br/>\nOverwhelming critical: 87.5 x 22.5 (half of 45 criticals) = 1968.75 damage<br/>\nDev crit: 640 (A's HP) x 22.5 (other half of 45 criticals) = 14,400 damage<br/>\nTotal damage in 20 rounds : 2,323 + 1968.75 + 14,400 = 18,691.75 damage<br/>\n\u00a0<br/>\nOne can derive the ADPR by dividing the total damage by 20.<br/>\n<br/>\nAm I missing something here? Anyone who has better understanding of the mechanics please feel free to correct me if I\u2019m wrong.\u00a0</div>"
     },
     {
       "author": "Maximillian_Kane",
       "avatar": "10758866_1605883460.jpg",
-      "timestamp": "2:44 AM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Empyre!<br/>\n<br/>\nUnfortunately it doesn't help much.<br/>\n<br/>\nWhere I play, merchants typically have a cap of 150K tops, so if an item is worth anything over that, I have no way of knowing how much it's actually worth.<br/>\n<br/>\nHow do you determine the value of an item?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:51 PM - Jan 14, 2021",
+      "content": "<div>Hey Darktooth!<br/>\n<br/>\nThis is an interesting thought. I understand your curiosity, but what would be the point of calculating the damage potential of DevCrit other that curiosity itself? The thing is that when DevCrit hits, it's over, combat ends instantly, so it's more like the opposite of damage, which until you reach 0 HP, means combat continues, and you can react. How do you quantify the fact that enemies can't heal against a DevCrit? How do you account for the damage the character who is DevCritted has already suffered before getting DevCritted? Because more likely than not, the enemy won't be at full HP when they do go down.<br/>\n<br/>\nAlso, if you consider that formula, then DevCrit would do more damage against foes with higher HP, linking the damage not to the DevCrit itself, but to enemy HP. A similar way of thinking would apply if you tried to convert insta-death spells into Fireballs using that logic.<br/>\n<br/>\nI like the idea, but I don't see the practical application of it, yet.<br/>\n<br/>\nCheers!</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:16 PM - Jan 14, 2021",
+      "content": "<div><blockquote><div><cite>Maximillian_Kane wrote: <div class=\"responsive-hide\">Jan 14, 2021</div></cite>\nI like the idea, but I don't see the practical application of it, yet.</div></blockquote>\nThat's the question I have already asked myself, but forgot to include in my original post.<br/>\n<br/>\nAnyway, I could actually see why Dev Crit can't be factored in ADPR calculations. I was already aware of most of your other questions, except that the enemy HP wouldn\u2019t be full when dev critted just didn\u2019t came into my head.<br/>\n<br/>\nThis was just a silly attempt. Thanks for your wise comment.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:34 PM - Jan 14, 2021",
+      "content": "<div>But now, probably another nonsense, question popped in my mind--how does one compute for average damage that excludes Dev crit? In the above example, B could dev crit A 22.5% of the time, that's hard to overlook. I must be very sleepy already.</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "3:04 PM - Jan 14, 2021",
+      "content": "<div><blockquote><div><cite>darktooth wrote: <div class=\"responsive-hide\">Jan 14, 2021</div></cite>But now, probably another nonsense, question popped in my mind--how does one compute for average damage that excludes Dev crit? In the above example, B could dev crit A 22.5% of the time, that's hard to overlook. I must be very sleepy already.</div></blockquote>\nAssume average damage rolls on all damage dice, then add the modifiers, and multiply by % chance to hit (removing crit chance), then add the result of that to the % of times you actually crit x the damage multiplied by the weapon multiplier), That would be my guess.<br/>\n<br/>\nThe thing that is a little obscure to me is the chance of critting, because it involves a threat roll.<br/>\n<br/>\nI guess it would be something like this:<br/>\n<br/>\naverage damage on a regular hit = (average damage on dice rolls + modifiers) x (average chance to hit - chance to crit).<br/>\n<br/>\naverage damage on criticals = ((average damage on rolls + modifiers) x weapon multiplier) x average chance to crit<br/>\n<br/>\ntotal average damage = average damage on a regular hit + average damage on criticals (since the chances have been factored in in previous calculations)<br/>\n<br/>\nI may be wrong, but that's what makes sense to me.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "4:31 PM - Jan 14, 2021",
+      "content": "<div><blockquote><div><cite>Maximillian_Kane wrote: <div class=\"responsive-hide\">Jan 14, 2021</div></cite>\naverage damage on criticals = ((average damage on rolls + modifiers) x weapon multiplier) x average chance to crit<br/>\n<br/>\ntotal average damage = average damage on a regular hit + average damage on criticals (since the chances have been factored in in previous calculations)<br/>\n<br/>\nI may be wrong, but that's what makes sense to me.</div></blockquote>\nThat's it if a character doesn't have Dev crit feat. With Dev crit; however, I guess calculating the average damage becomes a pointless exercise.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "4:55 PM - Jan 14, 2021",
+      "content": "<div><blockquote><div><cite>darktooth wrote: <div class=\"responsive-hide\">Jan 14, 2021</div></cite><blockquote><div><cite>Maximillian_Kane wrote: <div class=\"responsive-hide\">Jan 14, 2021</div></cite>\naverage damage on criticals = ((average damage on rolls + modifiers) x weapon multiplier) x average chance to crit<br/>\n<br/>\ntotal average damage = average damage on a regular hit + average damage on criticals (since the chances have been factored in in previous calculations)<br/>\n<br/>\nI may be wrong, but that's what makes sense to me.</div></blockquote>\nThat's it if a character doesn't have Dev crit feat. With Dev crit; however, I guess calculating the average damage becomes a pointless exercise.</div></blockquote>\nJust to really screw with your head, <em>with</em> Dev Crit your average damage should be worse, because you're not counting those hits that land it, so they equate to a big fat 0, which (for example) means your hits per round might well reduce from 3 to 2.<br/>\n<br/>\nSorry - being unhelpful is a Thursday speciality this January <span class=\"text-emoji\">\ud83d\ude22</span><br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "3:54 AM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In general, there's no way of knowing for a specific environment. The Lore required to identify an item (and the UMD required to use a restricted item) can be altered by editing 2da files, so there's no guarantee that the default values apply to your specific environment. The cost of an item is determined by the base item type (eg. dagger, longsword, small shield) and the item properties on the item, and all of this can be customised too.<br/>\n<br/>\nFor a vanilla environment, you can use the toolset to check item value. That way you can calculate the cost of the most expensive item that you're likely to encounter and set your Lore accordingly. Bear in mind that Identify and Legend Lore also give Lore bonuses which can be useful if they're easily available.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:16 PM - Jan 14, 2021",
+      "content": "<div>In this case you're not really interested in the average damage, you're interested in which build will (on average) kill the other build first.<br/>\nIt's possible to calculate the average damage per round and the average number of successful critical hits per round, but combining them is a bit complicated.<br/>\nIt would only be possible to calculate the average number of rounds before the builds killed each other using that information, so a proper comparison might not be completely possible.<br/>\nYou could also do it on an attack-by-attack basis instead of a round-by-round basis, but that would be even more complicated.<br/>\nI'll see if I can edit my ADPRCalc to help with the comparison.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:47 AM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This might be a bit of a faff, but (unless its customized, ie non-vanilla) you could always pop into the Halls of Advanced Training (or similar) and find out what everything costs, then cross-reference with the table Empyre helpfully provides - which should also help with how much UMD you might need to equip said gear. Much as you recently did for me, Max (thanks again)!<br/>\n<br/>\nAdmittedly, not mathematical, but maybe practical?<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:57 AM - Jan 15, 2021",
+      "content": "<div>I calculated the Average Damage Per Round (ADPR), Average Devastating Critical Hits Per Round (ADCHPR), and combined them to calculate the Average Rounds To Death (ARTD).<br/>\nSince the averages are calculated over a round any decimal places in the ARTD aren't really reliable for a comparison.<br/>\n<br/>\nA vs A: ADPR - 238, ADCHPR - 0.261, ARTD - 2.3<br/>\nA vs B: ADPR - 27, ADCHPR - 0.008, ARTD - 16.8<br/>\nB vs A:\u00a0ADPR - 353, ADCHPR - 1.0688, ARTD - 1.0<br/>\nB vs B:\u00a0ADPR - 73, ADCHPR - 0.137, ARTD - 4.7<br/>\n<br/>\nSo on average A takes around 17 rounds to kill B while B kills A in 1 round.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:14 AM - Jan 15, 2021",
+      "content": "<div>Thanks Yunim!</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "2:25 AM - Jan 15, 2021",
+      "content": "<div>[quote=Maximillian_Kane The thing that is a little obscure to me is the chance of critting, because it involves a threat roll.<br/>\n<br/>\nI learned a bit about threat roll. Basically, its like another<br/>\nattack roll made at weapon\u2019s threat range, similar to an attack roll with full base AB, but with no automatic failure when a 1 is rolled. If the roll plus the AB exceeds the enemy AC, the attack becomes a critical. To correct my computation above, A will land 11 hits in 20 rounds, not all, but only 2.2 of those are criticals. Dev crit chance would be a measly 0.22% of total attacks. My calculation for B would still be the same (45 out of 91 hits in 20 rounds will be criticals) Dev crit chance would be 100 times that of A\u2019s (22.5%)</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:24 AM - Jan 15, 2021",
+      "content": "<div>Keep in mind for this whole thing about calculating Dev Crit chances, that the RNG (Random Number Generator) of the game's engine that is responsible for producing the numbers for your rolls is digital &amp; short of biased on delivering \"clear/defining results\". What do I mean by that? Simply that there is more chance of either very low or very high numbers than if you were rolling the dice yourself. And most of you can confirm with their senses that with either Baldur's Gate II or Neverwinter Nights, there are far more critical hits (or spectacular failures) than what the average numbers might say. <br/>\n<br/>\nI remember an article about Pools of Radiance back in the day, they were saying (amongst others) that the RNG of the game was a failure since it was producing average numbers most of the time &amp; low-level heroes (&amp; monsters) couldn't hit the broad side of a barn.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "11:18 AM - Jan 15, 2021",
+      "content": "<div>Actually I made a mistake with my previous comment, you can't combine those two averages to get the ARTD. You need to actually calculate the probability of landing a devastating critical hit rather than use the average number of devastating critical hits per round.<br/>\n<br/>\nBelow is the Average Damage Per Round (ADPR), Devastating Critical Hit Probability Per Round (DCHPPR), and Average Rounds To Death (ARTD) for both builds.<br/>\nA vs A: ADPR - 238, DCHPPR - 0.235, ARTD - 2.4<br/>\nA vs B: ADPR - 27, DCHPPR - 0.008, ARTD - 16.8<br/>\nB vs A: ADPR - 353, DCHPPR - 0.700, ARTD - 1.3<br/>\nB vs B: ADPR - 73, DCHPPR - 0.132, ARTD - 4.8<br/>\n<br/>\nThe conclusion doesn't really change though, on average A takes around 17 rounds to kill B while B takes around 2 rounds to kill A.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:27 PM - Jan 15, 2021",
+      "content": "<div>This could be one practical use of including dev crit in damage computations. I am still unsure which of these feats is the most important: Epic Weapon Specialization, Epic Prowess and Armor Skin. Let\u2019s say we have three lvl 31 dev critting combatants; A, B and C. They are almost identical except that they each took a different feat at lvl 31:<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">A (has EWS)</span><br/>\nStr 46<br/>\nAC 67<br/>\nHP 343<br/>\nAB 53 (5 APR when hasted)<br/>\nDmg 1-6 + 24 (Critical 12-20/ x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFortitude 35<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">B (has Epic Prowess)</span><br/>\nStr 46<br/>\nAC 67<br/>\nHP 343<br/>\nAB 54 (5 APR when hasted)<br/>\nDmg 1-6 + 20 (Critical 12-20/ x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFortitude 35<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">C (has Armor Skin)</span><br/>\nStr 46<br/>\nAC 69<br/>\nHP 343<br/>\nAB 53 (5 APR when hasted)<br/>\nDmg 1-6 + 20 (Critical 12-20/ x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFortitude 35<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">A in 20 rounds:</span><br/>\nAgainst B, would land 11.7 normal hits, 4.095 overwhelming crits, and 2.205 dev crits<br/>\nAgainst C, would land 9.75 normal hits, 2.1125 overwhelming crits, and 1.1375 dev crits<br/>\nDmg per hit: 44.5; Overwhelming Critical 75.5<br/>\n<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">B in 20 rounds:</span><br/>\nAgainst A, would land 12.6 normal hits, 5.46 overwhelming crits, and 2.94 dev crits<br/>\nAgainst C, would land 10.5 normal hits, 2.925 overwhelming crits, and 1.575 dev crits<br/>\nDmg per hit: 40.5; Overwhelming Critical 67.5<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">C in 20 rounds:</span><br/>\nAgainst either A or B, would land 11.7 normal hits, 4.095 overwhelming crits, and 2.205 dev crits<br/>\nDmg: 40.5 per hit; Overwhelming Critical 67.5<br/>\n\u00a0<br/>\nBased on these combat stats, who is the strongest fighter? Which of the three feats is the best?</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:04 PM - Jan 15, 2021",
+      "content": "<div>I calculated the ARTD with both the base HP (343) and with HP after max CON (583).<br/>\n<br/>\nA vs A: ADPR - 53. DCHPPR - 0.147. ARTD - 4.6. ARTD (Max CON) - 5.6.<br/>\nB vs A: ADPR - 59. DCHPPR - 0.194. ARTD - 3.7. ARTD (Max CON) - 4.6.<br/>\nC vs A: ADPR - 49. DCHPPR - 0.147. ARTD - 4.9. ARTD (Max CON) - 6.0.<br/>\n<br/>\nA vs B: ADPR - 53. DCHPPR - 0.147. ARTD - 4.6. ARTD (Max CON) - 5.6.<br/>\nB vs B: ADPR - 59. DCHPPR - 0.194. ARTD - 3.7. ARTD (Max CON) - 4.6.<br/>\nC vs B: ADPR - 49. DCHPPR - 0.147. ARTD - 4.9. ARTD (Max CON) - 6.0.<br/>\n<br/>\nA vs C: ADPR - 35. DCHPPR - 0.074. ARTD - 7.26. ARTD (Max CON) - 9.9.<br/>\nB vs C: ADPR - 39. DCHPPR - 0.106. ARTD - 6.0. ARTD (Max CON) - 7.7.<br/>\nC vs C: ADPR - 32. DCHPPR - 0.074. ARTD - 7.7. ARTD (Max CON) - 10.4.<br/>\n<br/>\nOn average:<br/>\nA kills B in 5 (6) rounds and kills C in 8 (10) rounds.<br/>\nB kills A in 4 (5) rounds and kills C in 6 (8) rounds.<br/>\nC kills A in 5 (6) rounds and kills B in 5 (6) rounds.<br/>\n<br/>\nSo on average, build C (with Armor Skin) will have a better chance of killing the other builds first.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "1:58 PM - Jan 15, 2021",
+      "content": "<div>Again, just for fun, two identical lvl 29 dev critters, two different feats:<br/>\n<span style=\"text-decoration:underline\">\u00a0</span><br/>\n<span style=\"text-decoration:underline\">A (has EWF):</span><br/>\nStr 45<br/>\nAC 67<br/>\nAB 51(5 APR when hasted)<br/>\nDmg 1-6 + 19(Critical 12-20/x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFort 34<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">B (has Armor Skin):</span><br/>\nStr 45<br/>\nAC 69<br/>\nAB 49(5 APR when hasted)<br/>\nDmg 1-6 + 19(Critical 12-20/x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFort 34<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">20 round combat stats:</span><br/>\nA against B: lands 7.65 normal hits, 0.945 overwhelming crits, and 0.405 dev crits<br/>\nB against A: lands 7.65 normal hits, 0.945 overwhelming crits, and 0.405 dev crits<br/>\n\u00a0<br/>\nWho is stronger?<br/>\n\u00a0<br/>\nThis might be a bit tricky.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "2:52 PM - Jan 15, 2021",
+      "content": "<div>Actually I made another mistake in my last comment, I was using the Dev Crit DC for level 40 (48) instead of level 31 (43).<br/>\nBuild C still has the advantage with the correct DCs though.<br/>\n<br/>\nWith the updated DC, on average:<br/>\nA kills B in 6 (7) rounds and kills C in 9 (12) rounds.<br/>\nB kills A in 5 (7) rounds and kills C in 8 (10) rounds.<br/>\nC kills A in 6 (8) rounds and kills B in 6 (8) rounds.<br/>\n<br/>\nI'd need to know the HP for both builds to calculate the ARTD.<br/>\nAlthough if you don't care about the actual number then I can say they'd both be the same. For these calculations the actual AB/AC doesn't matter, only the difference between the AB and AC values does. Since the difference between the values is the same for both builds they'd both have the same ARTD.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:02 PM - Jan 15, 2021",
+      "content": "<div>So, are you saying that EWF and AS are equivalent?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "5:14 PM - Jan 15, 2021",
+      "content": "<div>They're only equivalent in this case because the builds are being compared by fighting each other.<br/>\nIf we compared both builds against one specific target (with or without AS) then the attacker with EWF and no AS would have a higher ADPR than the attacker with AS and no EWF, unless the target's AC was either so high or so low that the +2 AB didn't matter at all.<br/>\nIf you compare an attacker without EWF against a defender without AS and then compare the same attacker/defender pair after giving them EWF and AS there won't be any difference in terms of ADPR.<br/>\nHowever the extra AB will matter for non-ADPR related things, such as increasing the chance of a KD attempt succeeding.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "10:38 PM - Jan 15, 2021",
+      "content": "<div>Just one more match: two identical lvl 35 devers, two different feats<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">A (has EWS):</span><br/>\nStr 48<br/>\nAC 70<br/>\nHP 387<br/>\nAB 56 (5 APR when hasted)<br/>\nDmg 1-6 + 25(Critical 12-20/x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFort 37<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">B (has Epic Prowess):</span><br/>\nStr 48<br/>\nAC 70<br/>\nHP 387<br/>\nAB 57 (5 APR when hasted)<br/>\nDmg 1-6 + 21(Critical 12-20/x2)<br/>\n+2d6 elemental dmg<br/>\n+10 physical dmg<br/>\nFort 37<br/>\n\u00a0<br/>\n<span style=\"text-decoration:underline\">20 round combat stats:</span><br/>\nA against B: lands 11.7 normal hits, 3.78 overwhelming crits and 2.52 dev crits<br/>\nDmg per hit: 45.5; Overwhelming crit: 77.5<br/>\nB against A: lands 12.6 normal hits, 5.04 overwhelming crits and 3.36 dev crits<br/>\nDmg per hit: 41.5; Overwhelming crit: 69.5<br/>\n\u00a0<br/>\nWho\u2019s the better fighter?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "11:42 PM - Jan 15, 2021",
+      "content": "<div>Without doing the calculations, I would say that +1AB beats +4Dmg.</div>"
     },
     {
       "author": "Maximillian_Kane",
       "avatar": "10758866_1605883460.jpg",
-      "timestamp": "12:01 PM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"23436\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23436&amp;sid=41d09ca08f5ce36b6f6386c29b203ed4#p23436\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2021</div></cite>This might be a bit of a faff, but (unless its customized, ie non-vanilla) you could always pop into the Halls of Advanced Training (or similar) and find out what everything costs, then cross-reference with the table Empyre helpfully provides - which should also help with how much UMD you might need to equip said gear. Much as you recently did for me, Max (thanks again)!<br/>\n<br/>\nAdmittedly, not mathematical, but maybe practical?<br/>\n<br/>\nCheers</div></blockquote>\nYes, that is true, but most of the stuff I'd be interested about knowing would be custom, so it doesn't help much :D<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:58 PM - Jan 15, 2021",
+      "content": "<div>I don't know if I'm going completely on a tangent here, but basically speaking, +1 AB allows you to hit once more every 20 attacks.\u00a0<br/>\n<br/>\nSo, by that logic, you can say that it largely depends on how much damage you do per hit, being less effective for DEX toons than for STR toons, because the former would do little damage per hit, whereas the latter, with an extra hit, would do significantly more damage.<br/>\n<br/>\nEWS adds a fixed 4 to every hit you already make, so if you multiply the number of hits you have out of 20 (I.E. you hit 5x, on a 16, 17, 18, 19, and 20, some or all of which might end up being critical hits, doubling or tripling the damage). So you multiply it by 4 on normal hits, and by 8 or 12 on crits, multiplied by their specific chances to occur (the total of which needs to add up to 100%), and you'll have that average added damage, depending on several factors, such as: enemy AC, Weapon Multiplier, Weapon Crit Range, whether it's Keen or not, etc..<br/>\n<br/>\nThen if that number you get is lower than the normal damage you do with a single regular attack, EP is better. If the number is higher, then EWS is better. Clearly, for DEX characters, EWS will likely be better than for STR ones.<br/>\n<br/>\nThat's my reasoning, but I really don't want to do the calculations.<br/>\n<br/>\nP.S.: <em class=\"mention\">@darktooth</em>\u00a0if you want to quote me manually (instead of using the button underneath my post), type:<br/>\n<br/>\n\u00a0\"[ quote ] insert the bit you want to quote here, and then type [ / quote ]\" (remove all the spaces inbetween the brackets, slashes and quote(s), which I put there just so that you could see them instead of them turning whatever I wrote in the middle into a quote, like this:<br/>\n<blockquote><div>insert the bit you want to quote</div></blockquote>\n\nCheers!\u00a0</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:28 AM - Jan 16, 2021",
+      "content": "<div>I was typing on my phone's 4-inch screen when I made that post quoting you, so it somehow messed up.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:19 PM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Shame. Alright, with even more faffing, how about creating a character with (for example) 20 Lore, beam them into wherever you're playing and see if they can id what you want, if not, try one with 30 ranks, then 40, and so on until you can id the item(s). That gives you a 10 point Lore window, which you can then narrow further should you wish - maybe try (eg) 35 ranks if you know you need between 30 and 40, and narrow it down progressively, depending on how obsessive you're feeling.<br/>\n<br/>\nAs I say, highly faff-intensive, but hey-ho.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:27 AM - Jan 16, 2021",
+      "content": "<div>Alternatively, you can hit the Quote button then edit the post you're quoting (I highlight then backspace) to leave just the relevant bits (though removing words such as \"not\" will tend to be frowned upon!) - those you're replying to in particular - so you don't need to include the whole post</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Freaky Grandma",
-      "avatar": "10758890_1523693739.jpg",
-      "timestamp": "1:06 PM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One thing you CAN do is to write down the WoG price of several items of differenty types. Preferably items which also COULD exist in a vanilla environment (like a weapon+1, boots of speed, swordsman's belt, shield 5% protection against electrical, like that) which have an enhancement or a magical property or three, but aren't worth more than 150K.<br/>\n<br/>\nThen you create a new, empty module with the toolset, create a 2x2 empty area (toolset forces you to create an area), save it as \"test\" and make sure you have your empty area open. You now can check all standard item blueprints or even create new items. When you \"edit\" an item or \"edit copy\", you can see the \"value\" on which item level restriction as well as Lore and UMD needed are based on.<br/>\nOR, if you tell me the exact properties of an item, I can check the vanilla value for you. Takes me just minutes, because I know where to look.<br/>\n<br/>\nBy comparing the WoG prices with what you find in the toolset you might be able to derive a pattern, using the vanilla lists.<br/>\nYou would need to know the exact Lore or UMD needed for the items whose value you noted down, of course.<br/>\n<br/>\nYou say WoG isn't high magic, so it is unlikely there will be any item with a value higher than what would be 4.2 million in vanilla (equal to item level 40), it probably is less.\u00a0<br/>\n<br/>\nOf course you could download solo WoG, open it with the toolset and check item blueprints and scripts. You also could check 2da's with a 2da editor.<br/>\nJust that this... way too much searching. For a module that size and with so many haks it also takes ages to check anything. Toolset might crash or freeze frequently, even on a fast computer.<br/>\n<br/>\nThat, and we don't know what has been changed since solo WoG was published.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "6:16 AM - Jan 16, 2021",
+      "content": "<div><blockquote><div><cite>Yunim wrote: <div class=\"responsive-hide\">Jan 15, 2021</div></cite>They're only equivalent in this case because the builds are being compared by fighting each other.<br/>\nIf we compared both builds against one specific target (with or without AS) then the attacker with EWF and no AS would have a higher ADPR than the attacker with AS and no EWF, unless the target's AC was either so high or so low that the +2 AB didn't matter at all.<br/>\nIf you compare an attacker without EWF against a defender without AS and then compare the same attacker/defender pair after giving them EWF and AS there won't be any difference in terms of ADPR.<br/>\nHowever the extra AB will matter for non-ADPR related things, such as increasing the chance of a KD attempt succeeding.</div></blockquote>\nOK, that makes sense.\u00a0 Thanks for explaining.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "1:50 PM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Freaky Grandma wrote: <a data-post-id=\"23439\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=23439&amp;sid=41d09ca08f5ce36b6f6386c29b203ed4#p23439\">\u2191</a><div class=\"responsive-hide\">Jan 08, 2021</div></cite>One thing you CAN do is to write down the WoG price of several items of differenty types. Preferably items which also COULD exist in a vanilla environment (like a weapon+1, boots of speed, swordsman's belt, shield 5% protection against electrical, like that) which have an enhancement or a magical property or three, but aren't worth more than 150K.<br/>\n<br/>\nThen you create a new, empty module with the toolset, create a 2x2 empty area (toolset forces you to create an area), save it as \"test\" and make sure you have your empty area open. You now can check all standard item blueprints or even create new items. When you \"edit\" an item or \"edit copy\", you can see the \"value\" on which item level restriction as well as Lore and UMD needed are based on.<br/>\nOR, if you tell me the exact properties of an item, I can check the vanilla value for you. Takes me just minutes, because I know where to look.<br/>\n<br/>\nBy comparing the WoG prices with what you find in the toolset you might be able to derive a pattern, using the vanilla lists.<br/>\nYou would need to know the exact Lore or UMD needed for the items whose value you noted down, of course.<br/>\n<br/>\nYou say WoG isn't high magic, so it is unlikely there will be any item with a value higher than what would be 4.2 million in vanilla (equal to item level 40), it probably is less.\u00a0<br/>\n<br/>\nOf course you could download solo WoG, open it with the toolset and check item blueprints and scripts. You also could check 2da's with a 2da editor.<br/>\nJust that this... way too much searching. For a module that size and with so many haks it also takes ages to check anything. Toolset might crash or freeze frequently, even on a fast computer.<br/>\n<br/>\nThat, and we don't know what has been changed since solo WoG was published.</div></blockquote>\nThanks, FG. I won't do it because it's too much trouble, and WoG has a loot system that has different tiers of items, so it's kind of crazy. Something like this:<br/>\n<br/>\n- Green (Enchanted is the name, I think)<br/>\n- Purple (Epic)<br/>\n- Teal (Dweomic)<br/>\n- Golden (Legendary)<br/>\n- Some other color I don't know because I never found any of these, but I know they exist (Titan)<br/>\n<br/>\nThe enhancement bonus doesn't change much, it's +5 or +6 tops, but the number of properties increases and they tend to be more powerful.<br/>\n<br/>\nAnyway, thanks for letting everyone know about this. I'm sure we'll find an OCD Wogger who can do this to figure out the UMD they need to equip such items and the Lore required to ID them.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:22 AM - Jan 16, 2021",
+      "content": "<div>For level 35 builds with a 46 DC DevCrit:<br/>\nA vs A: ADPR - 54. DCHPPR - 0.099. ARTD - 5.7. ARTD (Max CON) - 6.9.<br/>\nA vs B: ADPR - 54. DCHPPR - 0.099. ARTD - 5.7. ARTD (Max CON) - 6.9.<br/>\nB vs A: ADPR - 60. DCHPPR - 0.132. ARTD - 4.8. ARTD (Max CON) - 5.7.<br/>\nB vs B: ADPR - 60. DCHPPR - 0.132. ARTD - 4.8. ARTD (Max CON) - 5.7.<br/>\n<br/>\nSo on average A kills B in 6 (7) rounds, while B kills A in 5 (6) rounds. Therefore on average B has an edge against A, as expected.<br/>\n<br/>\nI've uploaded the scripts I used to github. They're fairly messy since they're just rough calcs but they work.<br/>\n[<a class=\"postlink\" href=\"https://github.com/YunimNWN/Public_TM/blob/master/DevCritCalc.zip\" rel=\"noreferrer\" target=\"_blank\">https://github.com/YunimNWN/Public_TM/b ... itCalc.zip</a>]</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:13 PM - Jan 08, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is there anything on the WoG site about this? <span style=\"text-decoration:line-through\">Or you could try offering DM Wise a bribe for some insider info</span>... *<em>Bad Stag - stop it!</em>*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "7:53 AM - Jan 16, 2021",
+      "content": "<div><blockquote><div><cite>Yunim wrote: <div class=\"responsive-hide\">Jan 16, 2021</div></cite>I've uploaded the scripts I used to github. They're fairly messy since they're just rough calcs but they work.<br/>\n[<a class=\"postlink\" href=\"https://github.com/YunimNWN/Public_TM/blob/master/DevCritCalc.zip\" rel=\"noreferrer\" target=\"_blank\">https://github.com/YunimNWN/Public_TM/b ... itCalc.zip</a>]</div></blockquote>\nI have just read your replies to webshaman in his thread \u201cA question regarding Critical Hits\u201d . My calculations for Crit chance were wrong as I assumed the threat roll always makes use of full base AB. I might have to use scripts such as yours as I\u2019ve now realized it\u2019s complicated.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:12 AM - Jan 16, 2021",
+      "content": "<div>If you use that script it will print a list of critical hit probabilities for each attack in the attack schedule.<br/>\nFrom the final build pair attacking build A:<br/>\nAtt4A ACHPR_List: [0.1225, 0.01, 0.0, 0.0, 0.1225]<br/>\nAtt4B ACHPR_List: [0.16, 0.0225, 0.0, 0.0, 0.16]<br/>\nSo A's first attack has a 0.1225 chance of being a critical hit, while B's third attack has 0 chance of being a critical hit.<br/>\n<br/>\nAlso I was curious about NWN's RNG so I did a quick search through a couple combat logs for attack rolls.<br/>\n[<iframe allowfullscreen=\"\" data-s9e-mediaembed=\"imgur\" onload=\"var c=new MessageChannel;c.port1.onmessage=function(e){var d=e.data.split(' ');style.height=d[0]+'px';style.width=d[1]+'px'};contentWindow.postMessage('s9e:init','https://s9e.github.io',[c.port2])\" scrolling=\"no\" src=\"https://s9e.github.io/iframe/2/imgur.min.html#6W9DfB1\" style=\"border:0;height:400px;max-width:100%;width:542px\"></iframe><br/>\nAfter comparing 77,218 attacks we'd expect each number to be represented\u00a03860.9 times, so the data suggests that the RNG is fairly random.<br/>\nI didn't search for streaks of numbers because that would require more work, but I might check it out later.<br/>\nWe'd expect to see a streak of 3 numbers every 8,000 rolls and a streak of 4 numbers every 160,000 rolls so it wouldn't be too surprising to find a few streaks of numbers in the attack rolls.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "8:46 AM - Jan 16, 2021",
+      "content": "<div>Just curious, how many rolls would you expect to see a streak of 5 numbers? Imagine a hasted PC rolling all 20s in a single attack round, is this possible?</div>"
+    },
+    {
+      "author": "Mirnaia",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:27 AM - Jan 16, 2021",
+      "content": "<div><blockquote><div><cite>darktooth wrote: <div class=\"responsive-hide\">Jan 16, 2021</div></cite>Just curious, how many rolls would you expect to see a streak of 5 numbers? Imagine a hasted PC rolling all 20s in a single attack round, is this possible?</div></blockquote>\nIt's 20^n, with n one less than the length of the streak if you're just looking for any number*, and as long as the streak if you're looking for a specific number. So a 5-streak of any number happens on average every 160,000 rolls and 5 20's in a row occur on average every 3,200,000 rolls.<br/>\nI realise this slightly contradicts Yunim, but I think this is correct (Yunim, feel free to point out if I'm the one being incorrect).<br/>\n<br/>\n* Think of how often \"any number\" appears: it's 20^0 = every roll</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:33 PM - Jan 16, 2021",
+      "content": "<div>Mirnaia is right, I wasn't accounting for each of the 20 possible streaks.<br/>\nProbability of a streak of 1 out of 1 roll is 20 * (1/20) = 1 (obviously, this was a stupid mistake on my part)<br/>\nProbability of a streak of 2 out of 2 rolls is 20 * (1/20)^2 = 1/20<br/>\nProbability of a streak of 3 out of 3 rolls is 20 * (1/20)^3 = (1/20)^2 = 1/400<br/>\nProbability of a streak of 4 out of 4 rolls is 20 * (1/20)^4 = (1/20)^3 = 1/8000<br/>\nProbability of a streak of 5 out of 5 rolls is 20 * (1/20)^5 = (1/20)^4 = 1/160000<br/>\nSo if you rolled in sets of 1/2/3/4/5 you'd expect to encounter your first streak of length 1/2/3/4/5 after 1/20/400/8,000/160,000 sets of rolls.<br/>\nHowever since there's overlap in the sets of rolls (rolling 6 times in a row is 1 set of 6 rolls, 2 sets of 5 rolls, 3 sets of 4 rolls, etc), you'd expect to encounter your first streak of length 5 after roughly 160,000 rolls rather than 160,000 sets of 5 rolls.<br/>\n<br/>\nI compared the actual streaks from the two combat logs with randomly generated lists of rolls of equal length.<br/>\nThe \"Actual Results\" come from the combat logs, the \"Test Results\" are an average of streaks from 1,000 lists of randomly generated rolls.<br/>\nThe position in the list refers to the length of the streak, so the first entry is the number of streaks of length 1, etc.<br/>\n<br/>\nActual Log 1 Results (47358 rolls):<br/>\n[42668, 2172, 107, 5, 1]<br/>\nTest Results 1 (1000 sets of 47358 rolls):<br/>\n[42744.646, 2134.614, 107.095, 5.363, 0.261, 0.014]<br/>\nActual Log 2 Results (29860 rolls):<br/>\n[27000, 1303, 78, 5]<br/>\nTest Results 2 (1000 sets of 29860 rolls):<br/>\n[26951.683, 1345.623, 67.664, 3.308, 0.155, 0.012]<br/>\n<br/>\nSince the actual results match up fairly well with the average test results it seems that the RNG is actually random, at least for attack rolls.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "9:41 PM - Jan 16, 2021",
+      "content": "<div>So, probability of ten 20s is a row = 1.024 x 10<sup>13</sup>. Probability of it happening in a single attack round of a monk with 10 APR = 1.024 x 10<sup>14</sup>, that is, only if the monk would always hit at 10 APR.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "11:02 PM - Jan 16, 2021",
+      "content": "<div>Not quite, the probability of rolling 10 20s out of 10 rolls is (1/20)^10 = 1 / (1.024 x 10^13). The probability of getting a streak of 10 for any number (1 - 20) out of 10 rolls is 20 * (1/20)^10 = (1/20)^9 = 1 / (5.12*10^11).<br/>\nSo you'd expect a 10 APR Monk to encounter their first roll of 10 20s in one round after around 1.024 x 10^13 rounds. That would take 6.144 x 10^13 seconds, or\u00a01,946,957.7 years according to google. So it probably won't happen anytime soon.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "11:16 PM - Jan 16, 2021",
+      "content": "<div>Yes, what I meant to say in my previous post is that the probability is one out of the numbers I mentioned. It's actually more achievable than I thought! Still, who would live to see 1.9 million years. Humans did not even exist that long in this earth!<br/>\n<br/>\nOn second thought, if ALL people on earth (7.674 billion) played a 10 APR monk in NWN, we'll expect to see that occuring in 2 hours, 13 minutes and 26.4 seconds.</div>"
     }
   ]
 }

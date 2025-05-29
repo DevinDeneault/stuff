@@ -4,65 +4,60 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "286",
-  "name": "Arelith: \"Weave Mastery\": Viable or Trash?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-weave-mastery-viable-or-trash-t2354297.html",
-  "author": "Thell",
+  "name": "Str build with epic dodge challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/str-build-with-epic-dodge-challenge-t2354312.html",
+  "author": "KidMiracleman",
   "avatar": "no_avatar.png",
-  "replies": 8,
+  "replies": "7",
+  "views": "810",
   "posts": [
     {
-      "author": "Thell",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "2:48 PM - Aug 13, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello all, I know I've not posted before but I've been lurking for a little while licking up the build tips, but I've got a question of my own for once.<br/>\n<br/>\n Arelith, a level 30 RP server with mostly Vanilla mechanics (aside from one or two spell tweaks and a rule where one must take 3 consecutive levels in a class nor can one change alignment and remain an alignment restricted class) just came out with a new twist on Sorcerers and Bards last night, although the formers been around a while longer.<br/>\n<br/>\n This new twist is called weave mastery; a Spontaneous Caster can cast his spells an infinete number of times per day, <em>however</em> there is a cooldown period between casts. For every spell level above one, a caster must wait Spell level X 6 seconds to cast <strong><em>any </em></strong>of his spells again. So After casting Darkness, my Sorcerer would have to wait six RL seconds to cast again, albit he can Melee attack and use Wands/scrolls in the meantime.<br/>\n<br/>\n Quickened Spells are not subject to cooldown, so provided they were cast using the feat a level 17 Sorc can use level 0-4 spells as often as he likes. Auto-Quicken feats remove six seconds from the countdown of spells not cast using quicken spell.\u00a0<br/>\n Since Bards cannot achive high level spells and take much advantage out of Quicken, they get -50% Arcane Spell Failure and can use Raise Dead an Infinete number of times (without countdown), but they also lose Bard and Curse Song.<br/>\n<br/>\n So...What do you think fellas, is this useable or just trash? Honestly, the Sorc version looks horrible to me (Casting Wail leaves me powerless for 48 seconds? Yeiks!). The Bard version seems somewhat better, might even be decent in a Bard/BG/PM mix build but still weaker than the non-Weave counterpart in anything other than long rest-restricted dungeon runs.<br/>\n<br/>\n Thanks for any feedback<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:43 AM - Sep 10, 2014",
+      "content": "<div>Is it possible to get a str build with 37 strength and epic dodge at level 40??<br/>\n<br/>\n David</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:19 PM - Aug 13, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Honest opinion? All of them are trash. All of them. That is the problem with some heavy-rp worlds. They try to balance so many things that were not meant to be balanced this way. Sorcerers will wait 54 seconds to cast another 9th lvl spell? Then the spontaneous casting is rendered useless. And there is no way the superb 16th lvl Bard song/ Curse song is worth so little. If nothing else the changes to Bards are even worse!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:48 PM - Sep 10, 2014",
+      "content": "<div>At level forty? Absolutely impossible! At level sixty wiith your legendary levels it might be possible just barely though, judging from my own build for Dodji Domotai.</div>"
     },
     {
-      "author": "JimDandy",
-      "avatar": "10235455_1510287071.png",
-      "timestamp": "8:19 PM - Aug 13, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bards with Raise Dead? By Tymora's Bosom! Well, they do what they think is right, and that I can respect and understand. That sort of environment is not for me, though. I actually prefer to role-play (it's good enough if you stay in character while you hack and slash) but most of the time I've been in OOC groups as I discover builds' potential in-game.<br/>\n<br/>\n I'm a fan of moving away from/altering the Vancian system, but this isn't a solution I see as fun.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Thell",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "5:55 PM - Aug 15, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the responses<br/>\n<br/>\n Yeah, it's a pretty heavy penalty, but thankfully it's an optional path you don't have to take at chargen. Mostly because as JimDandy noted, the admin dislikes Vancian spellcasting. <br/>\n I am generally puzzled when most of these come out, the ideas behind these RP paths are often very neat but the way they're nerfed makes them inferior to the vanilla classes in almost every way, does make me wonder why they bother sometimes.<br/>\n<br/>\n Still, better to check than missing a good use for the class. Thanks guys.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:53 PM - Sep 10, 2014",
+      "content": "<div>I thought so too but somebody who plays on the same server as me claims that it is possible.  He also claims he did it without using RDD too.  I was thinking<br/>\n maybe a bard RDD SD build would achieve that</div>"
     },
     {
-      "author": "JimDandy",
-      "avatar": "10235455_1510287071.png",
-      "timestamp": "11:11 PM - Aug 15, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As I understand it, the Prestige Class Consortium has a Psionic class that use a point system for powers. That's my preferred method for any casting, and if I implement PRC in my PW project I would look into how to use the system for existing spell casting classes. It's just how I think magic (arcane, divine, or supernatural (as I classify them)) makes the most sense to be cast. I think it still allows for the current differentiation between wizards and sorcerers having two different main abilities their spell casting power relies on, but I would also change the sorcerer to be more distinct - that's a different topic, however, and something that may be setting/PW specific.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "10:24 PM - Aug 22, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm probably the wrong one to comment on a specific modification to the default ruleset because I don't like many. \u00a0There are some servers, like WoG, that has shown some real prudence in monkeying around with the basic mechanics (sometimes I feel as though there are more players that do not really like NWN at all until is morphed into some version of a game that suits their fancy... but it is usually a very small membership that is satisfied for an extended period).<br/>\n<br/>\n That said, I believe this is just another case of avoiding staleness, incorporating some nuance, however ridiculous, just so the current subscribers remain to see how it can be exploited or attract new players who think \"Wow! That's awesome!\". \u00a0Don't get me wrong. \u00a0Running a server is a mind-boggling, tenacious undertaking. And trying to compete for players with all the other servers out there is no picnic. \u00a0But at some point, prudence has got to rule the decision-making process. \u00a0At least that is my opinion, a dyed-in-the-wool AD&amp;D 3.0 &amp; 3.5 PnPer who has spent more time discussing, debating and implementing even minor changes to suit the community's desires and demands.<br/>\n<br/>\n My impression of this particular change (I think \"tweak\" is a w-a-a-a-a-y too\u00a0rationalized description of a departure from AD&amp;D) is plain silly. \u00a0Casters should be the last classes to monkey with... IMO. \u00a0A small change can have global implications and this one looks destined to find its manifest destiny along with all the other attempts to \"cool off\" spellcasting. Don't be surprised if this either goes the way of the dinosaur or an even more inane change follows in its wake. Changes for RP are enough to contend with. \u00a0Why muddy the waters even further?\u00a0<br/>\n<br/>\n If they would simply prohibit PvP unless it met a prerequisite party composition (this is a party game, people... never intended to be one-on-one!). then it could be balanced. \u00a0We do it all the time in PnP with team PvP. \u00a0That's how balancing is achieved and much easier since it leans on the basic mechanics of AD&amp;D. \u00a0And, believe it or not, stays interesting when different mixes duel. \u00a0*jumping off a tetering soapbox, displaying the obligatory \"thumbs down\"*<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "furate",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "11:32 PM - Aug 23, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What are you talking about, HipMaestro? How does Weave Mastery have anything to do with PvP? Changes on Arelith rarely happen for PvP reasons.<br/>\n<br/>\n As for Weave Mastery, it is useful, but only when played in a support role. Weave Masters make great support casters, especially given Arelith's resting system.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:16 PM - Sep 10, 2014",
+      "content": "<div><a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build197058.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 97058.html</a></div>"
     },
     {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "12:56 AM - Aug 24, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">\u00a0\n<blockquote><div><strong>furate wrote:</strong><hr/>What are you talking about, HipMaestro? How does Weave Mastery have anything to do with PvP? Changes on Arelith rarely happen for PvP reasons.<br/>\n<br/>\n As for Weave Mastery, it is useful, but only when played in a support role. Weave Masters make great support casters, especially given Arelith's resting system.</div></blockquote>\n<div align=\"left\">It has nothing to do with PvP and I never said it did.<br/>\n<br/>\n My point was that the so-called \"balancing\" begins with PvP parity. \u00a0Take that factor out of the mix and the default classes need little tinkering if any. \u00a0Team play never needs balancing because the teams can use whatever mix of classes they want to balance competition. \u00a0<br/>\n<br/>\n I'm sure Weave Mastery has uses. \u00a0All changes do, otherwise why would they spend time implementing it? \u00a0Oh right. \u00a0I already addressed that. The staleness factor. Most servers have special resting mechanics except the high-magic ones where it doesn't matter anyway. \u00a0Whatever floats your boat, mate. \u00a0I'm not knocking it. Doesn't matter to me what they do.\u00a0 It's my opinion based on the years I've played diverse environments and formed my own conclusions about what is AD&amp;D gameplay and what is a vague facsimile designed by others with their own opinions of what makes sense to their audience. Nothing more.</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:19 PM - Sep 10, 2014",
+      "content": "<div>My own build ends with STR26/ DEX 25.<br/>\n<br/>\n Now if your friend means that you can achieve STR 37 <strong>With</strong> the +12 Enhancements, then that is indeed possible. But as i remember for that shield you want, you need 37 STR natural, right? If so, then it is impossible to achieve that within 40 levels, no matter what.<br/>\n<br/>\n An Elven Bard 16/ RDD 14/ SD 10 can come close to that but no way you can have both natural STR 37/ DEX 25 with any kind of build.<br/>\n<br/>\n I think, the best you can do is come to a natural STR 34/ DEX 25 with this build and that is by devoting almost all of your Epic Feats to ability increases and starting with STR 16/ DEX 19 with an Elf.</div>"
     },
     {
-      "author": "Hafen",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "3:35 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hell no bard version is amazing.<br/>\n<br/>\n Go 17 bard, 6 cot/fighter 7 wm.<br/>\n<br/>\n You get a meleer with 40+ AC (add haste and spells), around 40 AB, dealing 100dmg +- on critical, self buffing himself without investing asingle coin, able to use infinite mass haste, infinite energy buffers against hellballs, infinite silence spell (just take a silent spell feat!), constantly up war cry aura (even with basic DC enemies keep rolling every round, 1 will come soon or late).<br/>\n<br/>\n And with being meleer you really dont need to care about the timer on spells, as you wont need to keep casting constantly.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:21 AM - Sep 11, 2014",
+      "content": "<div>Sounds good.  Con??  I am pretty sure he is talking about a natural 37.  He probably uses a subrace that gives added str at creation</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:47 AM - Sep 11, 2014",
+      "content": "<div>I wonder if a 27 str 25 dex and 22 con is possible</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "4:35 AM - Sep 11, 2014",
+      "content": "<div>Ah, the sub-race would explain it.<br/>\n<br/>\n CON for that Elf Bard 16/ RDD 14/ SD 10 is abysmal, you don't want to hear it really...<br/>\n<br/>\n Heck, you <strong>must</strong> have at least 11 CHA as well, cause you are a Bard, so that leads to an unavoidable:\u00a0 STR 16\u00a0 DEX 19\u00a0 CON 06\u00a0 INT 10\u00a0 WIS 08\u00a0 CHA 13<br/>\n<br/>\n Now let's assume that you devote all six of your available Epic General Feats for ability increases (The seventh one is for the ED), and let's calculate the RDD increases as well:\u00a0 STR 34\u00a0 DEX 25\u00a0 CON 08\u00a0 INT 12\u00a0 WIS 08\u00a0 CHA 15<br/>\n<br/>\n The RDD bonus feat you can take it as either Armour Skin OR Epic Prowess, the second is better in this case, because your AB will suck already without EWF.<br/>\n<br/>\n Well, i got really close it seems, and with the aid of a strong sub-race you will be able to make that build indeed although you are missing serious feats like EWF. Your AB will be something like 39 even without it , cause RDD is OP as hell.<br/>\n<br/>\n<br/>\n Anyway, hope you enjoy it</div>"
     }
   ]
 }

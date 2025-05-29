@@ -4,95 +4,54 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "270",
-  "name": "Is a better way to round this up? Cleric 20 fighter 6 rogue 4 (Arelith)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/is-a-better-way-to-round-this-up-cleric-20-fighter-t2354311.html",
-  "author": "Hafen",
+  "name": "Bard5/PM16/AA19",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/bard5-pm16-aa19-t2354336.html",
+  "author": "campgod",
   "avatar": "no_avatar.png",
-  "replies": 13,
+  "replies": "6",
+  "views": "798",
   "posts": [
     {
-      "author": "Hafen",
+      "author": "campgod",
       "avatar": "no_avatar.png",
-      "timestamp": "3:44 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Drow subrace<br/>\n -32SR<br/>\n<br/>\n End stats:<br/>\n Str 18<br/>\n Dex 12<br/>\n Con 17<br/>\n int 14<br/>\n Wis 19<br/>\n char 10<br/>\n<br/>\n HPS: 334 (+4x30 from gear)<br/>\n End saves: Fort 25 Reflex 18 will 23<br/>\n Bonuses: +12 spellcraft, +2 will racial, +5 fort from gear<br/>\n Skills: 30 concentration (+20 from gears), 40 spellcraft (+20 from gear), disciline 35-40 (+20 gear), umd 15, tumble 30<br/>\n AB with best mundane weapon (+3): 36 (38 with GMW) unbuffed<br/>\n Feats: weapon foc rapier, epic focus, weapon special, spell penetration, silent spell, extended spell, epic: will + reflex+fortitude, epic skill focus spellcraft, improved KD<br/>\n<br/>\n 5 fighter + 3 rogue go pre-epic (go get as high saves as possible and early UMD).<br/>\n<br/>\n Standart piece of gear which is counted on: +1 con/+1str +2 con/discipline/spellcraft.<br/>\n<br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:42 AM - Oct 23, 2014",
+      "content": "<div>I have used the search and found a few of these. I am just wondering which one you guys think is the best option in your opinion or if anyone has their own that might be better? Thanks guys for your help.<br/>\n \u00a0Some server changes are, PM loses 1AC at first lvl and 1 every 4 lvls after that and AA Death Arrow: The DC has been changed to 20 + 1 per AA lvl.</div>"
     },
     {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "4:20 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If it's not too much trouble, please furnish at least some type of build schedule so we can imagine what your plan is. It doesn't need to look like finished build. \u00a0An outline of some sort would suffice.<br/>\n<br/>\n Does drow race really get a penalty to SR? \u00a0That's what it looks like and that doesn't make any sense to me.<br/>\n<br/>\n What exactly are you trying to build, a battle cleric? That would be my guess. \u00a0If so, where is the WS/EWS from fighter levels? \u00a0Also, if a battle cleric, swap out spell pen for empowered.\u00a0You'll be needing it. \u00a0Or just prune down on most of the spell-related feats altogether. \u00a0<strong><em>Blind fight</em></strong> is a must. \u00a0With Divine Power, bumping STR is a waste. \u00a0Leave it at 10 or 12 max. \u00a0DEX better at 14 (at least 13 starting) to get Dodge. Really hard to fine tune this the way it sits. \u00a0Make sure to list any ability adjustments for the subrace as well.<br/>\n<br/>\n What domains did you select?<br/>\n<br/>\n Your skill set seems really conflicting to me but won't make any suggestions without seeing some sort of organized level-by-level list posted. \u00a0That's just me. \u00a0Perhaps other members may like to take some shots in the dark. \u00a0You need not furnish the enhancements that items provide except the general magic level cap for armor &amp; weapons (like +5, or whatever). \u00a0<br/>\n<br/>\n Make sure to provide both beginning and ending ability spreads so we can identify the state of the toon at creation.<br/>\n<br/>\n Help us help you. Please.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "SmkNThDrkNght",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:07 AM - Oct 23, 2014",
+      "content": "<div>Of the 3 on the search engine ghosts edr version intrigues me the most then Evo's dexer. But I'm not sure about their (yes both) feats srrms like something's amiss. I don't think I like the -a.c. deal your srvet has going on either but it is what it is. I think I'd toss in another bard level early epic (22ish) <br/>\n Just yo be a little more payable (disc, umd, tum dump) of course if it's born at 40  that's not needed.I would drop 1 aa level for it so you keep both of the pm and aa bonus feats. <br/>\n I'll dig deeper when I'm not busy.<br/>\n Edit: apologizing for bad spelling cruising down road and cell phone screen is small.</div>"
+    },
+    {
+      "author": "campgod",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:09 PM - Oct 27, 2014",
+      "content": "<div>Yeah Ghost's version is diff. I have to give him that, but the AB seems super low, no?</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:04 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hip, i think he just used the -- symbol as a start for the word \"SR\" so i guess Drow would have their normal for Arelith 32 SR maximum which isn't very good anyway.<br/>\n<br/>\n Hafen, can you give us the build as it was at the start and what you want from it? Also avoid taking into acount item enhancements into your calculations please.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:13 AM - Oct 28, 2014",
+      "content": "<div>Ghost's version is sure more intriguing, here are a couple of changes i would do to this,<br/>\n<br/>\n a) replace toughness with called shot and,<br/>\n b) replace great dexterity I with epic prowess<br/>\n c) start with 16 dex - 10 str to finish on the same total dex (22)<br/>\n<br/>\n This way you will have 4 attacks (i am looking at the corrected version) and 45 AB which it can also be boosted 9/day with bard song (+2 AB). Then, if going for PvP i would also substitute EMA with Epic Warding. Pre-epic change order of the improved critical and rapid shot feats too.<br/>\n<br/>\n One of the pro's Ghost's archer has is also the higher fortitude save if that is of any concern.</div>"
     },
     {
-      "author": "Hafen",
+      "author": "SmkNThDrkNght",
       "avatar": "no_avatar.png",
-      "timestamp": "5:35 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok guys i am sorry for confusion. As for starting abilities i do not remember them i am at work at the moment. Important is i remeber actual ammount - this is just dusting off cleric fighter toon on lvl 12th:<br/>\n Str 16 dex 12 con 16 int 14 wis 18 char 10.<br/>\n Oh and yes it is 32 sr.<br/>\n<br/>\n I employed spell pen to help me with harm wof and silence (is why silent spell).<br/>\n The idea is to survive spells and rushmage with silence on, using wof and harm.<br/>\n<br/>\n I took on this just weapon specialization not epic one, not enough feats. Reflexsave helps on bigbies (allow saves).<br/>\n<br/>\n Layout of classes is 9 cleric then 4 fighter 3 rogue 1 fighter thencleric up to 19th cleric lvl and finish skill dump on fighter and rogue.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:37 AM - Oct 28, 2014",
+      "content": "<div>For a build with 19 as levels yes but probably manageable nowhere dies it say it's a high ab build it'll make some fights longer than need be. Soo. I'd switch some feats tho. I'd move (pre epic) to something like this <br/>\n 1blindfight (get it out of the way early)<br/>\n 3weapon finesse (playability)<br/>\n 6weapon pro martial<br/>\n 9p.b.s.<br/>\n 12weapon focus long bow<br/>\n 15called shot <br/>\n 18) limp crit long bow ( I'm personally not a fan of rapid shot )<br/>\n Toughness was dropped but build still ends with over 500 hps.<br/>\n Epic  I'd shuffle some aa levels sooner and the pm levels down to pick up Ema and epic warding. Dropping the sonic damage reduction should be more tgsn a fair tradeoff. <br/>\n<br/>\n It was my anniversary this weekend so I wasn't err allowed to play or re-evaluate it properly like I said Iwwould these are quick changes/suggestions to improve durability and playability.<br/>\n<br/>\n Edit 1:Just saw valerfor post must now find corrected version. Darn it lol.<br/>\n Edit2: think I'll stick with what I said but mix in valerfors suggestions as well.</div>"
     },
     {
-      "author": "Hafen",
+      "author": "SmkNThDrkNght",
       "avatar": "no_avatar.png",
-      "timestamp": "5:38 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh and yes. Melee oriented priestess able to withstand most spells while still being decent meleer. Domains are magic and trickery (hadbto take travel too late though).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:29 AM - Oct 28, 2014",
+      "content": "<div>So I'm gonna pretend i didn't post that last post. <br/>\n This is all done on my crap a$$ phones notepad so forgive spacing etc. And I don't know if I screwed up the bab ..<br/>\n Wife was distracting me the whole time or I would have gone 6/16/18 instead I stuck with the o.p.s original level split. (Ok so I forgot the early epic bard lvl) <br/>\n<br/>\n 1B1   (blindfight)<br/>\n 2B2<br/>\n 3B3   (point blank shot)  afaik it works with xbows which is your w.o.c. until lvl 6.<br/>\n 4P1<br/>\n 5P2<br/>\n 6P3   (weapon pro martial) here's your bow<br/>\n 7P4<br/>\n 8P5<br/>\n 9P6   (weapon focus longbow)<br/>\n 10B4<br/>\n 11A1<br/>\n 12A2  (called shot)<br/>\n 13A3<br/>\n 14A4<br/>\n 15A5  (rapid shot) you are an archer so..<br/>\n 16A6<br/>\n 17A7<br/>\n 18A8  (improved critical: longbow)<br/>\n 19A9<br/>\n 20A10<br/>\n ------ <br/>\n 21P7  (edr1)<br/>\n 22P8  <br/>\n 23P9<br/>\n 24P10 (edr2)<br/>\n 25A11<br/>\n 26A12<br/>\n 27A13 (edr3)<br/>\n 28A14 {epic weapon focus: longbow}<br/>\n 29P11<br/>\n 30P12 (epic prowess)<br/>\n 31P13 * pm bonus feat Idk the list *<br/>\n 32P14<br/>\n 33P15 (epic warding)<br/>\n 34A15<br/>\n 35A16<br/>\n 36P16 (armor skin) *e.m.a.*<br/>\n 37A17<br/>\n 38A18 {great dex 1}<br/>\n 39A19 (great dex 2)<br/>\n 40B5 <br/>\n<br/>\n Probably would flip lvl 1 &amp; lvl 6 feats . Really don't know what the pm bonus feat should be.</div>"
     },
     {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "7:52 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Getting a better picture of your situation I think. \u00a0Correct the following interpretations should any be inaccurate or not applicable:<br/>\n 1. \u00a0You've already leveled this toon to some level (which we members do not yet know) and are seeking a way to optimize the levels left to the 30 cap.<br/>\n 2. \u00a0You are trying to build more of a caster than battle cleric. \u00a0A battle cleric self-buffs and attacks using spells mostly for finishing.<br/>\n 3. \u00a0You've already decided on a tactic (the silence one, which isn't bad at all IMO) and would like to optimize your build to support that tactic.<br/>\n 4. \u00a0This is a PvP build probably geared more towards dominating arcanists than a more-diluted general one-size-fits-all dueler.<br/>\n 5. \u00a0Reflex saves are paramount, followed closely by Will saves (i.e. silence save).<br/>\n<br/>\n At this moment, without further clarification, these seem the most defined characteristics of your current situation.<br/>\n<br/>\n As mentioned previously, STR bumps are wasted unless they nerfed DP on Aretlith but don't see it on the list (assuming the wiki info is current but who knows). \u00a0But apparently this is water over the dam anyway. \u00a0Don't see DM/DS being a factor with a spell-intensive build so STR could be quite low. \u00a0Anyhoo..<br/>\n<br/>\n Yes. \u00a0Unless you find some permahaste (probably none available on Arelith, though), you''ll need to stock up on Potions of Speed because if you want to rush an arcanist, THEY will be hasted... ALWAYS. \u00a0Trying to stay hasted during prolonged PvP sessions relying solely on potion buffs can be a real bite. \u00a0Lots of lost rounds and AoOs.<br/>\n<br/>\n The best fit would have been (in retrospect, of course), to focus more on DEX since your melee attack will be ancillary anyway. \u00a0KD/IKD is fine, but with a high-level acid sheath you could end up pounding yourself to death with a weapon anyway, especially if they polymorph into a balor or other uber HP form and send the mummy lord or dracolich to defend them (assuming they took those epic spells) while they wait for one of their Bigby's to stick.. \u00a0There's nothing stopping them from using extended greater sanctuary and casting a BBoD either. \u00a0And they all keep True Seeing intact so stealth (and invisibility for that matter) is worthless.<br/>\n<br/>\n Caster-focused attack schemes should really concentrate on building as many caster levels as possible, hoping that their spells can pass SR checks regularly and just use their divine powers alone to dominate melee situations (divine damage is usually impossible to resist or reduce, hence the effectiveness of Divine Might if you have it).<br/>\n<br/>\n I'll await feedback before I comment further, Hafen.<br/>\n<br/>\n @Valerfor: Thanks for the clarification. \u00a0Actually, I figured it was a typo but now that you've made the error more visible, EVERY viewer/contributor will understand.\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:34 PM - Sep 08, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If Divine power still gives the extra attack, keep BAB at 15 at level 20 so you have 3 natural attacks and can benefit from the extra AB you get with the 4th attack from DP. With the Cl 12/ F 5/ Ro 3 split at level 20 you get BAB 16 and get the cleric spellpower late. Take cl 20 pre epic, then 4 Fighter levels and grab EWF and a general feat (eg G. str/G. wis)at level 21, AS at level 22, then WS and EWS at level 24. Then take 3 levels of Rogue and max tumble at level 27. Top it off with two Fighter levels, max discipline and take EP as bonus Fighter feat. The last level is Cleric and let you max spellcraft. Final spreadL Cl 21/ F6/ Ro3. That way you only spend one general epic feat on combat feats and the xp penalties will also come later.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Hafen",
+      "author": "campgod",
       "avatar": "no_avatar.png",
-      "timestamp": "3:24 AM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">1= yes she is lvl 12th split is 9 cleric 3 fighter. Feats: power attack (!!!!) weapon focus improved KD blind fight extended spell<br/>\n 2 = no. My goal is battle cleric who uses his magic in offense in form of no-save spells: harm, word of faith, silence (when usec on myself no save is done, and all who enter area of effect is  with no save).<br/>\n 3= i would rather call it strategy cause it is overall idea. <br/>\n Most common foes are in ud wizzards and sorceress (their ego leads them against priestesshood). My strategy is delaying and surviving long enough to kill them. Into combat going warded which means dispelling takes their offensive action just to figure out i am having saves high enough to resist holding, disabling and death spells along eith higher ammount of hps preventing cheesy combos ruin and hellball to kill me in one turn.<br/>\n On the other hand, wof and harm would give me tools how to deal with them. Using scroll of disjunction or breach is counted.<br/>\n<br/>\n<br/>\n I wont have enough spells to allow myself luxury of divine power as main spells. But what i will use to the fully is divine favor +5 ab and divine dmg.<br/>\n<br/>\n Also every wiz or sorc will always dispell cleric if has lvls more 25+. ,Contrary disjunction scroll has caster lvl 17 not enough to dry dispell me, (17+d20 versus 32) so meleers relying on them wont manage to dispell all combat buffs and spells.<br/>\n<br/>\n This is how i think. Also for my use 9 th circle offers little same as eight but silent spell can move somr good spells there and free the pressed up circles (harm heal word of faith greater restoration).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "3:39 PM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>Hafen wrote:</strong><hr/>--clip--<br/>\n I wont have enough spells to allow myself luxury of divine power as main spells. But what i will use to the fully is divine favor +5 ab and divine dmg.<br/>\n<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">You're not serious, are you?<br/>\n<br/>\n A battle cleric without Divine Power? It is gimped right off the bat. \u00a0<br/>\n<br/>\n If you planned your slot allotment this poorly perhaps you should have made the Strength domain a priority from jump street. \u00a0But since you didn't, are you telling us you don't have room to slot a single extended DP at level 5? \u00a0Or a few at Level 4? \u00a0That's really all it takes. \u00a0Strength domain would have allowed Levels 3 and 4 to manage them as well. \u00a0This is a common domain choice for battle clerics for exactly the reasons described. \u00a0I'm having trouble imagining what \"main spells\" are being used at Level 4 and 5 for a build that is claiming not to be focusing on offensive spellcasting. \u00a0It's possible if there are limitations for domain choices for drow that it may not be the best choice, if that is a customization granted on the server.<br/>\n<br/>\n You would have been better assigning all but STR 13 to WIS if you were anticipating some difficulty managing slots. \u00a0I love PA/IPA for a battle cleric with almost infinite AB buffing capacity but STR focus (anything over the prereq is \"focus\") is counter-productive to say the least.<br/>\n<br/>\n I'll see what I can piece together for a drow priestess from\u00a0clvl 13 to 30 but it won't be pretty. This is not going to rounding off, though. \u00a0More like trying to get a car wreck back on the road again long enough to make it to a service station.\u00a0 I'll probably be ticketed for working on it in a No Parking zone.\u00a0</div><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:10 PM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cleric 23/ Rogue 3/ Fighter 4, is also a good choice to get close to undispellable while keeping the number of feats the same. Keep Strength to 13, DP will raise that to 18 and then an empowered bull's strength will make you a powerhouse. DP is vital, you will want at least 2 extended and 2 normal versions of it, same thing with DF as well. One of your domains should give you haste and the other improved invisibility, those are absolutely the best buffs you can have.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:39 PM - Sep 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is always better to plan out your build before you begin playing it. Please tell us all the details of what you have now, and maybe we can salvage it. In addition to how many levels of each class, we need to know what feats, skills, and abilities (STR, DEX, etc) you have now, without any modifications from your gear.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Hafen",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:00 PM - Sep 11, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><span style=\"font-size:200%;line-height:normal\"><strong>Current set up:</strong></span><br/>\n Cleric 9<br/>\n Figther 3<br/>\n<br/>\n<strong>Abilities:</strong><br/>\n Str 16<br/>\n Dex 12<br/>\n Con 16<br/>\n Wis\u00a0 18<br/>\n Charisma 10<br/>\n<br/>\n HPS: 138<br/>\n BA:9<br/>\n Saves: 12/5/11<br/>\n<br/>\n<strong>Domains</strong>: trickery, magic<br/>\n<strong>Feats:</strong> bind fight, extended spell, improved knockdown, craft wand, power attack (the least needed:( ), weapon focus rapier<br/>\n<br/>\n As for divine power, i already had caster cleric and she had hard time to carry own gear and supplies. I had lots of extended DP but when it was out, the combat prowess went rapidly down. But you are right that 16 str and 18str is no big difference right now (only +1ab/damage) i could perhaps move it to con (or else?). I am going to use it in combat, however i do not wish to rely on it fully.<br/>\n<br/>\n For the dispell concern: spellcaster level 20 means i am hard to dispell by common dispell spells, unless epic abjurer (adds +6). Spellcaster with mordekanys will always dry dispell me - it counts his caster level (arcane casters go mostly 25+ caster levels) plus d20 against mine +12. So difference between 23 and 20 is just roll of 7 or 9 to dispell a magic effect on me. However number of classes for split is still opened.<br/>\n<br/>\n Why i originaly decided to go rogue pre epic was to get additional +3 reflex save and early use of spell mantle scrolls+disjunction scrolls.<br/>\n<br/>\n The most common spellcaster tactics used to kill clerics around (many of them are simple clerics with around 200-300 hps) is either maximalised IGMS, great ruin+hellball, dispell + death spell, or bigies holding versions.<br/>\n<br/>\n I have to take it all into account, to prevent them from being easy target (most people avoid fighting those hard to kill).<br/>\n<br/>\n Oh and also, it seems that going bard instead rogue be better: rogue gives +2ref +1ref(1st and 3rd lvl) while bard offers +2 ref +2will (1st) and +1+1 (at 3rd).<br/>\n<br/>\n Edit: right now was applied change when caster lvl cap was removed from greater dispel<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n \u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:56 PM - Sep 11, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heh, now it is even more crucial to get more caster levels then,<br/>\n<br/>\n Rogue also has evasion that Bard doesn't, so it is a hard choice but in your build i would suggest Rogue.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Hafen",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:22 PM - Oct 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">K guys after running some tests i figured out that pushing it through magic works better. Allows me to take more wis and get good dc on implosion.<br/>\n<br/>\n While i was digging through my account i found level 17 cleric. She got 13 str and has already 24 wisdom. Just her con is low, 10. She got greater necro spell focus small abjuration and small evo,extended spell, craft wand<br/>\n<br/>\n I consider rather dusting this off as last week i am not in mood to grind up.<br/>\n<br/>\n However i think hard how to make her more versatile. Original plan was going 27cleric/3bard for skills. Most spells would be undispellable for non wizards, but in thiswill lack any combat feats. Perhaps i could go by a bow and take zen archery.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:00 AM - Oct 29, 2014",
+      "content": "<div>Great as always, thank you guys for your advice!</div>"
     }
   ]
 }

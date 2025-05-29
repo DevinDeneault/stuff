@@ -4,65 +4,61 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "069",
-  "name": "Highest Wail DC?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/highest-wail-dc-t2355858.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 8,
+  "name": "How Neverwinter Nights 2 changed ECB build dynamics",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/how-neverwinter-nights-2-changed-ecb-build-dynamic-t2355869.html",
+  "author": "Valerfor",
+  "avatar": "10235447_1565972826.jpg",
+  "replies": "7",
+  "views": "396",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:18 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">If I am correct then :<br/>\n<br/>\nDC = 10 + spell level + ability modifier + feat modifier<br/>\n<br/>\nSpell level : Wail of the Banshee level 9 spell<br/>\n<br/>\nAbility modifier : 18 start, all stat bonuses to Int (+20), + 12 item bonus, + 2 RDD bonus, 10 Gr. Int feats = 52.<br/>\n<br/>\nFeat modifier : Epic Spell Focus + 6<br/>\n<br/>\nspell focus +2<br/>\ngr. sf +4<br/>\ne sf +6<br/>\n<br/>\nHighest Int = 18 + 10 + 10 = 38 + 12 = 50 (RDD + 2) = 52.\u00a0 Ability Modifier +26<br/>\n<br/>\nWail of the Banshee - + 9<br/>\n<br/>\n10 + 9 + 26 + 6 = 51<br/>\n<br/>\nSo a Wizard with at least 9 levels of RDD, Epic Spell Focus Necromancy and all 10 Great Int feats with a starting Int of 18 will hit a final DC of 51, is that the highest?<br/>\n<br/>\nOr am I missing something?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mirnaia",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:39 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Modifier is half the amount above 10. So 52 Int gives (52-10)/2 = 21 ability modifier. The DC will be 46, one higher than the \"normal\" maximum. That said, I believe the highest save-or-die spell DC is against a DC 48 Implosion, which has a built-in +3DC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:56 AM - Dec 22, 2021",
+      "content": "<div>I am feeling a bit randy tonight, so you will excuse me for taking a trip down memory lane here...<br/>\n<br/>\nSo, a few years after the success of NwN 1, NwN 2 came along and offered a whole lot of new feats &amp; abilities, and the fully expanded 3.5E ruleset with it. <br/>\nAnd there were so many new toys to play with... I still hope we had those toys (through an expansion of the ruleset) for NwN 1 but alas. <br/>\nOn paper, NwN 2 appears so much more compelling to build for but in practice, things are way, way different! Let me explain...<br/>\n<br/>\nNwN 2 ruleset allows for 4 different classes to combine together and form a build, and that was a revolution on its own! We could now have the cake and eat it too! Ftr/Bard/RDD/Wm! And there were new feats too, like, <em>greater weapon focus</em> &amp; <em>specialization</em>, <em>power critical</em> (+4 on confirmation rolls), <em>monkey grip</em> (two greatswords at the same time), etc. Our charismatic characters had epic feats available to them like <em>epic divine might </em>(double the output of divine might) and our sneaky characters had epic feats like <em>perfect two-weapon fighting</em> (double the attacks of your main hand). But something had to go wrong as if some giant pendulum gave things when going forward and took back when swinging backward again.<br/>\n<br/>\nYou see, someone has to understand first how we do things here on ECB, in order to comprehend why the other half of the changes that were made were so terrible. The major bulk of all epic builders' work resides on epic levels. These 20 last levels are the most critical in a build &amp; effect the most its power level. When the epic progression \"freezes\" and all classes take a flat +10AB/+10 Saves/+7 General feats, there is your chance to insert a few levels of a class that would normally hurt to include pre-epic. You gain all of the advantages while minimizing the disadvantages. The system worked like a clock. <br/>\n<br/>\nNwN 2 system, however, is different. First, you only have 10 epic levels instead of 20, as if \"realism\" was a major concern to a high fantasy action RPG. Secondly, and most important, those 10 epic levels have normal AB progression as the 20 levels before them! That means <em><strong>your AB and number of attacks continue to increase</strong></em> normally for all 30 levels. There was no ground to make your \"special treatment\" anymore, as all levels were treated as equal for the build. Now, everything that you do has to make a significant impact on the build, otherwise is generally inferior to simply increasing your number of attacks/round, as that is multiplication and takes precedence over everything else. Combine this with what I told you earlier here. \"<em>There were many new feats &amp; the ability to take four classes </em>\". Practically, everyone had to take those new feats &amp; everyone took all four classes. That left almost zero room for experimentation on the builds. Your melee class juggernaut was a Barbarian/Frenzy Berserker/Fighter/Weapon-Master, done. It goes similar for the mages &amp; sneaks. You didn't have to select things, <strong><em>you just tried to cram all that you could into the build</em></strong>. And then, there were the dubious changes. Like, for example, they \"fixed\" improved knockdown because it was too powerful...only to be replaced by improved disarm this time around. <br/>\n<br/>\n<br/>\nAnyway, I hope this little tale of Neverwinter Nights history proves to be of some entertaining value to whoever reads this. <br/>\nPeace.</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:55 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah, there is the error!<br/>\n<br/>\nThanks.<br/>\n<br/>\nI forgot that stat bonus starts above 10.<br/>\n<br/>\n<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:11 AM - Dec 22, 2021",
+      "content": "<div>Ughh, dusting off NWN2 stuff...makes my head hurt and fires up my emotions!<br/>\n<br/>\nI really do not want to go there again!<br/>\n<br/>\nJust set it on fire and let it burn, down to ashes, then scatter them into the wind...</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:37 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yup, it's practically DC 45/46 except Implosion, which is DC 48 plus is an Evocation spell thus much harder to get immunities for. <br/>\n<br/>\nAnother favorite killer spell - but single target - is DC 42 Flesh to Stone, a favorite of Althea IIRC.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:40 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, I've been looking at Fort saves of opponents lately...not good, not good at all!<br/>\n<br/>\nBasically it's fishing for 1s, which is no fun at all.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:45 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In most PW that would be true but not in WoG (that I remember, at least)...<br/>\n<br/>\nExcept if they have changed things over time (very possible) or you're punching way above your level (typical for power-leveling). <br/>\n<br/>\nKeep in mind that TS --&gt; 3x Wail doesn't work very well...better to wait a bit with consecutive castings.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:54 PM - Dec 16, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Actually, let's do some quick - realistic 3rd edition math.<br/>\n<br/>\nLevel forty enemy, warrior-type, with some basic equipment. <br/>\nFort save of: 12 (base) +10 (epic levels) +6 (constitution 22) +5 (cloak of fortitude +5) +2 (great fortitude) = 35<br/>\nHe saves just 50% of the time...so this should be fairly deadly unless you start boosting their saving throws in arbitrary ways.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "9:45 AM - Dec 22, 2021",
+      "content": "<div>I loved that one too, and played it s lot. I made a lot of builds and they never really stopped coming. It had a lot of classic abilities to go for, like Epic DM, Expose Weakness for dexers etc. New classes made new fun, and I personally enjoyed it really much.<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:05 AM - Dec 17, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nah, this is WoG, where typical late Epic opponents have 43+ Fort - and those are just the m0bs.<br/>\n<br/>\nI was just looking at some instant death AoEs, that's all.<br/>\n<br/>\nThanks for the help, all!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:50 AM - Dec 22, 2021",
+      "content": "<div>I say we burn Grimner at the stake as well.<br/>\n<br/>\nAshes always welcomes more ashes.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "9:58 AM - Dec 22, 2021",
+      "content": "<div>I have had NWN2 for years and years, but I never got around to playing it.\u00a0 Are you saying that it would be a waste of my time?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:51 AM - Dec 22, 2021",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote:</cite>I say we burn Grimner at the stake as well.<br/>\n<br/>\nAshes always welcomes more ashes.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk</div></blockquote>Many have tried, but my hammer still sings!<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "12:00 PM - Dec 22, 2021",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>I have had NWN2 for years and years, but I never got around to playing it.\u00a0 Are you saying that it would be a waste of my time?</div></blockquote>No.<br/>\n<br/>\nNo, I am most certainly not saying that!<br/>\n<br/>\nI am a firm believer in letting others make their own decisions and experiences. <br/>\n<br/>\nThat said, I will NEVER return to NWN2 - I might consider retrying it as NWN2:EE (should that ever happen) because BeamDog has proven to me without a shadow of a doubt that they are capable.<br/>\n<br/>\nObsidian has repeatedly dropped the ball imo with NWN2, PoE, PoE2, and recently Outer Worlds.<br/>\n<br/>\nI bought and supported these nuggets of tripe in the hope that something good might become of it, but it has gotten progressively worse, to the point that I will never, ever buy, support, or mention that company or it's products ever again positively. <br/>\n<br/>\nI know it's my own fault for blindly believing that it would get better, someday.<br/>\n<br/>\nThankfully, Larion exists, to wake me out of my delusions.<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:23 AM - Dec 17, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ouch! It seems things did change over there...pity. <br/>\n<br/>\nOne PW after another, they follow the same trends &amp; you can mostly blame this to Dev Crit being so overpowered that dominated everything else - for so long.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:25 AM - Dec 23, 2021",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote: <div class=\"responsive-hide\">Dec 22, 2021</div></cite>I have had NWN2 for years and years, but I never got around to playing it.\u00a0 Are you saying that it would be a waste of my time?</div></blockquote>\nNah, it's still a good game, particularly the expansion &amp; some of the modules. I was talking about the building aspect of it.</div>"
     }
   ]
 }

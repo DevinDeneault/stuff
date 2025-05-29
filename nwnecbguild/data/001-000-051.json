@@ -8,19 +8,20 @@
   "link": "https://www.tapatalk.com/groups/nwnecbguild/greyhawk-t515360.html",
   "author": "foojin",
   "avatar": "no_avatar.png",
-  "replies": 1,
+  "replies": "1",
+  "views": "640",
   "posts": [
     {
       "author": "foojin",
       "avatar": "no_avatar.png",
       "timestamp": "6:52 PM - Jul 14, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Is it possible to set it up on your own and independant of any (bioware master) servers etc?<br/>\n<br/>\nJust wanted to collect it if its possible so i can setup my own someday (since i'm leaving for travelling very soon).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>Is it possible to set it up on your own and independant of any (bioware master) servers etc?<br/>\n<br/>\nJust wanted to collect it if its possible so i can setup my own someday (since i'm leaving for travelling very soon).</div>"
     },
     {
       "author": "Mithril Jack",
       "avatar": "no_avatar.png",
       "timestamp": "12:58 PM - Jul 15, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have never tried this myself so caveat emptor, but here is the download page for WoG. The DMs update the server quite often , but as  you can see this one is only 11 days old.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Modules.Detail&amp;id=3867\" rel=\"noreferrer\" target=\"_blank\">http://nwvault.ign.com/View.php?view=Mo ... il&amp;id=3867</a><br/>\n<br/>\nNote that you will need to download and install all 3 files listed, including the including the custom hak, as installing WoG turns your 'puter into a server with DM powers. Also make sure that you've patched your NWN game to version 1.69.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "content": "<div>I have never tried this myself so caveat emptor, but here is the download page for WoG. The DMs update the server quite often , but as  you can see this one is only 11 days old.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Modules.Detail&amp;id=3867\" rel=\"noreferrer\" target=\"_blank\">http://nwvault.ign.com/View.php?view=Mo ... il&amp;id=3867</a><br/>\n<br/>\nNote that you will need to download and install all 3 files listed, including the including the custom hak, as installing WoG turns your 'puter into a server with DM powers. Also make sure that you've patched your NWN game to version 1.69.</div>"
     }
   ]
 }

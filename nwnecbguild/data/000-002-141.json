@@ -4,71 +4,91 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "141",
-  "name": "Spot vs Listen",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/spot-vs-listen-t2355401.html",
-  "author": "Zanithar",
-  "avatar": "10759190_1575525433.jpg",
-  "replies": 9,
+  "name": "Patch 1.80 released",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/patch-1-80-released-t2355404.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "12",
+  "views": "684",
   "posts": [
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "8:54 AM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Recently I have shifted from a \u201cSpot\u201d builder to a \u201cListen\u201d builder as I explore the listening around corner mechanic.<br/>\n<br/>\nI am not sure which I prefer and I suspect much of it is subjective rather than build specific but I am curious which people prefer and why?<br/>\n<br/>\nI am less interested in \u201cI go spot because there is more plus spot stuff on my server\u201d and more interested in understanding the mechanical choices and/or the general feelings of effectiveness.<br/>\n<br/>\nMy primary focus is PVE but happy to learn more about PvP stuff as well.<br/>\n<br/>\nI started this thread because <em class=\"mention\">@Orion2019</em> noted he preferred Spot and I want to hear his thoughts on why that was the case and I thought to myself there are some really solid builders/players here that probably have things I have never read/thought about.<br/>\n<br/>\nI prefer spot on melee and/or caster builds and listen on anything that sneaks, particularly corner sneakers (no HiPS) and I have been exploring those builds more of late.<br/>\n<br/>\nWhich do you prefer and why?  Also, does it change depending on what you play?<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:30 PM - Mar 17, 2020",
+      "content": "<div>And this one is exciting for us!<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.beamdog.com/news/nwnee-patch-windows-macos-linux/\" rel=\"noreferrer\" target=\"_blank\">https://www.beamdog.com/news/nwnee-patc ... cos-linux/</a><br/>\n<blockquote><div>Weapons-related feats (Focus, Epic Focus, Spec, Epic Spec, Improved Crit, Overwhelming Crit, Devastating Crit, Weapon of Choice) can now be customised on a per-baseitem case.</div></blockquote>\n\nYesssss, my precious!<br/>\n<br/>\nSpartans!\u00a0 One handed spears!\u00a0 Yes, you heard right!<br/>\n<br/>\nAnd this one :<br/>\n<blockquote><div><strong>Custom spellcaster classes</strong><br/>\nWe've added (somewhat partial) support for custom spellcaster classes by \"unhardcoding\" a lot of the builtin constants and references.<br/>\nPlease refer to classes.2da for the new columns: MemorizesSpells SpellbookRestricted PickDomains PickSchool LearnScroll Arcane ASF SpellcastingAbil SpellTableColumn CLMultiplier MinCastingLevel MinAssociateLevel CanCastSpontaneously<br/>\nNote that not all combinations are valid. We recommend cloning one of the existing caster classes and then start customising from there. When adding spellcasting to new classes, remember to also update existing columns.<br/>\nThere is also a new ruleset entry: COMPANION_LEVELS_STACK, defaulting to 0.<br/>\n</div></blockquote>\n\nThis one *IS* a game changer for us here.\u00a0 Once the dust settles, and we know precisely what does and what does not work, a LOT of things will need reworking and consideration!<br/>\n<br/>\nIt's a great time to be a NWN Character Builder!</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "12:21 AM - Mar 18, 2020",
+      "content": "<div>Does this mean we can make Palemaster increase caster levels?<br/>\n<br/>\nSent fra min SM-G981B via Tapatalk<br/>\n<br/>\n</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:09 AM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I prefer Listen - because one, as you have already stated, can \"see\" around corners.<br/>\n<br/>\nI think there is something about the mechanics of Spot that gives it a better \"chance\" (or more checks per round, etc) than Listen does.<br/>\n<br/>\nI believe the whole \"Spot/Listen vs MS/Hide\" thing was discussed way back when on the Bioboards, and Brian Chung gave the Community some huge insights to how the mechanics worked.\u00a0 It's probably kicking around, somewhere.\u00a0 I'm pretty sure that someone saved it (like light reducing chances, etc).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:27 AM - Mar 18, 2020",
+      "content": "<div>Well, atm we just do not know.<br/>\n<br/>\nIt <em>may </em>now be possible.\u00a0 As I said, we will have to wait until the dust settles and what can (and can't be done) with this in regards to spellcasters.<br/>\n<br/>\nIt looks like even BeamDog is not sure what actually can now be done.<br/>\n<br/>\nI am hoping beyond hope that on level up, one will be able to pick new Bard/Sorc spells as another Class (like RDD and/or PM) - that would just be sooo awesome!<br/>\n<br/>\nThe stuff with the weapons is a certainty - that alone is one of the Holy Grails that the NWN Community has wished for for a long time now.<br/>\n<br/>\nSpiked Chain Whipmaster!\u00a0 Oh hells yes!</div>"
     },
     {
-      "author": "Zanithar",
-      "avatar": "10759190_1575525433.jpg",
-      "timestamp": "9:24 AM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote:</cite>\nI believe the whole \"Spot/Listen vs MS/Hide\" thing was discussed way back when on the Bioboards, and Brian Chung gave the Community some huge insights to how the mechanics worked.\u00a0 It's probably kicking around, somewhere.\u00a0 I'm pretty sure that someone saved it (like light reducing chances, etc).</div></blockquote>\n\nIt is summarised here:<br/>\n<br/>\n<br/>\n<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Detect\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Detect</a><br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "9:42 AM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah, it is too bad we lost that board with all that info on it.<br/>\n<br/>\nI know many tried to save the best parts, and one can gets some through the Way Back Machine, but still...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:19 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for bringing up this topic Zanithar<br/>\nBoth our venerable Grizzled_Dwarflord and WebShaman were in fact very active participants in the Detection Mechanic Thread that eventually led to Bioware Community Manager Stanley Woo arranging some of the mechanics to be released in exchange for some donuts and coffee was the story that was sold to us<br/>\n<br/>\n<a class=\"postlink\" href=\"http://web.archive.org/web/20090211050528/http://nwn.bioware.com/forums/viewtopic.html?topic=549835&amp;forum=42&amp;sp=15\" rel=\"noreferrer\" target=\"_blank\">Web Archive Article on Spot vs Listen from Bioware Boards by Brenon Holmes</a><br/>\n<br/>\nThe_Krit who is the current manager of the NWN Wiki, also had a detailed commentary on Spot vs Listen<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/true-seeing-t3591-s20.html\" rel=\"noreferrer\" target=\"_blank\">Discussion about Spot vs Listen by The_Krit, WoG Forum</a><br/>\n<br/>\nAt present yes I prefer spot over listen but I actually like having both if possible.<br/>\n<br/>\nI used to favor listen very heavily due to the ability to detect through walls/doors/around corners and detection of invisible creatures.<br/>\nHowever when I started playing on WoG pretty much every creature tries to use stealth on you.<br/>\nIt made me consider whether that was the correct decision.<br/>\nThe obvious thing was to ask the WoG player base on the forum, and DM Wise referred me to the above link where The_Krit discussed detection mechanics.<br/>\nI was fascinated to learn The_Krit favored the spot mechanic but also brought up the concept of investing in both skills being even more effective.<br/>\n<br/>\nI learned for myself Spot has a few advantages over listen. There is probably more but these are the main points I can think of right now:<br/>\n- Spotted creatures cannot sneak attack or death attack from stealth whereas listened creatures can sneak attack / death attack from stealth<br/>\n- Spot does not get worse over distance, whereas listen gets worse by 1 DC every 3 meters from the target<br/>\n- Spotted creatures remain detected until they go out of eyesight, whereas listened creatures can become 'unlistened' and return back to stealth<br/>\n<br/>\nOr in plain language:<br/>\n- A spotter gets less sneak attack damage from stealthy sneakers.<br/>\n- A spotter detects enemies from further away if in eyesight.<br/>\n- Once a spotter detects an enemy is detected they remain detected whilst in eyesight whilst a listener may lose detection of the enemy.<br/>\n<br/>\n- Listen gets detection around walls / corners whereas spot does not<br/>\n- Invisible creatures can be listened but cannot be spotted<br/>\n<br/>\nAnyway I don't think either approach is necessarily completely wrong but there are particular advantages to spot over listen that I like better which I have listed above but if possible I like perhaps a spot 40 listen 20 split<br/>\n<br/>\nIt would be good to get a PvP perspective on this too.\u00a0<br/>\nPvM mechanics are different and very much in favor of the player.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:48 AM - Mar 18, 2020",
+      "content": "<div>This is so interesting and opens so many possibilities.\u00a0 I've been wanting to do do a John Henry weaponmaster for ages...<br/>\n<br/>\nI also worry about the balance issues.</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:26 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The reason I like Listen over Spot :<br/>\n<br/>\nIn any environment, where vanilla TS is available to the PC, Listen trumps Spot every time (as long as one has TS).<br/>\n<br/>\nThis is because one will automatically Spot hiding foes because of vanilla TS.\u00a0 Thus, being able to also \"see\" creatures behind doors, walls, etc, where TS will not reveal them, is a huge bonus.\u00a0 It's like having Superman's X-Ray vision.<br/>\n<br/>\nIf one has a build that cannot, for whatever reason, equip vanilla TS, then Orion and The Krit is right - Spot over Listen.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:29 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thats a fair comment Web, I always forget about vanilla tree seeing<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:04 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I prefer spot, but web is right; vanilla TS favors listen. <br/>\nSometimes when my character detects (listens) a creature behind a wall, it disappears when it reaches line of sight.<br/>\nWhen you detect a creature with spot it remains visible as long as it is within los.<br/>\nSpot is also a factor against pick pockets.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:23 PM - Mar 18, 2020",
+      "content": "<div>So far, the Pathing is great!\u00a0 They fixed what was for me a very annoying Pathing thing.<br/>\n<br/>\nGraphics are crisper and pop.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:27 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Sometimes it's about simple practicalities such as which classes you're using. Monk has listen but not spot, CoT and Barbarian have spot but not listen, for example, and it's better to have one \"full\" skill than a half-charged cross-classed one (though that's still better than none at all). Equally, ranged builds and stealthy ones will find spot more efficacious (you can't shoot around corners, after all), whereas low dex melee-types might well gain more from listen. As with much in the game, it depends largely on the build and your chosen play-style. It also depends on whether the environment you're playing in has items that help with, for example, true seeing. I know that where I play more \"stuff\" is readily available to aid in spotting enemies than hearing them.<br/>\n<br/>\nSo, mostly it comes down to personal preference and environment. Again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:45 PM - Mar 19, 2020",
+      "content": "<div>Hi Web, I'm late to the party on this one, sorry. Excellent news in terms of one-handed spears, but would I be right in assuming the patch is only applicable to EE? In which case, boo hiss.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:21 PM - Mar 19, 2020",
+      "content": "<div>Yes, it is only NWN EE.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:22 PM - Mar 19, 2020",
+      "content": "<div>Time to upgrade, Stagmeister.<br/>\n<br/>\nCome on in for the big win!</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "4:23 PM - Mar 19, 2020",
+      "content": "<div>By the way - the optimizations made in this patch really makes huge performance differences for low performance devices.<br/>\n<br/>\nThough I do see smoother gameplay, and less slow-downs as before on my high performance machine.\u00a0 Very nice.</div>"
     },
     {
       "author": "Yunim",
       "avatar": "10759176_1572007808.png",
-      "timestamp": "3:20 PM - Mar 16, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">PvM has been covered pretty well so I'll chime in with my experiences in PvP. I'll assume that Listen and Spot are both available, obviously some builds only have access to one as a class skill and some class spreads don't have either detect skill as class skills.<br/>\nThe key spells for this discussion are Amplify, Camouflage/Mass Camouflage, Silence, and True Seeing. In vanilla NWN Amplify gives +20 Listen, Camouflage and Mass Camouflage stack to give +20 Hide, Silence bypasses Listen checks, and vanilla True Seeing can detect everything in your LoS.<br/>\n<br/>\nNormally if vanilla TS is available on PvP servers it is only available for casters, there are almost never vanilla TS items or scrolls available since it would be a huge nerf for sneakers. If vanilla TS is available then I rarely bother with detect on my casters, although as others have already pointed out Listen is mechanically the superior choice. The rest of this post assumes that vanilla TS is not available, either due to class restrictions or nerfs to TS.<br/>\n<br/>\nIf I am making a dedicated spotter build (ie aiming for close to 127 Listen/Spot) then I always choose Spot. The fact that you can lose track of a\u00a0heard creature is a huge problem, since in a fight between a dedicated sneaker with HiPS and a\u00a0dedicated spotter the sneaker has an advantage if played properly. Silence is another factor, See Invisibility is usually available in some form on balanced PvP servers but there is no equivalent effect that can penetrate Silence in vanilla NWN.<br/>\n<br/>\nFor high detect builds I usually favour Spot unless there is a particular reason to choose Listen (eg playing a bard that can cast Amplify). Camouflage/Mass Camouflage is still a problem with high Hide sneakers, but with a high Spot it should be able to spot bad/mediocre sneakers that use Camouflage/Mass Camouflage.<br/>\n<br/>\nFor low/mediocre detect builds I tend to favour Listen over Spot as long as there are similar Listen/Spot bonuses in that environment. Those bonuses include both items and spells such as Amplify (+20 Listen) or nerfed TS (ranging from +20 to +50 Spot in my experience). In vanilla NWN Camouflage and Mass Camouflage stack to give +20 Hide, there is no equivalent boost to MS. Assuming that there are similar Listen/Spot bonuses, this gives Listen an advantage over Spot when fighting druids and (particularly) rangers, which are usually some of the most dangerous sneakers.<br/>\nSilence is still a factor here, although if Silence is rare on sneakers then I tend to stick with Listen and accept that it won't be useful against certain bards or clerics. If Silence is common on the server I will usually build for both Listen and Spot, favouring Spot if I can only choose one. It's better to be at a disadvantage when detecting than to not have any chance at all.<br/>\nIf there are large bonuses to only one of the detect skills (usually nerfed TS giving a large Spot bonus) then I tend to choose that detect skill over the other for low/mediocre detect builds. This usually means focusing on Spot, so Silence isn't a problem but Camouflage/Mass Camouflage can still cause issues.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:56 AM - Mar 23, 2020",
+      "content": "<div>I updated to 1.80 last night and noticed a bug during character creation.<br/>\n<br/>\nWhen making a non-caster class (Barb, Figh, Monk, Rog) you can't lower STR below 11 (including racial modifiers) once you have increased it. You can leave it at the base 6/8/10 with no issues, but once you have increased it it's not possible to decrease it to below 11. I assume that this is due to non-caster classes having their casting ability set to STR in the updated 2da files, but I haven't looked at them so I might be wrong. For anybody else dealing with this bug, reselecting your class resets your ability increases.<br/>\n<br/>\nHas anybody else experienced this bug?</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "5:26 PM - Mar 23, 2020",
+      "content": "<div>Hi Yunim<br/>\nI just loaded up NWN EE 1.80 to test it out and I can confirm it was a problem when I tried to make a Human Rogue<br/>\nThanks for posting this up<br/>\nI'll send a message to Julius Borisov on Reddit</div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "8:28 AM - Mar 26, 2020",
+      "content": "<div>It\u2019s been reported to the Service Desk as well. <br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk</div>"
+    },
+    {
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "11:24 AM - Apr 08, 2020",
+      "content": "<div>Hey ECBers!<br/>\n<br/>\nI just updated to 1.80, and my Aielund save is not loading now :( do you know if there's a fix? Thanks!<br/>\n<br/>\n\u041e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u0441 \u043c\u043e\u0435\u0433\u043e SM-G970F \u0447\u0435\u0440\u0435\u0437 Tapatalk<br/>\n<br/>\n</div>"
     }
   ]
 }

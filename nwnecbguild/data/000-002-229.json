@@ -4,41 +4,67 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "229",
-  "name": "RDD bonuses - a couple of quick questions...",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/rdd-bonuses-a-couple-of-quick-questions-t2354439.html",
+  "name": "Weapon of Multiple Choice",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weapon-of-multiple-choice-t2354441.html",
   "author": "Stagmeister",
   "avatar": "10404082_1510287071.jpg",
-  "replies": 4,
+  "replies": "7",
+  "views": "1.2K",
   "posts": [
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:31 PM - May 28, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I'm trying to cobble together a build that includes 10 levels of RDD and have reached a head-scratching moment during skill points allocation: when I receive +2 to INT at level 9, does my extra skill point apply retrospectively (like taking the Toughness feat), or just from that level onwards? Also, does the same apply to the +2 CON at level 7? I tried the wiki, but the answer seemed well hidden, if it was there at all.<br/>\n<br/>\n Thanks all<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:55 PM - May 29, 2015",
+      "content": "<div>Another dumb question from the Stagmeister...I'm now looking at a predominantly WM build (25 or 28 levels) and (given that you won't let me take EW or EF as bonus feats, you rotters), I find myself with a 'spare' bonus feat - so, taking WoC for a second weapon? Does that allow all the same bonuses (Ki Crit/Inc Multiplier/SWF) on the new weapon to apply immediately, or do they need to be 'earned'?<br/>\n<br/>\n Thanks in advance</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:18 PM - May 28, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The skill points from increased INT are not retroactive, but the health gain and Fortitude save from increased CON is.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:32 AM - May 30, 2015",
+      "content": "<div>You have to take Weapon Focus in that weapon before making it a weapon of choice, but then you get all the benefits on that weapon right away. If you do that, you will need to think about Improved Critical, Epic Weapon Focus, Weapon Spec, and Epic Weapon Spec, all the feats you took for your first weapon of choice. Note that I said you need to think about those feats, not that you <strong>must</strong> take them.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:59 PM - May 28, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Empyre, that clears things up (and probably means I'll boost INT by an extra 2 points in character creation, rather than CON - though that's not definite yet).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:24 AM - May 30, 2015",
+      "content": "<div>Thanks Empyre, I'm going for a 'less is more' approach (or a 'fewer options, less chance of buggering it up' approach - it's all semantics), so chucking more feats at the build would render the necessity of taking a second WoC feat redundant! Am quite cross about the whole thing, actually - I had wanted to take Barbarian/WM and ended up with Fighter/WM simply because a Weapon <em>Master</em> can't specialise in that weapon - hence the extra feats, hence the initial question...</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "1:10 AM - May 29, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No such thing as too many skill points <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:15 PM - May 30, 2015",
+      "content": "<div>Hey stag!<br/>\n<br/>\n Here's some food for thought. This is pretty much the consensus optimized WM build:<br/>\n<br/>\n Fighter(12), Weapon Master(25), Rogue(3), Human<br/>\n<br/>\n STR: 18 (34)<br/>\n DEX: 13<br/>\n CON: 12<br/>\n WIS: 8<br/>\n INT: 13<br/>\n CHA: 8<br/>\n<br/>\n Human: (Quick to Master)<br/>\n 01: Fighter(1): Power Attack, Weapon Proficiency Exotic, Cleave<br/>\n 02: Fighter(2): Weapon Focus: Katana<br/>\n 03: Fighter(3): Expertise<br/>\n 04: Fighter(4): STR+1, Weapon Specialization: Katana, (STR=19)<br/>\n 05: Fighter(5)<br/>\n 06: Fighter(6): Dodge, Mobility<br/>\n 07: Fighter(7)<br/>\n 08: Fighter(8): STR+1, Improved Critical: Katana, (STR=20)<br/>\n 09: Fighter(9): Spring Attack<br/>\n 10: Fighter(10): Whirlwind Attack<br/>\n 11: Weapon Master(1): Weapon of Choice: Katana<br/>\n 12: Weapon Master(2): STR+1, Knockdown, (STR=21)<br/>\n 13: Weapon Master(3)<br/>\n 14: Weapon Master(4)<br/>\n 15: Weapon Master(5): Blind Fight<br/>\n 16: Weapon Master(6): STR+1, (STR=22)<br/>\n 17: Weapon Master(7)<br/>\n 18: Weapon Master(8): Great Cleave<br/>\n 19: Weapon Master(9)<br/>\n 20: Weapon Master(10): STR+1, (STR=23)<br/>\n 21: Weapon Master(11): Great Strength I, (STR=24)<br/>\n 22: Weapon Master(12)<br/>\n 23: Rogue(1)<br/>\n 24: Weapon Master(13): STR+1, Great Strength II, Overwhelming Critical: Katana, (STR=26)<br/>\n 25: Weapon Master(14)<br/>\n 26: Weapon Master(15)<br/>\n 27: Fighter(11): Great Strength III, (STR=27)<br/>\n 28: Weapon Master(16): STR+1, Devastating Critical: Katana, (STR=28)<br/>\n 29: Rogue(2): {Evasion}<br/>\n 30: Weapon Master(17): Improved Knockdown<br/>\n 31: Weapon Master(18)<br/>\n 32: Weapon Master(19): STR+1, Epic Weapon Focus: Katana, (STR=29)<br/>\n 33: Weapon Master(20): Great Strength IV, (STR=30)<br/>\n 34: Fighter(12): Epic Weapon Specialization: Katana<br/>\n 35: Weapon Master(21)<br/>\n 36: Weapon Master(22): STR+1, Great Strength V, Epic Prowess, (STR=32)<br/>\n 37: Weapon Master(23)<br/>\n 38: Rogue(3): {Uncanny Dodge I}<br/>\n 39: Weapon Master(24): Great Strength VI, (STR=33)<br/>\n 40: Weapon Master(25): STR+1, Armor Skin, (STR=34)<br/>\n<br/>\n Hitpoints: 428<br/>\n Skillpoints: 190<br/>\n Saving Throws (Fortitude/Will/Reflex): 21/15/21<br/>\n Saving Throw bonuses: <br/>\n BAB: 30<br/>\n AB (max, naked): 52 (melee), 32 (ranged)<br/>\n AC (naked/mundane armor/shield only): 21/32<br/>\n Spell Casting: <br/>\n Alignment Changes: 0<br/>\n<br/>\n Discipline 43(55), Heal 3(2), Intimidate 4(3), Move Silently 6(7), Open Lock 16(17), Spot 43(42), Tumble 40(41), UMD 31(30)<br/>\n<br/>\n 01: Discipline(4), Intimidate(2), Save(8), <br/>\n 02: Discipline(1), Save(11), <br/>\n 03: Discipline(1), Intimidate(1), Save(12), <br/>\n 04: Discipline(1), Save(15), <br/>\n 05: Discipline(1), Intimidate(1), Save(16), <br/>\n 06: Discipline(1), Save(19), <br/>\n 07: Discipline(1), Save(22), <br/>\n 08: Discipline(1), Save(25), <br/>\n 09: Discipline(1), Save(28), <br/>\n 10: Discipline(1), Save(31), <br/>\n 11: Discipline(1), Spot(14), Save(20), <br/>\n 12: Discipline(1), Spot(1), Save(22), <br/>\n 13: Discipline(1), Spot(1), Save(24), <br/>\n 14: Discipline(1), Spot(1), Save(26), <br/>\n 15: Discipline(1), Spot(1), Save(28), <br/>\n 16: Discipline(1), Spot(1), Save(30), <br/>\n 17: Discipline(1), Spot(1), Save(32), <br/>\n 18: Discipline(1), Spot(1), Save(34), <br/>\n 19: Discipline(1), Spot(1), Save(36), <br/>\n 20: Discipline(1), Spot(1), Save(38), <br/>\n 21: Discipline(1), Spot(1), Save(40), <br/>\n 22: Discipline(1), Save(43), <br/>\n 23: Spot(1), Tumble(26), UMD(26), <br/>\n 24: Discipline(2), Spot(2), <br/>\n 25: Discipline(1), Spot(1), Save(2), <br/>\n 26: Discipline(1), Spot(1), Save(4), <br/>\n 27: Discipline(1), Save(7), <br/>\n 28: Discipline(1), Spot(2), Save(8), <br/>\n 29: Spot(1), Tumble(6), UMD(5), Save(6), <br/>\n 30: Discipline(2), Spot(1), Save(7), <br/>\n 31: Discipline(1), Spot(1), Save(9), <br/>\n 32: Discipline(1), Spot(1), Save(11), <br/>\n 33: Discipline(1), Spot(1), Save(13), <br/>\n 34: Discipline(1), Save(16), <br/>\n 35: Discipline(1), Spot(2), Save(17), <br/>\n 36: Discipline(1), Spot(1), Save(19), <br/>\n 37: Discipline(1), Spot(1), Save(21), <br/>\n 38: Move Silently(6), Open Lock(16), Spot(1), Tumble(8), <br/>\n 39: Discipline(2), Heal(1), Spot(1), <br/>\n 40: Discipline(1), Heal(2), Spot(1),</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:17 PM - May 30, 2015",
+      "content": "<div>You can refrain from taking Exotic weapons (this was just my personal flare choice, since I wanted to specialize in COOL weapons) and take Epic Fortitude with the feat used to take IKD in epics. Skills aren't optimized either, they were for an old PW I used to play on which had some stupid features.<br/>\n<br/>\n Take it EZ!</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:44 PM - May 29, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">True enough, wise one! However, the point is now moot, as I was looking at constructing a Barbarian/RDD/Bard build and found that there were about 83,000,000 of them already out there, so have knocked it into the proverbial cocked hat. Strangely enough, my mind moved from Barb/RDD/Bard to Barb/Fghtr/HS to Barb/HS/WM and has now settled on WM/Fghtr/Rogue. Much of that is down to our earlier discussion elsewhere about WM and DD, together with wanting to try a melee build without relying on heavy armour (hence looking at Barbarian first), counter-intuitive though it seems. A sort of Conan type. I admit that taking Fighter instead of Barb seems a coward's way out, but I only did so because of the stupidity of a Weapon <em>Master</em> not being able to specialise in that weapon!<br/>\n<br/>\n Anyway, rambling on now. Will stick something on the Unfinished Builds section for you to shoot at soon!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:09 PM - May 30, 2015",
+      "content": "<div>That's great, Max - thank you. Doubly so because the build you put forward chimes pretty well with what I was looking at (for a pleasant change!), in that I'm mapping a WM25/F10/R5 (the 5 levels of Rogue are predominantly because I find splitting all the Tumble and UMD skills only twice seems both inelegant and - for want of a better word - unrealistic). I'd not intially planned on OW and Dev Crit, but the volume of bonus feats in epic seemed to dictate that I should. It does mean that I sacificed Knockdown and Imp Knockdown got sidelined (as much because of the number of Rogue levels as anything else). My first choice weapon was Greatsword, with a second WoC in Heavy Flail (I like a good bludgeon) with WF, WS and Imp Crit in that weapon also. I was aware that my saves wouldn't be of the highest order, but I'll have a proper look at your build and see where I can improve my putative one.<br/>\n<br/>\n I'm not sure whether I'd be allowed to post mine now, however! Regardless, the joy is in the playing!<br/>\n<br/>\n<em><strong>EDIT</strong></em> - Another question, I'm afraid: can I take both OWCrit and DevCrit at the same time - ie, at level 30, WM L16?<br/>\n<br/>\n<em><strong>EDIT 2</strong></em> - Don't bother, I've changed my mind - binning second WoC, so can rearrange things more neatly.<br/>\n<br/>\n ~Magic is impressive, but now Minsc leads - swords for everyone!~</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:57 PM - May 30, 2015",
+      "content": "<div>If you're doing 2 weapons, choose a 1-handed weapon (with a shield) and a 2 handed weapon, like scimitar and heavy flail, for more flexibility. With the heavy flail, don't bother with Improved Crit, Ov Crit and Dev Crit,  but do take EWF, WS /EWS (and of course the WF that you must take as a prerequisite). The heavy flail would be taking advantage of the extra AB from WM, crushing those with crit immunity. As always, also carry a ranged weapon even if you're terrible with it, for those rare occasions when you need one.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:18 PM - May 30, 2015",
+      "content": "<div>Cheers Empyre, I'll bear all that in mind for a future build. I've changed tack slightly for this one - to include the knockdowns, so am only going with one weapon. I'm about to post it on the Unfinalized Builds section for everyone to have a pop at - perhaps I'll see you there!</div>",
+      "author-color": "#AA0000"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

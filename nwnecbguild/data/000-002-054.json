@@ -4,77 +4,82 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "054",
-  "name": "Opinions on an old build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/opinions-on-an-old-build-t2355988.html",
-  "author": "eltalstro",
-  "avatar": "10758878_1582351977.jpg",
-  "replies": 10,
+  "name": "A question regarding some new build possibilities",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-question-regarding-some-new-build-possibilities-t2355889.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "10",
+  "views": "757",
   "posts": [
     {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "2:43 AM - Sep 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings esteemed, ECBG.<br/>\n<br/>\nLooking for Bard, AA, SD builds, I came across <strong><a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build144016.html\" rel=\"noreferrer\" target=\"_blank\">this build</a> </strong>on the old WoG ECBs. Almost 20 years on from creation, I'm seeking opinions from the experts on this build and the combination in general.\u00a0 I know there are a lot of opinions around here :D<br/>\n<br/>\nRegards,<br/>\nEltalstro<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:14 AM - Sep 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi eltalstro,<br/>\nThe build is far from optimised, e.g. Improved initiative should be swapped with something like Called Shot or Blind Fight, and it is not hard to add EWF and even EP if you are willing to start out with a higher dexterity. You will most probably not want the discipline skill because it is a dex'er, a ranged attacker and because you invest a lot to simply avoid being hit. One may also debate if not listen is better than spot or if you want them both.<br/>\nWhat I find most interesting is the discussion that follows the build. Is SC5 worth it/ is it the best way to achieve 50% concealment? Can you build with Rogue instead of SD? Will 50% concealment also protect against spells etc.<br/>\n<br/>\nThe combination of 50% concealment, ED and a high AC no doubt is very effective against physical attacks, an important reason why dexers become better in high magic environments. Another reason for that is high weapon enhancements that compensate for a lower strength\u00a0 based damage bonus.<br/>\nIn this particular build, you sacrifice 6 AA levels (3AB and 3 damage) compared to a build with SD 10 and ED alone.<br/>\nThe claim that concealment protects against magical attacks is not documented anywhere (as far as I can see), but it is not unreasonable to assume that it protects against magic that depends on a touch attack.<br/>\n<br/>\nNow can it be done with Rogue rather than SD? Indeed it can!<br/>\nAnd if you want to avoid the xp penalty that comes with the Bard/Rogue combo for elves, you simply build with Wizard. Here is an example:<br/>\n<details><summary>Spoiler</summary>\n\nSTR: 12\nCON: 10\nINT: 14\n\n02: Rogue(2): {Evasion}\n04: Rogue(4): DEX+1, (DEX=21)\n06: Rogue(6): Weapon Focus: Longbow\n08: Rogue(8): DEX+1, (DEX=22)\n10: Arcane Archer(1)\n12: Arcane Archer(3): DEX+1, Called Shot, (DEX=23)\n14: Arcane Archer(5)\n16: Arcane Archer(7): DEX+1, (DEX=24)\n18: Arcane Archer(9): Weapon Finesse\n20: Wizard(2): DEX+1, (DEX=25)\n22: Rogue(9)\n24: Rogue(11): DEX+1, Armor Skin, (DEX=26)\n26: Arcane Archer(12)\n28: Rogue(14): DEX+1, (DEX=27)\n30: Arcane Archer(14): Great Dexterity I, Great Dexterity II, (DEX=29)\n32: Rogue(15): DEX+1, (DEX=30)\n34: Arcane Archer(16)\n36: Arcane Archer(17): DEX+1, Self Concealment III, (DEX=31)\n38: Rogue(19): Self Concealment IV\n40: Arcane Archer(19): DEX+1, (DEX=32)\nHitpoints: 274\nSaving Throw bonuses: Spells: +5, Mind Effects: +2, Traps: +4\nAB (max, naked): 39 (melee), 52 (ranged)\nSpell Casting: Wizard(1)\n\nDisable Trap 34(38), Hide 43(54), Move Silently 42(53), Open Lock 11(22), Search 38(42), Set Trap 32(45), Spellcraft 23(25), Spot 43(44), Tumble 40(51), UMD 36(35)\n01: Disable Trap(4), Hide(4), Move Silently(4), Open Lock(4), Search(4), Set Trap(4), Spot(4), Tumble(4), Save(8), \n03: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), UMD(6), Save(6), \n05: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Set Trap(1), Spot(1), Tumble(1), Save(10), \n07: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Spot(1), Tumble(1), Save(16), \n09: Persuade( ), Spellcraft(8), Save(10), \n11: Hide(1), Move Silently(1), Spot(1), Save(13), \n13: Hide(1), Move Silently(1), Spot(1), Save(19), \n15: Hide(1), Move Silently(1), Spot(1), Save(25), \n17: Hide(1), Move Silently(1), Spot(1), Save(31), \n19: Hide(1), Move Silently(1), Spot(1), Save(37), \n21: Hide(2), Move Silently(2), Spot(2), Save(26), \n23: Hide(1), Move Silently(1), Spot(1), UMD(15), \n25: Hide(1), Move Silently(1), Search(1), Set Trap(6), Spot(1), \n27: Hide(1), Move Silently(1), Search(2), Set Trap(3), Spot(1), Tumble(5), \n29: Hide(1), Move Silently(1), Spot(1), Save(3), \n31: Hide(1), Move Silently(1), Spot(1), Save(9), \n33: Disable Trap(1), Hide(1), Search(1), Set Trap(1), Spot(1), UMD(5), \n35: Disable Trap(4), Hide(1), Search(2), Set Trap(4), Spot(1), \n37: Disable Trap(9), Spot(1), Tumble(5), \n39: Hide(2), Move Silently(3), Spot(1), \n</details>\n\nEdit: Made some changes to the build included in the \"spoiler\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "10:25 AM - Sep 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Mick,<br/>\n<br/>\nI thought the discussion was interesting too. Obviously, a lot of water has passed under that bridge since the build was made and a lot of expertise has been gained. I appreciate the advice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:52 PM - Jan 12, 2022",
+      "content": "<div>As you may (or may not, accordingly) know, BeamDog made it possible to finally create custom Spellbooks for Classes in NWN:EE.<br/>\n<br/>\nA hak has been made to bring spellbooks to the PrCs of Harper Scout, Blackguard, and Assassin, bringing them inline with their PnP counterparts.<br/>\n<br/>\nAside from Blackguard here, the spells of both Harper Scout and Assassin are Arcane in nature, meaning that it actually qualifies them for the following PrCs:<br/>\n<br/>\nArcane Archer<br/>\nRed Dragon Disciple<br/>\nPale Master<br/>\n<br/>\nIn light of this, how does the ECB feel about expanding builds to account for this?<br/>\n<br/>\nAs of right now, it is possible to put this hak into Mods and/or PWs (barring some difficulties, such as those with modified Class .2das).\u00a0 This means that yes, peeps will be able to build using these methods (might need some additional work, accordingly).<br/>\n<br/>\nStill, I personally find this really, really exciting!\u00a0 New building blocks!\u00a0 Oh my oh my!<br/>\n<br/>\nI haven't been this excited since HotU came out!<br/>\n<br/>\nThe hak in question : <a class=\"postlink\" href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1975673785&amp;searchtext=\" rel=\"noreferrer\" target=\"_blank\">https://steamcommunity.com/sharedfiles/ ... earchtext=</a></div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:44 PM - Sep 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm not sure whether SC5 <em>and</em> HiPs <em>and</em> ED isn't something of an overkill, and that any 2 of the 3 should do the job. I'd keep ED for True Seers and folk with a particularly high Spot skill (or when you dash in hasted to PBS an annoying mage to death by ignoring damage shields, etc) and go for either of the other 2. For this particular build, where you don't want to get involved in melee at all, I'd have thought HiPS should be enough (thus allowing for the 6 extra AA levels as Mick mentions), unless it has a \"cool-down\" element implemented. Mick's version (above) takes the opposite route, which seems to work fine - and you don't need Dodge and Mobility with it, so effectively you have 2 free feats to use, while the SD option will mean dipping out on one of Called Shot, Blind Fight, or Imp Crit. However, it opens up more options in epic levels. It's all a bit of a trade-off, as are so many things NwN-related.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:04 PM - Sep 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have levelled this build up to 40 on WoG - it is a great build, and fun to play!<br/>\n<br/>\nOf course, it has aged, so does need some attention.\u00a0 But in an environment like WoG, having all that defence is really useful!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "12:41 AM - Sep 15, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Web,<br/>\n<br/>\nCan you elaborate a little bit on your play style for this build? Especially regarding damage dealing.<br/>\n<br/>\nRegards,<br/>\nEltalstro<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:44 AM - Sep 15, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">[Edit]<br/>\n<br/>\nremoved post due to being in the wrong topic<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:31 AM - Sep 15, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Er, Webby, this is a Bard 8/ SD16/ AA 16 build (or Rogue 19/ Wiz 2/ AA 19 in Mick's iteration). Wrong thread maybe?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:16 AM - Sep 15, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have levelled the Bard 8/SD16/AA 16 build to 40 on WoG.<br/>\n<br/>\nThe great thing about it is that one does not have rog SA to worry about.\u00a0 By this, I mean SA, which needs to be within short range to get SA.<br/>\n<br/>\nBasically, this is a Sneak build.\u00a0 You run and gun but use HiPS to \"get away\" from your opponent. \u00a0reposition and rinse, repeat, until the opponent is dead.\u00a0 Superb defense, the 16 levels of AA are enough to get out of the \"poke poke\" syndrome that alot of Dex builds have (due to low damage output) - arrow enchantment is +8 here, which is good for a medium magic environment (but will suffer accordingly in a high magic environment).<br/>\n<br/>\nAnyway, that is basically it.\u00a0 One does have Bard Song, of course.\u00a0 That will boost AB a bit.\u00a0 Not that it is really needed - perhaps for those End Bosses that have impossibly high ACs.<br/>\n<br/>\nThe only thing I have to add to the SC5+ED discussion is that despite the mathematically low chance of being hit, I manage to get hit more than one would expect to be - dunno why.\u00a0 It's not often enough to be deadly, most of the time, but it is noticeable.\u00a0 What I do notice is that most (if not all) of the hits are not crits - meaning that one is dealing with mostly normal damage.\u00a0 <br/>\n<br/>\nOn WoG, the environment is very harsh, but this build performs very well (it is very expensive due to arrow consumption!) - even against opponents that have vanilla True Sight.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:26 AM - Jan 13, 2022",
+      "content": "<div>I love the idea Web, truly, but my problem is (as ever) the technicalities. An Assassin or HS AA opens marvellous opportunities, for example...<br/>\n<br/>\nHowever (and you knew there'd be a however), and others may well have different views, we're still supposed to focus on vanilla NwN here, so I can't buy into it as a norm. But (please note the lack of a 'however') if requests are made for such a build, that could be fun. Just not a Full Epic forum one. At least for now.<br/>\n<br/>\nSorry, and this isn't me just pissing on your strawberries, because I genuinely see it as a great implementation.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:52 AM - Sep 16, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"27151\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27151&amp;sid=0e4d5f14d9fdcc2317eb3ce3b2bb4e08#p27151\">\u2191</a><div class=\"responsive-hide\">Sep 15, 2022</div></cite>I have levelled the Bard 8/SD16/AA 16 build to 40 on WoG.<br/>\n<br/>\nThe great thing about it is that one does not have rog SA to worry about.\u00a0 By this, I mean SA, which needs to be within short range to get SA.<br/>\n<br/>\nBasically, this is a Sneak build.\u00a0 You run and gun but use HiPS to \"get away\" from your opponent. \u00a0reposition and rinse, repeat, until the opponent is dead.\u00a0 Superb defense, the 16 levels of AA are enough to get out of the \"poke poke\" syndrome that alot of Dex builds have (due to low damage output) - arrow enchantment is +8 here, which is good for a medium magic environment (but will suffer accordingly in a high magic environment).</div></blockquote>\nIf you want HIPS with an AA, then Ba/SD/AA is the way to go.<br/>\nI have played several characters in different environments, both modules and PWs, but not on WoG. <br/>\nI prefer the Ba8/ SD10/ AA22 with ED as a defensive build, using scrolls/items for the Displacement/ Improved Invisibility spells and the 50% concealment.<br/>\nThe all out attack build is Ba9/ SD2/ AA29. You normally won't need all 29 AA levels for AB, but they add up to a lot of arrow damage, making you less dependent on high end arrows.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:14 AM - Jan 13, 2022",
+      "content": "<div>I like the idea of spellbooks for these classes.<br/>\nIf nothing else, we must follow up on how the new hak works and see how popular it becomes.<br/>\nIf the hak replaces the spell-like abilities, we must know if the stacking of the ability buffing spells such as BG Bull's, HS Cat's and Eagle's is out or if it's still there.<br/>\nThe ability stat for casting also becomes an issue now for low wisdom BGs. Assassins normally have a high intelligence while HSs may or may not have a high charisma.<br/>\nIt is a good question if the Assassin and HS classes now are programmed to count as a arcane casters. That could indeed open up a whole new avenue of AA and PM builds. As for RDD, I assume that you still need a class associated with Dragon blood, such as Bard and Sorcerer.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:52 AM - Sep 16, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On WoG (and I suspect any environment where dispelling is a real threat) having SCV is ZOMG.\u00a0 Invis and Displacement gets blown\u00a0right off (Dispel spam supreme) - and even though one can normally put it back on, that takes time. Monks get a non-dispellable version of it 2/Day that last for a good bit and Assassin gets one as well.<br/>\n<br/>\nWhich can be a problem when surrounded by m0bs that are hell bent on tearing you into little itty bitty pieces...and ED is mega-ZOMG super cheese.\u00a0 Combined, with a high AC, and it makes for a really awesome build imo.<br/>\n<br/>\nOh, btw - I forgot to mention HiPS.\u00a0 In an environment where vanilla HiPS is allowed, it is totally OP.\u00a0 One should put it on the Quickbar, with the Attack command right next to it.\u00a0 Then, just use the F keys that correspond to the Quickslotted commands to toggle HiPS and Attack (meaning if you are in combat, you need to first toggle Attack OFF and then HiPS, then you can attack at your leisure).\u00a0 You can also use this technique to \"break\" caster LoS so that their spells do not go off at you - just toggle it like a madman!\u00a0 One-Two, rinse, repeat.\u00a0 Especially with ranged, this works wonders!\u00a0 I just keep the mouse pointer on the target and toggle the F keys.<br/>\n<br/>\nYou'll never get a spell cast at you, m0bs will \"forget\" you are there and stop attacking/advancing towards you, etc.\u00a0 It is the ultimate \"cheese mode\".<br/>\n<br/>\nEven in an environment where HiPS is on a timer, one can still do this - albeit with less effectiveness.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:04 PM - Jan 13, 2022",
+      "content": "<div>The Hak does not replace the spell like abilities (so that it does not break backwards compatibility) but does make them \"non-operative\" - meaning that the new spellbooks take precedence.<br/>\n<br/>\nI also made a mistake regarding Assassin and RDD - since Assassins have to memorize spells like Wizards, they are not a \"spontaneous spellcaster\" and therefore do not have the requirements for RDD (sorc and bard).<br/>\n<br/>\nI would also like to point out that this Hak utilizes normal, ingame menus, etc - meaning it does not need any other support here.\u00a0 In other words, it is using vanilla assets. <br/>\n<br/>\nThis is what is exciting imo.\u00a0 It actually is inline with the \"vanilla assets only\" rule.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:17 PM - Jan 13, 2022",
+      "content": "<div>I wonder if this could be done in override form.\u00a0 I suspect that it cannot.<br/>\n<br/>\nAlso, is it EE-only?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:05 PM - Jan 13, 2022",
+      "content": "<div>Yes, this is EE only.<br/>\n<br/>\nI have no idea if it is Override compatible.\u00a0 But since it uses vanilla assets, it well might be.</div>"
+    },
+    {
+      "author": "Jam Master",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:30 PM - Jan 13, 2022",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>I wonder if this could be done in override form.\u00a0 I suspect that it cannot.<br/>\n<br/>\nAlso, is it EE-only?</div></blockquote>\nYes there is an override as I have used it for Swordflight on a Blackguard.<br/>\n<br/>\nThe pack is extremely high quality &amp; comes \u2018out the box\u2019 as BioWare should have implemented IMHO <span class=\"text-emoji\">\ud83d\ude4c</span><br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk</div>"
+    },
+    {
+      "author": "Kalistez",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:58 PM - Jan 13, 2022",
+      "content": "<div>The server I play on has had this for a while, however it does replace class abilities</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:45 AM - Sep 16, 2022",
+      "content": "<div>Just performing a quick necro here. Anyone know how this is settling in after a few months? Also, do we have any knowledge of how progression is made (for example, if HS is treated as a wizard-type, s/he would get 3rd level spells at L5, but as a sorcerer-type, only 2nd level)? And then there's Blackguard spells: presumably they would be an evil reflection of the Pally spellbook, and also capped at 4th level spells?<br/>\n<br/>\nJust asking for an update, really.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "11:48 AM - Sep 16, 2022",
+      "content": "<div>Afaik, it is just sitting there <span class=\"text-emoji\">\ud83d\ude44</span><br/>\n<br/>\nGathering dust <span class=\"text-emoji\">\ud83d\ude14</span><br/>\n<br/>\nIt got shot down on WoG - \"it would make things to \"OP\"\" for whatever that means...strange how making things more like the PnP roots causes such conniptions...</div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "12:24 PM - Sep 16, 2022",
+      "content": "<div>With the Assassin nerf Beamdog did, it hardly seems OP for them to get a buff to another area....</div>"
     }
   ]
 }

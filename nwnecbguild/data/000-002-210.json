@@ -4,29 +4,30 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "210",
-  "name": "Hit Point Rolls and what they mean?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/hit-point-rolls-and-what-they-mean-t2354689.html",
-  "author": "Bauer",
-  "avatar": "10577588_1510287072.jpg",
-  "replies": 2,
+  "name": "Weird problem with Kamiryn's Character Build Calculator",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/weird-problem-with-kamiryn-s-character-build-calcu-t2354691.html",
+  "author": "Nephylos",
+  "avatar": "no_avatar.png",
+  "replies": "2",
+  "views": "373",
   "posts": [
     {
-      "author": "Jack Bauer",
+      "author": "Nephylos",
       "avatar": "no_avatar.png",
-      "timestamp": "10:34 AM - Apr 15, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have been playing a character, and I have been attempting to maximize my hit point rolls for each level. Is it possible to achieve this by deleveling your character by a couple hundred exp repeatedly until you roll the highest possible amount of hit points? Could someone please explain how it works? I am trying to maximize on how much HP all my characters can get and knowing if I was losing hp on each level would be a big help. Thank you and much love &lt;3<br/>\n<br/>\n -JB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:45 PM - Apr 15, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Jack (no pun intended!).<br/>\n<br/>\n Simply put, your max HP per level will be whatever HPs your class attracts at that level. For most fighter-types that will be 10 (though it's 12 for Barbarian and Dwarven Defender), others will be 8 (eg, Cleric), 6 (eg, Rogue), or even 4 for wizardly sorts (can't guarantee that one, never having played an arcanist). In any case, when you level up and choose your class, it will tell you in the description of that class. Then you add your CON modifier (+2, -1, and so on). And finally, anything else that modifies HPs, such as the Toughness feat (+1 HP per level, regardless of class and applied retrospectively, giving an overall +40 HPs) or its Epic variations (a one-off +20 HPs each time it's taken).<br/>\n<br/>\n I'm sure there will be a way to set the game to give you max HPs each time, but I don't know what it is, so I simply keep re-rolling until I get what I know to be the max for that level/class. It's a little annoying, because I've already done everything else before the HP roll, so have to keep re-inputting whatever feats and skills I want each time, but it generally won't take longer than 2 or 3 minutes before you hit the max.<br/>\n<br/>\n I must confess that I don't really know what you mean by \"deleveling your character by a couple hundred exp\", but I hope this helps a bit.<br/>\n<br/>\n Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:32 PM - Apr 21, 2017",
+      "content": "<div>Hello, Gang! I got the urge to play my first paladin for NWN (persistent world) and brought up a fresh copy of Kamiryn's Character Build Calculator. So, I punched in the classes I will be using (paladin, Champion of Torm), and started to place them in the level progression column. However, when I placed Paladin in row 1, it turned red (illegal) right off the bat. It has stayed this way even after inputting my ability scores and race (human). I can take it out and start in row 2 and everything is fine, except feats are now off. I can't figure out why it says level 1 pally is illegal but is fine with every level afterward. Anyone got any ideas?<br/>\n \u00a0</div>"
     },
     {
       "author": "HipRedux",
       "avatar": "10577588_1510287072.jpg",
-      "timestamp": "4:32 PM - Apr 15, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">D&amp;D purists will play with what the dice proffer but there are few PnP environments around these days so if you want to always accrue the maximum HP each level, in the <span style=\"font-family:MONOSPACE\">[Server Options]</span> section of your <em>nwnplayer.ini</em>, set the following variable:\u00a0 <span style=\"font-family:MONOSPACE\">Max Hit Points=1</span>.\u00a0 For PnP, you'd use: <span style=\"font-family:MONOSPACE\">Max Hit Points=0</span> to be subject to the mercy of the dice.<br/>\n<br/>\nDuring server play, it's customary to keep quitting the level-up confirmation screen until the HP total reaches the maximum level.<br/>\n<br/>\nFor SP, if you feel your current HP total does not reflect the maximum number (probably because you haven't adjusted the player.ini yet), you can delevel/relevel.\u00a0\u00a0 At toon creation (level 1), the values are automatically maxed (or should be) so you'd need to delevel back to level 1 to recapture any missed HP. <br/>\n<br/>\nThe fastest way to accomplish what you are seeking is to use the console command <span style=\"font-family:MONOSPACE\">dm_givelevel &lt;x&gt;</span> while in debug mode and then target your PC.\u00a0 In your case, the number &lt;x&gt; would be a negative number governed by how many levels you decide to relevel (and where &lt;x&gt; would be the positive inverse to the delevel).\u00a0 Jot down your XP total before using the console because you may need to add a bit of XP back on after the final relevel.\u00a0\u00a0 As an example, a level 4 toon would use <span style=\"font-family:MONOSPACE\">dm_givelevel -3 </span>then target the PC, followed immediately by <span style=\"font-family:MONOSPACE\">dm_givelevel 3</span>\u00a0 (and target again) to add back the same number of levels.\u00a0 Use <span style=\"font-family:MONOSPACE\">dm_giveXP &lt;x&gt;</span> to make up any difference between the XP at level 4 and what you jotted down.<br/>\n<br/>\nNaturally, you'd want to make the player.ini change before going through all this tedium.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:02 PM - Apr 21, 2017",
+      "content": "<div>The reason you can plug it into level 2 is because a pally needs at least WIS 11 at creation just like ranger, druid and cleric.\u00a0 At level 2, there are no ability requirements for <span style=\"text-decoration:underline\">any</span> class. The only way to bypass the minimum creation abilities is to take a class that has no such prereq like fighter, rogue, monk, etc. at Level 1 before the first pally level.</div>"
+    },
+    {
+      "author": "Nephylos",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:46 PM - Apr 21, 2017",
+      "content": "<div>Well, this is embarrassing. I figured it out when you mentioned my Wisdom score. I put my Wis score in Int and vice- versa, so the worksheet thought my Wis was 10 and Int was 14. =P <br/>\n Thanks for providing the clue! =)</div>"
     }
   ]
 }

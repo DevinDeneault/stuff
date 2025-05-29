@@ -4,41 +4,89 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "105",
-  "name": "Dual Wielding",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dual-wielding-t2355579.html",
-  "author": "Fist",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 4,
+  "name": "Will saving throws",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/will-saving-throws-t2327374.html",
+  "author": "JimDandy",
+  "avatar": "10235455_1510287071.png",
+  "replies": "11",
+  "views": "2.1K",
   "posts": [
+    {
+      "author": "JimDandy",
+      "avatar": "10235455_1510287071.png",
+      "timestamp": "5:38 AM - Apr 04, 2013",
+      "content": "<div>Hi all,<br/>\n<br/>\nLately I've picked up NWN again because it is dear to me. Lots of fond memories.  I was looking around at the melee builds and was just wondering how, all in all, devastating a \"low\" will save can be, and what ranges of will saves are considered low, medium, and high. What in the NWN game can kill you if you fail a will-save? I've always been under the impression it's mostly a worry of losing control of your character to be sneak attacked or have other abilities take advantage of you not responding, but I'm not sure what, if anything, there is that will kill you outright if failed (I mean will save, only, not together with fortitude).<br/>\n<br/>\nThanks - happy to see people enjoying the game and the fun in building so much still!<br/>\n<br/>\n<br/>\n-JimDandy</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:03 PM - Apr 04, 2013",
+      "content": "<div>Will save is applied to most mind-affecting  and fear spells and spell like effects. The <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Mind-affecting\" rel=\"noreferrer\" target=\"_blank\">mind-affecting</a> effects are charmed, confused, dazed, dominated, frightened, paralyzed, sleep, and stunned. They don't kill you outright, but leave you helpless and an easy prey.<br/>\nThe illusion \"death\" spells Phantasmal killer and Weird have a combined will and fortitude save.<br/>\nThe bodak <a class=\"postlink\" href=\"http://nwn.wikia.com/wiki/Death_gaze\" rel=\"noreferrer\" target=\"_blank\">Death gaze</a> has a will save and will kill you immediately if you fail.<br/>\n<br/>\nEdit: Sonic traps allow a will save against the stun effect</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "JimDandy",
+      "avatar": "10235455_1510287071.png",
+      "timestamp": "3:32 PM - Apr 04, 2013",
+      "content": "<div>Thanks, Mick Dagger. When a build claims to have good saves, what would you say is the criteria? Off the top of my head, 18 seems to be the lowest you get in most melee oriented builds - granted, they usually have spells or feats to help them increase this. Do you have any input on that?<br/>\n<br/>\nMuch obliged,<br/>\n<br/>\n<br/>\n-JimDandy</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:17 PM - Apr 04, 2013",
+      "content": "<div>A typical melee character like a Fighter has will as her low save, with a +6 bonus at lvl 20 and +16 at lvl 40. If you multiclass different classes with low will saves, you risk ending up with +5 and +15. If your wisdom is 8 (which is often the case in these builds), you also get a -1 modifier. I believe +4 at 20 and +14 at 40 is as low as you can get.<br/>\nA high will save class, like Cleric or Druid has a +12 bonus at 20 and +22 at 40(, and can reach +16 and +26 with creative multiclassing). A high wisdom will add to that, eg. +5 from wis 20, or +10 from wis 30, so will save bonus above +15  at lvl 20 and above +30 at lvl 40 is not uncommon.<br/>\nDifferent general feats, class feats and racial feats will also add to the saves.<br/>\nThe spellcraft skill will also add +1 to saves vs spells for every 5 modified ranks.<br/>\n<br/>\nSo what is considered high and low, you ask.<br/>\n<br/>\nIt depends fully on what you are up against. <br/>\nThe Death gaze has a DC of 10 + half the character level (14 for a vanilla lvl 9 bodak, but 30 for a custom made lvl 40 epic bodak).<br/>\nAn epic sonic trap has a DC of 30.<br/>\nThe DC of the fear aura of a great wyrm (dragon lvl 37 or higher) is 37.<br/>\nA wizard with int 38 and epic spell focus will cast lvl 1 spells with a DC of 31 and lvl 9 spells with a DC of 39.<br/>\n<br/>\nYour saving throw is a 1d20 + save bonus against the DC of the spell/effect.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:02 PM - Apr 04, 2013",
+      "content": "<div>Low will characters will be looking for items that grant a will save bonus or immunities to fear and/or mind spells. Meanwhile they keep drinking clarity potions.<br/>\nIf you have UMD, you can also cast mind protecting spells from scrolls and wands.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "JimDandy",
+      "avatar": "10235455_1510287071.png",
+      "timestamp": "9:22 PM - Apr 04, 2013",
+      "content": "<div>Mick, you're a saint. Thank you for the information, it put it all in perspective for me (which is what I was looking for). Kudos, +1, etc. to you <br/>\n<br/>\n<br/>\n-JimDandy</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:41 AM - Apr 16, 2013",
+      "content": "<div>I'd like to second what Mick said about immunities and sort of make it more specific. Generally speaking, when playing a meleer against ANYTHING that can affect your will save, Clarity potions (or wands) are a must. If that thing is hard to kill, then recasting is also a must, which basically means you should literally carry at least two stacks of 10 clarity potions before adventuring and restock when you go to town to sell. The main trouble is when you don't know what you're up against, turn a corner and see a dragon or undear, which turns on the Fear aura before you have a chance to use a potion (although you have to be quite slow to fall to that, cuz they take a long time activating fear and remain still while they do so). So, summarizing, if your world doesn't have immunities or if you just have better items to equip, Clarity potions are a melee character's best friend.<br/>\n<br/>\nNow on to the second p\u00e1rt of what I wanted to say, there are characters built with focus on saves, which are pretty much immune to anything except a natural 1. Characters such as Paladin / CoT builds with a focus on CHA, or even Paladin / BGs or worse, Pal/BG/CoT. However, Pal/BGs are illegal in most servers because of conflicting alignments, so the most common high-save build is a Pal / CoT / Monk with more than 18 levels of CoT. Something like a charisma-focused Pal 15 Cot 22 Monk 3 will have extremely high saves if at least one Monk is taken pre-epic cuz Monks have all three saves as strong ones, adding to your base save scores. With Divine Grace and Sacred Defense (the latter counts towards the cap) you'll have +11 to all saves + your CHA modifier, which should be at least a base of 26 (+8 Modifier), reaching a cap of +14 with capped CHA. so a total of +25 to all saves + the base score is respectable to say the least.<br/>\n<br/>\nTake it EZ!</div>"
+    },
     {
       "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
-      "timestamp": "3:04 AM - Oct 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I do not see a lot of dual-wield builds (except, of course, Kama Monks). What are the inherent weaknesses to dual wielding (besides the feat investment &amp; loss of shield?<br/>\n<br/>\nAlso, if a PC has Two Weapon Fighting with a light weapon in the off-hand and the Ambidexterity feat, is the AB penalty -2/+2?<br/>\n<br/>\nIs there value to ITWF at low levels?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:22 PM - Oct 19, 2020",
+      "content": "<div>So,<br/>\n<br/>\nI currently have a FTR 6/WM 7.\u00a0 I'm definitely adding CoT as my 3rd class.\u00a0 The question is:<br/>\n<br/>\nAm I better off going FTR 6 WM 28 CoT 6 or FTR 7 WM 7 CoT 26?<br/>\n<br/>\nWith the WM 28, I get +5 AB plus a lot of Ki Damage uses, but with the CoT 26, I get + 9 saves (but 2 less Epic Feats).<br/>\n<br/>\nI absolutely HATE running out Clarity potions and having some Imp/Fairy/Goblin Adept charm/scare/daze me, but I have low (8) CHA and won't make use of any of the other CoT goodies.\u00a0 Going WM 28, with the extra feats I could also grab Iron Will/Epic Will and get +6.<br/>\n<br/>\n\u00a0\u00a0</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:40 AM - Oct 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Theophilus.<br/>\n<br/>\nPerhaps this link will help in your quest for d-w answers: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/best-weapon-style-shield-2handed-dual-t2355304.html\" rel=\"noreferrer\" target=\"_blank\">1/2-handed/d-w weapons</a><br/>\n<br/>\nAs to AB penalties, you're right about the AB penalty with both TWF and Ambidexterity. You will, of course need a DEX of 15+ in order to take Ambidexterity (unless you take Ranger and its inherent D-W feat/s).<br/>\n<br/>\nWhen you take ITWF is a matter of personal taste, by and large (provided you have BAB of 9+). For myself, I prefer to wait until my AB is higher before grabbing that extra off-hand attack. After all, if you take it when it first becomes available, you'll be making the attack at -7 from your optimal AB (-5 if a kama Monk), and you're not going to hit much then without a 20 roll. There are probably more beneficial feats that could be taken earlier instead. But then, I tend to take all d-w feats later than many here do anyway.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:36 PM - Oct 20, 2020",
+      "content": "<div><blockquote><div><cite>Theophilus Fist wrote: <div class=\"responsive-hide\">Oct 19, 2020</div></cite>So,<br/>\n<br/>\nI currently have a FTR 6/WM 7.\u00a0 I'm definitely adding CoT as my 3rd class.\u00a0 The question is:<br/>\n<br/>\nAm I better off going FTR 6 WM 28 CoT 6 or FTR 7 WM 7 CoT 26?<br/>\n<br/>\nWith the WM 28, I get +5 AB plus a lot of Ki Damage uses, but with the CoT 26, I get + 9 saves (but 2 less Epic Feats).<br/>\n<br/>\nI absolutely HATE running out Clarity potions and having some Imp/Fairy/Goblin Adept charm/scare/daze me, but I have low (8) CHA and won't make use of any of the other CoT goodies.\u00a0 Going WM 28, with the extra feats I could also grab Iron Will/Epic Will and get +6.<br/>\n<br/>\n\u00a0\u00a0</div></blockquote>\nDon't know whether this will help or not, but not long ago I offered up this as a Fighter/ WM/ CoT, and it kind of splits the difference, being a F8/ WM22/ CoT10. See what you think...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/divine-weapon-master-wm-and-cot-hybrid-build-with--t2355497-s10.html\" rel=\"noreferrer\" target=\"_blank\">Divine WM</a><br/>\n<br/>\nIt\u00a0 comes a few posts down in the thread. Cheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:18 PM - Oct 20, 2020",
+      "content": "<div>^^^ Thanks, Stag.\u00a0 I like Half-Orcs, but with the CHA penalty, I don't know if I can get that Will save up to a decent level.\u00a0\u00a0</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:48 AM - Oct 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, and here are just a couple of examples of non-kama dual-wielders - one DEX and one STR based. There are plenty more...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/kukri-saint-fighter-12-wm-25-rogue-3-t2353598.html\" rel=\"noreferrer\" target=\"_blank\">Kukri Saint</a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/aielund-sword-champion-fighter-14-cot-20-rogue-6-t2354534.html\" rel=\"noreferrer\" target=\"_blank\">Aielund Sword Champion</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:51 PM - Oct 20, 2020",
+      "content": "<div><blockquote><div><cite>Theophilus Fist wrote: <div class=\"responsive-hide\">Oct 20, 2020</div></cite>^^^ Thanks, Stag.\u00a0 I like Half-Orcs, but with the CHA penalty, I don't know if I can get that Will save up to a decent level.\u00a0\u00a0</div></blockquote>\nPleasure, Theo. Though I'm not sure why you're looking at CHA for Will saves, its modifier is WIS. You get +1 to all 3 saves automatically every even level of CoT you take (Sacred Defence), regardless of your stats (thus +5 for 10 levels of CoT).<br/>\n<br/>\nI'll generally try to get my Will save to 20 or above for a melee build (which tends to be most of mine), which ain't great, but isn't abominable either. That said, I'll still always be on the lookout for mind/fear protection gear (unless I get to Monk 20, when it becomes redundant). CoT and Monk are your best melee-types for good saves, other than Paladin, which <em>does</em> use its CHA modifier for save boosts (and grants immunity to fear at level 3, iirc).<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:53 AM - Oct 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Aargh! Because I am an idiot, and it was very early when I posted the above, I now see I've presented two STR builds. I actually meant to present you with this DEX one: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/halfling-champion-rogue-20-fighter-6-cot-14-t2354370.html\" rel=\"noreferrer\" target=\"_blank\">Halfling Champion</a><br/>\n<br/>\nSorry!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "1:29 PM - Oct 11, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This is my favorite two-weapon build - <strong>Gloom Razor by GDL</strong> <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/gloom-razor-of-the-hin-rogue-24-divine-champion-10-t2355280.html\" rel=\"noreferrer\" target=\"_blank\">gloom-razor-of-the-hin-rogue-24-divine- ... 55280.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:52 AM - Oct 21, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Oct 20, 2020</div></cite><blockquote><div><cite>Theophilus Fist wrote: <div class=\"responsive-hide\">Oct 20, 2020</div></cite>^^^ Thanks, Stag.\u00a0 I like Half-Orcs, but with the CHA penalty, I don't know if I can get that Will save up to a decent level.\u00a0\u00a0</div></blockquote>\nPleasure, Theo. Though I'm not sure why you're looking at CHA for Will saves, its modifier is WIS. You get +1 to all 3 saves automatically every even level of CoT you take (Sacred Defence), regardless of your stats (thus +5 for 10 levels of CoT).<br/>\n<br/>\nI'll generally try to get my Will save to 20 or above for a melee build (which tends to be most of mine), which ain't great, but isn't abominable either. That said, I'll still always be on the lookout for mind/fear protection gear (unless I get to Monk 20, when it becomes redundant). CoT and Monk are your best melee-types for good saves, other than Paladin, which <em>does</em> use its CHA modifier for save boosts (and grants immunity to fear at level 3, iirc).<br/>\n<br/>\nCheers</div></blockquote>\nMy bad - was thinking about Paladins with the CHA bump to saves and got confused into linking it with Will.\u00a0 \u00a0\u00a0</div>"
     }
   ]
 }

@@ -4,77 +4,139 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "680",
-  "name": "The Singer and Spell-Slinger (Bard 16 / Sorcerer 24)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-singer-and-spell-slinger-bard-16-sorcerer-24-t2355361.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 10,
+  "name": "True Liches Lyrics - Redux (Bard 25/Druid 5/Shifter 10)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/true-liches-lyrics-redux-bard-25-druid-5-shifter-1-t2355359.html",
+  "author": "wildleaf",
+  "avatar": "10747696_1523894257.png",
+  "replies": "20",
+  "views": "922",
   "posts": [
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:21 PM - Feb 17, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"font-size:150%;line-height:normal\">The Singer and Spell-Slinger</span></strong><br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202002/10759084_42d6f2b0556f0455197bbb3088329c54.jpg\" />\n</dl>\n</span><span style=\"font-size:50%;line-height:normal\">Image source:\u00a0<a class=\"postlink\" href=\"https://i.pinimg.com/originals/dd/0c/f9/dd0cf9b5b92e74963b2bb1f782eafd6d.jpg\" rel=\"noreferrer\" target=\"_blank\">https://i.pinimg.com/originals/dd/0c/f9 ... eafd6d.jpg</a></span><br/>\n<br/>\n<strong>Build details:</strong><br/>\nMy friend <em class=\"mention\">@Aquarius 233</em>\u00a0challenged me in game on WoG today, told me I couldn't make a Bard-orcerer as good as he could (as he is currently the world authority on Bard-orcerers at present), and told me he would love to see my attempt on the ECB forum.<br/>\n<br/>\n[Sorry that was an attempt at humor. Move on if you didn't get it.]<br/>\n<br/>\nAnyway there are some cool things about Bard-orcerers. One is the Bard song which immediately makes you popular with everyone. Second is the huge number of spells/day and spells available to use. Third is that you dont have to memorise your spells just rest whenever and you can cast whatever you want whenever.<br/>\n<br/>\nThere are weaknesses of course. I've tried to address some of them. Firstly the build is feat starved. I felt the best approach would be to abandon all thoughts of being a combatant, avoiding all those feats like Blind Fight/Knockdown/WF/EWF/EP, and embrace the lifestyle of being a singer and spell-slinger hence the title.<br/>\n<br/>\n[Although he could also equip a sling as well to be a <strong>singer, slinger and spell-slinger</strong>, he is going to be an inaccurate slinger.]<br/>\n<br/>\nBard/ Sorcerer have atrocious d4/d6 hit die so I've opted for a cons based non-DC spell caster, add EDR III.<br/>\n<br/>\nDispels are the final issue I can see.\u00a0I've opted for undispellability (at level 40) which is pretty standard for a spellsword to get this late 30s-40 but will need to be managed carefully avoiding dispels until you get to 40 by which time you can retire the character (lol).\u00a0<br/>\n<br/>\nDamage shields would be strong here with extended wounding whispers, death armor, flame shield and mestil's acid sheath, although not having critical hit immunity will be problematic, one might have to utilise the Shapechange (Iron Golem) approach if you want to use this optimally, until Epic Spell: Epic Warding is obtained.<br/>\n<br/>\nI definitely wanted a level 16 Bard/Curse Song in the build, just too powerful to give up.<br/>\n<br/>\nHeaps of craft magic in the build (Scribe Scroll/craft wand), with dual spell books seemed silly not to take it, and will make you even more popular than you already were.\u00a0<br/>\n<br/>\nSomehow I fit in the ability to set and craft deadly traps into the build which is nice too.\u00a0<br/>\n<br/>\nAnyway this guy is looking like a bit of a 'rock star', feel free to review, suggestions/tweaks always welcome<br/>\n<details><summary>Spoiler</summary>Bard(16), Sorcerer(24), Human\nSTR: 10\nCON: 16 (24)\nINT: 14\n\n01: Bard(1): Scribe Scroll, Lingering Song\n03: Sorcerer(2): Extend Spell\n05: Sorcerer(4)\n07: Bard(3)\n09: Sorcerer(5): Craft Wand\n11: Sorcerer(7)\n13: Bard(5)\n15: Bard(7): Spell Penetration\n17: Bard(9)\n19: Bard(11)\n21: Bard(13): Epic Damage Reduction I\n23: Bard(15)\n25: Sorcerer(9)\n27: Sorcerer(11): Epic Damage Reduction III\n29: Sorcerer(13)\n31: Sorcerer(15)\n33: Sorcerer(17): Epic Fortitude\n35: Sorcerer(19)\n37: Sorcerer(21)\n39: Sorcerer(23): Epic Spell: Epic Mage Armor, Epic Spell: Epic Warding\n\nSkillpoints: 253\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 23 (melee), 23 (ranged)\nSpell Casting: Bard(6),Sorcerer(9)\n\n\n01: Concentration(4), Craft Trap(4), Disable Trap(1), Listen(4), Lore(1), Open Lock(1), Perform(1), Set Trap(1), Tumble(4), UMD(4),\u00a0\n03: Concentration(1), Lore(2), Save(3),\u00a0\n05: Concentration(1), Save(11),\u00a0\n07: Concentration(1), Listen(1), Perform(3), Tumble(1), UMD(1),\u00a0\n09: Concentration(1), Craft Trap(2), Spellcraft(1), Save(2),\u00a0\n11: Concentration(1), Craft Trap(1), Save(7),\u00a0\n13: Concentration(1), Craft Trap(1), Listen(5), Tumble(5), UMD(5),\u00a0\n15: Concentration(1), Craft Trap(1), Listen(1), Save(5),\u00a0\n17: Concentration(1), Craft Trap(1), Listen(1), Tumble(5), UMD(5),\u00a0\n19: Concentration(1), Craft Trap(1), Listen(1), Perform(3), Set Trap(1),\u00a0\n21: Concentration(1), Listen(1), Save(9),\u00a0\n23: Concentration(1), Listen(1), Perform(3), Set Trap(1), Save(1),\u00a0\n25: Concentration(1), Set Trap(2),\u00a0\n27: Concentration(1), Set Trap(2),\u00a0\n29: Concentration(1), Set Trap(1), Spellcraft(3),\u00a0\n31: Concentration(1), Set Trap(1), Spellcraft(3),\u00a0\n33: Concentration(1), Set Trap(1), Spellcraft(3),\u00a0\n35: Concentration(1), Set Trap(1), Spellcraft(3),\u00a0\n37: Concentration(1), Craft Trap(1), Spellcraft(3),\u00a0\n39: Concentration(1), Craft Trap(1), Spellcraft(3),\u00a0</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "1:16 AM - Feb 17, 2020",
+      "content": "<div>Hello ECB, all of the damage shield builds flying around (all two of them) have inspired me to post one of my own. This is a re-imagining of an ancient build I created in ~2005 by the name of \"True Liches Lyrics\", you can find it in the old archives. Back then I was only a child, and the concepts of \"reading\", \"learning\", and \"refining\" had not yet entered my awareness. In fact, they still haven't, I merely wanted to post this build to spur some discussion, and perhaps you folk can help spruce it up.<br/>\n<br/>\nThe build revolves around a few things: Risen Lord form, Wounding Whispers, Curse Song, and Taunt. It could be massively improved by adding some sane classes (I.E. Palemaster), but nostalgia won't let me do it.<br/>\n<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://i.redd.it/29gqnw5rx5831.jpg\"/><br/>\n<br/>\nBard(25), Druid(5), Shifter(10), Gnome<br/>\n<br/>\nSTR: 7<br/>\nDEX: 8<br/>\nCON: 18 (21)<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 17 (24)<br/>\n<br/>\nGnome: (Defensive Training vs. Giants, Hardiness vs. Enchantments, Low-light Vision, Offensive Training vs. Goblinoids, Offensive Training vs. Reptilians, Skill Affinity: Concentration, Skill Affinity: Listen, Small Stature, Spell Focus: Illusion)<br/>\n01: Bard(1): Skill Focus: Perform<br/>\n02: Druid(1)<br/>\n03: Druid(2): Skill Focus: Taunt<br/>\n04: Druid(3): CON+1, (CON=19)<br/>\n05: Druid(4)<br/>\n06: Druid(5): Alertness<br/>\n07: Bard(2)<br/>\n08: Shifter(1): CON+1, (CON=20)<br/>\n09: Shifter(2): Toughness<br/>\n10: Shifter(3)<br/>\n11: Shifter(4)<br/>\n12: Bard(3): CHA+1, Curse Song, (CHA=18)<br/>\n13: Shifter(5)<br/>\n14: Shifter(6)<br/>\n15: Shifter(7): Extend Spell<br/>\n16: Shifter(8): CHA+1, (CHA=19)<br/>\n17: Bard(4)<br/>\n18: Bard(5): Brew Potion<br/>\n19: Bard(6)<br/>\n20: Shifter(9): CHA+1, (CHA=20)<br/>\n21: Shifter(10): Undead Shape<br/>\n22: Bard(7)<br/>\n23: Bard(8)<br/>\n24: Bard(9): CON+1, Epic Damage Reduction I, (CON=21)<br/>\n25: Bard(10)<br/>\n26: Bard(11)<br/>\n27: Bard(12): Epic Damage Reduction II<br/>\n28: Bard(13): CHA+1, (CHA=21)<br/>\n29: Bard(14)<br/>\n30: Bard(15): Epic Damage Reduction III<br/>\n31: Bard(16)<br/>\n32: Bard(17): CHA+1, (CHA=22)<br/>\n33: Bard(18): Epic Skill Focus: Perform<br/>\n34: Bard(19)<br/>\n35: Bard(20)<br/>\n36: Bard(21): CHA+1, Lasting Inspiration, (CHA=23)<br/>\n37: Bard(22)<br/>\n38: Bard(23): Epic Skill Focus: Taunt<br/>\n39: Bard(24): Epic Reputation<br/>\n40: Bard(25): CHA+1, (CHA=24)<br/>\n<br/>\nHitpoints: 510<br/>\nSkillpoints: 258<br/>\nSaving Throws (Fortitude/Will/Reflex): 27/21/21<br/>\nSaving Throw bonuses: Spells: +9, Mind Effects: +2, Fear: +2<br/>\nBAB: 23<br/>\nAB (max, naked): 22 (melee), 23 (ranged)<br/>\nAC (naked/mundane armor/shield only): 10/17<br/>\nSpell Casting: Bard(6)<br/>\nAlignment Changes: 0<br/>\n<br/>\nConcentration 43(50), Disable Trap 1(3), Discipline 43(41), Open Lock 1(0), Perform 43(63), Spellcraft 43(45), Taunt 43(67), UMD 30(37), remaining skillpoints 9<br/>\n<br/>\n<br/>\n01: Concentration(4), Disable Trap(1), Discipline(4), Open Lock(1), Perform(1), Spellcraft(3), Taunt(4), UMD(4), <br/>\n02: Concentration(1), Spellcraft(2), Save(3), <br/>\n03: Concentration(1), Spellcraft(1), Save(7), <br/>\n04: Concentration(1), Spellcraft(1), Save(11), <br/>\n05: Concentration(1), Spellcraft(1), Save(15), <br/>\n06: Concentration(1), Spellcraft(1), Save(19), <br/>\n07: Concentration(1), Discipline(6), Spellcraft(1), Taunt(6), UMD(6), Save(5), <br/>\n08: Concentration(1), Save(10), <br/>\n09: Concentration(1), Save(15), <br/>\n10: Concentration(1), Save(20), <br/>\n11: Concentration(1), Save(25), <br/>\n12: Concentration(1), Discipline(5), Perform(1), Spellcraft(5), Taunt(5), UMD(5), Save(9), <br/>\n13: Concentration(1), Save(14), <br/>\n14: Concentration(1), Save(19), <br/>\n15: Concentration(1), Save(24), <br/>\n16: Concentration(1), Save(29), <br/>\n17: Concentration(1), Discipline(5), Spellcraft(5), Taunt(5), UMD(5), Save(14), <br/>\n18: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), UMD(1), Save(15), <br/>\n19: Concentration(1), Discipline(1), Perform(3), Spellcraft(1), Taunt(1), UMD(1), Save(13), <br/>\n20: Concentration(1), Save(18), <br/>\n21: Concentration(1), Save(23), <br/>\n22: Concentration(1), Discipline(3), Spellcraft(3), Taunt(3), UMD(3), Save(16), <br/>\n23: Concentration(1), Discipline(1), Perform(2), Spellcraft(1), Taunt(1), UMD(1), Save(15), <br/>\n24: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), UMD(1), Save(16), <br/>\n25: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), UMD(1), Save(17), <br/>\n26: Concentration(1), Discipline(1), Perform(3), Spellcraft(1), Taunt(1), UMD(1), Save(15), <br/>\n27: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), UMD(1), Save(16), <br/>\n28: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), Save(18), <br/>\n29: Concentration(1), Discipline(1), Perform(3), Spellcraft(1), Taunt(1), Save(17), <br/>\n30: Concentration(1), Discipline(1), Perform(3), Spellcraft(1), Taunt(1), Save(16), <br/>\n31: Concentration(1), Discipline(1), Perform(6), Spellcraft(1), Taunt(1), Save(12), <br/>\n32: Concentration(1), Discipline(1), Perform(4), Spellcraft(1), Taunt(1), Save(10), <br/>\n33: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), Save(12), <br/>\n34: Concentration(1), Discipline(1), Spellcraft(1), Taunt(1), Save(14), <br/>\n35: Concentration(1), Discipline(1), Perform(5), Spellcraft(1), Taunt(1), Save(11), <br/>\n36: Concentration(1), Discipline(1), Perform(5), Spellcraft(1), Taunt(1), Save(8), <br/>\n37: Concentration(1), Discipline(1), Perform(4), Spellcraft(1), Taunt(1), Save(6), <br/>\n38: Concentration(1), Discipline(1), Perform(1), Spellcraft(1), Taunt(1), Save(7), <br/>\n39: Concentration(1), Discipline(1), Perform(1), Spellcraft(1), Taunt(1), Save(8), <br/>\n40: Concentration(1), Discipline(1), Perform(1), Spellcraft(1), Taunt(1), Save(9),</div>"
     },
     {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "1:59 PM - Feb 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Since you mentioned WoG, I'll go ahead and add this.\u00a0\u00a0<br/>\n<br/>\nI'd drop the last two Great Cons, for Epic penetration and a Mummy Meat Shield.\u00a0 This could just be my play style, but I find the enhanced meat shield with the fear aura more useful then the 40 hitpoints from the two great cons.\u00a0\u00a0<br/>\n<br/>\nHehe.. specially when you buff and invis the meat shield... fun to watch the fear aura run into the group and they all fear before they even knew it was there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Zanithar",
+      "avatar": "10759190_1575525433.jpg",
+      "timestamp": "1:21 AM - Feb 17, 2020",
+      "content": "<div>Can you add the form stats?  My experience with Shifters is limited and I am curious.<br/>\n<br/>\n<br/>\nSent from my iPhone using Tapatalk</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "3:02 PM - Feb 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>conlaoch wrote: <a data-post-id=\"19151\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19151&amp;sid=9077d58d4928dcc54c946f47fe96d8df#p19151\">\u2191</a><div class=\"responsive-hide\">Feb 18, 2020</div></cite>Since you mentioned WoG, I'll go ahead and add this.\u00a0\u00a0<br/>\nI'd drop the last two Great Cons, for Epic penetration and a Mummy Meat Shield.\u00a0\u00a0</div></blockquote>\nSounds like great fun<br/>\nCertainly achievable. I think Mummy dust requires Sorc 21+ so simply put Bard 16 to level 37+ and this should work, even with a releveling wand / Mulligan Stick<br/>\nCurious as to why its called a Mulligan Stick. Was it a coder by the name of Mulligan who scripted the item?\u00a0<br/>\n<br/>\n<strong>Edit:</strong><br/>\nI really like the idea of dropping those two great constitution feats for other stuff, its got enough HP already for a non-frontliner<br/>\nEpic Spell Penetration is a great choice, get that SP up to 30+1d20 for 5% failure against max toolset SR 32, you are a spell slinger at heart<br/>\nAs for the remaining feat I'm thinking ESF: Concentration, ESF: Listen, Brew Potion (to put True Strike, Death Armor, War Cry and Wounding Whispers on tap for your party), Epic Reflexes, Maximize/Still Spell, even toughness for zero net HP loss but extra HP for your polymorphed forms.<br/>\n<br/>\nBy the way the 'vanilla' Mummy Dust spell is simply awful.<br/>\nThe <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Warrior_lord\" rel=\"noreferrer\" target=\"_blank\">warrior</a>\u00a0has 13 hit die if my math is correct (143 HP / [10+1] = 13).\u00a0<br/>\nThe DC of the fear aura would be 10+ 4 (1/3 hit die) = 14.<br/>\nThey haven't posted the stats of the improved Mummy Dust on the WoG website, would be interesting to know.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "4:44 PM - Feb 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"19154\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19154&amp;sid=9077d58d4928dcc54c946f47fe96d8df#p19154\">\u2191</a><div class=\"responsive-hide\">Feb 18, 2020</div></cite>\nBy the way the 'vanilla' Mummy Dust spell is simply awful.<br/>\nThe <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Warrior_lord\" rel=\"noreferrer\" target=\"_blank\">warrior</a>\u00a0has 13 hit die if my math is correct (143 HP / [10+1] = 13).\u00a0<br/>\nThe DC of the fear aura would be 10+ 4 (1/3 hit die) = 14.<br/>\nThey haven't posted the stats of the improved Mummy Dust on the WoG website, would be interesting to know.</div></blockquote>\nBoth of the epic summons have been boosted, but the dragon gets stuck in doorways.. so I've avoided that one.\u00a0 \u00a0Though I did play on a world once that used a smaller model for the dragon summons.\u00a0 Was more the size of a slaad then a full blown dragon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:48 PM - Feb 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I find this an interesting thread with a bit unusual character concept and even a challenge! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nI looked back in my folders and found\n<details><summary>Spoiler</summary>Bard(16), Sorcerer(24), Human\n\nDEX: 16 (26)\nWIS: 8\nCHA: 16 (19)\n01: Bard(1): Curse Song, Lingering Song\n03: Bard(3): Weapon Finesse\n05: Bard(5)\n07: Bard(7)\n09: Sorcerer(1): Extend Spell\n11: Sorcerer(3)\n13: Sorcerer(4)\n15: Sorcerer(6): Spell Penetration\n17: Bard(10)\n19: Bard(11)\n21: Sorcerer(9): Epic Weapon Focus\n23: Sorcerer(10)\n25: Sorcerer(12)\n27: Bard(14): Epic Skill Focus: Discipline\n29: Sorcerer(15)\n31: Sorcerer(17)\n33: Sorcerer(18): Great Dexterity II, (DEX=23)\n35: Sorcerer(20)\n37: Sorcerer(22)\n39: Sorcerer(24): Epic Spell Penetration\n\n\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 35 (melee), 32 (ranged)\nSpell Casting: Bard(6),Sorcerer(9)\n\nConcentration 42(42), Discipline 43(53), Perform 26(30), Spellcraft 43(45), Taunt 43(47), Tumble 40(48), UMD 16(20)</details>\n\u00a0<br/>\nIt never became a candidate for the 40s section, but it can serve as a comparison here. My goal was to try to make a spellsword with undispellable Sorcerer magic and the lvl 16 Bard songs.<br/>\nI chose to let the mage part focus primarily on non save spells with the low DC and a fair chance to penetrate the standard item based SR 32. The combat part is dex based and AB is OK'ish. It\u00a0 improves with taunt and the songs active. Damage relies heavily on buffs.<br/>\nDamage shields work best in golem shape with the added immunities and hitpoints.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:21 PM - Feb 18, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That looks really cool Mick, and I did consider a Dex based Bard-o-sorcerer for a while, although I had a bow or crossbow in mind, in vanilla NWN these can't be buffed by GMW etc so your approach is probably more optimal there.<br/>\nI would be tempted to drop Dex to 14 (-1AB/-1AC) and put Cons to 14 and take Toughness instead of ESF: Discipline for instant +120hp to get him up to 312 base HP<br/>\nSuddenly with empowered Endurance active he looks like a very very very useful support character!<br/>\nCurse/Bard song is really strong, with +7 effective AB/AC that Base AB 34 is more like 41 AB<br/>\nThanks for digging this one up from your files, much appreciated<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Noctem",
-      "avatar": "10759073_1554507612.jpg",
-      "timestamp": "2:30 AM - Feb 20, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote: <a data-post-id=\"19154\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19154&amp;sid=9077d58d4928dcc54c946f47fe96d8df#p19154\">\u2191</a><div class=\"responsive-hide\">Feb 18, 2020</div></cite>\nCurious as to why its called a Mulligan Stick. Was it a coder by the name of Mulligan who scripted the item?\u00a0</div></blockquote>\nI assumed it was thus named because of the phrase \"taking a Mulligan\", which means to have a free second-chance at something, or a do-over.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Aquarius 233",
-      "avatar": "10714033_1519247364.jpg",
-      "timestamp": "7:43 PM - Feb 20, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah so here it is!<br/>\nThank you for having posted it, as you said I was eager to read how is the \"bard-orcerer\" v2!<br/>\nThis seems much more similar to the build I mentioned in my thread, as it is a support caster.<br/>\nI have reviewed mine and I think this is the best solution for this class combo as the feat-starveness makes very difficult to obtain the auto-still feats.<br/>\nTherefore, if one really wants to use the bard-orcerer as a spellsword, either one uses particular armors or accepts to bear the risk of spell failure (highly unlikely as we are talking about an half-caster).<br/>\n<br/>\nI would like to see him growing in a team (Bardorcerer team ;) )<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "4:21 AM - Feb 21, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">One of the benefits of forsaking weaponry is one can use some of those silly CEP fashion accessory weapons in battle whilst wearing the most outrageous robes<br/>\n<br/>\n<br/>\nSinging some outrageous lyrics...<br/>\n<br/>\nHe might be a few pegs short of a mandolin, but he's got enough strings for a harpsichord...<br/>\n<br/>\nHaven't thought of a smart line for Aquarius yet...<br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202002/10759084_82bf2be4b8f7ad2edb0f1b503096b7fc_t.jpg\" /></dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "SnorriHT",
+      "author": "gkorjax",
       "avatar": "no_avatar.png",
-      "timestamp": "5:49 AM - Feb 21, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've never thought of a Singer Spell-Slinger. A very cool build!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:46 AM - Feb 17, 2020",
+      "content": "<div>I am very curious about this build. A bard shifter is not something I\"m familiar with. I think it might bear some exploring, and I don't mean to offend, but what is trying to be accomplished with this build. I see that you say risen lord. The strategy is to buff up...and then shift into risen lord form?<br/>\n<br/>\nAlso...this much charisma doesn't seem to do much with this build?</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "6:03 AM - Feb 21, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>SnorriHT wrote: <a data-post-id=\"19232\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=19232&amp;sid=3f04ce1e78a96bf4ea6cf3d7fe72f70b#p19232\">\u2191</a><div class=\"responsive-hide\">Feb 21, 2020</div></cite>I've never thought of a Singer Spell-Slinger. A very cool build!</div></blockquote>\nThanks SnorriHT<br/>\n*It's fun RP, and it seems, good enough for WoG*<br/>\n<br/>\nThere are custom guitars one can equip as weapons<br/>\nCast flame weapon on it - flaming guitar!<br/>\nPity the combat animation isn't more visual<br/>\nWouldn't mind some smashed guitars a la Jimi Hendrix<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:25 AM - Feb 17, 2020",
+      "content": "<div>It looks very interesting to me for sure.<br/>\nWith so many shapes at your disposal that will be quite a few WWs one can cast.<br/>\nI liked the extend spell.<br/>\nMaybe even a brew potion. ? For buffing when shifted. I think WW is lvl3 <br/>\nWizard/Sorc would have more shields but...<br/>\nThe risen Lord singing a bard/curse song would be hilarious although a Kobold doing the same would be just as good<br/>\nThanks for (re)posting this cool idea</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "8:46 AM - Feb 17, 2020",
+      "content": "<div><blockquote><div>a Kobold doing the same would be just as good</div></blockquote>\n\nDeekin, is that you?</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "9:52 AM - Feb 17, 2020",
+      "content": "<div>I recommend dropping Great CHA 2 for Epic Reputation and ESF: Perform in order to further boost your bard song and Taunt. The +9 Perform and +3 Taunt will probably be more useful than the other bonuses from CHA.\u00a0Since you don't invest in Spot you should swap Artist for\u00a0SF: Perform in order to gain +1 Perform.<br/>\n<br/>\nLower UMD slightly so that you can put 43 points into Concentration and increase your Spellcraft to 43. Even if you won't be casting much mid-combat every caster needs Concentration. After adding the INT modifier 43 Spellcraft becomes 45 Spellcraft which gives an extra +1 to your saves vs spells.<br/>\n<br/>\nRisen Lords get 21 STR, 19 CON, and unchanged DEX.\u00a0They also get 50% Piercing DI and 50% Slashing DI which is the main advantage that this build has over a Bard/PM. [<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Undead_shape\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Undead_shape</a>]<br/>\n<br/>\nThe build is designed for party play, it covers both DR tanking and bard support. Wiz25/Dru5/Shif10 is a similar DR tank that relies on damage shields to kill opponents, although that doesn't have Bard Song or Taunt so it's not as useful in a party when shifted. Combining Bard Song, Curse Song, Taunt, damage shields, high DI, and 9/- physical DR makes for a nice alternative to a standard bard. The main downside with this build is that it's a shifter, so it has a lot of limitations that non-shifter bards don't have. The only ability choices for this build are increasing DEX for higher AC or increasing CHA for higher Perform and Taunt. Since this build focuses on using damage shields and bard song as a support DR tank the higher CHA makes more sense.<br/>\n<br/>\nThe DI combined with undead immunities is the reason for choosing Risen Lord over other shapes. Stone Golem is the only real alternative and building for that requires significant changes. Once the 3 Risen Lord shifts are used up then staying in gnome form will normally be a better option than shifting into another shape, although there are some exceptions such as using Wyrmling form for elemental DI.</div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "4:31 PM - Feb 17, 2020",
+      "content": "<div>Those are great suggestions <em class=\"mention\">@Yunim</em>, thank you!<br/>\n<br/>\n<em class=\"mention\">@Orion2019</em> brew potion is a good idea. I was thinking craft wand at first but you can't use wands while shifted. Completely forgot that brew potion existed. On the topic of more damage shields, many environments limit you to only 1, stripping previous shields as you cast new ones. <br/>\n<br/>\nI'll incorporate some of the ideas in here and post the full shifted stats (they're bad btw) when I get home from work in ~10 hours.<br/>\n<br/>\nAnd yes the main benefit of Risen is the damage resistance, and you merely buff yourself up then shift to tank for the party. <br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:32 AM - Feb 18, 2020",
+      "content": "<div>The risen Lord would be a more viable build,if there was a way to increase turn resistance,and if the bug (in my opinion) that occurs when turned. It lasts too long...at least 5 minutes of real life... actually, I have never seen it end...<br/>\n<br/>\nI still wish we could see some numbers... I don't recall my risen Lords going...past 37 ab, with not much ability to buff past that.<br/>\n<br/>\nSent from my Pixel 3 using Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:21 PM - Feb 18, 2020",
+      "content": "<div>Does turn undead go through mind immunity? (ie prot v evil, mind blank etc)<br/>\n<br/>\nAlso something I learned is that War Cry cannot be put on scrolls or wands, and Wounding Whispers cannot be put on wands, but both can be put on brew potion... Brew potion is clearly a more valuable feat therefore, for bards...</div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "3:57 PM - Feb 18, 2020",
+      "content": "<div><em class=\"mention\">@Orion2019</em>\u00a0, yes, Turn Undead will go through Mind Immunity.<br/>\n<br/>\nI always thought builds that focused on forms were extremely cool.\u00a0 The Risen Lord is no exception.\u00a0 And there have been quite a few over the years.\u00a0 I think you can even squeak out a few more AB by readjusting your pre-epic split.\u00a0 Currently you have Bard6/Shifter9/Druid5.\u00a0 This gives you a BAB of 13.\u00a0 If you go heavy in Bard up front, you could go Bard16/Druid4, and then at 21st level take your last Druid level and then commence with Shifter.\u00a0 The downside is Risen Lord comes much later.\u00a0 Or you could gain just one and get Risen Lord sooner by going Bard12/Druid5/Shifter3, and then gain Undead Shape at Level 27.<br/>\n<br/>\nJust an idea.\u00a0 Not sure how married you are to your original.\u00a0 My only issue with this, and it's more of a complaint with shifters in general, is that the ABs are much lower than they should be and, unless you're in a high magic world, it's hard as hades trying to keep it from flatlining.\u00a0 But your combination of Bard/Curse song will help a bit.\u00a0\u00a0<br/>\n<br/>\nBut also healing is an issue in Risen form.\u00a0 You have to Shift to heal and that can often be traumatic (dirtnap).\u00a0 Unless you got a cleric in your party who can hit you with some Harms from time to time.<br/>\n<br/>\nAs for your feat selection:\u00a0 if your specialty is Risen Lord, then I'd go all in.\u00a0 I would drop feats like Artist and Skill Focus Taunt and put in Weapon Focus: Scythe and Exotics.\u00a0 Your Taunt is already through the roof with high Charisma, ESF, Bard and Curse Song.\u00a0 Honestly, the only people who are going to have Concentration scores that high are casters who know their arse from a hole in the ground and otherworldly creatures, and in most cases you'll be able to hit them.\u00a0 I would also drop two great charismas and replace it with Epic Prowess and EWF: Scythe.\u00a0 I could see and argument for trying to sneak improved crit and armor skin in there, but there's really nothing left you can drop at that point.\u00a0 But as a bard, you can replicate improved crit by placing Keen spell on whatever druid or Bard weapon you're using (since it will transfer to your Risen Lord scythe).</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "7:40 PM - Feb 18, 2020",
+      "content": "<div>Even if this build is rebuilt for AB it will still have very low AB. I'm not sure if it's worth changing the build for the extra boost, especially since it will heavily impact the support abilities of the build.<br/>\nBard6/Dru5/Shif9 is the best pre-epic spread for saves and it also means that Undead Shape is achievable at level 21. Even if you change the pre-epic spread to Bard16/Dru4 and get weapon feats, with +12 STR the AB is limited to +49 self-buffed, excluding Curse Song and Taunt. This requires swapping at least 4 feats (2 pre-epic and 2 epic) and delaying Undead Shape to level 33, all of which will make for a weaker support build and a harder character to level.<br/>\n<br/>\nCurrent AB: 23 (BAB) + 11 (STR) + 5 (EB Bonus) + 2 (Warcry) + 2 (Bard Song) = +43<br/>\nMax AB: 25 (BAB) + 11 (STR) + 4 (Feats) + 5 (EB Bonus) + 2 (Warcry) + 2 (Bard Song) = +49</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "11:00 PM - Feb 18, 2020",
+      "content": "<div>Yunim, Curse Song and Taunt would drop enemy AC by up to -11 [assuming a level 25 Curse Song is not possible - if this is an incorrect assumption, then enemy AC up to -12].\u00a0<br/>\nBless and Aid potions are usually easy to obtain and would add +2 AB, although this is offset by Warcry not being able to cast polymorphed (unless you take Brew Potion)<br/>\nThe 'effective' AB would be better than you present although I agree will never compare with a proper built combat class which is what I believe you are trying to say.</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "12:13 AM - Feb 19, 2020",
+      "content": "<div>The trade-off is +6 AB vs 13 Perform, 7 Taunt, and easier levelling.\u00a0Increasing the AB is a good idea for a solo character but for a supporting DR tank it isn't as useful. If this was rebuilt to be a DEX focused solo character then I would agree with opting for AB over skills.</div>"
+    },
+    {
+      "author": "grizzled_dwarflord",
+      "avatar": "10758933_1548854436.jpg",
+      "timestamp": "12:42 AM - Feb 19, 2020",
+      "content": "<div>There may be a middle ground there.\u00a0 You can keep Risen Lord at Level 21, but pick up the WF feats for Scythe.\u00a0 Net +4 AB.\u00a0\u00a0</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "1:57 AM - Feb 19, 2020",
+      "content": "<div>Going Bard7/Dru5/Shif8 pre-epic gives +1 AB at the cost of -1 will (or Bard8/Dru5/Shif7 for -1 fort), that would let you take Undead Shape at level 24. If this was rebuilt for solo play then I would go with that pre-epic spread and also get weapon feats.<br/>\n<br/>\nI tested an alternate version and I realised that this build doesn't have any Tumble. I still think that you should increase Spellcraft to 43 but you should also add 15 Tumble so you can avoid AoOs while moving around. You will need to lower either Concentration or UMD to free up the needed skill points.</div>"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "3:06 AM - Feb 19, 2020",
+      "content": "<div>This all sounds pretty cool<br/>\nI liked the middle ground idea and putting tumble in the build<br/>\nOne can always 'switch off' tumble and dodge AC by making ones self flat footed by emptying the queue or taunting if damage shields are desired.<br/>\nOne of the downsides I can see is with a useful attack, one might want to squeeze in knockdown and possibly blind fight. <br/>\nHaven't done the math but hope there is space</div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "3:12 PM - Feb 19, 2020",
+      "content": "<div>There was tumble originally which is why the build has 40 spare skill points. I took it out because getting hit is one of it's \"strengths\".<br/>\n<br/>\nOn Grizz's level split. I think that could actually work well. You get risen later, but have a much better song early game and more spells to support with. You can probably even tank still with the high con.<br/>\n<br/>\nWould it be worth it to keep CHA at 16 max and pump some combat stats for playability?<br/>\n<br/>\nSent from my SM-G955U using Tapatalk<br/>\n<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "6:51 PM - Feb 19, 2020",
+      "content": "<div>This build already has Blind Fight but it doesn't have Knockdown. After including combat feats the only spare feats are Toughness or ESF: Taunt, so you will have to drop one of them if you want Knockdown.<br/>\n<br/>\nI tested a DEX focused solo version which is why I noticed that you don't have Tumble. Honestly I think you should stick with higher CHA if you change the build for solo play. Even if you build for AC it's still pretty mediocre (at least in a +5 AC environment), plus it makes your damage shields less useful and lowers both your Perform and Taunt.<br/>\n<br/>\nShifted AC (Assuming +12 DEX and one +5 AC item)<br/>\nCurrent AC: 10 (Base) + 5 (DEX) + 3 (Tumble) + 5 (AC Bonus) + 13 (Shape Dodge Bonus) +3 (Mage Armor) +5 (Bard Song) +1 (Haste) = 45<br/>\nDEX version AC: 10 (Base) + 11 (DEX) + 8 (Tumble) + 2 (Feats) + 5 (AC Bonus) + 13 (Shape Dodge Bonus) + 3 (Mage Armor) + 5 (Bard Song) + 1 (Haste) = 58</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "5:16 AM - Feb 20, 2020",
+      "content": "<div>Doesn't Haste give you +4 Dodge AC (which would stack with other Dodge AC up to +20 total Dodge AC)?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Yunim",
+      "avatar": "10759176_1572007808.png",
+      "timestamp": "8:24 PM - Feb 20, 2020",
+      "content": "<div>Both builds reach the dodge cap which is why Haste only adds 1 AC.</div>"
+    },
+    {
+      "author": "wildleaf",
+      "avatar": "10747696_1523894257.png",
+      "timestamp": "6:31 PM - Feb 23, 2020",
+      "content": "<div>I've made the suggested feat/skill adjustments to the build. I don't want to adjust the build to maximize AB as I don't think it is really worth it. Thank you everyone for the suggestions!</div>"
     }
   ]
 }

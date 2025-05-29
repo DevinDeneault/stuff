@@ -4,47 +4,152 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "940",
-  "name": "OC Melee Build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/oc-melee-build-t2354934.html",
-  "author": "Seikens",
-  "avatar": "no_avatar.png",
-  "replies": 5,
+  "name": "Divine Weapon Master",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/divine-weapon-master-t2354933.html",
+  "author": "eltalstro",
+  "avatar": "10758878_1582351977.jpg",
+  "replies": "21",
+  "views": "1.3K",
   "posts": [
     {
-      "author": "Seikens",
-      "avatar": "no_avatar.png",
-      "timestamp": "3:48 PM - Aug 05, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi, I just bought NwN EE and it's been a long time since I played this game. I'm looking to start playing the originial campaign in HC rules (maybe very difficult, but I don't know how hard it is) and without any henchman, since I prefer playing solo. I want to play a melee character, I like charging in a pack of enemies and doing a lot of damages and tanking. I dont like to play paladin or dwarf, so I'm probably gonna be playing a barbarian, fighter or sword master. But if you have a better suggestion, I'm open to it. For weapons I like to play with a two-handed weapon, but I don't mind playing with a shield if it what I need to stay alive. If I remember, playing with weapon&amp;shield is a lot better in NwN, but I might be wrong.<br/>\n<br/>\nThank you in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "1:21 PM - Aug 05, 2018",
+      "content": "<div>I've been trying to make a strong fighter/WM with either cleric or paladin build for PVM with Divine Might/ Shield. Finding it quite difficult. Is this a viable build? It seems to stretch the ability scores too broadly to make a strong toon. I was even going to make this my first build that I've actually typed out but it isn't quite making the cut in the arena.<br/>\n<br/>\n1) PvM<br/>\n2) Level cap 20<br/>\n3) Race preference: human<br/>\n4) Class preference: What I've been trying is Fighter (6) to cover the feats needed then WM (7) then either Paladin or cleric. Paladin takes ages to get Divine Might and Shield whereas you can do it with only 2 levels of Cleric but then you don't get Divine grace.\u00a0<br/>\n5) Melee preference - Trying to squeeze exotic and BS in there but might be better to go longsword. All the feats necessary for WM + power attack, cleave. Can't seem to squeeze blind fight in there.\u00a0<br/>\n6) Range preference NA<br/>\n7) Weapon preference - Bastard sword<br/>\n8) Maximum item enhancement Up to +5 for most items<br/>\n9) Spellcasting - No emphasis on casting as wisdom needs to stay low to get the necessary ability scores<br/>\n10) Custom factors - can't think of any<br/>\n<br/>\nAny ideas would be appreciated.</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "2:07 PM - Aug 05, 2018",
+      "content": "<div>Hey! If you're going for no spellcasting, I'd suggest a Fighter 9 WM 7 Paladin 4. That'd net you the most feats for the many things you wish to accomplish. However, if you ask me: is it really worth it on a level 20 cap? Probably not.<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:48 PM - Aug 05, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is a pretty strong build that I played in the OC and then Mines of Twin Summits (MTS), which brings the rest of the way to level 40. If you do decide to also play MTS, you might be better off choosing longsword instead of scimitar.\n<details><summary>Spoiler</summary>\nSinging Swordsman 3 (Fighter 14 / Bard 10 / Weapon Master 16)\nPlayable 1 - 40\n\nSTR: 16 (32)\nCON: 14\nINT: 14\n\nHuman: (Quick to Master)\n02: Bard(1)\n04: Fighter(3): STR+1, (STR=17)\n06: Fighter(5): Blind Fight\n08: Fighter(6): STR+1, Spring Attack, (STR=18)\n10: Fighter(8): Whirlwind Attack\n12: Bard(3): STR+1, Knockdown, (STR=19)\n14: Weapon Master(3)\n16: Weapon Master(5): STR+1, (STR=20)\n18: Weapon Master(6): Great Cleave\n20: Fighter(9): STR+1, (STR=21)\n22: Bard(5)\n24: Bard(6): STR+1, Great Strength I, (STR=23)\n26: Fighter(13)\n28: Fighter(14): STR+1, Devastating Critical: Scimitar, (STR=25)\n30: Weapon Master(9): Great Strength III, (STR=26)\n32: Bard(8): STR+1, (STR=27)\n34: Weapon Master(12)\n36: Weapon Master(14): STR+1, Great Strength V, (STR=30)\n38: Weapon Master(15)\n40: Bard(10): STR+1, (STR=32)\nStats:\nSkillpoints: 235\nSaving Throw bonuses: Spells: +9\nAB (max, naked): 47 (melee), 32 (ranged)\nSpell Casting: Bard(0)\n\nDiscipline 43(54), Intimidate 4(4), Listen 42(41), Lore 9(21), Perform 15(15), Spellcraft 43(45), Tumble 40(42), UMD 35(35)\n01: Discipline(4), Lore(4), Save(12)\n03: Discipline(1), Lore(2), Save(2)\n05: Discipline(1), Save(10)\n07: Discipline(1), Listen(5), Perform(5), Tumble(5), UMD(5)\n09: Discipline(1), Intimidate(2)\n11: Discipline(1), Listen(4), Save(4)\n13: Discipline(1), Listen(1), Save(3)\n15: Discipline(1), Listen(1), Save(9)\n17: Spellcraft(5), Tumble(5), UMD(10)\n19: Discipline(1), Listen(1), Lore(3)\n21: Discipline(1), Save(8)\n23: Discipline(2), Save(3)\n25: Discipline(1), Save(5)\n27: Discipline(1), Spellcraft(5), Tumble(5), UMD(5)\n29: Discipline(1), Listen(5), Save(3)\n31: Discipline(1), Save(11)\n33: Discipline(2), Listen(3)\n35: Discipline(1), Listen(1), Save(5)\n37: Discipline(1), Spellcraft(10), Tumble(5)\n39: Discipline(1), Listen(1), Save(4)</details>\nIn hindsight, I would move 5 points from Spellcraft to UMD, and the rest to Lore because MTS is a very high-magic environment. You will get enough saves boosts from gear that the saves boost from Spellcraft would be wasted (+20 total saves boost maximum).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Seikens",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:40 PM - Aug 05, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm actually only going to play OC with this character. Also, I don't know much about bard except they have a song that can buff, so I'm wondering what all those levels do?<br/>\nThanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:32 PM - Aug 05, 2018",
+      "content": "<div>It looks like you are trying to squeeze too much into a build, especially in only 20 levels. This is a very common mistake for players new to character building. Fighter plus Cleric or Paladin with Divine Might/Shield would work (and maybe a Tumble class). Fighter / Weapon Master and maybe a Tumble class would work.</div>",
+      "author-color": "#00AA00"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:01 PM - Aug 05, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Seikens,<br/>\n<br/>\nIf you are gonna play only the O.C then maybe you should look at the level 20 builds sub-forum first? <br/>\nPlenty of good builds there for the O.C or similar modules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:44 PM - Aug 05, 2018",
+      "content": "<div>You can do it, just barely though &amp; you won't have great hp's.<br/>\n<br/>\nI am gonna let you complete this yourself but here is the skeleton of the build.<br/>\n<br/>\nHuman, Fighter(8)/ Paladin(4)/ Wm(8)<br/>\n<br/>\nSTR:\u00a0 16 (<strong>18</strong>)<br/>\nDEX:\u00a0 13<br/>\nCON: 10<br/>\nINT:\u00a0\u00a0 13<br/>\nWIS:\u00a0 08<br/>\nCHA: 15 (<strong>18</strong>)<br/>\n<br/>\nFeats: Dodge, Mobility, Spring attack, Whirlwind attack, Expertise, Exotic weapons*, WF: Bastard sword, WS: Bastard sword<br/>\nIC: Bastard sword, Power attack, Divine might, Divine shield, Blind-Fight.<br/>\n<br/>\n*You can choose a Warhammer or Halberd as your weapon of choice instead, and also get Knockdown.</div>"
     },
     {
-      "author": "Grimnir",
-      "avatar": "10235237_1517392314.jpg",
-      "timestamp": "8:41 PM - Aug 06, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Barbarian splashed with occasional Rogue for Tumble and UMD, maybe search and remove traps. <br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "9:48 AM - Aug 06, 2018",
+      "content": "<div>Yeah, thanks guys it's pretty much as I figured from testing different options. My test builds went pretty good but not as well as say a RDD/Sor/Pal or a strong Pal/Clr/COT. I hadn't thought about raising strength though, Valerfor;\u00a0I'd just been pumping the charisma. I'll give that a try now and see how it works out.</div>"
     },
     {
-      "author": "Seikens",
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "10:58 AM - Aug 06, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nYou can do it, just barely though &amp; you won't have great hp's\".\n</div></blockquote>\nHeh heh heh... much better! Went with 5 Pal and 7 WM though as I couldn't figure out how to get both DM and DS with only 4 Pal levels. High AC and solid amounts of damage on 15-20 x3 crit with Divine Might on top. Only 200 hp but overall I like it. I've gotten quite used to maxing one category which is a bit limited so I wanted to try something a little more balanced but still get a strongish result out of it. I'm gonna keep tweaking this one. I was thinking about a regular\u00a0sword and board style but the BS is pretty devastating. This might be the next toon I play LOT with.\u00a0</div>"
+    },
+    {
+      "author": "Maximillian_Kane",
+      "avatar": "10758866_1605883460.jpg",
+      "timestamp": "11:48 AM - Aug 06, 2018",
+      "content": "<div><blockquote><div><cite>eltalstro wrote:</cite><blockquote><div><cite>Valerfor wrote:</cite>\nYou can do it, just barely though &amp; you won't have great hp's\".\n</div></blockquote>\nHeh heh heh... much better! Went with 5 Pal and 7 WM though as I couldn't figure out how to get both DM and DS with only 4 Pal levels. High AC and solid amounts of damage on 15-20 x3 crit with Divine Might on top. Only 200 hp but overall I like it. I've gotten quite used to maxing one category which is a bit limited so I wanted to try something a little more balanced but still get a strongish result out of it. I'm gonna keep tweaking this one. I was thinking about a regular\u00a0sword and board style but the BS is pretty devastating. This might be the next toon I play LOT with.\u00a0</div></blockquote>\n\nIn order to get DM and DS with just 4 Pal, you need to take Pal 3 on a general feat level, skip 2 levels, then take Pal 4 on another general feat level. E.G.: <br/>\n<br/>\n1- Pal (1) - Power Attack<br/>\n2- Pal (2)<br/>\n3- Pal (3) - Divine Might<br/>\n4- Fighter (1) - Expertise<br/>\n5- Fighter (2) - Dodge<br/>\n6- Pal (4) - Divine Shield.<br/>\n<br/>\nParticularly for this build, it doesn't really matter if it's Pal 5 / Fighter 8 or Pal 4 Fighter 9, since the level cap is 20. If you were to extend it to 40, then Pal 4 would be better, as you'd likely want a (few) fighter level (s) in epics for an (few) extra bonus feat (s).<br/>\n<br/>\nBut, let's leave it there for educational purposes anyway. Good hunting with this build!<br/>\n<br/>\n<br/>\nSent from my iPad using Tapatalk</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "12:14 PM - Aug 06, 2018",
+      "content": "<div>You can get both DM/DS with only four levels of Paladin, as Max says. The reason I went with (8/ 4/ 8) I think is because you get a slightly better reflex save that way, but this is a trivial matter, one can argue that Paladin 5 is better because you can max-out \"Taunt\" that way and so on...These things are better left to the individual that plays the build, as long as the core of the build is strong then slight variations are encouraged in order to make it your own.<br/>\n<br/>\nI am glad you are having fun eltalstro, that's what matters the most.</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "9:16 AM - Aug 11, 2018",
+      "content": "<div>Thanks, builders! Those were really helpful suggestions. I kinda like the low Con build on 'Very Difficult' because it adds some realism to the game in that if you take a hard critical you really get into trouble. It adds a serious challenge and make you really plan what you will do before each battle. I've been playing a Valkyrie themed build in Aielund and it has gone well with the Cleric henchman.</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "7:39 AM - Sep 02, 2018",
+      "content": "<div>I've been testing this build out in the OC on 'Very Difficult'. Not tough\u00a0enough to solo. One Critical hit from a tough enemy knocks her round pretty badly but she is very hard to hit. One curious thing that I have noticed is that Tomi (at level 8) has the same attack bonus (14/9) as my character does at\u00a0fighter 6, paladin 2. Tomi's BA is only 6 whereas my character has a BA of 8. Both are using +1 weapons. Unbuffed, Tomi has weapon finesse with his Kukri and +4 dex Bonus whereas my PC has +4 strength bonus. What gives? Surely there should be 2 points difference in the two characters attack rolls shouldn't there?<br/>\n<br/>\nRegards,<br/>\nEltalstro</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:55 PM - Sep 02, 2018",
+      "content": "<div>Tony is a halfling and gets +1 AB from his small size racial bonus. <br/>\nEdit: <br/>\nI take it you both have Weapon focus. Are you sure Tony's Dex is not 20?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "gkorjax",
       "avatar": "no_avatar.png",
-      "timestamp": "5:39 AM - Aug 08, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I read a little about MTS to see what it is, and it looked pretty good. After all, I think I will play the OC+MTS. I never try a module before, so I guess I should get into that.<br/>\nThanks for sharing your build Empyre65, I will probably play it with the suggested changes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:39 PM - Sep 02, 2018",
+      "content": "<div>Well...Tomi is a halfling and gets a +1 bonus to hit things because of that....that accounts for half of it...</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:04 PM - Sep 02, 2018",
+      "content": "<div>I think Mick is right about the Dex. I just fired up the OC and Tomi starts with a Dex of 18 (at least in my version), so at level 8 it should be 20. That would account for the other +1AB.<br/>\n<br/>\nOn another note, eltastro, are you actually using Tomi as your tank until your HPs develop? Blimey!<br/>\n<br/>\nEDIT: Sorry, misread the Tomi stats - he starts with a 17 Dex, but has a +1 Dex item on him that I can't see due to not being to access a henchie's inventory in the OC (I know you can get a mod for that, but I never travel with one there, so why would I bother?), because his stats are otherwise impossible</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "7:48 PM - Sep 02, 2018",
+      "content": "<div>Level 8 Tomi has 20 DEX (unmodified) *and* is wearing bracers of Dex+2. Just checked with the toolset.<br/>\nIn the OC, the henchmen do not really level up, but there is a blueprint for each \"version\" from level from 4 to 14.<br/>\nEDIT: The blueprints for the OC henchs are standard game resources and accessible from each module you open in the toolset. I could look up what feats Tomi does have if you guys are interested.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:16 PM - Sep 02, 2018",
+      "content": "<div>\"Checked with the toolset,\" eh? Never done that in my life (probably explains a lot). But, while that's brilliant info FG, it also raises another question - how the hell did he get that unmodified 20? As far as I can see, with a Str of 10, Con 16, Int 12, Wis and Cha of 10, the most you could get at the start is 17 Dex as a halfling, which would only give 19 unmodified Dex at level 8. Am I missing something?<br/>\n<br/>\nI know we're drifting a little from the initial thread here (I blame eltastro, he started this, after all), but yes, I'd be interested in Tomi's feats, thank you.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Freaky Grandma",
+      "avatar": "10758890_1523693739.jpg",
+      "timestamp": "9:08 PM - Sep 02, 2018",
+      "content": "<div>NPCs, including henchies, not necessarily stick to the rules, especially when there is a different blueprint for each level.<br/>\nChecked level 8 Tomi again.<br/>\nSTR 12, DEX 20, CON 16, INT 12, WIS 10, CHA 10<br/>\nFeats: Armor Profiency Light, Dodge, Evasion, Fearless, Lucky, Skill Affinity Listen, Skill Affinity MS, SA 4D6, Two-Weapon Fighting, Uncanny Dodge 2, Weapon Finesse, WP Exotic, WP Rogue.<br/>\nIt also appears that all henchmen are immune to the following spells: Charm Person, Charm Person or Animal, Dominate Person and Mass Charm (there is a \"Henchmen Properties\" Skin in the part of the inventory that is invisible to players, such hides grant special properties to creatures or NPCs or even the PC).</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:33 PM - Sep 02, 2018",
+      "content": "<div>NPC's in various games do not adhere to the rules, at least not all the time. I remember in Baldur's Gate Drizzt having character class \"innocent\" and equipped his armour on his head slot, as well as an illegal 10 attacks/round (made to impress and sure he did accomplish that). Daelan on Neverwinter Nights have an illegal amount of feats and so on...Heck, all the giants in Neverwinter Nights have their huge weapons wielded by one hand only and they never get the 1.5X multiplier...All this is alright, it's the stupid-beyond-belief henchmen A.I that ruins the game the most.</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "2:46 AM - Sep 03, 2018",
+      "content": "<div>Thanks Mick, I forgot about the racial bonus; that explains a +1 difference. Haha! No Stag, Verala Steelmaiden is doing ok as a low constitution tank (a what?). The henchmen tend to get absolutely owned by mobs on very difficult, so I put them on ranged only/run away when possible. Tomi has armour equipped that has a max dex bonus of 4 (indicated in red on his character sheet). When he uses ranged he also has +14/+9 attack bonus. Curiously, he is using \"Sharwyn's Shortbow +1\" but I guess he IS a thief. The way I see it, even with the racial bonus he should still be 1 lower on AB with the same +4 ability modifier for PC and hench of Str and Dex respectively. Of course, as has been noted (but I had not really considered), henchmen don't have to follow the rules in every case.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:51 AM - Sep 03, 2018",
+      "content": "<div>I see what is confusing you now. Tomi's armor limits his DEX bonus to +4 for AC, but he still gets the full +5 for his AB and Reflex saves.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:57 AM - Sep 03, 2018",
+      "content": "<div>Quick apology - I appear to recently have been missing your second \"l\" eltalstro. Sorry.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "11:21 AM - Sep 03, 2018",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\nI see what is confusing you now. Tomi's armor limits his DEX bonus to +4 for AC, but he still gets the full +5 for his AB and Reflex saves.\n</div></blockquote>\n\nHa! I've been playing this game for 15 years and I\u00a0didn't know that at all. Shows how often I play dex based characters. I've probably made more clerics than anything in my time and I've just always made sure any high dex characters have armour that doesn't lower the ability modifier.\u00a0I'll put the stats for the build, up to level 9, up shortly. I tried to do it tonight but what I've put into the CBC is slightly different to what I've done in-game. In-game I've managed to squeeze in all of the requirements for WM plus weapon specialisation,\u00a0power attack and improved crit bastard sword. I can't figure out how I managed to squeeze improved crit in there in the game as I can't get it to work out in the CBC. No time to play around with it right now. Looking at taking the 1st level of WM at level 10 with 8 levels of Fighter and 1 of Paladin. Thanks for the tips as always.<br/>\n<br/>\nCheers <br/>\nElatalstro</div>"
+    },
+    {
+      "author": "eltalstro",
+      "avatar": "10758878_1582351977.jpg",
+      "timestamp": "11:27 AM - Sep 03, 2018",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote:</cite>\nQuick apology - I appear to recently have been missing your second \"l\" eltalstro. Sorry.\n</div></blockquote>\n\nHa! No worries Stagemeister :) I hadn't even noticed.\u00a0</div>"
     }
   ]
 }

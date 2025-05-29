@@ -4,143 +4,55 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "030",
-  "name": "Tony K's AI and stealth",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/tony-k-s-ai-and-stealth-t2356174.html",
-  "author": "webshaman1",
-  "avatar": "10759110_1577099721.jpg",
-  "replies": 21,
+  "name": "Flank",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/flank-t2356189.html",
+  "author": "darktooth",
+  "avatar": "10759000_1542893921.jpg",
+  "replies": "6",
+  "views": "191",
   "posts": [
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "2:30 AM - Oct 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\"><strong><span style=\"color:#000000\">The first posts here are moved by Moderator Mick Dagger from the thread Gloom Razor of the Hin.</span></strong><br/>\n<br/>\n<br/>\nI'm coming back to this thread after a long hiatus, due to new changes on the PW where I play (World of Greyhawk).<br/>\n<br/>\nGloomrazer, as originally created by GDL, is no longer anywhere near as effective as it used to be due to activation of specific parts of Tony K's AI that makes breaking LoS (aggro) and Stealthing a problem (meaning it <strong><em>does not work!!!</em></strong>).\u00a0 As this new behavior did not exist before on WoG, it was not a problem.<br/>\n<br/>\nBut now it is, and it is a painful one.<br/>\n<br/>\nThe solution, is HiPS.<br/>\n<br/>\nSo, I am going with the Rogue/CoT/SD build, to see how it performs.\u00a0 I am selecting the Halfling build - Halfling (Rogue 25/FTR 14/SD 1) by Mithdradates, located here - <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build117502.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 17502.html</a><br/>\n<br/>\nMy question here is, should I continue with a report on how this build does in this thread (knowing full well that it is NOT a Gloomrazer)?\u00a0 Or should I put it somewhere else?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Sandii",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:58 AM - Oct 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello everyone,<br/>\n<br/>\nI think it would fit well here. I came across this build through various links and it is recommended as an entry-level build for Wog. I tested it into the late 30s and wasn't happy with the performance. As a comparison, I tested gloomstalker (link), which are similar in terms of talent adjustment (except for SC and better saves) and felt significantly better with hips.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "4:01 AM - Dec 19, 2023",
+      "content": "<div>These are questions which I haven't found answers in the wiki:<br/>\n<br/>\n1. How many enemies can flank a PC simultaneously in melee?<br/>\n2. Is it variable depending on creature size (enemy/PC) or weapon size/reach?<br/>\n3. If answer to second question is \u2018yes\u2019, how would one calculate the number of variably sized enemies that can all together flank a PC?<br/>\n4. Is there a limit to a number of ranged attackers that can flank a PC at the same time?</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "10:55 AM - Oct 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28664\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28664&amp;sid=05016c0a067ac78dcdaab43bc01ba1d3#p28664\">\u2191</a><div class=\"responsive-hide\">Oct 24, 2023</div></cite>I'm coming back to this thread after a long hiatus, due to new changes on the PW where I play (World of Greyhawk).<br/>\n<br/>\nGloomrazer, as originally created by GDL, is no longer anywhere near as effective as it used to be due to activation of specific parts of Tony K's AI that makes breaking LoS (aggro) and Stealthing a problem (meaning it <strong><em>does not work!!!</em></strong>).\u00a0 As this new behavior did not exist before on WoG, it was not a problem.<br/>\n<br/>\nBut now it is, and it is a painful one.<br/>\n<br/>\nThe solution, is HiPS.<br/>\n<br/>\nSo, I am going with the Rogue/CoT/SD build, to see how it performs.\u00a0 I am selecting the Halfling build - Halfling (Rogue 25/FTR 14/SD 1) by Mithdradates, located here - <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build117502.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 17502.html</a><br/>\n<br/>\nMy question here is, should I continue with a report on how this build does in this thread (knowing full well that it is NOT a Gloomrazer)?\u00a0 Or should I put it somewhere else?</div></blockquote>\nI will suggest that you make a new topic eg. in the general discussion forum where you describe the changes to the AI and how it affects stealth play. Then you can share your experiences with a HIPS build compared with a non-HIPS rogue build<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:18 AM - Dec 19, 2023",
+      "content": "<div>I'm sorry for not having exact numbers here. But there seems to be a limit to how many creatures that can actually attack you with melee weapons when you become swarmed. They form a circle around you, and those who are outside of that circle seem to stand there doing nothing, unless they attack you with a ranged weapon. You can actively manipulate how many melee creatures that can reach you by using choke points or by standing close to a wall or in a corner.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "12:52 PM - Oct 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What changes to the AI? I haven't detected any. I haven't seen any changes posted either. And I just played this not long ago and had zero issues....<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:21 PM - Oct 24, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>grizzled_dwarflord wrote: <a data-post-id=\"28670\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28670&amp;sid=05016c0a067ac78dcdaab43bc01ba1d3#p28670\">\u2191</a><div class=\"responsive-hide\">Oct 24, 2023</div></cite>What changes to the AI? I haven't detected any. I haven't seen any changes posted either. And I just played this not long ago and had zero issues....</div></blockquote>\nHere's the link to Web's recent thread over on the WoG site, where this gets an airing: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/another-example-of-sneak-wonkiness-t6239.html\" rel=\"noreferrer\" target=\"_blank\">Sneak Wonkiness</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "6:22 AM - Dec 19, 2023",
+      "content": "<div>I created a module that sets the PC start location on a flat terrain in the middle of a hostile swarm, with each creature identical to the PC in race and weapons (Of note is that PC is female, while enemies are male). Results vary each time the module is started, with attackers numbering in a range of 9 to 13. I guess results would also differ between phenotypes (different creatures in same size category, or male vs female of same creature type), and elevation of landscape.</div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:10 AM - Oct 25, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>grizzled_dwarflord wrote: <a data-post-id=\"28670\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28670&amp;sid=05016c0a067ac78dcdaab43bc01ba1d3#p28670\">\u2191</a><div class=\"responsive-hide\">Oct 24, 2023</div></cite>What changes to the AI? I haven't detected any. I haven't seen any changes posted either. And I just played this not long ago and had zero issues....</div></blockquote>\nI will name a specific area for you to test - Stone Giants.\u00a0 I suspect (it is my experiences and findings) that the activation of Tony K's \"Swarm\" AI feature (where nearby faction members can silently \"call\" for help, Rez fallen comrades, etc) is the main culprit here (and as it is active with Stone Giants, one gets a first hand experience with it).<br/>\n<br/>\nWhere my Gloomrazer (the one that I played to level 40 in this thread) was able to easily tronce the place, it now gets wrecked.\u00a0 Granted, I was not using Epic Traps, as I did not expect to have to.<br/>\n<br/>\nThe main problem being, first of all, that the Giants swarm you now, they cannot be \"plinked\" and then disposed of individually.\u00a0 That, in and of itself, would not be a serious problem, if not for the fact that ducking around a corner and hiding (activating sneak) DOES NOT WORK!!!!\u00a0 The aggroed opponents will continue right at you, regardless (and they even went through a field of Darkness as if it was not there! And no, they do not have Ultravision, vanilla TS, etc).\u00a0 The inclusion now of mighty (and many) spellcasters complicates the matter, due to the Eldar Riftlords bombing you with dispels, extremely high level Fingers of Death, Ice Storms, and total ignorance of stealth and any attempt to delay them.\u00a0 The Cyclops Warpriests are nasty, and rez constantly from the security of GS (that works, for them, but not for us Players).<br/>\n<br/>\nAs such, it is basically almost suicide for Gloomrazer to poke it's nose in there - not up to and including the Gates, but beyond that (where one runs into a literal HORDE of nasty opponents, just slavering to mash you into a pulp).<br/>\n<br/>\nHiPS, on the other hand, does not suffer from this, it shuts aggro down, IMMEDIATELY!\u00a0 That makes it possible to use the main weapons of the Gloomer - Crippling Strike, to reduce Str (and therefore combat effectiveness) AND gets the swarm to stop attacking all at once (not to mention breaking the spell targeting of spellcasters). It is this factor (and this alone) that has convinced me to go with a HiPS based Gloomy.<br/>\n<br/>\nNow, I am sure that oodles of Epic Trap fields would win the day - but that is not really a Gloomrazer highpoint (it is more a point of any build that can lay down such traps).<br/>\n<br/>\nNote that without the valuable feedback from sandii, I would have never experienced this, because I have already levelled Gloomrazer to 40 and saw no need to muck around in old stomping grounds.\u00a0 So a big thank you to sandii, for giving me this feedback, so that I could go there, test, and get totally wrecked...hehe.<br/>\n<br/>\nAnd by that, I mean like 10 times in a row (4 to Finger of Death, I know, I know, I roll 1s all the time, but still...meh) and the other 6 times just squashed like a bug.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:43 AM - Dec 19, 2023",
+      "content": "<div>I know you want a concrete number here, but you won't actually get that, because as you state, it depends on phenotype differences (size vs size) and weapon reach.<br/>\n<br/>\nAll I know is that one opponent won't get the Flank bonus (the one you are currently attacking).\u00a0 As for the rest, I have seen some really wild things involving size vs size in these respects, especially with the new sizes added in with the CEP.\u00a0 Weapon reach also seems to be a factor here - I've had such directly affect my PC (I couldn't actually attack a CEP Dragon due to not being able to get \"close enough\" to it for the weapon to actually attack when using a tiny weapon on a small Pheno PC).<br/>\n<br/>\nSo I am sure that weapon reach could be a factor as well here.</div>"
+    },
+    {
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "12:29 PM - Dec 19, 2023",
+      "content": "<div>Maybe an exact number can be determined, as suggested by these guides:<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/weapon-attack-distance-t2354532.html\" rel=\"noreferrer\" target=\"_blank\">weapon-attack-distance-t2354532.html</a><br/>\n<a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Combat+Ranges\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Combat+Ranges</a><br/>\n<a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Creature+Size\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Creature+Size</a></div>"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "5:37 PM - Oct 25, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, this new build (it's actually old) - Halfling (Rogue 25/FTR 14/SD 1) by Mithdradates, is performing way better than I expected (considering the beginning difficulties I had with Gloomrazer, this build just breezes through stuff).<br/>\n<br/>\nNow at level 20 (epic) where the fun starts...not meaning it was not fun to get here (because it was!).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:32 PM - Dec 19, 2023",
+      "content": "<div>I think this throws a perpetual monkey wrench in things <blockquote><div>The difference to CREPERSPACE helps weapons \"hit\" the target so they \"overlap\" a bit. Noting there are some times you can be quite far away from an target and still hit <em>due to tolerances to the attack ranges</em>. </div></blockquote>\n\nFrom <a class=\"postlink\" href=\"https://nwn.wiki/display/NWN1/Combat+Ranges\" rel=\"noreferrer\" target=\"_blank\">https://nwn.wiki/display/NWN1/Combat+Ranges</a></div>"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "7:31 PM - Oct 25, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Up to 23 now.\u00a0 Would be higher, but the PW crashed!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "6:20 PM - Oct 26, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, HiPS makes everything better. That\u2019s a no-brainer. We\u2019ve already built oodles of those things. <i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:52 PM - Oct 26, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"28664\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28664&amp;sid=05016c0a067ac78dcdaab43bc01ba1d3#p28664\">\u2191</a><div class=\"responsive-hide\">Oct 24, 2023</div></cite>\nGloomrazer, as originally created by GDL, is no longer anywhere near as effective as it used to be due to activation of specific parts of Tony K's AI that makes breaking LoS (aggro) and Stealthing a problem (meaning it <strong><em>does not work!!!</em></strong>).\u00a0 As this new behavior did not exist before on WoG, it was not a problem.<br/>\n<br/>\nBut now it is, and it is a painful one.<br/>\n<br/>\nThe solution, is HiPS.</div></blockquote>\nThe essential issue - for WoG at least - still remains, however. It surely can't be right that HiPS is now the only way to stealth successfully (and apparently GS doesn't work either)? How many builds does that trash? Certainly an awful lot of Dexers who have stealth but no Epic Dodge to assist them - and that comes at L27 at the earliest.<br/>\n<br/>\nDo we know if Improved Invisibility is still okay? Or - as another mitigator - Empty Body?<br/>\n<br/>\nIs anyone planning on fixing it, because I don't think this effect is what was desired?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:27 PM - Oct 26, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Improved Invis works as designed (as does Empty Body) - as long as the opponents do not have access to either See Invisibility (or an ability that is similar, like Creature Feats), or Invisibility Purge.<br/>\n<br/>\nAnd the negation of normal Stealth is only where the Swarm AI is active - I have tested this, and in areas of WoG where the Swarm AI part of Tony K's AI is not active, breaking LoS and Stealthing works normally.<br/>\n<br/>\nFazit: Avoid using Stealthing tactics where the Swarm AI is active - switch to a different one.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:29 PM - Oct 26, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My Gloomy Hazer is now level 29, has Crippling Strike, Epic Dodge, and HiPS...let the pain begin!\u00a0 Woooohooooo!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:12 PM - Oct 26, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, can't someone just turn off Swarm AI? I suppose I'm being too simplistic, and it would have other effects - the old \"butterfly flutters its wings in Japan, tsunami in Switzerland\" scenario.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:13 AM - Oct 27, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If this is a WoG problem, then it should definitely be addressed there. And I have noticed that there is a thread about it already in the WoG forum.<br/>\n<br/>\nI would guess that this issue may appear elsewhere too, where Tony's AI is involved. After all it has widespread use. So I welcome that we shed light on the issue here as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:48 AM - Oct 27, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">DM Wise has turned on Swarm AI in specific areas to heighten the difficulty level.<br/>\n<br/>\nThat, by itself, is working as designed.<br/>\n<br/>\nIt just means that some tactics that before were working, don't anymore.\u00a0 Adjust, adapt, conquer.<br/>\n<br/>\nSo, my Gloomy Hazer is performing perfectly, slaughtering those Stonies (and Eldar Riftlords, Cloppy Warpriests, etc) with impunity!\u00a0 Where Gloomrazer got trounced, Gloomy Hazer excells.\u00a0 Hurrah!\u00a0 Level 31 now.\u00a0 Just adding to AB and AC now (and getting skill areas up).<br/>\n<br/>\nFazit : HiPS combined with Crippling Strike and Epic Dodge is a game winner!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:50 AM - Oct 27, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"28687\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=28687&amp;sid=1272af15fc2aee7c4de4897b5d089181#p28687\">\u2191</a><div class=\"responsive-hide\">Oct 26, 2023</div></cite>So, can't someone just turn off Swarm AI? I suppose I'm being too simplistic, and it would have other effects - the old \"butterfly flutters its wings in Japan, tsunami in Switzerland\" scenario.</div></blockquote>\nNow, yes, if the Swarm AI feature is turned back off (it is blocked out by default iirc) then normal stealthing works as designed and the tactic of breaking LoS and then stealthing is back.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:01 PM - Oct 28, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm updating this with new information:<br/>\n<br/>\nDM Wise has done some testing on this, with the exact same creatures and place as I.<br/>\n<br/>\nIt was brought to my attention that a particular opponent (Eldar Riftlords, one can consider them Stone Giant Archdruids) may have a high enough Spot to detect Gloomrazer normal Stealth.\u00a0 Due to the AI changes for that area, i.e. Swarm AI, that creature can then \"impart\" this information to others of the same faction - sort of like it is directing the others to the place where they can see Gloomrazer as being.<br/>\n<br/>\nThis actually makes sense (to me) and I would not consider this to be a bug, if that is indeed what is happening.<br/>\n<br/>\nWhat it doesn't explain, however, is why my Gloomy Hazer (who uses HiPS in place of normal Stealth), who has far lower Stealth values (because it is \"only\" level 30), is not detected by these Eldar Riftlords, or, perhaps it is, and the function of HiPS is causing the AI to \"short circuit\" out of Spot.\u00a0 I know that the activation of HiPS <strong><em>immediately </em></strong>stops aggro.\u00a0 Does it also halt Spot checks as well?<br/>\n<br/>\nSo my question is, is there a Passive and an Active part of Stealth checking?\u00a0 And if there is, is the Passive checks then so much lower than the Active ones?<br/>\n<br/>\nI will be checking on the normal Stealth, boosting the 60s up to 100+, to see if this makes a difference (it should be impossible for anything to detect Stealth values over 100 without some sort of vanilla TS).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:33 PM - Oct 30, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">New updates:<br/>\n<br/>\nGDLs Gloomrazer will work in 99.99% of the areas of WoG as it is in his build.\u00a0 Only the Stone Giant Lair changes things, due to the whopping ability to spot those hiding.<br/>\n<br/>\nAt least, this is the direct feedback from DM Wise on that particular area and what is most likely happening.\u00a0 So Gloomrazer is probably going to need some major additions to the stealth area.\u00a0 One thing that will help is a Wand of Mass Camoflage (+10).\u00a0 My Gloomrazer has 60s in Stealth, so that would bump it up to 70s.\u00a0 Still not enough, apparently.\u00a0 So, any ideas other than using Stealth boosting items?\u00a0 I suspect having Stealth in the 100s should do the trick (though it might not, depending on how much Spot those Eldar Riftlords have).<br/>\n<br/>\nSince apparently HiPS shuts down the \"detection loop\", it basically cuts right through this type of Stealth detection, meaning there is no need for the above concerns (especially since it can be reactivated, even if it is on a timer on WoG).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "3:32 AM - Oct 31, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Without seeing the actual AI scripts I can't say for sure, but it's possible that this issue is due to NPCs not percieving that they can't percieve you.<br/>\n<br/>\nAll creatures in NWN have a perception list of creatures that they can see / hear.<br/>\nGenerally speaking, those perception lists are updated every 0.2 secs for PCs and every 4 secs for NPCs.<br/>\nHiPS will attempt to remove the sneaker from perception lists immediately when entering stealth mode, skipping the usual update delays.<br/>\n<br/>\nIf you're visible to an NPC and run around a wall then it can take up to 4 secs before the NPC realises that it can't actually see you since you're out of their line of sight.<br/>\nHowever if you have HiPS, run around a wall, and enter stealth mode then the NPC will immediately un-see you since you're out of their line of sight.<br/>\n<br/>\nVanilla AI (and possibly Tony K AI) only reacts to enemies that can be seen, it ignores enemies that are heard but aren't seen.<br/>\nSo once you HiPS after breaking LoS the NPCs can no longer see you and therefore stop attempting to attack you.<br/>\nHowever, when corner-sneaking NPCs will still try to attack you for up to 4 secs before realising they can't see you, possibly giving them time to get LoS on your character and actually see you.<br/>\nIf Tony K AI does react to heard enemies then anything within a roughly 20m radius (easily changed via 2da) can potentially be heard, even through walls.<br/>\nSo you would need to break LoS and be more than 20m away from any NPCs to be sure that you aren't detected.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "6:53 AM - Oct 31, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Understanding the detection mechanism that Yunim explains is indeed important here. <br/>\nThe great thing with HIPS is that it even works \"in plain sight\". <br/>\nThe 4 second delay for NPCs can be exploited by \"spamming\" HIPS, even with a character build with relatively low stealth skills.<br/>\nMany PWs have a cool down time on HIPS limiting it to eg. once per round.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Relka",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:55 AM - Nov 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What interesting insight into the game mechanics. If I understand correctly, the removal from the perception list will also empty the action queue of affected opponents ?<br/>\nThus wasting their current round of actions/attacks ?<br/>\n<br/>\nDoes the Spot check happen before that forced removal ? Meaning that with high enough skill, you could avoid that purging of the action queue and waste of attack rounds ?<br/>\nFrom my experience, it always seemed when faced with HiPS it was really hard to get my character to do anything, but maybe it was because of not high enough skills.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "12:08 PM - Nov 05, 2023",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, without a cool-down (timer) on HiPS, an exceptionally good Player (or the AI) can HiPS the Action Queue to death.<br/>\n<br/>\nBasically, immune to anything.<br/>\n<br/>\nIt works like this for a Player - Quickslot\u00a0 Attack and HiPS on the Quickbar by each other.\u00a0 I normally use slots 1 and 2.\u00a0 Then, I normally just put my left hand over the F1-F2 Keys, and toggle them like 1,2,1 - which will drop you out of Attack (because Attack used while Attacking de-selects it), and immediately enter you into HiPS then (because you cannot HiPS directly when attacking).\u00a0 The Attack then allows one to contine attacking from HiPS after emptying the enemy Action Queue.<br/>\n<br/>\nThis will even sort of work despite having a Timer, or Cooldown.\u00a0 One will not actually enter HiPS, but it will work to drop the Action Queue, forcing the opponent to \"fill it up\" again.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "darktooth",
+      "avatar": "10759000_1542893921.jpg",
+      "timestamp": "1:37 PM - Dec 19, 2023",
+      "content": "<div>The way I understood it, is that a small creature hitting from a distance of 0.3 with weapon reach of 1.1, forms a circle with a 1.4 radius\u2014a distance that enemies of similar size and reach can maintain in order to attack the former. Since each of them occupy a space with radius of 0.25, it would take a maximum of roughly 17 creatures that can attack a single similarly sized target simultaneously. There would be overlap in each attacker\u2019s CREPERSPACE. I could be wrong though.</div>"
     }
   ]
 }

@@ -4,41 +4,48 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "348",
-  "name": "I need a build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/i-need-a-build-t2349806.html",
-  "author": "Sycostick",
+  "name": "Build Request: Graveyard Champion (1-20)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-request-graveyard-champion-1-20-t2349656.html",
+  "author": "C1QP0X",
   "avatar": "no_avatar.png",
-  "replies": 4,
+  "replies": "5",
+  "views": "564",
   "posts": [
     {
-      "author": "Sycostick",
+      "author": "C1QP0X",
       "avatar": "no_avatar.png",
-      "timestamp": "6:39 PM - Feb 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I had took one years ago and made it my own... I dont remember all the skill and prereqs and the sort so I need help.<br/>\nCan someone make me a Rogue/assassin/ Shadowdancer<br/>\nBut I want ranged, so probably best to be elf. I remember being a paid assassin on a rp server and would stalk targets, being able to one shot them.<br/>\nIve spent the last few hours trying to create one, but its not doing what I want.. Its just been way to long since Ive played to remember all the feats and how everything works lol.<br/>\nDefinitely longbow, I remember having more assassin then anything, but the build at the time might not have been as good as it could have been.<br/>\nAlso wouldnt mind some pickpocket, but if that ruins the overall build its not a biggy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:44 PM - Feb 09, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Show us your build, then perhaps we can help you make it work. More assassin than the other classes sounds right.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:15 AM - Feb 06, 2014",
+      "content": "<div>I'm wanting to make another build for the level 20 section. Does anyone have any decent ideas for a level 20 version of <a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build303254.html\" rel=\"noreferrer\" target=\"_blank\">The Charnel Lord by grizzled_dwarflord</a>? I just want to stay true to the whole melee PM ideal.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "12:03 AM - Feb 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't mind building it for you, but I need more to go on than just the classes. For starters, is it lvl 40? If not, what is it?<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/tiny-reaper-rogue-13-shadowdancer-1-assassin-26-t515504.html\" rel=\"noreferrer\" target=\"_blank\">The Tiny Reaper</a><br/>\n<br/>\nYou could also use Grim's build as a basis and just change the melee combat feats for ranged combat feats. Be mindful that Dodge and Mobility are requirements for SD so you have to keep those.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:01 AM - Feb 06, 2014",
+      "content": "<div>Well, the thing about the Charnel Lord is that it spends its pre-epic life building up a 16 BAB to be able to have 4 attacks per round. For that intent, he needed 12 Fighter levels. For a level 20 environment, you need to figure out what's more important to you: having 4 APR or being immune to criticals. Because you'll need 13 levels AT LEAST, 14 ideally for a last skill dump to have critical hit immunity, which will significantly lower your BAB. You'll lose 5 points from PM alone, plus one from Bard. So from 20 BAB, you'll have 14. Worse base AB than a Cleric, and Clerics can buff it, Fighters can't.<br/>\n<br/>\nThere are some builds that don't adapt well in a level 20 environment, and to me this is one of them.<br/>\n<br/>\nTake it EZ!</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "12:14 AM - Feb 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you'd like, I could post a Rogue 16 / Wizard 2 / Arcane Archer 22 I played. I know that it's not the classes you asked for, but it's a pretty good archer, and the Rogue skills can be tweaked to fit your style. Another idea would be Bard / Assassin / AA.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Sycostick",
+      "author": "C1QP0X",
       "avatar": "no_avatar.png",
-      "timestamp": "1:17 AM - Feb 10, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">actually that tiny reaper build looks cool, and should be easy enough to switch out feats for longbow. Thanks alot guys. It will be awhile before I get up to see some real damage on the server im playing on. Especially now that im in jail for 2 RL days lmao. But Im going to go for it and let you all know. I have to tweak alittle bit for sub race and server rule set but should work out good.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:34 AM - Feb 09, 2014",
+      "content": "<div>Well, what do you think about ranged? Like, maybe a sling and shield with rapid shot. Do you see any potential there?</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "11:57 PM - Feb 09, 2014",
+      "content": "<div>Nope.<br/>\n<br/>\nI don't see what an archer would benefit from critical hit immunity. Archers generally get hit by spells or by other archers. Spells don't do critical hits, and bows have a low chance of critting anyway. <br/>\n<br/>\nTell me something you want that is feasible and we will do it, but you must consider that for level 20, MANY THINGS change.<br/>\n<br/>\nTake it EZ!</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "2:54 AM - Feb 10, 2014",
+      "content": "<div>Your best bet at level 20 is to try and make a (Fighter 6/Bard 4/PM 10) if you want to follow Dwarflord's build. <br/>\n<br/>\nThe build will give you basically +6 AC more (and full tumble too) along with critical hits/sneak attack/paralysis/hold immunities.<br/>\n<br/>\nIt will have though a low (by warrior's standards) base AB of 14 and restrict your base attacks to 3. Still not a bad idea if you are focused to defensive play.<br/>\n<br/>\nTo make it work, start with a very high strength (17 or 19 if half-orc) and take exotic weapon proficiency with a bastard sword. Every bit counts at these levels.<br/>\n<br/>\nStrap a tower shield on your off-hand and you are ready to go. The final AB and damage will not be that bad since you will also have UMD to boost your melee abilities with darkfire, holy sword, bless weapon, GMW, Keen edge e.t.c<br/>\n<br/>\n********************* <br/>\n<br/>\nBut i want to bring into consideration another route you can go instead of the undead warrior. The dragonic one and namely the (Fighter 8/ Bard 2/ RDD 10) build.<br/>\n<br/>\nIn comparison to the PM, this guy has 2 less AC and no immunitie to sneak attacks/critical hits but hits like a truck, has 4 attacks/round and also have a huge AB all of his own. He still has all the other tricks the PM has and a very useful immunity to fire damage too. <br/>\n<br/>\nIf you think about it, only very few enemies will be able to hit you at those levels with either of those builds (more like AA's or Bosses) since RDD gets a pretty good AC boost as well, provided you keep a tower shield on your off-hand and the elemental fire immunity is very handy to have. The main difference is that this build will give you awesome damage as well. You still have UMD here as well.<br/>\n<br/>\n********************<br/>\n<br/>\nSo to capitalize, if you are into an RP concept specific to an undead warrior then go with the PM, but if that isn't your primary reason i would go with the RDD without a second thought.<br/>\n<br/>\nThere is a reason why RDD builds are so damn popular, especially in pre-epic environments.</div>"
+    },
+    {
+      "author": "C1QP0X",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:28 PM - Feb 12, 2014",
+      "content": "<div>I'll put a few variations up sooner or later. Thank you folks for the sound advice.</div>"
     }
   ]
 }

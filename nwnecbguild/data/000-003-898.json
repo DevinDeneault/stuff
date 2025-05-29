@@ -4,65 +4,61 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "898",
-  "name": "M.A.D. Elf - Sanctimonious Murder Hobo: Rogue 26 / CoT 10 / Paladin 4",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/m-a-d-elf-sanctimonious-murder-hobo-rogue-26-cot-1-t2355006.html",
-  "author": "EasternPromises",
-  "avatar": "10759017_1547723389.jpg",
-  "replies": 8,
+  "name": "Kind of Assassin build request.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/kind-of-assassin-build-request-t2355010.html",
+  "author": "Ketsu",
+  "avatar": "10759038_1548721289.jpg",
+  "replies": "7",
+  "views": "164",
   "posts": [
     {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "9:33 PM - Jan 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good morning ECB,<br/>\n<br/>\nI have a fun combo for all of you, one that I designed to murder hobo away in mid to high magic settings. I have fighter AB, epic dodge, 14d6 sneak attack w/ crippling strikes, Paladin saves + evasion, divine might+shield, UMD, and 6 (7 w/ haste) attacks per round base. Load up with weapon enchantment / DP scrolls, throw up divine might, and surprise unsuspecting NPCs with the wrath of murder hobo. <br/>\n<br/>\nOh, you can also do lots of trap stuff.<br/>\n<br/>\nPaladin(4), Champion of Torm(10), Rogue(26), Elf<br/>\n\u00a0<br/>\nSTR: 14<br/>\nDEX: 18 (34)<br/>\nCON: 8<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 14<br/>\n\u00a0<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Rogue(1): Power Attack<br/>\n02: Rogue(2): {Evasion}<br/>\n03: Rogue(3): Weapon Finesse, {Uncanny Dodge I}<br/>\n04: Paladin(1): DEX+1, (DEX=19)<br/>\n05: Paladin(2): {Smite Evil}<br/>\n06: Paladin(3): Divine Might<br/>\n07: Rogue(4)<br/>\n08: Rogue(5): DEX+1, (DEX=20)<br/>\n09: Rogue(6): Weapon Focus: Shortsword<br/>\n10: Rogue(7)<br/>\n11: Rogue(8)<br/>\n12: Champion of Torm(1): DEX+1, Ambidexterity, (DEX=21)<br/>\n13: Champion of Torm(2): Two-Weapon Fighting<br/>\n14: Champion of Torm(3)<br/>\n15: Champion of Torm(4): Improved Critical: Shortsword, Improved Two-Weapon Fighting<br/>\n16: Champion of Torm(5): DEX+1, (DEX=22)<br/>\n17: Champion of Torm(6): Blind Fight<br/>\n18: Paladin(4): Divine Shield<br/>\n19: Champion of Torm(7)<br/>\n20: Champion of Torm(8): DEX+1, Knockdown, (DEX=23)<br/>\n21: Champion of Torm(9): Epic Weapon Focus: Shortsword<br/>\n22: Champion of Torm(10): Epic Prowess<br/>\n23: Rogue(9)<br/>\n24: Rogue(10): DEX+1, Great Dexterity I, Defensive Roll, (DEX=25)<br/>\n25: Rogue(11)<br/>\n26: Rogue(12)<br/>\n27: Rogue(13): Great Dexterity II, Improved Evasion, (DEX=26)<br/>\n28: Rogue(14): DEX+1, (DEX=27)<br/>\n29: Rogue(15)<br/>\n30: Rogue(16): Great Dexterity III, Epic Dodge, (DEX=28)<br/>\n31: Rogue(17)<br/>\n32: Rogue(18): DEX+1, (DEX=29)<br/>\n33: Rogue(19): Great Dexterity IV, Crippling Strike, (DEX=30)<br/>\n34: Rogue(20)<br/>\n35: Rogue(21)<br/>\n36: Rogue(22): DEX+1, Great Dexterity V, (DEX=32)<br/>\n37: Rogue(23)<br/>\n38: Rogue(24): Improved Sneak Attack I<br/>\n39: Rogue(25): Great Dexterity VI, (DEX=33)<br/>\n40: Rogue(26): DEX+1, (DEX=34)<br/>\n\u00a0<br/>\nHitpoints: 256<br/>\nSkillpoints: 346<br/>\nSaving Throws (Fortitude/Will/Reflex): 28/21/42<br/>\nSaving Throw bonuses: Mind Effects: +2, Traps: +5<br/>\nBAB: 28<br/>\nAB (max, naked): 44 (melee), 41 (ranged)<br/>\nAC (naked/mundane armor/shield only): 30/33<br/>\nSpell Casting: <br/>\nAlignment Changes: 0<br/>\n\u00a0<br/>\nDisable Trap 43(47), Hide 43(55), Move Silently 43(55), Open Lock 16(28), Search 38(42), Set Trap 31(45), Spot 43(44), Tumble 40(52), UMD 43(45), remaining skillpoints 6<br/>\n<br/>\n<br/>\nSome changes you might consider: human, getting Discipline and taunt with a paladin level at the end, IKD, and upping CON for more HP. Lots to chew on here hopefully!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Thorsson",
-      "avatar": "10758835_1513245773.jpg",
-      "timestamp": "11:20 PM - Jan 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How do you land the sneak attacks, i.e. how do you make opponents flat-footed?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "11:49 PM - Jan 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have hide this time! UMD+Darkness/ultra. I have AB enough to actually knock people down as well. I guess that would encourage IKD then, which I would give up DS for. That means another level of CoT preepic and rogue 27.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "1:52 AM - Jan 29, 2019",
+      "content": "<div>Hello there! I'm very new in character building and this guild is best place to find advices in this question. I want to make assassin with my lovest weapon scythe so it should be STR-based build. Also, he gonna HiPS every fight exclude true seers, I know the biggest weak this type of builds (AC of course). <br/>\nOther options:<br/>\n1) PvM 1-40. <br/>\n2) Reach the HiPS as early as possible.<br/>\n3) Human or Elf (maybe halfelf). <br/>\n4) Mid-High magic environments. <br/>\n5) High death attack DC. <br/>\n6) No need spells, I can use scrolls and wands. <br/>\n<br/>\nSo I'm opened for every ideas...</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:42 AM - Jan 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yup, drop DS (you already have good AC plus ED) and take IKD so you can generate lot's of sneaks consistently and never let'em get up.<br/>\nYour AB can support this play-style.<br/>\n<br/>\nEdit: Heck, since you min-maxed your stats already, I would even consider going Str(10)/Cha(16) for more duration/charges.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:21 AM - Jan 29, 2019",
+      "content": "<div>Hi Ketsu,<br/>\nTake a look at this, you can change the TWF feats to get Exotic Proficiency easily (there are plenty of them).<br/>\n<br/>\nAssassin King =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build212244.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 12244.html</a></div>"
     },
     {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "1:29 AM - Jan 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Divine might needs 13 str or I'd be a kukri halfling by now :)<br/>\n<br/>\nI built this guy to punish Pale Masters and liches as well as crit vulnerable opponents.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "3:00 AM - Jan 29, 2019",
+      "content": "<div>It's very close to my thoughts. Actually, my character won't to wear any armor in roleplay. He just a shadow assassin with the magic dire scythe, I'm not sure how to realize that in nwn. If it not possible i would try Assassin King, he looks badass</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:30 AM - Jan 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Haha, I was surprised that you weren't in the first place, but I missed the PA(13,Str)<br/>\nNeed coffee!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "4:20 AM - Jan 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's the ultra M.A.D. version. I played this guy for fun through HotU because campaigns never dispell, require you to unlock everything, and because I thought it was funny.<br/>\n<br/>\n<br/>\nMonk(6), Cleric(13), Rogue(21), Human<br/>\n\u00a0<br/>\nSTR: 14<br/>\nDEX: 14 (26)<br/>\nCON: 8<br/>\nWIS: 14 (16)<br/>\nINT: 14<br/>\nCHA: 14<br/>\n\u00a0<br/>\nHuman: (Quick to Master)<br/>\n01: Cleric(1): Extend Spell, Power Attack, Domain Trickery, Domain Animal<br/>\n02: Cleric(2)<br/>\n03: Cleric(3): Divine Might<br/>\n04: Cleric(4): WIS+1, (WIS=15)<br/>\n05: Cleric(5)<br/>\n06: Cleric(6): Empower Spell<br/>\n07: Cleric(7)<br/>\n08: Cleric(8): WIS+1, (WIS=16)<br/>\n09: Cleric(9): Weapon Finesse<br/>\n10: Cleric(10)<br/>\n11: Cleric(11)<br/>\n12: Cleric(12): DEX+1, Blind Fight, (DEX=15)<br/>\n13: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n14: Rogue(1)<br/>\n15: Monk(2): Weapon Focus: Kama, {Deflect Arrows}<br/>\n16: Rogue(2): DEX+1, (DEX=16)<br/>\n17: Rogue(3): {Uncanny Dodge I}<br/>\n18: Monk(3): Improved Critical: Kama<br/>\n19: Monk(4)<br/>\n20: Rogue(4): DEX+1, (DEX=17)<br/>\n21: Rogue(5): Epic Weapon Focus: Kama<br/>\n22: Monk(5)<br/>\n23: Monk(6): {Knockdown, Improved Knockdown}<br/>\n24: Rogue(6): DEX+1, Armor Skin, (DEX=18)<br/>\n25: Rogue(7)<br/>\n26: Rogue(8)<br/>\n27: Rogue(9): Great Dexterity I, (DEX=19)<br/>\n28: Rogue(10): DEX+1, Improved Evasion, (DEX=20)<br/>\n29: Rogue(11)<br/>\n30: Rogue(12): Great Dexterity II, (DEX=21)<br/>\n31: Rogue(13): Defensive Roll<br/>\n32: Rogue(14): DEX+1, (DEX=22)<br/>\n33: Rogue(15): Great Dexterity III, (DEX=23)<br/>\n34: Rogue(16): Epic Dodge<br/>\n35: Rogue(17)<br/>\n36: Rogue(18): DEX+1, Great Dexterity IV, (DEX=25)<br/>\n37: Rogue(19): Improved Sneak Attack I<br/>\n38: Rogue(20)<br/>\n39: Cleric(13): Epic Prowess<br/>\n40: Rogue(21): DEX+1, (DEX=26)<br/>\n\u00a0<br/>\nHitpoints: 238<br/>\nSkillpoints: 353<br/>\nSaving Throws (Fortitude/Will/Reflex): 22/26/30<br/>\nSaving Throw bonuses: Spells: +8, Mind Effects: +2, Traps: +5<br/>\nBAB: 25<br/>\nAB (max, naked): 37 (melee), 34 (ranged)<br/>\nAC (naked/mundane armor/shield only): 32/32<br/>\nSpell Casting: Cleric(6)<br/>\nAlignment Changes: 0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:59 AM - Jan 29, 2019",
+      "content": "<div>You can \"craft\" your armour to look like you don't wear anything heavier than leather, for sure.<br/>\nMany PW's also support advanced crafting options with pieces other than the default ones.</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:53 PM - Jan 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>EasternPromises wrote:</cite>\nHere's the ultra M.A.D. version. I played this guy for fun through HotU because campaigns never dispell, require you to unlock everything, and because I thought it was funny.<br/>\n<br/>\n<br/>\nMonk(6), Cleric(13), Rogue(21), Human<br/>\n\u00a0<br/>\nSTR: 14<br/>\nDEX: 14 (26)<br/>\nCON: 8<br/>\nWIS: 14 (16)<br/>\nINT: 14<br/>\nCHA: 14<br/>\n\u00a0</div></blockquote>\nWith 13 cleric levels you should be able to cast lvl 7 spells. But then you need Wis 17.<br/>\nThe normal standard for \"econo\" clerics is to take 15 levels for the +5 to many buffs.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:12 PM - Jan 29, 2019",
+      "content": "<div>If you can reach dex 18 with buffs or items: Then your AC with a chain shirt or scale mail will be only 1 down compared with full plate. What you gain is a reduction in armor check penalty from -8 with full plate to -2 with chain shirt or scale mail, equal to a +6 to stealth skills. You also get a bonus to stealth from the extra dex you have added.<br/>\n<br/>\nIf you only change the \"robe\" of your armor, you don't need any crafting skills at all, and it's free.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "EasternPromises",
-      "avatar": "10759017_1547723389.jpg",
-      "timestamp": "8:05 PM - Jan 25, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good catch Mick, thanks. The idea indeed is to buff every stat to cap. Taking a break from more serious building and enjoying some single player modules.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "2:59 PM - Jan 29, 2019",
+      "content": "<div>Thanks for reply, guys. I found out another sad thing, assassin king have not any pre-epic stealth (penalties from plate) except invis and darkness which mean toe to toe playstyle \u00a0until lvl 22. It's not crucial but sneaking is more enjoyable. I think about ranger instead of fighter but there is less amount of feats i don't know. If you tell me to keep standing this fighter way i will do</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:35 PM - Jan 29, 2019",
+      "content": "<div>Change the feats in the following way:<br/>\n<span style=\"text-decoration:underline\">Level Guide</span><br/>\n1 Fighter1, Dodge, Mobility, <em><strong>Exotic weapon Proficiency</strong></em><br/>\n2 Fighter2, Knockdown<br/>\n3 Fighter3, Weapon Focus: <em><strong>Scythe</strong></em><br/>\n4 Fighter4, WS: <em><strong>Scythe</strong></em>, Str17<br/>\n5 Fighter5<br/>\n6 Fighter6,\u00a0<em><strong>Stealthy</strong></em>,<em> <strong>Improved Knockdown</strong></em><br/>\n7 Fighter7<br/>\n8 Fighter8, <em><strong>Improved Critical: Scythe</strong></em>, Str18<br/>\n9 Fighter9, <em><strong>Skill Focus: Hide</strong></em><br/>\n10 Fighter10, <em><strong>Blind-Fighting</strong></em><br/>\n11 Fighter11<br/>\n12 Fighter12, <em><strong>Skill Focus: Move silently</strong></em>, <strong><em>Expertise</em></strong>, Str19<br/>\n13 Fighter13, (crossclass Hide/Move Silently 8 )<br/>\n14 Assassin1<br/>\n15 Assassin2, <em><strong>Toughness</strong></em>, (Ghostly Visage)<br/>\n...<br/>\nAt level 14, without buffs whatsoever, you'll have 22(24) ranks in both Move Silently &amp; Hide. <br/>\nIf we take the worst case scenario &amp; say you'll stay in full plate that is modified to (16) Stealth which isn't exactly bad for that level.<br/>\nAt level twenty comes Invisibility &amp; at level twenty-one here comes HiPS as well, following with Improved Invisibility at level twenty-three.<br/>\nUntil level fourteen you can \"mimic\" the Assassin's play-style with potions of Invicibility, suddenly appearing from nowhere &amp; then executing an Alpha-strike with IKD.</div>"
+    },
+    {
+      "author": "Ketsu",
+      "avatar": "10759038_1548721289.jpg",
+      "timestamp": "3:41 PM - Jan 29, 2019",
+      "content": "<div>Woah this guide is very helpful, thank you Valerfor</div>"
     }
   ]
 }

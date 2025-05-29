@@ -4,41 +4,42 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "286",
-  "name": "Curious.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/curious-t515501.html",
+  "name": "Testing Module.",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/testing-module-t515514.html",
   "author": "NwnwhiteBoy",
-  "avatar": "10235214_1540245864.jpg",
-  "replies": 4,
+  "avatar": "no_avatar.png",
+  "replies": "4",
+  "views": "555",
   "posts": [
     {
       "author": "NwnwhiteBoy",
       "avatar": "no_avatar.png",
-      "timestamp": "7:58 AM - Oct 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I'v been wondering, in the NWN campaign, how do you make a character build such as a Paladin, BG? I Know you can slowly change your alignment with some actions (and DM_ commands of course), but is it really feasible to want to build a character that requires a alignment change? (unless you want to use DM_ commands.)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:43 PM - Oct 16, 2011",
+      "content": "<div>Was wondering what testing modules are the best to text in because I actually haven't got one, was hoping you guys/girls could give me a few to try out? <br/>\n<br/>\nI'll probably be making mostly level 30 builds if it makes a difference.<br/>\n<br/>\nTIA!</div>"
     },
     {
-      "author": "avado",
+      "author": "Atypical",
       "avatar": "no_avatar.png",
-      "timestamp": "8:07 AM - Oct 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I am not sure how many ECBers actually have played the OC and remember it!  The OC is more of an introduction to the game than a challenge to your abilities.<br/>\n<br/>\nThe paladin/bg build is really about maximizing charisma and getting really really stupid base saves (the feat from paladin and black guard are NOT the same for some reason, so they stack).  Other than that, you will get a much better character doing a paladin/rog or blackguard/fighter type of thing.  <br/>\n<br/>\nUnless, that is, that I have missed something that you see in the idea!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:09 PM - Oct 16, 2011",
+      "content": "<div>I've used the Halls of Advanced Training for a few characters, but it seems to only go up to level 20.<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Modules.Detail&amp;id=4215\" rel=\"noreferrer\" target=\"_blank\">This module</a>, however, scored very highly. I haven't tried it personally, but others seem to vouch for it.</div>"
     },
     {
       "author": "NwnwhiteBoy",
       "avatar": "no_avatar.png",
-      "timestamp": "11:06 AM - Oct 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, good to know!! <br/>\nThanks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:26 PM - Oct 16, 2011",
+      "content": "<div>I shell give it ago! <br/>\n<br/>\nVery much appreciated!  Thank you.</div>"
     },
     {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "2:45 PM - Oct 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>NwnwhiteBoy wrote:</strong>I'v been wondering, in the NWN campaign, how do you make a character build such as a Paladin, BG? I Know you can slowly change your alignment with some actions (and DM_ commands of course), but is it really feasible to want to build a character that requires a alignment change? (unless you want to use DM_ commands.)</div></blockquote>\nFor any SP modules, there are no console commands to change alignment on either axis.  It is scripted.  So you would need to script a change, then erf the script into the module, recompile, then call it via console (or place the property on an item somehow).  An SP player can change factions and reputation via console but that will not change the toon's alignment.<br/>\n<br/>\nGood/evil axis is the easiest to change going from good towards evil... just kill innocents.  Toggling back towards good is more difficult and depends on if the designer provided a means (like quest rewards, convo responses, etc.).  If not, you are stuck as evil.  The chaos axis is almost impossible to modify without scripting specifically designed to change that in the module.  It is the bane of all good and evil druids.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Atypical",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:14 PM - Oct 16, 2011",
+      "content": "<div><blockquote><div><strong>NwnwhiteBoy wrote:</strong>I shell give it ago! <br/>\n<br/>\nVery much appreciated!  Thank you.</div></blockquote>\n\nNP. Just tried it out for myself. It's very intuitive and compact; start it up, talk to the first NPC to set your level / rebuild the character, talk to the 2nd NPC to get your gear, attack the training dummy to get information on your average damage, and head into the arena to try it out vs either premade archetypes, like Barbarians / Wizards, or any monster.<br/>\n<br/>\nI'd give it 10 / 10.</div>"
     },
     {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "4:59 PM - Oct 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=other.detail&amp;id=1288\" rel=\"noreferrer\" target=\"_blank\">Leto</a>: kinda overkill to \"just\" change alignment. <br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Hakpaks.Detail&amp;id=7206\" rel=\"noreferrer\" target=\"_blank\">NWN Alignment Manager</a> by Gangster No.1: that's what I'm talking about.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "3:06 PM - Oct 16, 2011",
+      "content": "<div>I use the Halls of Advanced Training Deluxe. It's way more complex than this one appears to be, but it has many nice features:<br/>\n<br/>\nYou can test your AB in several dummies that are in the training room: AC 10 dummy, AC 20 Dummy, AC 30 Dummy... AC 80 Dummy. That way you can figure out your chances of hitting a certain pre-set AC.<br/>\n<br/>\nThere are also archery targets doing the same thing. Then there is a thieves training room for skills, a monster arena for random monsters (however you can't pick any type of monster, they just randomly spawn), and finally a PvP arena, if you and a friend want to try out builds one vs the other. It's listed here in the guild I believe in the Builders Tools section.</div>"
     }
   ]
 }

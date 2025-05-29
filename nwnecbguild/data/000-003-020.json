@@ -4,119 +4,18 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "020",
-  "name": "Dragon build.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dragon-build-t2354787.html",
-  "author": "Krankui",
-  "avatar": "10235276_1510287070.gif",
-  "replies": 17,
+  "name": "Arelith Kobold Hero Bard/RDD/BG",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-kobold-hero-bard-rdd-bg-t2354795.html",
+  "author": "cilginat",
+  "avatar": "10758838_1513291018.jpg",
+  "replies": "0",
+  "views": "520",
   "posts": [
     {
-      "author": "Krankui",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:37 PM - Dec 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey guys :) I'm looking for some good cleric/druid/monk build (dragon shape). I dont have any race preferences. There are no custom changes on the server i play except one that gloves merges into all shapes. Can you help?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:24 PM - Dec 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi, Krankui - sorry I haven't responded earlier. I just figured that someone who knew what they were doing with clerics and druids would come along. Alas not. All I can do, I'm afraid, is say welcome.<br/>\n<br/>\nI'm assuming the addition of Monk will involve the WIS boost to AC, given your other choices, as well as some speed, so no armour. Or are you just looking for it as cheese?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "LauraMVX",
-      "avatar": "10758829_1511108032.png",
-      "timestamp": "6:09 AM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I understand that Dragon builds took quite a hit in a late patch which increased the number of Druid/Shifter levels necessary to qualify for the feat. Kail Pendragon's famously elegant Cleric 25/Druid 14/Monk 1 'Order of Jormungandr' has the requested classes but is no longer legal.<br/>\n<br/>\nHere is that build, for reference:<br/>\n<details><summary>Spoiler</summary>\nHere's a dragon build which does not \n25 cleric lvls to counter dispelling and toolset SR (together with SP feats of course), 14 druid lvls as the minimum to get dragon shape and 1 monk lvl for cheese, of course Actually the build started off as a CLC 26/ DR 14 but I couldn't resist the benefits that 1 single monk lvl would bring. Dragon shape at 33rd lvl already, you have to wait till 39th to get all the monk's boni though (that's to max out discipline and tumble, move it down if you feel you need the monk's boni earlier).Domains are what you feel suits you best, I chose trickery for II and travel for haste. \nI guess that's all, I'll let you judge the build:\n<br/><em>PvM playable 1-40, untested PvP</em>\nSTR: 10\nCON: 12\nINT: 14\n\nSkillpoints: 251\nBAB: 25\nAC (naked/mundane armor/shield only): 31/31\nStunning Fist: 1/day, DC 41\n<br/><br/>\n01: Druid(1): Expertise, Spell Penetration\n03: Druid(3): Extend Spell\n05: Druid(5)\n07: Druid(7)\n09: Cleric(1): Empower Spell,Domain: Travel, Trickery\n11: Cleric(3)\n13: Cleric(5)\n15: Cleric(7): Knockdown\n17: Cleric(9)\n19: Cleric(11)\n21: Cleric(13): Great Wisdom I, (WIS=24)\n23: Cleric(15)\n25: Cleric(17)\n27: Cleric(19): Great Wisdom III, (WIS=27)\n29: Druid(10)\n31: Druid(12)\n33: Druid(14): Dragon Shape\n35: Cleric(21)\n37: Cleric(23): Armor Skin\n39: Monk(1): Epic Prowess,M:(Cleave,Evasion,IUS, St.F)\n\n<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></details>\n\nTaking Druid to the requisite 18 levels would cut the Cleric levels down to 21, which would make it dispellable and also unable to penetrate toolset SR. Unfortunately!<br/>\n<br/>\nYou coud try inverting the split, and taking Cleric 15/Druid 24/Monk 1 - you get all your Cleric buffs (although they're dispellable), and you're a competent Druid, able to penetrate SR 30 with the penetration feats (wether or not thats enough will depend on where you play), and having a good DC due to high Wisdom. The only thing is I feel like the Druid doesn't synergize that well with the Dragon shape - go figure! - since they don't really use a lot of buffs (that's what the Cleric's for), and you can't cast your damaging/crowd control spells in Dragon form. But this way you might be able put down a Stonehold or Storm of Vengeance and then buff the dragon with your cleric spells, and mop up the defenseless enemies without worrying about being dispelled &gt;:) (unless I'm missing something?)<br/>\n<br/>\nOne build in the archive actually takes this approach, 'the True Dragon Gleam', although its not as optimized as it could be. I'll try my hand at converting Order of Jormundgandr to this split, but I'm gonna warn you I haven't played a Druid at high levels yet, so I might miss some stuff. Hopefully it helps more than misleads!<br/>\n<br/>\n<strong>Cleric 15 / Druid 24 / Monk 1</strong><br/>\nHuman, Lawful Neutral<br/>\n<em>PvM playable 1-40, untested PvP</em><br/>\n<br/>\nStr: 10<br/>\nDex: 10<br/>\nCon: 12<br/>\nWis: 18 (32)<br/>\nInt: 14<br/>\nCha: 8<br/>\n<br/>\nHP: 360<br/>\nSkillpoints: 277<br/>\nSaves, (F/W/R): 25/35/16 (vs Spells 34/44/25)<br/>\nBAB: 25<br/>\nAB (max, naked): 26 (melee), 37 (ranged)<br/>\nAC (naked/armour/shield only): 31/31<br/>\nSpellcasting: Druid(9), Cleric(8)<br/>\nStunning Fist: 1/day, DC 41<br/>\n<br/>\n<strong>Skills</strong><br/>\nConcentration 43(44), Discipline 42(42), Spellcraft 43(45), Tumble 40(40), 109 points left over<br/>\n<br/>\n<strong>Level Guide</strong><br/>\n01: Druid(1) Expertise, Spell Penetration<br/>\n02: Druid(2)<br/>\n03: Druid(3) Extend Spell<br/>\n04: Druid(4) WIS+1, (WIS=19)<br/>\n05: Druid(5)<br/>\n06: Druid(6) Zen Archery<br/>\n07: Durid(7)<br/>\n08: Druid(8) WIS+1, (WIS=20)<br/>\n09: Cleric(1) Empower Spell {Domain: Travel, Trickery}<br/>\n10: Cleric(2)<br/>\n11: Cleric(3)<br/>\n12: Cleric(4) WIS+1, Greater Spell Penetration, (WIS=21)<br/>\n13: Cleric(5)\u00a0\u00a0 \u00a0<br/>\n14: Cleric(6)<br/>\n15: Cleric(7) Knockdown<br/>\n16: Cleric(8) WIS+1, (WIS=22)<br/>\n17: Cleric(9)<br/>\n18: Cleric(10) Improved Critical: Unarmed<br/>\n19: Cleric(11)<br/>\n20: Cleric(12) WIS+1, (WIS=23)<br/>\n21: Cleric(13) Great Wisdom I, (WIS=24)<br/>\n22: Cleric(14)<br/>\n23: Cleric(15)<br/>\n24: Druid(9) WIS+1, Great Wisdom II, (WIS=26)<br/>\n25: Druid(10)<br/>\n26: Druid(11)<br/>\n27: Druid(12) Great Wisdom III, (WIS=27)<br/>\n28: Druid(13) WIS+1, (WIS=28)<br/>\n29: Druid(14)<br/>\n30: Druid(15) Great Wisdom IV, (WIS=29)<br/>\n31: Druid(16)<br/>\n32: Druid(17) WIS+1, (WIS=30)<br/>\n33: Druid(18) Dragon Shape<br/>\n34: Druid(19)<br/>\n35: Druid(20)<br/>\n36: Druid(21) WIS+1, Armour Skin, (WIS=31)<br/>\n37: Druid(22)<br/>\n38: Druid(23)<br/>\n39: Monk(1) Epic Prowess<br/>\n40: Druid(24) WIS+1, Epic Spell Penetration, (WIS=32)<br/>\n<br/>\n<strong>Skills Breakdown</strong><br/>\n01: Concentration(4), Spellcraft(3), Save(21),<br/>\n02: Concentration(1), Save(6),<br/>\n03: Concentration(1), Save(6),<br/>\n04: Concentration(1), Save(6),<br/>\n05: Concentration(1), Spellcraft(5), Save(1),<br/>\n06: Concentration(1), Save(6),<br/>\n07: Concentration(1), Save(6),<br/>\n08: Concentration(1), Save(6),<br/>\n09: Concentration(1), Save(4),<br/>\n10: Concentration(1), Spellcraft(5),<br/>\n11: Concentration(1), Save(4),<br/>\n12: Concentration(1), Save(4),<br/>\n13: Concentration(1), Save(4),<br/>\n14: Concentration(1), Save(4),<br/>\n15: Concentration(1), Spellcraft(5),<br/>\n16: Concentration(1), Save(4),<br/>\n17: Concentration(1), Save(4),<br/>\n18: Concentration(1), Save(4),<br/>\n19: Concentration(1), Save(4),<br/>\n20: Concentration(1), Spellcraft(5),<br/>\n21: Concentration(1), Save(4),<br/>\n22: Concentration(1), Save(4),<br/>\n23: Concentration(1), Save(4),<br/>\n24: Concentration(1), Save(6),<br/>\n25: Concentration(1), Spellcraft(5), Save(1),<br/>\n26: Concentration(1), Save(6),<br/>\n27: Concentration(1), Save(6),<br/>\n28: Concentration(1), Save(6),<br/>\n29: Concentration(1), Save(6),<br/>\n30: Concentration(1), Spellcraft(5), Save(1),<br/>\n31: Concentration(1), Save(6),<br/>\n32: Concentration(1), Save(6),<br/>\n33: Concentration(1), Save(6),<br/>\n34: Concentration(1), Save(6),<br/>\n35: Concentration(1), Spellcraft(5), Save(6),<br/>\n36: Concentration(1), Save(6)<br/>\n37: Concentration(1), Save(6)<br/>\n38: Concentration(1), Save(6)<br/>\n39: Concentration(1), Discipline(42), Tumble(40)<br/>\n40: Concentration(1), Spelcraft(5)<br/>\n<br/>\nThere is an experience penalty of 20% from level 39 to 40. This is to get a modified spellcraft level of 45, which requires taking Druid (or Cleric) at level 40.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:23 PM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>LauraMVX wrote:</cite>\nThere is an experience penalty of 20% from level 39 to 40. This is to get a modified spellcraft level of 45, which requires taking Druid (or Cleric) at level 40.\n</div></blockquote>\n\nSorry if I'm being dumb here, but why the xp penalty? I thought humans didn't suffer from that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:57 PM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Humans have favored class any, which means that when determining if a multiclass human suffers an XP penalty, his highest level class does not count (no matter what class).<br/>\nTake away Druid and you have Cleric 15 Monk 1. It can happen even to humans when you have 3 base classes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:18 PM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Mick - I'm clearly still learning, even the basics! And admittedly in this case it's only for one level, so there's no point recommending a prestige class instead. Regardless, helpful for at least me to know, cheers.<br/>\n<br/>\nNow back to Krankui's build, with apologies...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:34 PM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's exactly how i would build the order of jormungandr myself (the split) if i were to do it. Cleric 15 for the vital buffs to get +5, Druid 24 for the undispellable plus the epic feat and Monk 1 for the cheese. I would probably change the feats thought. This needs badly BF if he is to get into melee.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "LauraMVX",
-      "avatar": "10758829_1511108032.png",
-      "timestamp": "8:36 PM - Dec 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">What would you lose from Kail's feats? I guess if you want to focus on the dragon, Expertise or Zen Archery could go; or since the focus is on buffs rather than spellcasting, Empower Spell isnt as useful...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:24 PM - Dec 06, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>LauraMVX wrote:</cite> Expertise or Zen Archery could go</div></blockquote>\n\nOne of these, i wouldn't touch empower though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Krankui",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:00 PM - Dec 08, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Wow guys thank you all for the fast response. I will go with your build Laura with a few changes. First of all I will focus on the melee fight and dragon shape so I will dump spell penetration and geater spell penetration also since on my servers its quite easy to get ability bonuses from items I'm thinking about cutting off empower spell but I'm not sure. Zen archery is last thing I dont need so it makes 3-4 feats. First thing will be blind fight the other 2 could be improved expertise and improved knockdown (is it even worth? I mean does it apply to a dragon?).<br/>\n<br/>\nI also have a question. What makes it undispellable? I thought you need 26 lvl in one class to be so.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:01 PM - Dec 08, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Improved Knockdown would make your knockdowns harder to resist.<br/>\nLevel 24 makes you undispellable, but level 26 gets you another feat.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:25 PM - Dec 08, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lvl 28 (Druid) gives you another feat.<br/>\n<br/>\nLvl 24 (any caster) makes you impervious to dispels except from Mord's.<br/>\n<br/>\nImproved Knockdown is not critical for the build because when you are in dragon form you already count as a huge-sized creature, so medium-sized opponents get (-8) to their discipline checks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "LauraMVX",
-      "avatar": "10758829_1511108032.png",
-      "timestamp": "2:17 AM - Dec 09, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Improved expertise is usually not worth it I think, but considering your dragon is going to have something like 72 AB, maybe its worth it in this case, heheh. That said your AC will also be about 64, you might not need it. Maybe Called Shot to stop them from running away &gt;:3<br/>\n<br/>\nMaybe Lightning Reflexes, to compensate for the low reflex saves?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:00 AM - Dec 09, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">His AC will actually be a lot higher than that, this is not called the \"king of all dragon builds\" for nothing.<br/>\n<br/>\nDoing a rough calculation we get something like: Base dragon form (41) +17 (wisdom, owl's insight) +5 (deflection, magic vestment) +5 (natural, bark-skin), +2 (armour skin), +8 (tumble), +2/4 (dexterity, cat's grace &amp; aura of vitality) =&gt; 80/82 AC. And that's without using Expertise at all, or equipment for that matter. His AB will be 72 OR 70 when he uses his flurry of blows ability, giving him potentially up to 8 attacks with monk's progression.<br/>\n<br/>\nNow, if your server does not have many creatures with high magic resistance (which i doubt) you can change all three feats of penetration to spell focus \"conjuration\", but personally i think you should keep them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:10 AM - Dec 09, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And now you can only hope that when the enhanced edition finally comes, it will have fixes for all those problems we still have with the basics of the game. Wouldn't be great if weapon focus &amp; epic weapon focus worked for your dragon's claws? How about a devastating dragon with DC of 55!? And that damage on the claws of an Ancient Dragon is really low, 2d8? Come on...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:56 PM - Dec 09, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nLvl 28 (Druid) gives you another feat.<br/>\n<br/>\nLvl 24 (any caster) makes you impervious to dispels except from Mord's.<br/>\n<br/>\nImproved Knockdown is not critical for the build because when you are in dragon form you already count as a huge-sized creature, so medium-sized opponents get (-8) to their discipline checks.\n</div></blockquote>\n\nMy mistake. I have never played a Druid, so I didn't realize that Druids get bonus feats at different levels from Clerics.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:09 AM - Dec 10, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Bah, everybody does from time to time man, no big deal. Which reminds me...You have promised to play the \"green knight\" three years now &amp; you still haven't give it a go. tsk, tsk.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "5:28 PM - Dec 10, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nBah, everybody does from time to time man, no big deal. Which reminds me...You have promised to play the \"green knight\" three years now &amp; you still haven't give it a go. tsk, tsk.\n</div></blockquote>\n\nIt is getting close to the top of the list of builds I have planned.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "cilginat",
+      "avatar": "10758838_1513291018.jpg",
+      "timestamp": "11:18 PM - Dec 14, 2017",
+      "content": "<div>First of all, it's my first post in the forums so I'd like to say hi!<br/>\n<br/>\nI want to make a kobold champion on arelith here is what I came up with, it's really feat starved so maybe picking up fighter would be better than black guard.<br/>\n<br/>\nRace: Kobold\u00a0+2 Dex, -2 Str Bonus Feat: Rapid Reload<br/>\nGifts: +2str, +2cha, +6 perform<br/>\n<div align=\"center\"><table class=\"post_content_table\"><tbody><tr><td></td>\n<td>Base</td>\n<td>Racial</td>\n<td>GIFT</td>\n<td>Level up</td>\n<td>RDD</td>\n<td>FINAL</td>\n</tr>\n<tr><td>STR</td>\n<td>16</td>\n<td>-2</td>\n<td>2</td>\n<td>4</td>\n<td>8</td>\n<td>28</td>\n</tr>\n<tr><td>DEX</td>\n<td>9</td>\n<td>2</td>\n<td>-</td>\n<td>1</td>\n<td>-</td>\n<td>11</td>\n</tr>\n<tr><td>CON</td>\n<td>12</td>\n<td>0</td>\n<td>-</td>\n<td>-</td>\n<td>2</td>\n<td>14</td>\n</tr>\n<tr><td>INT</td>\n<td>14</td>\n<td>0</td>\n<td>-</td>\n<td>-</td>\n<td>2</td>\n<td>16</td>\n</tr>\n<tr><td>WIS</td>\n<td>8</td>\n<td>0</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>8</td>\n</tr>\n<tr><td>CHA</td>\n<td>16</td>\n<td>0</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>22</td>\n</tr>\n</tbody></table>\n<table class=\"post_content_table\"><tbody><tr><td></td>\n<td>Spell Craft</td>\n<td>33</td>\n</tr>\n<tr><td></td>\n<td>Taunt</td>\n<td>33</td>\n</tr>\n<tr><td></td>\n<td>Lore</td>\n<td>8</td>\n</tr>\n<tr><td></td>\n<td>Hide</td>\n<td>5</td>\n</tr>\n<tr><td></td>\n<td>Disc</td>\n<td>33</td>\n</tr>\n<tr><td></td>\n<td>UMD</td>\n<td>32</td>\n</tr>\n<tr><td></td>\n<td>Tumble</td>\n<td>30</td>\n</tr>\n<tr><td>Total</td>\n<td></td>\n<td>174\n</td>\n</tr>\n</tbody></table>\n</div>\n<div align=\"center\"><table class=\"post_content_table\"><tbody><tr><td></td>\n<td>Class</td>\n<td>Feat</td>\n<td>Skill points</td>\n<td>Attribute</td>\n</tr>\n<tr><td>1</td>\n<td>Bard 1</td>\n<td>Power attack</td>\n<td>28</td>\n<td></td>\n</tr>\n<tr><td>2</td>\n<td>Bard 2</td>\n<td></td>\n<td>6</td>\n<td></td>\n</tr>\n<tr><td>3</td>\n<td>Bard 3</td>\n<td>Cleave</td>\n<td>6</td>\n<td></td>\n</tr>\n<tr><td>4</td>\n<td>Bard 4</td>\n<td></td>\n<td>6</td>\n<td>STR +1</td>\n</tr>\n<tr><td>5</td>\n<td>Bard 5</td>\n<td></td>\n<td>6</td>\n<td></td>\n</tr>\n<tr><td>6</td>\n<td>RDD 1</td>\n<td>Expertise</td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>7</td>\n<td>RDD 2</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>8</td>\n<td>RDD 3</td>\n<td></td>\n<td>4</td>\n<td>STR +1</td>\n</tr>\n<tr><td>9</td>\n<td>RDD4</td>\n<td>Blind Fight</td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>10</td>\n<td>BG1</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>11</td>\n<td>BG2</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>12</td>\n<td>BG3</td>\n<td>Weapon Focus</td>\n<td>4</td>\n<td>STR +1</td>\n</tr>\n<tr><td>13</td>\n<td>RDD 5</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>14</td>\n<td>RDD 6</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>15</td>\n<td>BG4</td>\n<td>Divine Might</td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>16</td>\n<td>RDD 7</td>\n<td></td>\n<td>4</td>\n<td>STR +1</td>\n</tr>\n<tr><td>17</td>\n<td>BG5</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>18</td>\n<td>BG6</td>\n<td>Divine Shield</td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>19</td>\n<td>BG 7</td>\n<td></td>\n<td>4</td>\n<td></td>\n</tr>\n<tr><td>20</td>\n<td>RDD8</td>\n<td></td>\n<td>4</td>\n<td>CHA +1</td>\n</tr>\n<tr><td>21</td>\n<td>RDD9</td>\n<td>Epic weapon Focus</td>\n<td>5</td>\n<td></td>\n</tr>\n<tr><td>22</td>\n<td>RDD 10</td>\n<td></td>\n<td>5</td>\n<td></td>\n</tr>\n<tr><td>23</td>\n<td>BG 8</td>\n<td></td>\n<td>5</td>\n<td></td>\n</tr>\n<tr><td>24</td>\n<td>BG9</td>\n<td>Armor Skin</td>\n<td>5</td>\n<td>CHA +1</td>\n</tr>\n<tr><td>25</td>\n<td>Bard 6</td>\n<td></td>\n<td>7</td>\n<td></td>\n</tr>\n<tr><td>26</td>\n<td>Bard 7</td>\n<td></td>\n<td>7</td>\n<td></td>\n</tr>\n<tr><td>27</td>\n<td>Bard 8</td>\n<td>Epic Prowess</td>\n<td>7</td>\n<td></td>\n</tr>\n<tr><td>28</td>\n<td>Bard 9</td>\n<td></td>\n<td>7</td>\n<td>DEX +1</td>\n</tr>\n<tr><td>29</td>\n<td>Bard 10</td>\n<td></td>\n<td>7</td>\n<td></td>\n</tr>\n<tr><td>30</td>\n<td>Bard 11</td>\n<td>ESF: UMD</td>\n<td>7</td>\n<td></td>\n</tr>\n<tr><td>Total</td>\n<td></td>\n<td></td>\n<td>174</td>\n<td></td>\n</tr>\n</tbody></table>\n</div>\n<br/>\nTo clarify some points: There is a +6\u00a0Studded Leather armor that kobolds can use in arelith, the dext point is there in order to get +5 dex from cats grace and +2 dex from a crafted cloak that also gives daily improved invisibility in order to get maximum ac from the slot. 50 UMD is needed in order to equip a crafted race locked short sword (Dale short sword).\u00a0<br/>\n<br/>\nMaximum AB: 22(Base)+15(STR)+5(GMW scrolls)+6(Taunt)+2(Bard song)+4(Feats, focus, epic focus, prowess)+2(Arelith -2hand command bonus)= 56<br/>\nMaximum AC: 10(Base)+5(Expertise)+3(Armor)+4(Dexterity)+6(armor enchantment)+1(Boots dodge AC)+5(Shadowshield scroll)+6 (+4 large shield)+2(Armor skin)+1(mage armor dodge)+12(divine shield)+4(haste)+4(shield spell)+6(tumble)+4(RDD bonus)=73<br/>\n<br/>\nHere is the thing, this build has really good saves and good AC and AB in mu opinion, but I'm wondering if I should drop BG and take fighter levels instead for feats like KD, IKD, improved critical, disarm etc. Since it already has a great STR bonus and a nice AB, IKD feels too good to skip. And would it be wise to drop divine might for KD? It's a great damage boost and kobolds are small creatures so is non improved KD worth taking?</div>"
     }
   ]
 }

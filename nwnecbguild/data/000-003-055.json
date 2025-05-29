@@ -4,65 +4,37 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "055",
-  "name": "Arelith Cleric of Lathander build!",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/arelith-cleric-of-lathander-build-t2354727.html",
-  "author": "FairyMaster",
+  "name": "Elven Spellsword",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/elven-spellsword-t2354730.html",
+  "author": "Valerionx",
   "avatar": "no_avatar.png",
-  "replies": 8,
+  "replies": "3",
+  "views": "574",
   "posts": [
     {
-      "author": "FairyMaster",
+      "author": "Valerionx",
       "avatar": "no_avatar.png",
-      "timestamp": "4:56 PM - Aug 02, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello!<br/>\nI'd like advice about building a fit Cleric of Lathander.<br/>\nMy main query is...<br/>\nShould I put str on 15 with int 10 or 14 str with int 12 for skillpoints?<br/>\nHe is Human btw and he should be quite balanced.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:11 AM - Aug 21, 2017",
+      "content": "<div>Heya, I thought about doing a spellsword, for Arelith lv 30 cap, and uh... yeah... at first I intended to try something indifferent, but... well they beat me too it.<br/>\n<br/>\n<strong>Mechanical information</strong><br/>\nThe spellsword is a wizard path. A character can become a spellsword at character creation, turning the wizard levels into spellsword levels, as long as they have no school specialization. There is a way to become a spellsword after creation as well, though the method, and price if any, remains secret. <br/>\n<strong>Spellsword Abilities</strong>\n<ul>\n<li>Wizard Hit Die upgraded to d6</li>\n<li>They gain Martial Weapon proficiency</li>\n<li>They gain +3 CL against dispels</li>\n<li>They gain +1 <strong>melee</strong> Damage per INT modifier, capped to wizard level/2</li>\n<li>They gain +1 Discipline each 3 wizard levels</li>\n<li>If they aren't holding anything in their offhand (shield, bow, two-hander, etc), they gain +1 (Dodge) AC per int modifier, capped by wizard level/6+1 to a maximum of 7 at 30</li>\n</ul>\n<strong>If their majority of levels is Wizard, they gain increased AB and their APRs change to:</strong> <br/>\n<br/>\n<br/>\nThey gain +1 AB\u00a0 (starting at 3) every 4 levels up to 27 and 4 APR at level 22<br/>\n<ul>\n<li>One spell school of their choice (to lose, such as divination etc etc)</li>\n<li>All summoning spells and abilities (the only exception being the wizard familiar)</li>\n<li>All epic spells, including command spells like -scry, except Epic Mage Armour</li>\n</ul>\n<strong>Notes</strong>: \n<ul>\n<li>Most of these changes do not appear in the character sheet, but they will be reflected in the combat log.</li>\n<li>The bonuses (AC, AB, disc) are soft, counting toward their respective caps and not counting for feat/class requirements.</li>\n<li>The Attacks Per Round will <strong>replace</strong> the natural attack progression and will not stack in any way with the monk progression.</li>\n<li>Their summoning restriction is absolute. All spells and abilities means <strong>all</strong> of them, even abilities that are not strictly summoning, like the druid's animal companion, the shadowdancer's shadow, or Mordenkainen's Sword spell. They are prevented from using these spells even from scrolls and other sources. Domination and charm abilities, however, work normally.</li>\n<li>They cannot choose Conjuration as their forbidden school.</li>\n<li>Using the -twohand\u00a0 command counts as having the offhand occupied for the purposes of the bonus AC.</li>\n<li><strong>(You can toggle this command to activate the two-handed mode when you aren't holding anything in your left hand. When you are two-handing a weapon you receive half of your STR modifier as extra damage. Using this mode also enables the +2 Attack Bonus that comes with normal two-handed weapons, though not for bastard swords users)</strong></li>\n</ul>\n\nI thought this seemed pretty cool going nearly a pure wizard isn't such a bad thing, I think... I've never done a ...melee wizard before... I'd want to do an Elf who uses a longsword, seems to fit the theme. <br/>\n<br/>\nAssuming 18 int is started out with I can trudge and get 22 INT at level 1 by various means, but ...even if I go 27 wizard, I dunno what to do for the rest of it, I'd assume I'd want to get one spell focus and maybe a spell penetration as well.. but I need help from you guys ^^'</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "4:23 AM - Aug 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We need more information before we can be helpful to you. What are the other abilities that lead us to that choice for STR and INT? It is your goal to be a powerful turner of undead (affects how much to put on CHA)? Do you intend to cast spells offensively, or just buffing and healing (affects how much to put in WIS)? As a cleric of Lathander, are you limited to certain Domains?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:48 PM - Aug 21, 2017",
+      "content": "<div>As I'm sure you know, I'm not the one for advice and guidance in the arts magicka, but if you're looking at something melee based, is there anything wrong with a Wiz 25 / Fighter 5, if only for the WS/EWS? Or is that too easy?</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "FairyMaster",
+      "author": "Valerionx",
       "avatar": "no_avatar.png",
-      "timestamp": "7:05 PM - Aug 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nWe need more information before we can be helpful to you. What are the other abilities that lead us to that choice for STR and INT? It is your goal to be a powerful turner of undead (affects how much to put on CHA)? Do you intend to cast spells offensively, or just buffing and healing (affects how much to put in WIS)? As a cleric of Lathander, are you limited to certain Domains?\n</div></blockquote>\nMy build is possibly 14/15 STR 10 DEX 12/14 CON 10/12 INT 15 WIS and 14 CHA<br/>\nMy priest should be balanced and this is a rp build.<br/>\nBut it feels weird to wear full plate with 14 STR,cause I won't be able to carry much else.<br/>\n<br/>\nI would also prefer him to be a Sun Strenght offensive caster with good buffs and off heal,you know...balanced.<br/>\nIf you have an idea about multiclassing feel welcome to share it.Thanks<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "2:24 AM - Aug 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">In that case, I suggest pure Cleric with 15 STR and 12 INT, lowering DEX to 8 to allow that. The 4 skills you would maximize would be Concentration, Discipline, Spellcraft (to 29), and Tumble (to 30). Boost STR at level 4, and all other boosts go to WIS. Divine Power will (briefly) boost your STR to 18, and then Bull's Strength will boost it further. If you can work Divine Might and/or Divine Shield in there, that would be a bonus. I would make the build for you, but it would actually teach you more if I (and others) describe the build, and you make it.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:28 AM - Aug 22, 2017",
+      "content": "<div>It's a spellblade. Part of them is their versatility, they can use magic and a blade. The problem I'm having...is the blade part xD I've rarely messed with melee, xD So, any help would be appreciated!</div>"
     },
     {
       "author": "Demos",
       "avatar": "no_avatar.png",
-      "timestamp": "5:47 AM - Aug 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Clerics have to cross-class to get Discipline so a few levels of CoT would be good splash in to top out Discpline. \u00a0CoT can get Great Wisdom as bonus feats also.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:55 AM - Aug 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh yeah, and you'll have to cross-class Tumble to 15, not 30, as well. If you go that route, put those 4 CoT levels in epic, and use the feats for Epic Prowess and Armor Skin. Having fewer levels of Cleric does weaken your spell penetration (vs the enemy's Spell Resistance), though. You don't want to take 4 CoT pre-epic because you want to get the 4th attack from Divine Power, not from BAB. If you get the 4th attack from Divine Power, it will be at full AB, but if you get it from BAB, it will be at full AB - 15.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "FairyMaster",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:46 PM - Aug 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lowering DEX is a bit strange to me.<br/>\nThis character should have some atlethicness to him.<br/>\nBesides my AC would be hurt I would'nt like that<br/>\n<br/>\nConsidering I'm a cleric of Strenght 14 STR would'nt be so bad<br/>\nIn Arelith many itens can boost str,maybe CHA should be lowered...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "5:59 AM - Aug 05, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you lower your CHA, you won't be as effective at turning undead, or using Divine Might or Divine shield, if you take those feats. How about you start with 14 in STR and WIS and CON and CHA, and 10 in DEX, and 12 in INT, and then use gifts for +2 WIS and STR, and then boost only WIS as you level up?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "FairyMaster",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:47 AM - Aug 06, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>\nIf you lower your CHA, you won't be as effective at turning undead, or using Divine Might or Divine shield, if you take those feats. How about you start with 14 in STR and WIS and CON and CHA, and 10 in DEX, and 12 in INT, and then use gifts for +2 WIS and STR, and then boost only WIS as you level up?\n</div></blockquote>\n\nThanks for your help Empyre.I've already decided what I'll make of this char.<br/>\nMaybe some day I'll post his build here.<br/>\nthanks cya<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:06 AM - Aug 24, 2017",
+      "content": "<div>I'm thinking the Arelith forum (there is one right?) would be a better place to ask as this is very specific to the server. \u00a0Sorry</div>"
     }
   ]
 }

@@ -4,167 +4,91 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "822",
-  "name": "Druid build advice (D36/M1/R3)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-build-advice-d36-m1-r3-t2355085.html",
-  "author": "Orion",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 25,
+  "name": "So Assasin DPS, where do I go?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/so-assasin-dps-where-do-i-go-t2355153.html",
+  "author": "Cornflower",
+  "avatar": "10759006_1545641562.jpg",
+  "replies": "12",
+  "views": "349",
   "posts": [
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "10:43 PM - Jun 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hi all ECB'ers,<br/>\n<br/>\nJust looking for advice on Druid builds. I thought it would be time I gave this class a serious try on a playthrough through Aielund (or other modules - if you suggest I will certainly give it a go!)<br/>\n<br/>\nI wanted to try to create a very good caster, which would pretty much mean very high Druid levels.<br/>\n<br/>\nI've read Monk is very important for shapeshifter builds and I dont want to compromise this so I have included 1 monk level after you get access to forms, also for a tumble and listen dump. I thought taking a couple more levels of Rogue for dumps of skills points, which the Druid seems to accumulate in abundance. Useful skills I wanted to get were Concentration, Heal, Tumble, Spellcraft, Listen, Spot, Persuade and Lore.<br/>\n<br/>\nI've read through a few of Maximillan Kane's posts when designing this, including <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/nature-s-strongest-defenders-a-guide-to-druids-t515540.html\" rel=\"noreferrer\" target=\"_blank\">Guide to the Druid Class</a>. He also suggested getting 1 rank in Open Lock so that if you are shifted to an Air Elemental you can pick locks.<br/>\n<br/>\nI'm also curious as to the Shapechange spell, which is a level 9 druid spell. It hasn't drawn a lot of attention or love as far as I can see. Max's guide to Druids seem to suggest the best shapes you play with are your wildshapes (ie Bear), then elementals (ie. Water Elemental), then skill Dragon Shape between level 30-36 to turn into a dragon. He seemed to imply here is a gap between level 20 and 30-36 where your forms are very weak until you get the Dragon Shape feat. Why not use the Shapechange spell, which allows a Red Dragon form (albeit not as strong) or a Golem form which allows tremendous immunities? Is it because their AB or AC is bad or something?<br/>\n<br/>\nI've avoided taking Zen Archery given I'm going to shapechange into other forms for hand to hand combat<br/>\n<br/>\nMax seems to think Conjuration is the best spell focus school so I have taken feats in that. I think that Max also mentioned it is best you 'tank' while your animal companion does damage - I took improved expertise at level 1 and Cons 14 to reflect this.\u00a0<br/>\n<br/>\nI also tried to get Dragon Shape as soon as possible (level 30).<br/>\n<br/>\nMy reflex save also seems to suck but I guess I'm not playing a Paladin or Blackguard build anymore so I have to get used to it :)<br/>\n<br/>\nAnyway, here is my build - I would love any comments on improvements before I start to play it in game :) I haven't played Druid before, just read a few guides which are out there. So I'm curious to hear what you think.<br/>\n<br/>\n<strong>Edit (15/7/2019):</strong>\u00a0this is the most up to date build, for use on the WoG persistent world, updated the title of the post as well to avoid confusion.<br/>\n<br/>\n<br/>\nDruid(36), Monk(1), Rogue(3), Human<br/>\n<br/>\nSTR: 8<br/>\nDEX: 10<br/>\nCON: 14<br/>\nWIS: 18 (34)<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Druid(1): Spell Focus: Conjuration, Greater Spell Focus: Conjuration<br/>\n02: Druid(2)<br/>\n03: Druid(3): Blind Fight<br/>\n04: Druid(4): WIS+1, (WIS=19)<br/>\n05: Druid(5)<br/>\n06: Druid(6): Extend Spell<br/>\n07: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n08: Druid(7): WIS+1, (WIS=20)<br/>\n09: Druid(8): Empower Spell<br/>\n10: Druid(9)<br/>\n11: Druid(10)<br/>\n12: Druid(11): WIS+1, Scribe Scroll, (WIS=21)<br/>\n13: Druid(12)<br/>\n14: Druid(13)<br/>\n15: Druid(14): Spell Focus: Necromancy<br/>\n16: Druid(15): WIS+1, (WIS=22)<br/>\n17: Druid(16)<br/>\n18: Druid(17): Greater Spell Focus: Necromancy<br/>\n19: Druid(18)<br/>\n20: Druid(19): WIS+1, (WIS=23)<br/>\n21: Druid(20): Great Wisdom I, (WIS=24)<br/>\n22: Druid(21)<br/>\n23: Druid(22)<br/>\n24: Druid(23): WIS+1, Great Wisdom II, (WIS=26)<br/>\n25: Druid(24): Great Wisdom III, (WIS=27)<br/>\n26: Druid(25)<br/>\n27: Druid(26): Great Wisdom IV, (WIS=28)<br/>\n28: Druid(27): WIS+1, (WIS=29)<br/>\n29: Druid(28): Great Wisdom V, (WIS=30)<br/>\n30: Druid(29): Dragon Shape<br/>\n31: Rogue(1)<br/>\n32: Druid(30): WIS+1, (WIS=31)<br/>\n33: Druid(31): Epic Spell Focus: Conjuration<br/>\n34: Druid(32): Epic Spell Focus: Necromancy<br/>\n35: Druid(33)<br/>\n36: Druid(34): WIS+1, Epic Reflexes, (WIS=32)<br/>\n37: Rogue(2)<br/>\n38: Druid(35)<br/>\n39: Rogue(3): Epic Prowess, {Uncanny Dodge I}<br/>\n40: Druid(36): WIS+1, Great Wisdom VI, (WIS=34)<br/>\n<br/>\nHitpoints: 394<br/>\nSkillpoints: 313<br/>\nSaving Throws (Fortitude/Will/Reflex): 25/35/22<br/>\nSaving Throw bonuses: Spells: +9, Fear: +2<br/>\nBAB: 24<br/>\nAB (max, naked): 24 (melee), 25 (ranged)<br/>\nAC (naked/mundane armor/shield only): 30/30<br/>\nSpell Casting: Druid(9)<br/>\nAlignment Changes: 0<br/>\n<br/>\nRed dragon form (no items before polymorph and no buffs) - I got these stats from the Pretty Good Character Creator Module except the HP number I used calculations from the Wiki assuming maximal HP dice rolls<br/>\nStr 48<br/>\nDex 36<br/>\nCon 32<br/>\nInt 14<br/>\nWis 34<br/>\nCha 8<br/>\n<br/>\nHP 854 (394 + 100 THP + 360HP from Con 14-&gt;32)<br/>\nAC 63 (74 when buffed with Owl's Insight and Barkskin)<br/>\nAB: 44/41/38/35/32<br/>\nDamage 2-16 +19 (Crit 19-20/x2)<br/>\nSaves (F/W/R): 34/35/35<br/>\nAbilities: Dragon Breath, Flurry of Blows, Stunning Fist (DC: 42) once per day<br/>\n<br/>\nConcentration 43(45), Disable Trap 36(40), Listen 42(54), Open Lock 25(25), Search 22(24), Set Trap 5(7), Spellcraft 43(45), Spot 23(35), Tumble 40(40), UMD 34(33)<br/>\n<br/>\n01: Concentration(4), Spellcraft(4), Save(20),\u00a0<br/>\n02: Concentration(1), Spellcraft(1), Save(25),\u00a0<br/>\n03: Concentration(1), Spellcraft(1), Save(30),\u00a0<br/>\n04: Concentration(1), Spellcraft(1), Save(35),\u00a0<br/>\n05: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n06: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n07: Concentration(1), Listen(10), Tumble(10), Save(31),\u00a0<br/>\n08: Concentration(1), Spellcraft(2), Save(35),\u00a0<br/>\n09: Concentration(1), Spellcraft(1), Save(40),\u00a0<br/>\n10: Concentration(1), Spellcraft(1), Save(45),\u00a0<br/>\n11: Concentration(1), Spellcraft(1), Save(50),\u00a0<br/>\n12: Concentration(1), Spellcraft(1), Save(55),\u00a0<br/>\n13: Concentration(1), Spellcraft(1), Save(60),\u00a0<br/>\n14: Concentration(1), Spellcraft(1), Save(65),\u00a0<br/>\n15: Concentration(1), Spellcraft(1), Save(70),\u00a0<br/>\n16: Concentration(1), Spellcraft(1), Save(75),\u00a0<br/>\n17: Concentration(1), Spellcraft(1), Save(80),\u00a0<br/>\n18: Concentration(1), Spellcraft(1), Save(85),\u00a0<br/>\n19: Concentration(1), Spellcraft(1), Save(90),\u00a0<br/>\n20: Concentration(1), Spellcraft(1), Save(95),\u00a0<br/>\n21: Concentration(1), Spellcraft(1), Save(100),\u00a0<br/>\n22: Concentration(1), Spellcraft(1), Save(105),\u00a0<br/>\n23: Concentration(1), Spellcraft(1), Save(110),\u00a0<br/>\n24: Concentration(1), Spellcraft(1), Save(115),\u00a0<br/>\n25: Concentration(1), Spellcraft(1), Save(120),\u00a0<br/>\n26: Concentration(1), Save(126),\u00a0<br/>\n27: Concentration(1), Save(132),\u00a0<br/>\n28: Concentration(1), Save(138),\u00a0<br/>\n29: Concentration(1), Save(144),\u00a0<br/>\n30: Concentration(1), Save(150),\u00a0<br/>\n31: Disable Trap(21), Listen(20), Open Lock(25), Search(18), Set Trap(5), Spot(18), Tumble(20), UMD(34),\u00a0<br/>\n32: Concentration(2), Spellcraft(5),\u00a0<br/>\n33: Concentration(1), Save(6),\u00a0<br/>\n34: Concentration(1), Save(12),\u00a0<br/>\n35: Concentration(1), Save(18),\u00a0<br/>\n36: Concentration(1), Save(24),\u00a0<br/>\n37: Disable Trap(11), Listen(8), Search(3), Spot(3), Tumble(10),\u00a0<br/>\n38: Concentration(2), Spellcraft(5),\u00a0<br/>\n39: Disable Trap(4), Listen(4), Search(1), Spot(2),\u00a0<br/>\n40: Concentration(2), Spellcraft(5),\u00a0<br/>\n<br/>\n<br/>\nThanks for your help!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "4:18 PM - Sep 06, 2019",
+      "content": "<div>Someone told me \"Oh, the best DPS build, or at least top three, is the 6 fighter/7 weapon master/27 assasain strength build with a scythe\".<br/>\n<br/>\nNow, I'm sure it's good, but I don't really think I should try to build it from the ground myself. I checked the lvl40 forums, but the closest thing I found was this:<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?f=8&amp;t=2354412&amp;p=801&amp;hilit=assassin+weapon+master+fighter#p801\" rel=\"noreferrer\" target=\"_blank\">viewtopic.php?f=8&amp;t=2354412&amp;p=801&amp;hilit ... ghter#p801</a><br/>\nAlso, I would hesitate to make something other than what Valerfor created, without good reason.<br/>\n<br/>\nSo, if I could get some help (again), I would be grateful. I have a toon that I've grown tired of, and I'm thinking I should try something new and I've NEVER played an assassin before. So, do I go with the unnamed contributor for 27 assassin, or follow in the Master's footsteps with 21 assassin?<br/>\n<br/>\nOh, side note: You get d6 acid damage per every three level assassin on Blackstone, which might explain the 27 assassin, compare to Valefor's 21 assassin. Also, I'm not very good at sneaking, I prefer to walk up to someone and trip them, then hit them while they're lying down. Not very sportsmanlike, but effective...</div>"
+    },
+    {
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "4:23 PM - Sep 06, 2019",
+      "content": "<div>Oh, someone else said: Nah, go Ranger 21, Paladin 1, Assasin 18. Now, I'm really confused.</div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:40 PM - Sep 06, 2019",
+      "content": "<div>Assassin is one of those classes where either you just do a little for skill dumps, or as much as possible, for increasing the death attack.<br/>\nFor a strength based assassin, the use poison feat may be valuable, depending upon your server. Others would suggest just forgo assassin and use rogue. These arguments have merit.<br/>\n<br/>\nYour world seems to give even more reason to go all out with assassin. The build of Valefor's that you link, you could go scythe instead of Greataxe, you'd just have to get that weapon proficiency exotic in, probably early, rearrange some fights, probably take blind fight later in place of Iron will.\u00a0 That's an approach I would consider. Or drop great fortitude. This of course opens up the little can of beans of what one would do with the corresponding epic feat (i.e. either epic will, or epic fortitude).<br/>\n<br/>\n<br/>\nI just can't stand the way scythes look, or from the real life perspective of how bad they are as a weapon, especially as portrayed in fantasy.<br/>\n<br/>\nBtw, the strength based assassin could be considered more of an advanced users assassin....</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:44 AM - Jun 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">My philosophy for druid caster builds is different than most &amp; you can read about it on the druid build that I did in the \"yardstick thread\". Apart from that, I think the best 8 feats for pre-epic are: sf: conjuration, gsf: conjuration, sf: necromancy, gsf: necromancy, extend spell, empower spell, blind-fight &amp; ic: unarmed strike. The last two can change depending on what do you want from your build, how many druid levels it has &amp; how melee-oriented you want to be but they are solid choice regardless. You do not need penetration feats with 37 druid levels unless you expect to do PvP or you know there are very high MR enemies on the module that you play on.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:48 PM - Sep 06, 2019",
+      "content": "<div><blockquote><div><cite>Cornflower wrote:</cite>\nOh, someone else said: Nah, go Ranger 21, Paladin 1, Assasin 18. Now, I'm really confused.\n</div></blockquote>\nI'm confused equally, to be honest.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:58 AM - Jun 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Valefor for your comment and I learnt a lot from your <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?f=11&amp;t=2293896&amp;p=6256&amp;hilit=yardstick+druid#p6256\" rel=\"noreferrer\" target=\"_blank\">Yardstick Druid Build (Arch Druid lvl 40)</a>. I really like the fact you take Dragon Shape at 30, Dragon Shape sounds like one of the strongest epic feats in the game. Level 30\u00a0seems to be the earliest possible time one can ever take it, and from what I can see from the CBC spreadsheet even if you take Champion of Torm (which I don't plan to) for the bonus Great Wisdom epic feats post level 21, you won't dragon shape faster, because even though you can get Wisdom 30 at Lvl 27 by taking Great Wisdom at that level, you will need one more feat to get the Dragon Shape.\u00a0<br/>\n<br/>\nThanks for your comments on the spell penetration feats. I agree they are unnecessary. I think there is a spell (Nature's Balance) which also reduces spell resistance by 7d4 at caster level 37 which should more than compensate if I ever need to deal with SR. Or I could just change into a dragon. I'll change them to SF/GSF necromancy then. Finger of death against those sneaky rogue type enemies sounds pretty good!<br/>\n<br/>\nJust curious, Heavy Armor proficiency feat for druids? +3AC from full plate when you shape change? Armor Skin sounds better to be honest<br/>\n<br/>\nI'm feeling close to ready to go .. I'll sit and wait for a day or two to see if there are any other comments<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:31 PM - Sep 06, 2019",
+      "content": "<div>With assassis it is either minor class instead of rogue to avoid an xp penalty, or major class to pile up as many levels as you can for a high Death attack DC.<br/>\n...Unless you have a very specific reason to break that rule. 9 levels for Improved invisibility may be such a reason. <br/>\nOn BSK you also get that damage bonus with increasing levels.<br/>\nAs for strength based assassin being the choice of veteran assassin players...<br/>\nThere are pros and cons. I still love my dexers. But I see where you're coming from.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:23 PM - Jun 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Take a look at this build too, Orion. This is the earliest possible DS but you have to use CoT.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build228407.html#page1\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... html#page1</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:48 AM - Sep 07, 2019",
+      "content": "<div>I was just commenting that getting those sweet paralyzations is going to be more difficult for someone sneaking around in full plate, especially if one is not familiar with the idea...for someone who has never played an assassin, I just think dexer assassin would be generally considered the ...more traditional route.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:46 PM - Jun 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nTake a look at this build too, Orion. This is the earliest possible DS but you have to use CoT.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://world-of-greyhawk.github.io/builds/data/build228407.html#page1\" rel=\"noreferrer\" target=\"_blank\">https://world-of-greyhawk.github.io/bui ... html#page1</a>\n</div></blockquote>\nWow! Dragon Shape at level 28 with four of CoT :)<br/>\n<br/>\nIf I went D34 / M2 / CoT 4, it wouldn't excessively weaken the DC for spells or the ability to penetrate SR? Is this the amazing power of Owl's Insight? Mick was stating with his evil spell caster Sorc 35/M3/BG2 he noted there was some impact with the spell casting from taking those 5 levels away from Sorc, but Sorc doesnt have that super powerful +12 Wisdom spell...<br/>\n<br/>\nMinor edit: I've taken the plunge and been very much rewarded. Got to level 3. Levels 1 and 2 were super easy with Nelise and Dante. I would turn on Improved Expertise, which with a mundane Scimitar, Breastplate and Shield would lead me to having 26 AC. I'd let my summoned bear do the damage. Now I've learned I can't cast any spells however with metal armor as a druid in Aielund... so I'm selling that breastplate and getting some studded leather...<br/>\n<br/>\nFurther update: Pretty much finished Act 1 - I'm near the end. Level 7 (D6/M1) right now, nearly level 8. Druid is really easy to play, I thought it would be harder. I took my planned single level in Monk and am running around with AC 27 with a Kama +2, robes +3 and Monk boots +3, 10 tumble (+2 tumble AC) and 10 listen when I'm fully buffed with Bull's Strength/Cats Grace/Endurance/Owls Wisdom (from an item)/Barkskin. Call lightning is just sweet, especially when I can just walk up to mobs with Improved Expertise active (AC 37) and cast like 2-3 call lightnings at the start of battle, then turning into a bear to finish the rest of the fight. I'm playing total tank mode, running in and drawing the aggressing whilst my Panther, summon creature III and other companion focus on dealing the damage.\u00a0I can even fight reasonably with my single level in Monk in human form\u00a0with all the buffs\u00a0with the Kama +2 if I want to save my spells and shape changes. The Wolf form seems to have a bit more AC than the bear form, but the attack bonus from the bear form is just so good. Knockdown would have been really good combined with the bear form but I can see I'm pretty feat starved so I ended up taking extend spell for now. Maybe I will invest in knockdown but I will obviously lose some spell casting feats pre-epic which I might suffer from. All in all, Druid is a really nice class to play and I'm glad I took the plunge, much easier than I expected<br/>\n<br/>\nFurther update 2: Rather than just adding to the thread I thought I would just edit this post to give you a further update, just in case you wanted to know. Halfway through Act 2 now. Hardcore DnD rules of course (not yet brave enough to take the plunge to 'Very difficult' - not sure why I would want to put myself at an unfair disadvantage though!). The game is super cruisy right now. I'm running around with about 30 - 40 AC plus stoneskin, depending on whether I'm using Improved Expertise. Got to level 11 by clearing out a huge mob of orcs in one of the quests. Trying to minimise spoilers here, but there is a particular choke point where like 20-30 orcs are fighting you, and because its outdoors, I stand there with 40 AC (improved Expertise Active, +7 AC from Monk Wisdom - I had 24 wis) whilst the enemy are trying to hit me with a game of 20s, cast two empowered call lightnings and four standard call lightnings and they all got obliterated, and I pretty much gain an entire level by doing this. I get the feeling I could play the game without wild shape but its such a good ability at this stage of the game to clean up house once you have used all your spells. It is super cool to be a big bad monk bear with 32 strength, and doing four attacks with flurry (I'm sure its going to get better) and being able to use stunning fist once a day with super high wisdom. Dispel magic from some of the spellcasters was a nuisance (stripped half my buffs) is a nuisance but bear wildshape was more than enough to deal with that dude. People say clerics are overpowered, but druids are probably just as strong, just the crazy AB buffs are not nearly as numerous but you get other skills like shapechange to compensate.<br/>\n<br/>\nBy the way I am super glad I took that single level of Monk at 7 - it just made everything much easier... 10 tumble (+2AC) and 10 listen the icing on the cake as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "1:06 PM - Sep 09, 2019",
+      "content": "<div>I'll probably not be able to get any paralyzations in. All the bosses at Blackstone have crazy high saves, so most every DC-based ability is more or less worthless.</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:05 AM - Jun 26, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I wouldn't weaken your build below 36 Druid-levels Orion, it's a nice sweet spot with a bonus epic feat as well. <br/>\nKeep us updated as you go ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "1:19 PM - Sep 09, 2019",
+      "content": "<div><blockquote><div><cite>gkorjax wrote:</cite>\nAssassin is one of those classes where either you just do a little for skill dumps, or as much as possible, for increasing the death attack.<br/>\nFor a strength based assassin, the use poison feat may be valuable, depending upon your server. Others would suggest just forgo assassin and use rogue. These arguments have merit.<br/>\n</div></blockquote>\n\nThis would argue for the Assassin 27 build then.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:28 AM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just an update. I thought I would post I found a possible answer to my own questions.\u00a0<br/>\n<br/>\n<strong>RE Shapechange spell and Heavy Armor Proficiency feat ?useful for druid characters.</strong><br/>\n<br/>\nWhen polymorphed via feats such as wildshape and elemental form, only the magical properties of the helm, armor and shield slot are transferred. The base AC from items is not transferred. So you could wear mundane clothing or mundane full platemail plus mundane tower shield and the AC the polymorph gains is the same (zero). If you have an +5AC shield and +5AC armor this mean +5 AC polymorph AC as only the highest AC value is transferred. Whereas if you had that same +5AC Shield and Robes of the Old Order (damage reduction +1 soak 5 damage), you would have +5AC as a polymorph, plus the damage reduction. Therefore heavy armor proficiency provides no value to the polymorphed druid, unless one wishes to obtain the magical properties from a particular piece of heavy armor, and in that particular situation, there are probably better feats to take anyway which Valefor has outlined in detail.\u00a0 Amulets, rings, belts, gloves and cloaks magical properties do not transfer to polymorphs. Bonus spells from additional wisdom (or Int/Cha if you are a wizard/sorcerer) from these items are lost when polymorphing so cast them as buffs before you do polymorph.<br/>\n<br/>\nWhen polymophed via spells, such as Shapechange as far as I can see there is no such transfer of such magical properties from the helm, armor or shield at all or any items. Even though you are a big bad red dragon if you have powerful magical properties on helm, armor and/or shield slots it could be more advantageous to still transform into an elemental or greater elemental than use shapechange to turn into a dragon. I haven't got to level 17 Druid, which is when you get access to Lvl 9 spells to test it out in a practical sense in game. I can update this post once I get a chance to.<br/>\n<br/>\nAnyway I thought I would share what I learned by playing the druid class, reading the Wiki (<a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Polymorph\" rel=\"noreferrer\" target=\"_blank\">https://nwn.fandom.com/wiki/Polymorph</a>) and testing it in game with the PGCC Module v4.3 (<a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/module/pretty-good-character-creator-customizer-pgc3-powered-igipe\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... ered-igipe</a>). The mechanics of NWN 1 are so complex and subtle it is both beautiful and challenging to understand.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:35 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Orion<br/>\n<br/>\nIn case you haven't read it already, here's a link (again) to another of Max's Game Guides that you might find interesting...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/nature-s-strongest-defenders-a-guide-to-druids-t515540.html\" rel=\"noreferrer\" target=\"_blank\">Druid Guide</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "8:49 AM - Sep 10, 2019",
+      "content": "<div>So, <em class=\"mention\">@Valerfor</em> , any comments on the main question, do I use your build, or is there some kind of meaning in going Assassin 27 instead, to get those extra 2d6 acid damage and occasionally more death attack damage?</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:36 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>\n<strong>Heavy Armor Proficiency feat ?</strong><br/>\nYou do not get the base armour class of the armour as you noted but the reason why it's good to have this (if you have spare feats) is because you can now use all available options to get the best possible combination of abilities from them. <br/>\nFor example, you might find a red dragon armour &amp; want to use the fire resistance from it, etc. <br/>\n<br/>\n<strong>The mechanics of NWN 1 are so complex and subtle it is both beautiful and challenging to understand.</strong><br/>\nNeverwinter Nights mechanic's are a crude approximation of the real 3rd edition rules, many things have been altered &amp; others have been completely erased or missing entirely. Still, you have to remember that the 3rd edition ruleset is the most complex out of all editions of Dungeons &amp; Dragons by far &amp; the most inovative as well, it was nearly impossible by that time, to transfer everything the rules had\u00a0 <br/>\nto offer into a computer game. And yet, this is one of the best games ever created for true RPG fans. </div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:12 AM - Sep 10, 2019",
+      "content": "<div>Honest opinion?<br/>\nI think that following the (ftr 6/wm 7/ ass 27) build is worse, for bsk, at least. Do that build in cbc &amp; you will get at least 1ab lower, not to mention that you will have to sacrifice an epic general feat to get ews on that 7th ftr level. If you want max dps, drop the save boosters &amp; even armor skin (since you go all-out), start with 18 str &amp; get to 34 str. That's how you get 46ab out of it. <br/>\n<br/>\nDeath attack dc, we know it plays very small role in bsk (due to constant true sight &amp; high-saves) of the monsters there, otherwise, i would advice going for the higher assassin levels, but i optimize for the environment.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:55 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nthe 3rd edition ruleset is the most complex out of all editions of Dungeons &amp; Dragons by far</div></blockquote>\n\nReally?\u00a0 I have always thought that it was simpler and more intuitive than 2nd edition, with no THAC0, with higher AC numbers being better, and no STR 18(1-100).\u00a0 Then again, I have never played P&amp;P in any edition.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:15 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, there are options in 3rd edition that player characters never had before or after this.<br/>\n<br/>\nThere is a detailed line of sight rules, so that players know what their characters see &amp; can target with their spells/attacks. <br/>\n<br/>\nThe round is 6 seconds instead of abstract 1-minute from previous editions. There are 5-foot steps (a pain in the butt of any DM), difficult terrain rules, reactions &amp; maneuvers like trip\u00a0(knockdown), faint, disarm, bull-rush, overrun &amp; sunder. <br/>\n<br/>\nThen there is \"reach\", which was never detailed before &amp; previously all monsters assumed to be engaged with the PCs in arbitrary distances but here a Titan wielding a polearm could have 30-feet reach &amp; with combat reflexes feat could take attacks of opportunity against anyone engaging him long before they reach him. About the only thing simplified from previous editions was Initiative which is a downgrade from 2nd editions masterpiece but better by a longshot from 1st-editions convoluted system.<br/>\n<br/>\nI would be happy to teach you some PnP but I'm afraid you are a long way from Athens, Empyre.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:03 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've still got a DM's Handbook from 1977 kicking around somewhere, along with my big bag of assorted dice. Next time you're in Sheffield, Empyre....<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "8:44 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n<blockquote><div><cite>Orion2019 wrote:</cite>\n<strong>Heavy Armor Proficiency feat ?</strong><br/>\nYou do not get the base armour class of the armour as you noted but the reason why it's good to have this (if you have spare feats) is because you can now use all available options to get the best possible combination of abilities from them. <br/>\nFor example, you might find a red dragon armour &amp; want to use the fire resistance from it, etc. \n</div></blockquote>\n</div></blockquote>\nTalk about fate. Right after your post look what dropped :) Looks like a pretty solid item for a lvl 14 character...\u00a0<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/201906/10759084_7ee041b2714d8d1bff3172a84a4179a6_t.png\" /></dl>\n</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "9:39 PM - Sep 10, 2019",
+      "content": "<div>OK. I always want your honest opinion. I'll just build both in cbc, but I usually go with your advice regardless. I'm gonna start a fan-club with myself as chairman. Valerfor for president!<br/>\nThank you!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:19 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">@ Stag, it seems we must arrange a meeting from the five corners of the earth, I suggest we go to Mick's place, frozen north &amp; all that, playing near the hearth with a bottle of Macallan near...<br/>\nThe stuff of legends, right Boo?<br/>\n<br/>\n@Orion, that's a nice plate man!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:44 AM - Sep 11, 2019",
+      "content": "<div>Haha, thanks for the vote of confidence man!<br/>\n<br/>\nIronically, &amp; I'll again be totally honest, even if it is against me, I think that the build that your friend told you about the BSK assassin, might be better than mine but for the wrong environment, it's better in low-medium PWs because it has a much higher death attack DC. <br/>\n<br/>\nWe all continuously learn Cornflower, even today.</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:30 PM - Jun 29, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\n@ Stag, it seems we must arrange a meeting from the five corners of the earth, I suggest we go to Mick's place, frozen north &amp; all that, playing near the hearth with a bottle of Macallan near...<br/>\nThe stuff of legends, right Boo?\n</div></blockquote>\nAh, the fabled Rasheman Assassin-Berserker Lodge - maybe I could finally get the ice weasel Minsc promised me in BG2!<br/>\n<br/>\nMick, you lucky dog, you have guests on their way!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:45 AM - Jul 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Valefor<br/>\n<br/>\nI reached level 20 in World of Greyhawk. Thanks so much for your help with my build and advice re WoG.<br/>\n<br/>\nhere's a link outlining what happened :)<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/worldofgreyhawkfr/viewtopic.php?f=15&amp;t=4917&amp;p=63084#p63084\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/worldof ... 084#p63084</a><br/>\n<br/>\nBest wishes<br/>\nOrion<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:53 AM - Jul 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Congrats Orion! Onwards to the epic-levels now.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:18 PM - Jul 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Valerfor and other Druid / ECBers\u00a0<br/>\n<br/>\nThanks for your kind messages.\u00a0<br/>\n<br/>\nI have been tweaking the build. I'd like to improve the saves by taking Lightning Reflexes/ Epic Reflexes / Epic Fortitude feats which synergises well with Evasion which means I would ditch Expertise/Imp Expertise/Knockdown and not take Improved Critical: Unarmed. I hope not taking IC: Unarmed doesnt excessively weaken the build. I definitely want to include both SF/GSF/ESF Conjuration and Necromancy that is super good<br/>\n<br/>\nAlso does Epic Prowess work for creature weapons (ie polymorphed druids)? Can't see any info on this.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:19 PM - Jul 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, it works. That's because it doesn't target any specific weapons, etc. but is more of a blanket bonus across the board.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:11 PM - Jul 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nYes, it works. That's because it doesn't target any specific weapons, etc. but is more of a blanket bonus across the board.\n</div></blockquote>\n\nThanks so much<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "sataricon",
-      "avatar": "10759088_1568407219.jpg",
-      "timestamp": "5:52 PM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So a quick question.<br/>\nIf i take the rogue level say at level 5 because playing at WOG means that i'm dying all the time and i kinda of need UMD for wands.<br/>\ni'm level 4 now and can only level in the swamp area with the giant frogs using my summon.<br/>\n<br/>\nWhat advise can you give me to just reach a fighting chance where i can kill monsters myself and not heavily relay on my summons.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:47 PM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Lots, a whole bucketful of them, but the point is whether you can absorb them or not at the point where you are now.<br/>\n<br/>\nAnd I will ask you the obvious: Does it have to be a druid that you want to learn the game with?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "sataricon",
-      "avatar": "10759088_1568407219.jpg",
-      "timestamp": "6:50 PM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">no it can be any other class.<br/>\nbut many people said before that druid and cleric are best for learning this server.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:38 PM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It won't take you more than a couple of hours to level-up this one,<br/>\nGo to the same place as you did with your Druid, gear-up &amp; try this little build:<br/>\nHUMAN (LN)<br/>\nStr:\u00a0\u00a0 17 (<strong>18</strong>)<br/>\nDex: 14<br/>\nCon: 14<br/>\nInt:\u00a0\u00a0 13<br/>\nWis: 08<br/>\nCha: 08<br/>\n01) Fighter (01): WP: Exotic Weapons, Power Attack, Cleave<br/>\n02) Fighter (02): WF: Bastard Sword<br/>\n03) Fighter (03): Blind-Fight<br/>\n04) Fighter (04): WS: Bastard Sword, {STR+1}<br/>\n05) Fighter (05): <br/>\n06) Fighter (06): Toughness, Knockdown<br/>\n07) Rogue (01): Here Goes Tumble &amp; UMD Dump, etc.<br/>\nThen, tell me how it feels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "9:54 PM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote:</cite>\nSo a quick question.<br/>\nIf i take the rogue level say at level 5 because playing at WOG means that i'm dying all the time and i kinda of need UMD for wands.<br/>\ni'm level 4 now and can only level in the swamp area with the giant frogs using my summon.</div></blockquote>\n<br/>\nYou got to level 4 by the way, congratulations!<br/>\n<br/>\nYou'll lose one AB which is not great short term or long term<br/>\n<br/>\nI never used Wands on the way to lvl 40 but LOL that might be because I'm not the best at the game but also because I didn't need to :)<br/>\n<blockquote><div>What advise can you give me to just reach a fighting chance where i can kill monsters myself and not heavily relay on my summons</div></blockquote>\nValerfor helped teach me the Druid class and make my first build :)<br/>\n<br/>\n<br/>\n<br/>\nIf you want to persist (which you don't have to)<br/>\n<br/>\nOnce you get Wildshape (to turn into a Bear) Barkskin and Stoneskin (level 4 druid spell) and the Monk class you can man fight enemies<br/>\nThe Bear has 27 strength which is a godsend to help you hit things.<br/>\nMonk will grant you flurry of blows, monk unarmed base attack bonus as a bear, which will lead to your number of attacks essentially doubling<br/>\nIt also grants Monk Wis AC when you are a bear, which combined with Barkskin and Stoneskin will reduce damage dealt to you<br/>\nUntil you get these things wildshape Druid is somewhat weak, the fighter Valerfor has suggested is stronger until then<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:22 AM - Sep 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The Alternative path, the ranged character:<br/>\nELF (CN)<br/>\nSTR:\u00a0 13<br/>\nDEX:\u00a0 19 (<strong>20</strong>)<br/>\nCON: 12<br/>\nINT:\u00a0\u00a0 14<br/>\nWIS:\u00a0 08<br/>\nCHA: 08<br/>\n01) Fighter (01): Point-Blank Shot, Rapid-Shot<br/>\n02) Fighter (02): Blind-Fight<br/>\n03) Fighter (03): WF: Longbow<br/>\n04) Fighter (04): WS: Longbow, {DEX +1}<br/>\n05) Fighter (05): <br/>\n06) Fighter (06): Called-Shot, Weapon Finesse<br/>\n07) Bard (01): Here goes Tumble &amp; UMD dump, etc.<br/>\nSimilarly strong, but ranged instead of melee. He plans to be an Arcane Archer soon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Cornflower",
+      "avatar": "10759006_1545641562.jpg",
+      "timestamp": "3:09 PM - Sep 11, 2019",
+      "content": "<div>I've been trying out your assassin build. It's awesome. I actually modified it a bit, removed the saves (since I can Forge those in game, I can add +2 universal to every item I have equipped) and added DevCrit instead (which now is modified in BSK to give double the damage). I was also extremely lucky and managed to make an uber Dwarven WarAxe. So, now I hit for around 60 points. When I sneak/knockdown I get around 100ish, but the DevCrit gives 250-500 per hit. I hit once for 505 points. That was kinda nice. In game I have AC65, so it's not quite a glass jaw dps either.<br/>\n<br/>\nTo sum it up, your build with the extreme axe I was lucky to make (well, buy for 17 million then forge) is so overpowered. It's great fun! Later today I'm gonna take on one of the high-end raid areas where I've never dared to set my foot alone.<br/>\n<br/>\nI checked out the other build, but it's very feat-starved and hence it's not easy to get DevCrit or Exotic weapon on it. I vote Valerfor regardless.</div>"
     }
   ]
 }

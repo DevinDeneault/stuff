@@ -4,509 +4,54 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "810",
-  "name": "Self-sufficient builds (moved from High magic worlds)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/self-sufficient-builds-moved-from-high-magic-world-t2355160.html",
-  "author": "Agadris",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 82,
+  "name": "Dwarven Thug Lord (Rogue 13 / Assassin 1 / Dwarven Defender 26)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarven-thug-lord-rogue-13-assassin-1-dwarven-defe-t2355174.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "6",
+  "views": "318",
   "posts": [
     {
-      "author": "Agadris",
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "10:26 AM - Sep 27, 2019",
+      "content": "<div><strong><span style=\"font-size:150%;line-height:normal\">Dwarven Thug Lord</span></strong><br/>\n<br/>\n<br/>\nThe concept is pretty simple.<br/>\n<br/>\nKnock em down and kill em. And be tanky enough to survive doing it.<br/>\n<br/>\nTwo handed weapon for added strength damage, and added sneak attack (up to 8d6).<br/>\n<br/>\nDwarven defender to access proficiencies galore, damage reduction (up to 18/-), bonus feats and huge HP boosts, 550hp without trying<br/>\n<br/>\nRogue for improved evasion and epic skill focus (I chose discipline, but listen might be another good choice) or Opportunist for more sneak damage (not that you need more)<br/>\n<br/>\nAssassin 1 level for value 1d6 sneak attack and skill dumps in UMD/tumble.<br/>\n<br/>\nMade a Greataxe version who gets added epic energy resistance to fire and acid and an AB of 43, and a Dev Crit version wielding a greatsword with an AB of 42, who loses two strength, these energy resistances and improved knockdown.<br/>\n<br/>\nWhat do you think?<br/>\n<br/>\n<br/>\n<br/>\n<strong>Greataxe version</strong><br/>\n<details><summary>Spoiler</summary>\nRogue(13), Assassin(1), Dwarven Defender(26), Dwarf\nSTR: 17 (34)\nCON: 16\nINT: 14\n\n01: Rogue(1): Dodge\n03: Rogue(3): Toughness, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Knockdown\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Improved Critical (Greataxe)\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Dwarven Defender(11): Great Strength I, (STR=23)\n23: Dwarven Defender(12)\n25: Dwarven Defender(14): Epic Weapon Focus (Greataxe)\n27: Rogue(12): Great Strength III, (STR=26)\n29: Dwarven Defender(17)\n31: Dwarven Defender(19)\n33: Dwarven Defender(20): Great Strength V, (STR=30)\n35: Dwarven Defender(22): Epic Energy Resistance (Fire)\n37: Assassin(1)\n39: Dwarven Defender(25): Great Strength VII, (STR=33)\n\nSkillpoints: 270\nSaving Throw bonuses: Spells: +6, Traps: +3, Poison: +2\nAB (max, naked): 43 (melee), 29 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Listen(4), Move Silently(4), Open Lock(1), Search(4), UMD(4), Save(19),\u00a0\n03: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(24),\u00a0\n05: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(34),\u00a0\n07: Listen(1), Spellcraft(5), Tumble(5), UMD(1), Save(34),\u00a0\n09: Listen(1), UMD(1), Save(50),\u00a0\n11: Concentration(14), Discipline(14), Listen(1), Save(33),\u00a0\n13: Concentration(1), Discipline(1), Listen(1), Save(35),\u00a0\n15: Concentration(1), Discipline(1), Listen(1), Save(37),\u00a0\n17: Concentration(1), Discipline(1), Listen(1), Spellcraft(5), Save(29),\u00a0\n19: Concentration(1), Discipline(1), Listen(1), Save(31),\u00a0\n21: Concentration(1), Discipline(1), Listen(1), Save(33),\u00a0\n23: Concentration(2), Discipline(2), Listen(1), Save(14),\u00a0\n25: Concentration(1), Discipline(1), Listen(1), Save(16),\u00a0\n27: Listen(1), Spellcraft(5), Tumble(5), UMD(5), Save(6),\u00a0\n29: Concentration(1), Discipline(1), Listen(1), Save(6),\u00a0\n31: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n33: Concentration(2), Discipline(2), Listen(1), Save(6),\u00a0\n35: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n37: Listen(1), Spellcraft(4), Tumble(5), Save(1),\u00a0\n39: Concentration(1), Discipline(1), Listen(1), Save(1),\u00a0</details>\n<br/>\n<strong>Dev crit version</strong><br/>\n<details><summary>Spoiler</summary>Rogue(13), Assassin(1), Dwarven Defender(26), Dwarf\nSTR: 17 (32)\nCON: 16\nINT: 14\n\n01: Rogue(1): Dodge\n03: Rogue(3): Toughness, {Uncanny Dodge I}\n05: Rogue(5)\n07: Rogue(7)\n09: Rogue(9): Knockdown\n11: Dwarven Defender(1): {Defensive Stance}\n13: Dwarven Defender(3)\n15: Dwarven Defender(5): Improved Critical (Greatsword)\n17: Dwarven Defender(7)\n19: Dwarven Defender(9)\n21: Dwarven Defender(11): Cleave\n23: Dwarven Defender(12)\n25: Dwarven Defender(14): Overwhelming Critical (Greatsword)\n27: Rogue(12): Great Cleave\n29: Dwarven Defender(17)\n31: Dwarven Defender(19)\n33: Dwarven Defender(20): Great Strength III, (STR=28)\n35: Dwarven Defender(22): Epic Weapon Focus (Greatsword)\n37: Assassin(1)\n39: Dwarven Defender(25): Great Strength V, (STR=31)\n\nSkillpoints: 270\nSaving Throw bonuses: Spells: +6, Traps: +3, Poison: +2\nAB (max, naked): 42 (melee), 29 (ranged)\nSpell Casting:\u00a0\n\n\n01: Hide(4), Listen(4), Move Silently(4), Open Lock(1), Search(4), UMD(4), Save(19),\u00a0\n03: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(24),\u00a0\n05: Hide(1), Listen(1), Move Silently(1), Search(1), UMD(1), Save(34),\u00a0\n07: Listen(1), Spellcraft(5), Tumble(5), UMD(1), Save(34),\u00a0\n09: Listen(1), UMD(1), Save(50),\u00a0\n11: Concentration(14), Discipline(14), Listen(1), Save(33),\u00a0\n13: Concentration(1), Discipline(1), Listen(1), Save(35),\u00a0\n15: Concentration(1), Discipline(1), Listen(1), Save(37),\u00a0\n17: Concentration(1), Discipline(1), Listen(1), Spellcraft(5), Save(29),\u00a0\n19: Concentration(1), Discipline(1), Listen(1), Save(31),\u00a0\n21: Concentration(1), Discipline(1), Listen(1), Save(33),\u00a0\n23: Concentration(2), Discipline(2), Listen(1), Save(14),\u00a0\n25: Concentration(1), Discipline(1), Listen(1), Save(16),\u00a0\n27: Listen(1), Spellcraft(5), Tumble(5), UMD(5), Save(6),\u00a0\n29: Concentration(1), Discipline(1), Listen(1), Save(6),\u00a0\n31: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n33: Concentration(2), Discipline(2), Listen(1), Save(6),\u00a0\n35: Concentration(1), Discipline(1), Listen(1), Save(8),\u00a0\n37: Listen(1), Spellcraft(4), Tumble(5), Save(1),\u00a0\n39: Concentration(1), Discipline(1), Listen(1), Save(1),\u00a0</details></div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "1:57 PM - Sep 27, 2019",
+      "content": "<div>The Dev Crit version is the stronger one, doesn't matter if it has lower AB &amp; no (I)KD. <br/>\n<br/>\nBut, I have to say that the most \"complete build\", is the first one.<br/>\nTake Crippling strike with it, btw, on the first flurry, your opponent is already -4Str down &amp; then becomes worse.<br/>\n<br/>\nI like them Orion, offensive but with many defensive properties, the \"balance\" is strong with this one.\u00a0</div>"
+    },
+    {
+      "author": "gkorjax",
       "avatar": "no_avatar.png",
-      "timestamp": "10:10 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Perhaps, not the right topic to write this in but I hardly see any point in starting another one because it might not spur a full-on discussion...<br/>\n<br/>\nGuys, what build do you consider to be the most self-sufficient? I mean, what is, in your opinion, the strongest build capable of survival and dealing with nearly everything that comes its way without any need for magic items, scrolls and any gear other than mundane one? To make it even more challenging, let's say that the build also shouldn't rely on self-buffing.<br/>\n<br/>\nI mean, sure, at some point the environment can get so harsh that it becomes impossible to survive in it without a proper gear and magic tools. But we are talking about the build that can do relatively well, with all the abovementioned limitations, there where others are bound to fail by default.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:16 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This question comes from a minor obsession with the idea that in case of a truly powerful build its power is intrinsic to it. I know that any game design strives to prevent anything of the kind from existing because otherwise there would be too little space for variety and that would make the game boring but still...\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:59 PM - Sep 27, 2019",
+      "content": "<div>I love crippling strike.\u00a0 It is hard to squeeze in often, but wow do I love to play builds with it.</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:17 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dragon Shape form, Druid / Monk / XXX with BAB 26+<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:14 PM - Sep 27, 2019",
+      "content": "<div>Good call on Crippling Strike!<br/>\n<br/>\nI have just read about it in the NWN Wiki and it seems very strong!<br/>\n<br/>\nThankfully it is pretty simple to fit it in, swap ESF: Discipline for it.\u00a0<br/>\n<br/>\nNot sure whether it should be before or after Improved Evasion though, what do you think?<br/>\n<br/>\nThank you for the comments. Have learnt a bit about the Rogue class now!</div>"
     },
     {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:52 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yep... I totally expected something with Monk mojo to show up immediately. And if we don't consider Dragon Shape to be self-buffing, I agree with you, Orion, that the suggested combo would probably make the most efficient non-gear-dependent and well-protected-on-every-front build.\u00a0<br/>\n<br/>\nI wonder if somebody can come up with something else, though.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "5:02 PM - Sep 27, 2019",
+      "content": "<div>In this case, it should be <strong>after</strong>, &amp; the reason is that you don't have enough attacks (and neither twf)\u00a0 to take advantage of it, yet. <br/>\nWhen you have 4+ attacks/round it should always be your first choice.</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:58 AM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Iron Golem Form (Shapechange Spell), Druid / Monk / XXX with BAB 26+<br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">*slapped by Agadris*</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\"><strong>Edit:</strong></span><br/>\n<span style=\"font-size:100%;line-height:normal\">This is stronger:\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/yip-yip-you-re-dead-druid-6-shifter-7-assassin27-t2355014.html#p13992\" rel=\"noreferrer\" target=\"_blank\">yip-yip-you-re-dead-druid-6-shifter-7-a ... tml#p13992</a></span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:44 PM - Sep 27, 2019",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>In this case, it should be <strong>after</strong>, &amp; the reason is that you don't have enough attacks (and neither twf)\u00a0 to take advantage of it, yet. <br/>\nWhen you have 4+ attacks/round it should always be your first choice.</div></blockquote>\nThanks so much!</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:00 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, Dragonshape, even without any buffs at all - up to medium-high modules/PW's is pretty strong. <br/>\nIf we are talking about pure muscle, I also bet on a well-build Dwarven Defender. <br/>\nThe third option, the do-it-all Ftr/Rog/CoT with its incredible saves &amp; versatility &amp; trap skills, OR its brother Ftr/Wm/CoT in an EDR III set-up. <br/>\nAnd I'm gonna throw another one, as an outsider, but it works remarkably well, a Ranger(29)/SD(1)/CoT(10). <br/>\nPossibly others too, depending on how well they have been built.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:03 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Nah... no slapping , Orion<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\u00a0After all, druid's powers are intrinsic to the class and cannot be dispelled so they hardly can be called self-buffing in full sense of that word.<br/>\n<br/>\nNinjad by Valerfor but posting anyway.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:09 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Yes, Dragonshape, even without any buffs at all - up to medium-high modules/PW's is pretty strong. <br/>\nIf we are talking about pure muscle, I also bet on a well-build Dwarven Defender. <br/>\nThe third option, the do-it-all Ftr/Rog/CoT with its incredible saves &amp;amp; versatility &amp;amp; trap skills, OR its brother Ftr/Wm/CoT in an EDR III set-up. <br/>\nAnd I'm gonna throw another one, as an outsider, but it works remarkably well, a Ranger(29)/SD(1)/CoT(10). <br/>\nPossibly others too, depending on how well they have been built.</div></blockquote>\nNow we are talking... these seem to be nice go-to combos if you are planning an 'itemless' playthrough of some major modules or playing on low-magic (perhaps, even mid-magic, correct me if I'm wrong) servers.<br/>\nBtw, is it a sound idea to build a Barb/Rogue/CoT dexer with ED that uses Barb's Rage/Greater Rage to boost STR to deal more damage to the sneak-crit-proof opponents; CoT is conceived for its boost to saves (though in this case that would be a minor boost, I guess)?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:15 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here's another contender...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/epic-brawler-champion-fighter-18-cot-18-monk-4-t2354467.html\" rel=\"noreferrer\" target=\"_blank\">Epic Brawler Champion</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:26 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Agadris wrote:</cite><blockquote><div><cite>Valerfor wrote:</cite>Yes, Dragonshape, even without any buffs at all - up to medium-high modules/PW's is pretty strong. <br/>\nIf we are talking about pure muscle, I also bet on a well-build Dwarven Defender. <br/>\nThe third option, the do-it-all Ftr/Rog/CoT with its incredible saves &amp;amp;amp; versatility &amp;amp;amp; trap skills, OR its brother Ftr/Wm/CoT in an EDR III set-up. <br/>\nAnd I'm gonna throw another one, as an outsider, but it works remarkably well, a Ranger(29)/SD(1)/CoT(10). <br/>\nPossibly others too, depending on how well they have been built.</div></blockquote>\nNow we are talking... these seem to be nice go-to combos if you are planning an 'itemless' playthrough of some major modules or playing on low-magic (perhaps, even mid-magic, correct me if I'm wrong) servers.<br/>\nBtw, is it a sound idea to build a Barb/Rogue/CoT dexer with ED that uses Barb's Rage/Greater Rage to boost STR to deal more damage to the sneak-crit-proof opponents; CoT is conceived for its boost to saves (though in this case that would be a minor boost, I guess)?</div></blockquote>\nYour only problems are going to be the split and the starting stats. You're going to need at least 13 levels of Rogue for ED, lots of Barbarian if you want to rage a lot (15 levels will only give you 4 Greater Rages), and probably at least 10 levels of CoT (not just for the saves - the bonus feats will be very useful). Obviously you'll be wanting plenty of Dex, but you'll also need lots of Con if you want Rage to last longer than a burp.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:31 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Barb, might be pushing it a little Agadris, I would feel more comfortable when having an additional source of dmg, like EWS.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:38 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>Agadris wrote:</cite><blockquote><div><cite>Valerfor wrote:</cite>Yes, Dragonshape, even without any buffs at all - up to medium-high modules/PW's is pretty strong. <br/>\nIf we are talking about pure muscle, I also bet on a well-build Dwarven Defender. <br/>\nThe third option, the do-it-all Ftr/Rog/CoT with its incredible saves &amp;amp;amp;amp; versatility &amp;amp;amp;amp; trap skills, OR its brother Ftr/Wm/CoT in an EDR III set-up. <br/>\nAnd I'm gonna throw another one, as an outsider, but it works remarkably well, a Ranger(29)/SD(1)/CoT(10). <br/>\nPossibly others too, depending on how well they have been built.</div></blockquote>\nNow we are talking... these seem to be nice go-to combos if you are planning an 'itemless' playthrough of some major modules or playing on low-magic (perhaps, even mid-magic, correct me if I'm wrong) servers.<br/>\nBtw, is it a sound idea to build a Barb/Rogue/CoT dexer with ED that uses Barb's Rage/Greater Rage to boost STR to deal more damage to the sneak-crit-proof opponents; CoT is conceived for its boost to saves (though in this case that would be a minor boost, I guess)?</div></blockquote>\nYour only problems are going to be the split and the starting stats. You're going to need at least 13 levels of Rogue for ED, lots of Barbarian if you want to rage a lot (15 levels will only give you 4 Greater Rages), and probably at least 10 levels of CoT (not just for the saves - the bonus feats will be very useful). Obviously you'll be wanting plenty of Dex, but you'll also need lots of Con if you want Rage to last longer than a burp.</div></blockquote>\nStag, could you, please, define 'lots of Con' even if we are talking about Barb's Rage in any rage-focused build that doesn't rely on Con only?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:43 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Barb, might be pushing it a little Agadris, I would feel more comfortable when having an additional source of dmg, like EWS.</div></blockquote>\nOkay... hence the Ftr in the combos you suggested, Valerfor. I see.\u00a0<br/>\nBtw, this '<em>Ftr/Wm/CoT in an EDR III set-up</em>' and this '<em>Ranger(29)/SD(1)/CoT(10)</em>' sound very interesting. Are there any such builds on the forum?\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:48 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dwarven Master Slicer =&gt; <a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build224576.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 24576.html</a>#<br/>\nFor the second one, I would have make it myself probably, but I know from the class-split &amp; the available feats that it will be a really flexible build with lots of skills, traps, full tumble, solid saving throws, HiPS, BoE, etc. <br/>\nHm, that one, however, would definitely be a level-forty build (because the SD-level, should come at 37, for maximum efficiency),<br/>\nBetter would be, Ranger(30)-SD(2)-CoT(8) OR Ranger(30)-SD(2)-Ftr(8), a more offensive variant of the first but with lesser saving throws.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:56 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just remembered another nice Ranger build, with HS instead, by Mick.<br/>\nMinsc =&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/minsc-and-other-bg-characters-t2354360.html#p6048\" rel=\"noreferrer\" target=\"_blank\">minsc-and-other-bg-characters-t2354360.html#p6048</a><br/>\n<br/>\nRanger is a very underrated class IMO.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:23 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">This part of the thread has evolved into its own topic and derailed the original thread so I moved it over here.<br/>\nMick<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:59 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Agadris, I wonder why you will exclude self buffers when you ask for a versatile build. In low and even mid magic environments they shine.<br/>\nBards, clerics, druids, wizards and even rangers and paladins - they all do it to some extent. (Yes, you can do it with sorcerers too)<br/>\nOr perhaps the key word is \"rely on\", meaning you can accept it to a minor degree as in rangers, paladins and minor class casters?<br/>\nRogue is a very versatile and self reliant build type. It gets even better when combined with wizard or a fighter type class.<br/>\nBard is the epitome of versatility and the class can be multiclassed\u00a0 with great success.<br/>\nShadowdancer with HIPS adds a great means of crowd control to stealth characters.<br/>\nCleric is a power class (almost) unparallelled. Quote by Unknown:\" If you are afraid of dying, play a cleric!\"<br/>\nWe have already talked about some of the powers of the Druid class.<br/>\nWizard with the access to all arcane spells is very versatile with utility spells, buffs and attack spells. All the buffs even let you play them as melee characters.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:46 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There is the classic Fighter / Bard / RDD, and if you would allow self-buffing, Cleric / Bard / RDD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:55 PM - Sep 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>Agadris, I wonder why you will exclude self buffers when you ask for a versatile build. In low and even mid magic environments they shine.<br/>\nBards, clerics, druids, wizards and even rangers and paladins - they all do it to some extent. (Yes, you can do it with sorcerers too)<br/>\nOr perhaps the key word is &amp;quot;rely on&amp;quot;, meaning you can accept it to a minor degree as in rangers, paladins and minor class casters?<br/>\nRogue is a very versatile and self reliant build type. It gets even better when combined with wizard or a fighter type class.<br/>\nBard is the epitome of versatility and the class can be multiclassed\u00a0 with great success.<br/>\nShadowdancer with HIPS adds a great means of crowd control to stealth characters.<br/>\nCleric is a power class (almost) unparallelled. Quote by Unknown:&amp;quot; If you are afraid of dying, play a cleric!&amp;quot;<br/>\nWe have already talked about some of the powers of the Druid class.<br/>\nWizard with the access to all arcane spells is very versatile with utility spells, buffs and attack spells. All the buffs even let you play them as melee characters.</div></blockquote>\nMick, I'm not excluding them per se. It was merely a suggestion on how to make the challenge of finding a build that can pull itself by the bootstraps (i.e. survive relying only on everything that comes out of level progression and feats) a bit more challenging.<br/>\nI just thought that buffs could be left out because they, at the end of the day, are dispellable. Still, every self-buffer is a welcome addition to the thread.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:10 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Some modules and persistent worlds will have a 'rod of fast buffing'<br/>\nIts a godsend for those self-buffers.<br/>\nRE dispellability a close to pure spell caster build will rarely get their buffs removed beyond caster level 24, with the exception of breaches and Mord's<br/>\n<br/>\nIf we include self-buffers in a no magic mundane only item environment I think cleric will win every time.\u00a0<br/>\nTake trickery domain for invisibility/improved invisibility<br/>\nOther domain could be travel cast extended haste on one's self for example.<br/>\nHave a caster level of 35, we are talking about 70 rounds of haste.<br/>\nAdd in buffs like extended divine power extended divine favor, aid, bless, bulls strength, magic vestment you're laughing<br/>\nThe remaining 5 levels could be anything you like. Rogue / Shadowdancer / Fighter / Monk are good choices for light multiclassing<br/>\n<br/>\nI think a build like the Abjurant Champion (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-abjurant-champion-wizard-26-ftr-6-cot-8-t2354353.html#p742\" rel=\"noreferrer\" target=\"_blank\">the-abjurant-champion-wizard-26-ftr-6-c ... .html#p742</a>) would also be pretty sweet too. I'm not a master at all of the wizard class, but any build with a AB close to 40 with an undispellable full wizard spell book plus epic spells EMA and Epic Warding gets a vote from me<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:51 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">No! Bloody no! And then some more no with a big fat lump of no on top! Do not let these sneaky arcanist (Wiz/Sorc) types or religious zealots (Cleric/Druid) turn your head with their sweet inveiglings, Agadris! I can just about allow Bard - but only for the Song. The rest can \"get thee hence!\"<br/>\n<br/>\nIn his unassuming way, Empyre neglects to mention his own stupendous series of Order of the Wyrm builds - many and varied in focus, but all Monk 25/ Sorc 1/ RDD 14, which are always worth consideration. Yes, I know there's a level of Sorcerer in there, but it's useless and only there to access RDD goodies, so stop whining, you lot! It's the first build I take anywhere, and it works. And what's not to like about a build that doesn't die and just keeps getting stronger?<br/>\n<br/>\nSorry, rant over...for now<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:45 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>If we include self-buffers in a no magic mundane only item environment I think cleric will win every time. </div></blockquote>\nClerics are indeed great, but watch out for the arcanists! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:57 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite><blockquote><div><cite>Orion2019 wrote:</cite>If we include self-buffers in a no magic mundane only item environment I think cleric will win every time. </div></blockquote>\nClerics are indeed great, but watch out for the arcanists! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /></div></blockquote>\nOi, Dagger! No!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:02 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>No! Bloody no! </div></blockquote>\nIf you can't fight them, why not join them? <br/>\nOK, it has occured to me that you are slightly reluctant to join the ranks of casters.<br/>\nMonks can be serious mage hunters. But then we are not talking about minor monk cheese for this and that.<br/>\nA true rock, paper, scissors challenge!<br/>\nCan you do it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:12 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite><blockquote><div><cite>Stagmeister wrote:</cite>No! Bloody no! </div></blockquote>\nIf you can't fight them, why not join them? <br/>\nOK, it has occured to me that you are slightly reluctant to join the ranks of casters.<br/>\nMonks can be serious mage hunters. But then we are not talking about minor monk cheese for this and that.<br/>\nA true rock, paper, scissors challenge!<br/>\nCan you do it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "2:19 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>Do you really want me to answer that first line?<br/>\nCan't imagine where you got the second line from, but let's assume you're right...<br/>\nThird line - you've met me, I don't do Monk cheese.<br/>\nFourth line (rather depends on whether you've seen &amp;quot;The Big Bang Theory&amp;quot;, I suspect) - Spock!<br/>\nAnd finally, I'll give it my best shot. See if I'm really ready to be an Epic Character Builder yet.<br/>\n<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:20 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I like cheese. Its a good topping for certain dishes and has good nutritional value.<br/>\n<br/>\nIts certainly a common addition on the menu at the Epic Character Builders.<br/>\n<br/>\nSome of the ECB best chefs use it as an ingredient in almost all their dishes.<br/>\n<br/>\nI'm sure your doctor has advised you at some stage it is important to have a varied and well balanced diet to maintain one's wellbeing.<br/>\n<br/>\nI'm also sure your mother has also told you its important to have your vegetables even if it includes some 'over-powering' flavours<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:41 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You can eat cheese without eating real cheese.<br/>\nSome sort of a diet cheese would do perhaps, perhaps not. <br/>\nYou can become a mage without being one &amp; I'm not referring to umd of course, <br/>\nYou can be a Rak instead &amp; run around spamming Ice Storms, unfortunately, they do little else, looks kinda like this:<br/>\nIce Storm, Ice Storm, Ice Storm,....Ice Storm!<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://thumbs.gfycat.com/AgitatedFamousAmericanbulldog-small.gif\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:47 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>I like cheese. Its a good topping for certain dishes and has good nutritional value.<br/>\n<br/>\nIts certainly a common addition on the menu at the Epic Character Builders.<br/>\n<br/>\nSome of the ECB best chefs use it as an ingredient in almost all their dishes.<br/>\n<br/>\nI'm sure your doctor has advised you at some stage it is important to have a varied and well balanced diet to maintain one's wellbeing.<br/>\n<br/>\nI'm also sure your mother has also told you its important to have your vegetables even if it includes some 'over-powering' flavours</div></blockquote>\nIt seems I'm going to have to do line by line again...<br/>\n1. So's bacon.<br/>\n2. And?<br/>\n3. Yes, and they're dishes I don't use.<br/>\n4. Indeed - and part of that advice was to have less cheese.<br/>\n5. Entirely too many possible responses here - none of which will help my profile shine any brighter.<br/>\nStill, thanks for the support.<br/>\n<br/>\nEDIT: Good here, innit?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "3:12 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\u00a0<br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">Sorry stag was hoping you found it amusing</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">Didn't mean to offend if I did</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">Some players find choosing the most powerful choices possible spoils enjoyable</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">Others want the challenge of less powerful choices and enjoy achieving victory 'despite all odds'</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">I think this is a slow maturation process - once you have tried out the uber builds, one will gravitate to other builds which have their own enjoyment factors</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">And there is nothing more enjoyable than winning with an 'underdog' build through tactical knowledge and skillful play</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:48 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite><img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />.<br/>\nYou may have hit upon something important here (I'm talking in build terms, not existentially). I know I started without playing any uber-builds and am building up to them (see what I did there?), rather than going the other way. To a certain extent that would explain my differences with Max and failure to adequately play his builds. I always liked playable at all levels rather than anything else. I believe it helps you develop incrementally, so you get better at different play-styles on your way. Others have a different view, which is fine.<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:10 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Heh, now you made me remember another good one with him...<br/>\nWhen he returned a couple of years ago &amp; start posting that experience had changed him &amp; he wanted to revise his builds so that they are <strong>more playable</strong>...<br/>\n<br/>\nI thought he was a doppelganger of shorts &amp; I have to see one from Durlag's Tower!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:29 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Heh, now you made me remember another good one with him...<br/>\nWhen he returned a couple of years ago &amp;amp; start posting that experience had changed him &amp;amp; he wanted to revise his builds so that they are <strong>more playable</strong>...<br/>\n<br/>\nI thought he was a doppelganger of shorts &amp;amp; I have to see one from Durlag's Tower!</div></blockquote>\nOoh, now you say it, I remember! I know he's going to be away for a good while yet, but I'll be chasing him about that!<br/>\nAnd now you've got me thinking about Durlag's Tower - what was the first son's name - it began with a K - had the cursed helm and the Dwarven Doomguards looking after his tomb?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "4:31 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Always pays to check, humor can be a double edged sword<br/>\n<br/>\nFascinating you go the other way, I always viewed a uber build as a 'leg up' so to speak, later on one can take on the challenges of the 'pure fighter' build and the 80hp con 6 elven sorceress.\u00a0<br/>\n<br/>\nIf you can overcome the challenges of the harder builds and succeed then uber builds would get boring<br/>\n<br/>\nThat being said when you come home, your brain is fried from a tough day, sometimes you just need to point and click and an uber build just does that for you really<br/>\n<br/>\nLooks like my brain needs some cooling :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:37 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I don't remember who, but somebody who knows WoG well said that my Order of the Wyrm builds would not do well there.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "8:05 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><span style=\"font-size:100%;line-height:normal\">I'm not sure I agree with whoever said that,</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">If this is the build (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/order-of-the-wyrm-17-monk-25-sorcerer-1-rdd-14-upd-t515525.html\" rel=\"noreferrer\" target=\"_blank\">order-of-the-wyrm-17-monk-25-sorcerer-1 ... 15525.html</a>)</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">base\u00a0AB 40 with ITWF kamas with Monk UBAB, 9 attacks / round, able to use arcane scrolls through sorcerer (ie tensors / improved invisibility / flame weapon / keen weapon), devastating critical, untouchable spell resistance, mind immunity, improved evasion, great saves...</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">One should be able to get through massive portions of the persistent world solo</span><br/>\n<br/>\n<span style=\"font-size:100%;line-height:normal\">Perhaps it was in comparison with a high magic world which had uber Kamas or something like that?</span><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:12 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>No! Bloody no! And then some more no with a big fat lump of no on top! Do not let these sneaky arcanist (Wiz/Sorc) types or religious zealots (Cleric/Druid) turn your head with their sweet inveiglings, Agadris! I can just about allow Bard - but only for the Song. The rest can &amp;quot;get thee hence!&amp;quot;<br/>\n<br/>\nIn his unassuming way, Empyre neglects to mention his own stupendous series of Order of the Wyrm builds - many and varied in focus, but all Monk 25/ Sorc 1/ RDD 14, which are always worth consideration. Yes, I know there's a level of Sorcerer in there, but it's useless and only there to access RDD goodies, so stop whining, you lot! It's the first build I take anywhere, and it works. And what's not to like about a build that doesn't die and just keeps getting stronger?<br/>\n<br/>\nSorry, rant over...for now</div></blockquote>\nStag, incidentally, I used to play pure casters back in the day - due to my fascination with magic-wielders in any fantasy pieces - going for the highest DC-s possible and, much later, opting for a Melee Mage play-style.\u00a0<br/>\nSometimes I would add a bit of Rogue because OC and many modules simply demand that you have trap and lock-picking skills or a dedicated rogue at your side (and bloody \"I AM A HAWFLEEN THEEF, AH AM AH AM\" of the infamous Tommy Undergallows just didn't cut it for me). I guess, that's where my eternal desire to have a character who can take care of nearly everything comes from, it was learnt through many hours of disabling traps and picking locks.<br/>\nAs to the Bards, they are great, but I really wish there were the feat from 3.5 rules that allows them to cast spells with no penalties if wearing light armor.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:16 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite><blockquote><div><cite>Orion2019 wrote:</cite>If we include self-buffers in a no magic mundane only item environment I think cleric will win every time. </div></blockquote>\nClerics are indeed great, but watch out for the arcanists! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:25 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>Some modules and persistent worlds will have a 'rod of fast buffing'<br/>\nIts a godsend for those self-buffers.<br/>\nRE dispellability a close to pure spell caster build will rarely get their buffs removed beyond caster level 24, with the exception of breaches and Mord's<br/>\n<br/>\nIf we include self-buffers in a no magic mundane only item environment I think cleric will win every time.\u00a0<br/>\nTake trickery domain for invisibility/improved invisibility<br/>\nOther domain could be travel cast extended haste on one's self for example.<br/>\nHave a caster level of 35, we are talking about 70 rounds of haste.<br/>\nAdd in buffs like extended divine power extended divine favor, aid, bless, bulls strength, magic vestment you're laughing<br/>\nThe remaining 5 levels could be anything you like. Rogue / Shadowdancer / Fighter / Monk are good choices for light multiclassing<br/>\n<br/>\nI think a build like the Abjurant Champion (<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-abjurant-champion-wizard-26-ftr-6-cot-8-t2354353.html#p742\" rel=\"noreferrer\" target=\"_blank\">the-abjurant-champion-wizard-26-ftr-6-c ... .html#p742</a>) would also be pretty sweet too. I'm not a master at all of the wizard class, but any build with a AB close to 40 with an undispellable full wizard spell book plus epic spells EMA and Epic Warding gets a vote from me</div></blockquote>\nAhh... I wish there were a mod that would add this rod into any module you wanted<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nAnd speaking of high-AB spellswords, they are great, indeed. However, there's one thing I don't like about them (some of them) and it's just my opinion, of course... most of them focus heavily on melee classes pre-epic and most of your playthrough you play as if your character were a purely melee-type. Then you start casting some spells at the epic stage AND... the module is usually over.<br/>\nNow, I know, that playing on PWs is different but if you are not into playing on-line...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:31 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>Mick Dagger wrote:</cite><blockquote><div><cite>Stagmeister wrote:</cite>No! Bloody no! </div></blockquote>\nIf you can't fight them, why not join them? <br/>\nOK, it has occured to me that you are slightly reluctant to join the ranks of casters.<br/>\nMonks can be serious mage hunters. But then we are not talking about minor monk cheese for this and that.<br/>\nA true rock, paper, scissors challenge!<br/>\nCan you do it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:38 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>I don't remember who, but somebody who knows WoG well said that my Order of the Wyrm builds would not do well there.</div></blockquote>\nThat was Max (surprise, surprise), and it was in either the discussion of\u00a0 my Farmer build or in the MTS thread. I didn't - and don't - believe him for a second. After all, much of the time it's about how you play a build as well as the build itself, and that means getting to know it - it's like driving: if you don't know how to drive you're as likely to crash a Ferrari as you are a Skoda.<br/>\nFor the record, I still use the Order of the Wyrm builds you gave me back in December 2014 in my second ever build request, and would happily stand by them anywhere.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:42 AM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Agadris wrote:</cite><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>Mick Dagger wrote:</cite>\nIf you can't fight them, why not join them? <br/>\nOK, it has occured to me that you are slightly reluctant to join the ranks of casters.<br/>\nMonks can be serious mage hunters. But then we are not talking about minor monk cheese for this and that.<br/>\nA true rock, paper, scissors challenge!<br/>\nCan you do it? <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /></div></blockquote>\nCertainly not! Tried it, didn't like it - it chafed all over: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/shh-tell-no-one-t2355040.html\" rel=\"noreferrer\" target=\"_blank\">Shh - Tell No One</a><br/>\nNo, this is about coming up with an ultimate slayer of casters.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:29 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>So... a first-ever caster build by a true melee-lobbyist Stagmeister is coming then, right?<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nCertainly not! Tried it, didn't like it - it chafed all over: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/shh-tell-no-one-t2355040.html\" rel=\"noreferrer\" target=\"_blank\">Shh - Tell No One</a><br/>\nNo, this is about coming up with an ultimate slayer of casters.</div></blockquote>\nSo we need an 'Anti-Mage'!<br/>\nMonk 20+ is great for untouchable spell resistance, mind immunity, monk speed, improved evasion and improved knockdown<br/>\nThen we need to figure out where to go from there.<br/>\nPerhaps Dwarf for +2 to saves against spells<br/>\nDevastating critical would be nice, turn that instant death ability that mages have against them, and with their low fortitude save... SPLAT<br/>\nSneak or death attack as well. Knock em down, 6d6 sneak attack 6-7 times per round, good night.<br/>\nIf Stag can tolerate it, UMD, but only to use Mord's and Breaches to remove enemy buffs, all other usages are forbidden by the mage hunter code.<br/>\nThen add some full BAB class to access the BAB 26+, perhaps CoT or Fighter.\u00a0<br/>\nOr shadowdancer for HiPS but in Vanilla NWN its pretty hard countered by True Sight spells, I take it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:52 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite><blockquote><div><cite>Stagmeister wrote:</cite>So... a first-ever caster build by a true melee-lobbyist Stagmeister is coming then, right?<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nCertainly not! Tried it, didn't like it - it chafed all over: <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/shh-tell-no-one-t2355040.html\" rel=\"noreferrer\" target=\"_blank\">Shh - Tell No One</a><br/>\nNo, this is about coming up with an ultimate slayer of casters.</div></blockquote>\nSo we need an 'Anti-Mage'!<br/>\nMonk 20+ is great for untouchable spell resistance, mind immunity, monk speed, improved evasion and improved knockdown<br/>\nThen we need to figure out where to go from there.<br/>\nPerhaps Dwarf for +2 to saves against spells<br/>\nDevastating critical would be nice, turn that instant death ability that mages have against them, and with their low fortitude save... SPLAT<br/>\nSneak or death attack as well. Knock em down, 6d6 sneak attack 6-7 times per round, good night.<br/>\nIf Stag can tolerate it, UMD, but only to use Mord's and Breaches to remove enemy buffs, all other usages are forbidden by the mage hunter code.<br/>\nThen add some full BAB class to access the BAB 26+, perhaps CoT or Fighter.\u00a0<br/>\nOr shadowdancer for HiPS but in Vanilla NWN its pretty hard countered by True Sight spells, I take it?</div></blockquote>\nOi - this is <em>my</em> challenge from Captain Stabby! (Helpful and constructive as your contribution is, Orion, so thank you.)<br/>\nMy initial thought, btw, was Monk (no great surprise there) - and I'm still trying to locate Valerfor's Grand Master of Flowers (or Blossom, as I like to call him) for reference. My second thought, perhaps counter-intuitively, was an Arcane Archer (without making any actual use of spells, of course), and that's still taking shape. Then there's Dwarven Defender to consider, and a dedicated trap-smith, and all manner of other stuff.<br/>\nI'm just letting it mull for now, but I'll keep you posted.<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:23 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just for information, I've now tracked down Valerfor's Grand Master of Flowers - oddly enough in a thread titled \"Looking for a Mage-Killer\" - and the discussion also mentions AAs. It's all gone very weird. Nothing new in this world, eh?<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?f=11&amp;t=2354362&amp;p=6086&amp;hilit=Grand+Master+Flowers#p6086\" rel=\"noreferrer\" target=\"_blank\">Mage-Killer</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:38 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">For something very aggressive I suggest: Monk 26/ Ftr 4/ CoT 10,<br/>\nHalf-Orc: Str 19(<strong>36</strong>), Dex 14, Con 10, Int 9, Wis 14, Cha 6<br/>\nBAB: 26<br/>\nAB: 43/ 40/ 37/ 34/ 31/ 28 (Fists of Death)<br/>\nDMG: 1D20 +19/ 19-20 X2 &amp; Dev Crit DC: 43(<strong>49</strong>)<br/>\nSR: 38 (Cannot be reduced)<br/>\n2/Day Etherealness (Cannot be dispelled) X26 rounds each. <br/>\nAC: 29 (naked)<br/>\nVery min/maxed but I wanted to see its highest potential here, if you went Kamas, then I would also suggest having UMD.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "5:47 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>Just for information, I've now tracked down Valerfor's Grand Master of Flowers - oddly enough in a thread titled &amp;quot;Looking for a Mage-Killer&amp;quot; - and the discussion also mentions AAs. It's all gone very weird. Nothing new in this world, eh?<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?f=11&amp;amp;t=2354362&amp;amp;p=6086&amp;amp;hilit=Grand+Master+Flowers#p6086\" rel=\"noreferrer\" target=\"_blank\">Mage-Killer</a></div></blockquote>\nTask accomplished!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:57 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Maybe try a Bard / RDD / AA with ranged Dev Crit, so the reciprocating damage spells won't hurt you.\u00a0 However, then you lose the Monk saves and spell resistance.\u00a0 I have one optimized for Aielund, one for SoF, and one for MTS.\u00a0 I could post any or all of those here, but will do so only if you ask me to, because it is your challenge.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:13 PM - Sep 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Empyre65 wrote:</cite>Maybe try a Bard / RDD / AA with ranged Dev Crit, so the reciprocating damage spells won't hurt you.\u00a0 However, then you lose the Monk saves and spell resistance.\u00a0 I have one optimized for Aielund, one for SoF, and one for MTS.\u00a0 I could post any or all of those here, but will do so only if you ask me to, because it is your challenge.</div></blockquote>\nWell, as Mick informs me, my task is already accomplished (so it transpires it was one of research and memory, rather than one of building, which is a relief in many ways), so let the floodgates open! I'd be really interested to see as many of these Bard/RDD/AA builds as you feel like sharing, thanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "1:04 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">OK, here they are:\n<details><summary>Spoiler</summary>\nDraconic Archer 7 (Bard 7 / Red Dragon Disciple 10 / Arcane Archer 23)\nPlayable 1 - 40, PvM\n\nSTR: 14 (22)\nCON: 12 (14)\nINT: 12 (14)\n\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Bard(2)\n04: Bard(4): DEX+1, (DEX=18)\n06: Red Dragon Disciple(1): Blind Fight\n08: Red Dragon Disciple(3): DEX+1, (DEX=19)\n10: Arcane Archer(1)\n12: Arcane Archer(3): DEX+1, Called Shot, (DEX=20)\n14: Arcane Archer(5)\n16: Red Dragon Disciple(6): DEX+1, (DEX=21)\n18: Red Dragon Disciple(8): Iron Will\n20: Arcane Archer(7): DEX+1, (DEX=22)\n22: Red Dragon Disciple(10): {Darkvision}, (STR=22), (CHA=14)\n24: Arcane Archer(9): DEX+1, Great Dexterity I, (DEX=24)\n26: Arcane Archer(11)\n28: Arcane Archer(12): DEX+1, (DEX=26)\n30: Arcane Archer(14): Great Dexterity III, Epic Weapon Focus: Longbow, (DEX=27)\n32: Arcane Archer(16): DEX+1, (DEX=28)\n34: Arcane Archer(18): Great Dexterity V, (DEX=30)\n36: Arcane Archer(20): DEX+1, Great Dexterity VI, (DEX=32)\n38: Arcane Archer(21)\n40: Arcane Archer(23): DEX+1, (DEX=34)\nStats:\nSkillpoints: 214\nSaving Throw bonuses: Spells: +2, Mind Effects: +2\nAB (max, naked): 33 (melee), 54 (ranged)\nSpell Casting: Bard(3)\n\nDiscipline 40(46), Heal 42(42), Listen 43(45), Lore 8(17), Perform 10(12), Spellcraft 8(10), Tumble 40(52), UMD 23(25)\n01: Discipline(4), Lore(4), Perform(4), Tumble(4), UMD(4)\n03: Discipline(1), Lore(1), Perform(1), Tumble(1), UMD(1)\n05: Discipline(1), Lore(1), Perform(1), Tumble(1), UMD(1)\n07: Discipline(1), Listen(2)\n09: Discipline(1), Listen(2)\n11: Listen(1), Save(4)\n13: Listen(1), Save(12)\n15: Discipline(6), Listen(1), Spellcraft(8), Save(4)\n17: Discipline(1), Listen(1), Save(6)\n19: Listen(1), Save(11)\n21: Discipline(3), Listen(1), Save(14)\n23: Listen(1), Save(21)\n25: Save(32)\n27: Discipline(5), Perform(2), Tumble(22), UMD(15)\n29: Heal(5), Listen(1)\n31: Heal(5), Listen(1)\n33: Heal(5), Listen(1)\n35: Listen(1), Save(10)\n37: Discipline(10), Listen(1), Tumble(10)\n39: Heal(5), Listen(1)\n</details>\n<details><summary>Spoiler</summary>\nDraconic Archer 8 (Bard 7 / Red Dragon Disciple 10 / Arcane Archer 23)\nPlayable 1 - 40, PvM\n\nSTR: 16 (26)\nCON: 10 (12)\nINT: 12 (14)\n\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Bard(2)\n04: Bard(4): DEX+1, (DEX=18)\n06: Red Dragon Disciple(1): Blind Fight\n08: Red Dragon Disciple(3): DEX+1, (DEX=19)\n10: Arcane Archer(1)\n12: Arcane Archer(3): DEX+1, Improved Critical: Longbow, (DEX=20)\n14: Arcane Archer(5)\n16: Red Dragon Disciple(6): DEX+1, (DEX=21)\n18: Red Dragon Disciple(8): Great Cleave\n20: Arcane Archer(7): DEX+1, (DEX=22)\n22: Red Dragon Disciple(10): {Darkvision}, (STR=24), (CHA=14)\n24: Arcane Archer(9): STR+1, Overwhelming Critical: Longbow, (STR=25)\n26: Arcane Archer(11)\n28: Arcane Archer(12): STR+1, (STR=26)\n30: Arcane Archer(14): Great Dexterity I, Great Dexterity II, (DEX=24)\n32: Arcane Archer(16): DEX+1, (DEX=25)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=28)\n38: Arcane Archer(21)\n40: Arcane Archer(23): DEX+1, (DEX=30)\nStats:\nSkillpoints: 214\nSaving Throw bonuses: Mind Effects: +2\nAB (max, naked): 35 (melee), 52 (ranged)\nSpell Casting: Bard(3)\n\nDiscipline 40(48), Lore 23(32), Perform 10(12), Search 25(29), Spot 43(44), Tumble 40(50), UMD 33(35)\n01: Discipline(4), Lore(4), Perform(4), Tumble(4), UMD(4)\n03: Discipline(1), Lore(1), Perform(1), UMD(1), Save(1)\n05: Discipline(1), Lore(1), Perform(1), UMD(1), Save(3)\n07: Discipline(1), Spot(2)\n09: Discipline(1), Search(1), Spot(1)\n11: Save(10)\n13: Save(20)\n15: Discipline(6), Search(17), Save(5)\n17: Discipline(1), Search(1), Save(7)\n19: Save(13)\n21: Discipline(3), Search(3), Save(15)\n23: Save(23)\n25: Save(35)\n27: Discipline(5), Perform(2), Tumble(25), UMD(15)\n29: Spot(6)\n31: Spot(6)\n33: Spot(1), Save(10)\n35: Spot(1), Save(20)\n37: Discipline(10), Lore(1), Tumble(10), UMD(10)\n39: Lore(5), Spot(1)\n</details>\n<details><summary>Spoiler</summary>\nDraconic Archer 6 (Bard 7 / Red Dragon Disciple 10 / Arcane Archer 23)\nPlayable 1 - 40, PvM\n\nSTR: 16 (26)\nCON: 10 (12)\nINT: 12 (14)\n\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Bard(2)\n04: Bard(4): DEX+1, (DEX=18)\n06: Red Dragon Disciple(1): Blind Fight\n08: Red Dragon Disciple(3): DEX+1, (DEX=19)\n10: Arcane Archer(1)\n12: Arcane Archer(3): DEX+1, Improved Critical: Longbow, (DEX=20)\n14: Arcane Archer(5)\n16: Red Dragon Disciple(6): DEX+1, (DEX=21)\n18: Red Dragon Disciple(8): Great Cleave\n20: Arcane Archer(7): DEX+1, (DEX=22)\n22: Red Dragon Disciple(10): {Darkvision}, (STR=24), (CHA=14)\n24: Arcane Archer(9): STR+1, Overwhelming Critical: Longbow, (STR=25)\n26: Arcane Archer(11)\n28: Arcane Archer(12): STR+1, (STR=26)\n30: Arcane Archer(14): Great Dexterity I, Great Dexterity II, (DEX=24)\n32: Arcane Archer(16): DEX+1, (DEX=25)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=28)\n38: Arcane Archer(21)\n40: Arcane Archer(23): DEX+1, (DEX=30)\nStats:\nSkillpoints: 214\nSaving Throw bonuses: Mind Effects: +2\nAB (max, naked): 35 (melee), 52 (ranged)\nSpell Casting: Bard(3)\n\nAppraise 5(7), Discipline 40(48), Listen 43(44), Lore 38(47), Perform 10(12), Tumble 40(50), UMD 38(40)\n01: Appraise(4), Lore(4), Perform(4), Tumble(4), UMD(4)\n03: Discipline(2), Lore(1), Perform(1), UMD(1)\n05: Discipline(1), Listen(1), Lore(1), Perform(1), UMD(1)\n07: Discipline(3), Listen(1), Save(1)\n09: Discipline(1), Listen(2)\n11: Listen(3), Save(2)\n13: Listen(1), Save(10)\n15: Discipline(6), Listen(1), Save(10)\n17: Discipline(1), Listen(1), Save(12)\n19: Listen(1), Save(17)\n21: Discipline(3), Listen(1), Save(20)\n23: Save(28)\n25: Save(40)\n27: Discipline(5), Perform(2), Tumble(25), UMD(20)\n29: Listen(1), Lore(5)\n31: Listen(1), Lore(5)\n33: Listen(1), Save(10)\n35: Listen(1), Save(20)\n37: Discipline(10), Listen(1), Tumble(10), UMD(10)\n39: Listen(1), Lore(5)\n\n\n\n02: Discipline(1), Lore(1), Perform(1), Tumble(1), UMD(1)\n04: Discipline(1), Listen(1), Lore(1), Perform(1), UMD(1)\n06: Discipline(1), Listen(2)\n08: Discipline(1), Listen(2)\n10: Listen(1), Save(4)\n12: Listen(1), Save(11)\n14: Listen(1), Save(19)\n16: Discipline(1), Listen(1), Save(16)\n18: Discipline(1), Listen(1), Save(18)\n20: Listen(1), Save(26)\n22: Discipline(1), Listen(1), Save(27)\n24: Listen(1), Save(37)\n26: Listen(1), Save(47)\n28: Listen(1), Spot(5)\n30: Listen(1), Spot(5)\n32: Listen(1), Save(5)\n34: Listen(1), Save(15)\n36: Listen(1), Save(25)\n38: Listen(1), Spot(5)\n40: Listen(1), Spot(5)</details>\nNow, these are all high-magic environments, so some tweaking would be needed for low-magic.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:17 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Empyre, you need rapid-shot in there man, do something &amp; get it, please.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:21 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here is my attempt -&gt; I haven't had a chance to look at Empyre65's yet<br/>\n<details><summary>Spoiler</summary>Bard(7), Arcane Archer(23), Red Dragon Disciple(10), Elf\nSTR: 16 (25)\nCON: 10 (12)\nINT: 10 (12)\n\n01: Bard(1): Point Blank Shot\n03: Bard(3): Weapon Focus (Longbow)\n05: Bard(5)\n07: Red Dragon Disciple(2): (STR=18)\n09: Red Dragon Disciple(4): Called Shot, (STR=20)\n11: Arcane Archer(2)\n13: Arcane Archer(4)\n15: Arcane Archer(6): Blind Fight\n17: Arcane Archer(8)\n19: Bard(6)\n21: Red Dragon Disciple(5): Cleave\n23: Red Dragon Disciple(7): (CON=12)\n25: Red Dragon Disciple(9): (INT=12)\n27: Arcane Archer(11): Great Strength I, (STR=25)\n29: Arcane Archer(13)\n31: Arcane Archer(15)\n33: Arcane Archer(17): Epic Weapon Focus (Longbow)\n35: Arcane Archer(19)\n37: Bard(7)\n39: Arcane Archer(22): Great Dexterity I, Great Dexterity II, (DEX=29)\n\nSkillpoints: 167\nSaving Throw bonuses: Spells: +4, Mind Effects: +2\nAB (max, naked): 35 (melee), 53 (ranged)\nSpell Casting: Bard(3)\n\n\n01: Lore(4), Open Lock(1), Perform(2), Tumble(4), UMD(4),\u00a0\n03: Lore(1), Perform(1), Tumble(1), UMD(1),\u00a0\n05: Lore(1), Perform(1), Tumble(1), UMD(1),\u00a0\n07: Search(2),\u00a0\n09: Search(1), Save(1),\u00a0\n11: Set Trap(2), Save(1),\u00a0\n13: Save(7),\u00a0\n15: Save(15),\u00a0\n17: Save(23),\u00a0\n19: Perform(3), Tumble(14), UMD(14),\u00a0\n21: Listen(2),\u00a0\n23: Listen(2),\u00a0\n25: Listen(2),\u00a0\n27: Listen(5),\u00a0\n29: Save(6),\u00a0\n31: Save(16),\u00a0\n33: Save(26),\u00a0\n35: Save(36),\u00a0\n37: Spellcraft(20), Tumble(19), UMD(7),\u00a0\n39: Listen(5),\u00a0</details>\n<strong>Edit:</strong>\u00a0made an adjustment to sneak Called Shot in the build without sacrificing any AB<br/>\n<strong>Edit 2: </strong>Added Blind Fight and Armor Skin to the build as suggested<br/>\n<strong>Edit 3: </strong>Feats rearranged as suggested<br/>\n<strong>Edit 4:</strong> Bard skill dump changed from level 40 to level 37. AB is actually 53 not 52 *mucked up my calculations*. 27 (BAB) + 4 (WF, EWF, EP) + 10 (Dex) + 12 (AA Bonus) = 53<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:34 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You miss, Blind-Fight, Armor Skin &amp; Epic Prowess, Orion.<br/>\nUnless I haven't drunk enough coffee yet, &amp; I know I don't ...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:37 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Mmmm I can drop two great dexes for that<br/>\n<br/>\nI re-did the build as you were typing to add Epic Prowess<br/>\n<br/>\nI read heaps from forums and stuff some people wrote blind fight wasn't needed for archers but I didn't quite understand why<br/>\n<br/>\nDoesn't anyone know why blind fight wouldn't be needed for an archer?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:47 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Beutiful, now move BF back pre-epic &amp; the PA feats one slot after that, it won't affect anything because you take OC/DC after that anyway. <br/>\nAnd many will say many things but always trust your gut, you're firing into melee, why BF shouldn't be essential? You want to miss as few attacks as possible!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:53 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I agree, its in!<br/>\n<br/>\nThanks for the very rapid feedback man. Very much appreciated.<br/>\n<br/>\nNot sure when I can take this baby for a spin it looks like I have a few builds to play...<br/>\n<br/>\nBut a ranged dev critter with UMD and base AB 52... I get the feeling that build has to be played sooner rather than later...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:58 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It's like having a stable full of stallions, ready to charge!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:01 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I could also put that last Bard level to 37 rather than 40 to get the tumble and UMD dumps earlier but I'll fix that up later, getting coffee myself<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:09 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Solid move, &amp; since you went the trouble of going back &amp; forth &amp; polishing this, the numbers &amp; playability both are good, I suggest putting it in its rightful place amongst the other forty-level builds, don't let it wander here aimlessly, it might catch a cold.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:31 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think that is reasonable.\u00a0<br/>\n<br/>\nI just had a look at the Bard/RDD/AA builds in the ECB Archives and what I could find in our forum (through google search site:<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/\" rel=\"noreferrer\" target=\"_blank\">https://www.tapatalk.com/groups/nwnecbguild/</a> \"arcane archer\")\u00a0and it seems sufficiently unique to others to post in the finalised build section.\u00a0<br/>\n<br/>\nI'll reference the other builds I found for comparison.<br/>\n<br/>\nThanks for helping me out Valerfor<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:37 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I had already done the work for you (without you knowing), that's why I told you to \"seal the deal\".<br/>\n<br/>\nAnd helping each other is a given man, I want to see the apprentice outgrowing the master. <br/>\n<br/>\nThe only thing that neither myself nor you nor Mick is gonna accomplish here, is to make Stag play a sorceress, other than that, the sky is the limit!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "5:38 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I hope he's sleeping now &amp; don't see that last sentence, I'm not ready yet for a fight...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:50 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I reckon Stag would look pretty sexy in some low cut Sorceress robes !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:18 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Kalistez wrote:</cite>I reckon Stag would look pretty sexy in some low cut Sorceress robes !</div></blockquote>\nHahaha!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:00 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>Empyre, you need rapid-shot in there man, do something &amp;amp; get it, please.</div></blockquote>\nTo get Rapid Shot, I would have to give up either Blind Fight, Epic Prowess, or Armor Skin.\u00a0 Losing any one of those would be a high price, but everything else is crucial to the build.\u00a0 The Aielund version, which doesn't have Dev Crit, does have Rapid Shot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:53 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>I had already done the work for you (without you knowing), that's why I told you to &amp;quot;seal the deal&amp;quot;.<br/>\n<br/>\nAnd helping each other is a given man, I want to see the apprentice outgrowing the master. <br/>\n<br/>\nThe only thing that neither myself nor you nor Mick is gonna accomplish here, is to make Stag play a sorceress, other than that, the sky is the limit!</div></blockquote>\nWell, what can you do? The man lives by the Minsc's quote.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:15 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>And helping each other is a given man, I want to see the apprentice outgrowing the master. </div></blockquote>\nI am very privileged this forum exists and people like yourself, Mick, Empyre, Stag and others are very willing to given honest opinions on how to improve builds. Years of experience reading, making and playing builds - I am absorbing everything you have to offer!<br/>\n<br/>\n<blockquote><div><strong>Kalistez:</strong><br/>\nI reckon Stag would look pretty sexy in some low cut Sorceress robes !</div></blockquote>\nJudging by Valerfor's wording, I think he meant make Stag play a Sorceress character in NWN.<br/>\n'Cos-playing' a Sorceress from NWN... hmm maybe lets just leave that thought.\u00a0<br/>\n<blockquote><div><strong>Agadris:</strong><br/>\nWell, what can you do? The man lives by the Minsc's quote.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /></div></blockquote>\nA Minsc quote! Which part of it is it? 'Seal the deal'?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Agadris",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:24 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite><blockquote><div><strong>Agadris:</strong><br/>\nWell, what can you do? The man lives by the Minsc's quote.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:26 AM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh you were referencing Stag! :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:20 PM - Sep 15, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'll have you all know I have a very nice little off-the-shoulder Robe of Vecna stashed away somewhere. The problem is that an ogre in a frock is still an ogre (need to work on some self-image issues. I know I hide it well, but I weep at night. So thanks for bringing it up. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nEDIT: Oh, and a couple (well, three) more Minsc-isms for you:<br/>\n<em>\"Evil - meet my sword. Sword - MEET EVIL!\"<br/>\n\"Hear that, Evil? Minsc has a new witch! Woe is you!\"<br/>\n\"What you need is a swift kick in the evils.\"</em><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:21 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>I'll have you all know I have a very nice little off-the-shoulder Robe of Vecna stashed away somewhere. The problem is that an ogre in a frock is still an ogre (need to work on some self-image issues. I know I hide it well, but I weep at night. So thanks for bringing it up. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\n<blockquote><div><blockquote><div>\"What you need is a swift kick in the evils.\"</div></blockquote>\n</div></blockquote>\nI'm assuming this quote is meant for me ?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:17 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">On your second point - no, not at all! It's just a remembered Minsc-ism. But it's interesting that you think it might...Hmm...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Kalistez",
-      "avatar": "no_avatar.png",
-      "timestamp": "1:37 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes...<br/>\nVery strange !<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:46 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><a class=\"postlink\" href=\"https://baldursgate.fandom.com/wiki/Detect_Evil_%28priest%29\" rel=\"noreferrer\" target=\"_blank\">https://baldursgate.fandom.com/wiki/Det ... l_(priest)</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:26 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Orion, It is, of course, an absolutely rubbish spell/ability. You get to know there are bad dudes around - well, no shit, Sherlock! (Pardon my language, please). And it's even worse in re-spawning areas. In BG1, in the Firewine Ruins, I guarantee you'll detect over 50 kobold commandos. Then another 50. And so on ad infinitum. And it doesn't tell you where they actually are - just \"around\". Very bloody helpful. Possibly the most pointless ability ever.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "2:32 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Would it be useful in towns, where evil hides amongst the innocent I wonder?<br/>\nOr to solve certain quests?<br/>\nIt has been about a decade since I played that game<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:43 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The usefulness of this special ability comes into play in PnP. <br/>\nIt's main purpose for the Paladin, is to make sure that the opposition is evil &amp; he doesn't waste his \"smite evil\" attempt.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:45 AM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Orion2019 wrote:</cite>Would it be useful in towns, where evil hides amongst the innocent I wonder?<br/>\nOr to solve certain quests?<br/>\nIt has been about a decade since I played that game</div></blockquote>\nNope.<br/>\nAs the expression has it: about as much use as a chocolate fireguard.<br/>\nOn a nicer Minsc quote: \"<em>Ooh, squirrels! Throw nuts, Boo!</em>\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "5:42 PM - Sep 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Agadris wrote:</cite> Stag, incidentally, I used to play pure casters back in the day - due to my fascination with magic-wielders in any fantasy pieces - going for the highest DC-s possible and, much later, opting for a Melee Mage play-style. <br/>\nSometimes I would add a bit of Rogue because OC and many modules simply demand that you have trap and lock-picking skills or a dedicated rogue at your side (and bloody \"I AM A HAWFLEEN THEEF, AH AM AH AM\" of the infamous Tommy Undergallows just didn't cut it for me). I guess, that's where my eternal desire to have a character who can take care of nearly everything comes from, it was learnt through many hours of disabling traps and picking locks.<br/>\nAs to the Bards, they are great, but I really wish there were the feat from 3.5 rules that allows them to cast spells with no penalties if wearing light armor.<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />\n</div></blockquote>\n\nNow I understand where you're coming from and what sparked this request.<br/>\nMaybe the answer is to play multiclassed rogue type characters with UMD, traps, stealth, HIPS, high AB and plenty of SA damage, skills galore etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "4:07 AM - Sep 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite><blockquote><div><cite>Empyre65 wrote:</cite>I don't remember who, but somebody who knows WoG well said that my Order of the Wyrm builds would not do well there.</div></blockquote>\nThat was Max (surprise, surprise), and it was in either the discussion of\u00a0 my Farmer build or in the MTS thread. I didn't - and don't - believe him for a second. After all, much of the time it's about how you play a build as well as the build itself, and that means getting to know it - it's like driving: if you don't know how to drive you're as likely to crash a Ferrari as you are a Skoda.<br/>\nFor the record, I still use the Order of the Wyrm builds you gave me back in December 2014 in my second ever build request, and would happily stand by them anywhere.</div></blockquote>\nHi Empyre and Stag!<br/>\nYou will be pleased to know I saw a player 2 days ago on World of Greyhawk with a Monk 14 / Sorcerer 1 / Red Dragon Disciple 10 build.\u00a0<br/>\nI have no doubt that must be an Order of the Wyrm build running around!<br/>\nSo to get to level 25 this guy must have done well, and as such your build as done well on WoG.\u00a0<br/>\nSo real living and breathing evidence right there!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:29 PM - Sep 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That reminds me that Empyre was about to start playing WoG offline as his next project but we have no news about it since then. <br/>\n<br/>\nI guess \"Doom\" claimed him back for some time.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:01 PM - Sep 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are some projects for Doom that I am working on that I want to finish so I could then return my focus to NWN.\u00a0 I did get a start in single-player WoG, though.\u00a0 I read everything there is to read in the starting room, including that library in the corner, then I entered Homlet, which I have explored, looking for quests.\u00a0 The only quest I have found so far is the Temple of Elemental Evil quest, which I think is not the very first quest I should start with.\u00a0 I have not yet left the village, and I don't know which exit to take.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:18 PM - Sep 24, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Search for a Druid near the road. There is a path through the woods nearby, that leads to the Moathouse, that should be your first \"dungeon\". <br/>\n<br/>\nBtw, the original Doom had a new record recently, it still amazes me to see people dedicated to it after more than 25 years.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:34 PM - Sep 27, 2019",
+      "content": "<div>A possible improvement if you think it's worth it, would be to replace Ass1 with Ftr1 here &amp; take AS.</div>"
     }
   ]
 }

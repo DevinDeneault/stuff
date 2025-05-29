@@ -4,23 +4,69 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "002",
-  "name": "Barbarian Request",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/barbarian-request-t2354823.html",
-  "author": "Canaduck",
-  "avatar": "10235237_1517392314.jpg",
-  "replies": 1,
+  "name": "Monk built",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk-built-t2354827.html",
+  "author": "phmah2408",
+  "avatar": "10758847_1515693635.jpg",
+  "replies": "8",
+  "views": "347",
   "posts": [
     {
-      "author": "Canaduck",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:05 PM - Feb 19, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey there!<br/>\n<br/>\nLooking to return to NWN get some advice on a balanced PVM build with a focus on Barbarian class. There is some chance of PVP, but likely not the focus of gameplay. Here is some relevant info about the game environment in regards to this character:<br/>\n<br/>\nLeveling is uncapped but slow. Viable endgame is between level 25-30 (This alone can take several months), so play-ability throughout leveling is important<br/>\nBarbarian rage does not count towards +12 attribute cap, provides flat AB and damage increase instead. It also adds physical damage immunity<br/>\nDev Crit is disabled<br/>\n<br/>\nMagic items are capped at +3<br/>\nA lot of save-free spells have been nerfed: Bigby's, IGMS, ect.. to be not as effective. (IGMS has damage lowered, bigby's is easy to resist with str)<br/>\n<br/>\nMy ideal build would be a barbarian that has strong damage and decent damage reduction as well as high saving throws. Looking to tackle game content in party play and some soloing.<br/>\n<br/>\nNo race or weapon preference.<br/>\n<br/>\nThanks!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "4:00 PM - Feb 24, 2018",
+      "content": "<div>Hi guys,<br/>\n<br/>\nAnyone has a Uber built for monk? Hit hard, good ac, decent SR, if possible, any others pros will be great. <br/>\nCleric monk? With a rogue ? <br/>\nNot sure monk can be a frontline warrior. I am always wanted to build a ultimate monk. But always lacking of concepts. Please help me up. You can post your built and tell me about why it is a Must built to build one. Hehehe. Thanks</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:05 PM - Feb 24, 2018",
+      "content": "<div>It depends on where you are playing and what your goals are. Are you playing in a high-magic environment? Fists are good for low-magic, while kamas are good for high-magic. Strength give more damage output, but Dexterity gives better AC. Would you want Dev Crit, Epic Dodge, or neither (having both is not really an option)?</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "9:07 PM - Feb 24, 2018",
+      "content": "<div>In my server, gloves can be GMW and DF. However, there are no better gloves then a +1 hin fist. All items are pretty much up to +2 enhancement. Server is still new so I am not very sure about their intensity on magic environment. It's lalaland. Not sure if you hear of that. Let's say Kamas for example. Dev crit are banned. Epic dodge is great. Do I need high ac if I have epic dodge? At the first glance, I am thinking Cleric Monk + something else? Rogue? SD? Assa? COT? Fighter?<br/>\n<br/>\nAll items are pretty capped at +2. No haste item, Dev banned.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "12:21 AM - Feb 25, 2018",
+      "content": "<div>What is the maximum level? What level do you expect to reach? Do you expect to spend most of your time at the maximum level? Are there any restricted / hard-to-get classes, like RDD, WM or SD?<br/>\n<br/>\nThe more information we (myself and others) have, the better fit the build will be for your needs.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "2:17 AM - Feb 25, 2018",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote:</cite>\nWhat is the maximum level? What level do you expect to reach? Do you expect to spend most of your time at the maximum level? Are there any restricted / hard-to-get classes, like RDD, WM or SD?<br/>\n<br/>\nThe more information we (myself and others) have, the better fit the build will be for your needs.<br/>\n<br/>\n</div></blockquote>\n\nThere are no restrictions class. 40 max. Level. I wanted to build a 40 level toon. Able to solo if possible. I wanted to say the environment is mid to high magic. Depends on the area. <br/>\nWhat do you think? Str base or dexterity?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:07 AM - Feb 25, 2018",
+      "content": "<div>How it this high magic (HoTU level magic as a reference) while magic items are capped at +2 enchantment?<br/>\n<br/>\nAs a general guide, the lower the magic level the better is strength-based builds and the opposite is also true.</div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "3:43 AM - Feb 25, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nHow it this high magic (HoTU level magic as a reference) while magic items are capped at +2 enchantment?<br/>\n<br/>\nAs a general guide, the lower the magic level the better is strength-based builds and the opposite is also true.\n</div></blockquote>\n\nAs in now they are not high. But I know the server is changing and updating. I am sure I want to prepare for the upcoming updates on high magical environment.\u00a0</div>"
     },
     {
       "author": "Grimnir",
       "avatar": "10235237_1517392314.jpg",
-      "timestamp": "7:26 PM - Feb 24, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Have you tried a buildsearch?<br/>\nLots of good Barb builds. Otherwise, going full strength Barb and mixing in some Rogue and possibly a third class like fighter is always good and easy fun. Possibly going CoT for better saves at the cost of damage.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:17 AM - Feb 27, 2018",
+      "content": "<div><blockquote><div><cite>phmah2408 wrote:</cite><blockquote><div><cite>Valerfor wrote:</cite>\nHow it this high magic (HoTU level magic as a reference) while magic items are capped at +2 enchantment?<br/>\n<br/>\nAs a general guide, the lower the magic level the better is strength-based builds and the opposite is also true.\n</div></blockquote>\n\nAs in now they are not high. But I know the server is changing and updating. I am sure I want to prepare for the upcoming updates on high magical environment.\u00a0</div></blockquote>Shadow Priest<br/>\nCleric26/Monk9/SD5. A cleric heavy build is playable in any setting. Dex Base for Epic Dodge. It's a late dodger. I played this on a server you could earn a relevel and went for much earlier ED when levelling and relevelled at 40.<br/>\n<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:53 PM - Feb 27, 2018",
+      "content": "<div>An unarmed Monk is better that a kama Monk in a low-magic world, Clerics are always good, especially in low-magic worlds, your world allows GMW and DF on fists, so the obvious choice is an unarmed Cleric / Monk, but there are problems with that. You need at least 16 levels of Monk for the d20 unarmed damage, and at least 24 levels of Cleric to be undispellable, but that leaves no room for a third class, and more importantly, you either get that d20 damage really late, or you get your last Tumble skill dump really early, which gives you a lower AC.<br/>\n<br/>\nThe bottom line is that Grimnir's suggestion with dual kamas is likely to be better, even though you lose the d20 damage for a mere d6 damage.</div>",
+      "author-color": "#00AA00"
     }
   ]
 }

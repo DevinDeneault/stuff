@@ -4,29 +4,66 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "540",
-  "name": "Help me with a PRC spellsword build!",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/help-me-with-a-prc-spellsword-build-t515334.html",
-  "author": "mishelu182",
+  "name": "Monk25/SD5/CoT10",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/monk25-sd5-cot10-t515349.html",
+  "author": "foojin",
   "avatar": "no_avatar.png",
-  "replies": 2,
+  "replies": "8",
+  "views": "696",
   "posts": [
     {
-      "author": "mishelu182",
+      "author": "foojin",
       "avatar": "no_avatar.png",
-      "timestamp": "9:54 AM - Jul 02, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">hi,can someone help with a fighter/wizard/spellsword build (prc one).a basic longsword/shield one will do just to get an ideea of a build<br/>\n<br/>\nEdited title for clarity's sake - Kail<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:30 PM - Jul 06, 2011",
+      "content": "<div>Hey, just started to play this classic game and i went with a monk kind of build from:<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build198552.html#page1\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... html#page1</a><br/>\n<br/>\nQuestions:<br/>\nNow i have taken SD at lvl 7 and i wonder if thats a mistake, why does this build take SD on a later level?<br/>\nAlso i wonder why it picks up kama feats and if i'll gimp myself not picking them and going unarmed?<br/>\nAnd how would this build do without going into CoT but Monk or something like that?<br/>\n<br/>\nBuild:\n<blockquote><div>Elf/Halfling (Human and Dwarf work as well, just start Dex at 16)<br/>\nLawful/Neutral<br/>\n<br/>\nStr10<br/>\nInt14<br/>\nWis15(18)<br/>\nDex18(32)<br/>\nCon10<br/>\nChr8<br/>\n<br/>\n1Monk, Dodge<br/>\n2Monk<br/>\n3Monk, Weapon Finesse<br/>\n4Monk, Dex19<br/>\n5Monk<br/>\n6Monk, Weapon Focus: Unarmed Strike<br/>\n7Monk<br/>\n8Monk, Dex20<br/>\n9Monk, Blind-fighting<br/>\n10Monk<br/>\n11Monk<br/>\n12Monk, Mobility, Dex21<br/>\n13SD<br/>\n14SD<br/>\n15SD, Weapon Focus: Kama<br/>\n16SD, Dex22<br/>\n17CoT<br/>\n18CoT, Expertise, Improved Crit: Unarmed<br/>\n19Cot<br/>\n20CoT, Dex 23, Improved Expertise<br/>\n21CoT, Great Dex I<br/>\n22CoT, Great Wisdom I<br/>\n23CoT<br/>\n24Shadowdancer, Dex25, Epic Dodge<br/>\n25CoT, Greeat Wisdom II<br/>\n26Monk<br/>\n27Monk, EWF: Unarmed Strike<br/>\n28Monk, Dex 26<br/>\n29Monk<br/>\n30Monk, Great Dex II<br/>\n31Monk<br/>\n32Monk, Dex 28<br/>\n33Monk(20), Great Dex III<br/>\n34CoT<br/>\n35CoT, Great Wisdom III<br/>\n36Monk, Great Dex III, Dex31<br/>\n37Monk<br/>\n38Monk<br/>\n39Monk, Epic Prowess<br/>\n40Monk, Dex 32, Armor Skin(Monk Bonus Feat)<br/>\n<br/>\nNaked AB: 41/38/35/32/29/26<br/>\nNaked AC: 41 (51 in Impr Expertise Mode) <br/>\nEpic Dodge and Empty Body x2(25 Round duration)<br/>\nHit Points: 350<br/>\n<br/>\nFort:28(32)<br/>\nReflex:42(46)<br/>\nWill: 29(33)<br/>\nSpell Resistance: 35<br/>\n<br/>\nHide: 43<br/>\nMove Silently:43<br/>\nDiscipline:43<br/>\nTumble:40<br/>\nSpellcraft:18(20)<br/>\nConcentration: 40</div></blockquote></div>"
     },
     {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "7:31 PM - Jul 03, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'd possibly go for FTR 6/Wiz 16/Spellsword 18 (FTR 4/Wiz 6/Spellsword 10 preepic) which gets us 4 bonus feats from FTR, 3 from Wiz and 4 from Spellsword, gives us a caster lvl of 25 and a BAB of 27, 60% ignore ASF which is good for full plate+large shield and channel spell 6 (with multiple channel 1). A Zakya Rakshasa or an Illithid would be good race choices. Since race is a primary factor with the PRC you should specify what is available.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mithril Jack",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:59 PM - Jul 06, 2011",
+      "content": "<div>First, taking SD at level 7 won't hurt you. I don't know why he took it so late; perhaps he felt that the monk boni were more important than HIPS or he wanted I higher BAB early on.<br/>\n<br/>\n<br/>\nYou need a weapon focus in a <strong>melee</strong> weapon (not unarmed combat) to qualify for COT. Also you need 4 pre-epic levels in a full BAB class to maximize your attacks per round. Assuming you are playing either a halfling or an elf, COT or blackguard are your only choices if you don't want an experience penalty, and because of your low charisma blackguard will give you -1 to your saves.<br/>\n<br/>\n<br/>\nDepending on the environment in which you are you playing, an XP penalty may be acceptable to you. I wouldn't try this in the OC or SOU/HotU, for example, but a PW that gives high experience would be fine. If so then replacing COT with fighter would lessen your saves by 5, but give you some more feats to play with (weapon specialization:unarmed).<br/>\n<br/>\n<br/>\nFinally, assuming that your game is fully patched, note that you won't be able to take epic dodge until level 27, the minimum level that you can achieve 30 ranks in tumble. Griz's build, though excellent as always, is 6 years old and some things have changed since then.</div>"
     },
     {
-      "author": "mishelu182",
+      "author": "foojin",
       "avatar": "no_avatar.png",
-      "timestamp": "10:14 PM - Jul 03, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">i don't actually have the prc installed,i got the spellsword as a stand-alone class.can you give me a detailed build,you know,like start as a level 1 fighter and than what classes and feats to take at level 2,3 etc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:22 PM - Jul 06, 2011",
+      "content": "<div>Playing the OC / SP campaign.<br/>\n<br/>\nHow about just 1 level in SD and the others in monk going with unarmed weaps? Guess that will give me the additional attack issue before 20?<br/>\n<br/>\nJust looking for a nice build for the SP camp. and i wanted to try out monk.</div>"
+    },
+    {
+      "author": "Devlinor",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:39 PM - Jul 06, 2011",
+      "content": "<div><blockquote><div><strong>Mithril Jack wrote:</strong>First, taking SD at level 7 won't hurt you. I don't know why he took it so late; perhaps he felt that the monk boni were more important than HIPS or he wanted I higher BAB early on.</div></blockquote>\n\nGrizz took the SD when he did to max his bab early on.  And the build works out best that way.  I have played this build through the OC and on a couple of PW's with great success.  But Grizz will be the first to tell you, these are templates, not a bible.  There is always room for customization.<br/>\n<blockquote><div><strong>Mithril Jack wrote:</strong><br/>\nYou need a weapon focus in a <strong>melee</strong> weapon (not unarmed combat) to qualify for COT. Also you need 4 pre-epic levels in a full BAB class to maximize your attacks per round. Assuming you are playing either a halfling or an elf, COT or blackguard are your only choices if you don't want an experience penalty, and because of your low charisma blackguard will give you -1 to your saves.</div></blockquote>\n\n  This build does get a focus in a melee weapon at 15 with the Kama.  that takes care to the CoT requirement.<br/>\n<br/>\n<blockquote><div><strong>Mithril Jack wrote:</strong><br/>\nFinally, assuming that your game is fully patched, note that you won't be able to take epic dodge until level 27, the minimum level that you can achieve 30 ranks in tumble. Griz's build, though excellent as always, is 6 years old and some things have changed since then.</div></blockquote>\n\nThe one thing that did not change, however, is that this build still rocks.  I have done one for each race, except gnome (I consider them to be comic relief).  Each one seems to do great.  It does take some management, but that can be said with most builds.<br/>\n<br/>\n<br/>\n   Finally, marshall, you have a good choice for a build there.  this is 'the' most versatile monk build I have ever seen.  As I stated above, I reworked some of the stats a bit and managed to get a version for all the races, except gnome.  One lvl in SD for the HiPS may or may not work out.  I just hope that Grizz or Din see this and can set thing straight.  The build is old, but still viable.<br/>\n<br/>\nDev</div>"
+    },
+    {
+      "author": "foojin",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:44 PM - Jul 06, 2011",
+      "content": "<div>Thanks for all replies, biggest issue i have at this moment is allot of misses, but on the other hand enemies can't kill me either (lvl 7, 25 AC and a 5/1 DR ring). I just came into act 2, pulled a ton of mobs in some caves and went afk for awhile coming back them being dead.<br/>\n<br/>\nDid make a mistake on not putting points in discipline yet and some ogre boss kept on knocking me down, for some reason 2-3 times in a row. Then i started to use HiPS after my first knockdown and that seemd to break down his combo.</div>"
+    },
+    {
+      "author": "Devlinor",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:48 PM - Jul 06, 2011",
+      "content": "<div><blockquote><div><strong>marshall wrote:</strong>Thanks for all replies, biggest issue i have at this moment is allot of misses, but on the other hand enemies can't kill me either (lvl 7, 25 AC and a 5/1 DR ring). I just came into act 2, pulled a ton of mobs in some caves and went afk for awhile coming back them being dead.<br/>\n<br/>\nDid make a mistake on not putting points in discipline yet and some ogre boss kept on knocking me down, for some reason 2-3 times in a row. Then i started to use HiPS after my first knockdown and that seemd to break down his combo. </div></blockquote>\n<br/>\nWith any monk, rogue, or bard build, tactics and use of skills is a must in the OC.  It sounds like you are doing fine.</div>"
+    },
+    {
+      "author": "foojin",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:54 PM - Jul 06, 2011",
+      "content": "<div><blockquote><div><strong>Devlinor wrote:</strong><blockquote><div><strong>marshall wrote:</strong>Thanks for all replies, biggest issue i have at this moment is allot of misses, but on the other hand enemies can't kill me either (lvl 7, 25 AC and a 5/1 DR ring). I just came into act 2, pulled a ton of mobs in some caves and went afk for awhile coming back them being dead.<br/>\n<br/>\nDid make a mistake on not putting points in discipline yet and some ogre boss kept on knocking me down, for some reason 2-3 times in a row. Then i started to use HiPS after my first knockdown and that seemd to break down his combo. </div></blockquote>\n<br/>\nWith any monk, rogue, or bard build, tactics and use of skills is a must in the OC.  It sounds like you are doing fine.</div></blockquote>\n\nYeah guess i am, just a bit slow pace of killing at some points. Also glad i don't have to run around with that thief anymore (most traps i resist and survive now).</div>"
+    },
+    {
+      "author": "Mithril Jack",
+      "avatar": "no_avatar.png",
+      "timestamp": "1:54 AM - Jul 07, 2011",
+      "content": "<div><blockquote><div><strong>Devlinor wrote:</strong><blockquote><div><strong>Mithril Jack wrote:</strong>You need a weapon focus in a <strong>melee</strong> weapon (not unarmed combat) to qualify for COT. Also you need 4 pre-epic levels in a full BAB class to maximize your attacks per round. Assuming you are playing either a halfling or an elf, COT or blackguard are your only choices if you don't want an experience penalty, and because of your low charisma blackguard will give you -1 to your saves.</div></blockquote>This build does get a focus in a melee weapon at 15 with the Kama.  that takes care to the CoT requirement.</div></blockquote>\n\n@Dev, just to clarify, OP was asking about the necessity of taking kama feats. I was simply responding to that. You're right though - the build does rock!</div>"
+    },
+    {
+      "author": "Devlinor",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:03 AM - Jul 07, 2011",
+      "content": "<div><blockquote><div><strong>Mithril Jack wrote:</strong><br/>\n@Dev, just to clarify, OP was asking about the necessity of taking kama feats. I was simply responding to that. You're right though - the build does rock!</div></blockquote>\n\n   Sorry, brain in fried mode.  The AC was out all night, and I had to deal with trying to sleep, while feeling like I was in a sauna.  I know I am right on that score though.  I have redone the build (stat-wise) for all races save the comedian of the game, the Gnome.  Din refuses to work with the monk, and I flat out refuse to use a gnome in a toon.  We all have our dislikes.  I think I have a half orc Zen Guardian on the server too.  Gotta break that guy out some time and see what he can do.<br/>\n<br/>\nDev</div>"
     }
   ]
 }

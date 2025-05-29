@@ -4,101 +4,95 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "052",
-  "name": "A Sight to Behold",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/a-sight-to-behold-t2356007.html",
-  "author": "eltalstro",
-  "avatar": "10758878_1582351977.jpg",
-  "replies": 14,
+  "name": "Heroic shield uses per day",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/heroic-shield-uses-per-day-t2356013.html",
+  "author": "TheSquid",
+  "avatar": "10759318_1592552655.jpg",
+  "replies": "12",
+  "views": "627",
   "posts": [
     {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "8:37 AM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I ran along behind a Monk, DD, PDK, last night, following the trail of dead bodies and watching the toon take basically no damage. I was playing Melody of the Dark by <em class=\"mention\">@Valerfor</em>\u00a0but\u00a0I could barely catch up to get in the odd hit here and there. It was a sight to behold.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "8:42 AM - Oct 25, 2022",
+      "content": "<div>I was playing a PDK in a group, and idly spamming Heroic Shield while waiting for the last member. At some point I noticed that there was a counter on the icon, as if the number of uses per day were not infinite. It must have appeared at some point, it definitely is not there when I rest, and only appears after several uses. Anyone knows what's going on? Might be a WoG thing as the ability is changed there, but I thought only in duration. </div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:32 AM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Dwarves rock! DwDs rock! Monks rock! It's a veritable rock festival!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:09 AM - Oct 25, 2022",
+      "content": "<div>As far as I know, Heroic Shield lasts one round and can be used once per round unlimited, so I don't know why there is a counter. Maybe you should ask in the WoG forums.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:01 PM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rocky Horror Picture Show, one could say...<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "11:27 AM - Oct 25, 2022",
+      "content": "<div>It's a WoG thing - due to the duration change, etc.</div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "11:53 AM - Oct 25, 2022",
+      "content": "<div>OK I tested in PGCC, and it happens there too. It's not actually unlimited.<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_24af8ee3760013e3d47dc289bc61320e_t.png\"/><br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202210/10759318_0b02620fc9ab735177d0f18302899308_t.png\"/><br/>\nThere is a counter counting *attempted* uses, not even successful ones. Not sure how high it starts (as it does not show above 99!), maybe 200?</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:57 AM - Oct 25, 2022",
+      "content": "<div>Have Beamdog been buggering around with it?</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "1:59 PM - Oct 25, 2022",
+      "content": "<div>Weird.<br/>\n<br/>\nWell, try \"using\" them all up...</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "2:15 PM - Oct 25, 2022",
+      "content": "<div>Ok, after firing up one of my PDK characters, I am not showing this - my heroic shield icon looks normal and behaves normally ingame, even after multiple uses, see graphic below.</div>"
+    },
+    {
+      "author": "TheSquid",
+      "avatar": "10759318_1592552655.jpg",
+      "timestamp": "2:52 PM - Oct 25, 2022",
+      "content": "<div>You can see in my second picture that indeed I can use them all up. And get the message \"you have no uses remaining for this feat\" if I try again.<br/>\nWeird it's not the same for you. Did you test with *many* attempted uses? Like 100+</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:17 PM - Oct 25, 2022",
+      "content": "<div>Yes, I did.<br/>\n<br/>\nI never got any limited numbers for the feat.<br/>\n<br/>\nNot on the QBar and not on the Radial.<br/>\n<br/>\nNow, I know that WoG changed the feat, so that may be overriding BeamDog's version of Heroic Shield.\u00a0 I haven't tried a non-WoG version of a PDK.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:27 PM - Oct 25, 2022",
+      "content": "<div>...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:19 PM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Of course  they rock  after all they live inside a mountain...<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:13 PM - Oct 25, 2022",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Oct 25, 2022</div></cite>...And those who don't know us think we might be obsessive nerds...<br/>\n<br/>\nIt beggars belief!</div></blockquote>\nIf you want to be good at this, you have to know the ropes. <br/>\nI think this is a fine game to be obsessed with.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:36 PM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ah well, some of us remember attending the Montreux Rock Festival of 1981 - in mountainous Switzerland admittedly, but on the shores of Lake Geneva. Official dwarf summer holiday! Though I will confess that little monk-like behaviour was exhibited, and not much lawful was on display either...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:15 AM - Oct 26, 2022",
+      "content": "<div>Oh, I agree Mick (few more so - and I'm still learning), but was just inserting my trademarked facetiousness!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:59 PM - Oct 08, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">We couldn't see a thing for all the smoke there on the water.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Luck_Dragon",
-      "avatar": "no_avatar.png",
-      "timestamp": "5:30 PM - Oct 10, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It would be interesting to see the layout of that build.\u00a0 :)\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:32 PM - Oct 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Luck_Dragon wrote: <a data-post-id=\"27315\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27315&amp;sid=b6dd8869c5b06cb33e0aeeb55085ead5#p27315\">\u2191</a><div class=\"responsive-hide\">Oct 10, 2022</div></cite>It would be interesting to see the layout of that build.\u00a0 :)\u00a0</div></blockquote>\nYou make an intriguing point <em class=\"mention\">@Luck_Dragon</em>. Given that we don't know who was using the build, or where, it would be hard to ask them - unless <em class=\"mention\">@eltalstro</em> can help us out, ofc. However, perhaps the Guild can pick up the gauntlet and come up with some possibilities? There are many possible combinations available: STR or DEX based? WIS and/or CON boosted? Unarmed or Karma (though I can't see how you could find room to D-W in a feat-starved build)? Monk or DwD as the primary class, or a pretty even split?<br/>\n<br/>\nI know I'll be trying to cobble at least one something together, and it would be great to see others' interpretations. Shall we call it a challenge of honour to the Guild? We could keep contributions here or I could create a thread in the Build Request forum, if we get some interest.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "2:59 PM - Oct 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote: <a data-post-id=\"27314\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=27314&amp;sid=b6dd8869c5b06cb33e0aeeb55085ead5#p27314\">\u2191</a><div class=\"responsive-hide\">Oct 08, 2022</div></cite>We couldn't see a thing for all the smoke there on the water.</div></blockquote>\nThanks Mick.. now all I keep hearing is\u00a0<a class=\"postlink\" href=\"https://www.youtube.com/watch?v=zUwEIt9ez7M\" rel=\"noreferrer\" target=\"_blank\">this...</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:04 PM - Oct 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That song was based on a real event.\u00a0 They had a gig later that night, but the venue burnt down while they were at a hotel across the lake watching it go down.<br/>\n<br/>\nThis might be old news to you, but just in case...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "9:17 PM - Oct 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A few things about this build, apart from being a fiery looking dwarven girl that makes things die with an awful sound:<br/>\nM, DD, PDK<br/>\nDesigned for a high magic world (Blackstone keep)<br/>\nDual wields kamas<br/>\n5 levels of PDK yield +5 magic damage on BSK <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\nHas EDR 3<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:23 PM - Oct 11, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, eltalstro (and nice references while you were at it)!<br/>\n<br/>\nBlimey. So that's all 7 pre-epic feats taken care of. Mounted Combat, Dodge, Toughness, WF: Karma, TWF, Ambidexterity and ITWF. If it's a DEX and CON build, Finesse could take the place of ITWF, I suppose, but whichever it is, there's no room for Blind Fight or Improved Critical. I can't think they'd be taken in epic levels, given the 3 EDR feats would require a hefty investment already.<br/>\n<br/>\nShe'd be a tough one to build, I reckon, with plenty of min-maxing involved. And with a minimum DEX of 13, I'm struggling to see that CHA could be anything other than trashed (particularly given the dwarfishness), thus making Final Stand of very limited use - though that +5 magic damage helps re-balance that.<br/>\n<br/>\nI'll still see if I can come up with at least one decent version, but I herewith withdraw the challenge to the Guild. BSK is a an odd old place, it seems. Maybe <em class=\"mention\">@Yunim</em> is still dropping in here and can offer us some further insight...<br/>\n<br/>\nThanks again for the info, <em class=\"mention\">@eltalstro</em>!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "2:33 AM - Oct 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Based on the classes I'd guess it was a Monk9/PDK5/DD26, CON focused with either STR or DEX secondary. Personally I'd recommend dropping a class in order to get UMD or wand access but it would be ok for farming most areas. The main reason for PDK on BSK is the extra damage (1d6 unblockable Mag damage per level) rather than any of the PDK feats, so low CHA isn't an issue.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:56 AM - Oct 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Yunim, much appreciated insight!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "4:38 AM - Oct 14, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">1d6 per level is a fair whack!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:38 AM - Oct 26, 2022",
+      "content": "<div>Rope-a-dopes! <span class=\"text-emoji\">\ud83d\ude01</span></div>"
     }
   ]
 }

@@ -4,47 +4,37 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "632",
-  "name": "Dwarven Champion of Ralishaz  (Rogue 11/ CoT 12/ WM 17)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/dwarven-champion-of-ralishaz-rogue-11-cot-12-wm-17-t2355431.html",
-  "author": "fallander69",
-  "avatar": "10758933_1548854436.jpg",
-  "replies": 5,
+  "name": "The Holy Hand Grenadier (Rogue 29 / Fighter 6 / Paladin 5)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/the-holy-hand-grenadier-rogue-29-fighter-6-paladin-t2355436.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "3",
+  "views": "277",
   "posts": [
     {
-      "author": "fallander69",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:35 PM - Apr 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello folks! It's firs time me dropping a build on this forum\u00a0<img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\n<span class=\"inline-attachment\">\n<dl class=\"fileimage display\">\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202004/10730885_e973c2507a114fd84b62c907a82b07f9.png\" /></dl>\n</span><br/>\n<br/>\nPS. Sorry for my English and I hope to come up with some good story for this guy.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:04 PM - Apr 12, 2020",
+      "content": "<div><strong><span style=\"font-size:150%;line-height:normal\">The Holy Hand Grenadier</span></strong><br/>\n<br/>\n<br/>\nRe-did this draft:<br/>\n<br/>\nRogue 29 halfling slinger (Base Ranged AB 43, Base Melee AB 39, Sneak Attack 16d6)<br/>\nFighter 6 for combat feats, weapon specialization/epic weapon specialization (+6 damage)<br/>\nPaladin 5 for disease/fear immunity, boost to saves, divine damage (+2-8 divine damage / hit), taunt / discipline<br/>\nNo exp penalties<br/>\n<br/>\nWith 5-6 attacks per round with rapid shot (and haste) the added 16d6 sneak + 6dmg +2-8 divine damage seems very strong<br/>\nCalled shot can lower enemy dex/movement. Melee (not ranged) crippling strike sneak attacks can destroy the opponent's strength score.\u00a0<br/>\nHas great all round qualities with the ability to melee in a supportive/tank fashion with 364hp (capped at 604), great saves double buff-able (with +cha and +con/dex/wis), disease/fear immunity, slippery mind, improved evasion, epic dodge etc. And rogue skills with 364 skill points.<br/>\nI dropped the sneak down from 20d6-&gt;16d6 for four great dexterities instead to give it higher AB and faster epic dodge, overall it looks more balanced, harder to kill and still lethal.\u00a0<br/>\n<br/>\nTried a Rogue 35 / Paladin 4 / SD 1 split with 40 AB, 25d6 sneak, but it was too feat staved and didn't like it as much.<br/>\nTorias has done a great sneak attacking <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/rogue-archer-rogue-33-fighter-6-shadowdancer-1-t515471.html\" rel=\"noreferrer\" target=\"_blank\">Rogue 33 / Fighter 6 / SD 1 halfling archer</a> so I didn't explore that split further, one can tweak that concept to ones taste (ie a sling in that build would increase AB from 40-&gt; 41).<br/>\n<br/>\nAppreciate Empyre65's suggestion on the Fighter 6 Paladin 5 split, which I have incorporated in the build and\u00a0hunearo's advice on crippling strike.<br/>\n<details><summary>Spoiler</summary>Rogue(29), Fighter(6), Paladin(5), Halfling\nPlayable 1-40 PvM, low to mid magic\nSTR: 12 (13)\nCON: 12\nINT: 14\n\n01: Rogue(1): Point Blank Shot\n03: Paladin(2): Rapid Shot, {Smite Evil}\n05: Rogue(3): {Uncanny Dodge I}\n07: Rogue(4)\n09: Rogue(5): Power Attack\n11: Rogue(7)\n13: Rogue(8)\n15: Rogue(10): Blind Fight, Crippling Strike\n17: Fighter(4): Weapon Specialization: Sling\n19: Rogue(12)\n21: Rogue(13): Epic Weapon Focus: Sling, Improved Evasion\n23: Rogue(15)\n25: Rogue(16): Slippery Mind\n27: Rogue(18): Epic Will\n29: Rogue(20)\n31: Rogue(22)\n33: Rogue(24): Great Dexterity II, Epic Dodge, (DEX=26)\n35: Rogue(26)\n37: Rogue(28): Improved Sneak Attack I\n39: Rogue(29): Great Dexterity IV, (DEX=29)\n\nSkillpoints: 364\nSaving Throw bonuses: Spells: +4, Traps: +5, Fear: +2\nAB (max, naked): 39 (melee), 43 (ranged)\nSpell Casting:\u00a0\n\n\n01: Disable Trap(4), Hide(4), Move Silently(4), Open Lock(2), Search(2), Set Trap(1), Spot(4), Tumble(4), UMD(4), Save(11),\u00a0\n03: Discipline(1), Save(8),\u00a0\n05: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(5), Tumble(1), UMD(1),\u00a0\n07: Disable Trap(2), Hide(2), Move Silently(2), Search(1), Tumble(2), UMD(2),\u00a0\n09: Disable Trap(2), Hide(2), Move Silently(2), Open Lock(2), Tumble(2), UMD(2),\u00a0\n11: Disable Trap(1), Hide(1), Move Silently(1), Search(2), Spot(3), Tumble(1), UMD(1),\u00a0\n13: Disable Trap(2), Hide(2), Move Silently(2), Tumble(2), UMD(2),\u00a0\n15: Disable Trap(1), Hide(1), Move Silently(1), Spot(5), Tumble(1), UMD(1), Save(5),\u00a0\n17: Discipline(1), Save(8),\u00a0\n19: Hide(1), Move Silently(1), Tumble(1), UMD(1), Save(12),\u00a0\n21: Disable Trap(2), Hide(2), Move Silently(2), Tumble(2), UMD(2),\u00a0\n23: Disable Trap(1), Hide(1), Move Silently(1), Spot(5), Tumble(1), UMD(1),\u00a0\n25: Disable Trap(2), Hide(2), Move Silently(2), Tumble(2), UMD(2),\u00a0\n27: Hide(1), Move Silently(1), Search(2), Spot(4), Tumble(1), UMD(1),\u00a0\n29: Hide(1), Move Silently(1), Spellcraft(3), Spot(1), Save(1),\u00a0\n31: Hide(1), Move Silently(1), Spellcraft(5), Spot(1), Save(5),\u00a0\n33: Hide(1), Move Silently(1), Spellcraft(5), Spot(1), Save(4),\u00a0\n35: Hide(1), Move Silently(1), Save(10),\u00a0\n37: Hide(1), Move Silently(1), Tumble(5), Save(21),\u00a0\n39: Hide(2), Move Silently(2), Spot(6),\u00a0</details></div>"
+    },
+    {
+      "author": "hunearo",
+      "avatar": "10572442_1552585393.jpg",
+      "timestamp": "1:27 PM - Apr 12, 2020",
+      "content": "<div><br/>\n<blockquote><div><cite>Orion wrote:</cite>The ability damage to enemies with both crippling strike and called shot: leg/arm is interesting, lower your opponents str and dex/movement (or AB) in combat!</div></blockquote>\n\nNote: afaik crippling strike does not work with ranged weapons. Still it is a good thing to have in melee.</div>"
     },
     {
       "author": "Orion",
       "avatar": "10759084_1591431150.jpg",
-      "timestamp": "1:46 PM - Apr 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hail fallander69<br/>\n<br/>\nGreat to read your build, it is a challenging build the Rogue / CoT / WM<br/>\nCoT helps with saves which is a weakness of the Rogue / Fighter / WM<br/>\nThe artwork you have put in the post looks pretty scary! :)<br/>\n<br/>\nHere are a few suggestions<br/>\n<details><summary>Spoiler</summary>It helps if you can write out the BAB and Base AB of the build with the mundane dwarven waraxe so we don't have to calculate it.\nAdd 12 AB from Str 34, +4 from WF/EWF/EP and +3 from WM 16 = Base AB 46\nIt is pretty rough to level up a lowish dex rogue from 1-10 limited to light armor, no shields.\u00a0\nI would think about a Rogue 14 / CoT 10 / WM 16 level split perhaps for the bonus rogue feat.\nYou could drop the Str a little if you are going one handed, perhaps to 30, and put stats elsewhere\n</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:29 PM - Apr 12, 2020",
+      "content": "<div><blockquote><div><cite>hunearo wrote: <div class=\"responsive-hide\">Apr 12, 2020</div></cite>Note: afaik crippling strike does not work with ranged weapons. Still it is a good thing to have in melee.</div></blockquote>\nThanks for your comment!<br/>\nMaybe I should drop it then for something else, like slippery mind!<br/>\nI will think about it</div>"
     },
     {
-      "author": "fallander69",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:05 PM - Apr 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Edit:<br/>\n<br/>\nUpdated first post.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "6:18 PM - Apr 09, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Strength based Rogue CoT WM is very ambitious both to build and to level up, I think it will be easier if you take Armor proficiency heavy once you have AP medium, but it can still be a tough journey up to that point with a low dexterity rogue in only light armor.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "fallander69",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:03 AM - Apr 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm levelling this guy rn on one of the PW's, currently level 8. With access to wands the levelling was almost painlessly! So thank you very much.\u00a0<br/>\n<br/>\nI see no point in taking heavy armor there. Scale mail +5 with dex up via potion/spells will bring total ac 13, which is the same as full plate armor +4.\u00a0 Also, heavy armor doesn't go with the theme.<br/>\n<br/>\nIt's not about playing the most OP builds ever been there, at least not all the time and not for me. I fixed the missing info in the first post. If moderator wish it can be transferred to finalised level 40 builds, thank you.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "grizzled_dwarflord",
-      "avatar": "10758933_1548854436.jpg",
-      "timestamp": "10:23 AM - Apr 10, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I would be careful about posting finalized builds that have, as part of the premise, ease of levelling with \"access to wands\".\u00a0 This is highly subjective and more often than not, not the norm.\u00a0 The build need to stand on its own merits.\u00a0\u00a0<br/>\n<br/>\nAs for the build itself, yes, you can get by with medium armor.\u00a0 But the suggestion for heavy armor is a good one and not one to cast aside.\u00a0 I also don't see the value in a 17th level of WM.\u00a0 The character would be better served with another Rogue level.\u00a0 With only one rogue level in Epics (39), that second rogue level would go a long way strategically placed at Level 27ish.<br/>\n<br/>\nThe other thought (instead of increasing Rogue) would be to put those 2 odd CoT levels (11-12) into WM for another bonus feat and another point of AB.<br/>\n<br/>\nFinally, for Tumble, you can stop investing at Rank 40.\u00a0 There's no return on the investment beyond that.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:20 AM - Apr 13, 2020",
+      "content": "<div>A 6th level of Fighter instead of Paladin would give you another feat.</div>",
+      "author-color": "#00AA00"
     }
   ]
 }

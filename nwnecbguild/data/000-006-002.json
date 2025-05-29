@@ -4,293 +4,622 @@
   "forum_name": "Full Epic - Level 40 Builds",
   "forum_id": "006",
   "id": "002",
-  "name": "Firewing of Corellon (Bard 8/ CoT 22/ RDD 10)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/firewing-of-corellon-bard-8-cot-22-rdd-10-t2355058.html",
-  "author": "Stagmeister",
-  "avatar": "10404082_1510287071.jpg",
-  "replies": 46,
+  "name": "Kama-Shinobi: Monk 9/ Assassin 26/ SD 5",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/kama-shinobi-monk-9-assassin-26-sd-5-t2350791.html",
+  "author": "Mick Dagger",
+  "avatar": "10235235_1549015559.jpg",
+  "replies": "93",
+  "views": "29.9K",
   "posts": [
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:28 PM - Apr 30, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello All.<br/>\n<br/>\nI present the Firewing of Corellon Larethian to you. To her elven patron she owes her song and love of the arts. To her draconic heritage she owes her might. I hope you like her.<br/>\n<br/>\nShe started off in the Build Request forum in the thread, \"Whistle While You Work\", which gives her background and my thinking in her construction, and she's now fit for members' consumption. I have made a few amendments/fixes. The amendments include taking an option I suggested as a possible tweak, in that she now focuses on longsword early and the greatsword for a more deadly presence later (though sword and board can still be used if required). My sums had also mucked up the skill points I had available, which I've now fixed. I also did find another build with the same classes and distribution in the Legacy Archive: <strong>Cati the Holy Edge</strong> by Sam Elanius in 2008. However, that build is human, takes Dev Crit much later and takes only 4 Great Strengths, finishing on Strength 38. I believe Firewing surpasses that, while retaining her elven grace.<br/>\n<br/>\nWith no further ado...<br/>\n<br/>\n<span style=\"text-decoration:underline\"><strong>Firewing of Corellon</strong></span><br/>\nBard 8/ RDD 10/ Champion of Corellon 22<br/>\nElf. Non-lawful, non-evil<br/>\nPvM 1-40<br/>\n<br/>\n<strong>Stats</strong><br/>\n<br/>\nSTR 17 (42)<br/>\nDEX 12<br/>\nCON 12 (14)<br/>\nWIS 8<br/>\nINT 14 (16)<br/>\nCHA 11 (13)<br/>\n<br/>\nHit Points: 432<br/>\nArmor Class: (naked) 25, (full plate) 33, (+tower shield) 36<br/>\nSaves: Fortitude 35/ Will 32/ Reflex 34. All +8 vs spells, +2 vs mind effects<br/>\nBAB: 26<br/>\nAttack Bonus: (greatsword, max) 46/ 41/ 36/ 31, (longsword, max) 44/ 39/ 34/ 29, (ranged, longbow) 28/ 23/ 18/ 13<br/>\nDamage: (greatsword) 2d6+24 (crit 17-20x2)<br/>\nDevastating Critical DC: 46<br/>\nBard Song 8: AB and damage +2. Saves and skills +1. +8 temporary HPs.<br/>\nSpells: Bard level 3, UMD<br/>\nSkill Points:210. Discipline 43 (59), Lore 8 (19), Perform 14 (15), Spellcraft 37 (40), Spot 34 (35), Tumble 40 (41), Use Magic Device 34 (35)<br/>\n<br/>\n<strong>Levelling</strong><br/>\n<br/>\n1 Bard1 - Heavy Armour Proficiency<br/>\n2 Bard2<br/>\n3 Bard3 - Weapon Focus: Longsword<br/>\n4 Bard4 - STR+1 (18)<br/>\n5 Bard5<br/>\n6 RDD1 - Blind Fighting<br/>\n7 RDD2 - {STR+2 (20)}<br/>\n8 RDD3 - STR+1 (21)<br/>\n9 RDD4 - Knockdown/ {STR+2 (23)}<br/>\n10 RDD5<br/>\n11 RDD6<br/>\n12 CoT1 - Weapon Focus: Greatsword/ STR+1 (24)<br/>\n13 CoT2 - Improved Critical: Greatsword<br/>\n14 CoT3<br/>\n15 CoT4 - Power Attack/ Cleave<br/>\n16 CoT5 - STR+1 (25)<br/>\n17 Bard6<br/>\n18 CoT6 - Improved Knockdown/ Great Cleave<br/>\n19 RDD7 - {CON+2 (14)}<br/>\n20 CoT7 - STR+1 (26)<br/>\n21 CoT8 - Great Strength I (27)/ Overwhelming Critical: Greatsword<br/>\n22 CoT9<br/>\n23 CoT10 - Devastating Critical: Greatsword<br/>\n24 RDD8 - Great Strength II (28)/ STR+1 (29)<br/>\n25 RDD9 - {INT+2 (16)}<br/>\n26 RDD10 - {STR+4 (33)/ CHA+2 (13)}<br/>\n27 Bard7 - Great Strength III (34)<br/>\n28 CoT11 - STR+1 (35)<br/>\n29 CoT12<br/>\n30 CoT13 - Great Strength IV (36)<br/>\n31 CoT14 - Epic Weapon Focus: Greatsword<br/>\n32 CoT15 - STR+1 (37)<br/>\n33 CoT16 - Great Strength V (38)<br/>\n34 CoT17<br/>\n35 CoT18 - Armour Skin<br/>\n36 CoT19 - Great Strength VI (39)/ STR+1 (40)<br/>\n37 Bard8<br/>\n38 CoT20<br/>\n39 CoT21 - Great Strength VII (41)<br/>\n40 CoT22 - Epic Prowess/ STR+1 (42)<br/>\n<br/>\n<strong>Skills Schedule</strong><br/>\n<br/>\n1 Disc4, Lore4, Perform4, Spellcraft4, Tumble4, UMD4<br/>\n2 Disc1, Lore1, Perform1, Spellcraft1, Tumble1, UMD1<br/>\n3 Disc1, Lore1, Perform1, Spellcraft1 (Save2)<br/>\n4 Disc1, Lore1, Perform1, Spellcraft1 (Save4)<br/>\n5 Disc1, Lore1, Perform1, Spellcraft1 (Save6)<br/>\n6 Disc1, Spellcraft1 (Save8)<br/>\n7 Disc1, Spellcraft1 (Save10)<br/>\n8 Disc1, Spellcraft1 (Save12)<br/>\n9 Disc1, Spellcraft1 (Save14)<br/>\n10 Disc1, Spellcraft1 (Save16)<br/>\n11 Disc1 (Save19)<br/>\n12 Disc1 (Save22)<br/>\n13 Disc1 (Save25)<br/>\n14 Disc1 (Save28)<br/>\n15 Disc1 (Save31)<br/>\n16 Disc1 (Save34)<br/>\n17 Disc1, Perform4, Spellcraft5, Tumble15, UMD15<br/>\n18 Disc1, Spot3<br/>\n19 Disc1, Spot3<br/>\n20 Disc1 (Save3)<br/>\n21 Disc1 (Save 6)<br/>\n22 Disc1 (Save9)<br/>\n23 Disc1 (Save12)<br/>\n24 Disc1, Spellcraft5 (Save10)<br/>\n25 Disc1, Spellcraft4 (Save10)<br/>\n26 Disc1 (Save14)<br/>\n27 Disc1, Tumble10, UMD10<br/>\n28 Disc1, Spot4<br/>\n29 Disc1, Spot4<br/>\n30 Disc1, Spot4<br/>\n31 Disc1, Spot4<br/>\n32 Disc1 (Save4)<br/>\n33 Disc1 (Save8)<br/>\n34 Disc1 (Save12)<br/>\n35 Disc1 (Save16)<br/>\n36 Disc1 (Save20)<br/>\n37 Disc1, Perform2, Spellcraft10, Tumble10, UMD4<br/>\n38 Disc1, Spot4<br/>\n39 Disc1, Spot4<br/>\n40 Disc1, Spot4<br/>\n<br/>\nNot the most elegant skills schedule, I grant you, but it works.<br/>\n<br/>\nCheers<br/>\n<br/>\n<em><strong>EDIT:</strong></em> Corrected a couple of typos.<br/>\n<br/>\n<em><strong>EDIT 2:</strong></em> I must pass on my apologies to Valerfor here - his\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/holy-smiting-dragon-bard-8-rdd-10-cot-22-t2354355.html\" rel=\"noreferrer\" target=\"_blank\">Holy Smiting Dragon</a> slipped under my radar when searching for similar builds. It has the same class split, but takes a very different focus getting a high CHA - thus the \"smiting\" element - and is human. It's a great example of how the same classes (even with the same levels) can be used in contrasting ways.<br/>\n<br/>\n<em><strong>EDIT 3:</strong></em> Further apologies - and more importantly, credit - this time to Tyr Templar, for missing her\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/dragon-slayer-sword-bard8-rdd10-cot22-t2294858.html\" rel=\"noreferrer\" target=\"_blank\">Dragon Slayer - Sword</a> build, which is much closer to Firewing than Valerfor's in its execution, and considerably pre-dates her. I can only assume I was having a bad search day: there was certainly no intention to plagiarize. What is especially galling is that this is the build I have been most proud of. I hope Tyr Templar can forgive me.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:31 PM - Mar 04, 2014",
+      "content": "<div><strong>If you ever spot a ninja - then it is not a ninja</strong> <br/>\n<br/>\nMonk(9), Assassin(26), Shadowdancer(5), Elf<br/>\n<br/>\nAlignment: Lawful evil<br/>\n<br/>\nLevel 1-40 PvM, 8-40 PvP<br/>\n<br/>\nSTR: 10<br/>\nDEX: 18 (36)<br/>\nCON: 12<br/>\nWIS: 14<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\n<br/>\n01: Monk(1): Dodge, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}<br/>\n02: Monk(2): {Deflect Arrows}<br/>\n03: Monk(3): Weapon Finesse<br/>\n04: Monk(4): DEX+1, (DEX=19)<br/>\n05: Monk(5)<br/>\n06: Monk(6): Mobility, {Knockdown, Improved Knockdown}<br/>\n07: Assassin(1)<br/>\n08: Shadowdancer(1): DEX+1, {Hide in Plain Sight}, (DEX=20)<br/>\n09: Assassin(2): Two-Weapon Fighting, {Uncanny Dodge I}<br/>\n10: Assassin(3)<br/>\n11: Assassin(4)<br/>\n12: Assassin(5): DEX+1, Ambidexterity, (DEX=21)<br/>\n13: Assassin(6)<br/>\n14: Assassin(7)<br/>\n15: Assassin(8): Improved Two-Weapon Fighting<br/>\n16: Shadowdancer(2): DEX+1, {Darkvision}, (DEX=22)<br/>\n17: Monk(7)<br/>\n18: Monk(8): Weapon Focus: Kama<br/>\n19: Shadowdancer(3)<br/>\n20: Shadowdancer(4): DEX+1, (DEX=23)<br/>\n21: Assassin(9): Epic Weapon Focus: Kama<br/>\n22: Assassin(10)<br/>\n23: Assassin(11)<br/>\n24: Assassin(12): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Assassin(13)<br/>\n26: Monk(9): {Improved Evasion}<br/>\n27: Shadowdancer(5): Epic Dodge, {Defensive Roll}<br/>\n28: Assassin(14): DEX+1, Great Dexterity II, (DEX=27)<br/>\n29: Assassin(15)<br/>\n30: Assassin(16): Epic Prowess<br/>\n31: Assassin(17)<br/>\n32: Assassin(18): DEX+1, Great Dexterity III, (DEX=29)<br/>\n33: Assassin(19): Great Dexterity IV, (DEX=30)<br/>\n34: Assassin(20)<br/>\n35: Assassin(21)<br/>\n36: Assassin(22): DEX+1, Great Dexterity V, Great Dexterity VI, (DEX=33)<br/>\n37: Assassin(23)<br/>\n38: Assassin(24)<br/>\n39: Assassin(25): Great Dexterity VII, (DEX=34)<br/>\n40: Assassin(26): DEX+1, Great Dexterity VIII, (DEX=36)<br/>\n<br/>\nHitpoints: 308<br/>\nSaving Throws (Fortitude/Will/Reflex): 20/21/39<br/>\nSaving Throw bonuses: Mind Effects: +4, Traps: +3, Poison: +13<br/>\nBAB: 25<br/>\nAB (max, naked): 42 (melee), 39 (ranged)<br/>\nAB (dual wielding Kamas): 40/37/34/31/28/40/35<br/>\nAC (naked): 34<br/>\nDeath attack damage: 13d6<br/>\nDeath attack DC: 38 <br/>\nSpell casting: Assassin spell-like abilities. Scrolls and items with UMD<br/>\n<br/>\nSkillpoints: 268<br/>\nDisable Trap 22(26), Hide 43(56), Move Silently 43(56), Open Lock 2(15), Search 17(21), Set Trap 10(25), Spot 43(47), Tumble 40(53), UMD 41(40), remaining skillpoints 7<br/>\n<br/>\n01: Hide(4), Move Silently(4), Tumble(4), Save(12), <br/>\n02: Hide(1), Move Silently(1), Tumble(1), Save(15), <br/>\n03: Hide(1), Move Silently(1), Tumble(1), Save(18), <br/>\n04: Hide(1), Move Silently(1), Tumble(1), Save(21), <br/>\n05: Hide(1), Move Silently(1), Tumble(1), Save(24), <br/>\n06: Hide(1), Move Silently(1), Tumble(1), Save(27), <br/>\n07: Disable Trap(10), Hide(1), Move Silently(1), Open Lock(2), Search(10), Set Trap(1), Spot(7), Tumble(1), <br/>\n08: Hide(1), Move Silently(1), Search(1), Spot(4), Tumble(1), <br/>\n09: Disable Trap(2), Hide(1), Move Silently(1), Search(1), Tumble(1), <br/>\n10: Disable Trap(1), Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), <br/>\n11: Disable Trap(1), Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), <br/>\n12: Disable Trap(1), Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), <br/>\n13: Disable Trap(1), Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), <br/>\n14: Disable Trap(1), Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), <br/>\n15: Disable Trap(1), Hide(1), Move Silently(1), Spot(2), Tumble(1), <br/>\n16: Hide(1), Move Silently(1), Spot(1), Tumble(1), Save(4), <br/>\n17: Hide(1), Move Silently(1), Tumble(1), Save(7), <br/>\n18: Hide(1), Move Silently(1), Tumble(1), Save(10), <br/>\n19: Hide(1), Move Silently(1), Spot(3), Tumble(1), Save(12), <br/>\n20: Hide(1), Move Silently(1), Spot(1), Tumble(1), Save(16), <br/>\n21: Disable Trap(4), Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(11), Save(3), <br/>\n22: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(5), <br/>\n23: Hide(1), Move Silently(1), Spot(1), Save(3), <br/>\n24: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(5), <br/>\n25: Hide(1), Move Silently(1), Spot(1), Tumble(2), Save(1), <br/>\n26: Hide(1), Move Silently(1), Tumble(1), Save(4), <br/>\n27: Hide(1), Move Silently(1), Spot(2), Tumble(1), Save(7), <br/>\n28: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(5), Save(4), <br/>\n29: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(5), Save(1), <br/>\n30: Hide(1), Move Silently(1), Spot(1), Tumble(1), Save(3), <br/>\n31: Hide(1), Move Silently(1), Set Trap(2), Spot(1), Tumble(1), UMD(3), <br/>\n32: Hide(1), Move Silently(1), Set Trap(2), Spot(1), Tumble(1), <br/>\n33: Hide(1), Move Silently(1), Set Trap(2), Spot(1), Tumble(1), <br/>\n34: Hide(1), Move Silently(1), Set Trap(2), Spot(1), Tumble(1), <br/>\n35: Hide(1), Move Silently(1), Set Trap(1), Spot(1), Tumble(1), UMD(1), <br/>\n36: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(2), <br/>\n37: Hide(1), Move Silently(1), Spot(1), Tumble(1), UMD(2), <br/>\n38: Hide(1), Move Silently(1), Spot(1), UMD(2), Save(1), <br/>\n39: Hide(1), Move Silently(1), Spot(1), Save(4), <br/>\n40: Hide(1), Move Silently(1), Spot(1), Save(7), <br/>\n<br/>\nThis merciless killer delivers 3 Death attacks with a high DC in the first flurry when attacking from stealth, then HIPSes away to rinse and repeat.<br/>\nHe gets 7 attacks per round when dual-wielding Kamas, 8 with Flurry of blows and 9 once you can cast Haste.<br/>\nHe has an undispellable Improved invisibility that secures 50% concealment. Add Epic dodge and a high AC for a very strong defence against physical attacks (if he is ever spotted).<br/>\nHe is fast: 130% of normal speed. If you have Haste items or can cast the spells Expeditious retreat or Mass haste, you become super fast! If you stack the spells, you can virtually move with DM speed.<br/>\nHe has Stunning fist with a DC of 32 as a back-up plan to stun creatures that are immune to the DA paralysis. Hasted and with Flurry of blows active he has 7 attacks per round when unarmed for 3 Stunning fist attempts with his first blow.<br/>\nHe will detect deadly traps immediately and can recover and set all deadly traps.<br/>\nAll locks with a DC of 35 or lower can be opened. <br/>\n<br/>\nUMD comes a bit late. I have given the trap skills priority, but that can be rearranged to your taste.<br/>\nSince he is a dexer, he is a bit slow to level before he gets DA and HIPS, but after that you can rush through the levels, if you want.<br/>\nLike all stealth characters he is at a disadvantage against creatures with True seeing, eg Dragons.<br/>\nAgainst undead and other creatures immune to sneak/death attacks, adding damage to your weapons will compensate some for your loss af DA damage. Try GMW and Flame weapon.<br/>\n<br/>\nThe search engine shows that this level spread has been tried before:<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build287123.html\" rel=\"noreferrer\" target=\"_blank\">Shadow Karma monk 9 / assassin 26 / shadowdancer 5 (human) by Feledrae</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build117562.html\" rel=\"noreferrer\" target=\"_blank\">Monk 9 / shadowdancer 5 / assassin 26 (halfling) by Cow Art</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build210415.html\" rel=\"noreferrer\" target=\"_blank\">The Drow Assassin monk 9 / shadowdancer 5 / assassin 26 (elf) by lendorallen</a><br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/build221107.html\" rel=\"noreferrer\" target=\"_blank\">Drow Ninja monk 9 / shadowdancer 5 / assassin 26 (elf) by fernandooa</a> <br/>\n<br/>\nThey have all lower dex and AB and a different skill selection. Some have different focus like SCV and ISA (still bugged with DA alone).</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:45 PM - May 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nSTR 17 (<strong>42</strong>)<br/>\n&amp;<br/>\n<strong>23 </strong>CoT10 - Devastating Critical: Greatsword</div></blockquote>\nI like her <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:32 PM - Mar 04, 2014",
+      "content": "<div>It's high time you posted that Mick!<br/>\n<br/>\nAnd he is not a ninja - he is a Shinobi, but we all know Shinobi's do not exist (if you got that L5R reference).<br/>\n<br/>\nSo, he gets out of shadows and delivers 42 d6 of death attack plus forces 3 fortitude saves Vs DC 38 before the buffs? I like... lots</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:03 AM - Mar 05, 2014",
+      "content": "<div>Impressive! This dude is DANGEROUS! Very good job! Optimized as they can be!<br/>\n<br/>\nTake it EZ!</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "9:10 PM - May 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Powerful, just powerful! <br/>\n<br/>\nWhistle on! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:32 AM - Mar 05, 2014",
+      "content": "<div><blockquote><div>Valerfor wrote:And he is not a ninja - he is a Shinobi, but we all know Shinobi's do not exist</div></blockquote>\n What do I know? I've never seen one\n<blockquote><div>So, he gets out of shadows and delivers 42 d6 of death attack</div></blockquote>\n Well it's actually 39d6, but it hurts nevertheless.[/quote]</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:31 PM - May 02, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, both! It truly means a lot.<br/>\n<br/>\nShe'll still be Blanche in my book, but this title seemed more...dramatic.<br/>\n<br/>\nThere may still be difficulties in her teenage years, but then, what's new about that? After level 17, though, life should get better quite quickly.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:16 PM - May 03, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, and as a by-the-way, if you don't fancy Dev Crit, or have it disabled where you play, pre-epic you could perm 3 of the following 4 feats: Toughness, Expertise, Imp Crit in longsword, and Disarm. In epic levels, you might fancy EWF in longsword and an Epic Toughness as your final CoT bonus feat. S'up to you - she'll still knock nasty dudes into the middle of next week.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Asturonethoriusaline",
+      "author": "Demos",
       "avatar": "no_avatar.png",
-      "timestamp": "5:51 PM - May 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Stag how about going weapon focus 1 weapon(Longsword), instead of 2 weapons, and minus Heavy Armor Prof taken by bard level and either get Free Heavy Armor Prof thru Cot(If Heavy is a Prof of Cot), or get whatever armor prof Cot gives(med, if not heavy), if med, then dex up to 14,15, Str start at 15,16.<br/>\n<br/>\nThat way could use a Tower Shield, and have expertise, inproved expertise, have better AC, still do awesome Dev Crit, etc, that you got going.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:32 PM - Mar 09, 2014",
+      "content": "<div>Really impressive Mick!  I think I will give this one a go!<br/>\n<blockquote><div><strong>Valerfor wrote:</strong>And he is not a ninja - he is a Shinobi, but we all know Shinobi's do not exist (if you got that L5R reference).</div></blockquote>\n\nSounds like a Shosuro infiltrator whose role is a former Yoritomo-turned-Togashi who has spent a lot of time training with the Mirumoto.  Pretty nasty combination!</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "6:41 PM - May 21, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Asturonethoriusaline wrote:</cite>\nStag how about going weapon focus 1 weapon(Longsword), instead of 2 weapons, and minus Heavy Armor Prof taken by bard level and either get Free Heavy Armor Prof thru Cot(If Heavy is a Prof of Cot), or get whatever armor prof Cot gives(med, if not heavy), if med, then dex up to 14,15, Str start at 15,16.<br/>\n<br/>\nThat way could use a Tower Shield, and have expertise, inproved expertise, have better AC, still do awesome Dev Crit, etc, that you got going.\n</div></blockquote>\nThanks Asturonethoriusaline (that's a mouthful!). She actually began as only focusing in Longsword, with Toughness replacing the focus in Greatsword, but conceptually, she was all about power, and that 1.5 damage inflicted by the Greatsword (or any two-hander of your choice, but GS has a better chance of critting) was worth the loss of 40 hps in my book, as the fights shouldn't last as long. Sword and board remains a viable option - and still has an AB of 44, which is not too shabby - it just won't hurt as much.<br/>\n<br/>\nAfraid CoT doesn't get free Heavy Armour, just Light and Medium. Defensively, you're right, the Expertise twins would help, but I'm loath to drop Strength - as you can tell by my postponing EWF to level 31 so I can get all possible Great Strengths. Essentially, it's about a trade-off. If you want to trade 1AB for 1AC, that's fine. Equally, if you want to sacrifice IKD for Expertise, that's fine too. Feel free to tweak and adjust to your own tastes!<br/>\n<br/>\nThanks again. Cheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "sataricon",
-      "avatar": "10759088_1568407219.jpg",
-      "timestamp": "9:10 AM - Jun 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So i have been following this this build and i can't get level 2 spells because my abilty score is low.<br/>\nAnd i see that we don't spend any points in charisma so that means to forget all spell casting for this character. .?<br/>\n<br/>\nI'm level 5 now btw.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:20 AM - Jun 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">When RDD 10th-level comes your charisma will become 13 &amp; will allow you to get up to third-level spells. Until then, use UMD to cast any spell that you need from scrolls &amp; wands &amp; misc. devices.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:31 AM - Jun 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks Valerfor, you put that much better than I would have done.<br/>\n<br/>\nBy and large, though, any spellcasting is a bit of a happy bonus in this build, and will be easily dispelled (that, and you'd have to strip down to your undies in advance of casting as well). What Bard mainly brings here is access to RDD, Tumble and UMD, along with the song (which isn't massive, but it helps and is undispellable). The meat and potatoes here is the raw power and excellent saves. After all, every feat taken is a combat one. I know it doesn't look that way to start with, but you should start to notice the difference after a few levels of RDD, and she'll really start to flower around her mid teens.<br/>\n<br/>\nReally pleased you're giving her a run, sataricon!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "sataricon",
-      "avatar": "10759088_1568407219.jpg",
-      "timestamp": "6:42 AM - Jun 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So i've been running with this build \"level 8 now\" and my HP is 56.<br/>\nIsn't it kinda of low thought that' i've 3 RDD now but still i'm getting 7 hit points max.<br/>\nMaybe because i'm just returning to play D&amp;D i kinda forget.<br/>\n<br/>\nWhich makes me feel a bit weak specially when some enemies hit for 30+ ber attack.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:49 AM - Jun 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Your health will improve later.\u00a0 Later RDD levels will give more health, as will CoT levels, and when you get RDD 7, the CON boost will give you a lot of health at once.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:01 AM - Jun 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay. Bard gives hps of d6 + Con modifier (currently 1) per level. CoT gives d10 + Con mod. RDD is somewhat different, in that it gives d6 + Con mod for the first 3 levels, d8 + Con mod at levels 4 and 5, and d10 + Con mod from levels 6 -10 (d12 + Con mod from 11 onwards, but that doesn't concern us here). The reason I don't specify the constitution modifier here is because when you hit RDD 7 you get a +2 boost to Con, so from level 19 onwards that modifier becomes 2 rather than 1.<br/>\n<br/>\nSo, simply put, you get 7 hps p/level from levels 1-8 (so 56 is spot on), 9 hps at levels 9 and 10, 11 from level 11-16, another 7 at level 17, 11 at 18, and 12 from 19 onwards, except at 27 and 37 when it's 8.<br/>\n<br/>\nHope this helps rather than confuses!<br/>\n<br/>\nCheers<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Ninja'd by Empyre, but I'll let it stand. Actually, I can't remember atm (sorry, just woken up) if the Con boost at RDD 7 is back-dated like Toughness is?<br/>\n<br/>\n<strong><em>EDIT 2:</em></strong> Have just checked on the wiki, and the boost to Con is indeed retroactive, so you'll also get a further 18 hps when you hit RDD7 at level 19 (thus 30 hps\u00a0 in total at that level).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:08 AM - Jun 07, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote:</cite>\nSo i've been running with this build \"level 8 now\" and my HP is 56.<br/>\n<br/>\nWhich makes me feel a bit weak specially when some enemies hit for 30+ ber attack.\n</div></blockquote>\nI wouldn't worry too much - just be a bit careful for now. Remember to sing, use things like tanglefoot bags and UMD bits and bobs, keep your AC as high as you can, and don't just charge in for the moment (remember to take a ranged weapon along as well, very helpful for pulling enemies) - that will come soon enough. This one is a build that needs to lay the foundations before it truly comes into its own, and you're only running on 3/4 BAB currently: things will change, I promise!<br/>\n<br/>\nIf I recall correctly, you're doing SoU/HotU, so at level 8 that would, what, put you at the Ao encampment? If you've dealt with Kel Garas then you're doing fine. Are you going solo? A henchie might help nurse you through those earlier levels if you're feeling uncomfortable (despite the shonky AI).<br/>\n<br/>\nJust keep on keeping on, and you <strong>will</strong> be rewarded!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "sataricon",
-      "avatar": "10759088_1568407219.jpg",
-      "timestamp": "5:39 AM - Jun 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Finished the SOU campaign.<br/>\nWill start doing the HOTU one.<br/>\nSo far it's been good at the end but only problem i've faced so far was against powerful spell casters.<br/>\nLevel 13 now but things started to look good.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:59 AM - Jun 13, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Congratulations, sataricon!<br/>\n<br/>\nAye, powerful casters are always a pain unless your build is specifically designed to be a mage-killer. At least now you're building levels in CoT, which will help your saving throws, and you're now on a full BAB roll, so you'll be able to hit things more regularly.<br/>\n<br/>\nIf you will, SoU is Firewing's gym and sparring ground. Now she's getting ready for a real bout.<br/>\n<br/>\nPlease keep us informed of your progress and any issues you might encounter.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "6:46 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Give it some time sataricon, at level-23 you will feel the power &amp; then at level-26 you get another big bump in power, all within HotU still.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Demos",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:49 PM - Mar 10, 2014",
+      "content": "<div>Just a minor tweak for those looking to Min/Max even more.<br/>\n<br/>\nOption 1:  You could drop STR to 8 and CON to 8 to get a starting DEX of 20.  End with DEX of 38 but you're a bit more fragile with 80 less HP...<br/>\n<br/>\nOption 2:  Drop STR to 9 and CON to 10 and to get a starting DEX of 19.  Drop one of the Great Dexterity (and still end at DEX of 36) for Armor Skin.  Slightly less fragile with 40 less HP but +2 AC.<br/>\n<br/>\nI would go with Option 1 if you have greater access to magic equipment to boost STR/CON</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:03 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>sataricon wrote:</cite>\nSo far it's been good at the end but only problem I've faced so far was against powerful spell casters.</div></blockquote>\nThis is indeed a power-build!<br/>\nEven so, you give us (<span style=\"color:#EEEEEE\">Stag</span>) a good reason to play spell slingers.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:02 PM - Mar 10, 2014",
+      "content": "<div><blockquote><div><strong>Demos wrote:</strong>Just a minor tweak for those looking to Min/Max even more.<br/>\n<br/>\nOption 1:  You could drop STR to 8 and CON to 8 to get a starting DEX of 20.  End with DEX of 38 but you're a bit more fragile with 80 less HP...<br/>\n<br/>\nOption 2:  Drop STR to 9 and CON to 10 and to get a starting DEX of 19.  Drop one of the Great Dexterity (and still end at DEX of 36) for Armor Skin.  Slightly less fragile with 40 less HP but +2 AC.<br/>\n<br/>\nI would go with Option 1 if you have greater access to magic equipment to boost STR/CON</div></blockquote>\nThese seem like valid alternatives. You even get some spare skill-points. The fort saves will suffer some, but not anything major.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:09 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That was \"sneaky\" Mick ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:03 PM - Mar 10, 2014",
+      "content": "<div>In a high magic world? Sure why not. I would not advice that on medium magic though, the gains are diminishing already.<br/>\n<br/>\nAnd i prefer not to speak about the mirumoto trained - shosuro assassin... They are scary things... if they are even exists...</div>"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "3:37 PM - Mar 25, 2016",
+      "content": "<div>A typical sweet \"Mick\" build. Nice and nasty, Herr Dagger! ;)<br/>\n<br/>\n The only comments I can make is that I would move WF up where you begin the push for DW @Level 9 because the penalties will make DWing at that point (BAB 5) problematic.<br/>\n<br/>\n Now, Max claims that on WoG assassins can spot epic traps. I never played an assassin there so cannot confirm or disprove that claim.\u00a0 If that is the case that the class has been redesigned from the default, you will need at least Search of 23 to accomplish that.\u00a0 On most servers, though, assassin dynamics have not been customized to become a psuedo-rogue as far as traps are concerned.<br/>\n<br/>\n I am assuming, with death attack, this toon will be equipping as much +INT gear as possible and buffing with Fox pots to increase the DC so that will also help spot epics but if you have ranks to spare, the boost will spot that much faster.\u00a0 The modified targets for deadlies are -- to recover all but gas: 21 and to set all but gas: 15.\u00a0 The current skill configuration does not provide anywhere near trap handling of epic versions except for spotting them if the PW has modified assassin to even do that much.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:13 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>sataricon wrote:</cite>\nSo far it's been good at the end but only problem I've faced so far was against powerful spell casters.</div></blockquote>\nThis is indeed a power-build!<br/>\nEven so, you give us (<span style=\"color:#EEEEEE\">Stag</span>) a good reason to play spell slingers.\n</div></blockquote>\nOn the contrary, oh Stabby One, it gives Stag a good reason to come up with better caster slayers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:38 PM - Mar 26, 2016",
+      "content": "<div>This is exactly the sort of build that really annoys me. It looks sublime, and I'd love to play it, but I seem to be incapable of sustaining an evil character for any length of time. Now, I'll admit, that's at least partly my fault for not being able to fully immerse myself in the role, but I'd suggest that the environs in which I play aren't conducive to an evil build as well.<br/>\n<br/>\n Yes, this is mostly a whinge, but I do fail to grasp why Assassin <em>has</em> to be Evil. To be honest, I would have thought Neutral would be their natural home, and one could then determine their motivation (religious, financial, eradicating evil with minimal collateral damage, etc) as one progressed. Just the NwN gods being simplistic, I guess (although the character description seems to indicate that non-evil should be possible), or just plain mean.<br/>\n<br/>\n Harumph.<br/>\n<br/>\n Brilliant build, though, Mick! <img class=\"img-emoji\" src=\"emoji/11.gif\"/></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "8:03 PM - Mar 26, 2016",
+      "content": "<div><blockquote><div><strong>Stagmeister wrote:</strong><hr/>Yes, this is mostly a whinge, but I do fail to grasp why Assassin <em>has</em> to be Evil. To be honest, I would have thought Neutral would be their natural home, and one could then determine their motivation (religious, financial, eradicating evil with minimal collateral damage, etc) as one progressed. Just the NwN gods being simplistic, I guess (although the character description seems to indicate that non-evil should be possible), or just plain mean.<br/>\n<br/>\n Harumph.<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Yup.\u00a0 Mother Teresa could have been an assassin for the Pope all along and we may never have discovered it.<img class=\"img-emoji\" src=\"emoji/8.gif\"/>\u00a0 Bad joke I know.<br/>\n<br/>\n IMHO, there are only two choices for the aspiring NWN player to accept in regards to alignment restrictions.<br/>\n<br/>\n 1. Swallow the alignment restrictions \"as is\" hook-line-and-sinker and imbed them in your cerebrum for building legit toons.<br/>\n<br/>\nor<br/>\n<br/>\n 2. Tear your hair, gnash your teeth, bitch, moan, complain and resist in the hopes that someone will build a game similar to NWN (most custom environments have attained exactly that) that includes your own bias.\u00a0 Incidentally, several servers have changed the impact of \"intentional\" alignment change to include, among the many scripted consequences: lost XP, lost levels, loss of access to certain stores, loss of guild status, etc. to punish such mendacity on the part of the player.\u00a0 Those Fallen Pallies have more to lose than just a religious banning.<br/>\n<br/>\n For me, I like NWN \"as is\".\u00a0 Always have. Though I have my own private preferences about how AD&amp;D 3.0 should have implemented within NWN, that's about as far as it goes.\u00a0 I just accept the rules of game and don't allow it to interfere with either my designing or playing.<br/>\n<br/>\n -end of sermon-</div></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:31 PM - Mar 26, 2016",
+      "content": "<div>Oh, I know you're right - just doing a little raging against the machine is all. In the other instance of Good -Evil restriction - Pally and Blackguard - at least you have the choice (although I have noticed some builds include both, which is surely just plain wrong). Not so with Assassin. I suppose the closest, realistically (you know what I mean), would be Ranger, although Monk itself makes a good case. Admittedly, no Death Attacks, but whatever.<br/>\n<br/>\n Oh bugger, I can feel a new build coming on - trying to be a \"good\" version of the Kama-Shinobi. Maybe Monk/ Ranger/ SD...or Rogue...This may take some time...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:54 PM - Mar 26, 2016",
+      "content": "<div>@ Hip: I never intended the build to handle epic traps. And I have not played on WoG. I soloed Aielund, and that went well until somewhere in act 4 where some packs of true-seeing demi-god mages proved too tough for a lone stealther. Guess I could have found a way to beat them, but I was not in the mood to explore every option then.<br/>\n<br/>\n @Stag: For evil Rp, you don't have to act like you just arrived from the abyss. It will be convincing if you play as neutral and act evilly at critical points of the storyline. That's how \"evil\" real life humans do, anyway. They are often reasonable to deal with and may even be nice from time to time. Looking into the psychology of psychopathy and get some inspiration may also be helpful.<br/>\n<br/>\n Edit: <em>Today I found new inspiration to finish this old Aielund save, and I did find a way to beat act 4 almost solo. Had to pick up Terry eventually, I don't think that can be avoided.</em></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:47 PM - Mar 26, 2016",
+      "content": "<div>@ Mick: First off, bloody hell, you soloed Aielund into Act 4?! Even more points in Monsieur Dagger's account. Secondly, \"the psychology of psychopathy\" - blimey, this game does run deep, does it not? I wonder if the scripters put as much thought in as the players? So, play like Tony Soprano or Dexter, then! (I was going to say Donald Trump, but saw the lunacy of that in time.)<br/>\n<br/>\n I <em>am</em> still looking at a Monk/Ranger/SD build as threatened, and as we speak, but have one quick question (which should probably be posted in the General Discussion forum, but, as I've got you...). While I understand your Kama-Shinobi won't get hit for xp penalties (2 prestige classes), would my proposed counterpoint encounter them, given no Wiz? I can only keep them (Monk and Ranger - which still seems to me a better preferred class for Elf - still raging) within touching distance of each other for so long...<br/>\n<br/>\n Cheers!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "1:30 AM - Mar 27, 2016",
+      "content": "<div>@Mick:\n<blockquote><div>\n<strong>If you ever spot a ninja - then it is not a ninja</strong><br/>\n \u00a0</div></blockquote>\n Did you think that up?\u00a0 Nomatter.\u00a0 It's funny and topical.<strong><img class=\"post-image\" loading=\"lazy\" src=\"/domain/bypass/images/wink02.gif\"/></strong><br/>\n That's strange.\u00a0 I thought you played WoG sometime during your illustrious career.\u00a0 Wonder where I could have gotten that impression? So do you play PW or LAN at all?<br/>\n<br/>\n @Stagmeister:<br/>\n If it takes some of sting out of NWN's somewhat random decision-making, I also have always felt Ranger was a better fit for elven favored class than wizard especially with the bias towards DEX.<strong>\u00a0 </strong>But that's why there are so many customizations around.\u00a0 A group of players with a common desire get together with a designer and together implement changes that make their gaming experience more \"natural\" to them (and hopefully others, too, or the PW/module will become unpopular very fast).\u00a0 The number of personal permutations must be nothing less than infinite with all the ideas expressed in the forums over the last 10+ years.<br/>\n \u00a0</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:41 PM - May 04, 2016",
+      "content": "<div><blockquote><div><strong>HipRedux wrote:</strong><hr/>@Mick:<br/>\n I thought you played WoG sometime during your illustrious career.\u00a0 Wonder where I could have gotten that impression? So do you play PW or LAN at all?<br/>\n<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">I used to play a lot on PWs, especially RP servers. It started with Broodslayers PW. Later I played on Anchorome PW and Harvest Moon PW with several of my friends from Broodslayers. I also\u00a0contributed as a DM and builder on Anchorome and as\u00a0DM on Harvest moon. I have also played on PWs like 3 Kingdoms, Amia and Prisoners of the mist/Ravenloft.<br/>\n I still play\u00a0on Ravenloft from time to time. It is\u00a0a lvl 20, gothic horror, RP server that has a good and stable player base. I have a couple of low level characters there and try to focus on the roleplay. If any of you visit Ravenloft and I happen to be online, my login there is ildildild.<br/>\n \u00a0</div></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:55 AM - Oct 28, 2016",
+      "content": "<div><blockquote><div><strong>Mick Dagger wrote:</strong><hr/>\n @Stag: For evil Rp, you don't have to act like you just arrived from the abyss. It will be convincing if you play as neutral and act evilly at critical points of the storyline. That's how \"evil\" real life humans do, anyway. They are often reasonable to deal with and may even be nice from time to time. Looking into the psychology of psychopathy and get some inspiration may also be helpful.<br/>\n<br/>\n Edit: <em>Today I found new inspiration to finish this old Aielund save, and I did find a way to beat act 4 almost solo. Had to pick up Terry eventually, I don't think that can be avoided.</em><br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Mick, you young rapscallion, you've snuck in an edit. I'm seriously impressed! (And I think you're right about Terry.)<br/>\n<br/>\n I have returned to this build because I've had more practice as a sneaky Dexer now, so thought I'd give eeevil another, more concerted go, and this was my first port of call. I'll also be using arcane spells for the first time, so that'll be jolly! I'm not going to over-burden myself with relatively new stuff, however, so I think I'll drop Set Traps and grab some Spellcraft points instead. A quick question, though, if that's okay. Would I be right in thinking that Assassin doesn't have Listen as a class skill - hence going for Spot, or was that personal preference? It's just that Monk does, of course, have Listen (though not Spot).<br/>\n<br/>\n Cheers</div></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "6:10 AM - Oct 28, 2016",
+      "content": "<div>Directly stolen from the wiki (you don't assume I could actually remember all these lists, do you?)...\n<blockquote><div>\n \"Skills: appraise, bluff, craft armor, craft trap, craft weapon, disable trap, heal, hide, intimidate, listen, lore, move silently, open lock, pick pocket, search, set trap, spot, tumble, use magic device.\"</div></blockquote>\n ...which means it is essentially the same skill set as a rogue except for Parry and Persuade.<br/>\n<br/>\n It also means Mick made his choice for his own evil reasons.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:12 PM - Oct 28, 2016",
+      "content": "<div>Thanks, Hip - I wasn't being lazy, promise. The wiki decided not to let me into its hallowed halls yesterday, and you know what it's like when you want to get started.<br/>\n<br/>\n Right, off to do just that. Oh, and I'll update my two unfinished builds later, 'cos they're now, well...finished (or at least tested to destruction).<br/>\n<br/>\n And yes, of course I assumed you carried it all around in your head - \"Brain the size of a planet, and this is what they get me doing.\" (Marvin the Paranoid Android)<br/>\n<br/>\n Cheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "5:05 PM - Oct 28, 2016",
+      "content": "<div>NP, Stagmeister.\u00a0 Perhaps you should download the<strong> <a class=\"postlink\" href=\"https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?file=https://neverwintervault.org/sites/neverwintervault.org/files/project/1463/files/neverwinter_grimoire_v3.0.zip&amp;nid=1463\" rel=\"noreferrer\" target=\"_blank\">Grimoire</a></strong> (it's been lodged among many standard resources on the Neverwinter Vault's University compendium) for those rare occasions when the Web isn't cooperating.\u00a0 It's not as accurate as the wiki, but can be a handy alternate resource of general information under special situations like the one you encountered.<br/>\n<br/>\n Without trying to induce another tedious round of the Spot vs. Listen debate...<br/>\n<br/>\n ...the main thing to remember is that all classes are at a severe disadvantage without at least one of the detection skills. Users of True Seeing, either via their spell repertoire or by UMD scroll-reading, are still open to stealth attacks that are not within their line-of-sight, like around any obstructions or corners.\u00a0 That's what typically makes Listen the superior detection skill over Spot.\u00a0 The caveat is, though, that in order to hear them, they must be in motion for the Move Silently vs. Listen check to evaluate.\u00a0 And that's the other side of the equation in support of the usefulness of Spot over Listen for those classes not privy to the advantages of a True Seeing buff.\u00a0 Some detection is always important and has significant consequences when omitted from a skill set.<br/>\n<br/>\n One example of Spot's best advantage is against a HiPSer.\u00a0 An SD will try to toggle stealth right in front of your toon and the effectiveness depends solely on the opposed Spot skill.\u00a0 But this is mainly a PvP consideration.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:16 PM - Oct 28, 2016",
+      "content": "<div>Stag, welcome to the dark side!<br/>\n Please let me know how you fare.<br/>\n<br/>\n IIRC spot is checked vs. hide, and listen vs. move silently. Listen also let you \"hear\" creatures around corners and in adjacent rooms, but they tend to disappear when you reach line of sight, unless they move.<br/>\n With this character I use stealth and want to walk up to the targets, and among them. I want to attack them when they are standing still, flatfooted. I want to see them if they are standing there hiding.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:03 PM - Oct 28, 2016",
+      "content": "<div>Thanks Both.<br/>\n<br/>\n @ Hip: Grimoire downloaded, ta. More importantly, you helped with my final answer in today's crossword: \"An excavator messily drops his stones, so to speak, with this proviso (6)\" - thus \"caveat\", hurrah!<br/>\n<br/>\n @ Mick: Mwah-ha-ha! I too have gone for an Aielund playthrough, but have not yet the bones to attempt soloing. Actually, pleasantly surprised that Nell wanted to come along (so far). I'd even managed to get 1 point further along the Evil axis until that Half-Orc buffoon of a blacksmith gave me a 2 point shift to Good. Currently at 88 Lawful 16 Evil and just entered Culdeny for the first time. I had tried to keep blackmailing Bracksworth's mayor, but my xp suffered, so I reloaded. Stealth worked very well against the allegedly stealthy bandits, and I've so far used fist, sling, kama, longsword and longbow as weapons - elves are great, ain't they!<br/>\n<br/>\n I do, however, have a question about the build...I notice no Blind Fight, and, given that I've been turned somewhat from the necessity of Imp 2 Weapon Fighting by the Hipster (and I'm taking his suggestion of WFocus at L9 and shuffling the dual-wielding back 3 levels), I wondered if BF might be a reasonable alternate? I'm trying to think more broadly than Aielund, so the actual benefits and deficiencies from the pros is what I'm hoping for. (It's just \"want, want, want,\" isn't it?)<br/>\n<br/>\n Cheers<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Sorry, should have said, I decided on Listen before you guys replied, so I'll just have to hope the stationary bodies have bad colds/asthma/flatulence...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:53 PM - Oct 29, 2016",
+      "content": "<div>ITWF is primarily there to add an attack to the attack-shedule. It ends at 7 attacks per round, just enough for 3 attacks in the first flurry. You can get the same without ITWF, but then you have to use flurry all the time, or haste.<br/>\n<br/>\n<em>Edit: typos</em></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "11:28 AM - Oct 30, 2016",
+      "content": "<div>Cheers Mick. I'll be following your schemata anyway - it would seem a little daft to take a build by an expert in the field and then bugger around with it.<br/>\n<br/>\n Fyi, she's going great guns at the moment. Currently at level 7 - first Assassin level - and I've never been able to be evil for long enough to take that before! Presently lawful 90 evil 17 (would have been more evil, but I couldn't resist destroying the bugbear altar in the wyvern caves and forgot that gave a 4 point shift to good. Off to the tomb of the exiled knight next - if he'll even talk to me - and I don't know how I'll manage that without boosting goodness, but we'll see.<br/>\n<br/>\n Now I just have to work out how to coat weapons with poison...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "HipRedux",
+      "avatar": "10577588_1510287072.jpg",
+      "timestamp": "12:58 PM - Oct 30, 2016",
+      "content": "<div><blockquote><div><strong>Stagmeister wrote:</strong><hr/>Now I just have to work out how to coat weapons with poison...<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">It works just like Alchemist's Fire did back in SoU except there is no option to use the vials as grenades.\u00a0 As long as the module contains the various venoms in store inventory (like HotU did) any class can use it.\u00a0 The advantage an assassin or blackguard has is in bypassing the DEX check.\u00a0 I believe poison even works on ammo, though I've never tried it myself.</div></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:16 PM - Oct 30, 2016",
+      "content": "<div>Thanks Hip, got it. You'll have to forgive some random lumps of ignorance on my part - this is new turf for me, and my printer's broken, so I can't simply print out Mick's excellent Assassins' Guide to sit by me while I'm in play.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:09 PM - Oct 30, 2016",
+      "content": "<div><blockquote><div><strong>Stagmeister wrote:</strong><hr/>\u00a0Sorry, should have said, I decided on Listen before you guys replied, so I'll just have to hope the stationary bodies have bad colds/asthma/flatulence...<br/>\n \u00a0</div></blockquote>\n<div align=\"left\">Once you get an item with true seeing, listen is better than spot, because listen let you scout ahead around corners and even through closed doors.</div></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:48 AM - Oct 31, 2016",
+      "content": "<div>Quick update on a decision reversal. I'm guessing this is environment specific, but having decided to follow an earlier suggestion of taking Weapon Focus in Kama at level 9 and pushing all the dual-wields back, I changed my mind. This was down to my picking up some Gloves of Fire +3 during the Exiled Knight quest (which, it transpires, can be done without undue goodness additions), while only having a +2 and +1Kama. You can do the sums, but it seems to me that Mick was bang on with the sequence of his feats, in Aielund at least. Except that\u00a0 I'll be taking WF in Kama at level 15, and delaying Imp 2-Weapon Fighting until level 18. Nonetheless, smart decisions on using different potential weapons, Mick (anyone would think he knew what he was doing).<br/>\n<br/>\n I've been cautioned about my Assassin status when I hit 21 on the evil-good spectrum, but have dragged it back down to 19 now (with 91 in law) - and that's without taking advantage of the psychology of pathology, Mick! Off to liberate Culdeny now...<br/>\n<br/>\n Oh, and I'm loving Death Attack and HiPS, while feeling morally tarnished at the same time. Life can be very confusing at times...<br/>\n<br/>\n<strong><em>EDIT</em></strong>: Oh bollocks, I didn't mean pathology, I meant psychopathy - that'll teach me not to play the smart-arse.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "5:53 PM - Dec 13, 2017",
+      "content": "<div>Hi<br/>\n<br/>\nI'm very rusty on NWN, but what does this build do against crit immunes?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:09 PM - Dec 14, 2017",
+      "content": "<div><blockquote><div><cite>Thorsson wrote:</cite>\nHi<br/>\n<br/>\nI'm very rusty on NWN, but what does this build do against crit immunes?\n</div></blockquote>\n\nCrit immunity alone would not pose a problem for this build. But creatures with crit immunity do normally also have sneak immunity.<br/>\n<br/>\nVersus sneak immunes the build loses the death attack damage and the death attack paralysis.<br/>\n<br/>\nYou can still wear down your opponent with 7 attacks per round (8 with flurry, 9 with flurry and haste). Good weapons with added damage suddenly becomes important then. You can of course add damage to your Kamas with GMW and Flame weapon scrolls.<br/>\n<br/>\nAnother option is to use traps. This character can handle all deadly traps.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Thorsson",
+      "avatar": "10758835_1513245773.jpg",
+      "timestamp": "7:02 PM - Dec 14, 2017",
+      "content": "<div>Thanks. I assume that crit immunes are also sneak immune, which was the issue, yes; mea culpa for not being specific. So the effectiveness against such creatures depends on what's available in the setting - the higher magic the better, but that's always true for these TWF Kama builds; at least this is inherently effective against the non-immunes.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:18 PM - Dec 14, 2017",
+      "content": "<div>No worries Thorsson, you are right that crit immunes are sneak immune. But there are also sneak immunes that are not crit immune, and that widens the problem you address. <br/>\nDexers in general are often at their best in high magic environments. They have better defense (Epic dodge, Self concealment, dexterity based AC that supersede that of full plate) than strength based characters. And magical properties on weapons compensate for the lack of strength based weapon damage.<br/>\nThat comes into play here with this build when you lose your DA damage.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "8:50 PM - Jan 20, 2018",
+      "content": "<div>Mick, I like your built very much. In the server that I played, spot and disable traps don't matter much. Do you think I can put the extra stat points on dex for higher ab or maybe str for more damage instead of 14 int? what is your advice?</div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "8:56 PM - Jan 20, 2018",
+      "content": "<div><blockquote><div><cite>phmah2408 wrote:</cite>\nMick, I like your built very much. In the server that I played, spot and disable traps don't matter much. Do you think I can put the extra stat points on dex for higher ab or maybe str for more damage instead of 14 int? what is your advice?<br/>\n<br/>\nHmmm.... I looked at the wiki and found out int modifier affect assassin DC. oh well I will stick to your numbers.\u00a0 </div></blockquote></div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "7:29 PM - Jan 21, 2018",
+      "content": "<div><blockquote><div><cite>phmah2408 wrote:</cite>\nMick, I like your built very much. In the server that I played, spot and disable traps don't matter much. Do you think I can put the extra stat points on dex for higher ab or maybe str for more damage instead of 14 int? what is your advice?<br/>\n<br/>\nHmmm.... I looked at the wiki and found out int modifier affect assassin DC. oh well I will stick to your numbers.\u00a0 </div></blockquote>\n\nYes, Intelligence is important for the DA DC!<br/>\n<br/>\nThe build starts out with:<br/>\n STR: 10<br/>\nDEX: 18<br/>\nCON: 12<br/>\nWIS: 14<br/>\nINT: 14<br/>\nCHA: 8<br/>\n<br/>\nIf you only want to focus on dexterity and intelligence, you can steal 2 buy points from strength, 6 from constitution and 6 from wisdom. That makes is possible to start out with Dex 20 and Int 16, or Dex 18 and Int 18, but that leads to a lot of eights and perhaps even a six. I chose a more balanced approach with more hit-points, better defense, better will and fort saves, a better stunning fist and a slightly better damage and carrying capacity.<br/>\n<br/>\nIn epic levels the build gets 11 feats; 8 Great dex, ED, EWF and EP. So it is hard to squeeze more AB out of that.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "traballacoilupi",
+      "avatar": "10758911_1528455768.png",
+      "timestamp": "12:58 PM - May 11, 2018",
+      "content": "<div>Hello everyone, first post.<br/>\n<br/>\nI was wondering: why not Blackguard?<br/>\nYou could build to get the 4 attacks in the first flurry. Blackguard could take, in 25 lvls, 5 bonus talents: improved sneak attacks, reaching the same 13d6 but with 4 sneak attacks in the first flurry: 52d6.<br/>\n<br/>\nWhat do you lose, and what do you gain? <br/>\nA DC 38 death attack. Heavy price, I know, but I feel that in most servers a lvl40 foe will be either immune, or have high fortitude (except, well, exceptions). Heavy price, I agree, but not as heavy as I first thought when I took into account server \"reality.\" [Edit: and you can forego INT a bit, giving you small side benefits]<br/>\nYou could take 10 monk levels to max tumble, since Blackguard doesn't need 26. Imho SD 6 is not worth it, if you take into account quality of life: too situational, 3/day, 5 rounds.<br/>\nYou lose the 4 bonus Gr. Dex, alright. But you gain BAB (pre-20). You lose 2 AC, but you would get +1 AC from monk 10.<br/>\nAnd the HP; you would roll the d10 dice. It'd be 104 more max HP.<br/>\nSaving throws: you lose a lot of reflexes, but you have high dex. With blackguard, fortitude goes up, much needed. Evasion would be less efficient, but with improved evasion and higher HP you can survive it.<br/>\nYou postpone Epic Dodge for one level.<br/>\n<br/>\nI know it would be a different build, and I'll maybe post it as a tribute to yours, Mick, but I'm very interested in the opinion of the sacred dragons hanging out in this forum.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "2:46 PM - May 11, 2018",
+      "content": "<div>It is definitely possible to build a Monk 10/ BG 25/ SD 5 like you suggest. But building with BG is a completely different build!<br/>\n25 Levels of BG will give 8d6 SA. You need 8d6 SA to qualify for ISA, so there will not be any room for\u00a0ISA in\u00a0the build.<br/>\nA BG heavy build\u00a0has\u00a0a better BAB and more attacks, exactly like you said (The Kama-Shinobi has 7 attacks per round unbuffed).\u00a0Bg also has\u00a0all the BG proficiencies and features, including a Bull's that stacks with spells and potions.<br/>\n<br/>\nAssassin grants far more class skills and more skill points than BG. I have used\u00a0skills extensively in my build. Assassin also has great Dexterity as an epic bonus feat that enables a higher AB and AC. In that respect it is even better than rogue here.<br/>\nThe Kama-Shinobi is a stalker. You attack unprepared and flat-footed targets from stealth:<br/>\n42d6 damage and forcing the target to save 3 times against a DA DC of 38 (44\u00a0with full buffs)\u00a0in a single flurry of attacks is no laughing matter - and\u00a0is what makes this build lethal.<br/>\nHIPS even let you \"rinse and repeat\".</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "7:20 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\n<blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>sataricon wrote:</cite>\nSo far it's been good at the end but only problem I've faced so far was against powerful spell casters.</div></blockquote>\nThis is indeed a power-build!<br/>\nEven so, you give us (<span style=\"color:#EEEEEE\">Stag</span>) a good reason to play spell slingers.\n</div></blockquote>\nOn the contrary, oh Stabby One, it gives Stag a good reason to come up with better caster slayers!\n</div></blockquote>\nStag is almost like Balboa, no matter what you throw at him he always gets up &amp; gives a left hook as the answer!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:07 PM - May 11, 2018",
+      "content": "<div>Yeah, its a completely different build as Mick said, if you wanted to build with BG in mind then you might want to get some divine might in there.</div>"
     },
     {
-      "author": "Michelangelo",
-      "avatar": "10759109_1563017986.jpg",
-      "timestamp": "3:09 PM - Jul 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just a random question here, if the focus will be on Greatsword that initial Focus: Longsword looks kinda redundant, doesn't it. Any suggestion what could be taken instead?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "traballacoilupi",
+      "avatar": "10758911_1528455768.png",
+      "timestamp": "5:09 PM - May 11, 2018",
+      "content": "<div>Got it, I was unaware of the 8d6 requirement for ISA. Thanks! I stand corrected.<br/>\nI'll keep on thinking about a way though...</div>"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "8:44 PM - May 13, 2018",
+      "content": "<div>Question! my server has no items with Haste. Aww.. where can I put my blinding speed feat at which level. 25 Dex required for that feat right? Which feat should I replace it with?</div>"
+    },
+    {
+      "author": "gkorjax",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:01 PM - May 13, 2018",
+      "content": "<div>No haste potions? No haste scrolls?</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:03 PM - May 13, 2018",
+      "content": "<div>I might well be being simplistic - in which case I'm sure I'll be corrected - but I'd have thought you could get Blinding Speed at level 30, replacing Epic Prowess. That's assuming you're following Mick's original build. Another way might be to sacrifice a couple of Great Dexteritys, grab BS for one and Armor Skin for the other.<br/>\n<br/>\nJust thoughts...</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Bonnie-The-Lady",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:48 PM - Jul 26, 2018",
+      "content": "<div>It's a great build you made here, Mick Dagger.<br/>\n<br/>\nI have two questions about this build though:<br/>\n- I see you are pushing Dexitery very high in the end, even taking feats to push it up. But wouldn't it make the character more \"stable\" against enemy-attacks if you get loose one or two great dex feats for ...<br/>\n- a.) Self Concealment I in the last level<br/>\n- b.) Armor Skin<br/>\n?\u00a0<br/>\n<br/>\nDespite of HIPS and hiding, there are enemies which have True Seeing. Plus also you never fully can avoid getting a few blows, especially in fighting with enemies which have a very high HP and tank a lot.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "3:20 PM - Jul 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He needs a weapon focus to get into Champion of Torm. Bard only gets simple weapons &amp; Elves only give rapier, longsword &amp; bows.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:42 AM - Jul 27, 2018",
+      "content": "<div>Self Concealment I is useless, you either have V (IV is O.K) or none at all since Improved Invisibility or Displacement or Dust of Disappearance all offer 50%, miss chance. Armour skin would be nice but then he would have to drop DEX to 34 and lose 1 (valuable) point of AB.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "10:25 AM - Jul 27, 2018",
+      "content": "<div><blockquote><div><cite>Bonnie-The-Lady wrote:</cite>\nIt's a great build you made here, Mick Dagger.<br/>\n<br/>\nI have two questions about this build though:<br/>\n- I see you are pushing Dexitery very high in the end, even taking feats to push it up. But wouldn't it make the character more \"stable\" against enemy-attacks if you get loose one or two great dex feats for ...<br/>\n- a.) Self Concealment I in the last level<br/>\n- b.) Armor Skin<br/>\n?\u00a0<br/>\n<br/>\nDespite of HIPS and hiding, there are enemies which have True Seeing. Plus also you never fully can avoid getting a few blows, especially in fighting with enemies which have a very high HP and tank a lot.\n</div></blockquote>\nThank you Bonnie! <span class=\"text-emoji\">\ud83d\ude42</span><br/>\n<br/>\nAgainst\u00a0 creatures with true seeing, stealthers are at a disadvantage, that is true.<br/>\n<br/>\nThe Kama Shinobi is better when he can attack from stealth and paralyze his targets, but he also has the means to handle true seers. <br/>\nHe gets 7 attacks per round when dual-wielding Kamas, 8 with Flurry of blows and 9 once you can cast Haste. A high AB helps land all those attacks, and is especially important since he dual wields his weapons.\u00a0He has Improved KD and deals full DA damage when the targets\u00a0are prone. The shere\u00a0number of attacks will also add up to a considerable\u00a0damage, even if you are unable to deal DA damage. This gets better in mid/high magic environments where better weapon properties add to the damage.<br/>\nHe has Stunning fist with a DC of 32 as a back-up plan to stun creatures that are immune to the DA paralysis. Hasted and with Flurry of blows active he has 7 attacks per round when unarmed for 3 Stunning fist attempts with his first blow. The unarmed AB is 39, which is\u00a0what you expect from\u00a0a\u00a0strong monk build.<br/>\n<br/>\nThe defence is very good even without AS. The naked and mundane\u00a0AC is 34. Add enhanced armor/natural/deflection/dodge AC to this and add +6 AC from max dexterity bonus\u00a0 and +6 AC from maxed wisdom bonus. If the Shield spell is modified to give shield AC, you can also add that. <br/>\nHe has an undispellable Improved invisibility that secures 50% concealment, with a 50% miss chance. This makes the SC feats unnecessary.<br/>\nEpic dodge cancels the first successful attack made against him in each round, (or the first attack of opportunity). <br/>\nHe is fast: 130% of normal speed. If you have Haste items or can cast the spells Expeditious retreat or Mass haste, you become super fast! If you stack the spells, you can virtually move with DM speed. <br/>\nThis secures a very quick approach for attack, sometimes even before the NPC target has time to react (fires his \"on perception\" script). It also secures a very quick retreat, if need be.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "phmah2408",
+      "avatar": "10758847_1515693635.jpg",
+      "timestamp": "6:33 PM - Aug 30, 2018",
+      "content": "<div>Wonder if blinding speed feat can be slot into this built? If yes, how do I rearrange the leveling up?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "3:51 PM - Jul 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks, Valerfor.<br/>\n<br/>\nJust as an addendum, while it might seem a nice idea to go for longbow, it needs to be a focus in a melee weapon (which is also why Monk/ CoTs need to take WF: kama even if they're going to specialize in fist, 'cause unarmed fighting doesn't count either). It's a problem that could be addressed by going for Fighter instead of CoT, but then - as an elf - you crash headlong into experience points penalties (with Wizard - albeit bizarrely - being the preferred class for elves), which can make a huge difference in module play (less so in PWs).<br/>\n<br/>\nAs I've said before, it just means exercising a little more caution until you start taking levels in CoT. But at least you'll have a shield through those early levels.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:52 PM - Aug 30, 2018",
+      "content": "<div><blockquote><div><cite>phmah2408 wrote:</cite>\nWonder if blinding speed feat can be slot into this built? If yes, how do I rearrange the leveling up?\n</div></blockquote>\n\nDidn't you ask this before? Have a look at the first couple of responses on this very page. If those suggestions don't work, maybe Mick can help.<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "2:57 PM - Jul 16, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I've just posted an edit in the lead post, with my apologies to Valerfor for not referencing his Holy Smiting Dragon (and a link to it) before. It's a great build in itself, and I hope you'll forgive my lapse, Valerfor.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "DoesntPlayAnymore",
-      "avatar": "10759108_1563558681.png",
-      "timestamp": "5:41 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I just want to chime in and say this build is sick.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:01 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Many thanks, Doesn't Play Anymore (does that mean you take it seriously now?) - always assuming you're using \"sick\" in its current meaning, of course!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "DoesntPlayAnymore",
-      "avatar": "10759108_1563558681.png",
-      "timestamp": "8:48 PM - Jul 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yes, yes... I am <em>very</em>\u00a0serious. Actually, it's because I've mostly just been speculating on builds the last few years and haven't played much. Recently, however, I have decided to become a hermit and play the Lord of Terror campaign, so the name is... Let's just say it's because I'm r<em>eally</em> serious!<br/>\n<br/>\nAnd I mean sick, as in: This build gives me anxiety. Those numbers, man... Terrifying!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "4:32 AM - Jul 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Good choices both (both build &amp; module), you won't be disappointed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "4:22 PM - Sep 06, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Stag!<br/>\n<br/>\nSince you pointed me in this direction, I thought I'd leave you my 2 cents:<br/>\n<br/>\nFirst of all, kudos. This is a VERY strong build, and what I like the most about it is the slickness of going Elf to circumvent the need to take Weapon Focus on a crappy weapon. That said, it's all about where you play. This build doesn't really need to wield a 2-hander, and IMO it loses more than it gains, because the 1.5x damage will only be an issue when you don't crit, which is NOT going to be often. And in those cases, it may be better just to have a higher AC.\u00a0<br/>\n<br/>\nSo, in order to have options to fight with a higher or lower AC as desired / necessary, as well as improve the level 40 power of the build, I'd do the following:<br/>\n<br/>\n1- Drop Heavy Armor Proficiency. You'll get it through CoT anyway.<br/>\n<br/>\n2- Drop WF: Greatsword. Transfer all your feats to your Longsword and carry a 2-hander (preferably a Heavy Flail, since Undead reduce slashing and piercing damage and Bludgeoning resistance is harder to come by) without focus in case you'd like to make the switch. I'm not saying you shouldn't use 2-handers, I'm saying you don't need the feat investment.<br/>\n<br/>\n3- With the 2 feats, take Luck of Heroes to further improve your 3 saves, or Great Fortitude in case you're going to face DevCritting monsters or PCs. They will surely go down first in a battle of DevCritters. Then take Expertise with the second feat to make your AC more malleable. (regardless, unless you go for LoH, Expertise is probably best at level 1 to help compensate for the lack of Heavy Armor those first few levels).<br/>\n<br/>\n4- Drop Spot and/or Spellcraft for Taunt to make use of the Taunt / Expertise combo. That makes both your AC and AB malleable. You need AC, fight in Expertise for +5 AC. Need AB, fight in Expertise, then Taunt, then drop Expertise and gain up to +6 AB. Need AB and AC, Fight in Expertise, Taunt, re-activate Expertise and you'll have +1 AB and +5 AC.<br/>\n<br/>\n5- I'd delay Devcrit a bit for a few extra skill points by taking RDD 9 ASAP. Since skill points aren't retroactive, the sooner you take them the better.<br/>\n<br/>\n6- I'd go Bard 6 / CoT 6 / RDD 8 pre-epic so I could get RDD 9 as early as level 21, to maximize those skill points. That would only delay Devcrit by 2 levels. You'd have it by level 25. If you're planning to play this build all the way to 40th level, then it's no big loss. In MTS, you'll have it before the end of Act 1.<br/>\n<br/>\nAgain, IMO this is a VERY GOOD build, so I don't see any shortcomings that are not able to be overcome by smart in-game decision-making. This means I wouldn't weaken the end result just to make it easier to play for a couple of levels. But, as you know, that's my style of building. Each to their own.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "4:40 PM - Sep 07, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Maximillian_Kane wrote: <a data-post-id=\"21864\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21864&amp;sid=676066394e79a1993527c51209008597#p21864\">\u2191</a><div class=\"responsive-hide\">Sep 06, 2020</div></cite>Hey Stag!<br/>\n<br/>\nSince you pointed me in this direction, I thought I'd leave you my 2 cents:<br/>\n<br/>\nFirst of all, kudos. This is a VERY strong build, and what I like the most about it is the slickness of going Elf to circumvent the need to take Weapon Focus on a crappy weapon. That said, it's all about where you play. This build doesn't really need to wield a 2-hander, and IMO it loses more than it gains, because the 1.5x damage will only be an issue when you don't crit, which is NOT going to be often. And in those cases, it may be better just to have a higher AC.\u00a0<br/>\n<br/>\nSo, in order to have options to fight with a higher or lower AC as desired / necessary, as well as improve the level 40 power of the build, I'd do the following:<br/>\n<br/>\n1- Drop Heavy Armor Proficiency. You'll get it through CoT anyway.<br/>\n<br/>\n2- Drop WF: Greatsword. Transfer all your feats to your Longsword and carry a 2-hander (preferably a Heavy Flail, since Undead reduce slashing and piercing damage and Bludgeoning resistance is harder to come by) without focus in case you'd like to make the switch. I'm not saying you shouldn't use 2-handers, I'm saying you don't need the feat investment.<br/>\n<br/>\n3- With the 2 feats, take Luck of Heroes to further improve your 3 saves, or Great Fortitude in case you're going to face DevCritting monsters or PCs. They will surely go down first in a battle of DevCritters. Then take Expertise with the second feat to make your AC more malleable. (regardless, unless you go for LoH, Expertise is probably best at level 1 to help compensate for the lack of Heavy Armor those first few levels).<br/>\n<br/>\n4- Drop Spot and/or Spellcraft for Taunt to make use of the Taunt / Expertise combo. That makes both your AC and AB malleable. You need AC, fight in Expertise for +5 AC. Need AB, fight in Expertise, then Taunt, then drop Expertise and gain up to +6 AB. Need AB and AC, Fight in Expertise, Taunt, re-activate Expertise and you'll have +1 AB and +5 AC.<br/>\n<br/>\n5- I'd delay Devcrit a bit for a few extra skill points by taking RDD 9 ASAP. Since skill points aren't retroactive, the sooner you take them the better.<br/>\n<br/>\n6- I'd go Bard 6 / CoT 6 / RDD 8 pre-epic so I could get RDD 9 as early as level 21, to maximize those skill points. That would only delay Devcrit by 2 levels. You'd have it by level 25. If you're planning to play this build all the way to 40th level, then it's no big loss. In MTS, you'll have it before the end of Act 1.<br/>\n<br/>\nAgain, IMO this is a VERY GOOD build, so I don't see any shortcomings that are not able to be overcome by smart in-game decision-making. This means I wouldn't weaken the end result just to make it easier to play for a couple of levels. But, as you know, that's my style of building. Each to their own.<br/>\n<br/>\nCheers!</div></blockquote>\nMany thanks Max, it's greatly appreciated!<br/>\n<br/>\nAnd you're right about environment playing a crucial role, I just hope Firewing is adaptable enough to accommodate appropriate tweaks such as you suggest without being a completely different build.<br/>\n<br/>\nShe did start life as a \"pure\" longsword-wielder, which leaves room for Expertise (I think LoH would be something of a luxury in a build with all saves already over 30), but I'd been paying attention in class a few years back when certain of the great and good expressed the view that anything with a strength of 30+ deserves the extra wallop of a 2-hander. I don't know, you veterans are a slippery bunch <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />.<br/>\n<br/>\nAnd that applies equally to delaying Dev Crit. Who was it first advised that I should take Dev Crit asap assuming it's in the build? Honestly! (If you need a hint, they have the initials MK.)<br/>\n<br/>\nI do get what you say about Taunt, and I confess it would have appealed to me if I wasn't so rubbish (yes, still) at your Taunt/Expertise combo. However, I've always been a bit of a saves junkie when it comes to fighting mages - particularly Will - as there's nothing worse for a meleer than not being able to do its one job (hit stuff). I also like to have at least one detection skill for those damned sneakers. So, it was personal preference, really, but again is tweakable.<br/>\n<br/>\nAlas, I can tell you've been away for a while, my friend - CoT doesn't get heavy armour prof, as you very well know!<br/>\n<br/>\nAs ever, a very valuable 2 cents worth! Thanks again for your thoughts.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Maximillian_Kane",
-      "avatar": "10758866_1605883460.jpg",
-      "timestamp": "5:47 PM - Sep 07, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"21898\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21898&amp;sid=676066394e79a1993527c51209008597#p21898\">\u2191</a><div class=\"responsive-hide\">Sep 07, 2020</div></cite><blockquote><div><cite>Maximillian_Kane wrote: <a data-post-id=\"21864\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=21864&amp;sid=676066394e79a1993527c51209008597#p21864\">\u2191</a><div class=\"responsive-hide\">Sep 06, 2020</div></cite>Hey Stag!<br/>\n<br/>\nSince you pointed me in this direction, I thought I'd leave you my 2 cents:<br/>\n<br/>\nFirst of all, kudos. This is a VERY strong build, and what I like the most about it is the slickness of going Elf to circumvent the need to take Weapon Focus on a crappy weapon. That said, it's all about where you play. This build doesn't really need to wield a 2-hander, and IMO it loses more than it gains, because the 1.5x damage will only be an issue when you don't crit, which is NOT going to be often. And in those cases, it may be better just to have a higher AC.\u00a0<br/>\n<br/>\nSo, in order to have options to fight with a higher or lower AC as desired / necessary, as well as improve the level 40 power of the build, I'd do the following:<br/>\n<br/>\n1- Drop Heavy Armor Proficiency. You'll get it through CoT anyway.<br/>\n<br/>\n2- Drop WF: Greatsword. Transfer all your feats to your Longsword and carry a 2-hander (preferably a Heavy Flail, since Undead reduce slashing and piercing damage and Bludgeoning resistance is harder to come by) without focus in case you'd like to make the switch. I'm not saying you shouldn't use 2-handers, I'm saying you don't need the feat investment.<br/>\n<br/>\n3- With the 2 feats, take Luck of Heroes to further improve your 3 saves, or Great Fortitude in case you're going to face DevCritting monsters or PCs. They will surely go down first in a battle of DevCritters. Then take Expertise with the second feat to make your AC more malleable. (regardless, unless you go for LoH, Expertise is probably best at level 1 to help compensate for the lack of Heavy Armor those first few levels).<br/>\n<br/>\n4- Drop Spot and/or Spellcraft for Taunt to make use of the Taunt / Expertise combo. That makes both your AC and AB malleable. You need AC, fight in Expertise for +5 AC. Need AB, fight in Expertise, then Taunt, then drop Expertise and gain up to +6 AB. Need AB and AC, Fight in Expertise, Taunt, re-activate Expertise and you'll have +1 AB and +5 AC.<br/>\n<br/>\n5- I'd delay Devcrit a bit for a few extra skill points by taking RDD 9 ASAP. Since skill points aren't retroactive, the sooner you take them the better.<br/>\n<br/>\n6- I'd go Bard 6 / CoT 6 / RDD 8 pre-epic so I could get RDD 9 as early as level 21, to maximize those skill points. That would only delay Devcrit by 2 levels. You'd have it by level 25. If you're planning to play this build all the way to 40th level, then it's no big loss. In MTS, you'll have it before the end of Act 1.<br/>\n<br/>\nAgain, IMO this is a VERY GOOD build, so I don't see any shortcomings that are not able to be overcome by smart in-game decision-making. This means I wouldn't weaken the end result just to make it easier to play for a couple of levels. But, as you know, that's my style of building. Each to their own.<br/>\n<br/>\nCheers!</div></blockquote>\nMany thanks Max, it's greatly appreciated!<br/>\n<br/>\nAnd you're right about environment playing a crucial role, I just hope Firewing is adaptable enough to accommodate appropriate tweaks such as you suggest without being a completely different build.<br/>\n<br/>\nShe did start life as a \"pure\" longsword-wielder, which leaves room for Expertise (I think LoH would be something of a luxury in a build with all saves already over 30), but I'd been paying attention in class a few years back when certain of the great and good expressed the view that anything with a strength of 30+ deserves the extra wallop of a 2-hander. I don't know, you veterans are a slippery bunch <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" />.<br/>\n<br/>\nAnd that applies equally to delaying Dev Crit. Who was it first advised that I should take Dev Crit asap assuming it's in the build? Honestly! (If you need a hint, they have the initials MK.)<br/>\n<br/>\nI do get what you say about Taunt, and I confess it would have appealed to me if I wasn't so rubbish (yes, still) at your Taunt/Expertise combo. However, I've always been a bit of a saves junkie when it comes to fighting mages - particularly Will - as there's nothing worse for a meleer than not being able to do its one job (hit stuff). I also like to have at least one detection skill for those damned sneakers. So, it was personal preference, really, but again is tweakable.<br/>\n<br/>\nAlas, I can tell you've been away for a while, my friend - CoT doesn't get heavy armour prof, as you very well know!<br/>\n<br/>\nAs ever, a very valuable 2 cents worth! Thanks again for your thoughts.<br/>\n<br/>\nCheers</div></blockquote>\nDang!<br/>\n<br/>\nI am off my game LOL. OK CoT doesn't give Heavy Armor, so keep the feat instead of the save enhancement, which, as you said, is just a nice to have.<br/>\n<br/>\nI did say DevCrit should be taken as soon as possible in all builds. My apologies, let me include an addendum: \"DevCrit should be taken ASAP in all builds that go for it <em><strong>without weakening the end-result.</strong>\"</em><br/>\n<br/>\nBasically, don't delay it for no reason, but don't hamper other areas of the build to take it earlier. Especially for 2 levels. It's really not that long.\u00a0<br/>\n<br/>\nBut, like I said, it's a very good build, so all these tweaks are minor anyway.<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "TyrTemplar",
+      "author": "binariti",
       "avatar": "no_avatar.png",
-      "timestamp": "1:32 AM - Apr 07, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Been awhile since I've been here, but, as one of the original Epic Builders, happy to see I'm still RELEVANT, LOL. Whilst it's too bad the olde Epic Search Engine isn't working (or is it?), seems you made my Dragon Slayer, Sword Version [Dev. Crit. Bard (8), CoT (22), RDD (10)) vs. Song (Bard 24, CoT 6, RDD 10) vers.),] and made it an elf. albeit without mentioning my epic build. Otherwise, I like elves (but not the penalties that oft come with\u00a0this race, such as STR, which is counter-productive to i.e. dev. crit.  ;) ).<br/>\n<br/>\nGood to be back, and sing on!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:07 AM - Sep 14, 2018",
+      "content": "<div>As for skills is seems that they are not quile optimal for campaign. For example Spot skill seems to be useless. Am I right? What skill set would you suggest for campaign?</div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "5:40 AM - Apr 07, 2021",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>TyrTemplar wrote: <a data-post-id=\"24169\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=24169&amp;sid=676066394e79a1993527c51209008597#p24169\">\u2191</a><div class=\"responsive-hide\">Apr 07, 2021</div></cite>Been awhile since I've been here, but, as one of the original Epic Builders, happy to see I'm still RELEVANT, LOL. Whilst it's too bad the olde Epic Search Engine isn't working (or is it?), seems you made my Dragon Slayer, Sword Version [Dev. Crit. Bard (8), CoT (22), RDD (10)) vs. Song (Bard 24, CoT 6, RDD 10) vers.),] and made it an elf. albeit without mentioning my epic build. Otherwise, I like elves (but not the penalties that oft come with\u00a0this race, such as STR, which is counter-productive to i.e. dev. crit. \u00a0;) ).<br/>\n<br/>\nGood to be back, and sing on!</div></blockquote>\nOh, bloody hell, Tyr, I am so sorry. There was certainly no intention to replicate one of your builds - I clearly failed in observing due diligence, and can only apologise. I will certainly give proper credit in the OP shortly.<br/>\n<br/>\nIt's a particular bummer as I have many times held up your builds as superb exemplars to others (your \"Striker\" comes first to my mind).<br/>\n<br/>\nJust FYI, ye olde epic search engine has made a return: see\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-epic-character-build-search-engine-is-back-t2354937.html\" rel=\"noreferrer\" target=\"_blank\">this thread</a> to access it.<br/>\n<br/>\nI am delighted to have you back with us, and look forward to your further contributions.<br/>\n<br/>\nOh, and I trust it is only a little rustiness that cites STR as an elf weakness rather than CON!<br/>\n<br/>\nCheers<br/>\n<br/>\n<strong><em>EDIT: </em></strong>I've now given credit and apologies in the OP. I hope that is some small compensation.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:32 PM - Sep 14, 2018",
+      "content": "<div><blockquote><div><cite>binariti wrote:</cite>\nAs for skills is seems that they are not quile optimal for campaign. For example Spot skill seems to be useless. Am I right? What skill set would you suggest for campaign?\n</div></blockquote>\n\nI don't know what module you refer to here binariti. The builds posted here can be adapted to different settings. I'm afraid I can't help you unless you explain what makes the skills \"not optimal\" and \"useless\".<br/>\n<br/>\nAs for Spot vs Listen: If I have early access to items with unnerfed True seeing, I prefer Listen over Spot. If not, Spot is my choice for detecting hiding creatures to stalk with this kind of build.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "4:45 PM - Jan 10, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">So, I took this build for a spin on WoG :<br/>\n<br/>\nIt's actually a really solid build.\u00a0 Levels nicely (currently at level 32).\u00a0 Performs surprisingly well.<br/>\n<br/>\nOne thing - to use some Wands on WoG, one needs an adjusted UMD of 15, which makes early levelling painful (without Improved Invis and Stoneskin).\u00a0 Just wondering if there is a way to sort that one level of Bard a bit later for MOAR UMD (in the early levels).\u00a0 Probably not, but it surely would help.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "9:31 PM - Jan 10, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>webshaman1 wrote: <a data-post-id=\"29926\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=29926&amp;sid=676066394e79a1993527c51209008597#p29926\">\u2191</a><div class=\"responsive-hide\">4:45 PM - Jan 10</div></cite>So, I took this build for a spin on WoG :<br/>\n<br/>\nIt's actually a really solid build.\u00a0 Levels nicely (currently at level 32).\u00a0 Performs surprisingly well.<br/>\n<br/>\nOne thing - to use some Wands on WoG, one needs an adjusted UMD of 15, which makes early levelling painful (without Improved Invis and Stoneskin).\u00a0 Just wondering if there is a way to sort that one level of Bard a bit later for MOAR UMD (in the early levels).\u00a0 Probably not, but it surely would help.</div></blockquote>\nI think you can (if I'm understanding you right), but it involves taking Bard 6 earlier rather than level 5 later ('cos you can't do that), so there's a knock-on effect to when you take Tumble. If you take Bard 6 at level 13 you get your 15 UMD, and you delay the CoT bonus feats by 1 level each pre-epic. You also have a 14 level gap until your next Tumble dump (+3AC rather than +2), so it's up to you.<br/>\n<br/>\nHope this is the sort of thing you were looking for!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "webshaman1",
-      "avatar": "10759110_1577099721.jpg",
-      "timestamp": "6:39 AM - Jan 11, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It is, but it is not exactly helpful for the early levels, unfortunately.<br/>\n<br/>\nI mean, I still got past those early levels, but woooo, they were tricky, and I did dirtnap more than a few times.<br/>\n<br/>\nAfter that, it was smooth sailing.\u00a0 Well, slaughtering! <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
+      "author": "binariti",
       "avatar": "no_avatar.png",
-      "timestamp": "7:04 AM - Mar 17, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Been hearing about this build for years - finally took a look at her.\u00a0 Now I see what the fuss was about!\u00a0 This build is so strong that I just made it in the PGCC, subbing Halfling for Elf and wielding a Katana (2 hander for Hins).\u00a0 The build still rocks!\u00a0\u00a0<br/>\n<br/>\nI'm gonna take her for a spin . . . as either a Dwarf or a Human.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:45 PM - Sep 14, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>I don't know what module you refer to here binariti. The builds posted here can be adapted to different settings. I'm afraid I can't help you unless you explain what makes the skills \"not optimal\" and \"useless\".</div></blockquote>\nI refer to main single player campaign of Neverwinter or SoU and then import to HotU or some other types of transition. I also plan to try\u00a0Aielund Saga. I do not remember that enemies use stealth in official modules very offten. And if even they do sometimes it seems not that important to take Spot for this purpose. I may be wrong as I played it last time long ago. So please correct me if I wrong.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:51 AM - Mar 17, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30304\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30304&amp;sid=676066394e79a1993527c51209008597#p30304\">\u2191</a><div class=\"responsive-hide\">7:04 AM - Mar 17</div></cite>Been hearing about this build for years - finally took a look at her.\u00a0 Now I see what the fuss was about!\u00a0 This build is so strong that I just made it in the PGCC, subbing Halfling for Elf and wielding a Katana (2 hander for Hins).\u00a0 The build still rocks!\u00a0\u00a0<br/>\n<br/>\nI'm gonna take her for a spin . . . as either a Dwarf or a Human.</div></blockquote>\nThank you very much, Theo!<br/>\n<br/>\nIf I might raise a small note of caution: much as I love me some dwarf (and I do), you'll have to spend 5 points on CHA at character creation just to get it to 11, which is the minimum you need for Bard. All other races (except half-orc) only require 3, so you might be gimping others among your starting stats. Human obviously has its benefits - more skill points and an extra feat are always nice. I went with elf primarily to grab a better weapon earlier on, because of the race proficiency in longswords and longbows, but I suppose you could use that extra feat for Martial Weapon Proficiency.<br/>\n<br/>\nRegardless, really pleased you're giving her a go!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "1:46 PM - Sep 14, 2018",
+      "content": "<div><blockquote><div><cite>binariti wrote:</cite>\n<blockquote><div><cite>Mick Dagger wrote:</cite>I don't know what module you refer to here binariti. The builds posted here can be adapted to different settings. I'm afraid I can't help you unless you explain what makes the skills \"not optimal\" and \"useless\".</div></blockquote>\nI refer to main single player campaign of Neverwinter or SoU and then import to HotU or some other types of transition. I also plan to try\u00a0Aielund Saga. I do not remember that enemies use stealth in official modules very offten. And if even they do sometimes it seems not that important to take Spot for this purpose. I may be wrong as I played it last time long ago. So please correct me if I wrong.\n</div></blockquote>\n\nHi binariti - and welcome aboard!<br/>\n<br/>\nI'll admit there are few instances where Spot is particularly useful in the OC/SoU/HotU (although there are some - invisible stalkers, that elusive white hart in SoU, and so on), but it's very helpful in Aielund. That's where I played the Kama-Shinobi, and I swapped Spot for Listen to my regret. Iirc Mick and I exchanged a couple posts about it either earlier in this thread or in the Aielund one - and annoyingly he was right yet again (I'd basically swapped because Monk also has Listen as a class skill, but doesn't have Spot). Arriving unannounced in a room full of invisible assassins (and I do mean full) and being able to locate them is very handy!<br/>\n<br/>\nTry playing this one as it is - it's a real joy.<br/>\n<br/>\nCheers<br/>\n<br/>\n<strong><em>EDIT:</em></strong> Just checked, and the discussion about Listen and Spot takes place on pages 2 and 3 of this thread, and Hip is also involved.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:42 PM - Mar 19, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30305\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30305&amp;sid=676066394e79a1993527c51209008597#p30305\">\u2191</a><div class=\"responsive-hide\">10:51 AM - Mar 17</div></cite><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30304\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30304&amp;sid=676066394e79a1993527c51209008597#p30304\">\u2191</a><div class=\"responsive-hide\">7:04 AM - Mar 17</div></cite>Been hearing about this build for years - finally took a look at her.\u00a0 Now I see what the fuss was about!\u00a0 This build is so strong that I just made it in the PGCC, subbing Halfling for Elf and wielding a Katana (2 hander for Hins).\u00a0 The build still rocks!\u00a0\u00a0<br/>\n<br/>\nI'm gonna take her for a spin . . . as either a Dwarf or a Human.</div></blockquote>\nThank you very much, Theo!<br/>\n<br/>\nIf I might raise a small note of caution: much as I love me some dwarf (and I do), you'll have to spend 5 points on CHA at character creation just to get it to 11, which is the minimum you need for Bard. All other races (except half-orc) only require 3, so you might be gimping others among your starting stats. Human obviously has its benefits - more skill points and an extra feat are always nice. I went with elf primarily to grab a better weapon earlier on, because of the race proficiency in longswords and longbows, but I suppose you could use that extra feat for Martial Weapon Proficiency.<br/>\n<br/>\nRegardless, really pleased you're giving her a go!</div></blockquote>\nDoing a run as a human - extra start up feat was WP-Martial, and I took Toughness as the LVL 12 feat.\u00a0 Currently at level 12.\u00a0 5-8 were tough with 1 APR and no Cleave. I solo mods and had to rely on potions/items/tactics to survive (jamming opponents in doorways was a rediscovered hack that got me through a lot of trouble, as did switching to sword &amp; board when needed).\u00a0 Once the 2nd attack kicked in, things are much easier.\u00a0 I expect that the Firewing will take off in the early 20s.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:22 AM - Mar 20, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">As someone who predominantly plays non-casters, it's good to see others dusting off forgotten skills and tactics. I've found that Firewing really starts motoring at around level 17-18. Unlike most of my builds, which are designed to cram as many useful feats in as possible as early as possible for survivability purposes, here many are necessarily delayed until CoT kicks in, so you have to earn your corn at early levels.<br/>\n<br/>\nBtw, what have you taken with the extra skill points from being human? And what did you drop for Toughness, if you used Martial Weapon Proficiency as your extra feat?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "12:38 AM - Mar 21, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30329\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30329&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30329\">\u2191</a><div class=\"responsive-hide\">10:22 AM - Mar 20</div></cite>As someone who predominantly plays non-casters, it's good to see others dusting off forgotten skills and tactics. I've found that Firewing really starts motoring at around level 17-18. Unlike most of my builds, which are designed to cram as many useful feats in as possible as early as possible for survivability purposes, here many are necessarily delayed until CoT kicks in, so you have to earn your corn at early levels.<br/>\n<br/>\nBtw, what have you taken with the extra skill points from being human? And what did you drop for Toughness, if you used Martial Weapon Proficiency as your extra feat?</div></blockquote>\nBy taking Human, I got Martial Weapons at LVL 1.\u00a0 Instead of WF: Longsword at 3, I took WF: Greatsword.\u00a0 \u00a0Instead of WF: Greatsword at 12, I took Toughness.\u00a0 With respect to skills, Listen is a class skill for both Bard &amp; RDD, and I find it works better than Spot in many of my builds.\u00a0 I just read about the synergy with Blind Fight, as well.\u00a0 I'm doing Spot on your calendar, as well.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:19 AM - Mar 21, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30331\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30331&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30331\">\u2191</a><div class=\"responsive-hide\">12:38 AM - Mar 21</div></cite><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30329\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30329&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30329\">\u2191</a><div class=\"responsive-hide\">10:22 AM - Mar 20</div></cite>As someone who predominantly plays non-casters, it's good to see others dusting off forgotten skills and tactics. I've found that Firewing really starts motoring at around level 17-18. Unlike most of my builds, which are designed to cram as many useful feats in as possible as early as possible for survivability purposes, here many are necessarily delayed until CoT kicks in, so you have to earn your corn at early levels.<br/>\n<br/>\nBtw, what have you taken with the extra skill points from being human? And what did you drop for Toughness, if you used Martial Weapon Proficiency as your extra feat?</div></blockquote>\nBy taking Human, I got Martial Weapons at LVL 1.\u00a0 Instead of WF: Longsword at 3, I took WF: Greatsword.\u00a0 \u00a0Instead of WF: Greatsword at 12, I took Toughness.\u00a0 With respect to skills, Listen is a class skill for both Bard &amp; RDD, and I find it works better than Spot in many of my builds.\u00a0 I just read about the synergy with Blind Fight, as well.\u00a0 I'm doing Spot on your calendar, as well.</div></blockquote>\nMakes sense, thanks. I'd have gone with Listen over Spot myself - I always try to except in ranged specialists - but sacrificed it this time because CoT only gets Spot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "7:14 PM - Mar 24, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30333\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30333&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30333\">\u2191</a><div class=\"responsive-hide\">11:19 AM - Mar 21</div></cite><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30331\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30331&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30331\">\u2191</a><div class=\"responsive-hide\">12:38 AM - Mar 21</div></cite><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30329\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30329&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30329\">\u2191</a><div class=\"responsive-hide\">10:22 AM - Mar 20</div></cite>As someone who predominantly plays non-casters, it's good to see others dusting off forgotten skills and tactics. I've found that Firewing really starts motoring at around level 17-18. Unlike most of my builds, which are designed to cram as many useful feats in as possible as early as possible for survivability purposes, here many are necessarily delayed until CoT kicks in, so you have to earn your corn at early levels.<br/>\n<br/>\nBtw, what have you taken with the extra skill points from being human? And what did you drop for Toughness, if you used Martial Weapon Proficiency as your extra feat?</div></blockquote>\nBy taking Human, I got Martial Weapons at LVL 1.\u00a0 Instead of WF: Longsword at 3, I took WF: Greatsword.\u00a0 \u00a0Instead of WF: Greatsword at 12, I took Toughness.\u00a0 With respect to skills, Listen is a class skill for both Bard &amp; RDD, and I find it works better than Spot in many of my builds.\u00a0 I just read about the synergy with Blind Fight, as well.\u00a0 I'm doing Spot on your calendar, as well.</div></blockquote>\nMakes sense, thanks. I'd have gone with Listen over Spot myself - I always try to except in ranged specialists - but sacrificed it this time because CoT only gets Spot.</div></blockquote>\nI got say, a switch was flipped at 18 - I'm at 21 in HOTU (part II) and none dare stand in my way!\u00a0 I was going to go OC/DC at 21, but I suspect that LVL 23 is CoT feat only, so I stuck to your schedule.\u00a0 Budgeting the feats properly is always my weak point.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "8:56 AM - Mar 25, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30339\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30339&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30339\">\u2191</a><div class=\"responsive-hide\">7:14 PM - Mar 24</div></cite>I got say, a switch was flipped at 18 - I'm at 21 in HOTU (part II) and none dare stand in my way!\u00a0 I was going to go OC/DC at 21, but I suspect that LVL 23 is CoT feat only, so I stuck to your schedule.\u00a0 Budgeting the feats properly is always my weak point.</div></blockquote>\nYou're right. It's only ever possible to take a maximum of 7 Great Strength feats, and all of them have to use general feats - of which, coincidentally, there are 7. I wanted to make use of all of them for increased power, which meant I needed 5 bonus feats for everything else I wanted: OC/ DC/ EWF/ AS/ EP, which were available from CoT 8/10/14/18 and 22. Simple, really!<br/>\n<br/>\nGlad the turbo has kicked in now!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Theophilus Fist",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:25 AM - Mar 26, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote: <a data-post-id=\"30340\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30340&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30340\">\u2191</a><div class=\"responsive-hide\">8:56 AM - Mar 25</div></cite><blockquote><div><cite>Theophilus Fist wrote: <a data-post-id=\"30339\" href=\"https://www.tapatalk.com/groups/nwnecbguild/viewtopic.php?p=30339&amp;sid=a2c76c3fe1235018c5ed58cd495cb52c#p30339\">\u2191</a><div class=\"responsive-hide\">7:14 PM - Mar 24</div></cite>I got say, a switch was flipped at 18 - I'm at 21 in HOTU (part II) and none dare stand in my way!\u00a0 I was going to go OC/DC at 21, but I suspect that LVL 23 is CoT feat only, so I stuck to your schedule.\u00a0 Budgeting the feats properly is always my weak point.</div></blockquote>\nYou're right. It's only ever possible to take a maximum of 7 Great Strength feats, and all of them have to use general feats - of which, coincidentally, there are 7. I wanted to make use of all of them for increased power, which meant I needed 5 bonus feats for everything else I wanted: OC/ DC/ EWF/ AS/ EP, which were available from CoT 8/10/14/18 and 22. Simple, really!<br/>\n<br/>\nGlad the turbo has kicked in now!</div></blockquote>\nWaltzed through the end of HOTU on max difficulty with no problems - going to tackle SoF next.\u00a0 One advantage to other BD/RDD/CoT builds I've played is that this one seems to maximize strength &amp; AB in early epic when it needs ut.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:11 PM - Sep 14, 2018",
+      "content": "<div>I have not played the OC in ages. So I have to rely on Stag here. (Or empyre if he chimes in). <br/>\nMost modules display stealthy creatures in one way or another. If you want to strike first, you must have a means of detection.</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "11:41 PM - Mar 27, 2025",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you start SoF on Normal difficulty, you get to keep all your stuff, then switch to whatever difficulty you really want.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:42 PM - Sep 14, 2018",
+      "content": "<div>Stag is right about the OCs and Aielund.<br/>\n<br/>\nAs you might know, Listen lets you \"see\" enemies around corners, but it doesn't help with enemies that are standing still, but Spot helps you see those.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:11 PM - Sep 14, 2018",
+      "content": "<div>And don't forget \"Persuade\", if you have skill points to \"burn\" this is the place to go.<br/>\n<br/>\nSearch is also, always useful, the more points you have in it, the better \"quality of life\" you get (you find everything easier, faster).</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "10:40 PM - Sep 14, 2018",
+      "content": "<div>It is well known by now that my favorite place for left-over points is Lore.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "6:36 PM - Dec 09, 2018",
+      "content": "<div>I am using this built now at lvl 20 at a PW, and it seems the deadly attack paralysis does not really work well. I have only managed to paralyse a normal trash mob like 2 times during my time to lvl 20. I wonder if some PWs just make their resistances to it too high? Or will my deadly attack get better as I get to a higher lvl?</div>"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "3:04 AM - Dec 10, 2018",
+      "content": "<div>By level 20 you have 8 ass levels but in the next 20 you will get 18 more, so logic says that you will be much more effective with it in the later portion of your character's life. Especially if you manage to boost that INT of yours to some degree...</div>"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "4:24 AM - Dec 10, 2018",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nBy level 20 you have 8 ass levels but in the next 20 you will get 18 more, so logic says that you will be much more effective with it in the later portion of your character's life. Especially if you manage to boost that INT of yours to some degree...\n</div></blockquote>\nThanks for the reply.<br/>\nIndeed I re-checked the system and it seems I will need to get to higher level plus boost up the intelligence, will see then.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:29 AM - Dec 10, 2018",
+      "content": "<div><blockquote><div><cite>Horri wrote:</cite>\nI am using this built now at lvl 20 at a PW, and it seems the deadly attack paralysis does not really work well. I have only managed to paralyse a normal trash mob like 2 times during my time to lvl 20. I wonder if some PWs just make their resistances to it too high? Or will my deadly attack get better as I get to a higher lvl?\n</div></blockquote>\n\nIf it only has happened twice, something is very wrong.<br/>\nThe paralysis attempts only work when you attack Flat Footed creatures.<br/>\nThis is probably where most people go wrong.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "4:47 AM - Dec 10, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Horri wrote:</cite>\nI am using this built now at lvl 20 at a PW, and it seems the deadly attack paralysis does not really work well. I have only managed to paralyse a normal trash mob like 2 times during my time to lvl 20. I wonder if some PWs just make their resistances to it too high? Or will my deadly attack get better as I get to a higher lvl?\n</div></blockquote>\n\nIf it only has happened twice, something is very wrong.<br/>\nThe paralysis attempts only work when you attack Flat Footed creatures.<br/>\nThis is probably where most people go wrong.\n</div></blockquote>\nYup am definitely doing it completely out of combat, to flat footed mobs.\u00a0<br/>\nFunny thing is, I just noticed it works really well for giants. But cant seem to get other mobs to paralyse even though they do not have any immunity listed, at least.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:33 PM - Dec 10, 2018",
+      "content": "<div>If you look at the combat log, you should be able to see if your attacks have forced a save vs. paralyzation. If they have, you can see what fortitude save bonus the targets have, and if they are higher than one should expect. The DC of your attack should be 10 + assassin level + intelligence bonus. I don't know if it is possible for the module designer to nerf that. Several creatures are immune to death attacks: Crit immunity and sneak immunity, immunity to paralyzation and the Freedom effect grant immuity to death attack paralyzation.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "4:38 PM - Dec 10, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nIf you look at the combat log, you should be able to see if your attacks have forced a save vs. paralyzation. If they have, you can see what fortitude save bonus the targets have, and if they are higher than one should expect. The DC of your attack should be 10 + assassin level + intelligence bonus. I don't know if it is possible for the module designer to nerf that. Several creatures are immune to death attacks: Crit immunity and sneak immunity, immunity to paralyzation and the Freedom effect grant immuity to death attack paralyzation.\n</div></blockquote>\nI took screenshots of couple of my combat logs. What do you think?<br/>\n<br/>\nLooks like with normal giants I managed to get the paralysis roll to show, but failed the roll. I had also buffed my INT with Fox Cunning when I tried.<br/>\n<br/>\nWhen I tried it on a unique giant\u00a0 (who does NOT have immunity in the stats - see screenshot) the paralysation roll does not even show up no matter how many times I try (see screenshot of CL).\u00a0<br/>\nEvery time I did it out of combat (rest icon had changed color) and they were standing still.<br/>\n<br/>\nThe DM at the server I asked said as far as he knows DA has not been altered, and that most likely DA is hard coded and it cannot even be changed.<br/>\n<br/>\nPS. Right now I am at stage Monk 9 / Asn 15 / SD 5 with the build.<br/>\nOf course the roll will be better once my ASN is full, but I am wondering about the unique giant not even showing the attempt at paralysis despite it not having a clear immunity in the stats.<br/>\n<br/>\nEDIT: The Fear roll is from my weapon, by the way.</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:46 PM - Dec 10, 2018",
+      "content": "<div>The effects listed in Birk's info window do not explain why there is no paralyzis attempt. I notice that Birk activates an aura effect. I wonder if that aura has something more than fear. If it has Freedom, that would explain it. <br/>\nWith the waste giants, at least there is a paralyzis attempt and a save roll. The fort save bonus is high, so they resist when rolling a 4.<br/>\n<br/>\nI am not able to read from the combat log if you attack the way I do. With this character I attack from stealth, dual wielding kamas so I get maximum number of attacks in the first flurry. Immediately after hitting, I HIPS* away. That means the character is only visible in a flash, and I only let it attack with the first flurry of attacks. Then I let things cool completely down. That way the next attack will also be against a flat footed creature producing new paralyzation attempts.<br/>\n<br/>\n*I have the stealth icon shortcut on F1 and an attack icon shortcut on F2. I attack in the normal way by pointing and clicking. Once the attack is launched I withdraw immediately by pressing F2 to abort the attack, followed by F1 to hide, in quick succession.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "10:45 PM - Dec 10, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nThe effects listed in Birk's info window do not explain why there is no paralyzis attempt. I notice that Birk activates an aura effect. I wonder if that aura has something more than fear. If it has Freedom, that would explain it. <br/>\nWith the waste giants, at least there is a paralyzis attempt and a save roll. The fort save bonus is high, so they resist when rolling a 4.<br/>\n<br/>\nI am not able to read from the combat log if you attack the way I do. With this character I attack from stealth, dual wielding kamas so I get maximum number of attacks in the first flurry. Immediately after hitting, I HIPS* away. That means the character is only visible in a flash, and I only let it attack with the first flurry of attacks. Then I let things cool completely down. That way the next attack will also be against a flat footed creature producing new paralyzation attempts.<br/>\n<br/>\n*I have the stealth icon shortcut on F1 and an attack icon shortcut on F2. I attack in the normal way by pointing and clicking. Once the attack is launched I withdraw immediately by pressing F2 to abort the attack, followed by F1 to hide, in quick succession.\n</div></blockquote>\nThanks for the tips on attacking. I think I maybe figured out why it was not working on any of the unique mobs.<br/>\nThe auras that they have are attack auras (such as cold dmg, etc.), and they turn\u00a0 on combat the moment I step within the aura. So due to this I lose the status I need to be in to qualify for paralysis attempt. Maybe?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:25 AM - Dec 11, 2018",
+      "content": "<div><blockquote><div><cite>Horri wrote:</cite>Thanks for the tips on attacking.</div></blockquote>\nYou're welcome! <span class=\"text-emoji\">\ud83d\ude42</span>\n<blockquote><div>I think I maybe figured out why it was not working on any of the unique mobs. The auras that they have are attack auras (such as cold dmg, etc.), and they turn\u00a0 on combat the moment I step within the aura. So due to this I lose the status I need to be in to qualify for paralysis attempt. Maybe?\n</div></blockquote>\nThat may explain it. What matters is what state the target is in when you attack. If they \"activate*\" with proximity, they may be impossible to reach flat footed. \u00a0(Well - unless you rush in so fast that they don't have time to run the on perception script. With monks you can have an insane speed if you have the means to stack expeditious retreat or mass haste.)<br/>\n<br/>\n*Edit: If the aura keeps the creature active as long as the aura is active, it will never become flat footed as long as the aura is there.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "1:04 AM - Dec 11, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Horri wrote:</cite>Thanks for the tips on attacking.</div></blockquote>\nYou're welcome! <span class=\"text-emoji\">\ud83d\ude42</span>\n<blockquote><div>I think I maybe figured out why it was not working on any of the unique mobs. The auras that they have are attack auras (such as cold dmg, etc.), and they turn\u00a0 on combat the moment I step within the aura. So due to this I lose the status I need to be in to qualify for paralysis attempt. Maybe?\n</div></blockquote>\nThat may explain it. What matters is what state the target is in when you attack. If they \"activate*\" with proximity, they may be impossible to reach flat footed. \u00a0(Well - unless you rush in so fast that they don't have time to run the on perception script. With monks you can have an insane speed if you have the means to stack expeditious retreat or mass haste.)<br/>\n<br/>\n*Edit: If the aura keeps the creature active as long as the aura is active, it will never become flat footed as long as the aura is there.\n</div></blockquote>\n\nUnderstood.<br/>\nBy the way regarding stacking mass haste, could you explain how this works?<br/>\nDoes it mean that it stacks on top of normal haste or is faster than it? For example if I already have boots of speed, do I need to remove them and cast mass haste to gain some benefit?<br/>\n<br/>\nI do not have access to ER at the moment, but maybe later. So I am currently just using BoS and the monk speed I got from 9 levels of monk. Is that the max I can do without ER?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:36 AM - Dec 11, 2018",
+      "content": "<div>Take a look at the \"Speed Caster\" thread here in the 40s section for an explaination of the speed stacking. It works with multiple castings of either or both spells. If you only use ER, a perma haste item will still give you the AC bonus and the extra action/ attack per round.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "4:51 AM - Dec 11, 2018",
+      "content": "<div>If you want to test the speed stacking, take your monk to a trainer mod like the Pretty good character creator, where you can add levels at you leisure and create items with magical properties. Make a couple of items with unlimited castings of the spells and have fun!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "3:52 PM - Dec 11, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nIf you want to test the speed stacking, take your monk to a trainer mod like the Pretty good character creator, where you can add levels at you leisure and create items with magical properties. Make a couple of items with unlimited castings of the spells and have fun!\n</div></blockquote>\nThanks for the suggestion.<br/>\nI managed to get several scrolls of mass haste and haste. I tried casting them a few times in a row with BoS on, and also off (I did not fully understand does that make a difference?) but I could not feel a difference in speed.<br/>\n<br/>\nDoes it not work if you use scrolls?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "6:15 PM - Dec 11, 2018",
+      "content": "<div>MH should stack with itself if you have 3 monk levels or more.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Horri",
+      "avatar": "10759002_1544207915.jpg",
+      "timestamp": "6:21 PM - Dec 11, 2018",
+      "content": "<div><blockquote><div><cite>Mick Dagger wrote:</cite>\nMH should stack with itself if you have 3 monk levels or more.\n</div></blockquote>\n\nHmm, OK. I will try again with just MH. Thanks. I have the 9 levels of monk.</div>"
+    },
+    {
+      "author": "Pan Draconis",
+      "avatar": "10759307_1674117984.jpg",
+      "timestamp": "11:10 AM - Oct 03, 2022",
+      "content": "<div>Kamaaaaa poliiiice.<br/>\n<br/>\nI really love him.\u00a0</div>"
+    },
+    {
+      "author": "zerafall",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:25 AM - Aug 24, 2024",
+      "content": "<div>The flavor of this build is immaculate, and I'm always looking for an excuse to play elf. Thinking of running this guy thru swordflight, but unfortunately EE nerfed monk's stunning fist and assassin's death attack. How much does that hurt this build exactly?</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:54 AM - Aug 24, 2024",
+      "content": "<div><blockquote><div><cite>zerafall wrote: <div class=\"responsive-hide\">Aug 24, 2024</div></cite>The flavor of this build is immaculate, and I'm always looking for an excuse to play elf. Thinking of running this guy thru swordflight, but unfortunately EE nerfed monk's stunning fist and assassin's death attack. How much does that hurt this build exactly?</div></blockquote>\nStunning Fist was always a back-up plan, not something you are supposed to keep spamming. It is sad to see it nerfed, but it does not hurt this build too much.<br/>\nIt is worse with the DA nerf. The chances of landing paralyzing attacks is no longer multiplied in an attack flurry. You still paralyze your targets, especially when the assassin levels begin to stack up, but it doesn't work as consistently as it used to.<br/>\n<br/>\nThe DA nerf has made the rogue class even more relevant than before in stalker builds. Even so, the assassin class can help you avoid an XP penalty, like in this build. You get \"SCV for free\" with the Improved invisibility class feature. You also get Great dex as an epic bonus feat, which can give a dedicated assassin build a higher AB than a similar rogue build, something I also use in this build. The DA can still paralyze targets, but not quite as consistently as before.<br/>\nRogue qualifies for Epic Dodge with its bonus feats, something assassin does not. Here, I circumvent that with class feats from monk and SD.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:04 AM - Apr 10, 2025",
+      "content": "<div>How to beat Maker (Demi lich from HotU campaignsl) with his build?<br/>\n<br/>\nI am level 21 with +5 kamas and do 0 dmg to him.</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "9:14 AM - Apr 10, 2025",
+      "content": "<div>The Maker - <blockquote><div>The demi lich is a 'skeleton' so non bludgeon weapons are halved in damage. Being undead is immune to sneak attacks and critical hits. Almost impossible to kill with straight non-bludgeon weapon, even if +10. Is effectively immune to any elemental damage. Divine damage and Magic damage work pretty good. If you are a cleric/druid, it is easy in many ways, you were designed for this battle. If you can find a weapon with divine damage, great. Even with bludgeon damage, has +20 soak 10 damage reduction, so a two handed bludgeon weapon works best to max up your strength bonus.<br/>\n<br/>\nHe has +20 soak 10 damage (which means you can't overcome his damage reduction), he's immune to cold and electrical damage and has 20/-resistance to fire, acid and sonic damage. He's also <em>50% immune to piercing and slashing</em>. Plus, he has a SR of 32. On top of all that, his AC is 44.</div></blockquote>\n\nIF you can get Divine and/or Magic damage on your kamas, you should be able to chip him to death with them.\u00a0 Other than that...good luck!</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:40 AM - Apr 10, 2025",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">9:14 AM - Apr 10</div></cite>The Maker -\n<blockquote><div>The demi lich is a 'skeleton' so non bludgeon weapons are halved in damage. Being undead is immune to sneak attacks and critical hits. Almost impossible to kill with straight non-bludgeon weapon, even if +10. Is effectively immune to any elemental damage. Divine damage and Magic damage work pretty good. If you are a cleric/druid, it is easy in many ways, you were designed for this battle. If you can find a weapon with divine damage, great. Even with bludgeon damage, has +20 soak 10 damage reduction, so a two handed bludgeon weapon works best to max up your strength bonus.<br/>\n<br/>\nHe has +20 soak 10 damage (which means you can't overcome his damage reduction), he's immune to cold and electrical damage and has 20/-resistance to fire, acid and sonic damage. He's also <em>50% immune to piercing and slashing</em>. Plus, he has a SR of 32. On top of all that, his AC is 44.</div></blockquote>\n\nIF you can get Divine and/or Magic damage on your kamas, you should be able to chip him to death with them.\u00a0 Other than that...good luck!</div></blockquote>\nWell, you can get the smith (Rizolvir?) in Lith My'athar to enhance your weapons with any sort of damage - including Divine and Magic, iirc - up to +10. Yes, it costs, but by that stage you should be rich as Croesus anyway.<br/>\n<br/>\nI don't know if you're soloing, but now might be a good time to make an exception. While Deekin is always vfm, both Nathyrra and Valen have their merits for this one. Valen wields his morning star to great effect (as well he should as a WM), while Nathyrra, with a good bow and +5 unlimited arrows using Rapid Shot is handy - particularly if you can afford to put +10 Mighty and +10AB on Taralash.<br/>\n<br/>\nGear-wise, Dragon Slippers are good (KD immunity), Ring of Greater Electrical Resistance helps against Gedlee's, Cowl of Warding works against Slow and Mind spells, while Belt of Guiding Light protects from Death magic.<br/>\n<br/>\nDon't forget that fighting the Maker is purely optional, and there's no consequence to just leaving him be.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:07 AM - Apr 10, 2025",
+      "content": "<div>Problem is, I did damage him to \"Near death\" thanks to Valen.. but then he heals and Valen is no longer able to do any dmg to him..<br/>\nHe is unable to land a hit on him, combat log says missed the target everytime.<br/>\n<br/>\nEDIT: It was stupid Valen activating expertise and imrpvoed power attack made him miss so much.. LOL he seems to also be level drained , I see it now after battle.</div>"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:14 AM - Apr 10, 2025",
+      "content": "<div>OK I BEAT HIM.\u00a0<br/>\n<br/>\nTook some resurections on Valen but he managed to kill him!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "1:06 PM - Apr 10, 2025",
+      "content": "<div>Vs the Maker Gloves (in general) are better than Kamas because they are blunt. But with only 8 or 9 monk levels, your fists are far from at their max damage.\u00a0<br/>\nAny magical or divine damage on your Kamas/ Gloves will hurt him.\u00a0<br/>\nCasting spells from items with UMD will probably not beat the SR. I'm not sure if Mord's or or the Breach spells will be able to lower his SR.<br/>\nIf you manage to lay traps, holy traps will deal divine damage.<br/>\nSome people claim that they have been able to take him down by throwing multiple flasks of Holy water at him.\u00a0</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:19 PM - Apr 10, 2025",
+      "content": "<div><blockquote><div>I'm not sure if Mord's or or the Breach spells will be able to lower his SR.</div></blockquote>\n\nThey will.<br/>\n<blockquote><div><strong>Breach</strong> spells strip an enemy mage of magical defenses. <em>Lesser spell breach</em> strips two spells, <em>greater spell breach</em> strips four spells, and <em>Mordenkainen's disjunction</em> strips six spells. In addition, <em><strong>a breach will lower spell resistance for ten rounds</strong></em>, excluding resistance from diamond soul.</div></blockquote>\n\nDepending on which Breach one uses, the SR is lowered respectively.\u00a0 With an SR of 32 (highest toolset DR, btw), even a Mords will only lower it by 10 i.e. to 22.\u00a0 Nature's Balance could potentially lower it more, depending on the Caster level of it.\u00a0 Note there is a Will save.\u00a0 Not sure exactly what it is against, however.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:32 PM - Apr 10, 2025",
+      "content": "<div>Risolvr can give you fire, cold, acid, or electric, but not magic or divine.\u00a0 I usually go for acid, which is very useful in Sands 0f Fate.\u00a0 Don't forget to go al;l the way to +10, and boost Valen's weapon. too.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "2:46 PM - Apr 14, 2025",
+      "content": "<div>I am happy to say that Kama Shinobi beat HotU campaign!<br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://attachment.tapatalk-cdn.com/2742/202504/10759648_faf9a80af863e18bc7308cd6e153b1a4.png\"/></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "3:49 PM - Apr 14, 2025",
+      "content": "<div>Congrats, hero!</div>"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:41 PM - Apr 14, 2025",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">3:49 PM - Apr 14</div></cite>Congrats, hero!</div></blockquote>\nIts a bummer that at some point of no return when you really need money and dont have it.. well lets just say that Valen betrayed me in the final fight. :(</div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:31 PM - Apr 14, 2025",
+      "content": "<div>Sounds like a skill issue! <span class=\"text-emoji\">\ud83d\ude1b</span></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:45 PM - Apr 14, 2025",
+      "content": "<div><blockquote><div><cite>wanderei wrote: <div class=\"responsive-hide\">4:41 PM - Apr 14</div></cite><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">3:49 PM - Apr 14</div></cite>Congrats, hero!</div></blockquote>\nIts a bummer that at some point of no return when you really need money and dont have it.. well lets just say that Valen betrayed me in the final fight. :(</div></blockquote>\nIf you're interested...\n<details><summary>Spoiler</summary>Unless you have a massive investment in Persuade, there's not much you can do about it. Only one companion will stay true - everyone else will betray you, including Aribeth, no matter what you do or say. Paying for their real names is just wrong: I generally refuse to pay for anyone's except the Sleeping God's, and even if you do, they still might sell you out. The only one who remains faithful regardless is, of course, Deekin\n</details></div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:53 PM - Apr 14, 2025",
+      "content": "<div>Actually, Stag, he's referencing this :<br/>\n<details><summary>Spoiler</summary>Another way to protect yourself from betrayal is to spend money on true names, so you can command them not to betray you. No need for persuade.\n</details></div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "5:56 PM - Apr 14, 2025",
+      "content": "<div><blockquote><div><cite>webshaman1 wrote: <div class=\"responsive-hide\">5:53 PM - Apr 14</div></cite>Actually, Stag, he's referencing this :<br/>\n<details><summary>Spoiler</summary>Another way to protect yourself from betrayal is to spend money on true names, so you can command them not to betray you. No need for persuade.\n</details>\n</div></blockquote>\nTrue - I'd forgotten about that, but included it in an edit to my spoiler as you were typing!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "6:32 PM - Apr 14, 2025",
+      "content": "<div>All's well that ends well! :D</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:22 AM - Apr 15, 2025",
+      "content": "<div><details><summary>Spoiler</summary>\nYou can also use Valen's true name to banish his demonic side, which is a really nice thing to do for him.</details></div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "wanderei",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:25 AM - Apr 15, 2025",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote: <div class=\"responsive-hide\">3:22 AM - Apr 15</div></cite><details><summary>Spoiler</summary>\nYou can also use Valen's true name to banish his demonic side, which is a really nice thing to do for him.</details>\n</div></blockquote>\nI am planing to import this character into SoF module (mayby this time it wont bug on me). Since I can only keep items that are equiped I have dilema.\u00a0<br/>\nShould I keep Coil of Warding or Crown of Thorns?<br/>\nWill Ring of major fire resistance protect me from sunburn (it has -30 fire res)?</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:53 AM - Apr 15, 2025",
+      "content": "<div>As Empyre has mentioned before, if you set the difficulty to Normal or lower, you can take <em>all</em> your inventory, then reset the difficulty to something harder after you've started the modules.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "3:58 AM - Apr 18, 2025",
+      "content": "<div>Yes, that ring will protect you from the heat.</div>",
+      "author-color": "#00AA00"
     }
-  ]
+  ],
+  "author-color": "#AA0000"
 }

@@ -4,53 +4,49 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "989",
-  "name": "SD build request - Kharlindale Realms",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/sd-build-request-kharlindale-realms-t2354835.html",
-  "author": "friedpiggy",
-  "avatar": "10572442_1552585393.jpg",
-  "replies": 6,
+  "name": "Cleric Build",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/cleric-build-t2354844.html",
+  "author": "Ylaern",
+  "avatar": "no_avatar.png",
+  "replies": "5",
+  "views": "505",
   "posts": [
     {
-      "author": "friedpiggy",
+      "author": "Ylaern",
       "avatar": "no_avatar.png",
-      "timestamp": "4:24 PM - Mar 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings all.<br/>\n<br/>\nI humbly request a Shadowdancer build from you good people.\u00a0<br/>\n<br/>\n<strong>Server specifics</strong><br/>\nLow Magic world<br/>\nMax is +5 (+6 at 40)<br/>\nMaxing out DEX is perfectly doable<br/>\nThere are almost no changes to base nwn, even CEP isn't used on the server.<br/>\nEach class has a custom item with some stats/skills etc. SD gets a shuriken quiver thingy. These shuriken are upgraded every 5 levels<br/>\n<br/>\n<strong>What I am looking for</strong><br/>\nI am looking for a dex build with as many SD levels as possible. Must have the WF/EWF/IC shuriken feats. Would be nice if it could also be feated for rapiers.<br/>\nWill mainly be played solo so that needs to be taken into account as well.<br/>\n<br/>\n<br/>\nThanking you all in advance<br/>\nPiggy<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:25 PM - Apr 09, 2018",
+      "content": "<div>Hi guys,<br/>\n<br/>\nLooking to play my first cleric in a custom environment and i'd like some pointers. The Thay PW has some modifications to spells which i'll list.<br/>\nI'm after a cleric PvM build, preferably with the animal/plant domain. the max level on the server is 25. I'd like it to be Elf or Human, either down the zen archery or melee route, whichever is going to give me the easiest time up to level 10 where most characters float.<br/>\n\u00a0<br/>\nSpell and Class changes:<br/>\nAbility buffs are a flat +4 and last 1 minute/level.<br/>\nImproved Invis is 1 round/level.<br/>\nMagic Vestment is 2 minute/level<br/>\nAll summons are also 2 minute/level.<br/>\n<br/>\nShifter gains wildshape 2/3/4 at levels 2/3/4 respectively, humanoid at 5 and toned-down versions of undead/construct/dragon shape at 6/7/8.\u00a0<br/>\n<br/>\nRealistically the max item enhancement is +4, there is no penalty for multiclassing. As an interesting aside there is the potential for 9th level clerics to become shifters, i'd be curious to see what you guys think about a cleric/shifter/monk split? I see its asking a lot for 25 levels though. Thanks for your time.</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:47 PM - Mar 27, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Before I make such a build for you, I need to warn you that this is a bad idea. After the first few levels, Shadowdancer is a weak class, and shurikens are a weak weapon.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:27 AM - Apr 11, 2018",
+      "content": "<div>I can think of several approaches:<br/>\nPure Cleric so you can be effective casting offensively as well as buffing.<br/>\nFighter 2 and the rest Cleric, so you get free Martial Weapons Proficiency and 2 more feats.<br/>\nFighter 4 and the rest Cleric, so you can also get Weapon Spec and Epic Weapon Spec, but not until level 24, which is why I also suggested only 2 Fighter.<br/>\nMonk 2, Fighter 2 or 0, and the rest Cleric. You get your WIS bonus added to your AC and you get the Monk attack progression on your kama. Definitely add the Fighter levels if you want to wield 2 kamas instead of just 1.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "friedpiggy",
+      "author": "Ylaern",
       "avatar": "no_avatar.png",
-      "timestamp": "5:33 AM - Mar 28, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hmmm you might have a point there. The shuriken was mainly to take advantage of the ammo generator thingy that upgrades every 5 levels. I think this can be scrapped though. will try something else out instead.<br/>\n<br/>\nThank you for your time though<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:42 AM - Apr 11, 2018",
+      "content": "<div>If I took the pure cleric route and picked up extend, empower and still or silent spell, a long with expertise mode and weapon focus in longsword and blind fight, would you just pump as much wis as possible? I'm not sure how to distribute stats between strength and wis considering I'll be using divine power when in melee</div>"
     },
     {
-      "author": "hunearo",
-      "avatar": "10572442_1552585393.jpg",
-      "timestamp": "9:52 PM - Mar 30, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Once I wanted to make a build that uses shurikens, but it remained only a concept in my mind. I would take rogue or assassin to get sneak/death attack, and at least 21 levels of Ranger for BoE against sneak immunes. The third class would be shadowdancer here, and it's not bad because HiPS would help you to land sneaks.<br/>\nBut that's it, I don't know if anything useful can be made from this.<br/>\n<br/>\nEDIT:<br/>\nI made a little search, and here is something with roughly the same class distribution as described above - <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-bane-crusher-ranger-23-rogue-16-sd-1-t515517.html\" rel=\"noreferrer\" target=\"_blank\">The Bane Crusher</a> from Maximilian Kane. It's a melee toon and does not have exotic proficiency, so a few tweaks are needed, but it can be a good base to start.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "6:19 PM - Apr 11, 2018",
+      "content": "<div>From what you said about focusing in longsword, I take it your wanting a melee cleric. \u00a0So the real question then is how loaded down do you want to be in between castings of divine power/favor.<br/>\n<br/>\nA str of 14 lets you carry 116 lbs while a 16 lets you carry 153.<br/>\n<br/>\nFull plate weighs 50 lbs and a tower shield weights 45. \u00a0Thats 95 lbs for plain common gear. \u00a0Some magical or rare materials lower the base weight.<br/>\n<br/>\nSo if strength enhancing items are common, you might be able to get away with a 14 str. \u00a0Or if bags of holding are easy to come by, then you may be able to go lower still.<br/>\n<br/>\nMyself, I'd probably go with 16 just to give you some leeway in carrying stuff without having to make sure you were always buffed.<br/>\n<br/>\nI'm sure Valefor or Max will come by sooner or later and give you some better info.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:46 AM - Mar 31, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">He was wanting lots of SD levels because the more levels of SD, the better the unlimited supply of shurikens become, +1 every 5 levels.<br/>\nMaybe a Rogue 20 / SD 20 wouldn't be completely awful, with unlimited +4 shurikens, Epic Dodge, and sneak attacks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Ylaern",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:49 PM - Apr 11, 2018",
+      "content": "<div>The weapon focus seemed to make sense, once i've taken the metamagic feats i'd need to get the most out of my spellbook i'm not sure what other feats to take, I guess zen archery for reasonable plinking at a distance? At a max level of 25 would the difference between a melee 15/16 lvls of cleric and a pure cleric caster in terms of casting for PvM be pretty substantial? Thanks for the advice, taking 16 str 16 wis left me with 10 dex and con with 14 int, I think thats a good place to start?</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "2:22 PM - Mar 31, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Rogue 19/ Fighter 6/ ShadowDancer 15, would be even better with additional attacks &amp; ews.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "hunearo",
-      "avatar": "10572442_1552585393.jpg",
-      "timestamp": "7:42 PM - Apr 03, 2018",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about a fighter 8 / blackguard 16 / shadowdancer 16 with a little focus on charisma? You can get extra damage from divine might, ws/ews and sneaks.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "7:47 AM - Apr 12, 2018",
+      "content": "<div><blockquote><div><cite>Ylaern wrote:</cite>The weapon focus seemed to make sense, once i've taken the metamagic feats i'd need to get the most out of my spellbook i'm not sure what other feats to take, I guess zen archery for reasonable plinking at a distance? At a max level of 25 would the difference between a melee 15/16 lvls of cleric and a pure cleric caster in terms of casting for PvM be pretty substantial? Thanks for the advice, taking 16 str 16 wis left me with 10 dex and con with 14 int, I think thats a good place to start?</div></blockquote>Human, Dwarf or Half Orc. I'd start with 16 STR and WIS too. 3 bumps to WIS, the rest to STR. Fighter at lvl 1, then Cleric for a while and possibly 1 more fighter sometime and a lvl or 2 in a tumble class.<br/>\n<br/>\nGo melee buffer.<br/>\n<br/>\nSent fra min SM-G950F via Tapatalk<br/>\n<br/>\n</div>"
     }
   ]
 }

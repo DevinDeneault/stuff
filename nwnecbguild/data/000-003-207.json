@@ -4,17 +4,24 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "207",
-  "name": "Build Request, Class changes!",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/build-request-class-changes-t2354454.html",
-  "author": "gotanp",
+  "name": "Oddball Build - Damage Shield Dwarf!",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/oddball-build-damage-shield-dwarf-t2354458.html",
+  "author": "Theophilus Fist",
   "avatar": "no_avatar.png",
-  "replies": 0,
+  "replies": "1",
+  "views": "505",
   "posts": [
     {
-      "author": "gotanp",
+      "author": "Theophilus Fist",
       "avatar": "no_avatar.png",
-      "timestamp": "12:17 AM - Jul 15, 2015",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello once more good people of the build pimpin' garage, I've a special order today.<br/>\n<br/>\n I've been thinking about a pvp build and my main interests are either some ranger/assassin build that utilizes bane or a BARBARIAN build,\u00a0<br/>\n now the main reason for that is in my server these classes are a bit changed, Assassin gets Hide in plain sight at level 8, and the barbarian rage, instead of giving you<br/>\n ability bonuses it just gives you +ab and +temporary hp (this stacks with everything else of course). in my server you can easily max strength so coupled with greater rage its +9 totally\u00a0<br/>\n for example. (i'm unsure if mighty rage and greater rage stacks there though). So i've been wondering if there's a good pvp builds that either utilize assassin(8+)/ranger(bane) OR barbarian (having in mind that greater rage gives you +3ab or mighty +4)<br/>\n<br/>\n Level cap: 40<br/>\n medium magic world: (true seeing lasts 18 seconds), can get all +5 ac items, haste, +6 enchantment on weapon, dev critical only doubles the damage of the crit if failed fortitude save<br/>\n<br/>\n p.s\u00a0<br/>\n ----<br/>\n the barbarian change also means that going dex with barbarian isn't that bad because your rage isn't added to strength but to +ab +hp<br/>\n Improved Sneak Attack: works for Assassin without Rogue/BG sneak.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:55 AM - Jul 29, 2015",
+      "content": "<div>Was musing about arcane casters (which, except for Bard, I rarely play) and thinking about how the right combo of HP, damage shields and DR, could make a damned fine melee arcanist. \u00a0JUST to make it interesting for me, I wrapped my ideas around incorporating the most worthless (IMO) Prestige Class in the game - Purple Dragon Knight - for kicks, giggles and as a way to add AB without the cheesiness of only using a few levels of a Prestige Class.<br/>\n<br/>\n The toon has to get hit enough to let the shields damage the attacker, yet have enough HP to survive and will probably need other ways to damage the bad guy besides the shields (either a big sword or a high damage spell), so that speaks Dwarf to me.<br/>\n<br/>\n I kicked around two quick thoughts - W25/DD10/PDK5 \"Purple Defender of Death!\" with Mestil's Acid Sheath, Dwarven Defender DR, \u00a0Elemental Shield, IGMS &amp; Finger of Death to neutralize baddies &amp; BD25/RDD10/PDK5 \"Purple Dragon of Death!\" with extended Wounding Whispers, EDR 3, Full Bard song &amp; AB in the 40s. \u00a0I built both versions but didn't look to optimize. \u00a0I also have NO IDEA as to whether any of the PDK feats will be useful.<br/>\n<br/>\n Additionally, a BD25/DD10/PDK5 (not RDD) seems like it would work best, except there'd be at least 2 alignment changes, which I do not want.<br/>\n<br/>\n<span style=\"color:#4C5D77\">1) PvM</span><br/>\n<span style=\"color:#4C5D77\">2) Level cap - 40</span><br/>\n<span style=\"color:#4C5D77\">3) Race preference - Dwarf - I'm starting to like the buggers!</span><br/>\n<span style=\"color:#4C5D77\">4) Class preference - See above - must use PDK.</span><br/>\n<span style=\"color:#4C5D77\">5) Melee preference - sword/board or 2-hander</span><br/>\n<span style=\"color:#4C5D77\">6) Range preference - N/A</span><br/>\n<span style=\"color:#4C5D77\">7) Weapon preference - Morningstar or Spear (unless you can work in another Weapon Proficiency - this guy is feat-starved.</span><br/>\n<span style=\"color:#4C5D77\">8) Maximum item enhancement - +5</span><br/>\n<span style=\"color:#4C5D77\">9) Spellcasting - Damage Shields. buffs and (if Wiz/Sorc) Bigby's/Fingers of Death.</span><br/>\n<span style=\"color:#4C5D77\">10) Custom factors - none, except want to use PDK</span></div>"
+    },
+    {
+      "author": "Theophilus Fist",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:08 PM - Sep 04, 2015",
+      "content": "<div>My mistake - I failed to use the search engine and discover the dozens of WIZ. SOR &amp; BD/DwD combos there.  I should have known that there is nothing original in NWN anymore!</div>"
     }
   ]
 }

@@ -4,77 +4,182 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "166",
-  "name": "Slashing vs. Bludgeoning two-handers",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/slashing-vs-bludgeoning-two-handers-t2355152.html",
-  "author": "ratty_uk2011",
-  "avatar": "10759084_1591431150.jpg",
-  "replies": 10,
+  "name": "Epic Dodge:  A myth or a panacea?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/epic-dodge-a-myth-or-a-panacea-t515502.html",
+  "author": "HipMaestro",
+  "avatar": "10235222_1510287070.jpg",
+  "replies": "27",
+  "views": "7.5K",
   "posts": [
     {
-      "author": "ratty_uk2011",
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:32 AM - Oct 07, 2011",
+      "content": "<div>Please help send Hip to school. He lost his lunch money and must beg on street corners just for one of those luke warm cartons of curdly milk.<br/>\n<br/>\nSeriously... I need edjumacation about Epic Dodge.<br/>\n<br/>\nEvery blasted DEX build strives to achieve ED, and its value, although handy, just doesn't impress me the way DevCrit does for a strength build.  Now let me describe how I interpret/misinterpret its dynamic:<br/>\n<br/>\nFirst, the game description appears to be misleading \"The character avoids the first attack each round.\"<br/>\nNot true.  The character avoids the first SUCCESSFUL attack each round or AoO. ED will remain in queue until the first hit is registered, then negates its effects.<br/>\n<br/>\nSo that seems a mixed blessing right off the bat.  Good:  Avoid a hit.  Semi-Good: Possibly avoided one of the higher AB hits, but not definitely.  He could have just been rolling craptasticly for the first few attacks. Bad: Avoid a missed AoO. <br/>\n<br/>\nNext, \"Applies only to a character's current target or latest attacker.\"<br/>\n<br/>\nHuh?  Exactly what is this supposed to mean in gameplay?  Supposed I am flanked by 3 foes in melee.  I am engaging one but one of the other two, due to its initiative roll, qualifies as a last attacker.  So which one do I ED against?  <br/>\n<br/>\nThen, after that decision has been made, how about the third foe?  Does he now qualify as last attacker in that round by virtue of the lowest initiative roll and then I get another ED against him?  K.  Let's skip through that morass and look at the next last issue I have about the uber feat ED.<br/>\n<br/>\nSuppose I am PvPing my uber-dodgy, ED-imbued rogue against a hasted, DW kama flurrying ftr/monk.  So the luscious ED will allow my rogue to avoid all but 9 APR?  Woohoo!  I'll take that DevCrit DWing monk against any High DEX ED-user any day of the week and never look back.<br/>\n<br/>\nSeems to me the most advantageous use of ED is gained against relatively low AB, low APR enemies that struggle just to hit your ED user one time.  The more APR and the higher the AB of the foe, the more likely that the remaining attacks will hit and the less benefit it has. <br/>\n<br/>\nThere seems to be some bugginess when I use ED.  Depending on which combat mode I am using, sometimes it seems to randomly \"turn off\" for a while, but then resumes a normal epic dodgy effect.  On top of that, whenever there are AoOs happening, it triggers even when my toon wouldn't be hit anyway (AB vs. AC roll).<br/>\n<br/>\nED against casters. <br/>\nNVM.  I lost track of my thoughts for a second and was back in Saigon sweating from malaria again.<br/>\n<br/>\nThe bottom line is:  I cannot understand why this feat is so revered by all veteran players and has become an \"automatic\" goal of any DEX build.<br/>\n<br/>\nPlease consider, clarify, consternate, castigate or whatever you feel is appropriate to enlighten a mind gone haywire.<br/>\n<br/>\nAprecio mucho, mis amigos!</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "2:36 PM - Oct 07, 2011",
+      "content": "<div>An Ed build has good AC. Among the best, actually. AND, as you say description is wrong. You Epic dodge the first attack that hits from EACH ENEMY that hits you that round.<br/>\n<br/>\nExample, you're up against a DW Flurry Monk with your Imp Invis on, because you got the UMD for it. He has BlindFight or is completely idiot. You now avoid 25% of his attacks, PLUS his first hit, which will probaly be his first natural 20, depending on setting and build. In additon you even Avoid the first two HITs from his two companions. Every round.<br/>\n<br/>\nEpic Dodge is better than it's reputaion, it's awesome. I had an epic dodge on Mephisto, and he thus needed two 20'ies a round to score on me. You know, you can use a shield just fine to get your DEX AC character up to a REALLY high AC. It's only downside is it doesn't help against casting, and it's not availible until lvl 27 now, which is kinda late. But it rocks.</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "4:07 PM - Oct 07, 2011",
+      "content": "<div><blockquote><div><strong>Grimnir wrote:</strong>You Epic dodge the first attack that hits from EACH ENEMY that hits you that round.\n</div></blockquote>\nAhhh... that is what was not made clear via wiki or combat testing while my tester toon was attacking.  Makes a HUGE difference, Grim!<br/>\n<br/>\nAnd thanks for an example that illuminates the major benefit.  I build few DEXers other than range attackers... that dexpecker issue.<br/>\n<br/>\nHave you noticed any bugginess using different combat modes like cleave, flurry, expertise, etc.?  That's been part of my problem trying to gather enough combat data to extrapolate its true dynamic.</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "4:27 PM - Oct 07, 2011",
+      "content": "<div><blockquote><div><strong>HipMaestro wrote:</strong><br/>\nHave you noticed any bugginess using different combat modes like cleave, flurry, expertise, etc.?  That's been part of my problem trying to gather enough combat data to extrapolate its true dynamic.</div></blockquote>\nNever had PowerAttack on a DEX build, and haven't thought about testing it. I seem to remember it worked in conjunction with flurry at least. I had a Cleric26/Monk9/SD5 character and I didn't detect anything other than normal. It's absolutely awesome in mobs, as the usual damage leak due to 20ies is almost completely removed. And it also makes you \"immune\" to KD spamming, as they probably must roll two 20ies a round to get you down. KD spam can handle most dexer high AC builds without ED.<br/>\n<br/>\nPerhaps Kail has some test results somewhere?</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:55 AM - Oct 08, 2011",
+      "content": "<div>Yeah, Hip, you indeed completely underestimated the awesomeness of ED. If you take into consideration that DEXers are naturally the highest AC builds in NWN, which is common knowledge, you are hard to hit already. Now I can pretty surely state that in most cases, if you get hit twice in a round with a DEX build it's normally because you are surrounded by hundreds of monsters or because you are really unlucky. Basically, save a few exceptions, a DEX build means you don't get hit unless you're up against a really high AB build or many enemies (5 enemies with 5% chance to hit each accumulates to 25% chances, etc..). A DEX build with ED means you don`t get hit, and even when you were supposed to get hit, you don't.</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "3:33 AM - Oct 08, 2011",
+      "content": "<div>It was the \"avoid first hit of EACH ENEMY in every round\" that was throwing me, Max.  And I can further assume that it also triggers the same way against a wave of range attackers that may be supporting a closing group of meleers.  That was another misstep on my part.  I had always assumed that ED was only effective against hand-to-hand attacks.  <br/>\n<br/>\nSo, it is the \"icing on the cake\" for a DEX build, building off the naturally high DEX AC for its full benefit to be realized.  Then, combined with concealment makes a toon about as untouchable as can be conceived.<br/>\n<br/>\nBut, just for the record, I have an uncanny history of crap rolls and encounters against uber AB foes.  That may have something to do with my poor impression of the value of the feat.   My play style tends to avoid getting involved in mobs and will strive to break them up into digestible portions... not a berserker... ever.</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "12:10 PM - Oct 08, 2011",
+      "content": "<div>Well, I am the opposite. I'm more of a kamikaze player. I do it with skill, so in that sense, not a berserker either, but I simply don't have the patience to keep sniping, running etc.., which is why most of my builds have very high AC and the capacity to kill things very fast. One strategy I commonly use is to come in invisible and take out the casters first (if there are only a couple of them, 3 tops). I position in a way that I can kill one as fast as possible and go on to the next one immediately after. The meleers will surround me then, but as my builds have really high AC, it doesn't really matter. With my ED builds (I have at least 3), sometimes I get surrounded by 15 or more foes and I don't even take 1 point of damage, between concealment, ED and DR. In your playstyle, I can see why ED would be less useful, just like Cleave. Maybe it's the fact (and I have noticed this in the builds and suggestions you normally post) that you are more used to playing STR toons, so your \"fear\" to get overwhelmed is justified. I suggest you try play-testing my Shadow Priest build, at any level after Cleric 15 just so you can get a feel for playing Dex-based high AC builds.<br/>\n<br/>\nTake it EZ!</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "3:26 PM - Oct 08, 2011",
+      "content": "<div>Point on, Max.  One tends to build to use a particular style within the constraints of the specific environment. <br/>\n<br/>\nIn the case of combat gaming, in my approach, the gaming reality reflects realism, as in, what happens in real life situations.  When I command our guard group, any soldier that ignores flanking strategies and probing techniques I consider a likely casualty.  We take great pains to minimize the number of wounded and the subsequent lost support by planning well and controlling the environment to the best of our advantage.  We never face magicians, though, just mortars and artillery. <br/>\n<br/>\nIn some ways, I suppose NWN provides a certain level of simulation of actual combat dynamics although compared to facing all self-governed, independent enemies, the NWN AI is pretty lame.  <br/>\n<br/>\nExcept for DEXing clerics and rangers, I find that I am always placing my toon in harm's way for too long a period when I could have been disposing of them quickly in smaller groups.  Standing in a mob pecking away with minor damage because their DR and AC is oppressive (and I am referring to the standard bane of DEXers, in this case) provides more opportunities for 20 rolls against my toon.  Naturally, if I was able to design a toon that is both impossible to hit and causes high damage with each hit, that would change my strategy.  Still, all it takes in one DevCrit to end the impermeability and if surrounded by a mob of DevCritters, more 20s will get rolled per round.</div>"
+    },
+    {
+      "author": "avado",
       "avatar": "no_avatar.png",
-      "timestamp": "11:00 AM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Morning all<br/>\n<br/>\nAssuming Martial weapons only, and I'll be crafting something (hopefully) so stats are a wash.\u00a0<br/>\n<br/>\nGreat axe / great sword vs heavy flail for WoG ?\u00a0<br/>\n<br/>\nCheers!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:57 PM - Oct 08, 2011",
+      "content": "<div>Ahh... the high dex cleric!  All the clerical goodies and ED...  hmm..  If only i could add dev crit and it would be heaven!!  LOL  just kidding .. or am i?  OH crap... I have gotten old!  I know stardawg made a ED/Dev critter one time.  Saddly, I cant remember how nor where to find it.  And since we were on the Mountain, a PRC could very well have been involved.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:24 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have two great sword characters. Arcane Dwarven Dreadlord and modified Mithdradates The Enforcer. They have dev crit and access to keen edge so thats why I chose that weapon.\u00a0<br/>\n<br/>\nTheir best weapon LOL is +4 greatsword but if I had reliable access to GMW 15 i could use some lesser weapons with added elemental damage... erm until I get mord'ed...<br/>\n<br/>\nI think some of the more experienced WoG players should comment on this - I think one could use any weapon really<br/>\n<br/>\nI have a particular weakness for small characters wielding scimitars in two hands...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "1:03 AM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>avado wrote:</strong>Ahh... the high dex cleric!  All the clerical goodies and ED...  hmm..  If only i could add dev crit and it would be heaven!!  LOL  just kidding .. or am i?  OH crap... I have gotten old!  I know stardawg made a ED/Dev critter one time.  Saddly, I cant remember how nor where to find it.  And since we were on the Mountain, a PRC could very well have been involved.</div></blockquote>\nIt's  possible with an elven RDD, but not with Cleric, mind you. You'd be feat starved I think, so it wouldn't necessarily be a good build.</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:24 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Greatsword, for playability/availability reasons.<br/>\n<br/>\nAlthough, the Epic Greataxe, is a thing of beauty, for getting there...Greatsword.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:54 AM - Oct 09, 2011",
+      "content": "<div>Kail has one, Bard Rogue RDD. Pretty cool build.<br/>\n<br/>\nHip, they'd need to roll 2 20s in a row to hit you with a devcrit on a dex build, on a dex build with ED, 4 20s, as the 2 first ones wouldn't count, and on a dex build with ED AND concealment, they can always just surrender, it saves you time <br/>\n<br/>\nNow there is no such thing as a low-damage cleric. I'd say that DEX builds aren't all that gimped damage-wise as you seem to think, save AGAINST A FEW SPECIFIC MOBS. DEXers have to have a way to do damage, whether it's through UMD weapon buffs, Sneaks, Favored Enemies or whatever. I have many dex-heavy builds, and IIRC none of them has such trouble dealing damage. Granted they don't do as much damage as Strength builds, but they also don't take as much damage either!<br/>\n<br/>\nFinally, one thing your soldiers don't get and will NEVER get is EXTRA HP everytime they gain a new rank . Imagine a soldier being able to survive a leg chopped off because he just made captain... that is how NWN works... HP gain with levels IMO is the single most unrealistic aspect of the D&amp;D ruleset. There was a Brazillian RPG I used to play which had 2 types of HP. Physical Energy and Heroic Energy. The first was always constant, while the second one grew with levels. You would take damage on your heroic energy by default until you were worn out (AKA Heroic Energy points reached 0). Then you'd start getting hit on your physical energy. Whenever you got hit by a critical hit, what it did was, instead of doing double damage, it would do damage directly to your physical energy, even if you still had heroic points left. That was a more realistic way to represent combat experience gain, IMO.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "12:29 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I saw a good Halberd or two out there in WoG too<br/>\n<br/>\nI thought it might be a problem if an enemy has resistance to both piercing and slashing<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "3:21 AM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>Maximillian Kane wrote:</strong>Kail has one, Bard Rogue RDD. Pretty cool build.<br/>\n<br/>\nHip, they'd need to roll 2 20s in a row to hit you with a devcrit on a dex build, on a dex build with ED, 4 20s, as the 2 first ones wouldn't count, and on a dex build with ED AND concealment, they can always just surrender, it saves you time </div></blockquote>\nJust to have said it, there is no such thing as autoconfirm. If you're AB is 50 and you strike at AC 71+, you'll never ever crit him.</div>"
     },
     {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "1:06 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The best weapons are those who assemble or find yourself anyway. <br/>\n<br/>\nI once found a \"mercenary\" blade with five or six sockets, can't remember exactly. <br/>\nI went then &amp; opened the secret chest I had, full of gems\u00a0 that I gathered from countless battles (partner also helped with his), but never used till then &amp; managed to add +20 elemental/divine dmg to that thing...<br/>\nThen used umd to turn that thing into +5, flaming-weapon, keen-edge, +20 elemental/divine dmg Greatsword. <br/>\nI was playing Lord Soth (Ftr/Rog/BG) so I had something like 40+ strength &amp; divine might &amp; sneak-attack &amp; IKD &amp; devastating critical &amp; that weapon. <br/>\nEach hit, was like a damn THUNDERSTRIKE! <br/>\nHit &amp; Fatality.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "6:38 AM - Oct 09, 2011",
+      "content": "<div>Thanks, grim, I didn't know that one <br/>\n<br/>\nMore power for DEXers then!!!</div>"
     },
     {
-      "author": "gkorjax",
+      "author": "NwnwhiteBoy",
       "avatar": "no_avatar.png",
-      "timestamp": "3:32 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Valerfor, Out of the corners of my mind I remember the name Lord Soth, but I cannot recall from where it comes, so I ask you where?<br/>\nAnd of course I want to know what build you mean.<br/>\n<br/>\nOn Greyhawk, I often choose Greataxe over Greatsword, but I do not use devastating critical.<br/>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:58 AM - Oct 09, 2011",
+      "content": "<div>Really? :O Is this only in NWN?</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "11:08 AM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>NwnwhiteBoy wrote:</strong>Really? :O Is this only in NWN?</div></blockquote>\nNope, that's NwN, NwN2, Both Pen and Paper versions, that is 3.0, 3.5 and even Pathfinder.<br/>\n<br/>\nA roll of 1 is an autofail ONLY on Attack rolls and saving throws. Same with Autohit on 20. A roll of 1 on your confirm crit can still possibly confirm it.</div>"
+    },
+    {
+      "author": "NwnwhiteBoy",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:16 AM - Oct 09, 2011",
+      "content": "<div>I think I'm misunderstanding. If you roll a d20 you always hit? And if you roll a hit that will hit normally you get a critical hit? But even if you fail the 2nd roll, you'll still get a normal hit? Or have I misunderstood?</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "1:25 PM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>NwnwhiteBoy wrote:</strong>I think I'm misunderstanding. If you roll a d20 you always hit? And if you roll a hit that will hit normally you get a critical hit? But even if you fail the 2nd roll, you'll still get a normal hit? Or have I misunderstood?</div></blockquote>\nYeah, with a 20 you get a normal hit and threaten a critical. To confirm the crit you must make a roll of 1d20 + AB for the attack vs opponents AC. Sometimes, that's impossible mission.</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "7:19 PM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>Grimnir wrote:</strong><blockquote><div><strong>NwnwhiteBoy wrote:</strong>Really? :O Is this only in NWN?</div></blockquote>\nNope, that's NwN, NwN2, Both Pen and Paper versions, that is 3.0, 3.5 and even Pathfinder.<br/>\n<br/>\nA roll of 1 is an autofail ONLY on Attack rolls and saving throws. Same with Autohit on 20. A roll of 1 on your confirm crit can still possibly confirm it.</div></blockquote>Saving throws can be fixed. It's dependent on a switch setting while combat is hardcoded and untouchable.</div>"
+    },
+    {
+      "author": "Grimnir",
+      "avatar": "10235237_1517392314.jpg",
+      "timestamp": "8:22 PM - Oct 09, 2011",
+      "content": "<div><blockquote><div><strong>KailPendragon wrote:</strong>Saving throws can be fixed. It's dependent on a switch setting while combat is hardcoded and untouchable.</div></blockquote>\nYeah, well, that too.</div>"
+    },
+    {
+      "author": "conlaoch",
+      "avatar": "10235240_1510287070.jpg",
+      "timestamp": "9:41 PM - Oct 10, 2011",
+      "content": "<div>as an example, this one had Epic Dodge and Dev Crit<br/>\n<br/>\n<a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/viewtopic.php?f=7&amp;t=195\" rel=\"noreferrer\" target=\"_blank\">Tear of the Dragon</a><br/>\n<br/>\nConlaoch</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "1:56 AM - Oct 13, 2011",
+      "content": "<div>Guys, do you know if Epic Dodge works against Touch Attacks and Touch Attack spells like Harm?</div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:27 AM - Oct 13, 2011",
+      "content": "<div>Sorry max, cant say 100%, but I dont think so!  I mean, if the guy has his hands on you, how are you going to epic dodge it... his hands are ON YOU!  LOL<br/>\n<br/>\nBut i could be wrong.. as I have been several million times before (at least, my wife tells me that)</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "1:36 AM - Oct 14, 2011",
+      "content": "<div><blockquote><div><strong>Maximillian Kane wrote:</strong>Guys, do you know if Epic Dodge works against Touch Attacks and Touch Attack spells like Harm?</div></blockquote>\nNot against touch spells.  So your harmer can simply cast Harm, miss the first physical attack and then hit on the 2nd or 3rd or 4th, etc. to finish the Edodger off unless it has the initiative precedence to heal quickly between.  Works the same for all the Inflict series, combust, etc.  <br/>\n<br/>\nAs far as physical touch attacks (melee or ranged) like from shadows &amp; their ilk or ettercap bolt,  will get back to you about that. <br/>\n<br/>\nedit: Just tested the two PM touch attacks and neither were avoided by ED.  However, interesting was that one coup de grace (per round) that is supposed to be an automatic hit while the subject is paralyzed DOES get avoided per ED as normal.  Pretty kewl that a statue can dodge a physical attack, eh? I'll assume all non-spell touch attacks work exactly the same unless someone can provide evidence to the contrary.</div>"
+    },
+    {
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "3:42 PM - Sep 09, 2019",
+      "content": "<div>Hail ECBers!<br/>\n<br/>\nThank you for the clarification on ED - very helpfull, as I like DEX builds very much!<br/>\n<br/>\nCould you also please enlighten me on the high AC of dex builds? It just seems to me, that without Monk in the frame, the DEXers AC is really not that high.<br/>\n<br/>\nExample: A Dex build with 34 dex, Armor skin and full tumble gets 10+12+8+2 AC - 32 in total. True, that's at least +2 against a strength build (if it manages to get tumble, and most of them strive to), but against an AB of 51-53 (just an average Weapon Master) - that AC is simply crap. OK, add 20 from +5 items on each of the 4 AC categories - you still get 52 AC, or otherwise a 100% hit rate! Only if you cap the dodge bonus (which frankly - not that easy, as item slots are limited) will you be able to get anything close to a 25% hit rate, and capping Dex will make you immune to hits other than 20. But now let's recall, that 51-54 is unbuffed AB, and once it is buffed, we are right back where we started.<br/>\n<br/>\nTo sum up - am I correct in understanding, that if you don't put Monk in the build you are basically toast as dexer, despite your AC being higher than average str builds? Thanks!!!</div>"
     },
     {
       "author": "Mick Dagger",
       "avatar": "10235235_1549015559.jpg",
-      "timestamp": "4:43 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.\n</div></blockquote>\nGood point!<br/>\nIt makes me wonder if there are any great scythes for even more carnage.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "5:58 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I think this is Valerfor's Lord Soth build?<br/>\n<br/>\nLooks wicked to me\u00a0<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-antipaladin-infernal-devastator-ftr-8-rog-4-bg-t2351520.html\" rel=\"noreferrer\" target=\"_blank\">the-antipaladin-infernal-devastator-ftr ... 51520.html</a><br/>\n<br/>\ngreataxe or scythe sounds really awesome. those x4 and x5 modifiers :)<br/>\n<br/>\nWe should be asking DMs to build more scythe wielding opponents who can keen their weapons :)<br/>\n<br/>\nSpear doesn't sound too bad actually with a x3 modifier but I don't think it looks as cool? Something about it just doesnt cut it for me, I don't quite understand<br/>\n<br/>\nHeavy flail on the other hand... :) I like. wish it could be keen weapon'ed though<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "stephenratcliffe809",
-      "avatar": "10759100_1561880327.jpg",
-      "timestamp": "9:10 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Remember on WoG there's a crafting gem that adds Keen property to Blunt and Piercing weapon blanks<br/>\n<br/>\nSent from my SM-T810 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "5:10 PM - Sep 09, 2019",
+      "content": "<div>A medium sized strength build with dex 12, tumble 40, AS and full plate has 10 + 9 + 8 + 2 =29. Add a tower and get 32. Small creatures get +1 to AC but can only carry large shields. The sum is the same.<br/>\nA dex build with Great dex as bonus feat can end up with dex 40, but let's say 38 so there is room for EWF, EP, and AS. Naked AC is 10 + 14 + 8 + 2 = 34 for a medium character and 35 for a small one. Now cap dex and end up with 40 and 41. If you add a shield (yes some dexers have the shield proficiency)\u00a0 you get 43.<br/>\nAnd all that is before you start adding to the different AC types (armor, deflection, natural, dodge and in some cases shield)<br/>\nNow add monk and see what happens! <span class=\"text-emoji\">\ud83d\ude09</span></div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:15 PM - Sep 05, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>gkorjax wrote:</cite>\nValerfor, Out of the corners of my mind I remember the name Lord Soth, but I cannot recall from where it comes, so I ask you where?<br/>\nAnd of course I want to know what build you mean.<br/>\n<br/>\nOn Greyhawk, I often choose Greataxe over Greatsword, but I do not use devastating critical.<br/>\nMy reasoning is, \"Which enemies do 'I' concern myself with the most, that half orc bandit with the sword, or the half orc bandit with the Greataxe? For me it is the greataxe wielder. The greatsword is more reliably putting out more damage, but damage that is easier to mitigate. When the greataxe crits, YOU or your enemy has much less time to try and drink healing potions/full heals/etc. At least it is so for me, and I have a great time playing GreatAxe weapon masters.\n</div></blockquote>\nThe build was the one Orion linked but I went with even bigger strength 17(32), by sacrificing the esf:taunt for another great str.<br/>\n<br/>\nLord Soth is from the Dragonlance modules/novels of TSR era. <br/>\nA bad-ass Ex-Paladin - now a Death-Knight, that has to listen to spirits each night moaning about his sins in life forever.<br/>\nThe Queen of Darkness herself tried to coerce him into joinning her forces in the upcoming war of the lance &amp; he just told her to piss off (He doesn't care if he dies, for him is salvation). <br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"http://orig00.deviantart.net/0154/f/2007/110/0/1/dragonlance_5_by_jprart.jpg\" /><br/>\n<strong>Like a Boss</strong><br/>\n<img class=\"post-image\" loading=\"lazy\" src=\"https://66.media.tumblr.com/tumblr_lmyfb3HPoz1qlar3zo1_1280.jpg\" /><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "3:55 AM - Sep 10, 2019",
+      "content": "<div>The difference is greater than you night think...<br/>\n<br/>\nTaking as example Mick's <strong>Halfling Champion</strong> (with kukri &amp; shield): 35 (Base) +4 (Haste) +6 (Dexterity) +5 (Armor) +5 (Shield) +5 (Deflection) +5 (Natural) +5 (Dodge) = 70AC plus ED. <br/>\nGood (But not stellar Weapon-Master): 50 (Base) +6 (Strength) +5 (Weapon) +2 (Aid+Bless Potions) = 63AB. <br/>\nYou'll have a 65% hit-rate, with your 1st successful attack evaded. <br/>\nAnd now, here's why high-magic in general, leads to dexterity builds: For every point that +5 item cap is increased, your hit rate is reduced by 20% (+5% -25%)! <br/>\n<br/>\nAnd that's for a Weapon-Master.</div>"
     },
     {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "9:50 AM - Sep 06, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">You've made me want to make a blackguard now, what a cool character concept!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "calespurmarksman",
+      "avatar": "10758934_1530764018.jpg",
+      "timestamp": "7:35 AM - Sep 10, 2019",
+      "content": "<div>Mick, Valerfor - thanks for breaking it down! The AC on the Halfling Champion would be even higher - 72 - because the +2 base shield seems to be missing from the calculation, but in any case - point taken. Dexers get that much higher AC because they are able to cap Dex, as opposed to non-dex builds, where AC from dex+armor is capped at 9. And adding ED to the mix makes you almost untouchable, considering the second attack is at -5 AB and you avoid the first one automatically, save for AoO - correct?<br/>\nHurray for ED then :) And thanks again!</div>"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "12:19 PM - Sep 10, 2019",
+      "content": "<div><blockquote><div><cite>calespurmarksman wrote:</cite>Mick, Valerfor - thanks for breaking it down! The AC on the Halfling Champion would be even higher - 72 - because the +2 base shield seems to be missing from the calculation, but in any case - point taken. Dexers get that much higher AC because they are able to cap Dex, as opposed to non-dex builds, where AC from dex+armor is capped at 9. And adding ED to the mix makes you almost untouchable, considering the second attack is at -5 AB and you avoid the first one automatically, save for AoO - correct?<br/>\nHurray for ED then :) And thanks again!</div></blockquote>\nAnd it gets even better once you have SC V.</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

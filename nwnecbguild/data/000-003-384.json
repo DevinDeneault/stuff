@@ -4,59 +4,37 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "384",
-  "name": "Arcane Archer (Arelith)",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/arcane-archer-arelith-t2341975.html",
-  "author": "darktwist1",
-  "avatar": "10235261_1528181864.jpg",
-  "replies": 7,
+  "name": "Mage Killer - Preepic (level 20)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/mage-killer-preepic-level-20-t2343959.html",
+  "author": "Kagura66",
+  "avatar": "no_avatar.png",
+  "replies": "3",
+  "views": "551",
   "posts": [
     {
-      "author": "darktwist1",
+      "author": "Kagura66",
       "avatar": "no_avatar.png",
-      "timestamp": "12:17 AM - Sep 09, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello! I am looking for a Arcane Archer build for the Arelith server. Fighter/Bard/AA or other such build that will be good in PVP and PVM. Going for 11 AA lvls for +6 arrows. Thank you!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:55 PM - Oct 15, 2013",
+      "content": "<div>Hi you guys, and welcome all! =) First post!<br/>\n<br/>\nI'm looking for a PvP anti magers build, most likely a monk but anything else is cool too.<br/>\n<br/>\nHis main focus, like I said, is to eat up mages and terrorize them.<br/>\n<br/>\nI'm not that great with builds, so I thought I could join your lovely community and ask for your help.<br/>\n<br/>\nDo consider this build is for a server with a low magic/no perm items world, something along the lines of Ravenloft, where there are no low level items and hardcore rules.<br/>\n<br/>\nThanks in advance.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "5:18 AM - Sep 10, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I could put together a Fighter 8 / Bard 8 / AA 14 for you. Since neither Fighter nor Bard is the Elf's favored class, you would have to keep them even with each other to avoid a 20% EXP penalty.<br/>\n<br/>\nHow about Rogue 14 / Wizard 1 / AA 15? You would get Epic Dodge, and almost as importantly, Uncanny Dodge to keep your DEX AC when flat footed. You would also get more Tumble AC, and Rogue skills are nice to have.<br/>\n<br/>\n<strong>EDIT:</strong> Never mind the Rogue / Wizard / AA build. It isn't legal on Arelith because of the 3-levels-the-first-time-you-take-a-class rule. Complying with the rule would be very costly, and would ruin the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "5:09 AM - Oct 16, 2013",
+      "content": "<div>Welcome aboard!<br/>\n<br/>\nNow to your request...<br/>\n<br/>\nIt's not what you've supplied that concerns me (low magic, no permahaste), although the phrase \"no low level items\" isn't clear to me.  Do you mean there are no magical enhancements available on items until you reach a certain level?  So clarify that first.<br/>\n<br/>\nLike I said, it's not what you've already described, but what you haven't described.  For example, are dump classes allowed and are there any leveling constraints?  Have any classes been nerfed in any way (like casters not able to use Expertise mode while casting)? Have any spells or feats been modified and if so describe in detail the changes (don't try to link us to a server site for info because we won't read it) here or in the <a class=\"postlink\" href=\"http://nwnecbguild.44.forumer.com/persistent-worlds-f60569.html\" rel=\"noreferrer\" target=\"_blank\">subforum dedicated to PWs</a>.<br/>\n<br/>\nUnderstand that we all build per vanilla v1.69 guidelines here unless otherwise instructed... so if there are any peculiarities or accommodations that the server has set, it must be explained clearly before exploring any build concept.<br/>\n<br/>\nMonks are not the mage killers pre-epic that they can be in epic due to their excellent saves being accumulated with each additional level and access to ImpSR feats.  Makes a huge difference!<br/>\n<br/>\nMy first inclination would be a battle cleric... a class that will be able to hit at high AB, have IKD available and be able to dispel acid sheaths which any capable mage will have up at all times along with the other two shields.  A plain monk 20 won't be able to deal with it other than waiting for it to expire (even in prone position for a round the sheath will do damage).  So dispelling is important.  <br/>\n<br/>\nThe cleric Spell Resistance spell reaches an SR around 25 to 30 (ref: Clc 15-20).  A monk 20 will reach SR 30.  Whether those values will help much against a Wiz 20 or Sorc 20 with Greater Spell Pen. will need to be worked out. It would be best to build a stealthy toon but atm I haven't estimated skill point allocation and what is possible.  Stealth costs lots of skill points and would only be available at the final dump level in many builds.  Also, depending on domain selection, stealth can be more/less effective for a cleric-focused build.<br/>\n<br/>\nI am considering something like a dwarven Cleric 15/Ftr 4/Monk 1 with a Str10/Dex15(18)/Con14/Wis16(18)/Int14/Cha6 ability spread.  It would be using Divine Power to get an additional attack at full AB along with Emp Bull, AoV &amp; Battle Master to reach Str of around 22 plus the standard cleric pre-buffs to polish AB.  This build can either use something like a scimi for more crits or a kama or unarmed to take advantage of the monk progression.  Stunning fist is another consideration but would need a variant design to accommodate that.  I expect the AC will be over 35 with or without robes.<br/>\n<br/>\nAnyway, before I expend any more neurons designing this, please expand on the issues I've raised in this reply. Tx.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "7:16 AM - Sep 10, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Here you go:<br/>\n<br/>\nEmpyre's Arelith Songbow (Bard 8 / Fighter 8 / Arcane Archer 14)<br/>\nElf, Non-Lawful<br/>\nPlayable 1 -30<br/>\n<br/>\nAbilities:<br/>\nSTR: 12<br/>\nDEX: 18 (28)<br/>\nCON: 12<br/>\nWIS: 8<br/>\nINT: 12<br/>\nCHA: 14<br/>\n<br/>\nLeveling Guide:<br/>\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)<br/>\n01: Bard(1): Point Blank Shot<br/>\n02: Bard(2)<br/>\n03: Bard(3): Weapon Focus: Longbow<br/>\n04: Fighter(1): DEX+1, Weapon Finesse, (DEX=19)<br/>\n05: Fighter(2): Blind Fight<br/>\n06: Fighter(3): Called Shot<br/>\n07: Bard(4)<br/>\n08: Fighter(4): DEX+1, Weapon Specialization: Longbow, (DEX=20)<br/>\n09: Arcane Archer(1): Rapid Shot<br/>\n10: Arcane Archer(2)<br/>\n11: Arcane Archer(3)<br/>\n12: Bard(5): DEX+1, Lingering Song, (DEX=21)<br/>\n13: Arcane Archer(4)<br/>\n14: Arcane Archer(5)<br/>\n15: Arcane Archer(6): Improved Critical: Longbow<br/>\n16: Fighter(5): DEX+1, (DEX=22)<br/>\n17: Bard(6)<br/>\n18: Fighter(6): Dodge, Mobility<br/>\n19: Arcane Archer(7)<br/>\n20: Arcane Archer(8): DEX+1, (DEX=23)<br/>\n21: Fighter(7): Epic Weapon Focus: Longbow<br/>\n22: Bard(7)<br/>\n23: Fighter(8): Epic Weapon Specialization: Longbow<br/>\n24: Arcane Archer(9): DEX+1, Great Dexterity I, (DEX=25)<br/>\n25: Arcane Archer(10)<br/>\n26: Arcane Archer(11)<br/>\n27: Bard(8): Great Dexterity II, (DEX=26)<br/>\n28: Arcane Archer(12): DEX+1, (DEX=27)<br/>\n29: Arcane Archer(13)<br/>\n30: Arcane Archer(14): Armor Skin, Great Dexterity III, (DEX=28)<br/>\n<br/>\nStats:<br/>\nHitpoints: 270<br/>\nSkillpoints: 149<br/>\nSaving Throws (Fortitude/Will/Reflex): 19/13/27<br/>\nSaving Throw bonuses: Spells: +6, Mind Effects: +2<br/>\nBAB: 23<br/>\nAB (max, naked): 32 (melee), 42 (ranged)<br/>\nAC (naked/mundane armor/shield only): 27/30<br/>\nSpell Casting: Bard(3)<br/>\nAlignment Changes: 0<br/>\n<br/>\nSKills:<br/>\nListen 33(34), Lore 16(25), Perform 13(15), Spellcraft 29(30), Tumble 30(39), UMD 28(30)<br/>\n<br/>\n01: Listen(4), Lore(3), Perform(2), Spellcraft(4), Tumble(4), UMD(3)<br/>\n02: Listen(1), Perform(3), Tumble(1)<br/>\n03: Listen(1), Perform(1), Spellcraft(2), Tumble(1)<br/>\n04: Save(3)<br/>\n05: Save(6)<br/>\n06: Save(9)<br/>\n07: Listen(4), Perform(1), Tumble(4), UMD(5)<br/>\n08: Save(3)<br/>\n09: Listen(2), Save(6)<br/>\n10: Listen(1), Save(10)<br/>\n11: Listen(1), Save(14)<br/>\n12: Listen(1), Spellcraft(8), Tumble(5), UMD(5)<br/>\n13: Listen(1), Save(4)<br/>\n14: Listen(1), Save(8)<br/>\n15: Listen(1), Save(12)<br/>\n16: Save(15)<br/>\n17: Listen(2), Perform(3), Spellcraft(5), Tumble(5), UMD(5)<br/>\n18: Lore(1), Save(2)<br/>\n19: Listen(2), Save(5)<br/>\n20: Listen(1), Save(9)<br/>\n21: Save(12)<br/>\n22: Listen(2), Spellcraft(5), Tumble(5), UMD(5)<br/>\n23: Save(3)<br/>\n24: Listen(2), Save(6)<br/>\n25: Listen(1), Save(10)<br/>\n26: Listen(1), Save(14)<br/>\n27: Listen(1), Perform(3), Spellcraft(5), Tumble(5), UMD(5)<br/>\n28: Listen(1), Lore(4)<br/>\n29: Listen(1), Lore(4)<br/>\n30: Listen(1), Lore(4)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "5:06 PM - Oct 22, 2013",
+      "content": "<div>I'd make another mage, probably a wizard. Then it's all down to spell tactics.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "King Midas",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:29 PM - Sep 16, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Empyre65,<br/>\nWhat do you think about the Rogue 16 Ranger 3 AA 11.  On arelith you can use Ranger instead of an arcane class for a prerequisite.  There is also a type of elf where Ranger will not give you multiclass penalties. <br/>\n<br/>\nMidas<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:36 PM - Sep 16, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Either Rogue 16 / Ranger 3 / AA 11 or Rogue 13 / Ranger 3 / AA 14 should work nicely. The first option will have more skill points and 1 more die of sneak attack damage, and the second option will have 1 more AB.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Templar",
-      "avatar": "10235261_1528181864.jpg",
-      "timestamp": "6:14 PM - Sep 19, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">why 11 AA? just to get the +6?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "9:28 PM - Sep 19, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">+6 attack and +6 damage is a big deal.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Templar",
-      "avatar": "10235261_1528181864.jpg",
-      "timestamp": "5:33 PM - Sep 20, 2013",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just checking  +6 means you can get through everything with DR that can actually be bypassed!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "5:55 PM - Oct 22, 2013",
+      "content": "<div>I guess a high-Wisdom Cleric could work with Implosion as long as he casts is before the wizard can stop time. <br/>\n<br/>\nTake it EZ!</div>"
     }
   ]
 }

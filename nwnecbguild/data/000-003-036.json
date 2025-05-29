@@ -4,29 +4,70 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "036",
-  "name": "\"Order of Jormungandr\"  by Kail Pendragon -- lost",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/order-of-jormungandr-by-kail-pendragon-lost-t2354758.html",
-  "author": "Schism",
-  "avatar": "10758818_1510287075.jpg",
-  "replies": 2,
+  "name": "Mountain Dwarf Challenge",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/mountain-dwarf-challenge-t2354760.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": "8",
+  "views": "310",
   "posts": [
     {
-      "author": "Schism",
-      "avatar": "10758818_1510287075.jpg",
-      "timestamp": "10:58 PM - Oct 14, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello there.<br/>\n<br/>\nI didn't play NWN for a long time. somehow, I found sweet moments of playing this game in memory.<br/>\nPlayed some time and started to search interesting builds of others.<br/>\n<br/>\nFound an interesting combination of druid/monk/cleric and started to investigate the web.<br/>\nI found that this build was created by Kail Pendragon and it's lost... as well as a huge part of NWN building communities.<br/>\n<br/>\n(Also I have a suspicion that the build was created before the new DS requirements - 30 WIS)<br/>\n<br/>\n<br/>\nDoes anyone remember this build and can reproduce it?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:28 PM - Oct 18, 2017",
+      "content": "<div>What would you make with this subrace?<br/>\n<br/>\nMountain Dwarf<br/>\n\u00a0<br/>\n\u00a0\u00a0\u00a0 Syntax: Dwarf-mountain<br/>\n\u00a0\u00a0\u00a0 Stats: +2 Strength, +4 Constitution, -2 Charisma<br/>\n\u00a0\u00a0\u00a0 Feats: Exotic Weapon Proficiency, Weapon Specialization: Dwarven Waraxe<br/>\n\u00a0\u00a0\u00a0 Special Ability: Avalanche (Earthquake): 3 times a day the mountain dwarf can cast a special Earthquake at their character level. I.e. a 60th level Mountain Dwarf will cast a 60th level Earthquake.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:46 AM - Oct 19, 2017",
+      "content": "<div>My thoughts are either Fighter / Bard / RDD to add even more to those ability bonuses, or Fighter / Rogue / DD to become a real Dwarf's Dwarf.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:48 AM - Oct 19, 2017",
+      "content": "<div>Sounds interesting.\u00a0 How about Munchkin the Dwarf Dragon Wannabe??</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:29 PM - Oct 14, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Schism,<br/>\n<br/>\nI will recommend you to download the legacy archives of the ECB forum, but for this time i will give you the original build itself.<br/>\nPlease have in mind that the build is illegal as of 1.69 patch but to fix it is a simple matter of upping the Druid levels to 18, everything else remains the same.<br/>\n<details><summary>Spoiler</summary>\n<br/><br/>\n\nDEX: 10\nWIS: 18 (32)\nCHA: 8\nHitpoints: 360\nSaving Throws (Fortitude/Will/Reflex): 25/35/16\nAB (max, naked): 26 (melee), 37 (ranged)\nSpell Casting: Cleric(9),Druid(7)\n<br/><br/><strong>LVL BREAKDOWN</strong>\n02: Druid(2)\n04: Druid(4): WIS+1, (WIS=19)\n06: Druid(6): Zen Archery\n08: Druid(8): WIS+1, (WIS=20)\n10: Cleric(2)\n12: Cleric(4): WIS+1, Greater Spell Penetration, (WIS=21)\n14: Cleric(6)\n16: Cleric(8): WIS+1, (WIS=22)\n18: Cleric(10): Improved Critical: Unarmed\n20: Cleric(12): WIS+1, (WIS=23)\n22: Cleric(14)\n24: Cleric(16): WIS+1, Great Wisdom II, (WIS=26)\n26: Cleric(18)\n28: Druid(9): WIS+1, (WIS=28)\n30: Druid(11): Great Wisdom IV, (WIS=29)\n32: Druid(13): WIS+1, (WIS=30)\n34: Cleric(20)\n36: Cleric(22): WIS+1, Epic Spell Penetration, (WIS=31)\n38: Cleric(24)\n40: Cleric(25): WIS+1, (WIS=32)\n</details>Also for your convenience, here is where the Legacy ECB Archives can be found. You just DL them to your HD and you open them whenever you want to search for a build.<br/>\n<br/>\n<strong>Legacy ECB Archives </strong>=&gt;&gt; <a class=\"postlink\" href=\"https://neverwintervault.org/project/nwn1/other/epic-character-builders\" rel=\"noreferrer\" target=\"_blank\">https://neverwintervault.org/project/nw ... r-builders</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:01 PM - Oct 19, 2017",
+      "content": "<div>This begs for an EDR 3 build... Perhaps considering something like gdl's \"citadel\" or mine's \"the unbreakable\".<br/>\n<br/>\nThe Unbreakable =&gt;&gt; <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/the-unbreakable-ftr-10-rog-4-dd-26-t2354327.html?view=unread#unread\" rel=\"noreferrer\" target=\"_blank\">the-unbreakable-ftr-10-rog-4-dd-26-t235 ... ead#unread</a></div>"
     },
     {
-      "author": "Schism",
-      "avatar": "10758818_1510287075.jpg",
-      "timestamp": "12:27 AM - Oct 15, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Valerfor,<br/>\n<br/>\nI don't even know which of these made me happier =)<br/>\n<br/>\nIt took a while to fix search page (No database found: Chrome CORS blocked the search result page).<br/>\nBut finally, I have all of these sweeties.<br/>\n<br/>\nThanks a lot!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "2:24 PM - Oct 19, 2017",
+      "content": "<div>On the same theme, Hip Maestro posted GDL's Hearth Guard (Fighter 8/ CoT 10/ DwD 22) in the Full Epic sub-forum here (it's on the first page). Within it, there's a link\u00a0 to a version I made (with much help from others) to update the build to be 1.69 compliant, get rid of some less useful feats and give proficiencies in 2 weapon types. It's also and EDR 3 build, so might be worth a look.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "7:47 PM - Oct 19, 2017",
+      "content": "<div>I plan to make that RDD build for you, but first, I need to know whether or not to include Dev Crit.<br/>\n<br/>\nAlso, yet another idea would be Fighter / Rogue / WM, to take full advantage of that dwarven waraxe.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "10:25 PM - Oct 19, 2017",
+      "content": "<div>His server doesnt allow for Dev. Critical empyre.</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:51 AM - Oct 20, 2017",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nHis server doesnt allow for Dev. Critical empyre.\n</div></blockquote>\n\nActually I play on two different servers.\u00a0 One of them does allow it.\u00a0 That is the one I am talking about<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "1:41 AM - Oct 20, 2017",
+      "content": "<div><blockquote><div><cite>KidMiracleman wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nHis server doesnt allow for Dev. Critical empyre.\n</div></blockquote>\n\nActually I play on two different servers.\u00a0 One of them does allow it.\u00a0 That is the one I am talking about<br/>\n<br/>\nDavid\n</div></blockquote>\n\nOh, well here it is without Dev Crit:\n<details><summary>Spoiler</summary>\nMountain Dwarf Dragon Warrior (Fighter 24 / Bard 6 / Red Dragon Disciple 10)\nPlayable 1 - 40\nUses the Mountain Dwarf subrace, which has +2 STR, +4 CON, -2 DEX, Weapon Proficiency Exotic, Weapon Specialization: Dwarven Waraxe, and Special Ability: Avalanche (Earthquake). I am assuming that it also has the usual Dwarf racial feats.\nAbilities:\nDEX: 14\nWIS: 8\nCHA: 8 (10)\nLeveling Guide:\n01: Fighter(1): Luck of Heroes, Weapon Focus: Dwarven Waraxe\n03: Bard(1): Cleave\n05: Fighter(4): Knockdown\n07: Red Dragon Disciple(2): (STR=21)\n09: Red Dragon Disciple(4): Expertise, (STR=24)\n11: Fighter(6): Improved Critical: Dwarven Waraxe\n13: Bard(2)\n15: Fighter(9): Lightning Reflexes\n17: Fighter(11)\n19: Fighter(12): Improved Expertise\n21: Fighter(14): Epic Weapon Focus: Dwarven Waraxe, Epic Weapon Specialization: Dwarven Waraxe\n23: Bard(4)\n25: Red Dragon Disciple(7): (CON=20)\n27: Red Dragon Disciple(9): Great Strength II, (STR=30), (INT=16)\n29: Fighter(15)\n31: Fighter(17)\n33: Fighter(18): Great Constitution I, Armor Skin, (CON=22)\n35: Fighter(20): Epic Damage Reduction I\n37: Fighter(22): Epic Damage Reduction II\n39: Fighter(24): Great Strength V, Epic Damage Reduction III, (STR=39)\n\nHitpoints: 600\nSaving Throws (Fortitude/Will/Reflex): 30/23/23\nBAB: 28\nAC (naked/mundane armor/shield only): 26/36\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Save(13)\n04: Discipline(1), Lore(3)\n06: Discipline(1), Listen(3)\n08: Discipline(1), Listen(2), Save(1)\n10: Discipline(1), Save(7)\n12: Discipline(1), Save(13)\n14: Discipline(1), Save(3)\n16: Discipline(1), Save(9)\n18: Discipline(1), Listen(3), Perform(3), Tumble(6), UMD(5)\n20: Discipline(1), Save(6)\n22: Discipline(1), Listen(7), Save(5)\n24: Discipline(1), Listen(3)\n26: Discipline(1), Listen(2), Save(1)\n28: Discipline(1), Listen(1), Save(6)\n30: Discipline(1), Save(14)\n32: Discipline(1), Listen(1), Tumble(9), UMD(14)\n34: Discipline(1), Save(8)\n36: Discipline(1), Save(16)\n38: Discipline(1), Save(24)\n40: Discipline(1), Listen(10), Perform(2), Spellcraft(12), Tumble(5), UMD(5)\n</details>\n\nI'll leave it as an exercise for you to extend it to level 60.<br/>\n<br/>\n<strong>EDIT:</strong> Here is the Dev Crit version:\n<details><summary>Spoiler</summary>\nMountain Dwarf Dragon Warrior 2 (Fighter 24 / Bard 6 / Red Dragon Disciple 10)\nPlayable 1 - 40\nUses the Mountain Dwarf subrace, which has +2 STR, +4 CON, -2 DEX, Weapon Proficiency Exotic, Weapon Specialization: Dwarven Waraxe, and Special Ability: Avalanche (Earthquake). I am assuming that it also has the usual Dwarf racial feats.\nAbilities:\nDEX: 12\nWIS: 8\nCHA: 10 (12)\nLeveling Guide:\n01: Fighter(1): Luck of Heroes, Weapon Focus: Dwarven Waraxe\n03: Fighter(2): Power Attack, Cleave\n05: Fighter(4): Knockdown\n07: Red Dragon Disciple(2): (STR=21)\n09: Red Dragon Disciple(4): Improved Knockdown, (STR=24)\n11: Fighter(6): Improved Critical: Dwarven Waraxe\n13: Fighter(7)\n15: Red Dragon Disciple(5): Iron Will\n17: Bard(3)\n19: Red Dragon Disciple(8)\n21: Fighter(10): Epic Weapon Focus: Dwarven Waraxe, Epic Weapon Specialization: Dwarven Waraxe\n23: Red Dragon Disciple(9): (INT=16)\n25: Fighter(11)\n27: Fighter(13): Great Strength II, (STR=34)\n29: Fighter(15)\n31: Fighter(17)\n33: Fighter(18): Great Constitution I, Armor Skin, (CON=22)\n35: Fighter(20): Epic Damage Reduction I\n37: Fighter(22): Epic Damage Reduction II\n39: Fighter(24): Great Strength V, Epic Damage Reduction III, (STR=39)\n\nHitpoints: 600\nSaving Throws (Fortitude/Will/Reflex): 30/24/22\nBAB: 27\nAC (naked/mundane armor/shield only): 25/36\nAlignment Changes: 0\nSkills:\n\n02: Discipline(1), Listen(4), Perform(3), Tumble(5), UMD(5)\n04: Discipline(1), Lore(3)\n06: Discipline(1), Listen(1), Save(3)\n08: Discipline(1), Save(9)\n10: Discipline(1), Save(15)\n12: Discipline(1), Perform(3), Tumble(10), UMD(10)\n14: Discipline(1), Save(6)\n16: Discipline(1), Save(12)\n18: Discipline(1), Save(3)\n20: Discipline(1), Save(9)\n22: Discipline(1), Listen(7), Tumble(5), UMD(5)\n24: Discipline(1), Listen(4)\n26: Discipline(1), Save(8)\n28: Discipline(1), Save(16)\n30: Discipline(1), Save(24)\n32: Discipline(1), Listen(12), Spellcraft(3), Tumble(10), UMD(9)\n34: Discipline(1), Save(8)\n36: Discipline(1), Save(16)\n38: Discipline(1), Save(24)\n40: Discipline(1), Listen(8), Perform(2), Spellcraft(14), Tumble(5), UMD(5)\n</details></div>",
+      "author-color": "#00AA00"
     }
   ]
 }

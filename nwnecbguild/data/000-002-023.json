@@ -4,35 +4,18 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "023",
-  "name": "Flat-foot",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/flat-foot-t2356196.html",
-  "author": "darktooth",
-  "avatar": "10759000_1542893921.jpg",
-  "replies": 3,
+  "name": "Do summons worth it at level 40 environment? Question for Wizard/Sorcerer",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/do-summons-worth-it-at-level-40-environment-questi-t2356232.html",
+  "author": "NobleSky",
+  "avatar": "10759314_1592061680.jpg",
+  "replies": "0",
+  "views": "236",
   "posts": [
     {
-      "author": "darktooth",
-      "avatar": "10759000_1542893921.jpg",
-      "timestamp": "5:21 AM - Jan 01, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Scenario: A creature is caught flat-footed by an enemy archer who attacks at a rate of 5 attacks/round.<br/>\n\u00a0 <br/>\na. If the creature reacts immediately, does it suffer the effects of flat-foot the whole round, or could it be as short as the enemy\u2019s first attack only, or first flurry (first two attacks)?<br/>\n<br/>\nb. What actions does the creature have to take to cancel the flat-foot condition as quickly as possible?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:31 PM - Jan 01, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I could well be wrong here, but my understanding is that taking an action - of whatever type - negates flat-footedness. Thus, I would expect the state to last for no longer than the first flurry, assuming your PC doesn't simply continue to gawp around gormlessly.<br/>\n<br/>\nThings like Blind Fight, Defensive Awareness, Uncanny Dodge, and a detect skill should help mitigate the flat-footed state (not sure about Epic Dodge, I'm afraid. Initiative checks used to have some relevance, but not so much these days), but as to the quickest way to cancel the condition, I couldn't say, sorry.<br/>\n<br/>\nBasically, it's about having something lined up in your action queue.<br/>\n<br/>\nOthers may well be better informed, but I hope this helps a bit.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "6:29 PM - Jan 01, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Initiative checks determine who has the first go in an encounter. <br/>\nIf you're flat footed, you already lost the Initiative check.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HarperDaniels",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:48 AM - May 14, 2024",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I appreciate it. Thanks for the info. I am a college student and when I talk about my book report, sometimes the collected material seems like chaos. To remove it I took help from this website <a class=\"postlink\" href=\"https://academized.com/cheap-book-report\" rel=\"noreferrer\" target=\"_blank\">https://academized.com/cheap-book-report</a> They are a writing service provider website. I have used them and the best thing I like about them is that they are so affordable and they are also written by a team of professionals. If you also need help in your work, you can also get help from them.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "NobleSky",
+      "avatar": "10759314_1592061680.jpg",
+      "timestamp": "4:17 PM - May 19, 2024",
+      "content": "<div>Do summons worth the spell slot or feat slot in the case of epic summon at level 40 environment? I'm currently running a Wizard 35/ Rogue 3/ SD 2 character and he's wearing robe. Currently I'm playing near the end of interlude chapter of SoU module and even with my henchman and animal companion (panther), my spider summon (from summon creature IV) don't last long against horde of red slaads. I wonder if this is going to become a trend in the long run where summons will eventually become obsolete and at best summons become a distraction against enemies or at worst, a waste of spell slot in modules with level 40 like Sands of Fate? Or maybe this is the case where my tactics are not good enough against trash mobs as spellcaster. I'm trying to compile a list of summons that I think might be worth it.<br/>\n<br/>\n<br/>\n<table class=\"post_content_table\"><tbody><tr><td><strong>Spell name</strong></td>\n<td><strong>Spell lvl</strong></td>\n<td><strong>Summon</strong></td>\n<td><strong>Pro</strong></td>\n<td><strong>Con</strong></td>\n</tr>\n<tr><td>Greater planar binding</td>\n<td>8</td>\n<td>Celestial Avenger</td>\n<td>High AC and AB</td>\n<td>Only available for Good alignment</td>\n</tr>\n<tr><td>Create undead</td>\n<td>8</td>\n<td>Spectre</td>\n<td>undead immunities to\u00a0critical hits,\u00a0death magic,\u00a0disease,\u00a0level drain,\u00a0ability drain,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attack</td>\n<td>Frail with 18 AC and 55 HP; won't last long against hard hitting enemies and there are more optimized undead summons</td>\n</tr>\n<tr><td>Summon creature IX</td>\n<td>9</td>\n<td>Elder air/fire/water elemental</td>\n<td>elemental immunities to\u00a0critical hits,\u00a0disease,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attacks</td>\n<td>Can't control which elemental to summon so you might have to rest and recast the spell; might struggle against enemies with element damage immunity</td>\n</tr>\n<tr><td>Gate</td>\n<td>9</td>\n<td>Balor</td>\n<td>high AC and AB with moderate HP and bunch of fire spells like destruction, fireball, fire storm, implosion, and meteor swarm (limited use per day)</td>\n<td>Need to have a 'protection against element' spell line active when summoning to keep it friendly; might struggle against enemies with fire element immunity</td>\n</tr>\n<tr><td>Black blade of disaster</td>\n<td>9</td>\n<td>Black blade of disaster</td>\n<td>Immune to damage with high AB and can instant kill any enemies that fails 17 DC fortitude saving throws</td>\n<td>Vulnerable to Dispel or Mordenkainen's disjunction spells; you can't take any actions that would undo your summon such as\u00a0attacking, casting a spell (including spells from items),\u00a0counterspelling,\u00a0disabling a trap,\u00a0flagging a trap,\u00a0picking a pocket, and\u00a0taunting</td>\n</tr>\n<tr><td>Epic spell dragon knight</td>\n<td>Epic</td>\n<td>Red dragon</td>\n<td>Dragon\u00a0immunities\u00a0to\u00a0mind-affecting\u00a0spells,\u00a0paralysis\u00a0and\u00a0sneak attacks\u00a0plus immunity to\u00a0fear. It has permanent\u00a0true seeing. Limited use per day of aura of dragon fear, fire breath,\u00a0dispel magic,\u00a0flame arrow, and\u00a0Isaac's lesser missile storm</td>\n<td>Need to invest in epic spell dragon knight feat; summons have large size so can't pass small door or hallway</td>\n</tr>\n<tr><td>Epic spell mummy dust</td>\n<td>Epic</td>\n<td>Warrior lord</td>\n<td>Undead immunities to\u00a0critical hits,\u00a0death magic,\u00a0disease,\u00a0level drain,\u00a0ability drain,\u00a0mind-affecting\u00a0spells,\u00a0paralysis,\u00a0poison, and\u00a0sneak attacks;\u00a0\u00a0inflicts\u00a0poison\u00a0on-hit, which causes 1 or 2 points of\u00a0dexterity\u00a0damage\u00a0if a\u00a0fortitude\u00a0save is failed against a\u00a0DC\u00a0of 22; can use aura of fear once per day</td>\n<td>Need to invest in epic spell mummy dust feat; frail with 24 AC and 143 HP</td>\n</tr>\n</tbody></table></div>"
     }
   ]
 }

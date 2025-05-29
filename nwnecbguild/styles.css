@@ -184,11 +184,11 @@ a {
       flex-shrink: 0;
 
       .avatar {
-        border-radius: 100%;
+        border-radius: 50%;
         width: 6rem;
         height: 6rem;
         background-repeat: no-repeat;
-        background-position: top left;
+        background-position: center;
         background-size: 100% auto;
       }
 

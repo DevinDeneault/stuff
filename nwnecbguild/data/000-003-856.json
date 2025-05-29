@@ -4,107 +4,127 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "856",
-  "name": "Pretty, silent and blessed by evil",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/pretty-silent-and-blessed-by-evil-t2355073.html",
-  "author": "Ketsu",
-  "avatar": "10759038_1548721289.jpg",
-  "replies": 15,
+  "name": "NWN Character Build Search",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-character-build-search-t2355078.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": "17",
+  "views": "376",
   "posts": [
     {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "4:23 PM - Jun 10, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Good day, sir! I've been looking for some evil elf kin. alright:<br/>\n1) 1-40 PvM<br/>\n2) Str-based or even Cha-based and Katana to slashing<br/>\n3) Rog/Sd/Bg... any ideas for that combo<br/>\n<br/>\nThe main concept is sneaking, hips, UMD and divine might. It would be great if he/she can soloing every encounters. Excuse me if i posted it in wrong sub-forum. Thank you all ^^<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "8:19 PM - Jun 10, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Ketsu!<br/>\nLet me just assure you, you are not in the wrong forum. <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<br/>\nFirst, let me get this right. You want an elf, a sneaker with HIPS that can solo. <br/>\nYou want Katana and strength based, but you also want DM and some charisma<br/>\nAnd you want to build with Rogue, Shadowdancer and Blackguard.<br/>\n<br/>\nBasically this is a \"Fighter/Rogue\" type build. But you complicate things a little bit with Divine Might and Charisma. You also want two classes in there that both need 2 feats to qualify; Dodge and Mobility for SD and Power attack and Cleave for BG. There is a small synergy since you also need Power attack for Divine might, but the build will be very feat starved, especially since you also want an exotic weapon. <br/>\nIt is possible though. Your pre epic feats will be Dodge, Mobility, Power attack, Cleave, Weapon proficiency exotic, Weapon focus Katana and Divine Might. And that is all you get.<br/>\n<br/>\nStarting out with a strength based build, you cannot afford a high dexterity. Even if you max out the stealth skills, they will not be impressive until you can afford some epic skill focus feats to boost them. Stealth will even be worse once you get access to, and start using heavy armor from Blackguard. But the most difficult part will be your low AC during the first levels due to the low dexterity and only access to light armor.<br/>\n<br/>\nThe best (pre epic) BAB you can get with these classes is +17. It is possible to get a final strength of 32 with an AB of 42 and still get a Charisma of 16, but then either your Constitution will suffer with consequently low hitpoints, or your Intelligence with less skills. <br/>\n<br/>\nSo you are in a squeeze with a build like this. It can be done, but it will never be great. It will be hard to level up early on, but it can be fairly all right later if you can live with the shortcomings. What you finally get is a good amount of Sneak damage and consistent strength based damage.\u00a0 The divine damage is hard to resist and the saves are better than the average Fighter/Rogue. HIPS will probably save your life more than once, once you get it.<br/>\nSometimes I play builds like this just for the challenge of it, but I don't recommend it to anybody.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:38 PM - Jun 10, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I was just about to answer that but Mick did that for me. <br/>\nBasically, the gist of this is that your build, although at the end might sound quite powerful with 17d6 sneak attack, epic vrock, katana, 32 strength, crippling strike, divine might, umd &amp; HiPS, it will get until your 24th level to actually get the full functionality out of it &amp; it will never be great (compared to a similar optimized build). Going with human &amp; longsword (or another martial weapon) will make this slightly more tolerable.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:35 AM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Genuine question, and recognizing the lack of UMD, might Monk be better placed than Rogue here? Free Cleave and IKD, and you could go either kama or fist for Monk APR. Natural AC bumps and speed. And you get to keep Evasion and Imp Evasion, as well as stealth skills, Tumble and better saves. Admittedly, you'd be fighting in robes and sneaks would be somewhat buggered (technical term), but I just wondered...<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "gkorjax",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "3:24 AM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The ac hit would be huge unless he went dex based, which is against the request of this build...of course we don't even have an example to discuss :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "8:56 AM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks to reply guys, especially Mick. That deep analysis just pushed me to the ground. I have some thoughts about optimizing. Pls take a look:<br/>\n1) swap str to dex. It could take free way to AC and ranged weapon<br/>\n2) light weapon instead of katana<br/>\nAlso, at the other hand i can drop rog and pick some more synergycal class, but i can't even imagine fun gameplay without stealth<br/>\n<br/>\nP. S. Idea of Cha-based sneaker still live in my head. Sorry Stag, i played too many times with kamas :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:18 PM - Jun 16, 2019",
+      "content": "<div>It does not seem to work anymore.\u00a0 Wanted to find a Ranger WM DD.\u00a0 Is there such an animal??<br/>\n<br/>\nDavid</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:49 AM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">A few idle musings, if I may...<br/>\n<br/>\nGoing Dex-based will indeed help AC (assuming you won't be going heavy armour), but it won't help with the feat starvation - you'll simply be replacing Exotic Weapon Proficiency for Weapon Finesse (presumably rapier if going for elf). And you'll be more reliant on sneak attacks, or your damage will be pretty sucky (another technical term).<br/>\n<br/>\nIf you wanted to replace Rogue and maintain Uncanny Dodge (much more important in a Dex build, obvs) before SD2 kicks in, Barbarian is your only option, 'cause you can't take 3 prestige classes. Of course, there are pluses and minuses to Barb over Rogue. You get full BAB, Rage, 10% extra speed, and martial weapons, but you lose access to UMD, total number of skill points, stealth and Tumble (manageable once you get SD), reliance on BG for sneaks, and no Epic Dodge unless you take at least 10 levels of SD.<br/>\n<br/>\nSo I'm not sure whether a change to a Dex focus - with or without Rogue - would be beneficial or not. Sorry to play the party-pooper!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:02 PM - Jun 16, 2019",
+      "content": "<div>Hi David. I've had a quick check, and both Hip's ECB Guild Filter thread and the link Mick provides in the last post of How and Where to Access Legacy ECB Archives thread both seem to be working fine (both in the Rules and Tools forum). Hope you can get that sorted soon. If not, please let us know what seems to be happening.<br/>\n<br/>\nIn any case, there are no Ranger/ WM/ DwD builds in either. My guess would be because of the feat starvation. A Dwarf Ranger will only get 7 pre-epic feats, and you need Dodge/ Mobility/ Expertise/ Spring Attack/ Whirlwind Attack and Weapon Focus for WM, as well as Toughness for DwD (with Dodge already included in WM pre-requirements). So that's all 7. No Knockdown, no Blind Fight, no Imp Crit, let alone anything else<br/>\n<br/>\nNow, I appreciate you might be able to cope with that with some of your Nordock sub-races (like Smith), but I don't think anyone has built anything specifically for that.<br/>\n<br/>\nSorry</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "12:45 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">That's a really good point. I just try to realize DM at all. I can drop SD for sure and get 2 free feats, then i will pick DS and maybe KD. There is no hips anymore but i still can use Darkness for to land sneaks.<br/>\n      Another option is Rog/Bg3/Assassin but then i need a lot of Dex and decent Int + Cha...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:12 AM - Jun 17, 2019",
+      "content": "<div>That is ok.\u00a0 What else would go well with Ranger and DwD?</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:21 AM - Jun 17, 2019",
+      "content": "<div>This is the screen I am getting.\u00a0 I must be doing something wrong</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:22 AM - Jun 17, 2019",
+      "content": "<div>Here it is</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "1:05 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Okay, with a bit more flexibility built in and without sacrificing the concept completely, have you seen Valerfor's\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\">Codename Stingray</a> ? It keeps the spirit of a charming stealther, but is a Str build, so we don't need to worry about UD so much. I'm not saying it's your ideal, but it's definitely worth a look.<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\"></a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\"></a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "9:51 AM - Jun 17, 2019",
+      "content": "<div>See if this works for you, David. Just click on the word \"Greyhawk\" in Mick's final post on the following thread. I've just tried it and it's working for me. Good luck!<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/how-and-where-to-access-legacy-ecb-archives-t2354480.html\" rel=\"noreferrer\" target=\"_blank\">ECB Archives</a></div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "1:20 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Stagmeister wrote:</cite>\nOkay, with a bit more flexibility built in and without sacrificing the concept completely, have you seen Valerfor's\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\">Codename Stingray</a> ? It keeps the spirit of a charming stealther, but is a Str build, so we don't need to worry about UD so much. I'm not saying it's your ideal, but it's definitely worth a look.<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\"></a><br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/code-name-stingray-bard-9-rdd-10-assassin-21-t2354390.html\" rel=\"noreferrer\" target=\"_blank\"></a>\n</div></blockquote>\n\nBard/RDD is always good, work as a clock. I played assassin king one time and it is quite powerful build at all stages, but that stealth is too late 'cause I play mostly modules with slow exp progression which mean 1 week for first stealth mission or something like this xD<br/>\n<br/>\nWhen you are ninja in your soul and you need to just walks and hits the faces over and over again just to get access to normal ninja things... meh<br/>\n<br/>\nP. S. Excuse me for that childish crying. Facehitting looking a bit boring for me. Scouting, tactical planning, green carpets and sudden strikes is all about my playstyle.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:16 AM - Jun 17, 2019",
+      "content": "<div>As far as what would work with Ranger and Dwarven Defender goes, it all really depends upon what sort of build you're looking for. I'm going to hazard that you're looking at Ranger for dual-wielding purposes, so probably not a fully defensive build, which means you're likely to want a Dex build to give you decent AC for tanking purposes (and you wouldn't necessarily need Rogue for Uncanny Dodge, as DwD's Defensive Awareness II, at level 5, pretty much makes you immune to sneaks by making you impossible to flank when in combat). I know you aren't particularly concerned about xp penalties, so Monk might be good (free feats, Wisdom synergy with Ranger for more AC, etc). Shadowdancer might be nice if you want to be sneaky. Or good old Fighter (or CoT). Lots of potential!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "7:59 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ketsu wrote:</cite>\nThanks to reply guys</div></blockquote>\nYou're welcome Ketsu <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<blockquote><div><cite>Ketsu wrote:</cite>1) swap str to dex. It could take free way to AC and ranged weapon<br/>\n2) light weapon instead of katana<br/>\nAlso, at the other hand i can drop rog and pick some more synergycal class, but i can't even imagine fun gameplay without stealth<br/>\n/.../ When you are ninja in your soul... Scouting, tactical planning, green carpets and sudden strikes is all about my playstyle.</div></blockquote>\nI just know that feeling all too well...<br/>\nIf Monk and Rogue are out, there is always the dexterity based Elven Ranger/ Assassin/ Shadowdancer for high stealth and scouting skills, Warrior like AB and a lethal Death attack flurry.<br/>\n<details><summary>Spoiler</summary>Ranger(10), Assassin(28), Shadowdancer(2), Elf\n\nDEX: 18 (38)\nWIS: 12\nCHA: 8\n01: Ranger(1): Weapon Finesse, Favored Enemy I, {Dual Wield}\n03: Ranger(3): Dodge\n05: Ranger(5): Favored Enemy II\n07: Assassin(2): {Uncanny Dodge I}\n09: Assassin(3): Knockdown\n11: Assassin(5)\n13: Assassin(7)\n15: Assassin(9): Blind Fight\n17: Shadowdancer(2): {Darkvision, Evasion}\n19: Ranger(8)\n21: Ranger(10): Epic Weapon Focus: Shortsword, Epic Prowess\n23: Assassin(11)\n25: Assassin(13)\n27: Assassin(15): Great Dexterity III, (DEX=27)\n29: Assassin(17)\n31: Assassin(19)\n33: Assassin(21): Great Dexterity VI, (DEX=32)\n35: Assassin(23)\n37: Assassin(25)\n39: Assassin(27): Great Dexterity X, (DEX=37)\n\nSaving Throws (Fortitude/Will/Reflex): 20/17/36\nBAB: 26\nAC (naked/mundane armor/shield only): 32/35\nAlignment Changes: 0\nSkillpoints: 262\n\n02: Hide(1), Move Silently(1), Search(1), Spot(1), Save(8), \n04: Hide(1), Move Silently(1), Search(1), Spot(1), Save(12), \n06: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Spot(1), Tumble(9), Save(5), \n08: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), Save(3), \n10: Hide(1), Move Silently(1), Search(1), Spot(1), UMD(5), \n12: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(3), Save(1), \n14: Hide(1), Move Silently(1), Search(1), Spot(1), UMD(5), \n16: Hide(1), Move Silently(1), Spot(1), Save(3), \n18: Hide(1), Move Silently(1), Spot(1), Save(6), \n20: Hide(1), Move Silently(1), Spot(1), Save(12), \n22: Disable Trap(6), Hide(1), Move Silently(1), Spot(1), Tumble(5), UMD(5), Save(2), \n24: Disable Trap(2), Hide(1), Move Silently(1), Spot(1), UMD(1), \n26: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(3), \n28: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(2), \n30: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(6), \n32: Hide(1), Move Silently(1), Spot(1), Tumble(5), Save(6), \n34: Hide(1), Move Silently(1), Spot(1), Save(12), \n36: Hide(1), Move Silently(1), Spot(1), Save(18), \n38: Hide(1), Move Silently(1), Spot(1), Save(19), \n40: Hide(1), Move Silently(1), Spot(1), Save(25), \n</details>\nThere is even some room for more advanced \"carpet skills\" if you spend your extra skill points right.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "10:13 PM - Jun 17, 2019",
+      "content": "<div>You remembered.\u00a0 :)\u00a0 Well, the reason I wanted Ranger DD is because the subrace I want to use is arctic Dwarf and their favored class is Ranger.\u00a0 DwD because I like that class and why not since he will be a Dwarf.\u00a0 Monk sounds good as the third class.<br/>\nAlso, the link worked for me.\u00a0 I like the\u00a0Defender of the Forest\u00a0ranger 23 / monk 12 / dwarven defender 5\u00a0(dwarf) especially since it was submitted by ArcticDwarf900 and I will be using an Arctic Dwarf subrace.\u00a0 I just don't want to use the bow as a weapon.\u00a0 I would prefer kamas or maybe even Dwarven Waraxe\u00a0 :)</div>"
     },
     {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "9:20 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Mick Dagger wrote:</cite>\n<blockquote><div><cite>Ketsu wrote:</cite>\nThanks to reply guys</div></blockquote>\nYou're welcome Ketsu <img class=\"emoji-placeholder\" src=\"emoji/dummy.png\" /><br/>\n<blockquote><div><cite>Ketsu wrote:</cite>1) swap str to dex. It could take free way to AC and ranged weapon<br/>\n2) light weapon instead of katana<br/>\nAlso, at the other hand i can drop rog and pick some more synergycal class, but i can't even imagine fun gameplay without stealth<br/>\n/.../ When you are ninja in your soul... Scouting, tactical planning, green carpets and sudden strikes is all about my playstyle.</div></blockquote>\nI just know that feeling all too well...<br/>\nIf Monk and Rogue are out, there is always the dexterity based Elven Ranger/ Assassin/ Shadowdancer for high stealth and scouting skills, Warrior like AB and a lethal Death attack flurry.<br/>\n<details><summary>Spoiler</summary>Ranger(10), Assassin(28), Shadowdancer(2), Elf\n\nDEX: 18 (38)\nWIS: 12\nCHA: 8\n01: Ranger(1): Weapon Finesse, Favored Enemy I, {Dual Wield}\n03: Ranger(3): Dodge\n05: Ranger(5): Favored Enemy II\n07: Assassin(2): {Uncanny Dodge I}\n09: Assassin(3): Knockdown\n11: Assassin(5)\n13: Assassin(7)\n15: Assassin(9): Blind Fight\n17: Shadowdancer(2): {Darkvision, Evasion}\n19: Ranger(8)\n21: Ranger(10): Epic Weapon Focus: Shortsword, Epic Prowess\n23: Assassin(11)\n25: Assassin(13)\n27: Assassin(15): Great Dexterity III, (DEX=27)\n29: Assassin(17)\n31: Assassin(19)\n33: Assassin(21): Great Dexterity VI, (DEX=32)\n35: Assassin(23)\n37: Assassin(25)\n39: Assassin(27): Great Dexterity X, (DEX=37)\n\nSaving Throws (Fortitude/Will/Reflex): 20/17/36\nBAB: 26\nAC (naked/mundane armor/shield only): 32/35\nAlignment Changes: 0\nSkillpoints: 262\n\n02: Hide(1), Move Silently(1), Search(1), Spot(1), Save(8), \n04: Hide(1), Move Silently(1), Search(1), Spot(1), Save(12), \n06: Disable Trap(1), Hide(1), Move Silently(1), Open Lock(1), Search(1), Spot(1), Tumble(9), Save(5), \n08: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(1), Save(3), \n10: Hide(1), Move Silently(1), Search(1), Spot(1), UMD(5), \n12: Hide(1), Move Silently(1), Search(1), Spot(1), Tumble(3), Save(1), \n14: Hide(1), Move Silently(1), Search(1), Spot(1), UMD(5), \n16: Hide(1), Move Silently(1), Spot(1), Save(3), \n18: Hide(1), Move Silently(1), Spot(1), Save(6), \n20: Hide(1), Move Silently(1), Spot(1), Save(12), \n22: Disable Trap(6), Hide(1), Move Silently(1), Spot(1), Tumble(5), UMD(5), Save(2), \n24: Disable Trap(2), Hide(1), Move Silently(1), Spot(1), UMD(1), \n26: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(3), \n28: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(2), \n30: Hide(1), Move Silently(1), Spot(1), UMD(1), Save(6), \n32: Hide(1), Move Silently(1), Spot(1), Tumble(5), Save(6), \n34: Hide(1), Move Silently(1), Spot(1), Save(12), \n36: Hide(1), Move Silently(1), Spot(1), Save(18), \n38: Hide(1), Move Silently(1), Spot(1), Save(19), \n40: Hide(1), Move Silently(1), Spot(1), Save(25), \n</details>\nThere is even some room for more advanced \"carpet skills\" if you spend your extra skill points right.\n</div></blockquote>\n\nWow it seems so... deadly. Jack of all trades. Just one look and I will say: \"This is most enjoyable build for my tactical requests\". <br/>\n<br/>\nMany thanks, Mick! ^^<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "8:04 AM - Jun 18, 2019",
+      "content": "<div><blockquote><div><cite>KidMiracleman wrote:</cite>\nYou remembered.\u00a0 :)\u00a0 Well, the reason I wanted Ranger DD is because the subrace I want to use is arctic Dwarf and their favored class is Ranger.\u00a0 DwD because I like that class and why not since he will be a Dwarf.\u00a0 Monk sounds good as the third class.<br/>\nAlso, the link worked for me.\u00a0 I like the\u00a0Defender of the Forest\u00a0ranger 23 / monk 12 / dwarven defender 5\u00a0(dwarf) especially since it was submitted by ArcticDwarf900 and I will be using an Arctic Dwarf subrace.\u00a0 I just don't want to use the bow as a weapon.\u00a0 I would prefer kamas or maybe even Dwarven Waraxe\u00a0 :)\n</div></blockquote>\nThanks for your questions. It looks like you have found fertile ground to create your own build!<br/>\n<br/>\nNot only that but it sounds like you want to dual kama as a ranger, and right now I have somewhat of an interest and weakness for dual kama max attack per round builds!<br/>\n<br/>\nThere are obvious things I can see you might want to improve on with ArcticDwarf900's build. Feel free to look at the nwn wiki regarding how many class levels you will want to have in each class. Generally if you want to go ranger you will want quite a few levels in it to make sure your animal companion is strong enough, to increase the number of favored enemies, and the favoured enemy buff. You get bonus feats at certain levels, and 23 is not really a great level to stop leveling ranger.<br/>\n<br/>\nBane of enemies feat sounds very strong (+2d6 against favoured enemies thats like a greatsword) and taking it at level 36 means you will play most of the game without it. If you dual Kama with ITWF from your ranger levels, haste and flurry you do 10 attacks per round. Therefore that single feat alone, which you could get at level 21, could give 20d6 damage per round against favoured enemies once you start to get monk levels.<br/>\n<br/>\nI agree with his choice to stop leveling DD at 5 for defensive awareness II. but its just whether DD gives you what you want. I just honestly wonder if a class such as assassin or rogue might be better.<br/>\n<br/>\nFor example you could get Assassin 3 instead of DD 5 and Monk 2 instead 3 for uncanny dodge and a 2d6 death attack which will be very strong if you do 8-10 attacks per round. Uncanny dodge allows you to retain your dexterity bonus if you are flat footed (ie knocked down), and I think has to be strongly considered in any dexterity build.<br/>\n<br/>\nAlso I would point out there are no ranger / monk / assassin builds I could find on the greyhawk database or on google, and this could be fertile ground to create your own unique build as well!<br/>\n<br/>\nMy suggestions would be to go Ranger 32 / Monk 3 / Dwarven Defender 5 with a strength build. If you want to go dexterity you could go Ranger 35 / Monk 2 / Assassin 3 if you go Dex (it will work with strength too). Try to get bane of enemies feat at level 21. Try to get uncanny dodge if you go dexterity build.<br/>\n<br/>\nwith the proviso I am not an expert ranger player by any means. there are others out there, and there are others who have invested far more into the ranger class than I have. I would suggest reading Darthmuffin's guide (<a class=\"postlink\" href=\"https://gamefaqs.gamespot.com/pc/930137-neverwinter-nights-diamond/faqs/30128\" rel=\"noreferrer\" target=\"_blank\">https://gamefaqs.gamespot.com/pc/930137 ... faqs/30128</a>). Mick Dagger's also wrote a post 'Bane of all' (Ranger 40) which may be worth reading too.\u00a0<a class=\"postlink\" href=\"http://world-of-greyhawk.github.io/builds/data/build229136.html\" rel=\"noreferrer\" target=\"_blank\">http://world-of-greyhawk.github.io/buil ... 29136.html</a><br/>\n<br/>\n<br/>\nHappy building!</div>"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:08 PM - Jun 18, 2019",
+      "content": "<div>Thank you for your suggestions.\u00a0 I like the Dwarven Defender prestige class because it seems off to play a dwarf and not have a few DD levels.\u00a0 I know it sounds odd but that is how I role\u00a0 :)\u00a0 I like this build.\u00a0 I would prefer Dwarven Waraxe though.\u00a0\u00a0<br/>\nBattle Ranger of the North ranger 21 / dwarven defender 14 / rogue 5 (dwarf) by Christian.schnabel<br/>\n\u00a0Thoughts??\u00a0</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "1:30 PM - Jun 18, 2019",
+      "content": "<div>I've just had a look at the Battle Ranger of the North, and I think there's lots of potential there. Myself, I'd make a few tweaks...See what you think.<br/>\n<br/>\nFirst, the stats - and these come from the changes involved in taking Arctic Dwarf (<em>for those unaware, David plays on Nordock, with various sub-races and a level cap of 120</em>). If I've got this right, Arctic Dwarf gets +6 STR, +2 DEX, -2 CON, and -4 WIS (as well as 50% cold immunity, +10 Hide and +8 Move Silently). With the changes to DD, you'll also get +2 CON when you reach DD10. So, your WIS is going to be screwed regardless, therefore I'd consider trashing it completely - which you can do when taking Rogue rather than Ranger as your first level. It won't help your will save any, but it will give you more points to play with at creation. Equally, you'll only need to start with DEX 11, because the Arctic Dwarf will bump it to 13 anyway. So you can bump your starting stats in STR and/or CON, which will be your two primary stats. Afraid I haven't worked it out fully, but you get the principle. (And, of course, should you get to a CON of 21, EDR III opens up for you.)<br/>\n<br/>\nSecond, levelling and class splits. My temptation would be to go for Ranger 22/ DD 14/ Rogue 4. It means you will lose 1d6 sneak attack, but means you'll be able to take Bane of Enemies much earlier - particularly if your pre-epic split becomes Rogue 2/ DD 5 (or 6)/ Ranger 13 (or 12). Your final BAB would remain as 29, so nothing lost there. It's more a question of which you'd prefer first - earlier access to Bane or more DD.<br/>\n<br/>\nThird, feats and skills. If you lost Luck of Heroes at level 1 and took Exotic Weapon Proficiency, then Dwarven Battleaxe becomes available, should you wish. And I'm not sure about taking Set Trap - Disable might be a better bet. That said, I can't remember if Christian takes Spellcraft, but if he doesn't, maybe he should.<br/>\n<br/>\nAnyway, these are just a few thoughts for you to mull over. Let us know how it goes!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "6:12 PM - Jun 18, 2019",
+      "content": "<div>It is Nordock but another Nordock.\u00a0 It is Nordock age of Heroes.\u00a0 I just started playing on this one because Nordock Martial Age is Italian.\u00a0 I don't read Italian so good\u00a0 :)\u00a0 Anyways here is the stats for the Arctic Dwarf on Age of Heroes<br/>\n<br/>\n\u00a0\u00a0\u00a0 Ability Bonus: Strength +4<br/>\n\u00a0\u00a0\u00a0 AC Bonus +1 (Deflection)<br/>\n\u00a0\u00a0\u00a0 Decreased Ability Score: Dexterity -2<br/>\n\u00a0\u00a0\u00a0 Immunity: Damage Type: Cold 100% Immunity Bonus<br/>\n\u00a0\u00a0\u00a0 Damage Vulnerability: Fire 50% <br/>\n\u00a0\u00a0\u00a0 Skill Bonus: Hide +4<br/>\nMust be: Dwarf.<br/>\nECL: + 1<br/>\n<br/>\nFavored class: Ranger<br/>\n<br/>\nAs you can see favored class is Ranger but I guess she does not have to be ranger.\u00a0 Though I was wondering if a Ranger Bard RDD would not be a bad combo to solve the fire\u00a0Vulnerability.\u00a0 Thoughts??\u00a0 Have never played on this one so I have no idea what monsters are the most prevalent.\u00a0\u00a0<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "8:12 PM - Jun 18, 2019",
+      "content": "<div>Defensive Awareness also protects your DEX AC when you're flat footed or attacked by unseen enemies.<br/>\n<br/>\nI wonder if the 50% fire vulnerability from Arctic Dwarf plus the 100% fire immunity from RDD would add up to a 50% fire immunity.<br/>\n<br/>\nHow about Fighter 14 / Bard 16 / RDD 10?\u00a0 As long as you keep Fighter and Bard even until level 40, you will have no experience penalty until level 40.\u00a0 You can take WS/EWS for +6 damage against all enemies, not just a select few.<br/>\n<br/>\nBard / RDD / DD would be another option.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:48 PM - Jun 18, 2019",
+      "content": "<div>You couldn't give us a link to Age of Heroes could you, David? It might be helpful.<br/>\n<br/>\nThanks</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "10:20 PM - Jun 11, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Now we are talking!<br/>\n<br/>\nHave you played this through Aielund Mick? I recall you took some Assassin for a ride there but I don't remember which one.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:29 AM - Jun 19, 2019",
+      "content": "<div>If it helps, here is Nordock Martial Age:<br/>\n<a class=\"postlink\" href=\"http://nordockmartialage.altervista.org/?doing_wp_cron=1560904108.9016129970550537109375\" rel=\"noreferrer\" target=\"_blank\">http://nordockmartialage.altervista.org ... 0537109375</a></div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "1:04 AM - Jun 12, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nNow we are talking!<br/>\n<br/>\nHave you played this through Aielund Mick? I recall you took some Assassin for a ride there but I don't remember which one.\n</div></blockquote>\nNo, not this one. But I took the Kama Shinobi all the way through.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "3:01 AM - Jun 19, 2019",
+      "content": "<div>Already got that one thanks, Valerfor (hence my thoughts about Arctic Dwarf - just the wrong Arctic Dwarf), it's Age of Heroes we ain't got (<em>bloody sub-races, grumble, chunter, moan, complain</em>).<br/>\n<br/>\nThanks, though!</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Ketsu",
-      "avatar": "10759038_1548721289.jpg",
-      "timestamp": "9:11 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, I just ended with SoU for test. Not so easy to play alone at the start but after getting DA and HiPS... I believe it will be <br/>\nthe \"killtrain\" for Aielund :)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "11:14 AM - Jun 19, 2019",
+      "content": "<div>Sorry.\u00a0 I do not know where the link to Age of Heroes is at.\u00a0 There not be one.\u00a0 I got the info from Discord.\u00a0\u00a0<br/>\nHere is the link that I have <a class=\"postlink\" href=\"https://discord.gg.UQzr8nr\" rel=\"noreferrer\" target=\"_blank\">https://discord.gg.UQzr8nr</a>\u00a0 Hope it helps</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:23 PM - Jun 14, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Ketsu wrote:</cite>\nWell, I just ended with SoU for test. Not so easy to play alone at the start but after getting DA and HiPS... I believe it will be <br/>\nthe \"killtrain\" for Aielund :)\n</div></blockquote>\nThat kind of assassins often are \"slow starters\", but once you get HIPS and the DA starts piling up, most things vanish before your blades. And by all means, play alone as a stalker, so you can trigger the paralysis on flat footed enemies. Soloing Aielund with an assassin like this is not too hard, as long as you know what you're doing.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:37 PM - Jun 19, 2019",
+      "content": "<div>I did build an Arctic Dwarf Bard RDD DD once before and she got 100% fire immunity and 100% Fire Immunity<br/>\nThere is a dwarf subrace on Nordock Martial Age with lore 8.\u00a0\u00a0<br/>\nrace: dwarf<br/>\n subarace: antico-saggio<br/>\nDex -5, Con +1, Wis +8<br/>\nbenefits: lore 8<br/>\n<br/>\nCould make a Nice Bard RDD DD tank I would imagine.<br/>\n<br/>\nDavid.\u00a0\u00a0</div>"
     }
   ]
 }

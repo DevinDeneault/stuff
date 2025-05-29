@@ -4,77 +4,96 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "516",
-  "name": "Singing Spellblade: Sorc 23 / Bard 16 / Druid 1",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/singing-spellblade-sorc-23-bard-16-druid-1-t515356.html",
-  "author": "KailPendragon",
-  "avatar": "10235214_1540245864.jpg",
-  "replies": 10,
+  "name": "I seek a Very high AB,AC Melee cleric build...",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/i-seek-a-very-high-ab-ac-melee-cleric-build-t515442.html",
+  "author": "W1shM4k3r",
+  "avatar": "no_avatar.png",
+  "replies": "13",
+  "views": "2.2K",
   "posts": [
     {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "10:55 PM - Jul 27, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">The idea is to have a spontaneous spellblade by combining Sorc with Bard for extra spells and spell slots plus bard/curse song buffing/debuffing, not to mention classed tumble, mid AB progression, UMD and Taunt. Autostill benefits both casting parties involved. Trap skills for extra versatility, Taunt to be an annoying arse. Druid 1 is in for +2 AB in natural areas and enhanced summons, animal empathy (often times a life saver early on) and an animal companion useful at the lowest levels.<br/>\n<br/>\nUnfinalized and unoptimized layout here, to give a general idea of the build and for you to get into butchering frenzy. I notice now I forgot heavy armor. Doh! What to drop?<br/>\n<br/>\n<br/>\n<br/>\nSorcerer(23), Bard(16), Druid(1), Human<br/>\n<br/>\nSTR: 15 (22)<br/>\nDEX: 8<br/>\nCON: 14<br/>\nWIS: 8<br/>\nINT: 14<br/>\nCHA: 16 (20)<br/>\n<br/>\nHuman: (Quick to Master)<br/>\n01: Bard(1): Toughness, Scribe Scroll<br/>\n02: Druid(1)<br/>\n03: Bard(2): Still Spell<br/>\n04: Bard(3): STR+1, (STR=16)<br/>\n05: Bard(4)<br/>\n06: Bard(5): Weapon Focus: Scimitar<br/>\n07: Bard(6)<br/>\n08: Bard(7): STR+1, (STR=17)<br/>\n09: Bard(8): Curse Song<br/>\n10: Bard(9)<br/>\n11: Bard(10)<br/>\n12: Bard(11): STR+1, Craft Wand, (STR=18)<br/>\n13: Sorcerer(1)<br/>\n14: Sorcerer(2)<br/>\n15: Sorcerer(3): Extend Spell<br/>\n16: Sorcerer(4): STR+1, (STR=19)<br/>\n17: Sorcerer(5)<br/>\n18: Sorcerer(6): Empower Spell<br/>\n19: Sorcerer(7)<br/>\n20: Sorcerer(8): CHA+1, (CHA=17)<br/>\n21: Sorcerer(9): Epic Weapon Focus: Scimitar<br/>\n22: Sorcerer(10)<br/>\n23: Sorcerer(11)<br/>\n24: Sorcerer(12): CHA+1, Epic Prowess, (CHA=18)<br/>\n25: Sorcerer(13)<br/>\n26: Sorcerer(14)<br/>\n27: Sorcerer(15): Great Strength I, (STR=20)<br/>\n28: Sorcerer(16): CHA+1, (CHA=19)<br/>\n29: Sorcerer(17)<br/>\n30: Sorcerer(18): Automatic Still Spell I<br/>\n31: Bard(12)<br/>\n32: Bard(13): CHA+1, (CHA=20)<br/>\n33: Bard(14): Automatic Still Spell II<br/>\n34: Sorcerer(19)<br/>\n35: Sorcerer(20)<br/>\n36: Sorcerer(21): STR+1, Automatic Still Spell III, (STR=21)<br/>\n37: Bard(15)<br/>\n38: Sorcerer(22)<br/>\n39: Sorcerer(23): Epic Spell: Epic Mage Armor, Epic Spell: Epic Warding<br/>\n40: Bard(16): STR+1, (STR=22)<br/>\n<br/>\nHitpoints: 316<br/>\nSkillpoints: 255<br/>\nSaving Throws (Fortitude/Will/Reflex): 19/24/18<br/>\nSaving Throw bonuses: Spells: +9<br/>\nBAB: 22<br/>\nAB (max, naked): 32 (melee), 22 (ranged)<br/>\nAC (naked/mundane armor and shield): 17/25<br/>\nSpell Casting: Sorcerer(9),Bard(6)<br/>\nAlignment Changes: 0<br/>\n<br/>\nAnimal Empathy 1(6), Concentration 43(45), Disable Trap 1(5), Perform 25(30), Set Trap 14(13), Spellcraft 43(45), Taunt 43(48), Tumble 40(39), UMD 30(35), remaining skillpoints 1<br/>\n<br/>\n<br/>\n<br/>\nWaiting for your thoughts about it. Even if you think it's a bad idea to attempt a build like this one.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:08 PM - Sep 04, 2011",
+      "content": "<div>Hey I seek a High AB and AC melee cleric build... Till lvl 30<br/>\nPlease help me. thank you!</div>"
     },
     {
       "author": "HipMaestro",
       "avatar": "10235222_1510287070.jpg",
-      "timestamp": "1:03 AM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Just off the top of my head, understand, as it is a combo I haven't considered before, but other than a desire to gain empathy, wouldn't taking sorc levels earlier get the familiar and arcane summons into the act fast enough?  I've found that the dire wolf &amp; then spider handled duties pretty well until the skels were available and then it gets easier since they can't be critted.  The only issue was healing them and IIRC I used negative energy during combat, but the skels seemed superior to all the animal forms in combat especially buffed since they actually hold a weapon that can be enchanted  (like the pixie!).<br/>\n<br/>\nAs for the empathy issue, I'm considering ranger rather than druid if just getting stuck in there for that skill.  You won't be able to get the companion, of course, but only one \"pal\" can be active at once anyway and I find better utility in the arcane variety.  Also, your will saves should be just fine per bard &amp; sorc offsetting the low Wis base and since ranger has a fort primary like the druid, it should balance things in a similar fashion.  I realize it is only a single level but you would gain an AB and martial weaponry and still be able to access empathy if so desired.   Since DW is not a consideration, your character can wear whatever armor is preferred.<br/>\n<br/>\nJust a first impression, mind you, hoping to spark some more thoughts on the subject.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "1:32 AM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The leveling order preepic presented in the layout is still not optimized. I just splashed in Bard 11/Druid 1/Sorc 8 as they came (I only cared about taking druid early for the extra AB in natural areas, early animal empathy, enhanced summons and weapon proficiency). In epic leveling is determined by getting to select autostill I-III and the two epic spells. So, aye, Sorc can be acquired first (and I find the Imp familiar to be extremely efficient)... it should also help the leveling with an advantageous ECL.<br/>\n<br/>\nI have to admit that druid is chosen with WoG in mind: there druid 1 (or cleric 1 with animal domain) lets you get the summons of a higher lvl including at lvl 9 getting lvl 10 summons which are big mofos elemental princes (and anyhow you get to choose from a variety of summons at each level, settable through a book of summons, including elemental of increasing strength which are of course crit immunes). Enhanced summons are a considerable advantage on WoG. Ranger grants +1 BAB, but loses -1 AB in natural areas. It doesn't let one get heavy armor for free and one cannot use the FE feat slot for GSF since no SF feat is taken at all. One gets classed set trap though. If I were to drop druid I'd get Ftr: free heavy armor and an extra combat proficiency (BF) and +1 BAB. I'd say that would be a viable choice where druid's enhanced summons are not so attractive as on WoG. Paladin would also be a natural option, \"exchanging\" one free combat feat (BF) for enhanced saves. Thanks for reminding me of a broader scenario.<br/>\n<br/>\nIt's great to hear someone else's perspective. Thanks Hip.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Demos",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:16 PM - Aug 01, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">How about Cleric?  Go Sorc 23 / Bard 16 / Cleric 1 and you have the option to grab Divine Might or Shield (since you have a healthy 20 CHA).  I would drop Toughness for Power Attack and Empower Spell (yes, ouch) for the Divine Might/Shield.  Pick Ehlonna as your deity to grab Animal so you get the same summoning bonus.  Cleric also gets you heavy armor.  Downside is you're stuck with Simple Weapons...unless you drop a feat (Toughness?) to grab Martial Weapons (and forget about Divine Might/Shield).<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "5:47 PM - Aug 11, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, that's a nice variant Demos. Thanks! <br/>\n<br/>\nOne loses -2 AB in natural areas and animal empathy and the animal companion as low level helpers but gets access to a divine feat which is not bad considering that Cha is going to be maxed by gear/buffs anyhow. Also, access to heavy armor which is granted by cleric is a bigger help than AE and animal companion early on and never ceases to be good. Food for thought, eh!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "HipMaestro",
-      "avatar": "10235222_1510287070.jpg",
-      "timestamp": "4:50 PM - Aug 12, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Is a base 14 Set Trap high enough to set deadly traps? <br/>\n<br/>\nIf not, and if you really like the advantage of setting deadly traps, I have been examining the paucity of skill points and am wondering if you could shift points from Perform (you only need 3 together with the spare one) over to Disable (to glean the synergy) since you will have the Emp Eagle's available prior to singing and maxed Cha from items as you described.  Should be easy to reach Perform 30 at a lower base skill. <br/>\n<br/>\nI haven't worked out the trap DCs myself, though, but I do remember that any cross-class that achieves base 21 and has decent Dex (or Dex buff) can set all traps except epic ones outside of combat. And then you have the additional boost of +4 from singing while setting a trap. But perhaps, the trap skills were just a convenient dumping ground for spare skillpoints? ?<br/>\n<br/>\nNow that cleric dump suggestion per Demos (perhaps w/Trickery) may also hold more value if it means easy access to setting all deadly traps, but I believe you can still set deadlies with the druid tertiary as well.  <br/>\n<br/>\nA sorceress setting deadly holy traps.  How unscrupulous! <br/>\n<br/>\nJust a random thought negotiating the vastness of a featureless sky... now in print<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "5:48 PM - Aug 12, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">15 Set Trap is enough to set all deadly traps but gas ones (on a take 20, outside of combat), which I generally do not use. That Dex score is surely gonna benefit from some gear/buff increase so the 15 mark is easily reached. There also the possibility to use Set Trap enhancing gear. This is not supposed to be a real trap expert but rather it's someone that can use traps for tactical advantages, so Disable Trap has been left to 1 so that one can autorecover his own traps that were not set off. Keep present that deadly traps can be disarmed only by rogues and that even if recovery is possible to non rogues it's a further 10 points higher, which this guy won't be able to reach, even with song, without dropping some other skill (even with song on one needs to spend a further 25-30 skillpoints on DisableTrap to reach the mark). Also, I do not wanna be dependant on song for trap setting/recovering since trap setting/recovery is a somewhat long process to be done outside of combat and it would mean using up a lot of song slots each time. Now if one knows for sure te can count on trap setting/disabling enhancing gear, then one can possibly rearrange skillpoints to be able to recover deadly traps (not set by oneself) too.<br/>\n<br/>\nBTW, if you notice, I always try to get trap skills in my builds. They are a great tactical advantage and combat option. It's a peeve of mine, alike Craft Wand<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "shia luck",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:17 PM - Aug 24, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Got to love the synergy between sorc and bard , and what sorc wouldn't like a lvl16 bard/curse song on demand? <br/>\n<br/>\nEven with WoG's rules (they sound nice btw, druid needs more love, and I didn't even know it was possible to create lvl10 summons!), cleric with animal domain seems a better choice. Animal empathy of 4 (6 with buffs?) at early levels doesn't sound very reliable. Mind you the only time I visited WoG, some stirges were messing up my hair and I could have done with at least an attempt at dominating them. *grin* <br/>\n<br/>\nAs Demos said tho, finding two feats is not easy. (Why, oh why, does divine might need a str based feat as a prerequisite???????? I never understood that *sigh*. Still at least you have the str to get it!)<br/>\n<br/>\nBiggest issues I see with this is dispellability, which I find a pain with a spellsword, but you want that lvl16 song. Taunt, bard and curse song and weapon buffs are so nice soooooo *shrug*...    and lack of quickslots! I can just fit my sorc spells and a couple of feats into the quickbars. Adding in bard spells as well? <br/>\n<br/>\nI notice you nearly always take scribe scroll. Are scroll DCs caster lvl based on WoG? Otherwise I would be tempted to drop scribe scroll and toughness for power attack and DM (if you went with cleric). If you are front line meleeing, DM seems to give more? I think I'd keep empower spell for mantle availablity and power.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "conlaoch",
-      "avatar": "10235240_1510287070.jpg",
-      "timestamp": "2:19 PM - Sep 01, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>shia luck wrote:</strong>Even with WoG's rules (they sound nice btw, druid needs more love, and I didn't even know it was possible to create lvl10 summons!), cleric with animal domain seems a better choice. Animal empathy of 4 (6 with buffs?) at early levels doesn't sound very reliable. </div></blockquote>\n\nSince we are talking about WoG, lets not forget that there is an easily obtainable ring that adds +10 to Animal Empathy.  All it takes is a stroll towards Greyhawk and watching for Stonehenge.<br/>\n<br/>\nWith some buffs and the bardsong, this could push the AE to be truly useful all though the toons career.<br/>\n<br/>\nGranted you still lose heavy armor prof by not taking the cleric, but it's hard to give up AE.  Now that I think about it, druid also gets ya scimitar usage. <br/>\n<br/>\nLOL.. course it also could be my aversion to playing clerics....  just never could wrap my head around em...<br/>\n<br/>\nConlaoch<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "KailPendragon",
-      "avatar": "10235214_1540245864.jpg",
-      "timestamp": "4:52 PM - Sep 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>shia luck wrote:</strong>Got to love the synergy between sorc and bard , and what sorc wouldn't like a lvl16 bard/curse song on demand? <br/>\n<br/>\nEven with WoG's rules (they sound nice btw, druid needs more love, and I didn't even know it was possible to create lvl10 summons!), cleric with animal domain seems a better choice. Animal empathy of 4 (6 with buffs?) at early levels doesn't sound very reliable. Mind you the only time I visited WoG, some stirges were messing up my hair and I could have done with at least an attempt at dominating them. *grin* </div></blockquote>\nOn WoG there are some neutral animals that can be befriended to a low level character's great advantage; one above all a bear with +1 regeneration. Also, if timed well AE benefits from a take 20 also vs hostile animals. And again, as noted, a ring of AE enhancement (+12 I think) is available for buy at a temple's merchant on WoG.<br/>\n<blockquote><div>As Demos said tho, finding two feats is not easy. (Why, oh why, does divine might need a str based feat as a prerequisite???????? I never understood that *sigh*. Still at least you have the str to get it!)<br/>\n<br/>\nBiggest issues I see with this is dispellability, which I find a pain with a spellsword, but you want that lvl16 song.</div></blockquote>Aye and eventually dispellability is reduced to 5% (mords apart). Also, one can use buffed summons to drain dispels (and spells) from enemy casters. Dispellability is anyhow a general issue with spellswords leveling up, so it's something one should be ready to deal with.<br/>\n<blockquote><div> Taunt, bard and curse song and weapon buffs are so nice soooooo *shrug*...    and lack of quickslots! I can just fit my sorc spells and a couple of feats into the quickbars. Adding in bard spells as well? <br/>\n<br/>\nI notice you nearly always take scribe scroll. Are scroll DCs caster lvl based on WoG? Otherwise I would be tempted to drop scribe scroll and toughness for power attack and DM (if you went with cleric). If you are front line meleeing, DM seems to give more? I think I'd keep empower spell for mantle availablity and power.</div></blockquote><a class=\"postlink\" href=\"http://nwvault.ign.com/View.php?view=Scripts.Detail&amp;id=3312\" rel=\"noreferrer\" target=\"_blank\">TK's \"A better Craft Magic\"</a> is implemented on WoG.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "4:48 PM - Sep 04, 2011",
+      "content": "<div>Is this for a custom server? If so, please furnish the details which would impact a build like low-magic vs. high-magic.  I assume it must be custom if it is capped at level 30.<br/>\n<br/>\nAlso, please limit your request further.  <br/>\n<br/>\nFactors such as dual-wielding, weapon choice, STR vs. DEX (or vs. WIS for monk MC)... these all will have bearing whether a build will satisfy.  Multiclass preference?  Race preference?  Stealth or other skills? The more details the better.  Those all-purpose builds that try to satisfy every aspect of game play will always be inferior on the battlefield.</div>"
     },
     {
       "author": "avado",
       "avatar": "no_avatar.png",
-      "timestamp": "5:32 PM - Sep 09, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I thought about sorc/bard a long time ago.  I messed with 20/20 split (what do I know about bards!!).  <br/>\n<br/>\nThere is an option I have seen only ONE time, that would be interesting on a non-WoG server!  What about 1 Palemaster level?  +2 AC is nice for something that you already have regardless (meaning bard levels).  In this sort of build, it is like getting Armor Skin without taking a feat!  Since you have to be neutral anyway!  *smile*<br/>\n<br/>\nJus a thought.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "12:11 AM - Sep 05, 2011",
+      "content": "<div>For the record, it can ONLY happen with a Dex-cleric, and because the cleric doesnt get anything inherant from Dex, means you will suck ass, generally.  You need to get a few levels of a dex class (rogue is easiest).  On a lv 30 cap server, I would try to get 24 cleric, 19 wisdom.  Maybe do a halfling slingshot build!  LOL  nah.  <br/>\n<br/>\nYou will not get what you want in 30 lvls.  You have to remember that there is a +20 cap to AC and AB.  i should qualify that: you will not get MY definition of VERY HIGH ab and AC in 30 lvls!  Maybe yours is different.</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "6:55 PM - Sep 05, 2011",
+      "content": "<div>Actually, this topic is not a build but a request and should be posted there for best results.  Folks search this subforum to find builds rather than to describe what they are searching for. \n<blockquote><div><strong>avado wrote:</strong>For the record, it can ONLY happen with a Dex-cleric, and because the cleric doesnt get anything inherant from Dex, means you will suck ass, generally.  You need to get a few levels of a dex class (rogue is easiest).  On a lv 30 cap server, I would try to get 24 cleric, 19 wisdom.  Maybe do a halfling slingshot build!  LOL  nah. \n</div></blockquote>\nSlingshot.  Ooookeee! *lol* Problem with rogue is low discipline so needs to try to get AC so high as to avoid any hits along with evasion, UD, etc.  I think a robed monk MC would be stronger and saves better.  The weapon choice is prohibitive though, so that may be too limiting depending on what the OP had in mind.  IIRC there are already a few Level 30 monk/cleric builds posted.\n<blockquote><div>\nYou will not get what you want in 30 lvls.  You have to remember that there is a +20 cap to AC and AB.  i should qualify that: you will not get MY definition of VERY HIGH ab and AC in 30 lvls!  Maybe yours is different.</div></blockquote>\nThough the OP has not detailed the request much I suspect it is another Arelith request which has those 3-sequential-level multiclass constraints making it even more unlikely that any build would approach qualifying for the avado award of good buildkeeping. <br/>\n<br/>\n----&gt; Please, OP, post this request in the appropriate subforum with enough specifics so that those who seek to help you will have enough ammunition to do some good.  Also, keep in mind that PvP and PvM are two vastly different builds when you repost.  Tx!</div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:09 PM - Sep 05, 2011",
+      "content": "<div><blockquote><div><strong>HipMaestro wrote:</strong>Slingshot.  Ooookeee! *lol* Problem with rogue is low discipline so needs to try to get AC so high as to avoid any hits along with evasion, UD, etc.  I think a robed monk MC would be stronger and saves better.  The weapon choice is prohibitive though, so that may be too limiting depending on what the OP had in mind.  IIRC there are already a few Level 30 monk/cleric builds posted.\n</div></blockquote>\nMonks dont work well with Dex (wood pecker effect).  The cleric balances it out, but still, rogue has more \"dex feats\".   I typically dont like cleric/rog btw.  Going cleric/monk, now you look at high wisdom, and then not melee.  <br/>\n<br/>\nI truly missed the vague requests.  Too bad people still dont know HOW THEY PLAY in order to be helped.</div>"
+    },
+    {
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:28 PM - Sep 06, 2011",
+      "content": "<div>Its on a RP server.<br/>\nAmiaworld</div>"
+    },
+    {
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:33 PM - Sep 06, 2011",
+      "content": "<div>Ooh and before i forget.. it is supposed to be a Kobold so it has the Basic HAlfling stats<br/>\nAbilities: -4 Strength, +2 Dexterity;<br/>\n Skills: +2 Craft Trap, +2 Search;<br/>\n Feats: Alertness, Darkvision;<br/>\n Appearance: Kobold;<br/>\n Light Sensitivity<br/>\n Racial Type changes to Reptilian;<br/>\n Halfling bonuses removed</div>"
+    },
+    {
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "8:56 AM - Sep 07, 2011",
+      "content": "<div>Im not sure.. just what fits it best for the kobold. I prefer to cast lvl 9 spells of Cleric, I think a Dex based cleric with a little bit of Wis for lvl 9 spells that the build would do? i dont know.. You all are the Pros and im noob.. So what comes in your mind sire?</div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "4:29 PM - Sep 07, 2011",
+      "content": "<div>What is kobald favored class?  it is important for xp penalty issues, if any.</div>"
+    },
+    {
+      "author": "W1shM4k3r",
+      "avatar": "no_avatar.png",
+      "timestamp": "12:08 AM - Sep 08, 2011",
+      "content": "<div>Favoured Class: Sorcerer</div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "3:26 AM - Sep 08, 2011",
+      "content": "<div>Oh my.. sorc!  That hurts!  Now we have to do it with 2 PRC classes to avoid xp penalty.  I know Maxi will have an answer!</div>"
+    },
+    {
+      "author": "KailPendragon",
+      "avatar": "10235214_1540245864.jpg",
+      "timestamp": "5:33 PM - Sep 09, 2011",
+      "content": "<div>Cleric 17/Sorc 3/PM 10? Cleric will take care of AB and AC, PM will grant extra AC not to mention PM immunities. Just a thought...</div>"
+    },
+    {
+      "author": "avado",
+      "avatar": "no_avatar.png",
+      "timestamp": "5:36 PM - Sep 09, 2011",
+      "content": "<div><blockquote><div><strong>KailPendragon wrote:</strong>Cleric 17/Sorc 3/PM 10? Cleric will take care of AB and AC, PM will grant extra AC not to mention PM immunities. Just a thought...</div></blockquote>\nMake it a stength based kobald (ever see a kobald with MASSIVE strength)!  Would be an excellent idea!  Probably uses the scrim as a two handed wpn as well, so DEFINITELY a strength based dude/ette!</div>"
+    },
+    {
+      "author": "Maximillian Kane",
+      "avatar": "10235244_1510287070.jpg",
+      "timestamp": "2:57 PM - Sep 13, 2011",
+      "content": "<div>Really? Cleric SORCERER? Screw that! Go Cleric BARD PM and live with the XP penalty, but the HIGHEST AB in a Cleric build is Cleric Bard RDD. GO 16/4/10 respectively. Like the younger brother of Mith's Blood &amp; Faith <br/>\n<br/>\nTake it EZ!</div>"
     }
   ]
 }

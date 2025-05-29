@@ -4,59 +4,82 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "598",
-  "name": "Looking for tips to pick a build for swordflight replay",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/looking-for-tips-to-pick-a-build-for-swordflight-r-t2355479.html",
-  "author": "delerion",
-  "avatar": "no_avatar.png",
-  "replies": 7,
+  "name": "Vapor Monk?? M30/SD5/HS5",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/vapor-monk-m30-sd5-hs5-t2355488.html",
+  "author": "MentalDekay",
+  "avatar": "10759116_1563898639.jpg",
+  "replies": "10",
+  "views": "431",
   "posts": [
     {
-      "author": "delerion",
-      "avatar": "no_avatar.png",
-      "timestamp": "6:22 PM - May 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Greetings!<br/>\n<br/>\nI hope this is the right forum to post in, i am currently playing through swordflight with a evil arcane archer using the black arrow build, (thanks to EasternPromises)<br/>\n<br/>\nI am already planning to replay it this time as a good-aligned melee character, and as something non-elf, so as to see the campaign from a different perspective.<br/>\n<br/>\nHere is what i was thinking:<br/>\nA Dwarf Paladin, something that has some staying power in melee, maybe doable with a 'damage adept' style build using expertise and divine shield while dealing out damage with a scythe?<br/>\n<br/>\nI checked out some builds already but most of them are made with human race, i assume due to the high feat requirements of weapon-master, is this doable with a dwarf instead of human?<br/>\n<br/>\nAnother thing i worry about is my character having more levels in WM instead of paladin, locking me out of some class-specific content, to my understanding your highest level class is the one swordflight modules treats you as(though, if paladin and WM get access to the same 'fighter' style content then it doesn't matter)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "7:04 PM - Jun 04, 2020",
+      "content": "<div>Just something that came to me... I wanted a pure-as-possible monk and started from monk40 (speed, UA damage, SR), but Epic Dodge and Self-Concealment were highly desired.\u00a0<br/>\n<br/>\nElf for the Dexterity bump. Shadowdancer gets me Epic Dodge. Harper came from searching for a 3rd flavor to add (monk35/SD5 seemed strong), it let me squeeze in SCV and an extra +1 dexterity. This was at the cost of some monk speed and AC, stunning fist DC, 10 SR...<br/>\n<br/>\nIt seems like it is a bit stronger with the Harper Scout added, but less of a dedicated Mage killer maybe?<br/>\n<br/>\nOpinions? Comments? Ideas? Inspirations?<br/>\n<details><summary>Spoiler</summary>\nMonk(30), Shadowdancer(5), Harper Scout(5), Elf\nSTR: 10\nCON: 10\nINT: 10\n\n01: Monk(1): Dodge, {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n03: Monk(3): Weapon Finesse\n05: Monk(5)\n07: Monk(7)\n09: Monk(9): Mobility, {Improved Evasion}\n11: Monk(11)\n13: Monk(13)\n15: Monk(15): Alertness\n17: Shadowdancer(1): {Hide in Plain Sight}\n19: Shadowdancer(3)\n21: Monk(17): Epic Weapon Focus: Unarmed\n23: Harper Scout(2)\n25: Harper Scout(4)\n27: Shadowdancer(5): Epic Dodge, {Defensive Roll}\n29: Monk(19)\n31: Monk(21)\n33: Monk(23): Self Concealment II\n35: Monk(25): Self Concealment III\n37: Monk(27)\n39: Monk(29): Great Dexterity IV, (DEX=33)\n\nSkillpoints: 182\nSaving Throw bonuses: Mind Effects: +6, Traps: +3\nAB (max, naked): 40 (melee), 37 (ranged)\nSpell Casting:\u00a0\n\n\n01: Disable Trap(1), Hide(4), Move Silently(4), Open Lock(1), Tumble(4),\u00a0\n03: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n05: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n07: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n09: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n11: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n13: Hide(1), Lore(1), Move Silently(1), Tumble(1),\u00a0\n15: Hide(1), Move Silently(1), Persuade(1), Tumble(1),\u00a0\n17: Hide(1), Move Silently(1), Persuade(2), Search(1), Tumble(1),\u00a0\n19: Hide(1), Move Silently(1), Persuade(1), Search(2), Tumble(1),\u00a0\n21: Discipline(4), Hide(1), Move Silently(1), Tumble(1),\u00a0\n23: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n25: Discipline(1), Hide(1), Move Silently(1), Tumble(1),\u00a0\n27: Hide(1), Move Silently(1), Tumble(1), Save(3),\u00a0\n29: Hide(1), Move Silently(1), Tumble(1), Save(5),\u00a0\n31: Hide(1), Move Silently(1), Tumble(1), Save(7),\u00a0\n33: Hide(1), Move Silently(1), Tumble(1), Save(9),\u00a0\n35: Hide(1), Move Silently(1), Tumble(1), Save(11),\u00a0\n37: Hide(1), Move Silently(1), Tumble(1), Save(13),\u00a0\n39: Hide(1), Move Silently(1), Tumble(1), Save(15),\u00a0\n</details></div>"
+    },
+    {
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "7:24 PM - Jun 04, 2020",
+      "content": "<div>I like the use of Harper to get Great Dex and access to Cat's Grace and potion of Cat's Grace.<br/>\n<br/>\nI think it is a cool idea, good thinking outside of the box.<br/>\n<br/>\nWhat I do think is something to consider, is the feat cost (pre-req for HS) and skill costs, and lack of UMD.\u00a0 If only HS had UMD...wouldn't that be something?<br/>\n<br/>\nED and 50% Concealment is a powerful combination imo.\u00a0 It does sort of make the Monk ability Empty Body a bit useless, however.\u00a0 <br/>\n<br/>\nIn any regards, whenever I see some HS in a build, it always catches my attention.</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "7:01 PM - May 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello and welcome, delerion!<br/>\n<br/>\nThis is indeed the right place for your query. Your basic problem with a Dwarf Paladin is the CHA penalty our bearded friends suffer from, so you run the risk of spreading your stats miserably thin if you want to make good use of Pally-specific attributes. Have you considered maybe a Dwarven Defender/ Fighter/ WM or a Fighter/ CoT/ WM? The first would be horribly feat starved - though not impossible, but the second should be worth a look I'd think.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "delerion",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:08 PM - May 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for your reply!<br/>\n<br/>\nYeah looks like i had a bit too many restrictions, i will have to decide between going human paladin or a dwarf melee character, perhaps i will miss on a paladin-specific quest but still playing as a good-aligned melee with no umd will be a big change of pace from my previous character.<br/>\n<br/>\nTo deal with crit immune enemies as a scythe-user i feel like having a character with divine might is very helpful, i will look into some human builds also.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:54 PM - May 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">If you're sure you want to go with a scythe and don't mind going with human, how about this one? It's one of Valerfor's, and is a Fighter 10/ Paladin 5/ WM 25. Have a look...<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/harvester-of-souls-ftr-10-pal-5-wm-25-t2354285.html\" rel=\"noreferrer\" target=\"_blank\">Harvester of Souls</a><br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Orion",
-      "avatar": "10759084_1591431150.jpg",
-      "timestamp": "11:15 PM - May 27, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Greetings delerion!<br/>\nIt sounds like you are still deciding on what you would like to play.<br/>\nRE Paladins are a multiple-attribute dependent (MAD) class, every attribute seems to be useful.<br/>\nHuman is very helpful with the extra feat and extra 43 skill points, it allows investment in a skill such as Taunt for example.<br/>\nI also find Paladin and RDD a nice combination due to the multiple attribute boosts from RDD, I do not know Swordflight very well, however the readme on the vault seems to indicate Chapter Four gets to lvl 33.<br/>\nWeaponmaster and paladin is a tough combination unless you take fighter or perhaps CoT due to all the feat requirements of weapon master<br/>\n<br/>\nYou did mention divine damage, I did attempt a divine hammer draft using RDD which might be of interest, perhaps you could modify it to your requirements, I would probably take the Sorc/RDD stuff as soon as you hit Lvl 21 so you can experience the complete boost in stats by lvl 31, then get undispellability if there is a Swordflight Chapter Five.<br/>\n<details><summary>Spoiler</summary>Paladin(29), Sorcerer(1), Red Dragon Disciple(10), Human\nSTR: 15 (26)\nCON: 12 (14)\nINT: 14 (16)\n\n01: Paladin(1): Blind Fight, Power Attack\n03: Paladin(3): Extra Smiting\n05: Paladin(5)\n07: Paladin(7)\n09: Paladin(9): Knockdown\n11: Paladin(11)\n13: Paladin(13)\n15: Paladin(15): Weapon Focus: Warhammer\n17: Paladin(17)\n19: Paladin(19)\n21: Paladin(21): Great Charisma I, (CHA=17)\n23: Paladin(23): Epic Weapon Focus: Warhammer\n25: Sorcerer(1)\n27: Red Dragon Disciple(2): Great Charisma III, (STR=20), (CHA=20)\n29: Red Dragon Disciple(4): (STR=22)\n31: Red Dragon Disciple(5)\n33: Red Dragon Disciple(7): Great Charisma V, (CON=14), (CHA=24)\n35: Red Dragon Disciple(9): (INT=16)\n37: Paladin(26): Epic Prowess\n39: Paladin(28): Great Charisma VII, (CHA=29)\n\nSkillpoints: 220\nSaving Throw bonuses: Spells: +6\nAB (max, naked): 42 (melee), 30 (ranged)\nSpell Casting: Paladin(4),Sorcerer(1)\n\n\n01: Disable Trap(1), Discipline(4), Lore(4), Open Lock(1), Set Trap(1), Taunt(4), Save(2),\u00a0\n03: Discipline(1), Lore(1), Taunt(1), Save(6),\u00a0\n05: Discipline(1), Lore(1), Taunt(1), Save(10),\u00a0\n07: Discipline(1), Taunt(1), Tumble(5), Save(6),\u00a0\n09: Discipline(1), Taunt(1), Save(12),\u00a0\n11: Discipline(1), Taunt(1), Save(18),\u00a0\n13: Discipline(1), Taunt(1), Save(24),\u00a0\n15: Discipline(1), Taunt(1), Save(30),\u00a0\n17: Discipline(1), Taunt(1), Tumble(5), Save(26),\u00a0\n19: Discipline(1), Taunt(1), Save(32),\u00a0\n21: Discipline(1), Taunt(1), Save(38),\u00a0\n23: Discipline(1), Taunt(1), Save(44),\u00a0\n25: Spellcraft(9), Save(43),\u00a0\n27: Discipline(1), Spot(1), Tumble(5),\u00a0\n29: Discipline(1), Spellcraft(1), Spot(1), Save(2),\u00a0\n31: Discipline(1), Spellcraft(2), Spot(2),\u00a0\n33: Discipline(1), Spellcraft(3), Spot(1),\u00a0\n35: Discipline(1), Spellcraft(3), Spot(1),\u00a0\n37: Discipline(1), Taunt(5),\u00a0\n39: Discipline(1), Taunt(1), Save(6),\u00a0</details>\n<strong>edit: </strong>Ninja'ed by Stag this time! That Harvester of Souls looks pretty wicked with 48 AB (effective AB 54 with taunt/expertise combo), x5 crit modifier, improved threat range from WM if you want human, scythe, paladin and weaponmaster all in one go, no need to worry with spellcasting either! Maybe that will suit your needs better than my not fully playtested build draft\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "eltalstro",
-      "avatar": "10758878_1582351977.jpg",
-      "timestamp": "4:56 AM - May 28, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hey Delerion,<br/>\n<br/>\nI've been playing through Lord of Terror with a Fighter, DD, Cleric. I've been using Divine Power heavily but no Divine Might or Divine Shield due to the charisma issue. These guys could probably pick a lot of holes in it but it's been hacking and slashing through quite well.<br/>\n<br/>\nSent from my G3125 using Tapatalk<br/>\n<br/>\n<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "7:43 PM - Jun 04, 2020",
+      "content": "<div>I like it, MD! I had similar intent in my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/truesilver-s-hand-monk-30-dwd-5-sd-5-t2355093.html\" rel=\"noreferrer\" target=\"_blank\">Truesilver's Hand</a> build, but with less focus on SC - letting Defensive Awareness, HiPS and ED take more of the strain as a Monk 30/ SD 5/ DwD 5. I only include it here for compare and contrast purposes: the stats are broadly similar. Nice to see HS come out for a stroll in the sun!<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:55 AM - May 28, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I have not (yet) played Swordflight, but it has been my experience that NPCs will identify you as being whatever class you take at level 1.\u00a0 So, a Bard 8 / Fighter 22 / RDD 10 with Bard at level 1 will be a Bard as far as the NPCs are concerned, even though that is the class with the fewest levels.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:03 PM - Jun 04, 2020",
+      "content": "<div>Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "delerion",
-      "avatar": "no_avatar.png",
-      "timestamp": "11:59 AM - May 28, 2020",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks for the help everyone!<br/>\n<br/>\nHarvester of souls build indeed seems to tick many of the boxes i was looking for, i believe i will give that one a try!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "8:08 PM - Jun 04, 2020",
+      "content": "<div><blockquote><div>I like the use of Harper to get Great Dex and access to Cat's Grace and potion of Cat's Grace.</div></blockquote>\nI can't remember who highlighted that, but it does seem like a boon for a Dex-based build.<br/>\n<blockquote><div>What I do think is something to consider, is the feat cost (pre-req for HS) and skill costs, and lack of UMD.\u00a0 If only HS had UMD...wouldn't that be something?<br/>\n<br/>\nED and 50% Concealment is a powerful combination imo.\u00a0 It does sort of make the Monk ability Empty Body a bit useless, however.\u00a0\u00a0</div></blockquote>\nThe feat cost is high. I had to give up blindfight and something else (circle kick? can't remember now). You're pointing to Empty Body is good tho. Do any concealments (empty body, SC, ghostly visage, etc) stack?</div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "8:11 PM - Jun 04, 2020",
+      "content": "<div><blockquote><div><cite>Stagmeister wrote: <div class=\"responsive-hide\">Jun 04, 2020</div></cite>I like it, MD! I had similar intent in my\u00a0<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/truesilver-s-hand-monk-30-dwd-5-sd-5-t2355093.html\" rel=\"noreferrer\" target=\"_blank\">Truesilver's Hand</a> build, but with less focus on SC - letting Defensive Awareness, HiPS and ED take more of the strain as a Monk 30/ SD 5/ DwD 5. I only include it here for compare and contrast purposes: the stats are broadly similar. Nice to see HS come out for a stroll in the sun!<br/>\n<br/>\nCheers</div></blockquote>\nWhen looking for that last splash (accidental <a class=\"postlink\" href=\"https://en.wikipedia.org/wiki/Last_Splash\" rel=\"noreferrer\" target=\"_blank\">Breeders reference)</a>, I definitely saw your build. But I liked the Dex from elf.</div>"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "8:20 PM - Jun 04, 2020",
+      "content": "<div><blockquote><div><cite>Empyre65 wrote: <div class=\"responsive-hide\">Jun 04, 2020</div></cite>Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.</div></blockquote>\nAs mentioned in the reply to Web, I forgot about that monk skill. I'm also unsure how or if concealment stacks. You guys are making me think that having it \"always on\" with SCV is probably not necessary.<br/>\n<br/>\nSo that begs several questions then (that probably comes down to play environment):\u00a0<br/>\n- keep Harper Scout? Still get some usefulness out of it with the great dex and cat's grace<br/>\n-- If I keep it, what are good ideas for the 5 epic level feats? More Great Dex? Epic prowess? All the energy resistances? Armor skin? More spell resistance?<br/>\n- is there another splash that would add significantly?\u00a0<br/>\n-- I did think about a one level dip of Rogue at 40 for UMD.<br/>\n-- I also considered have fighter 4 (or so). that'd offer weapon specialization.<br/>\n-- Assassin is another idea. But that would limit RP'ing. Maybe assassin is something for those PW's where story isn't as important.</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "8:26 PM - Jun 04, 2020",
+      "content": "<div>Haha - did you see the \"genre\" label in your Breeders reference? \"Alternative Rock, Noise Pop\" <em>Noise Pop!</em><br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "MentalDekay",
+      "avatar": "10759116_1563898639.jpg",
+      "timestamp": "8:29 PM - Jun 04, 2020",
+      "content": "<div><a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Concealment\" rel=\"noreferrer\" target=\"_blank\">Concealment</a>\u00a0does not stack.</div>"
+    },
+    {
+      "author": "Empyre65",
+      "avatar": "10235276_1510287070.gif",
+      "timestamp": "2:07 AM - Jun 05, 2020",
+      "content": "<div>If you have 4 pre-epic levels of CoT, you could get 1 more attack per round with no EXP penalty, but that comes at the cost of shorter Empty Body duration, less Spell Resistance, and -1 AC.</div>",
+      "author-color": "#00AA00"
+    },
+    {
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "2:46 PM - Jun 05, 2020",
+      "content": "<div><blockquote><div><cite>MentalDekay wrote: <div class=\"responsive-hide\">Jun 04, 2020</div></cite><blockquote><div><cite>Empyre65 wrote: <div class=\"responsive-hide\">Jun 04, 2020</div></cite>Because a Monk has <a class=\"postlink\" href=\"https://nwn.fandom.com/wiki/Empty_body\" rel=\"noreferrer\" target=\"_blank\">Empty Body</a>, SC5 is perhaps not needed.\u00a0 If you went with Monk 35 / SD 5, you would have 35 rounds of 50% concealment twice a day from Empty Body, which cannot be dispelled.</div></blockquote>\nAs mentioned in the reply to Web, I forgot about that monk skill. I'm also unsure how or if concealment stacks. You guys are making me think that having it \"always on\" with SCV is probably not necessary.<br/>\n<br/>\nSo that begs several questions then (that probably comes down to play environment):\u00a0<br/>\n- keep Harper Scout? Still get some usefulness out of it with the great dex and cat's grace<br/>\n-- If I keep it, what are good ideas for the 5 epic level feats? More Great Dex? Epic prowess? All the energy resistances? Armor skin? More spell resistance?<br/>\n- is there another splash that would add significantly?\u00a0<br/>\n-- I did think about a one level dip of Rogue at 40 for UMD.<br/>\n-- I also considered have fighter 4 (or so). that'd offer weapon specialization.<br/>\n-- Assassin is another idea. But that would limit RP'ing. Maybe assassin is something for those PW's where story isn't as important.</div></blockquote>\nRE Harper Scout - up to you, 2 dex is great *I think* the Harper Cat's *might* stack with standard Cat's when I looked it up months ago. But not 100% sure.<br/>\nIf you dropped it you have lots of choices, rogue seems nice for 1d6-3d6 sneak attack damage combined with 5-7 APR.\u00a0 Fighter 5 you can get epic weapon specialization if you take EWS as a general epic feat on a fighter 5 level.\u00a0Multiclass penalty with both, assassin and CoT/Blackguard/Arcane Archer (for BAB 26+) being alternatives to dodge the multiclass penalties.<br/>\nRE Epic Level Feats - I like Epic Prowess and Armor Skin. The other feats could be Improved Spell Resistance, Epic Fortitude (those darn Implosions that go through death immunity, although with that monk speed you *could* kind of dodge them, if you aren't mobbed), even toughness / great constitution to push the base HP closer to 400 for a meleer. Up to you what you like really. Epic Energy Resistances depend on the environment and what you are facing.\u00a0<br/>\nRE UMD - its a powerful skill<br/>\nRE Assassin - can understand the issues with being an evil assassin monk<br/>\n<br/>\nTumble can be 40 ranks in the build rather than 43 btw<br/>\n<br/>\n<strong>Edit:</strong>\u00a0The Harper Cat's Grace Feat (but not crafted potion) appeared to stack with standard Cat's Grace spell/potion when I playtested it in July 2019 preparing <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/brew-potion-craft-harper-item-craft-wand-scribe-sc-t2355097.html\" rel=\"noreferrer\" target=\"_blank\">this guide</a>.\u00a0</div>"
     }
   ]
 }

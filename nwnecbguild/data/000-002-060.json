@@ -4,59 +4,58 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "060",
-  "name": "PDK Question about \"fear\" class feat",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/pdk-question-about-fear-class-feat-t2355938.html",
-  "author": "AvatarofWoe",
-  "avatar": "10759552_1650802771.jpg",
-  "replies": 7,
+  "name": "BeamDog servers down?",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/beamdog-servers-down-t2355947.html",
+  "author": "webshaman1",
+  "avatar": "10759110_1577099721.jpg",
+  "replies": "6",
+  "views": "185",
   "posts": [
     {
-      "author": "AvatarofWoe",
-      "avatar": "10759552_1650802771.jpg",
-      "timestamp": "9:05 PM - Apr 24, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello guildmembers!<br/>\n<br/>\nI have a question and I feel very humble in doing so, as this is my first real post here.<br/>\n<br/>\nCan anyone confirm if the PDK exploit regarding the third level feat of \"fear\" with a negative STR modifier still works under community patch 1.71?<br/>\nWhen I played my DEX-Based Bard multiclassing with PDK a few years ago (gosh) it worked fine. I'm pretty sure it was even viewable during combat and the DC for the class-feat fear of the PDK has to be 127. Unfortunately I updated the game half a year ago to 1.71 but played another Character. Last week I wanted to go on with my Bard / PDK but found that it didn't work anymore.\u00a0<br/>\nAfter a search through the patchnotes of 1.71 and even 1.70 I wasn't able to find any information about this.\u00a0<br/>\n<br/>\n--&gt; So: Is my game somehow bugged or was the PDK feat \"fear\" somehow fixed?<br/>\n<br/>\nI know this is a power-building guild where a PDK is somewhat out of focus, but I hoped someone could give me some insight.<br/>\n<br/>\nThanks guys!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "webshaman1",
+      "avatar": "10759110_1577099721.jpg",
+      "timestamp": "5:43 PM - May 16, 2022",
+      "content": "<div>Anyone else getting this?</div>"
     },
     {
       "author": "Stagmeister",
       "avatar": "10404082_1510287071.jpg",
-      "timestamp": "10:12 AM - Apr 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I'm not going to be much help here <em class=\"mention\">@AvatarofWoe</em>, sorry. I've looked through everything I can find elsewhere about PDKs, but can't find any mention of a change to Fear's DC in 1.70/71, though I couldn't say whether EE has made a difference. Alas, this seems to imply you might indeed have a bug (either that or I haven't looked hard enough).<br/>\n<br/>\nMaybe someone else has better insight.<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "AvatarofWoe",
-      "avatar": "10759552_1650802771.jpg",
-      "timestamp": "11:03 AM - Apr 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello Stagmeister!<br/>\n<br/>\nThanks for your effort! I forgot to mention that I still play the Diamond version of Nwn. In that case I'll just reinstall the game. As I mentioned, I couldn't find any mention of a change either, so the problem most likely is on my end.\u00a0<br/>\n<br/>\nThumbs up!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:00 PM - May 16, 2022",
+      "content": "<div>Do you know what - if anything - BD have to say about this?<br/>\n<br/>\nCheers</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "11:40 AM - Apr 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ok, you are using the Community Patch, right?\u00a0 From Shaadow?<br/>\n<br/>\nI did find this reference <blockquote><div>Recently solved issues:<br/>\nFixed in 1.72 beta:<br/>\n- Duration/Effect scalling by difficulty is not implemented in all spells where it should be. (fixed in 1.71 actually just forgot to remove from list - 1.72 added scaling into PDK fear which was omitted)</div></blockquote>\n\nSo it does look like PDK fear did get addressed, and perhaps the negative Str thing was also addressed.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:03 PM - May 16, 2022",
+      "content": "<div>They say the server is down - Grom posted there and was answered back.</div>"
     },
     {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "3:58 PM - Apr 25, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Judging from what Web found, maybe upgrading from 1.71 to 1.72 will fix the problem.<br/>\n\"1.72 added scaling into PDK fear which was omitted\"<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "AvatarofWoe",
-      "avatar": "10759552_1650802771.jpg",
-      "timestamp": "8:39 PM - Apr 26, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hello guys!<br/>\n<br/>\nThanks for your efforts! I tried <em>@</em><em>Empyre65 </em>'s suggestion in using patch 1.72, but that didn't work either. So I used 1.69 critical rebuild and the fear \"exploit with negative STR modifier worked again. After that I tried community patch 1.70 and the \"exploit\" didn't work. To sum up --&gt; in all versions of the community patch (1.70, 1.71 and 1.72) the \"exploit\" of the PDKs class-feat \"fear\" is fixed and workes as is should.\u00a0<br/>\n<br/>\nHave a nice evening guild members!\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "9:55 PM - May 16, 2022",
+      "content": "<div>Thanks Web - and if Grom is on the case, the Beam Doggers will be pursued until they sort it, I'm sure!</div>",
+      "author-color": "#AA0000"
     },
     {
       "author": "webshaman1",
       "avatar": "10759110_1577099721.jpg",
-      "timestamp": "10:55 PM - Apr 26, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Did you happen to look into the notes of the Community Patch?<br/>\n<br/>\nI think Shado0w documents changes to it, iirc.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:00 PM - May 16, 2022",
+      "content": "<div>Back up!<br/>\n<br/>\nThanks, Grom!<br/>\n<br/>\nSent from my SM-G955F using Tapatalk<br/>\n<br/>\n</div>"
     },
     {
-      "author": "AvatarofWoe",
-      "avatar": "10759552_1650802771.jpg",
-      "timestamp": "11:30 PM - Apr 26, 2022",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Version 1.70 states \"PDK feats feedback externalized\" - whatever that means?<br/>\nVersions 1.71 and 1.72 patch notes don't mention anything regarding the \"fear\"-classfeat.<br/>\n<br/>\nAnyway, if I want to play my build I have to revert to 1.69 and miss out on the sweet colourful graphics ;)<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "10:53 PM - May 16, 2022",
+      "content": "<div>It would appear Grom is the NwN <span style=\"text-decoration:line-through\">nuclear</span> Noober option! Raise a glass to the lad!</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "11:22 PM - May 16, 2022",
+      "content": "<div>Sk\u00e5l Grom!</div>",
+      "author-color": "#AA0000"
     }
   ]
 }

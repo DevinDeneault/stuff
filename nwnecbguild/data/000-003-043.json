@@ -4,65 +4,62 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "043",
-  "name": "Rogue Build for SoU HotU, maybe some other module after that.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/rogue-build-for-sou-hotu-maybe-some-other-module-a-t2354749.html",
-  "author": "Pitoni",
-  "avatar": "10235447_1565972826.jpg",
-  "replies": 8,
+  "name": "Paladin Bard RDD",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/paladin-bard-rdd-t2354752.html",
+  "author": "KidMiracleman",
+  "avatar": "no_avatar.png",
+  "replies": "7",
+  "views": "1.4K",
   "posts": [
     {
-      "author": "Pitoni",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "1:46 PM - Oct 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hello everyone, long time reader, first time posting.<br/>\n<br/>\nI am looking for a viable solo rogue build, it can have splashes of other classes and prestiges. But, I would like t to be able to open locks, disarm traps, and handle myself in combat.<br/>\nI am not a big fan of setting traps, but I now it is a very important aspect to soloing rogues.<br/>\nI prefer Elfs for the auto search, but that is not something I can`t live without.<br/>\n<br/>\nThanks in advance.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:48 PM - Oct 09, 2017",
+      "content": "<div>Any suggestions on a Paladin Bard RDD build?\u00a0 Keep in mind that need 30 str at level 40 and dev crit is disabled<br/>\n<br/>\nDavid</div>"
+    },
+    {
+      "author": "Stagmeister",
+      "avatar": "10404082_1510287071.jpg",
+      "timestamp": "6:56 PM - Oct 09, 2017",
+      "content": "<div>Is it ok to have a Paladin Bard where you play (still Awakening)? It's just that standard rules mean it's a non-starter. Could do it with Sorcerer, though.</div>",
+      "author-color": "#AA0000"
+    },
+    {
+      "author": "KidMiracleman",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:13 PM - Oct 09, 2017",
+      "content": "<div>It does not have to be bard.\u00a0 I also play on Tornado of Souls</div>"
     },
     {
       "author": "Empyre65",
       "avatar": "10235276_1510287070.gif",
-      "timestamp": "6:42 PM - Oct 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">It looks like your style of Rogue is similar to mine. Here are two builds that I have played in SoU, The Nether Scrolls (a bridge module), HotU, and Sands of Fate (which brings you all\u00a0 the way to level 40), and a third build that I haven't played yet, but plan to.<br/>\n<br/>\nElf Rogue 17 / Wizard 1 / Arcane Archer 22:\n<details><summary>Spoiler</summary>\nResourceful Archer 5b (Rogue 17 / Wizard 1 / Arcane Archer 22)\nPlayable 1 - 40, PvM\n\nSTR: 14\nCON: 12\nINT: 14\n\nElf: (Hardiness vs. Enchantments, Keen Sense, Low-light Vision, Skill Affinity: Listen, Skill Affinity: Search, Skill Affinity: Spot, Sleeplessness)\n02: Rogue(2): {Evasion}\n04: Rogue(4): DEX+1, (DEX=19)\n06: Rogue(6): Weapon Finesse\n08: Rogue(8): DEX+1, (DEX=20)\n10: Arcane Archer(1)\n12: Rogue(9): DEX+1, Improved Critical: Longbow, (DEX=21)\n14: Arcane Archer(4)\n16: Arcane Archer(6): DEX+1, (DEX=22)\n18: Arcane Archer(7): Called Shot\n20: Arcane Archer(9): DEX+1, (DEX=23)\n22: Arcane Archer(10)\n24: Arcane Archer(11): DEX+1, Great Dexterity I, (DEX=25)\n26: Arcane Archer(12)\n28: Arcane Archer(13): DEX+1, (DEX=26)\n30: Arcane Archer(15): Armor Skin\n32: Rogue(15): DEX+1, (DEX=28)\n34: Arcane Archer(18): Epic Prowess\n36: Arcane Archer(20): DEX+1, Great Dexterity IV, (DEX=31)\n38: Arcane Archer(21)\n40: Rogue(17): DEX+1, (DEX=34)\nStats:\nSkillpoints: 330\nSaving Throw bonuses: Spells: +2, Mind Effects: +2, Traps: +3\nAB (max, naked): 39 (melee), 53 (ranged)\nSpell Casting: Wizard(1)\n\nDisable Trap 43(47), Lore 43(45), Open Lock 43(55), Persuade 28(28), Search 43(47), Set Trap 5(19), Spellcraft 8(10), Spot 43(44), Tumble 40(52), UMD 40(40)\n01: Disable Trap(4), Lore(4), Open Lock(4), Persuade(4), Search(4), Set Trap(4), Spot(4), Tumble(4), UMD(4), Save(4)\n03: Disable Trap(1), Lore(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(7)\n05: Disable Trap(1), Lore(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(11)\n07: Disable Trap(1), Lore(1), Open Lock(1), Persuade(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(15)\n09: Lore(1), Spellcraft(8), Save(12)\n11: Lore(1), Spot(1), Save(19)\n13: Lore(1), Spot(1), Save(7)\n15: Spot(1), Save(16)\n17: Disable Trap(5), Open Lock(5), Persuade(5), Search(5), Spot(1), Tumble(5), UMD(5)\n19: Spot(1), Save(6)\n21: Disable Trap(4), Open Lock(4), Search(4), Spot(1), Tumble(4), UMD(4)\n23: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spot(1), Tumble(2), UMD(1)\n25: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spot(1), Tumble(2), Save(4)\n27: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spot(1), Tumble(2), Save(8)\n29: Lore(1), Spot(1), Save(16)\n31: Lore(1), Spot(1), Save(24)\n33: Spot(1), Save(17)\n35: Spot(1), Save(27)\n37: Disable Trap(5), Open Lock(5), Search(5), Spot(1), Tumble(5), Save(21)\n39: Spot(1), Save(31)</details>\n\nHuman Rogue 19 / Monk 11 / Fighter 10:\n<details><summary>Spoiler</summary>\nDervish 9 (Rogue 19 / Monk 11 / Fighter 10)\nPlayable 1 - 40, PvM\n\nSTR: 14\nCON: 12\nINT: 14\n\nHuman: (Quick to Master)\n02: Monk(1): {Cleave, Evasion, Improved Unarmed Strike, Stunning Fist}\n04: Fighter(1): DEX+1, Weapon Focus: Kama, (DEX=17)\n06: Rogue(4): Blind Fight\n08: Fighter(2): DEX+1, Two-Weapon Fighting, (DEX=18)\n10: Fighter(3)\n12: Monk(3): DEX+1, Improved Two-Weapon Fighting, (DEX=19)\n14: Fighter(4): Weapon Specialization: Kama\n16: Monk(4): DEX+1, (DEX=20)\n18: Rogue(10): Great Fortitude, Defensive Roll\n20: Rogue(11): DEX+1, (DEX=21)\n22: Monk(6): {Knockdown, Improved Knockdown}\n24: Monk(7): DEX+1, Great Dexterity I, (DEX=23)\n26: Fighter(7)\n28: Fighter(8): DEX+1, Armor Skin, (DEX=25)\n30: Rogue(13): Great Dexterity III, Epic Dodge, (DEX=26)\n32: Rogue(15): DEX+1, (DEX=27)\n34: Fighter(9)\n36: Rogue(17): DEX+1, Great Dexterity V, (DEX=30)\n38: Rogue(18)\n40: Rogue(19): DEX+1, Improved Sneak Attack I, (DEX=32)\nStats:\nSkillpoints: 369\nSaving Throw bonuses: Spells: +3, Mind Effects: +2, Traps: +4\nAB (max, naked): 41 (melee), 38 (ranged)\nSpell Casting: \n\nDisable Trap 43(47), Discipline 42(44), Lore 43(45), Open Lock 43(54), Search 43(45), Set Trap 5(18), Spellcraft 13(15), Spot 43(44), Tumble 40(51), UMD 41(40)\n01: Disable Trap(4), Lore(4), Open Lock(4), Search(4), Set Trap(4), Spellcraft(2), Spot(4), Tumble(4), UMD(4), Save(8)\n03: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Set Trap(1), Spellcraft(1), Spot(2), Tumble(1), UMD(2), Save(4)\n05: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spellcraft(1), Spot(2), Tumble(2), UMD(2), Save(2)\n07: Discipline(3), Lore(1), Spellcraft(1), Tumble(1), Save(6)\n09: Disable Trap(3), Lore(1), Open Lock(3), Search(3), Spellcraft(1), Spot(3), Tumble(2), UMD(3)\n11: Disable Trap(2), Open Lock(2), Search(2), Spellcraft(1), Spot(2), Tumble(2), UMD(2)\n13: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spellcraft(1), Spot(2), Tumble(1), UMD(2)\n15: Disable Trap(2), Open Lock(2), Search(2), Spellcraft(1), Spot(2), Tumble(2), UMD(2)\n17: Disable Trap(2), Open Lock(2), Search(2), Spellcraft(1), Spot(2), Tumble(1), UMD(2), Save(2)\n19: Discipline(3), Spellcraft(1), Save(7)\n21: Discipline(2), Spellcraft(1), Tumble(1), Save(8)\n23: Discipline(1), Spellcraft(1), Save(15)\n25: Disable Trap(5), Lore(4), Open Lock(5), Search(5), Spot(5), Tumble(1), UMD(5)\n27: Discipline(1), Tumble(2), Save(5)\n29: Discipline(1), Tumble(2), Save(13)\n31: Disable Trap(1), Lore(6), Open Lock(1), Search(1), Spot(1), Tumble(1)\n33: Disable Trap(1), Lore(2), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(4)\n35: Discipline(1), Save(4)\n37: Discipline(2), Lore(4), Tumble(1)\n39: Discipline(2), Lore(2), Save(3)</details>\n\nHalfling Rogue 24 / Fighter 6 / Champion of Torm 10:\n<details><summary>Spoiler</summary>\nAgent of Torm 2b (Rogue 24 / Fighter 6 / Champion of Torm 10)\nPlayable 1 - 40, PvM\n\nSTR: 12\nCON: 14\nINT: 13\n\nHalfling: (Fearless, Good Aim, Lucky, Skill Affinity: Listen, Skill Affinity: Move Silently, Small Stature)\n02: Rogue(2): {Evasion}\n04: Rogue(3): DEX+1, {Uncanny Dodge I}, (DEX=20)\n06: Rogue(4): Blind Fight\n08: Fighter(3): DEX+1, (DEX=21)\n10: Rogue(7)\n12: Rogue(8): DEX+1, Two-Weapon Fighting, (DEX=22)\n14: Rogue(9)\n16: Rogue(10): DEX+1, Improved Evasion, (DEX=23)\n18: Champion of Torm(3): Toughness, {Smite Evil}\n20: Champion of Torm(4): DEX+1, Improved Critical: Dagger, (DEX=24)\n22: Rogue(13): Defensive Roll\n24: Champion of Torm(7): DEX+1, Great Dexterity II, (DEX=27)\n26: Rogue(14)\n28: Rogue(16): DEX+1, Epic Dodge, (DEX=29)\n30: Champion of Torm(10): Great Dexterity IV, Epic Prowess, (DEX=30)\n32: Rogue(18): DEX+1, (DEX=31)\n34: Rogue(19): Improved Sneak Attack I\n36: Rogue(20): DEX+1, Great Dexterity VI, (DEX=34)\n38: Rogue(22)\n40: Rogue(24): DEX+1, Improved Sneak Attack II, (DEX=36)\nStats:\nSkillpoints: 291\nSaving Throw bonuses: Traps: +5, Fear: +2\nAB (max, naked): 45 (melee), 43 (ranged)\nSpell Casting: \n\nAppraise 4(5), Disable Trap 20(21), Listen 14(15), Lore 43(44), Open Lock 43(56), Search 43(44), Spot 43(42), Tumble 40(53), UMD 41(40)\n01: Appraise(4), Disable Trap(4), Lore(4), Open Lock(4), Search(4), Spot(4), Tumble(4), UMD(4), Save(4)\n03: Lore(1), Save(8)\n05: Lore(1), Save(6)\n07: Disable Trap(1), Lore(1), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1), Save(4)\n09: Disable Trap(2), Lore(1), Open Lock(2), Search(2), Spot(2), Tumble(2), UMD(2), Save(2)\n11: Lore(1), Spot(1), Save(5)\n13: Lore(1), Spot(1), Save(3)\n15: Save(3)\n17: Disable Trap(1), Lore(3), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1)\n19: Open Lock(2), Search(2), Spot(1), Tumble(2), UMD(2), Save(2)\n21: Spot(1), Save(6)\n23: Spot(1), Save(4)\n25: Spot(1), Save(8)\n27: Lore(4), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1)\n29: Spot(1), Save(2)\n31: Open Lock(3), Search(3), Spot(1), Tumble(3), UMD(3)\n33: Lore(2), Save(1)\n35: Lore(2), Save(1)\n37: Lore(4), Open Lock(1), Search(1), Spot(1), Tumble(1), UMD(1)\n39: Listen(5), Lore(1), Open Lock(1), Search(1), Spot(1)</details><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:01 PM - Oct 09, 2017",
+      "content": "<div>In the standard rules, a paladin must be lawful good, and will become a fallen paladin if he ever becomes not lawful good, even if he later becomes once again lawful good. Meanwhile, a bard is forbidden to be lawful, although I have heard of a PW that allows lawful bards.<br/>\n<br/>\nYou want only 30 STR at level 40 in a build with RDD. I guess that means that you want a good CHA, too.</div>",
+      "author-color": "#00AA00"
     },
     {
-      "author": "Pitoni",
+      "author": "Valerfor",
+      "avatar": "10235447_1565972826.jpg",
+      "timestamp": "9:17 PM - Oct 09, 2017",
+      "content": "<div>Search the 40's section David, there is plenty of Paladin's there and i think one is by Tyr that is Paladin 26/ Bard 4/ RDD 10 &amp; Paladin 29/ Sorcerer 1/ RDD 10 too. Both have over 30 Strength by lvl 40. There are also some builds in the Legacy Archive as well.</div>"
+    },
+    {
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "7:23 PM - Oct 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thank you, I will try this AA build first since it has persuasion and I really like the plot use of the skill in SoU.<br/>\nI will probably try all three of them as time goes by.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:10 AM - Oct 10, 2017",
+      "content": "<div>Are you talking about Wing Commander?\u00a0 I like that one but it has dev crit.\u00a0 I can't have dev crit.\u00a0 I could<br/>\njust sub something for it but there may be feats in the build that are taken just to get dev crit.</div>"
     },
     {
       "author": "Valerfor",
       "avatar": "10235447_1565972826.jpg",
-      "timestamp": "11:21 PM - Oct 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">And as per usual Empyre's style it also has (45!) Lore so you don't have to run into the shops to ID your loot.<br/>\n<br/>\nYou could probably use them for something else if you don't mind that.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:29 PM - Oct 10, 2017",
+      "content": "<div>Yes, that one with the 40 Str, (PAL 26/ BARD 4/ RDD 10).<br/>\n<br/>\nHere is what you should do, change these three feats: Great Cleave, Overwhelming Critical &amp; Devastating Critical with Great Fortitude, Greeat Strength I &amp; Great Strength II.<br/>\nThen you should end at 42 STR &amp; AB 50.</div>"
     },
     {
-      "author": "Pitoni",
+      "author": "KidMiracleman",
       "avatar": "no_avatar.png",
-      "timestamp": "11:25 PM - Oct 03, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Valerfor wrote:</cite>\nAnd as per usual Empyre's style it also has (45!) Lore so you don't have to run into the shops to ID your loot.<br/>\n<br/>\nYou could probably use them for something else if you don't mind that.\n</div></blockquote>\n\nHow much do you think is enough?<br/>\nI mean, I love the idea of not walking back to the shops, but let`s be frank, there is enough money on the game that the 100 gp to identify is not a lot.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:06 AM - Oct 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><cite>Pitoni wrote:</cite>\n<blockquote><div><cite>Valerfor wrote:</cite>\nAnd as per usual Empyre's style it also has (45!) Lore so you don't have to run into the shops to ID your loot.<br/>\n<br/>\nYou could probably use them for something else if you don't mind that.\n</div></blockquote>\n\nHow much do you think is enough?<br/>\nI mean, I love the idea of not walking back to the shops, but let`s be frank, there is enough money on the game that the 100 gp to identify is not a lot.\n</div></blockquote>\n\nIt's not about how much i think it is enough because with the monty haul campaign that HoTU is you actually need almost that much...<br/>\n<br/>\nBetter question would be, how many ranks do i have left over, after i max out \"Set Traps\"?<br/>\n<br/>\nEdit: That's only relevant if you care to invest that much into Traps and all, or some other skill of your choice.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "12:13 AM - Oct 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">To better answer your question a modified Lore skill of (35) will allow you to ID all those (+8) weapons that HoTU has but will leave out anything that costs over a million gp.<br/>\n<br/>\nWith a modified Lore skill of (25) you will be able to ID anything that costs 250k gp or less.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "8:59 PM - Oct 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">There are items in Sands of Fate that are worth tens of millions. I don't claim that Lore is the most important skill, or even a must-have, but it is really nice to have, at least in single-player. In Sands of Fate, especially in the last chapter, there is often a very long trek to a merchant just to identify something so you can use it. I'm not going to gimp a build just for Lore, but if I can work it in without sacrificing anything, I go for it. Do any of these builds look like they're weakened by taking Lore?<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Valerfor",
-      "avatar": "10235447_1565972826.jpg",
-      "timestamp": "9:07 PM - Oct 04, 2017",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Yeah SoF gets really silly near the end of it, giving (+14) items like cookies...<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "2:51 PM - Oct 10, 2017",
+      "content": "<div><blockquote><div><cite>Valerfor wrote:</cite>\nYes, that one with the 40 Str, (PAL 26/ BARD 4/ RDD 10).<br/>\n<br/>\nHere is what you should do, change these three feats: Great Cleave, Overwhelming Critical &amp; Devastating Critical with Great Fortitude, Greeat Strength I &amp; Great Strength II.<br/>\nThen you should end at 42 STR &amp; AB 50.\n</div></blockquote>\n\nOK.\u00a0 Thank you<br/>\n<br/>\nDavid</div>"
     }
   ]
 }

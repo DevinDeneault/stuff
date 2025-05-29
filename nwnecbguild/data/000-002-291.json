@@ -4,41 +4,36 @@
   "forum_name": "General Discussion",
   "forum_id": "002",
   "id": "291",
-  "name": "Achieving Pre-Epic stats?",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/achieving-pre-epic-stats-t515389.html",
-  "author": "Shahadet",
-  "avatar": "10235244_1510287070.jpg",
-  "replies": 4,
+  "name": "NWN vs. proxy",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/nwn-vs-proxy-t515459.html",
+  "author": "Dzmitry",
+  "avatar": "no_avatar.png",
+  "replies": "3",
+  "views": "1.0K",
   "posts": [
     {
-      "author": "Shahadet",
-      "avatar": "no_avatar.png",
-      "timestamp": "4:58 AM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">Hey builders,<br/>\n<br/>\nFirst off, thanks for putting up the abbreviations listing - that was a big help.<br/>\n<br/>\nSecond off, thanks to HipMaestro for his Shifter build - I plan to comment on it as soon as I have a chance, as well as present a build I've come up with.<br/>\n<br/>\n--------------<br/>\n<br/>\nMy main question though is this:  I've seen multiple times, when discussing a build, where the author has commented on achieving a certain stat \"Pre-Epic\" (i.e. before the character exceeds level 20).<br/>\n<br/>\nWhat exactly is the significance of that?  Is there something in the game engine / D&amp;D rules that checks to see what a particular thing (like BAB or saves) is before the character hits level 21?<br/>\n<br/>\nExample:  Builders have mentioned trying to get +16 BAB (for max attacks) \"pre-epic\".    (what does this matter?  Do you stop gaining BAB after 20? Do you not get a 4th attack if your BAB didn't hit 16 before level 21? I'm honestly confused....)<br/>\n<br/>\nThanks!<br/>\n-S<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
       "author": "Dzmitry",
       "avatar": "no_avatar.png",
-      "timestamp": "8:48 AM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div>Example: Builders have mentioned trying to get +16 BAB (for max attacks) \"pre-epic\". (what does this matter? Do you stop gaining BAB after 20? Do you not get a 4th attack if your BAB didn't hit 16 before level 21? I'm honestly confused....)</div></blockquote>\n\nI have it for you from old forums:<br/>\n<blockquote><div>- BAB (Base Attack Bonus) PROGRESSION: This is the rate at which your character gains AB. For the first 20 levels, it is class-related, meaning that the number of AB points you will gain depends on which class you choose. From level 21 to level 40, it progresses at a rate of 1 point every two character levels, regardless of class (you gain 1 point of AB every odd level: 21, 23, 25 etc..).<br/>\n<br/>\nFor the first 20 levels (commonly referred to as PRE-EPIC, hence the term pre-epic spread), there are 3 different BAB progressions, which for the sake of simplicity I'll refer to as good, average and bad:<br/>\n<br/>\n- Good: 1 BAB per level. The classes that get this progression get 4 attacks per round at level 20, each attack at -5 from the previous one. Here's a list of the classes that have this progression: Arcane Archer, Barbarian, Blackguard, Champion of Torm, Dwarven Defender, Fighter, Paladin, Purple Dragon Knight, Ranger, Weapon Master.<br/>\n<br/>\n- Average: +3/4 BAB per level (This means that every 4 levels you take in that class, you gain 3 points of BAB distributed as follows: level 1 = +0, levels 2, 3 and 4 = +1 each). The classes that get this progression will have 3 attacks per round at level 20, each at -5 from the previous one. Here's a list of the classes that have this progression: Assassin, Bard, Cleric, Druid, Harper Scout, Monk*, Red Dragon Disciple, Rogue, Shadowdancer, Shifter.<br/>\n<br/>\n* Monks have a singular AB progression when they're unarmed or wielding a Kama, but since it's so different from the general rule, it's best left for later (or never ).<br/>\n<br/>\n- Bad: +1/2 BAB per level (This means that every 2 levels you take in that class, you gain 1 point of BAB distributed as follows: odd levels = +0, even levels = +1 each). The classes that get this progression will have 2 attacks per round at level 20, each at -5 from the previous one. Here's a list of the classes that have this progression: Pale Master, Sorcerer, Wizard.<br/>\n<br/>\nNow as a general rule, once you've decided your final spread, in terms of AB you want to fit as many levels of the class(es) that have the best BAB progression as you can without hurting your spread before level 20. By combining classes in the first 20 levels you'll get a different number of attacks per round. The MAXIMUM PRE-EPIC BAB IS 20. You get that if you only take classes with a good BAB progression until level 20. Similarly, the MINIMUM PRE-EPIC BAB IS 10. In terms of attacks per round, they are defined by your pre-epic BAB. Once you are level 21+, your BAB will continue to grow, but you won't get any extra attacks per round. Here's a table of how it works (level 20 numbers):<br/>\n<br/>\n-PRE-EPIC BAB 10 = 2 attacks per round<br/>\n-PRE-EPIC BAB BETWEEN 11 AND 15 = 3 attacks per round<br/>\n-PRE-EPIC BAB BETWEEN 16 AND 20 = 4 attacks per round</div></blockquote><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Dzmitry",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:48 AM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Oh, and maybe this link can help a little:<br/>\n<a class=\"postlink\" href=\"http://home.comcast.net/~worldofgreyhawk/builds/data/general316836.html\" rel=\"noreferrer\" target=\"_blank\">http://home.comcast.net/~worldofgreyhaw ... 16836.html</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:53 PM - Sep 12, 2011",
+      "content": "<div>Hi all. <br/>\n<br/>\nHere is my question: does anyone try to run NWN and play online through proxy, which has login and password? Few people I ask in our community, says, that it's impossible, but I hope here is some resolution. So, does anyone have a succesful attempt with running NWN through proxy? Or not?<br/>\n<br/>\nThanx.</div>"
     },
     {
       "author": "HipMaestro",
       "avatar": "10235222_1510287070.jpg",
-      "timestamp": "3:40 PM - Jul 28, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">The are situations, though, that you may actually want to AVOID reaching a high level BAB (16 and over)  to achieve a better overall attack.<br/>\n<br/>\nThis happens with a cleric multiclass build (pure cleric is innately BAB 15) which intends to use Divine Power as a staple during attack.  The extra attacks from DP are made at full attack and then taper off according to the normal -5 progression.  So, with a pre-epic 15 BAB, the 4th attack would be at full AB while with a pre-epic BAB of 16 or higher it would be made at -15AB.  I'd have to do some research to figure out how it affects the monk progression since I have never tried DP with a monk, but I suspect that there would be similar results.<br/>\n<br/>\nIt is only the pre-epic BAB that is unique to class split since after level 20 all classes receive the exact same BAB boost... 1AB each 2 levels.  Hence, the concern to control the pre-epic BAB is so important to any build.<br/>\n<br/>\nAnother important pre-epic achievement issue is feat distribution.  It is relatively counter-productive to allow yourself to be forced into taking feats available during pre-epic levels once you reach epic levels.  Once in a while I see a feat like Toughness be taken near the end of a Level 40 build but usually these \"wastes\" are due to finding no more epic feats of value at that point in the build so it just gets tossed in for good measure.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "8:24 PM - Sep 12, 2011",
+      "content": "<div>The proxy settings are set by the network admin for security reasons.  They purposely block certain sites like gaming, porno, etc. access which cannot be hakked unless they are woeful at their duties, in which case they will soon be looking for another job.  I suggest you contact your networking department to plead your case for gaining access to a gaming site.  If it's a school or college, don't waste your time.</div>"
     },
     {
-      "author": "Maximillian Kane",
-      "avatar": "10235244_1510287070.jpg",
-      "timestamp": "1:43 PM - Sep 10, 2011",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">With Monk progression, DP doesn't change at all. So if your schedule is, say:<br/>\n<br/>\n+20/+17/+14/+11/+8, with DP the extra attack comes at +20, with DP and Haste, +20 and +15, not following the Monk attack progression.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Dzmitry",
+      "avatar": "no_avatar.png",
+      "timestamp": "9:39 PM - Sep 12, 2011",
+      "content": "<div>Hip, problem is, that NWN don't wont work with proxy. I have it on my work, I'm some kind of administrator there, but I can't remove it at all, cause other users get internet connection through it. I thought, that maybe some settings are added to nwn ini files or maybe some software is needed to make it work... I don't know...</div>"
+    },
+    {
+      "author": "HipMaestro",
+      "avatar": "10235222_1510287070.jpg",
+      "timestamp": "10:38 PM - Sep 12, 2011",
+      "content": "<div>Well, this not a task for amateurs.  You need to know how to set up port forwarding for your particular router and firewall.  But if you are a networking admin, you should have the authority to control and customize the port forwarding yourself.<br/>\n<br/>\nHere are a few links which relate applicable information and pose some solutions:<br/>\n<br/>\n<a class=\"postlink\" href=\"http://support.microsoft.com/kb/323712\" rel=\"noreferrer\" target=\"_blank\">http://support.microsoft.com/kb/323712</a><br/>\n<a class=\"postlink\" href=\"http://www.overclockers.com/forums/showthread.php?t=516936\" rel=\"noreferrer\" target=\"_blank\">http://www.overclockers.com/forums/show ... p?t=516936</a><br/>\n<a class=\"postlink\" href=\"http://windows.microsoft.com/en-US/windows-vista/Play-online-games-through-a-firewall-or-proxy-server\" rel=\"noreferrer\" target=\"_blank\">http://windows.microsoft.com/en-US/wind ... oxy-server</a><br/>\n<a class=\"postlink\" href=\"http://portforward.com/\" rel=\"noreferrer\" target=\"_blank\">http://portforward.com/</a><br/>\n<br/>\nKeep in mind, that setting up a proxy server properly to handle communications between game servers requires intimate knowledge of the equipment you are using.  In my own experience, even when adequate ports have been set up, running a game through a proxy is very slow and drop-outs are common and unpredictable, being based on whether the packets are moving fast enough.  You are welcome to try, but I think you may be disappointed in the performance even after you have configured it properly...  which is probably why there are so few instructional outlets on the Web for this sort of thing... it's just not worth all the effort.</div>"
     }
   ]
 }

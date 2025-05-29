@@ -4,41 +4,31 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "762",
-  "name": "Level 30 Risen Lord Build",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/level-30-risen-lord-build-t2355238.html",
-  "author": "Scylon",
-  "avatar": "no_avatar.png",
-  "replies": 4,
+  "name": "Druid Dragon Kensai (Druid 19 / WM 19 / Monk 2)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-dragon-kensai-druid-19-wm-19-monk-2-t2355241.html",
+  "author": "Orion",
+  "avatar": "10759084_1591431150.jpg",
+  "replies": "2",
+  "views": "241",
   "posts": [
     {
-      "author": "Scylon",
-      "avatar": "no_avatar.png",
-      "timestamp": "10:28 AM - Nov 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">I have never played a shifter, but the idea is interesting to me.\u00a0<br/>\n<br/>\nQuestion is, can the risen lord/demonflesh build be done at level 30? I have looked at it but arelith has a rule where you need to take 3 levels in a row before you can mix and match. (EG: 3 bard, 3 figher, 1 bard again etc)<br/>\n<br/>\nI recall there was one floating around made by one of the master builders (@HipMaestro), but he has been gone for a couple of years now.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "12:06 AM - Nov 25, 2019",
+      "content": "<div>Hi all ECBers<br/>\n<br/>\nThis was an interesting idea I brewed with my morning coffee...<br/>\n<br/>\nKensai Druid (focused in Scimitar, which Druid has a proficiency in)<br/>\n<br/>\nAC boosted by his high Wisdom score, uber buffed by Owl's Insight<br/>\n<br/>\nLater on this one can turn into a Dragon!<br/>\n<br/>\nBase AB is 37 which is decent for a 'Spellsword', I have been thinking in my mind of ways to try to get that higher with no success. I wasn't willing to dump Cons any further 400hp odd is pretty important for a dedicated melee'er, and I think this chappy will be a tank with all that wisdom AC<br/>\n<br/>\nAnyway fingers crossed the druidic disables plus other goodies like Bull's Strength / Blood Frenzy etc etc can buff up the stats high enough to give em a good whack<br/>\n<br/>\nBuffs are dispellable atm, I could drop the AB by a few more points (by going a Druid 25 / WM 13 / Monk 2 split) to make em undispellable but I thought that might hurt this chaps combat prowess, also he misses out on useful bonus combat feats (ie EWF/EP/AS) which would hurt the AB even more<br/>\n<br/>\nWhy do I care about the AB if the build has polymorph? Just because I found it annoying to kill 'little dudes' later on with my first close to pure druid playthrough, I'd have to blow big spells like finger / stonehold, change to dragon shape limited to 3x/day and one has to shift back whenever one meets a doorway, or spend an eternity trying to hit em in Water Elemental form. At least with an AB of 37 I figured I might be able to use that scimitar to chop up the little dudes and save the dragon shape for the big bosses<br/>\n<br/>\nThe Uber Powergamer aiming for maximal level 40 power will probably want to go for a Druid 20 WM 19 Monk 1 split with a single monk level tumble dump at 37 but I thought that would hurt play-ability excessively during the leveling<br/>\n<br/>\nI've pumped up stealth so this robed guy can kind of play like a scout with Druid's True Sight spell<br/>\n<br/>\nHehe stealth into a mob -&gt; 'suddenly a dragon with 8 APR (with flurry &amp; haste)\u00a0 and DR 40/+6 / 60-70AC / 900 odd HP / Evasion just appears!'<br/>\n<br/>\nNo UMD and a bit feat starved. Improved Knockdown, Zen Archery or Toughness would have been nice.<br/>\n<details><summary>Spoiler</summary>Druid(19), Weapon Master(19), Monk(2), Human\nSTR: 14\nCON: 12\nINT: 13\n\n01: Druid(1): Expertise, Dodge\n03: Druid(3): Weapon Focus: Scimitar\n05: Druid(5)\n07: Druid(7)\n09: Druid(9): Spring Attack\n11: Druid(11)\n13: Weapon Master(1): Weapon of Choice: Scimitar\n15: Weapon Master(3): Blind Fight\n17: Weapon Master(5)\n19: Weapon Master(7)\n21: Druid(13): Improved Critical: Scimitar\n23: Druid(14)\n25: Druid(16)\n27: Weapon Master(9): Great Wisdom II, (WIS=24)\n29: Weapon Master(11)\n31: Weapon Master(13): Epic Weapon Focus: Scimitar\n33: Weapon Master(15): Great Wisdom IV, (WIS=28)\n35: Weapon Master(17)\n37: Monk(2): {Deflect Arrows}\n39: Druid(19): Dragon Shape\n\nSkillpoints: 220\nSaving Throw bonuses: Spells: +2, Fear: +2\nAB (max, naked): 37 (melee), 30 (ranged)\nSpell Casting: Druid(9)\n\n\n01: Concentration(4), Intimidate(2), Open Lock(1), Search(2), Spellcraft(1), Save(9),\u00a0\n03: Intimidate(1), Search(1), Save(16),\u00a0\n05: Intimidate(1), Search(1), Save(24),\u00a0\n07: Search(1), Save(34),\u00a0\n09: Search(1), Save(44),\u00a0\n11: Search(1), Save(54),\u00a0\n13: Discipline(16), Search(1), Save(46),\u00a0\n15: Discipline(1), Search(1), Save(50),\u00a0\n17: Discipline(1), Save(56),\u00a0\n19: Discipline(1), Save(62),\u00a0\n21: Save(71),\u00a0\n23: Save(6),\u00a0\n25: Save(18),\u00a0\n27: Discipline(5), Listen(10), Save(13),\u00a0\n29: Discipline(1), Save(19),\u00a0\n31: Discipline(1), Save(25),\u00a0\n33: Discipline(1), Save(31),\u00a0\n35: Discipline(1), Save(37),\u00a0\n37: Discipline(1), Hide(15), Move Silently(15), Tumble(15),\u00a0\n39: Spellcraft(2), Save(4),\u00a0</details></div>"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "11:56 AM - Nov 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Hi Scylon.<br/>\n<br/>\nIs this the build by Hip you're thinking of? <a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/flesh-and-bone-hotu-druid-12-monk-6-shifter-10-t2354642.html\" rel=\"noreferrer\" target=\"_blank\">Hip's Shifter</a><br/>\n<br/>\nWith a little re-jigging (taking a further level of Monk at L8 to make the 3 in a row requirement, for example) it should be do-able. Particularly given that Hip's is a L28 build rather than a L30 one - so you could also grab a further Shifter level, making the final build a Druid 12/ Shifter 11/ Monk 7.<br/>\n<br/>\nHowever, I still have no knowledge of either Shifters or Druids, so I'd wait for others to give a view first!<br/>\n<br/>\nCheers<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Mick Dagger",
+      "avatar": "10235235_1549015559.jpg",
+      "timestamp": "9:23 PM - Nov 26, 2019",
+      "content": "<div>I have to admit that I don't understand this build.<br/>\nI would much rather see a build with focus either on shifting or on being a \"Green knight\". Here I get the feeling that the distant goal of once becoming a dragon destroys the chance to become an effective Scimitar-saint.</div>",
+      "author-color": "#AA0000"
     },
     {
-      "author": "Stagmeister",
-      "avatar": "10404082_1510287071.jpg",
-      "timestamp": "12:06 PM - Nov 19, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">While I'm here - here's a link to the Shifter Guide for you.<br/>\n<br/>\n<a class=\"postlink\" href=\"https://www.tapatalk.com/groups/nwnecbguild/zelle-s-shifter-guide-version-v-revisited-t2209096.html\" rel=\"noreferrer\" target=\"_blank\">Zelle's Shifter Guide</a><i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Yunim",
-      "avatar": "10759176_1572007808.png",
-      "timestamp": "12:29 AM - Nov 20, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I believe that Shifter is a restricted class on Arelith so you might have difficulty qualifying for the class. Also there are a lot of custom changes on the server so some of the builds that are recommended to you might not work well on Arelith. It's probably best to ask on the Arelith forum for server-specific builds.<br/>\n<br/>\nRisen Lord requires Shifter 10, Construct Shape requires Shifter 10 and 27 WIS. These requirements mean that you must be at least Dru5/Shif10 which only leaves 15 levels to work with. I think you can add up to two +2 bonuses to abilities with gifts, so Construct Shape can be achieved without any Great WIS feats.<br/>\nFor Risen Lord you can either focus on DEX for AC, CON for EDR3, or WIS for AC (requires Monk). For Construct Shape your main stat will be WIS, with DEX or CON as secondary abilities.<br/>\n<br/>\nOn some servers Monk/Shifter is nerfed so that WIS does not add to AC when shifted. If that is not the case on Arelith then I would recommend something like Dru14/Shif10/Monk6 or Dru11/Shif13/Monk6 for either shape. There are a lot more class options but that depends on what you want from the build.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Scylon",
-      "avatar": "no_avatar.png",
-      "timestamp": "8:29 AM - Nov 23, 2019",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Cheers for the advise people. I'm looking into it and will play around a little.\u00a0<br/>\n<br/>\nRegarding the restriction, its not an issue. You put in an application and you will be approved or denied based basically on their whim. I have an idea for the RP in mind with the end gold being risen lord or construct.\u00a0<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "Orion",
+      "avatar": "10759084_1591431150.jpg",
+      "timestamp": "1:51 AM - Nov 27, 2019",
+      "content": "<div>Hi Mick!<br/>\nThanks for trying to understand.<br/>\nThis is my first attempt at a sword saint type build.<br/>\n<br/>\nIt is ambitious, combining Dragon Shape and Scimitar Weapon Master\u00a0<br/>\nTrying to do both does hurt its overall potential either as a Druid spellcaster or a Weapon Master<br/>\nI was hoping perhaps the sky Wisdom AC could compensate but perhaps it doesn't quite do the task.<br/>\n<br/>\nIt should be pretty simple to drop Dragon Shape to make the Scimitar-saint with a much more effective AB<br/>\nI'll see what I can come up with<br/>\n<br/>\n<strong>Edit:</strong>\u00a0Heres my second draft of the build<br/>\nMuch more Kensai without any dragon anymore<br/>\nHas a base AB of 43\u00a0<br/>\n<details><summary>Spoiler</summary>Druid(19), Weapon Master(19), Monk(2), Human\nSTR: 16 (26)\nCON: 12\nINT: 13\n\n01: Druid(1): Expertise, Dodge\n03: Druid(3): Weapon Focus: Scimitar\n05: Druid(5)\n07: Druid(7)\n09: Druid(9): Spring Attack\n11: Druid(11)\n13: Weapon Master(1): Weapon of Choice: Scimitar\n15: Weapon Master(3): Blind Fight\n17: Weapon Master(5)\n19: Weapon Master(7)\n21: Druid(13): Improved Critical: Scimitar\n23: Druid(14)\n25: Druid(16)\n27: Weapon Master(9): Great Wisdom II, (WIS=20)\n29: Weapon Master(11)\n31: Weapon Master(13): Epic Weapon Focus: Scimitar\n33: Weapon Master(15): Great Strength II, (STR=22)\n35: Weapon Master(17)\n37: Monk(2): {Deflect Arrows}\n39: Druid(19): Great Strength IV, (STR=25)\n\nSkillpoints: 220\nSaving Throw bonuses: Spells: +2, Fear: +2\nAB (max, naked): 43 (melee), 29 (ranged)\nSpell Casting: Druid(9)\n\n\n01: Concentration(4), Intimidate(2), Open Lock(1), Search(2), Spellcraft(1), Save(9),\u00a0\n03: Intimidate(1), Search(1), Save(16),\u00a0\n05: Intimidate(1), Search(1), Save(24),\u00a0\n07: Search(1), Save(34),\u00a0\n09: Search(1), Save(44),\u00a0\n11: Search(1), Save(54),\u00a0\n13: Discipline(16), Search(1), Save(46),\u00a0\n15: Discipline(1), Search(1), Save(50),\u00a0\n17: Discipline(1), Save(56),\u00a0\n19: Discipline(1), Save(62),\u00a0\n21: Save(71),\u00a0\n23: Save(6),\u00a0\n25: Save(18),\u00a0\n27: Discipline(5), Listen(10), Save(13),\u00a0\n29: Discipline(1), Save(19),\u00a0\n31: Discipline(1), Save(25),\u00a0\n33: Discipline(1), Save(31),\u00a0\n35: Discipline(1), Save(37),\u00a0\n37: Discipline(1), Hide(15), Move Silently(15), Tumble(15),\u00a0\n39: Spellcraft(2), Save(4),\u00a0</details></div>"
     }
   ]
 }

@@ -4,59 +4,36 @@
   "forum_name": "Build Request/Unfinalized Builds",
   "forum_id": "003",
   "id": "359",
-  "name": "Versatile-Sneaky-Strengthy-Armory-Leathery-Dude.. halp plz.",
-  "link": "https://www.tapatalk.com/groups/nwnecbguild/versatile-sneaky-strengthy-armory-leathery-dude-ha-t2348629.html",
-  "author": "C1QP0X",
-  "avatar": "10235261_1528181864.jpg",
-  "replies": 7,
+  "name": "Druid/Rogue (Amia)",
+  "link": "https://www.tapatalk.com/groups/nwnecbguild/druid-rogue-amia-t2349315.html",
+  "author": "VariaAvoreen",
+  "avatar": "no_avatar.png",
+  "replies": "3",
+  "views": "1.3K",
   "posts": [
     {
-      "author": "C1QP0X",
+      "author": "VariaAvoreen",
       "avatar": "no_avatar.png",
-      "timestamp": "5:45 AM - Jan 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"articleBody\">My vision is a level 20 strength-based melee character build using the classes rogue, fighter and assassin. The idea is to be versatile in the sense he can choose between plate/tower and leather as needed. I'm sure it certainly won't be the most awesome build of all time but like all builds, it will have its uses and then other times, not so much. I've played one in the past and did quite well but that wasn't basic nwn, it was on the Ravenloft server where feats are more plentiful. Anyways, have at it folks!  <br/>\n<br/>\nBtw, whatever race you guys think is best<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "WhiZard",
-      "avatar": "no_avatar.png",
-      "timestamp": "9:30 PM - Jan 19, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Best race is typically human (extra feat, extra skills).  To maximize death attack you probably should dual-wield.  If you can use full plate and have sufficient strength, there is little reason to go down to leather as this would decrease your AC with no effect on movement speed.  A good split would be fighter 4/rogue 8/assassin 8 which keeps your AB high enough for four standard main hand attacks.  Suggested feats (in no particular order) would be: blind fight, weapon focus, weapon specialization, ambidexterity, two weapon fighting, improved two weapon fighting, expertise, improved expertise, improved critical, power attack, cleave.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Empyre65",
-      "avatar": "10235276_1510287070.gif",
-      "timestamp": "1:02 AM - Jan 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Ambidexterity requires at least 15 DEX, so if you want to be STR-based, that will weaken your character. Also, having a lower DEX will lower your stealth. If you go DEX-based instead, your stealth will be better, your AC while wearing leather will be better, and Ambidexterity will come naturally without diverting points away from your primary ability (DEX), so your AB will be better, but you will do less damage and you won't be able to carry as much. You could take another approach, and go STR-based sword-and-board and forget stealth, which is my style.<br/>\n<br/>\nAlso, with only 8 levels of Assassin, and 10 being the maximum possible pre-epic, your Death Attack will not have a very good DC, which will make it hard to successfully paralyze an opponent. I would therefore recommend dropping Assassin and going with Rogue 16 / Fighter 4. This would get you 3 Rogue feats: Crippling Strike, Improved Evasion, and either Opportunist or Skill Mastery, depending on whether you plan to set traps. For 2 of the 3 feats you save by not dual-wielding, I recommend Knockdown and Improved Knockdown. Even though it means getting Weapon Spec really late, I recommend spreading Fighter levels out, like 3, 8, 13, and 19, for Discipline skill dumps.<br/>\n<br/>\nFor your weapon, you have options. With its 18-20 critical threat range, a scimitar does good damage against enemies who are vulnerable to critical hits, but enemies who are invulnerable to criticals ans sneaks are often also resistant to slashing and piercing, so  blunt weapon would be better against them. If you choose to use a blunt weapon, you still have a choice to make. A warhammer will allow you to keep your shield, but a heavy flail will do more damage. There is yet another option. You could take your last Fighter level at 18 instead of 19, and then take Weapon Focus, Improved Critical and Weapon Spec on scimitar AND take Weapon Focus and Weapon Spec (but not Improved Crit) on either warhammer or heavy flail. That way, you could switch to the right weapon for the enemy you face.<br/>\n<br/>\nIf you go with WhiZard's suggestions, you might be better off replacing Expertise and Improved Expertise with Knockdown and Improved knockdown, or splitting the difference and taking Expertise and Knockdown.<br/>\n<br/>\nIf you take Power Attack and Cleave, then get Cleave as soon as you can because that extra attack is a really big deal early on.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "C1QP0X",
-      "avatar": "no_avatar.png",
-      "timestamp": "2:58 AM - Jan 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Thanks a lot guys. You guys are really helping me \"get back in there\" I've been away from nwn forever, seems like I used to be able to hop in a character building module, start from scratch and come up with something that's both viable and making sense from a roleplaying perspective as well. I really appreciate all the help. Btw, I had a ranger/sorcerer in mind as well because I really, really like the versatility and the dual buffed panthers while exploring dungeons. Could either of you suggest a good spread for that combination as well as starting stats? I can't remember how I pulled that one off.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:16 PM - Jan 30, 2014",
+      "content": "<div>Hey guys, I'm trying to optimize a build for the Amia RP Server.   The server allows for level dumps (unlike arileth, it does not require the 3 class in a row caveat) and is capped at level 30.  Druids have seen some changes in Amia, given the full spectrum of animal stat buffs and some other minor things.<br/>\n<br/>\nThe idea is he was ran off from the druid coven for stealing from the elders or whatever and took up a life of being a bandit on the road.  <br/>\n<br/>\nAnyway, I was wanting some sort of 24/6 mix (for dispell immunity), sneak attacks, good stealth, bow attacks unless he gets caught in melee where he would shift into something more tanky for survival.   I was thinking about Zen archery but I'm not sure how to make it all work well stats wise.    Ideally my group and I are eventually going to be holding up people on the roads running a sort of protection/extortion/toll racket, so if at all possible I'd like it to be pretty pvp functional.<br/>\n<br/>\nAny help is appreciated, I'm not necessarily married to the 24/6, as I think maybe a 24 druid/4 fighter/2 rogue might be a better, if less rogueish option, but I'm deferring to the experts here!</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "8:57 PM - Jan 20, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Well, summons suck in NWN, even buffed they barely stand a chance, so I wouldn't recommend that in a million years. It would only work at low levels, and at low levels maybe a mephit with DR and regeneration is much more suited for the job.<br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "6:10 AM - Jan 31, 2014",
+      "content": "<div>With that setup, the best spread you can use is Druid 24 Monk 3 Rogue 3, 20 Druid straight pre-epic for \"optimal\" BAB. Monk adds custom attack progression to your shapes, Wisdom-based AC, Cleave and 30% movespeed with just 3 levels. With 3 Rogue levels you get Uncanny Dodge, Sneak Attack and access to UMD for an Improved Invisibility bonus to your shapes. Not to mention you'll have Owl's Insight capping your Wisdom and basically adding +6 indispellable AC to all your shapes. You also need to put all your stat points into Wisdom and trash your physical stats because when you shapeshift, all your physical stats get overridden, so whatever points you spend on Dex, Con and Str will only work while you're in Human form.<br/>\n<br/>\nTake it EZ!</div>"
     },
     {
-      "author": "Mick Dagger",
-      "avatar": "10235235_1549015559.jpg",
-      "timestamp": "11:40 AM - Jan 21, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\"><blockquote><div><strong>C1QP0X wrote:</strong> I can't remember how I pulled that one off.</div></blockquote>\nLet me suggest a self buffed druid in panther wildshape form, with a panther companion buffed with Greater magic fang, awaken, bulls strength and stoneskin. You can also add summoned and charmed animals to your pack. Of course the wildshape forms get old once you get elemental shape.<br/>\nAdding one or more levels of wizard or sorcerer to get a panther familiar slows down the druid leveling and gives a weak panther, but I must admit that 3 big black cats can look cool for RP purposes.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "author": "VariaAvoreen",
+      "avatar": "no_avatar.png",
+      "timestamp": "7:12 AM - Jan 31, 2014",
+      "content": "<div>Hey Max, thanks for the reply.<br/>\n<br/>\nOne issue with that split is that Monks on Amia have seen a few changes I failed to mention in the OP.   Most notably of which that the Monk wisdom bonus to AC is capped at monk level, and only granted at level 3.  So in the instance you've discribed here the bonus AC would be capped out at +3, which is still decent.<br/>\n<br/>\nI'd be interested on hearing some more thoughts! Thanks again.</div>"
     },
     {
       "author": "Maximillian Kane",
       "avatar": "10235244_1510287070.jpg",
-      "timestamp": "8:56 PM - Jan 21, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">I must admit that 3 big black cats look like a tasty meal for a Dragon <br/>\n<br/>\nTake it EZ!<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
-    },
-    {
-      "author": "Templar",
-      "avatar": "10235261_1528181864.jpg",
-      "timestamp": "10:51 PM - Jan 27, 2014",
-      "content": "<div class=\"content noskim\" data-tag=\"post_body_start\" itemprop=\"commentText\">Summons work well due to being another target that is not you. Also buffed they server as semi decent partners. so many servers have changed the summons that it is honestly going to be per your server at how effective they actually are.<i class=\"hide\" data-tag=\"post_body_end\"></i></div>"
+      "timestamp": "10:00 AM - Jan 31, 2014",
+      "content": "<div>Well, if being indispellable is that big a deal, it's still worth the investment. Going from 3 to 7 attacks per round is still VERY GOOD in my book, wouldn't u say? Unless they've changed that as well not to work on Druid shifted forms. You might wanna check that out before making this guy. If you don't care as much about being indispellable, you could go crazy and stop Druid at 18 levels, just enough to get Dragon Shape, and take Monk in a way that grants you a higher AC and more of the Monk goodies. If you go, say, Monk 9 Druid 18 Rogue 3, you'd be able to take some Monk levels pre-epic to ease the leveling (not that it's any hard with spells and animal companions and summons and charmed animals LOL), gain KD / IKD for free, Improved Evasion and a 90% movespeed bonus, which for a Dragon is AWESOME! You'd also have 9 Stunning Fists attempts, and since SF is modified by WISDOM (which should be your highest stat, the DC should be decent enough. It's 10 + 1/2 character level (so 15) + Wisdom modifier. And a dragon who can stun you for 3 rounds and has 2d6 Sneak Attack damage to go with his claws and bite damage is ONE SCARY MONSTER!<br/>\n<br/>\nTake it EZ!</div>"
     }
   ]
 }
