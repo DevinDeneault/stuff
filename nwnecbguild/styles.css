@@ -143,14 +143,18 @@ a {
     align-self: self-start;
     color: var(--color-neutral-400);
 
-    .replies, .views {
+    .icon {
+
+    }
+
+    .text {
       font-size: 0.75rem;
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
       color: var(--color-neutral-50);
     }
 
-    .views {
+    .text:not(:first-child) {
       margin-left: 0.4rem;
     }
   }
