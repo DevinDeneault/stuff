@@ -68,7 +68,7 @@ a {
     cursor: pointer;
   }
 
-  &:hover .title {
+  .title:hover  {
     text-decoration: underline;
   }
 }
@@ -125,7 +125,7 @@ a {
     cursor: pointer;
   }
 
-  &:hover .title {
+  .title:hover {
     text-decoration: underline;
   }
 
@@ -133,7 +133,7 @@ a {
     color: var(--color-neutral-400);
   }
 
-  .replies-line {
+  .info-line {
     display: flex;
     column-gap: 0.2rem;
     align-self: self-start;
@@ -143,10 +143,14 @@ a {
       height: 1rem;
     }
 
-    .replies {
+    .replies, .views {
       font-size: 0.75rem;
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
+    }
+
+    .views {
+      margin-left: 0.4rem;
     }
   }
 }
