@@ -301,11 +301,12 @@ a {
 
   .snapshot {
     position: absolute;
-    top: 1rem;
+    top: 0;
     right: 1rem;
     font-style: italic;
     font-weight: bold;
-    color: var(--color-neutral-800);
+    font-size: 0.6rem;
+    color: var(--color-neutral-600);
   }
 
   #breadcrumb {
