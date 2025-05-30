@@ -299,6 +299,15 @@ a {
     font-weight: 500;
   }
 
+  .snapshot {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-style: italic;
+    font-weight: bold;
+    color: var(--color-neutral-800);
+  }
+
   #breadcrumb {
     display: flex;
     justify-content: center;
