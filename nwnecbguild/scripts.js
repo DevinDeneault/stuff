@@ -105,12 +105,12 @@ function loadForum(data) {
       cloneTitle.href = `?page=${thread['category_id']}-${thread['forum_id']}-${thread['id']}`;
       cloneTitle.textContent = thread['name'];
       clone.querySelector('.avatar').style = `background-image:url('avatar/${thread['avatar']}');`;
-      const cloneUserName = clone.querySelector('.user');
+      const cloneUserName = clone.querySelector('.user-text');
       cloneUserName.textContent = thread['author'];
       if ('author-color' in thread) cloneUserName.style = `color:${thread['author-color']}`;
       clone.querySelector('.replies').textContent = thread['replies'];
       clone.querySelector('.views').textContent = thread['views'];
-      if (!thread['pinned']) clone.querySelector('.pinned').remove();
+      if (!thread['pinned']) clone.querySelector('.pinned-icon').remove();
       content.appendChild(clone);
     });
 
@@ -135,7 +135,7 @@ function loadThread(data) {
       const cloneUserName = clone.querySelector('.user');
       cloneUserName.textContent = post['author'];
       if ('author-color' in post) cloneUserName.style = `color:${post['author-color']}`;
-      clone.querySelector('.timestamp').textContent = post['timestamp'];
+      clone.querySelector('.timestamp-text').textContent = post['timestamp'];
       clone.querySelector('.post-content').innerHTML = post['content'];
       content.appendChild(clone);
     });

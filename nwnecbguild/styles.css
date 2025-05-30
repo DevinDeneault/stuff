@@ -130,10 +130,10 @@ a {
     text-decoration: underline;
   }
 
-  .user-line {
+  .user {
     color: var(--color-neutral-400);
 
-    .user {
+    .user-text {
       color: var(--color-neutral-50);
     }
   }
@@ -144,7 +144,7 @@ a {
     align-self: self-start;
     color: var(--color-neutral-400);
 
-    .bubble {
+    .replies, .views {
       display: flex;
       align-items: center;
       column-gap: 0.2rem;
@@ -152,13 +152,13 @@ a {
       background-color: var(--color-neutral-600);
     }
 
-    .replies, .views {
+    .replies-text, .views-text {
       font-size: 0.75rem;
       color: var(--color-neutral-50);
     }
   }
 
-  .pinned {
+  .pinned-icon {
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
@@ -243,8 +243,12 @@ a {
         height: 0.9rem;
       }
 
-      .timestamp {
+      .timestamp-text {
         font-size: 0.8rem;
+      }
+
+      .timestamp-icon {
+        opacity: 50%;
       }
     }
 
