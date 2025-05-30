@@ -108,8 +108,8 @@ function loadForum(data) {
       const cloneUserName = clone.querySelector('.user-text');
       cloneUserName.textContent = thread['author'];
       if ('author-color' in thread) cloneUserName.style = `color:${thread['author-color']}`;
-      clone.querySelector('.replies').textContent = thread['replies'];
-      clone.querySelector('.views').textContent = thread['views'];
+      clone.querySelector('.replies-text').textContent = thread['replies'];
+      clone.querySelector('.views-text').textContent = thread['views'];
       if (!thread['pinned']) clone.querySelector('.pinned-icon').remove();
       content.appendChild(clone);
     });
