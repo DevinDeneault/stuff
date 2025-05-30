@@ -162,7 +162,7 @@ a {
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    filter: saturate(0);
+    filter: saturate(0.1);
   }
 }
 
