@@ -156,6 +156,10 @@ a {
       font-size: 0.75rem;
       color: var(--color-neutral-50);
     }
+
+    .replies-icon, .views-icon {
+      opacity: 70%;
+    }
   }
 
   .pinned-icon {
