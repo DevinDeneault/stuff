@@ -110,7 +110,7 @@ function loadForum(data) {
       if ('author-color' in thread) cloneUserName.style = `color:${thread['author-color']}`;
       clone.querySelector('.replies').textContent = thread['replies'];
       clone.querySelector('.views').textContent = thread['views'];
-      if (!thread['pinned']) clone.querySelector('.pinned')?.removed();
+      if (!thread['pinned']) clone.querySelector('.pinned').remove();
       content.appendChild(clone);
     });
 
