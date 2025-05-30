@@ -183,6 +183,8 @@ a {
   width: var(--content-width);
   max-width: var(--content-max-width);
   display: flex;
+  background-color: var(--color-neutral-800);
+  border-radius: 0 0.5rem 0.5rem 0;
 
   .user-pane {
     position: relative;
