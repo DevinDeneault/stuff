@@ -1536,5 +1536,6 @@
       "author-color": "#00AA00"
     }
   ],
-  "author-color": "#AA0000"
+  "author-color": "#AA0000",
+  "pinned": true
 }
