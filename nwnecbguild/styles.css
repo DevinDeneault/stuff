@@ -146,14 +146,12 @@ a {
     .bubble {
       display: flex;
       align-items: center;
+      column-gap: 0.2rem;
       padding: 0.1rem 0.2rem 0.1rem 0.2rem;
       background-color: var(--color-neutral-600);
     }
 
-    .icon {
-    }
-
-    .text {
+    .replies, .views {
       font-size: 0.75rem;
       color: var(--color-neutral-50);
     }
